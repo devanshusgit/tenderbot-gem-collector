@@ -28,8 +28,9 @@ def read(path, default):
     return json.loads(path.read_text(encoding='utf-8')) if path.exists() else default
 
 
-def publish_index(folder, state):
-    records = [read(path,{}) for path in sorted((folder/'records').glob('gem-*.json'))]
+def publish_index(folder, state, records=None):
+    if records is None:
+        records = [read(path,{}) for path in sorted((folder/'records').glob('gem-*.json'))]
     rows = [[record.get(key) for key in FIELDS] for record in records]
     parsed = sum(bool(r.get('source_document_fetched_at')) for r in records)
     receipt = max((r['source_fetched_at'] for r in records),default=None)

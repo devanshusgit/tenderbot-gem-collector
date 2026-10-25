@@ -1,0 +1,43 @@
+name: Collect public GeM tenders
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17,47 * * * *'
+permissions:
+  contents: write
+concurrency:
+  group: gem-collection
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: app
+      - uses: actions/checkout@v4
+        with:
+          ref: data
+          path: data
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install browser and PDF reader
+        run: |
+          pip install playwright==1.64.1 pdfplumber==0.11.9
+          python -m playwright install --with-deps chromium
+      - name: Collect real public bids
+        working-directory: app
+        run: python collector.py --data-dir ../data --seconds 600
+      - name: Publish checkpoint and dataset
+        if: always()
+        working-directory: data
+        run: |
+          git config user.name 'TenderBot collector'
+          git config user.email 'tenderbot@users.noreply.github.com'
+          git add records index.json collector.json state.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh verified public GeM collection'
+            git push origin HEAD:data
+          fi

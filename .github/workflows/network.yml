@@ -1,0 +1,20 @@
+name: Public GeM HTTPS diagnostic
+on: workflow_dispatch
+permissions:
+  contents: read
+jobs:
+  network:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - name: Check public HTTPS source once
+        shell: python
+        run: |
+          import urllib.request, json
+          try:
+              with urllib.request.urlopen('https://bidplus.gem.gov.in/all-bids',timeout=25) as r:
+                  body=r.read(100000)
+                  print(json.dumps({'status':r.status,'bytes':len(body),'has_public_form':b'csrf_bd_gem_nk' in body}))
+          except Exception as e:
+              print(json.dumps({'error':str(e)}))
+              raise

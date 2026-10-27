@@ -12,13 +12,17 @@ import tempfile
 import time
 import urllib.request
 
-from tenderbot_crawler.gem import GemPortal, PortalChallengeError
+from tenderbot_crawler.gem import GemPortal, PortalChallengeError, PortalError
 from tenderbot_crawler.documents import parse_pdf
-from tenderbot_crawler.storage import atomic_json, validate_record
+from tenderbot_crawler.storage import atomic_json, timestamp, validate_record
 
 FIELDS = ['id','tender_id','title','organisation','ministry','department','quantity',
           'closing_at','published_at','source_fetched_at','source_document_url',
           'product_category','status','state','city']
+DOCUMENT_RETRY_DELAYS = (3600, 21600)
+MAX_DOCUMENT_ATTEMPTS = len(DOCUMENT_RETRY_DELAYS) + 1
+NEWEST_BUDGET_FRACTION = 0.35
+NEWEST_OVERLAP = dt.timedelta(hours=1)
 
 
 def stamp():
@@ -39,6 +43,8 @@ def publish_index(folder, state, records=None):
         'records':len(records),'documents':parsed,'pending_documents':len(records)-parsed,
         'fetched_at':receipt,'last_run_at':state.get('last_run_at'),
         'full_sweep_complete':bool(state.get('complete')),
+        'exact_coverage_verified':False,
+        'coverage_note':'A traversal of the moving ongoing feed does not verify exact unique coverage.',
         'pages_collected':state.get('page',0),'errors':1 if state.get('error') else 0,
         'document_storage':'Original PDFs remain on official GeM; parsed evidence is retained.'}
     atomic_json(folder/'index.json',{'fields':FIELDS,'rows':rows,'fetched_at':receipt})
@@ -53,61 +59,167 @@ def save_listing(folder, record):
     previous = read(path,{})
     # Raw index payload is retained in the local archive, not the public dataset.
     current = {key:value for key,value in record.items() if key!='source_data'}
-    merged = {**previous,**current}
+    if previous.get('source_fetched_at') and timestamp(previous['source_fetched_at']) > timestamp(current['source_fetched_at']):
+        return
+    same_document = (previous.get('tender_id') == current['tender_id'] and
+                     previous.get('source_document_url') == current['source_document_url'])
+    # Evidence and exhausted retries belong to a particular bid/document URL.
+    # A changed source must be processed anew, without inheriting old details.
+    merged = {**previous,**current} if same_document else current
     # A newly fetched listing does not erase already parsed PDF requirements.
     for key in ('emd_fee','tender_value','organisation','ministry','department'):
-        if current.get(key) is None and previous.get(key) is not None:
+        if same_document and current.get(key) is None and previous.get(key) is not None:
             merged[key] = previous[key]
+    if same_document and previous.get('source_document_fetched_at'):
+        for key in ('state','city'):
+            if not current.get(key) and previous.get(key):
+                merged[key] = previous[key]
     atomic_json(path,merged)
+
+
+def document_due(record, now):
+    if record.get('source_document_fetched_at'):
+        return False
+    retry = record.get('document_retry',{})
+    if retry.get('attempts',0) >= MAX_DOCUMENT_ATTEMPTS:
+        return False
+    return not retry.get('next_attempt_at') or timestamp(retry['next_attempt_at']) <= now
+
+
+async def process_documents(folder, portal, records, seconds):
+    started = time.monotonic()
+    # Try untouched documents before retrying failed ones. Backoff and the cap
+    # survive job restarts, so one unreadable notice cannot consume every run.
+    queue = sorted(records,key=lambda record:(record.get('document_retry',{}).get('attempts',0),record['id']))
+    for record in queue:
+        if time.monotonic()-started >= seconds:
+            break
+        if not document_due(record,dt.datetime.now(dt.timezone.utc)):
+            continue
+        try:
+            content = await portal.download(record['source_document_url'])
+            with tempfile.TemporaryDirectory() as temporary:
+                path = Path(temporary)/'original.pdf'
+                path.write_bytes(content)
+                details = await asyncio.to_thread(parse_pdf,path,record,stamp())
+            protected = {key:record.get(key) for key in
+                ('id','tender_id','title','description','quantity','status','published_at','closing_at','source_fetched_at')}
+            merged = {**record,**{k:v for k,v in details.items() if v is not None},**protected}
+            merged.pop('document_retry',None)
+            atomic_json(folder/'records'/(record['id']+'.json'),merged)
+        except PortalChallengeError:
+            raise
+        except Exception as error:
+            failed_at = dt.datetime.now(dt.timezone.utc)
+            attempts = record.get('document_retry',{}).get('attempts',0)+1
+            exhausted = attempts >= MAX_DOCUMENT_ATTEMPTS
+            retry = {'attempts':attempts,'last_attempt_at':failed_at.isoformat(),
+                'error':type(error).__name__,'status':'exhausted' if exhausted else 'retry',
+                'next_attempt_at':None if exhausted else
+                    (failed_at+dt.timedelta(seconds=DOCUMENT_RETRY_DELAYS[attempts-1])).isoformat()}
+            atomic_json(folder/'records'/(record['id']+'.json'),{**record,'document_retry':retry})
+            # Unreadable or non-PDF notices stay explicit, never invented.
+            print(json.dumps({'id':record['id'],'pdf_error':type(error).__name__,
+                'document_attempts':attempts,'document_retry_status':retry['status']}),flush=True)
+
+
+def newest_cutoff(state, previous_status):
+    watermark = state.get('newest_refresh_watermark')
+    if not watermark and state.get('newest_refresh_complete') is False and 'newest_refresh_cutoff' in state:
+        # A partial run must not move its cutoff forward using its own receipt.
+        return timestamp(state['newest_refresh_cutoff']) if state['newest_refresh_cutoff'] else None
+    watermark = (watermark or state.get('source_fetched_at') or state.get('fetched_at') or
+                 previous_status.get('fetched_at') or state.get('last_success_at'))
+    return timestamp(watermark)-NEWEST_OVERLAP if watermark else None
+
+
+def checked_page(result, state):
+    # search() already verified the anonymous form, HTTP response and schema.
+    state.update(source_checked_at=stamp(),
+        source_health={'status':'reachable','stage':'http','http_status':200})
+    if not result['tenders'] and result['has_more']:
+        raise PortalError('GeM returned an empty page before the reported end of the feed; checkpoint retained.')
+    return result['tenders']
+
+
+async def refresh_newest(folder, portal, state, seconds, cutoff):
+    resuming = state.get('newest_refresh_complete') is False and state.get('newest_refresh_started_at')
+    started_at = state['newest_refresh_started_at'] if resuming else stamp()
+    # Replay the last page on resume to overlap a moving page boundary. Keep
+    # the original pass watermark; bids arriving during this pass are covered
+    # by the following pass instead of falsely advancing to its finish time.
+    page = max(1,state.get('newest_refresh_pages',0)) if resuming else 1
+    run_pages = 0
+    deadline = time.monotonic()+seconds
+    state.update(newest_refresh_complete=False,
+        newest_refresh_pages=state.get('newest_refresh_pages',0) if resuming else 0,
+        newest_refresh_run_pages=0,newest_refresh_run_started_at=stamp(),
+        newest_refresh_cutoff=cutoff.isoformat() if cutoff else None,
+        newest_refresh_started_at=started_at,newest_refresh_stop_reason='budget')
+    atomic_json(folder/'state.json',state)
+    try:
+        # On resume one replay plus one new page guarantees cursor progress.
+        # The normal job budget is ample; only a slow request may cross it.
+        while time.monotonic() < deadline or (resuming and run_pages < 2):
+            result = await portal.search(page=page,sort='Bid-Start-Date-Latest')
+            records = checked_page(result,state)
+            for record in records:
+                save_listing(folder,record)
+            # Unknown publication dates cannot establish that the cutoff was
+            # reached. The source's newest sort orders the remaining pages.
+            publication_dates = [record.get('published_at') for record in records]
+            crossed_cutoff = bool(cutoff and records and all(publication_dates) and
+                all(timestamp(value) <= cutoff for value in publication_dates))
+            complete = not result['has_more'] or crossed_cutoff
+            run_pages += 1
+            state.update(newest_refresh_pages=page,newest_refresh_source_total=result['total'],
+                newest_refresh_run_pages=run_pages,newest_refresh_complete=complete)
+            if complete:
+                state.update(newest_refresh_watermark=started_at,
+                    newest_refresh_last_complete_at=stamp(),
+                    newest_refresh_stop_reason='cutoff' if crossed_cutoff else 'end_of_feed')
+            atomic_json(folder/'state.json',state)
+            if complete:
+                break
+            page += 1
+    except Exception:
+        state['newest_refresh_stop_reason'] = 'error'
+        raise
+    finally:
+        state['newest_refresh_finished_at'] = stamp()
+        atomic_json(folder/'state.json',state)
 
 
 async def collect(folder, seconds=600, pdf_seconds=100):
     folder.mkdir(parents=True,exist_ok=True)
     (folder/'records').mkdir(exist_ok=True)
     state = read(folder/'state.json',{})
+    cutoff = newest_cutoff(state,read(folder/'collector.json',{}))
     state.update(status='running',last_run_at=stamp(),error=None)
     started = time.monotonic()
     try:
         async with GemPortal(browser_channel='chromium',delay=1) as portal:
-            for page in range(1,4):
-                result = await portal.search(page=page,sort='Bid-Start-Date-Latest')
-                for record in result['tenders']:
-                    save_listing(folder,record)
+            await refresh_newest(folder,portal,state,seconds*NEWEST_BUDGET_FRACTION,cutoff)
             page = 1 if state.get('complete') else state.get('page',0)+1
-            while time.monotonic()-started < seconds:
+            full_pages = 0
+            # Reserve a full-feed attempt even if a slow newest request crosses
+            # its budget. Ordinary refresh work cannot starve the sweep cursor.
+            while full_pages == 0 or time.monotonic()-started < seconds:
                 result = await portal.search(page=page)
-                for record in result['tenders']:
+                for record in checked_page(result,state):
                     save_listing(folder,record)
-                complete = not result['has_more'] or not result['tenders']
+                complete = not result['has_more']
                 state.update(page=page,source_total=result['total'],complete=complete)
+                full_pages += 1
                 atomic_json(folder/'state.json',state)
                 print(json.dumps({'page':page,'source_total':result['total']}),flush=True)
                 if complete:
                     break
                 page += 1
             records = publish_index(folder,state)
-            pdf_start = time.monotonic()
-            for record in records:
-                if time.monotonic()-pdf_start >= pdf_seconds:
-                    break
-                if record.get('source_document_fetched_at'):
-                    continue
-                try:
-                    content = await portal.download(record['source_document_url'])
-                    with tempfile.TemporaryDirectory() as temporary:
-                        path = Path(temporary)/'original.pdf'
-                        path.write_bytes(content)
-                        details = await asyncio.to_thread(parse_pdf,path,record,stamp())
-                    protected = {key:record.get(key) for key in
-                        ('id','tender_id','title','description','quantity','status','published_at','closing_at','source_fetched_at')}
-                    merged = {**record,**{k:v for k,v in details.items() if v is not None},**protected}
-                    atomic_json(folder/'records'/(record['id']+'.json'),merged)
-                except PortalChallengeError:
-                    raise
-                except Exception as error:
-                    # Unreadable or non-PDF notices stay explicit, never invented.
-                    print(json.dumps({'id':record['id'],'pdf_error':type(error).__name__}),flush=True)
+            await process_documents(folder,portal,records,pdf_seconds)
             state.update(status='succeeded',last_success_at=stamp())
+            state.pop('error_message',None)
     except PortalChallengeError:
         state.update(status='blocked',error='GeM requires human access verification')
     except Exception as error:

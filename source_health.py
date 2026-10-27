@@ -87,11 +87,18 @@ def main():
                       'proxy_protocols': sorted(urllib.request.getproxies())}), flush=True)
     result = check_source()
     print(json.dumps({'source_health': result}), flush=True)
-    if result['status'] != 'reachable':
+    # A plain HTTP check may receive a server error even when a browser can
+    # load the form. Only transport failures or explicit access restrictions
+    # stop browser setup; the collector still validates the actual session.
+    if not may_attempt_browser(result):
         if args.data_dir:
             record_failure(args.data_dir, result)
         return 1
     return 0
+
+
+def may_attempt_browser(result):
+    return result['stage'] == 'http' and result['status'] != 'blocked'
 
 
 if __name__ == '__main__':

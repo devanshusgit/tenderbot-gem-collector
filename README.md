@@ -1,7 +1,13 @@
 # TenderBot public GeM collector
 
-Collects real public ongoing GeM bids using an anonymous Playwright session. Standard GitHub-hosted Linux Actions run every30minutes (best-effort scheduling). Data and checkpoints live on the data branch; no Actions artifacts, caches, larger runners or external paid resources are used.
+Collects real public ongoing GeM bids with Python Playwright. Standard public GitHub-hosted Ubuntu Actions are scheduled at17 and47 minutes each hour; GitHub may delay runs. Jobs and data publication continue independently of the user's computer. No paid runners, artifacts, caches or external paid resources are used.
 
-Only collector code and public-source records are published. The TenderBot website remains private. No keys or user credentials are required by this workflow. Original PDFs remain linked to GeM; extracted original-PDF evidence is stored as it is processed. Missing fields stay unknown. Full-feed traversal and PDF extraction are separate resumable tasks. Source access challenges stop collection.
+The data branch stores records, parsed original-PDF evidence and resumable checkpoints. The private website reads updated data directly. Original PDF binaries remain on official GeM; temporary downloads are discarded after parsing. No user credentials are needed by this collector. Fields not obtained from the source remain unknown.
 
-The records are collected observations, not official GeM advice or a guarantee of full current coverage. Record timestamps and full-sweep status are provided. The dataset is not an awards feed. Scheduled workflows can be delayed or disabled by GitHub; monitor their run status.
+A bounded official HTTPS check runs before browser installation. Connection failures preserve records, source dates and checkpoints and publish source_health diagnostics. An HTTP server error may still proceed to browser validation; access challenges stop collection. Do not bypass protections, rotate IPs or fabricate successful refreshes.
+
+Recent-bid refreshes use a one-hour overlap and resumable cursor instead of a30-record cap. Each healthy run also advances the full ongoing-feed sweep and a bounded PDF queue. Failed PDFs have backoff and an attempt limit to prevent starvation. Existing parsed locations survive listing-only refreshes for the same document.
+
+Traversal and exact current coverage are different: the source changes while pages are read. See collector.json for actual success/failure, source timestamps, checkpoints and pending documents. No complete coverage or award/gated-data feed is claimed. At the latest verification the imported dataset contained18,236 records, while GitHub requests to the official source were refused at the TCP connection stage.
+
+Offline checks: python -m unittest test_collector test_source_health (requires the pinned PDF reader dependency used by the workflow).

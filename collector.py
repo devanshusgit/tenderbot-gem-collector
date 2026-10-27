@@ -10,6 +10,7 @@ import json
 from pathlib import Path
 import tempfile
 import time
+import urllib.request
 
 from tenderbot_crawler.gem import GemPortal, PortalChallengeError
 from tenderbot_crawler.documents import parse_pdf
@@ -113,6 +114,17 @@ async def collect(folder, seconds=600, pdf_seconds=100):
         state.update(status='failed',error=type(error).__name__,error_message=str(error)[:250])
         print(json.dumps({'error':type(error).__name__,'message':str(error)[:250],
             'cause':str(error.__cause__)[:350] if error.__cause__ else None}),flush=True)
+        # A single read-only transport check distinguishes browser failure from
+        # source reachability. It never solves or bypasses access challenges.
+        try:
+            def probe():
+                request=urllib.request.Request('https://bidplus.gem.gov.in/all-bids',method='HEAD')
+                with urllib.request.urlopen(request,timeout=15) as response:
+                    return response.status
+            status=await asyncio.to_thread(probe)
+            print(json.dumps({'public_https_probe_status':status}),flush=True)
+        except Exception as probe_error:
+            print(json.dumps({'public_https_probe_error':str(probe_error)[:250]}),flush=True)
     finally:
         publish_index(folder,state)
     return 0 if state['status']=='succeeded' else 1

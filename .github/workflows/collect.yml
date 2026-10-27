@@ -32,6 +32,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Check official public source before browser installation
+        working-directory: app
+        run: python source_health.py --data-dir ../data
       - name: Install browser and PDF reader
         run: |
           pip install playwright==1.64.1 pdfplumber==0.11.9

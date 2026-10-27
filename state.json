@@ -4,7 +4,14 @@
   "status": "failed",
   "source_total": null,
   "note": "Imported actual source observations; cloud traversal starts from page1 for conservative coverage.",
-  "last_run_at": "2026-10-27T09:07:56.278969+00:00",
-  "error": "PortalError",
-  "error_message": "GeM public listing navigation failed after three attempts."
+  "last_run_at": "2026-10-27T09:47:37.900843+00:00",
+  "error": "GeMSourceUnavailable",
+  "error_message": "Public GeM source unavailable at connect stage",
+  "source_checked_at": "2026-10-27T09:47:37.900843+00:00",
+  "source_health": {
+    "status": "unavailable",
+    "stage": "connect",
+    "error": "ConnectionRefusedError",
+    "errno": 111
+  }
 }

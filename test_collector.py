@@ -1,6 +1,7 @@
 """Offline checks for persisted cloud collection and bounded PDF retries."""
 import copy
 import datetime as dt
+import os
 from pathlib import Path
 import tempfile
 import unittest
@@ -39,9 +40,13 @@ class GithubCollectorTests(unittest.IsolatedAsyncioTestCase):
         Clock.current = dt.datetime(2026,10,27,10,tzinfo=dt.timezone.utc)
         self.clock_patch = mock.patch.object(collector.dt,'datetime',Clock)
         self.clock_patch.start()
+        self.environment_patch = mock.patch.dict(os.environ,
+            {'GEM_CLOUDFLARE_SOURCE_URL':'','TENDERBOT_SITE_SERVICE_TOKEN':''})
+        self.environment_patch.start()
 
     def tearDown(self):
         self.clock_patch.stop()
+        self.environment_patch.stop()
         self.temporary.cleanup()
 
     def saved(self,record=RECORD):
@@ -58,6 +63,32 @@ class GithubCollectorTests(unittest.IsolatedAsyncioTestCase):
         portal.__aexit__ = mock.AsyncMock(return_value=False)
         portal.search = mock.AsyncMock(side_effect=search)
         return portal
+
+    async def test_configured_remote_failure_never_uses_browser_or_direct_gem_probe(self):
+        environment = {'GEM_CLOUDFLARE_SOURCE_URL':'https://tenderbot.example.chatgpt.site/api/cloud-source',
+            'TENDERBOT_SITE_SERVICE_TOKEN':'offline-site-secret'}
+        with mock.patch.dict(os.environ,environment), \
+                mock.patch.object(collector,'RemotePortal',side_effect=PortalError('Remote source unavailable')), \
+                mock.patch.object(collector,'GemPortal') as browser, \
+                mock.patch.object(collector.urllib.request,'urlopen') as direct_source:
+            self.assertEqual(await collector.collect(self.folder,seconds=1,pdf_seconds=0),1)
+        browser.assert_not_called()
+        direct_source.assert_not_called()
+        self.assertEqual(collector.read(self.folder/'state.json',{})['source_runtime'],'cloudflare-workers')
+
+    async def test_remote_collect_keeps_github_as_orchestrator_and_cloudflare_as_source(self):
+        portal = self.portal(lambda **kwargs:{'tenders':[],'total':0,'has_more':False})
+        environment = {'GEM_CLOUDFLARE_SOURCE_URL':'https://tenderbot.example.chatgpt.site/api/cloud-source',
+            'TENDERBOT_SITE_SERVICE_TOKEN':'offline-site-secret'}
+        with mock.patch.dict(os.environ,environment), \
+                mock.patch.object(collector,'RemotePortal',return_value=portal) as remote, \
+                mock.patch.object(collector,'GemPortal') as browser:
+            self.assertEqual(await collector.collect(self.folder,seconds=1,pdf_seconds=0),0)
+        browser.assert_not_called()
+        remote.assert_called_once_with(delay=1)
+        status = collector.read(self.folder/'collector.json',{})
+        self.assertEqual(status['runtime'],'github-actions')
+        self.assertEqual(status['source_runtime'],'cloudflare-workers')
 
     def test_first_refresh_uses_ingestion_cutoff_and_partial_run_keeps_it(self):
         receipt = '2026-10-25T19:30:00+00:00'

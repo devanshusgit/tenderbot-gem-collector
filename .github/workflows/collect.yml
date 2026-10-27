@@ -3,12 +3,16 @@ on:
   workflow_dispatch:
     inputs:
       seconds:
-        description: Listing collection seconds for this run
+        description: Listing collection seconds per batch
         default: '600'
         required: false
       pdf_seconds:
-        description: PDF processing seconds for this run
+        description: PDF processing seconds per batch
         default: '100'
+        required: false
+      batches:
+        description: Bounded collection batches (1 to 24)
+        default: '1'
         required: false
   schedule:
     - cron: '17,47 * * * *'
@@ -20,36 +24,86 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 360
+    env:
+      GEM_CLOUDFLARE_SOURCE_URL: ${{ vars.GEM_CLOUDFLARE_SOURCE_URL }}
+      TENDERBOT_SITE_SERVICE_TOKEN: ${{ secrets.TENDERBOT_SITE_SERVICE_TOKEN }}
+      COLLECT_SECONDS: ${{ inputs.seconds || '600' }}
+      PDF_SECONDS: ${{ inputs.pdf_seconds || '100' }}
+      BATCH_COUNT: ${{ inputs.batches || '1' }}
     steps:
       - uses: actions/checkout@v4
         with:
           path: app
       - uses: actions/checkout@v4
+        id: data_checkout
         with:
           ref: data
           path: data
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Validate bounded collection inputs
+        shell: python
+        run: |
+          import os, re
+          for name, lower, upper in [('COLLECT_SECONDS',1,900),('PDF_SECONDS',0,180),('BATCH_COUNT',1,24)]:
+              value = os.environ[name]
+              if not re.fullmatch(r'[0-9]+',value) or not lower <= int(value) <= upper:
+                  raise SystemExit(name+' is outside the allowed collection bounds')
       - name: Check official public source before browser installation
+        if: env.GEM_CLOUDFLARE_SOURCE_URL == ''
         working-directory: app
         run: python source_health.py --data-dir ../data
       - name: Install collector dependencies
-        run: pip install playwright==1.64.1 pdfplumber==0.11.9
+        run: |
+          pip install pdfplumber==0.11.9
+          if [ -z "$GEM_CLOUDFLARE_SOURCE_URL" ]; then
+            pip install playwright==1.64.1
+          fi
       - name: Check collector contracts
         working-directory: app
-        run: python -m unittest test_collector test_source_health
+        env:
+          GEM_CLOUDFLARE_SOURCE_URL: ''
+          TENDERBOT_SITE_SERVICE_TOKEN: ''
+        run: python -m unittest test_collector test_source_health test_remote_portal
       - name: Install browser
+        if: env.GEM_CLOUDFLARE_SOURCE_URL == ''
         run: python -m playwright install --with-deps chromium
       - name: Collect real public bids
         working-directory: app
-        env:
-          COLLECT_SECONDS: ${{ inputs.seconds || '600' }}
-          PDF_SECONDS: ${{ inputs.pdf_seconds || '100' }}
-        run: python collector.py --data-dir ../data --seconds "$COLLECT_SECONDS" --pdf-seconds "$PDF_SECONDS"
+        run: |
+          publish_checkpoint() {
+            git -C ../data config user.name 'TenderBot collector'
+            git -C ../data config user.email 'tenderbot@users.noreply.github.com'
+            git -C ../data add records index.json collector.json state.json
+            if ! git -C ../data diff --cached --quiet; then
+              git -C ../data commit -m 'Refresh verified public GeM collection'
+              git -C ../data push origin HEAD:data
+            fi
+          }
+          batch_limit=$((10#$BATCH_COUNT))
+          for ((batch=1; batch<=batch_limit; batch++)); do
+            echo "Collection batch $batch of $batch_limit"
+            result=0
+            python collector.py --data-dir ../data --seconds "$COLLECT_SECONDS" --pdf-seconds "$PDF_SECONDS" || result=$?
+            publish_checkpoint
+            if [ "$result" -ne 0 ]; then
+              exit "$result"
+            fi
+            if python - <<'PY'
+          import json
+          from pathlib import Path
+          state = json.loads(Path('../data/state.json').read_text(encoding='utf-8'))
+          raise SystemExit(0 if state.get('complete') is True and state.get('newest_refresh_complete') is True else 1)
+          PY
+            then
+              echo 'The full-feed and newest passes have traversed their source pages; see coverage diagnostics.'
+              break
+            fi
+          done
       - name: Publish checkpoint and dataset
-        if: always()
+        if: always() && steps.data_checkout.outcome == 'success'
         working-directory: data
         run: |
           git config user.name 'TenderBot collector'

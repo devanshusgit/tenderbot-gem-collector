@@ -15,6 +15,10 @@ import urllib.request
 from tenderbot_crawler.gem import GemPortal, PortalChallengeError, PortalError
 from tenderbot_crawler.documents import parse_pdf
 from tenderbot_crawler.storage import atomic_json, timestamp, validate_record
+if __package__:
+    from .remote_portal import RemotePortal, configured as remote_configured
+else:
+    from remote_portal import RemotePortal, configured as remote_configured
 
 FIELDS = ['id','tender_id','title','organisation','ministry','department','quantity',
           'closing_at','published_at','source_fetched_at','source_document_url',
@@ -195,10 +199,13 @@ async def collect(folder, seconds=600, pdf_seconds=100):
     (folder/'records').mkdir(exist_ok=True)
     state = read(folder/'state.json',{})
     cutoff = newest_cutoff(state,read(folder/'collector.json',{}))
-    state.update(status='running',last_run_at=stamp(),error=None)
+    remote = remote_configured()
+    state.update(status='running',last_run_at=stamp(),error=None,
+        source_runtime='cloudflare-workers' if remote else 'github-actions-playwright')
     started = time.monotonic()
     try:
-        async with GemPortal(browser_channel='chromium',delay=1) as portal:
+        source = RemotePortal(delay=1) if remote else GemPortal(browser_channel='chromium',delay=1)
+        async with source as portal:
             await refresh_newest(folder,portal,state,seconds*NEWEST_BUDGET_FRACTION,cutoff)
             page = 1 if state.get('complete') else state.get('page',0)+1
             full_pages = 0
@@ -228,15 +235,18 @@ async def collect(folder, seconds=600, pdf_seconds=100):
             'cause':str(error.__cause__)[:350] if error.__cause__ else None}),flush=True)
         # A single read-only transport check distinguishes browser failure from
         # source reachability. It never solves or bypasses access challenges.
-        try:
-            def probe():
-                request=urllib.request.Request('https://bidplus.gem.gov.in/all-bids',method='HEAD')
-                with urllib.request.urlopen(request,timeout=15) as response:
-                    return response.status
-            status=await asyncio.to_thread(probe)
-            print(json.dumps({'public_https_probe_status':status}),flush=True)
-        except Exception as probe_error:
-            print(json.dumps({'public_https_probe_error':str(probe_error)[:250]}),flush=True)
+        if not remote:
+            # A configured private source failure never falls back to a direct
+            # GeM request. The legacy browser path retains its diagnostic.
+            try:
+                def probe():
+                    request=urllib.request.Request('https://bidplus.gem.gov.in/all-bids',method='HEAD')
+                    with urllib.request.urlopen(request,timeout=15) as response:
+                        return response.status
+                status=await asyncio.to_thread(probe)
+                print(json.dumps({'public_https_probe_status':status}),flush=True)
+            except Exception as probe_error:
+                print(json.dumps({'public_https_probe_error':str(probe_error)[:250]}),flush=True)
     finally:
         publish_index(folder,state)
     return 0 if state['status']=='succeeded' else 1

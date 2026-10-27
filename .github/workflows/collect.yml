@@ -1,6 +1,15 @@
 name: Collect public GeM tenders
 on:
   workflow_dispatch:
+    inputs:
+      seconds:
+        description: Listing collection seconds for this run
+        default: '600'
+        required: false
+      pdf_seconds:
+        description: PDF processing seconds for this run
+        default: '100'
+        required: false
   schedule:
     - cron: '17,47 * * * *'
 permissions:
@@ -29,7 +38,10 @@ jobs:
           python -m playwright install --with-deps chromium
       - name: Collect real public bids
         working-directory: app
-        run: python collector.py --data-dir ../data --seconds 600
+        env:
+          COLLECT_SECONDS: ${{ inputs.seconds || '600' }}
+          PDF_SECONDS: ${{ inputs.pdf_seconds || '100' }}
+        run: python collector.py --data-dir ../data --seconds "$COLLECT_SECONDS" --pdf-seconds "$PDF_SECONDS"
       - name: Publish checkpoint and dataset
         if: always()
         working-directory: data

@@ -120,5 +120,8 @@ if __name__=='__main__':
     args = argparse.ArgumentParser()
     args.add_argument('--data-dir',type=Path,required=True)
     args.add_argument('--seconds',type=int,default=600)
+    args.add_argument('--pdf-seconds',type=int,default=100)
     config=args.parse_args()
-    raise SystemExit(asyncio.run(collect(config.data_dir,config.seconds)))
+    if not 1<=config.seconds<=900 or not 0<=config.pdf_seconds<=180:
+        args.error('Collection limits must fit within one free scheduled job')
+    raise SystemExit(asyncio.run(collect(config.data_dir,config.seconds,config.pdf_seconds)))

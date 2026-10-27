@@ -1,9 +1,11 @@
 {
   "page": 0,
   "complete": false,
-  "status": "seeded",
+  "status": "failed",
   "source_total": null,
   "note": "Imported actual source observations; cloud traversal starts from page1 for conservative coverage.",
+  "last_run_at": "2026-10-27T09:04:32.926532+00:00",
+  "error": "PortalError",
   "enabled": true,
   "runtime": "github-actions",
   "automatic": true,
@@ -11,9 +13,8 @@
   "documents": 30,
   "pending_documents": 18206,
   "fetched_at": "2026-10-25T19:30:27.840569Z",
-  "last_run_at": null,
   "full_sweep_complete": false,
   "pages_collected": 0,
-  "errors": 0,
+  "errors": 1,
   "document_storage": "Original PDFs remain on official GeM; parsed evidence is retained."
 }

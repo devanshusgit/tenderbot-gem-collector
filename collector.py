@@ -110,7 +110,9 @@ async def collect(folder, seconds=600, pdf_seconds=100):
     except PortalChallengeError:
         state.update(status='blocked',error='GeM requires human access verification')
     except Exception as error:
-        state.update(status='failed',error=type(error).__name__)
+        state.update(status='failed',error=type(error).__name__,error_message=str(error)[:250])
+        print(json.dumps({'error':type(error).__name__,'message':str(error)[:250],
+            'cause':str(error.__cause__)[:350] if error.__cause__ else None}),flush=True)
     finally:
         publish_index(folder,state)
     return 0 if state['status']=='succeeded' else 1

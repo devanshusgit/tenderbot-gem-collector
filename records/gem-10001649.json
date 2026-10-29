@@ -3,7 +3,7 @@
   "city": [],
   "closing_at": "2026-10-29T10:00:00+05:30",
   "demo": false,
-  "department": "Department of Defence Production",
+  "department": "Department Of Defence Production",
   "description": "U109.01. 0100",
   "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
   "document_url": "https://bidplus.gem.gov.in/showbidDocument/10001649",
@@ -11,15 +11,30 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10001649"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "Buyer technical specification",
+      "url": "https://mkp.gem.gov.in/catalog_data/catalog_support_document/buyer_documents/1273753/54/78/703/CatalogAttrs/SpecificationDocument/2026/10/8/123_2026-10-08-09-22-18_02b8c9cd34baa5093c830e3dad82e136.pdf",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261008",
+      "page": 6
     }
   ],
-  "emd_fee": null,
+  "emd_fee": 0,
   "gem_bid_id": "10001649",
   "gem_id": "10001649",
   "id": "gem-10001649",
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
-  "ministry": "Ministry of Defence",
-  "organisation": "Department of Defence Production",
+  "ministry": "Ministry Of Defence",
+  "organisation": "Hindustan Aeronautics Limited (hal)",
   "portal_name": "GeM",
   "product_category": "U109.01. 0100",
   "published_at": "2026-10-08T09:25:56+05:30",
@@ -34,5 +49,143 @@
   ],
   "tender_id": "GEM/2026/B/8131503",
   "tender_value": null,
-  "title": "U109.01. 0100"
+  "title": "U109.01. 0100",
+  "opening_at": "2026-10-30T10:00:00+05:30",
+  "buyer_email": "buycon31.halh.ts@gembuyer.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-10-29T10:36:06.395175+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_sha256": "cafe25a621d6513d178b7b5d3f0003b758bf101d9baa60ce1892b212bc437481",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM bid PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM bid PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "***********",
+      "address": "***********Rangareddi",
+      "quantity": 125,
+      "quantity_label": "Quantity",
+      "delivery_days": 730
+    }
+  ],
+  "technical_specifications": [],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8131503",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001649"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 29-10-2026 10:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001649"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 30-10-2026 10:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001649"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001649"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001649"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Defence Production",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001649"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Hindustan Aeronautics Limited (hal)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001649"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :rajaiah.k@hal-india.co.in Buyer Email id: buycon31.halh.ts@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001649"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 125",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001649"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: U109.01. 0100",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001649"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001649"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001649"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001649"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001649"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001649"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********Rangareddi | 125 | 730",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001649"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001649"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

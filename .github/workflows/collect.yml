@@ -66,42 +66,13 @@ jobs:
         env:
           GEM_CLOUDFLARE_SOURCE_URL: ''
           TENDERBOT_SITE_SERVICE_TOKEN: ''
-        run: python -m unittest test_collector test_source_health test_remote_portal
+        run: python -m unittest test_collector test_source_health test_remote_portal test_runner
       - name: Install browser
         if: env.GEM_CLOUDFLARE_SOURCE_URL == ''
         run: python -m playwright install --with-deps chromium
       - name: Collect real public bids
         working-directory: app
-        run: |
-          publish_checkpoint() {
-            git -C ../data config user.name 'TenderBot collector'
-            git -C ../data config user.email 'tenderbot@users.noreply.github.com'
-            git -C ../data add records index.json collector.json state.json
-            if ! git -C ../data diff --cached --quiet; then
-              git -C ../data commit -m 'Refresh verified public GeM collection'
-              git -C ../data push origin HEAD:data
-            fi
-          }
-          batch_limit=$((10#$BATCH_COUNT))
-          for ((batch=1; batch<=batch_limit; batch++)); do
-            echo "Collection batch $batch of $batch_limit"
-            result=0
-            python collector.py --data-dir ../data --seconds "$COLLECT_SECONDS" --pdf-seconds "$PDF_SECONDS" || result=$?
-            publish_checkpoint
-            if [ "$result" -ne 0 ]; then
-              exit "$result"
-            fi
-            if python - <<'PY'
-          import json
-          from pathlib import Path
-          state = json.loads(Path('../data/state.json').read_text(encoding='utf-8'))
-          raise SystemExit(0 if state.get('complete') is True and state.get('newest_refresh_complete') is True else 1)
-          PY
-            then
-              echo 'The full-feed and newest passes have traversed their source pages; see coverage diagnostics.'
-              break
-            fi
-          done
+        run: bash runner.sh
       - name: Publish checkpoint and dataset
         if: always() && steps.data_checkout.outcome == 'success'
         working-directory: data

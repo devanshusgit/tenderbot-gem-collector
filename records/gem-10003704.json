@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8133306",
   "title": "Online UPS (>10 KVA) With Battery",
   "description": "Online UPS (>10 KVA) With Battery",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "Integral Coach Factory",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Online UPS (>10 KVA) With Battery",
   "quantity": 2,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 115360,
   "published_at": "2026-10-28T12:32:13+05:30",
   "closing_at": "2026-11-10T16:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10003704"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/wB-hLWB-IfJEd3hpfUvxI51qkpZ8Me2OXdymY8lwC4I",
+      "page": 5
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8133306/CLM0010/ATC_773c4d43-4f23-4524-913c1791444081420_gvlprabhu.pdf",
+      "page": 8
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261028",
+      "page": 12
     }
   ],
   "tags": [
@@ -34,5 +54,261 @@
   ],
   "source_fetched_at": "2026-10-29T14:16:21.371Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-11T16:00:00+05:30",
+  "office": "Icf/stores",
+  "buyer_email": "eps1@icf.railnet.gov.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this 2 / 12",
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "90 (Days)",
+  "estimated_bid_value": 7559510,
+  "source_document_fetched_at": "2026-10-29T14:46:32.718752+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_sha256": "865da54b4fc9a34f149754b93b277535adee6ef31cf6f2975294e0a8f9ef6d2a",
+  "document_pages": 12,
+  "eligibility": [
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM bid PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM bid PDF, p. 1)",
+    "Documents required from seller: Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM bid PDF, p. 1)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this 2 / 12 (GeM bid PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 7,
+      "consignee": "Saranya Balaji",
+      "address": "600038,INTEGRAL COACH FACTORY MINISTRY OF RAILWAYS CHENNAI - 38",
+      "quantity": 2,
+      "quantity_label": "Quantity",
+      "delivery_days": 180
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Performance Parameters",
+          "parameter": "Rating (in KVA)",
+          "value": "120"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Input Voltage (AC, 50 Hz)",
+          "value": "Three Phase, 300 V - 450V"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Output Voltage (AC, 50 Hz)",
+          "value": "Three Phase, 415V±1% (Variable range: 380V - 415V)"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": "Construction",
+          "parameter": "Availability of Inbuilt Isolation Transformer",
+          "value": "Yes"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Minimum Overload Capacity of Online UPS",
+          "value": "120% of Rating in KVA for 10 minutes"
+        },
+        {
+          "group": "Battery/Backup Bank",
+          "parameter": "Type of Battery",
+          "value": "SMF-VRLA (Sealed Maintenance Free-Valve Regulated Lead Acid) / Stationary Lead Acid Batteries"
+        },
+        {
+          "group": "Battery/Backup Bank",
+          "parameter": "Backup Time",
+          "value": "30.0 (minute)"
+        },
+        {
+          "group": "Features",
+          "parameter": "Type of Mounting of Online UPS",
+          "value": "Floor Standing"
+        },
+        {
+          "group": "Features",
+          "parameter": "Ingress Protection",
+          "value": "IP20, IP21 Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 7,
+      "text": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. All Bidders must furnish a written declaration that: \"The item offered is complying in all r espects with th e ICF Specification no.ICF/M&P/120 KVA UPS/ 2026\". 2.Firm should follow Delivery period Timelines as per Clause 11 of attached Technical Speci fication. 3. Evaluation Criteria: Evaluation and inter se ranking shall be based on all inclusive rate of supply, installa tion, commissioning and CAMC charges put together. Eligibility Criteria: 1.The bidder shall provide satisfactory evidence, acceptable to the purchaser to show that he is a regular manufacturer and has adequate plant and manufacturing capacity and has a “Quality Assurance Program” ."
+    },
+    {
+      "page": 8,
+      "text": "2.The manufacturer shall have valid ISO 9001 certificate on the original date of closing of te nder and a co py of same should be submitted along with the bid. The subject item UPS shall be in the scope of ISO certifi cate. 3.The bidder/ manufacturer must have supplied atleast 02 numbers of similar 120 KVA UPS o r higher capa city in last 05 years (to be reckoned from the original date of closing of tender). Statement of past supplie s shall be submitted as per the format given in clause no 2 (b) of AnnexureA, of common conditions and sp ecifications for M&P procurement of M&P (CCS M&P). 4.The bidder shall, in their offer, submit performance certificate of at least 01 numbers of suc h 120 KVA U PS or higher capacity supplied in the last 05 years and the machine covered by these certificates must hav e worked satisfactorily for at least one year from the date of commissioning as on the date of issue of certi ficate. The details of past performance certificat es submitted with the offer shall be submitted as per the f ormat given in clause no 2(c) of Annexure-A, of common conditions and specifications for M&P procuremen t of M&P (CCSM& P). 5.Similarity mentioned in clause no.3 above would mean a 120 KVA UPS or higher capacity U PS. 6.Copies of POs / commissioning/ performance certificate submitted shall also indicate the pa rameters / s pecification of subject machine to prove same / similarity aspect of the machine as mentioned. 7.Technical specifications of the UPS as featured in PO may be attached to establish similarity of paramete rs with Broad parameters in clause # 2.0 of Technical specification no. ICF/M&P/120 KVA UPS/ 2026 8.The certificate shall not be older than one year from the original date of closing of tender. T he performa nce certificate issued after original date of closing of tender (in cases where ten der closing date has been extended) is also acceptable. However the said UPS must have completed one year of satisfactory working after date of commissioning until the date of issu ing performance certificate 9.The performance certificate submitted by the bidder shall have been issued by the actual e nd user orga nization of the machine on their letter head, with their clear signature and add ress there in, whose premis es the machine is installed and commissioned. 10.All necessary information/ documents required for establishing reference requirement as p er clause ab ove shall be submitted by the bidder along with original offer itself for establish ing linkage of documents / entities such as manufacturer / PO / consignee / supply/ Installation / Commissioning / performance certific ate of the machine. No further clarification / corre spondence shall be sought / entertained in this regard. I n case, no information or in comple te information or illegible information is furnished by the bidder, their offer shall be summarily rejected. 11.Non-compliance of following shall lead to summarily rejection of the offer and no correspon dence in thi s regard will be entertained. a) The Proving out shall be as per clause # 2.2. of technical specification no. I CF/M&P/120KVA UPS/2023. b) There shall not be any deviation f rom the Major parameters mentioned in cl ause # 2.0 of the Technical Specification no.ICF/M&P/120 KVA UPS/ 2026. Inspection, Testing and Acceptance: Refer Clause no. 8.0 of Technical Specifications for M&P Procurement Payment Terms: Please refer Clause 14 of Common Conditions and specifications for M&P Procurement (CCSM&P). Delivery Schedule: Please refer to Clause 12.0 of the Technical Specification Warranty: Warranty starts on the date of commis sioning: warranty period: 24 months from date of commissioning OEM must have the eligibility for supply of 120 KVA UPS. In case of dealer participation , dealer should s ub mit tender specific OEM Authorisation letter shall be submitted. . 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    },
+    {
+      "page": 9,
+      "text": "3. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 4. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 5. Forms of EMD and PBG Bidders can also submit the EMD with Account Payee Demand Draft in favour of PRINCIPAL FINANCIAL ADVISOR, ICF payable at CHENNAI . Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 6. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 7. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in favour of PRINCIPAL FINANCIAL ADVISOR, ICF payable at CHENNAI . After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of contract."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8133306",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003704"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 10-11-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003704"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 11-11-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003704"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003704"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003704"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003704"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Integral Coach Factory",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003704"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Icf/stores",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003704"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :nikhil.kg@gov.in Buyer Email id: eps1@icf.railnet.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003704"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 2",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003704"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Online UPS (>10 KVA) With Battery (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003704"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003704"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003704"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003704"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003704"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 7559510",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003704"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 115360",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003704"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 115360",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003704"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 2,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this 2 / 12",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003704"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Rating (in KVA): 120 | Input Voltage (AC, 50 Hz): Three Phase, 300 V - 450V | Output Voltage (AC, 50 Hz): Three Phase, 415V±1% (Variable range: 380V - 415V)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003704"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Availability of Inbuilt Isolation Transformer: Yes | Minimum Overload Capacity of Online UPS: 120% of Rating in KVA for 10 minutes | Type of Battery: SMF-VRLA (Sealed Maintenance Free-Valve Regulated Lead Acid) / Stationary Lead Acid Batteries | Backup Time: 30.0 (minute) | Type of Mounting of Online UPS: Floor Standing | Ingress Protection: IP20, IP21 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003704"
+    },
+    {
+      "field": "consignees",
+      "page": 7,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Saranya Balaji | 600038,INTEGRAL COACH FACTORY MINISTRY OF RAILWAYS CHENNAI - 38 | 2 | 180",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003704"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. All Bidders must furnish a written declaration that: \"The item offered is complying in all r espects with th e ICF Specification no.ICF/M&P/120 KVA UPS/ 2026\". 2.Firm should follow Delivery period Timelines as per Clause 11 of attached Technical Speci fication. 3. Evaluation Criteria: Evaluation and inter se ranking shall be based on all inclusive rate of supply, installa tion, commissioning and CAMC charges put together. Eligibility Criteria: 1.The bidder shall provide satisfactory evidence, acceptable to the purchaser to show that he is a regular manufacturer and has adequate plant and manufacturing capacity and has a “Quality Assurance Program” .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003704"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "2.The manufacturer shall have valid ISO 9001 certificate on the original date of closing of te nder and a co py of same should be submitted along with the bid. The subject item UPS shall be in the scope of ISO certifi cate. 3.The bidder/ manufacturer must have supplied atleast 02 numbers of similar 120 KVA UPS o r higher capa city in last 05 years (to be reckoned from the original date of closing of tender). Statement of past supplie s shall be submitted as per the format given in clause no 2 (b) of AnnexureA, of common conditions and sp ecifications for M&P procurement of M&P (CCS M&P). 4.The bidder shall, in their offer, submit performance certificate of at least 01 numbers of suc h 120 KVA U PS or higher capacity supplied in the last 05 years and the machine covered by these certificates must hav e worked satisfactorily for at least one year from the date of commissioning as on the date of issue of certi ficate. The details of past performance certificat es submitted with the offer shall be submitted as per the f ormat given in clause no 2(c) of Annexure-A, of common conditions and specifications for M&P procuremen t of M&P (CCSM& P). 5.Similarity mentioned in clause no.3 above would mean a 120 KVA UPS or higher capacity U PS. 6.Copies of POs / commissioning/ performance certificate submitted shall also indicate the pa rameters / s pecification of subject machine to prove same / similarity aspect of the machine as mentioned. 7.Technical specifications of the UPS as featured in PO may be attached to establish similarity of paramete rs with Broad parameters in clause # 2.0 of Technical specification no. ICF/M&P/120 KVA UPS/ 2026 8.The certificate shall not be older than one year from the original date of closing of tender. T he performa nce certificate issued after original date of closing of tender (in cases where ten der closing date has been extended) is also acceptable. However the said UPS must have completed one year of satisfactory working after date of commissioning until the date of issu ing performance certificate 9.The performance certificate submitted by the bidder shall have been issued by the actual e nd user orga nization of the machine on their letter head, with their clear signature and add ress there in, whose premis es the machine is installed and commissioned. 10.All necessary information/ documents required for establishing reference requirement as p er clause ab ove shall be submitted by the bidder along with original offer itself for establish ing linkage of documents / entities such as manufacturer / PO / consignee / supply/ Installation / Commissioning / performance certific ate of the machine. No further clarification / corre spondence shall be sought / entertained in this regard. I n case, no information or in comple te information or illegible information is furnished by the bidder, their offer shall be summarily rejected. 11.Non-compliance of following shall lead to summarily rejection of the offer and no correspon dence in thi s regard will be entertained. a) The Proving out shall be as per clause # 2.2. of technical specification no. I CF/M&P/120KVA UPS/2023. b) There shall not be any deviation f rom the Major parameters mentioned in cl ause # 2.0 of the Technical Specification no.ICF/M&P/120 KVA UPS/ 2026. Inspection, Testing and Acceptance: Refer Clause no. 8.0 of Technical Specifications for M&P Procurement Payment Terms: Please refer Clause 14 of Common Conditions and specifications for M&P Procurement (CCSM&P). Delivery Schedule: Please refer to Clause 12.0 of the Technical Specification Warranty: Warranty starts on the date of commis sioning: warranty period: 24 months from date of commissioning OEM must have the eligibility for supply of 120 KVA UPS. In case of dealer participation , dealer should s ub mit tender specific OEM Authorisation letter shall be submitted. . 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003704"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "3. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 4. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 5. Forms of EMD and PBG Bidders can also submit the EMD with Account Payee Demand Draft in favour of PRINCIPAL FINANCIAL ADVISOR, ICF payable at CHENNAI . Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 6. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 7. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in favour of PRINCIPAL FINANCIAL ADVISOR, ICF payable at CHENNAI . After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of contract.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003704"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

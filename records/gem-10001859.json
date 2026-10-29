@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8131675",
   "title": "Servers (V2)",
   "description": "Servers (V2)",
-  "organisation": "Panchayat and Rural Development Department West Bengal",
-  "ministry": "",
-  "department": "Panchayat and Rural Development Department West Bengal",
+  "organisation": "State Secretariat",
+  "ministry": "West Bengal",
+  "department": "Panchayat And Rural Development Department West Bengal",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Servers (V2)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-10-08T13:57:01+05:30",
   "closing_at": "2026-11-02T18:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10001859"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/3WlF7qNEK2vyCdzgWCsO0jU_bzKoA6Jh43ldUNZSUCk",
+      "page": 5
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8131675/CLM0010/TSPNRD_08f12bec-28bc-402f-89f11791436173486_Mousam.Mukherjee.pdf",
+      "page": 10
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261008",
+      "page": 12
     }
   ],
   "tags": [
@@ -34,5 +54,461 @@
   ],
   "source_fetched_at": "2026-10-29T05:57:37.669Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-03T18:00:00+05:30",
+  "office": "Panchayat And Rd Wb",
+  "buyer_email": "osd5.braiprd-wb@bangla.gov.in",
+  "emd_required": false,
+  "bidder_turnover_lakhs": 27,
+  "oem_turnover_lakhs": 108,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "90 (Days)",
+  "source_document_fetched_at": "2026-10-29T11:02:44.452565+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_sha256": "c8eb49acf679b34bf8bd6dc3e5c733c7b11a79408638958d26d307ced8819246",
+  "document_pages": 12,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 27 Lakh (s) (GeM bid PDF, p. 1)",
+    "OEM average turnover (last 3 years): 108 Lakh (s) (GeM bid PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM bid PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM bid PDF, p. 1)",
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM bid PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM bid PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM bid PDF, p. 2)",
+    "Past performance: 80 % (GeM bid PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 8,
+      "consignee": "Sanjay Das",
+      "address": "700106,Joint Administrative Building, HC 7, salt lake",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 90
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Chassis",
+          "parameter": "Description of Stores",
+          "value": "Server with standard 1 year warranty"
+        },
+        {
+          "group": "Chassis",
+          "parameter": "Form Factor",
+          "value": "Rack"
+        },
+        {
+          "group": "Chassis",
+          "parameter": "Size (RU)",
+          "value": "1"
+        },
+        {
+          "group": "Processor and Motherboard",
+          "parameter": "Number of Sockets Available on the Server",
+          "value": "2, 4 Or higher"
+        },
+        {
+          "group": "Processor and Motherboard",
+          "parameter": "Number of Sockets Populated with Processors on the Server",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Processor Number",
+          "value": "Intel Xeon Gold 6526Y, Intel Xeon Gold 6342, Intel Xeon Gold 5418N, Intel Xeon Gold 6544Y, Intel Xeon Gold 6444Y, Intel Xeon Gold 6338N, Intel Xeon Gold 6338, Intel Xeon Gold 6348, Intel Xeon Gold 5418Y, Intel Xeon Platinum 8352S, Intel Xeon Silver 4516Y+, Intel Xeon Platinum 8352V, Intel Xeon Platinum 8352M, Intel Xeon Platinum 8352Y, Intel Xeon Gold 5318H, Intel Xeon Platinum 8353H, Intel Xeon Gold 6328H, Intel Xeon Gold 6328HL, Intel Xeon Platinum 8358P, Intel Xeon Platinum 8358, Intel Xeon Gold 6418H, Intel Xeon Gold 6530, Intel Xeon Gold 5420+, Intel Xeon Gold 5320H, Intel Xeon Gold 6554S, Intel Xeon Platinum 8450H, Intel Xeon Gold 6428N, Intel Xeon Platinum 8360Y, Intel Xeon Platinum 8362, Intel Xeon Silver 4215, Intel Xeon Gold 5520+, Intel Xeon Gold 6442Y, Intel Xeon Gold 6542Y, Intel Xeon Gold 6430, Intel Xeon Gold 6330H, Intel Xeon Platinum 8368, Intel Xeon Gold 6438N, Intel Xeon Gold 6438M, Intel Xeon Gold 6438Y+, Intel Xeon Platinum 8454H, Intel Xeon Gold 6538N, Intel Xeon Silver 4210T, Intel Xeon Silver 4215R, Intel Xeon Silver 4210R, Intel Xeon Gold 6454S, Intel Xeon Gold 6348H, Intel Xeon Platinum 8380, Intel Xeon Platinum 8368Q, Intel Xeon Platinum 8354H, Intel Xeon Gold 6448Y, Intel Xeon Gold 6538Y+, Intel Xeon Platinum 8558, Intel Xeon Gold 6548N, Intel Xeon Platinum 8558P, Intel Xeon Gold 6548Y+, Intel Xeon Platinum 8360H, Intel Xeon Platinum 8360HL, Intel Xeon Platinum 8376H, Intel Xeon Platinum 8452Y, Intel Xeon Gold 6448H, Intel Xeon Platinum 8376HL, Intel Xeon 6710E, Intel Xeon Silver 4214R, Intel Xeon CPU Max 9462, Intel Xeon 6730P, Intel Xeon Platinum 8562Y+, Intel Xeon Platinum 8462Y+, Intel Xeon CPU Max 9460, Intel Xeon Gold 6458Q, Intel Xeon Gold 6558Q, Intel Xeon Platinum 8460Y+, Intel Xeon Platinum 8380H, Intel Xeon CPU Max 9468, Intel Xeon Gold 6226R, Intel Xeon Platinum 8460H, Intel Xeon CPU Max 9470, Intel Xeon CPU Max 9480, Intel Xeon Platinum 8458P, Intel Xeon Gold 6230R, Intel Xeon Platinum 8468V, Intel Xeon Platinum 8470N, Intel Xeon Platinum 8468H, Intel Xeon Platinum 8468, Intel Xeon Platinum 8470, Intel Xeon 6740P, Intel Xeon Platinum 8568Y+, Intel Xeon 6741P, Intel Xeon Platinum 8570, Intel Xeon Platinum 8470Q, Intel Xeon 6746E, Intel Xeon Platinum 8592V, Intel Xeon Platinum 8480+, Intel Xeon 6740E, Intel Xeon Platinum 8490H, Intel Xeon 6747P, Intel Xeon Platinum 8580, Intel Xeon 6756E, Intel Xeon Platinum 8593Q, Intel Xeon Platinum 8592+, Intel Xeon 6766E, Intel Xeon 6760P, Intel Xeon 6761P, Intel Xeon 6767P, Intel Xeon 6780E, Intel Xeon 6781P, Intel Xeon 6787P, Intel Xeon 6731E, Intel Xeon 6714P, Intel Xeon 6515P, Intel Xeon 6527P, Intel Xeon 6530P, Intel Xeon 6520P, Intel Xeon 6724P, Intel Xeon 6725P, Intel Xeon 6728P, Intel Xeon 6736P, Intel Xeon 6737P, Intel Xeon 6738P, Intel Xeon 6748P, Intel Xeon 6788P Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Expansion Slots (PCIe x8)",
+          "value": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Expansion Slots (PCIe x16)",
+          "value": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 Or higher"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "parameters": [
+        {
+          "group": "Graphic Processing Unit (GPU)",
+          "parameter": "Graphic Card Availability",
+          "value": "No, Yes Or higher"
+        },
+        {
+          "group": "Memory",
+          "parameter": "Type of RAM",
+          "value": "DDR5 with ECC Or higher"
+        },
+        {
+          "group": "Memory",
+          "parameter": "Total Number of DIMM Slots available",
+          "value": "32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64 Or higher"
+        },
+        {
+          "group": "Memory",
+          "parameter": "Number of DIMM Slots populated with RAM",
+          "value": "4"
+        },
+        {
+          "group": "Memory",
+          "parameter": "Total Memory (RAM) Size Installed (in GB)",
+          "value": "256, 512, 1024, 2048, 4096 Or higher"
+        },
+        {
+          "group": "SSD Storage",
+          "parameter": "Type of Interface for SSD",
+          "value": "M.2/NVMe-SSD"
+        },
+        {
+          "group": "SSD Storage",
+          "parameter": "Type of SSD",
+          "value": "Read Intensive for M.2/NVMe Interface (DWPD- 1)"
+        },
+        {
+          "group": "SSD Storage",
+          "parameter": "SSD Hot Swappable",
+          "value": "Yes for M.2/NVMe SSD Or higher"
+        },
+        {
+          "group": "SSD Storage",
+          "parameter": "Total Number of Slots available for NVMe SSD",
+          "value": "8.0 Or higher"
+        },
+        {
+          "group": "SSD Storage",
+          "parameter": "Number of Slots Populated with NVMe SSD",
+          "value": "3.0"
+        },
+        {
+          "group": "SSD Storage",
+          "parameter": "Capacity Offered per NVMe SSD (in GB)",
+          "value": "3840.0 Or higher"
+        },
+        {
+          "group": "HDD Storage",
+          "parameter": "Type of Interface for Hard Disk Drive (HDD)",
+          "value": "Not Applicable"
+        },
+        {
+          "group": "RAID",
+          "parameter": "RAID level",
+          "value": "RAID 0, RAID 1, RAID 5, RAID 6"
+        },
+        {
+          "group": "RAID",
+          "parameter": "Number of RAID Controller Cards",
+          "value": "1.0"
+        },
+        {
+          "group": "RAID",
+          "parameter": "Number of RAID Controller Ports",
+          "value": "8.0"
+        },
+        {
+          "group": "RAID",
+          "parameter": "Speed of RAID Controller Ports (in GBPS)",
+          "value": "12.0"
+        },
+        {
+          "group": "RAID",
+          "parameter": "RAID Controller Cache (in GB)",
+          "value": "4.0"
+        },
+        {
+          "group": "Ports & Interfaces",
+          "parameter": "Network Card Supported",
+          "value": "1G, 10G"
+        },
+        {
+          "group": "Ports & Interfaces",
+          "parameter": "Number of Networking Interface Cards (LAN)",
+          "value": "2"
+        },
+        {
+          "group": "Ports & Interfaces",
+          "parameter": "Total Number of Ports in Server",
+          "value": "2 x 10G RJ 45, 4 x 1G"
+        },
+        {
+          "group": "Ports & Interfaces",
+          "parameter": "USB Ports (version 2 Point 0)",
+          "value": "2, 3, 4, 5, 6, 7, 8, 9, 10 Or higher"
+        },
+        {
+          "group": "Ports & Interfaces",
+          "parameter": "USB Ports (version 3 Point 0)",
+          "value": "2, 3, 4, 5, 6, 7, 8, 9, 10 Or higher"
+        },
+        {
+          "group": "Ports & Interfaces",
+          "parameter": "Total Number of Spare Bays Available for Future Upgradation (Internal)",
+          "value": "5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24 Or higher"
+        },
+        {
+          "group": "Software",
+          "parameter": "Certifications Compliance (Operating System)",
+          "value": "Windows"
+        },
+        {
+          "group": "Software",
+          "parameter": "Certification Compliance (Virtualization/Cloud Platform)",
+          "value": "VM ware, Hyper-V, Oracle Virtualization"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "parameters": [
+        {
+          "group": "Features",
+          "parameter": "Management Features-1",
+          "value": "Remoter Power On / Shutdown of Server, Remote KVM, Server Health Logging, Out of Band Management"
+        },
+        {
+          "group": "Features",
+          "parameter": "Security Features-1",
+          "value": "Hardware root of trust/Dual Root of Trust, Intrusion detection, Malicious Code Free design (to be certified by OEM)"
+        },
+        {
+          "group": "Features",
+          "parameter": "Security Features-2",
+          "value": "Provision for Cryptographic firmware Updates"
+        },
+        {
+          "group": "Features",
+          "parameter": "Server Scalability to be Achieved within the Box and Without Adding Nodes",
+          "value": "Yes Or higher"
+        },
+        {
+          "group": "Power",
+          "parameter": "Redundant Power Supply",
+          "value": "Yes Or higher"
+        },
+        {
+          "group": "Power",
+          "parameter": "Hot Swappable (Redundant Power Supply)",
+          "value": "Yes Or higher"
+        },
+        {
+          "group": "Power",
+          "parameter": "Redundant Fan",
+          "value": "Yes Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 9,
+      "text": "1. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 2. Generic Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of technical parameters, the bid is liable for rejection. 3. Generic Malicious Code Certificate: The seller should upload following certificate in the bid:- (a) This is to certify that the Hardware and the Software being offered, as part of the contract, does not contain Embedded Malicious code that would activate procedures to :- (i) Inhibit the desires and designed function of the equipment. (ii) Cause physical damage to the user or equipment during the exploitation. (iii) Tap information resident or transient in the equipment/network. (b) The firm will be considered to be in breach of the procurement contract, in case physical damage, loss of information or infringements related to copyright and Intellectual Property Right (IPRs) are caused due to activation of any such malicious code in embedded software. 4. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 5. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Bid-specific Manufacturer Authorisation Form /Certificate with OEM’s signatory details, such as name, de signation, address, e-mail ID, and Phone number, are required to be furnished along with the bid. 2. Bidders need to submit a Local content certificate with manufacturing plant details on OEM’s letter head duly signed & stamped. 3. The bidder must have a registered office & Service Center in the state of West Bengal and must have be en registered for a minimum period of three (3) years prior to the bid submission date. Documentary evide nce must be provided for each of the above. 4. Manufacturer should have valid PAN & GST Registration Certificate."
+    },
+    {
+      "page": 10,
+      "text": "5. Any service/support call raised must be attended to within 24 hours by the bidder/OEM. Declaration to b e included. 6. Technical Feature & Brochure of the model quoted should be submitted along with the technical bid, and additionally, must be available on the OEM website (URL should be provided with the technical bid) for veri fication. 7. The Bidders are requested to submit the bids after the issue of clarifications, only considering the chang es made, if any. Bidders are totally responsible for incorporating/complying with the changes/amendments issued, if any, in their bid. 8. The malicious code certificate should be submitted on OEM letterhead. 9. In case an authorized agent submits a bid on behalf of a Principal/OEM, the same authorized agent shall not submit a bid on behalf of another Principal/OEM for the same item/product in the same tender. The bid der shall submit an appropriate declaration confirming compliance with this requirement. 10. The quoted product shall be covered by a minimum 5-year OEM warranty, along with 24×7 support an d Next Business Day (NBD) response. The warranty status of the product must be capable of verification th rough the OEM’s official support webpage using the Service Tag/System Serial Number. A 5-year OEM War ranty Certificate on OEM letterhead shall be submitted along with the bid..11. The bidder shall submit a d etailed Bill of Material (BOM) containing complete part numbers, including the applicable OEM support part codes, on the OEM’s letterhead, duly signed and stamped by the authorized representative. 11.“The servers will be procured on capex and needs to be delivered at 3rd party hosting site in Kolkata. T he same will be intimated to the winning bidder while placing the PO.” 12. Bid Security (EMD): Rs. 80000.00 (Eighty thousand only) or 2% of the quoted amount whichever is hi gher, it to be deposited as Earnest Mo ney into “WBSRDA Computerisation Cell A/c BRGF”. A/c No. 40001 0110000 658, IFSC Code No.BKID0004056, Bank of India, Unnayan Bhawan Branch, Salt Lake, Sector – II, 7 00091 through RTGS/NEFT/CBS System only. A scanned c opy of the receipt of successful deposit of the EM D must have to be uploaded during submission of the bid. The bid without EMD receipts will be treated as unsuccessful bid. Bidders has to upload scanned copy/proof of the Demand Draft (DD)/ Fixed Deposit Rec e ipt (FDR)/ Banker’ s Cheque (BC) aIong with bid and has to ensure delivery of hardcopy to t he buyer at b elow mentioned address within 3 days of Bid End date/Bid Opening date. To, Joint Administrative Bilding Bl ock-HC-7,Sector-III Salt Lake,Kolkata-700106 . 6. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 7. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 8. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 9. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 10. Turnover OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the last three years, ending on 31st March of the previous financial year, should be as indicated in"
+    },
+    {
+      "page": 11,
+      "text": "the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of CATEGORY RELATED TO primary product having highest bid value should meet this criterion. 11. Turnover Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8131675",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001859"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 02-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001859"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 03-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001859"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001859"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: West Bengal",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001859"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Panchayat And Rural Development Department West Bengal",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001859"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: State Secretariat",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001859"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Panchayat And Rd Wb",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001859"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :ds7.prd-wb@bangla.gov.in Buyer Email id: osd5.braiprd-wb@bangla.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001859"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001859"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Servers (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001859"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "((33 )) /Minimum Average Annual Turnover of the bidder (For 3 Years): 27 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001859"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 108 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001859"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001859"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001859"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001859"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001859"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001859"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 80 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001859"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001859"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001859"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001859"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Description of Stores: Server with standard 1 year warranty | Form Factor: Rack | Size (RU): 1 | Number of Sockets Available on the Server: 2, 4 Or higher | Number of Sockets Populated with Processors on the Server: 2",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001859"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Processor Number: Intel Xeon Gold 6526Y, Intel Xeon Gold 6342, Intel Xeon Gold 5418N, Intel Xeon Gold 6544Y, Intel Xeon Gold 6444Y, Intel Xeon Gold 6338N, Intel Xeon Gold 6338, Intel Xeon Gold 6348, Intel Xeon Gold 5418Y, Intel Xeon Platinum 8352S, Intel Xeon Silver 4516Y+, Intel Xeon Platinum 8352V, Intel Xeon Platinum 8352M, Intel Xeon Platinum 8352Y, Intel Xeon Gold 5318H, Intel Xeon Platinum 8353H, Intel Xeon Gold 6328H, Intel Xeon Gold 6328HL, Intel Xeon Platinum 8358P, Intel Xeon Platinum 8358, Intel Xeon Gold 6418H, Intel Xeon Gold 6530, Intel Xeon Gold 5420+, Intel Xeon Gold 5320H, Intel Xeon Gold 6554S, Intel Xeon Platinum 8450H, Intel Xeon Gold 6428N, Intel Xeon Platinum 8360Y, Intel Xeon Platinum 8362, Intel Xeon Silver 4215, Intel Xeon Gold 5520+, Intel Xeon Gold 6442Y, Intel Xeon Gold 6542Y, Intel Xeon Gold 6430, Intel Xeon Gold 6330H, Intel Xeon Platinum 8368, Intel Xeon Gold 6438N, Intel Xeon Gold 6438M, Intel Xeon Gold 6438Y+, Intel Xeon Platinum 8454H, Intel Xeon Gold 6538N, Intel Xeon Silver 4210T, Intel Xeon Silver 4215R, Intel Xeon Silver 4210R, Intel Xeon Gold 6454S, Intel Xeon Gold 6348H, Intel Xeon Platinum 8380, Intel Xeon Platinum 8368Q, Intel Xeon Platinum 8354H, Intel Xeon Gold 6448Y, Intel Xeon Gold 6538Y+, Intel Xeon Platinum 8558, Intel Xeon Gold 6548N, Intel Xeon Platinum 8558P, Intel Xeon Gold 6548Y+, Intel Xeon Platinum 8360H, Intel Xeon Platinum 8360HL, Intel Xeon Platinum 8376H, Intel Xeon Platinum 8452Y, Intel Xeon Gold 6448H, Intel Xeon Platinum 8376HL, Intel Xeon 6710E, Intel Xeon Silver 4214R, Intel Xeon CPU Max 9462, Intel Xeon 6730P, Intel Xeon Platinum 8562Y+, Intel Xeon Platinum 8462Y+, Intel Xeon CPU Max 9460, Intel Xeon Gold 6458Q, Intel Xeon Gold 6558Q, Intel Xeon Platinum 8460Y+, Intel Xeon Platinum 8380H, Intel Xeon CPU Max 9468, Intel Xeon Gold 6226R, Intel Xeon Platinum 8460H, Intel Xeon CPU Max 9470, Intel Xeon CPU Max 9480, Intel Xeon Platinum 8458P, Intel Xeon Gold 6230R, Intel Xeon Platinum 8468V, Intel Xeon Platinum 8470N, Intel Xeon Platinum 8468H, Intel Xeon Platinum 8468, Intel Xeon Platinum 8470, Intel Xeon 6740P, Intel Xeon Platinum 8568Y+, Intel Xeon 6741P, Intel Xeon Platinum 8570, Intel Xeon Platinum 8470Q, Intel Xeon 6746E, Intel Xeon Platinum 8592V, Intel Xeon Platinum 8480+, Intel Xeon 6740E, Intel Xeon Platinum 8490H, Intel Xeon 6747P, Intel Xeon Platinum 8580, Intel Xeon 6756E, Intel Xeon Platinum 8593Q, Intel Xeon Platinum 8592+, Intel Xeon 6766E, Intel Xeon 6760P, Intel Xeon 6761P, Intel Xeon 6767P, Intel Xeon 6780E, Intel Xeon 6781P, Intel Xeon 6787P, Intel Xeon 6731E, Intel Xeon 6714P, Intel Xeon 6515P, Intel Xeon 6527P, Intel Xeon 6530P, Intel Xeon 6520P, Intel Xeon 6724P, Intel Xeon 6725P, Intel Xeon 6728P, Intel Xeon 6736P, Intel Xeon 6737P, Intel Xeon 6738P, Intel Xeon 6748P, Intel Xeon 6788P Or higher | Expansion Slots (PCIe x8): 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 Or higher | Expansion Slots (PCIe x16): 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001859"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 7,
+      "quote": "Graphic Card Availability: No, Yes Or higher | Type of RAM: DDR5 with ECC Or higher | Total Number of DIMM Slots available: 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64 Or higher | Number of DIMM Slots populated with RAM: 4 | Total Memory (RAM) Size Installed (in GB): 256, 512, 1024, 2048, 4096 Or higher | Type of Interface for SSD: M.2/NVMe-SSD | Type of SSD: Read Intensive for M.2/NVMe Interface (DWPD- 1) | SSD Hot Swappable: Yes for M.2/NVMe SSD Or higher | Total Number of Slots available for NVMe SSD: 8.0 Or higher | Number of Slots Populated with NVMe SSD: 3.0 | Capacity Offered per NVMe SSD (in GB): 3840.0 Or higher | Type of Interface for Hard Disk Drive (HDD): Not Applicable | RAID level: RAID 0, RAID 1, RAID 5, RAID 6 | Number of RAID Controller Cards: 1.0 | Number of RAID Controller Ports: 8.0 | Speed of RAID Controller Ports (in GBPS): 12.0 | RAID Controller Cache (in GB): 4.0 | Network Card Supported: 1G, 10G | Number of Networking Interface Cards (LAN): 2 | Total Number of Ports in Server: 2 x 10G RJ 45, 4 x 1G | USB Ports (version 2 Point 0): 2, 3, 4, 5, 6, 7, 8, 9, 10 Or higher | USB Ports (version 3 Point 0): 2, 3, 4, 5, 6, 7, 8, 9, 10 Or higher | Total Number of Spare Bays Available for Future Upgradation (Internal): 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24 Or higher | Certifications Compliance (Operating System): Windows | Certification Compliance (Virtualization/Cloud Platform): VM ware, Hyper-V, Oracle Virtualization",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001859"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 8,
+      "quote": "Management Features-1: Remoter Power On / Shutdown of Server, Remote KVM, Server Health Logging, Out of Band Management | Security Features-1: Hardware root of trust/Dual Root of Trust, Intrusion detection, Malicious Code Free design (to be certified by OEM) | Security Features-2: Provision for Cryptographic firmware Updates | Server Scalability to be Achieved within the Box and Without Adding Nodes: Yes Or higher | Redundant Power Supply: Yes Or higher | Hot Swappable (Redundant Power Supply): Yes Or higher | Redundant Fan: Yes Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001859"
+    },
+    {
+      "field": "consignees",
+      "page": 8,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Sanjay Das | 700106,Joint Administrative Building, HC 7, salt lake | 1 | 90",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001859"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "1. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 2. Generic Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of technical parameters, the bid is liable for rejection. 3. Generic Malicious Code Certificate: The seller should upload following certificate in the bid:- (a) This is to certify that the Hardware and the Software being offered, as part of the contract, does not contain Embedded Malicious code that would activate procedures to :- (i) Inhibit the desires and designed function of the equipment. (ii) Cause physical damage to the user or equipment during the exploitation. (iii) Tap information resident or transient in the equipment/network. (b) The firm will be considered to be in breach of the procurement contract, in case physical damage, loss of information or infringements related to copyright and Intellectual Property Right (IPRs) are caused due to activation of any such malicious code in embedded software. 4. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 5. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Bid-specific Manufacturer Authorisation Form /Certificate with OEM’s signatory details, such as name, de signation, address, e-mail ID, and Phone number, are required to be furnished along with the bid. 2. Bidders need to submit a Local content certificate with manufacturing plant details on OEM’s letter head duly signed & stamped. 3. The bidder must have a registered office & Service Center in the state of West Bengal and must have be en registered for a minimum period of three (3) years prior to the bid submission date. Documentary evide nce must be provided for each of the above. 4. Manufacturer should have valid PAN & GST Registration Certificate.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001859"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "5. Any service/support call raised must be attended to within 24 hours by the bidder/OEM. Declaration to b e included. 6. Technical Feature & Brochure of the model quoted should be submitted along with the technical bid, and additionally, must be available on the OEM website (URL should be provided with the technical bid) for veri fication. 7. The Bidders are requested to submit the bids after the issue of clarifications, only considering the chang es made, if any. Bidders are totally responsible for incorporating/complying with the changes/amendments issued, if any, in their bid. 8. The malicious code certificate should be submitted on OEM letterhead. 9. In case an authorized agent submits a bid on behalf of a Principal/OEM, the same authorized agent shall not submit a bid on behalf of another Principal/OEM for the same item/product in the same tender. The bid der shall submit an appropriate declaration confirming compliance with this requirement. 10. The quoted product shall be covered by a minimum 5-year OEM warranty, along with 24×7 support an d Next Business Day (NBD) response. The warranty status of the product must be capable of verification th rough the OEM’s official support webpage using the Service Tag/System Serial Number. A 5-year OEM War ranty Certificate on OEM letterhead shall be submitted along with the bid..11. The bidder shall submit a d etailed Bill of Material (BOM) containing complete part numbers, including the applicable OEM support part codes, on the OEM’s letterhead, duly signed and stamped by the authorized representative. 11.“The servers will be procured on capex and needs to be delivered at 3rd party hosting site in Kolkata. T he same will be intimated to the winning bidder while placing the PO.” 12. Bid Security (EMD): Rs. 80000.00 (Eighty thousand only) or 2% of the quoted amount whichever is hi gher, it to be deposited as Earnest Mo ney into “WBSRDA Computerisation Cell A/c BRGF”. A/c No. 40001 0110000 658, IFSC Code No.BKID0004056, Bank of India, Unnayan Bhawan Branch, Salt Lake, Sector – II, 7 00091 through RTGS/NEFT/CBS System only. A scanned c opy of the receipt of successful deposit of the EM D must have to be uploaded during submission of the bid. The bid without EMD receipts will be treated as unsuccessful bid. Bidders has to upload scanned copy/proof of the Demand Draft (DD)/ Fixed Deposit Rec e ipt (FDR)/ Banker’ s Cheque (BC) aIong with bid and has to ensure delivery of hardcopy to t he buyer at b elow mentioned address within 3 days of Bid End date/Bid Opening date. To, Joint Administrative Bilding Bl ock-HC-7,Sector-III Salt Lake,Kolkata-700106 . 6. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 7. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 8. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 9. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 10. Turnover OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the last three years, ending on 31st March of the previous financial year, should be as indicated in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001859"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 11,
+      "quote": "the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of CATEGORY RELATED TO primary product having highest bid value should meet this criterion. 11. Turnover Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10001859"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

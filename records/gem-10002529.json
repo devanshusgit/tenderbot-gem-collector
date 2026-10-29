@@ -1,9 +1,9 @@
 {
   "bid_type": "Bid",
   "city": [],
-  "closing_at": "2026-10-29T12:00:00+05:30",
+  "closing_at": "2026-11-02T12:00:00+05:30",
   "demo": false,
-  "department": "Department of Border Management",
+  "department": "Department Of Border Management",
   "description": "Wireless LAN Access Point (V3)",
   "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
   "document_url": "https://bidplus.gem.gov.in/showbidDocument/10002529",
@@ -11,21 +11,41 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10002529"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/6NBgCC3AMr59_NFFXjA_sBqz2jIQ8FNUAOOBXsPkC0c",
+      "page": 4
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8132252/CLM0010/ATCWifi_a9e2b5b2-0c7d-4bc5-b42e1791438788787_Harish_Rai.pdf",
+      "page": 5
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261008",
+      "page": 7
     }
   ],
-  "emd_fee": null,
+  "emd_fee": 0,
   "gem_bid_id": "10002529",
   "gem_id": "10002529",
   "id": "gem-10002529",
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
-  "ministry": "Ministry of Home Affairs",
-  "organisation": "Department of Border Management",
+  "ministry": "Ministry Of Home Affairs",
+  "organisation": "Land Ports Authority Of India",
   "portal_name": "GeM",
   "product_category": "Wireless LAN Access Point (V3)",
   "published_at": "2026-10-08T13:32:15+05:30",
   "quantity": 3,
   "source_document_url": "https://bidplus.gem.gov.in/showbidDocument/10002529",
-  "source_fetched_at": "2026-10-27T22:46:45.655Z",
+  "source_fetched_at": "2026-10-29T12:38:58.393Z",
   "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002529",
   "state": [],
   "status": "active",
@@ -34,5 +54,279 @@
   ],
   "tender_id": "GEM/2026/B/8132252",
   "tender_value": null,
-  "title": "Wireless LAN Access Point (V3)"
+  "title": "Wireless LAN Access Point (V3)",
+  "office": "New Delhi",
+  "buyer_email": "dsga-lpai@lpai.gov.in",
+  "emd_required": false,
+  "bidder_turnover_lakhs": 1,
+  "oem_turnover_lakhs": 6,
+  "experience_years": 2,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Single Packet Bid",
+  "epbg_percentage": 3,
+  "epbg_duration_months": 36,
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-10-29T12:45:00.990052+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_sha256": "ea7ea43240fe045d31efed6abdab90c790ec3584eb74105ee1cf206323bf811d",
+  "document_pages": 7,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 1 Lakh (s) (GeM bid PDF, p. 1)",
+    "OEM average turnover (last 3 years): 6 Lakh (s) (GeM bid PDF, p. 1)",
+    "Past experience required for same/similar service: 2 Year (s) (GeM bid PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM bid PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM bid PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM bid PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM bid PDF, p. 2)",
+    "Past performance: 30 % (GeM bid PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Gautam Naug",
+      "address": "788712,Sutrakandi",
+      "quantity": 3,
+      "quantity_label": "Quantity",
+      "delivery_days": 20
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Product Configuration",
+          "parameter": "Deployment and Environmental Protection",
+          "value": "Indoor, Outdoor with IP55, Outdoor with IP65, Outdoor with IP66, Outdoor with IP67 Or higher"
+        },
+        {
+          "group": "Product Configuration",
+          "parameter": "Supported Management Architecture",
+          "value": "Standalone or Autonomous, Controllerless or Cluster- Managed, On-Premises WLAN Controller-Managed, Cloud-Managed, Hybrid On-Premises and Cloud- Managed"
+        },
+        {
+          "group": "Wireless Performance",
+          "parameter": "Highest Supported WLAN Standard",
+          "value": "IEEE 802.11ac Wave 2, Wi-Fi 5, IEEE 802.11ax, Wi-Fi 6, IEEE 802.11be, Wi-Fi 7 Or higher"
+        },
+        {
+          "group": "Wireless Performance",
+          "parameter": "Supported Operating Frequency Bands",
+          "value": "2.4 GHz, 5 GHz, 6 GHz (5925-6425 MHz, where permitted)"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Wireless Authentication and Encryption Level",
+          "value": "WPA2-Personal and WPA2-Enterprise with AES and IEEE 802.1X, WPA2 plus WPA3-Personal, WPA2 plus WPA3-Personal and WPA3-Enterprise, WPA2 plus WPA3-Personal, WPA3-Enterprise and Enhanced Open/OWE Or higher"
+        },
+        {
+          "group": "Network Connectivity",
+          "parameter": "Wired Uplink Interfaces",
+          "value": "1 x 1 Gigabit Ethernet RJ45, 1 x 2.5 Gigabit Ethernet RJ45, 1 x 5 Gigabit Ethernet RJ45, 1 x 10 Gigabit Ethernet RJ45, 1 x 1 Gigabit SFP, 1 x 10 Gigabit SFP+"
+        },
+        {
+          "group": "Compliance",
+          "parameter": "Certification from TEC as per Standard for Generic Requirements (GR)/Interface Requirements (IR)",
+          "value": "Yes, No"
+        },
+        {
+          "group": "Compliance",
+          "parameter": "Warranty (in Year)",
+          "value": "1, 3 Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8132252",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002529"
+    },
+    {
+      "field": "document_closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 29-10-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002529"
+    },
+    {
+      "field": "document_opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 30-10-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002529"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002529"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Home Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002529"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Border Management",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002529"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Land Ports Authority Of India",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002529"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: New Delhi",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002529"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :mpd.lpai@mha.gov.in Buyer Email id: dsga-lpai@lpai.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002529"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 3",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002529"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Wireless LAN Access Point (V3) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002529"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "((33 )) /Minimum Average Annual Turnover of the bidder (For 3 Years): 1 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002529"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 6 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002529"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 2 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002529"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002529"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002529"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002529"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002529"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 30 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002529"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002529"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002529"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002529"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 3.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002529"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 36",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002529"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Deployment and Environmental Protection: Indoor, Outdoor with IP55, Outdoor with IP65, Outdoor with IP66, Outdoor with IP67 Or higher | Supported Management Architecture: Standalone or Autonomous, Controllerless or Cluster- Managed, On-Premises WLAN Controller-Managed, Cloud-Managed, Hybrid On-Premises and Cloud- Managed | Highest Supported WLAN Standard: IEEE 802.11ac Wave 2, Wi-Fi 5, IEEE 802.11ax, Wi-Fi 6, IEEE 802.11be, Wi-Fi 7 Or higher | Supported Operating Frequency Bands: 2.4 GHz, 5 GHz, 6 GHz (5925-6425 MHz, where permitted)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002529"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Wireless Authentication and Encryption Level: WPA2-Personal and WPA2-Enterprise with AES and IEEE 802.1X, WPA2 plus WPA3-Personal, WPA2 plus WPA3-Personal and WPA3-Enterprise, WPA2 plus WPA3-Personal, WPA3-Enterprise and Enhanced Open/OWE Or higher | Wired Uplink Interfaces: 1 x 1 Gigabit Ethernet RJ45, 1 x 2.5 Gigabit Ethernet RJ45, 1 x 5 Gigabit Ethernet RJ45, 1 x 10 Gigabit Ethernet RJ45, 1 x 1 Gigabit SFP, 1 x 10 Gigabit SFP+ | Certification from TEC as per Standard for Generic Requirements (GR)/Interface Requirements (IR): Yes, No | Warranty (in Year): 1, 3 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002529"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Gautam Naug | 788712,Sutrakandi | 3 | 20",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002529"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002529"
+    }
+  ],
+  "detail_warning": "The original PDF dates differ from the current public GeM listing. The listing closing date is retained. Confirm the latest opening date and any corrigenda on GeM; the original PDF opening date is not presented as current.",
+  "document_closing_at": "2026-10-29T12:00:00+05:30",
+  "document_opening_at": "2026-10-30T12:00:00+05:30",
+  "date_discrepancy": {
+    "listing_closing_at": "2026-11-02T12:00:00+05:30",
+    "document_closing_at": "2026-10-29T12:00:00+05:30",
+    "document_opening_at": "2026-10-30T12:00:00+05:30"
+  }
 }

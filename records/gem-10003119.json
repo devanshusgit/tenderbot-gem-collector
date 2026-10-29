@@ -3,7 +3,7 @@
   "city": [],
   "closing_at": "2026-10-31T14:00:00+05:30",
   "demo": false,
-  "department": "Department of Atomic Energy",
+  "department": "Department Of Atomic Energy",
   "description": "Wide Format CAD/GIS Plotter Printer",
   "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
   "document_url": "https://bidplus.gem.gov.in/showbidDocument/10003119",
@@ -11,15 +11,30 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10003119"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/To9hoEsNVjfH5I9WuUFcabplsIBAR7qns8XL6ODWXow",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261008",
+      "page": 10
     }
   ],
-  "emd_fee": null,
+  "emd_fee": 0,
   "gem_bid_id": "10003119",
   "gem_id": "10003119",
   "id": "gem-10003119",
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
-  "ministry": "PMO",
-  "organisation": "Department of Atomic Energy",
+  "ministry": "Pmo",
+  "organisation": "Directorate Of Purchase And Stores",
   "portal_name": "GeM",
   "product_category": "Wide Format CAD/GIS Plotter Printer",
   "published_at": "2026-10-08T16:25:09+05:30",
@@ -34,5 +49,302 @@
   ],
   "tender_id": "GEM/2026/B/8132794",
   "tender_value": null,
-  "title": "Wide Format CAD/GIS Plotter Printer"
+  "title": "Wide Format CAD/GIS Plotter Printer",
+  "office": "Directorate Of Purchase And Stores",
+  "buyer_email": "apo3mrpu.tndae@nic.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "90 (Days)",
+  "source_document_fetched_at": "2026-10-29T13:53:14.431548+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_sha256": "c7b837c978212f9af7fec998b984f42d74e05665618fceb3e03d2a9c761d9723",
+  "document_pages": 10,
+  "eligibility": [
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM bid PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM bid PDF, p. 1)",
+    "Documents required from seller: Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM bid PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "P Raja",
+      "address": "603102,DPS/IGCAR, Central Stores Unit, Kalpakkam .",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 45
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Print Capability",
+          "parameter": "Device Configuration",
+          "value": "Print-Only Wide-Format CAD/GIS Plotter Printer"
+        },
+        {
+          "group": "Print Capability",
+          "parameter": "Print Engine / Printing Technology",
+          "value": "Inkjet"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Colour Capability / Colour Configuration",
+          "value": "4 to 6 Colour Technical Colour System, 7 to 12 Colour Technical Colour System Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Maximum Printable / Media Width (in cm)",
+          "value": "Up to 111.76 (44 inch), Up to 152.40 (60 inch), Up to 162.56 (64 inch) Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Maximum Print Resolution (in dpi)",
+          "value": "2400 x 1200 Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "A1/D-size CAD Line Drawing Print Time per A1/D-size CAD Plot (in Seconds)",
+          "value": "Up to 5, 6 to 10, 11 to 15, 16 to 30 Or higher"
+        },
+        {
+          "group": "Media Handling",
+          "parameter": "Number of Roll Feeds",
+          "value": "Dual Roll, Three Roll, Four Roll, Six Roll Or higher"
+        },
+        {
+          "group": "Media Handling",
+          "parameter": "Supported Media Types",
+          "value": "Plain/Bond Paper, Coated Paper, Heavyweight Coated Paper, Tracing/Translucent Paper, Matte Film/Polypropylene, Photo/Gloss Media"
+        },
+        {
+          "group": "Media Handling",
+          "parameter": "Maximum Supported Media Weight (in GSM)",
+          "value": "451 to 550 Or higher"
+        },
+        {
+          "group": "Scanning Features",
+          "parameter": "Scanner Maximum Width",
+          "value": "Not Applicable for Print Only Model Or higher"
+        },
+        {
+          "group": "Scanning Features",
+          "parameter": "Optical Resolution (in dots per inch)",
+          "value": "0.0 Or higher"
+        },
+        {
+          "group": "Performance & Processing",
+          "parameter": "Standard Installed Processing Memory / RAM (in MB)",
+          "value": "4096, 8192, 6144, 9216 Or higher"
+        },
+        {
+          "group": "Performance & Processing",
+          "parameter": "Supported Print Languages / File Processing",
+          "value": "HP-GL/2, HP RTL, PDF Direct Print, PostScript, TIFF/JPEG direct print, Standard OS Printer Driver Based Printing"
+        },
+        {
+          "group": "Connectivity & Compatibility",
+          "parameter": "Connectivity Interfaces",
+          "value": "1 x USB Type A, 1 x 10/100/1000 Ethernet, Wi-Fi"
+        },
+        {
+          "group": "Connectivity & Compatibility",
+          "parameter": "Driver / Client OS Support",
+          "value": "Windows, macOS"
+        },
+        {
+          "group": "Connectivity & Compatibility",
+          "parameter": "Included Physical Accessories",
+          "value": "Integrated Floor-Standing Body/Base, Output Basket/Catch Tray, Roll Spindle/Roll Holder"
+        },
+        {
+          "group": "Compliance & Warranty",
+          "parameter": "On site OEM Warranty (in Year)",
+          "value": "1, 3, 5 Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 2. Inspection Pre-dispatch inspection at Seller premises (Fee/Charges to be borne by the BUYER): Before dispatch, the goods will be inspected by Buyer / Consignee or their Authorized Representative or by Nominated External Inspection Agency (independently or jointly with Buyer or Consignee as decided by the Buyer) at Seller premises (or at designated place for inspection as declared / communicated by the seller) for their compliance to the contract specifications. Fee/Charges taken by the External inspection Agency and any external laboratories testing charges shall be borne by the Buyer. For in-house testing, the Sellers will provide necessary facilities free of cost. Seller shall notify the Buyer through e-mail about readiness of goods for pre-dispatch inspection and Buyer will notify the Seller about the Authorized Representative/ Nominated External Inspection Agency and the date for testing. The goods would be dispatched to consignee only after clearance in pre-dispatch inspection. Consignee's right of rejection as per GTC in respect of the goods finally received at his location shall in no way be limited or waived by reason of the goods having previously been inspected, tested and passed by Buyer/ Consignee or its Nominated External Inspection Agency prior to the goods' shipment. While bidding, the sellers should take into account 7 days for inspection from the date of email offering the goods for inspection. Any delay in inspection beyond 7 days shall be on the part of the buyer and shall be regularised without Liquidated Damages. When there is requirement of submission the advance sample, the seller shall inform the buyer promptly through emails about the date of submission of sample to the buyer nominated Inspection agency. 3. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 4. Generic Scope of supply includes Training: Number of employees to be trained"
+    },
+    {
+      "page": 6,
+      "text": "2 , Place for Training purchaser's premises and Duration of training 1 days. 5. Warranty Warranty period of the supplied products shall be 3 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 6. Purchase Preference (Centre) Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to avail the Purchase preference, the bidder must be the manufacturer of the offered product in case of bid for supply of goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of 24% of total value. 7. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses DPS/MRPU/2/3/23318 Bidder shall furnish their compliance to the technical specification as per bid including our additional specif ication parameters with absolute values offered by them in their letterhead duly stamped & signed, failing which offer will be rejected. ANNEXURE-1 TO TENDER REF.NO.DPS/MRPU/2/3/23318 Additional Terms Conditions (For any future correspondence, please mention our reference No. along with the bid num ber) 1. As per public procurement policy to avail purchase preference under Micro and Small Enter prises (MSE’s) bidders are requested to upload the relevant documents along with bid in rel evant place i.e. MSE Status. Non uploading of the documents in relevant place may lead t o lose the opportunity to match L1 price and award of contract as per purchase preference under MSE policy. 2. If any firm is claiming purchase preference on the basis of Micro/ Small Manufacturer, the bidder should upload both the certificates as follows in the relevant column of GeM portal: i. UDYAM registration certificate with all details is only acceptable ii. Self declaration/OEM certificate explicitly stating whether the bidder is the actual manuf acturer of the quoted primary product duly stamped & signed by the authorized signatory o f the company."
+    },
+    {
+      "page": 7,
+      "text": "3. . IMPORTANT PLEASE MAKE SURE AND FURNISH DECLARATION/UNDERTAKING FOR THE F OLLOWING WHILE SUBMITTING YOUR BID/OFFER ONLINE TO CONSIDER YOUR OFFER: I. YOU HAD FULLY UNDERSTOOD THE SCOPE OF SUPPLY, SPECIFICATION AND ALL BID CON DITIONS. II. NO COMPROMISE IN QUALITY OF THE QUOTED ITEM. III. THERE IS NO DEVIATION FROM BID SPECIFICATION. IV. UNCONDITIONAL ACCEPTANCE OF ALL TERMS AND CONDITIONS AS PER BID DOCUMENT . V. RATES SHOULD NOT BE DISCLOSED IN TECHNICAL PART IN CASE OF TWO PACKET BID. VI. NO COUNTER CONDITIONS AGAINST THE BID TERMS AND CONDITIONS. Note: You are hereby confirming the following by submitting online bid/offer that: a. you have fully understood scope of supply, specification and all Bid conditions b. there is no deviation from Bid specification and c. unconditional acceptance of all the terms and conditions governed by the General Te rms and Conditions of GeM and terms as per ATC. 4. Delivery Instructions for Suppliers/Transporters: I. Delivery Timings & Working Hours: a. IGCAR, Kalpakkam works for 5 days in a Week (Saturday & Sunday are weekl y-offs). b. Material delivery can be accepted only in working days (Monday-Friday) excl uding Public Holidays between 10:00 Hrs, to 15:00 Hrs. c. Supplier/Transporter should report at Main Gate, IGCAR, Kalpakkam well in ti me, so as to complete the security checks and deliver the material as per the schedule. In case they reach the Site after 3 p.m on any working day or holida y the lorry is liable to be detained overnight till next working day when nece ssary unloading facilities could be organized and the consignment unloaded. Please also note that, no detention charges will be payable by us if the Lorrie s are detained overnight due to the above reasons. II. The Packages should be securely packed and details regarding Purchase Orde r/GeM Contract reference, complete address of Consignor/Consignee (with Contact details) should be clearly marked on all the packages. III. When dispatching multiple orders, material of each order should be packed i n separate package, and details regarding Order reference should be clearl y marked."
+    },
+    {
+      "page": 8,
+      "text": "IV. OTP based deliveries are not possible inside IGCAR/DAE Units. Hence dispatch of material shall be through standard transporters, WITHOUT OTP. V. In the event of dispatch through Speed Post, the date of actual delivery/ physical collection will be considered as Delivery Date. VI. The personnel accompanying the supply (visiting IGCAR) should carry valid original Govt ID Proof and details of the personnel should be intimated in advance, for arran ging entry permit. VII. Drivers should carry original valid Transport Driving License, original Gov t ID Proof and Aadhar card and Vehicles should possess all the required valid Ori ginal Road Documents, such as RC, Insurance, Fitness and etc., otherwise the vehicl es will not be permitted inside plant for delivery. VIII. Vehicles with GPS tracking are not permitted inside DAE Units . IX. Prior intimation/communication has to be sent to the consignee, well in advance, wi th complete details of material including Purchase Order/GeM Contract Number, No of Packages, Volume & weight and contact details of transporter/driver by email. X. Contact Details for advance intimation regarding delivery: a. For IGCAR: i. Tel Nos: 044-27480079 & 27480213 (Direct) and ii. Board: 044-27480500 Extension: 22362/22642/22779 iii. Email-IDs: stores@igcar.gov.in, asortwo@igcar.gov.in b. For IGCAR/GSO: i. Tel Nos: 044-27480079 & 27480213 (Direct) and ii. Board: 044-27480500 Extension: 22363/22032/22082 iii. Email-IDs: stores@igcar.gov.in, asorone@igcar.gov.in ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8132794",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003119"
+    },
+    {
+      "field": "document_closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 26-10-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003119"
+    },
+    {
+      "field": "document_opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 27-10-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003119"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003119"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Pmo",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003119"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Atomic Energy",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003119"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Directorate Of Purchase And Stores",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003119"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Directorate Of Purchase And Stores",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003119"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :hod_dps_gem@dpsdae.gov.in Buyer Email id: apo3mrpu.tndae@nic.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003119"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003119"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Wide Format CAD/GIS Plotter Printer (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003119"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003119"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003119"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003119"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003119"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003119"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003119"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Device Configuration: Print-Only Wide-Format CAD/GIS Plotter Printer | Print Engine / Printing Technology: Inkjet",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003119"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Colour Capability / Colour Configuration: 4 to 6 Colour Technical Colour System, 7 to 12 Colour Technical Colour System Or higher | Maximum Printable / Media Width (in cm): Up to 111.76 (44 inch), Up to 152.40 (60 inch), Up to 162.56 (64 inch) Or higher | Maximum Print Resolution (in dpi): 2400 x 1200 Or higher | A1/D-size CAD Line Drawing Print Time per A1/D-size CAD Plot (in Seconds): Up to 5, 6 to 10, 11 to 15, 16 to 30 Or higher | Number of Roll Feeds: Dual Roll, Three Roll, Four Roll, Six Roll Or higher | Supported Media Types: Plain/Bond Paper, Coated Paper, Heavyweight Coated Paper, Tracing/Translucent Paper, Matte Film/Polypropylene, Photo/Gloss Media | Maximum Supported Media Weight (in GSM): 451 to 550 Or higher | Scanner Maximum Width: Not Applicable for Print Only Model Or higher | Optical Resolution (in dots per inch): 0.0 Or higher | Standard Installed Processing Memory / RAM (in MB): 4096, 8192, 6144, 9216 Or higher | Supported Print Languages / File Processing: HP-GL/2, HP RTL, PDF Direct Print, PostScript, TIFF/JPEG direct print, Standard OS Printer Driver Based Printing | Connectivity Interfaces: 1 x USB Type A, 1 x 10/100/1000 Ethernet, Wi-Fi | Driver / Client OS Support: Windows, macOS | Included Physical Accessories: Integrated Floor-Standing Body/Base, Output Basket/Catch Tray, Roll Spindle/Roll Holder | On site OEM Warranty (in Year): 1, 3, 5 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003119"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | P Raja | 603102,DPS/IGCAR, Central Stores Unit, Kalpakkam . | 1 | 45",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003119"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 2. Inspection Pre-dispatch inspection at Seller premises (Fee/Charges to be borne by the BUYER): Before dispatch, the goods will be inspected by Buyer / Consignee or their Authorized Representative or by Nominated External Inspection Agency (independently or jointly with Buyer or Consignee as decided by the Buyer) at Seller premises (or at designated place for inspection as declared / communicated by the seller) for their compliance to the contract specifications. Fee/Charges taken by the External inspection Agency and any external laboratories testing charges shall be borne by the Buyer. For in-house testing, the Sellers will provide necessary facilities free of cost. Seller shall notify the Buyer through e-mail about readiness of goods for pre-dispatch inspection and Buyer will notify the Seller about the Authorized Representative/ Nominated External Inspection Agency and the date for testing. The goods would be dispatched to consignee only after clearance in pre-dispatch inspection. Consignee's right of rejection as per GTC in respect of the goods finally received at his location shall in no way be limited or waived by reason of the goods having previously been inspected, tested and passed by Buyer/ Consignee or its Nominated External Inspection Agency prior to the goods' shipment. While bidding, the sellers should take into account 7 days for inspection from the date of email offering the goods for inspection. Any delay in inspection beyond 7 days shall be on the part of the buyer and shall be regularised without Liquidated Damages. When there is requirement of submission the advance sample, the seller shall inform the buyer promptly through emails about the date of submission of sample to the buyer nominated Inspection agency. 3. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 4. Generic Scope of supply includes Training: Number of employees to be trained",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003119"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "2 , Place for Training purchaser's premises and Duration of training 1 days. 5. Warranty Warranty period of the supplied products shall be 3 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 6. Purchase Preference (Centre) Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to avail the Purchase preference, the bidder must be the manufacturer of the offered product in case of bid for supply of goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of 24% of total value. 7. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses DPS/MRPU/2/3/23318 Bidder shall furnish their compliance to the technical specification as per bid including our additional specif ication parameters with absolute values offered by them in their letterhead duly stamped & signed, failing which offer will be rejected. ANNEXURE-1 TO TENDER REF.NO.DPS/MRPU/2/3/23318 Additional Terms Conditions (For any future correspondence, please mention our reference No. along with the bid num ber) 1. As per public procurement policy to avail purchase preference under Micro and Small Enter prises (MSE’s) bidders are requested to upload the relevant documents along with bid in rel evant place i.e. MSE Status. Non uploading of the documents in relevant place may lead t o lose the opportunity to match L1 price and award of contract as per purchase preference under MSE policy. 2. If any firm is claiming purchase preference on the basis of Micro/ Small Manufacturer, the bidder should upload both the certificates as follows in the relevant column of GeM portal: i. UDYAM registration certificate with all details is only acceptable ii. Self declaration/OEM certificate explicitly stating whether the bidder is the actual manuf acturer of the quoted primary product duly stamped & signed by the authorized signatory o f the company.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003119"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "3. . IMPORTANT PLEASE MAKE SURE AND FURNISH DECLARATION/UNDERTAKING FOR THE F OLLOWING WHILE SUBMITTING YOUR BID/OFFER ONLINE TO CONSIDER YOUR OFFER: I. YOU HAD FULLY UNDERSTOOD THE SCOPE OF SUPPLY, SPECIFICATION AND ALL BID CON DITIONS. II. NO COMPROMISE IN QUALITY OF THE QUOTED ITEM. III. THERE IS NO DEVIATION FROM BID SPECIFICATION. IV. UNCONDITIONAL ACCEPTANCE OF ALL TERMS AND CONDITIONS AS PER BID DOCUMENT . V. RATES SHOULD NOT BE DISCLOSED IN TECHNICAL PART IN CASE OF TWO PACKET BID. VI. NO COUNTER CONDITIONS AGAINST THE BID TERMS AND CONDITIONS. Note: You are hereby confirming the following by submitting online bid/offer that: a. you have fully understood scope of supply, specification and all Bid conditions b. there is no deviation from Bid specification and c. unconditional acceptance of all the terms and conditions governed by the General Te rms and Conditions of GeM and terms as per ATC. 4. Delivery Instructions for Suppliers/Transporters: I. Delivery Timings & Working Hours: a. IGCAR, Kalpakkam works for 5 days in a Week (Saturday & Sunday are weekl y-offs). b. Material delivery can be accepted only in working days (Monday-Friday) excl uding Public Holidays between 10:00 Hrs, to 15:00 Hrs. c. Supplier/Transporter should report at Main Gate, IGCAR, Kalpakkam well in ti me, so as to complete the security checks and deliver the material as per the schedule. In case they reach the Site after 3 p.m on any working day or holida y the lorry is liable to be detained overnight till next working day when nece ssary unloading facilities could be organized and the consignment unloaded. Please also note that, no detention charges will be payable by us if the Lorrie s are detained overnight due to the above reasons. II. The Packages should be securely packed and details regarding Purchase Orde r/GeM Contract reference, complete address of Consignor/Consignee (with Contact details) should be clearly marked on all the packages. III. When dispatching multiple orders, material of each order should be packed i n separate package, and details regarding Order reference should be clearl y marked.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003119"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "IV. OTP based deliveries are not possible inside IGCAR/DAE Units. Hence dispatch of material shall be through standard transporters, WITHOUT OTP. V. In the event of dispatch through Speed Post, the date of actual delivery/ physical collection will be considered as Delivery Date. VI. The personnel accompanying the supply (visiting IGCAR) should carry valid original Govt ID Proof and details of the personnel should be intimated in advance, for arran ging entry permit. VII. Drivers should carry original valid Transport Driving License, original Gov t ID Proof and Aadhar card and Vehicles should possess all the required valid Ori ginal Road Documents, such as RC, Insurance, Fitness and etc., otherwise the vehicl es will not be permitted inside plant for delivery. VIII. Vehicles with GPS tracking are not permitted inside DAE Units . IX. Prior intimation/communication has to be sent to the consignee, well in advance, wi th complete details of material including Purchase Order/GeM Contract Number, No of Packages, Volume & weight and contact details of transporter/driver by email. X. Contact Details for advance intimation regarding delivery: a. For IGCAR: i. Tel Nos: 044-27480079 & 27480213 (Direct) and ii. Board: 044-27480500 Extension: 22362/22642/22779 iii. Email-IDs: stores@igcar.gov.in, asortwo@igcar.gov.in b. For IGCAR/GSO: i. Tel Nos: 044-27480079 & 27480213 (Direct) and ii. Board: 044-27480500 Extension: 22363/22032/22082 iii. Email-IDs: stores@igcar.gov.in, asorone@igcar.gov.in .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10003119"
+    }
+  ],
+  "detail_warning": "The original PDF dates differ from the current public GeM listing. The listing closing date is retained. Confirm the latest opening date and any corrigenda on GeM; the original PDF opening date is not presented as current.",
+  "document_closing_at": "2026-10-26T14:00:00+05:30",
+  "document_opening_at": "2026-10-27T14:00:00+05:30",
+  "date_discrepancy": {
+    "listing_closing_at": "2026-10-31T14:00:00+05:30",
+    "document_closing_at": "2026-10-26T14:00:00+05:30",
+    "document_opening_at": "2026-10-27T14:00:00+05:30"
+  }
 }

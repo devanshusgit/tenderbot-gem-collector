@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8131914",
   "title": "Defibrillator",
   "description": "Defibrillator",
-  "organisation": "NA",
-  "ministry": "Ministry of Power",
-  "department": "NA",
+  "organisation": "Ntpc Limited",
+  "ministry": "Ministry Of Power",
+  "department": "Na",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Defibrillator",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-10-19T10:22:30+05:30",
   "closing_at": "2026-10-30T16:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10002131"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/YIOjwmwa0N8pSrSqTQJKpCVo_87O3MLHXu3DHW23sCI",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261019",
+      "page": 14
     }
   ],
   "tags": [
@@ -34,5 +49,429 @@
   ],
   "source_fetched_at": "2026-10-27T11:15:45.111Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-10-31T16:00:00+05:30",
+  "office": "Ussc Cpg2 Raipur",
+  "buyer_email": "anjut@ntpc.co.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-10-29T11:47:15.671471+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_sha256": "13daf8d8d26cfb5e590f515d43ac4f8e42e44eac7a862cf3bb0b6e2c81450cd0",
+  "document_pages": 14,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM bid PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM bid PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Sajal Dwivedi",
+      "address": "486885,GSTIN: 23AAACN0255D4Z3 NTPC Stores Vindhyachal Super Thermal Power Station P.O. Vindhyanagar District Singrauli 486885",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "GENERAL",
+          "parameter": "Product Description",
+          "value": "Defibrillator"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Capability parameter of defibrillator",
+          "value": "ECG monitoring, External Defibrillation"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Internal defibrillation",
+          "value": "Yes"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Technology of defibrillator",
+          "value": "Biphasic technology"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Modes in defibrillator",
+          "value": "Automated external defibrillation and manual"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Patient compatibility to defibrillate",
+          "value": "Adult and Pediatric"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Type of display",
+          "value": "TFT / LCD"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Size of display screen in inch",
+          "value": ">=6"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Number of waveforms and provision to display ECG waveform on bright high resolution display",
+          "value": "4"
+        },
+        {
+          "group": null,
+          "parameter": "Defibrillator should display delivered energy",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Maximum energy selection in joules",
+          "value": "Upto 360 or more"
+        },
+        {
+          "group": null,
+          "parameter": "Facility of External non- invasive pacing",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Type of external transcutaneous pacing modes",
+          "value": "Demand mode and fixed mode"
+        },
+        {
+          "group": null,
+          "parameter": "Pulse width of External non- invasive pacing in milli seconds (maximum)",
+          "value": "40"
+        },
+        {
+          "group": null,
+          "parameter": "Facility to monitor EtCO2",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Facility to monitor NIBP",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Facility to monitor SPO2",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "ECG monitoring",
+          "value": "Using 5 lead"
+        },
+        {
+          "group": null,
+          "parameter": "Battery backup to deliver number of shocks at maximum energy",
+          "value": ">=100"
+        },
+        {
+          "group": null,
+          "parameter": "Charging time for maximum energy in seconds",
+          "value": "<=7"
+        },
+        {
+          "group": null,
+          "parameter": "Mechanism of self test of unit",
+          "value": "Automatic and manual"
+        },
+        {
+          "group": null,
+          "parameter": "Suitability of defibrillator for transport on ground (ambulance)",
+          "value": "Yes"
+        },
+        {
+          "group": "Standard Accessories",
+          "parameter": "Li-ion Battery",
+          "value": "1"
+        },
+        {
+          "group": "Standard Accessories",
+          "parameter": "ECG cable",
+          "value": "1"
+        },
+        {
+          "group": "Standard Accessories",
+          "parameter": "NIBP pediatric cuff with hose",
+          "value": "1"
+        },
+        {
+          "group": "Standard Accessories",
+          "parameter": "NIBP adult cuff with hose",
+          "value": "1"
+        },
+        {
+          "group": "Standard Accessories",
+          "parameter": "SPO2 Probes for adult",
+          "value": "1"
+        },
+        {
+          "group": "Standard Accessories",
+          "parameter": "SPO2 Probes for paediatric",
+          "value": "1"
+        },
+        {
+          "group": "Standard Accessories",
+          "parameter": "Disposable airway adpater with EtCO2 mainstream sensor and cable",
+          "value": "1"
+        },
+        {
+          "group": "Standard Accessories",
+          "parameter": "Disposable sampling line with EtCO2 side stream and cable",
+          "value": "1"
+        },
+        {
+          "group": "Standard Accessories",
+          "parameter": "External defibrillator paddles (pediatric in built in adult)",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Multi Function Defibrillator & Monitoring pads/gel sheets",
+          "value": "1"
+        },
+        {
+          "group": "CERTIFICATIONS",
+          "parameter": "Compliance to Medical Device Rules (MDR) 2017 as amended till date",
+          "value": "Yes"
+        },
+        {
+          "group": "CERTIFICATIONS",
+          "parameter": "Availability of valid Medical Device license for the product issued from the competent authority defined under Drugs and Cosmetic Act 1940 and Rules made there under as amended till date",
+          "value": "Yes"
+        },
+        {
+          "group": "CERTIFICATIONS",
+          "parameter": "Certification for manufacturing unit",
+          "value": "ISO:13485 (Latest)"
+        },
+        {
+          "group": "CERTIFICATIONS",
+          "parameter": "Availability of Test Report for each supplied batch/product as per Medical Device Rule (MDR) 2017 as amended till date",
+          "value": "Yes"
+        },
+        {
+          "group": "CERTIFICATIONS",
+          "parameter": "Agree to submit all necessary certifications, licenses and test reports to the buyer at the time of bid submission or along with supplies as per buyer requirement",
+          "value": "Yes"
+        },
+        {
+          "group": "CERTIFICATIONS",
+          "parameter": "Conformity to Electrical Safety Standards",
+          "value": "IEC 60601 or BIS Equivalent"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "Warranty (Option of comprehensive warranty is available through bidding only, which if opted will supersede normal warranty in the catalogue)",
+          "value": "5.0 (year)"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 7,
+      "text": "1. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 2. Generic"
+    },
+    {
+      "page": 8,
+      "text": "2. We understand that in case the Products and/or Services offered do not meet the technical requirements, then our bid shall be rejected as Technically non-re sponsive. We also confirm that in case we refuse to withdraw additional conditions/deviati on s/variations/exception, implicit or explicit, found anywhere in the techno-co mmercial bid, our bid shall be rejected as Technically non-responsive. We further confirm that if any deviation/variation in any form is found in our Pri ce Bid, the EMD shall be forfeited”."
+    },
+    {
+      "page": 9,
+      "text": "3 If any seller/bidder has any clarification against technical specification or other wise on any aspect of this bid, they can raise their representation against the s ame by using the Representation Window provided in the bid details field in Sel ler dashboard after logging in as a seller within the time period after bid publica tion as allowed by GeM. Clarification asked through any means other than abov e, may not be considered by NTPC. 4 Bidder may quote as per \"Technical Specification\" and/ or spec sheet attached f or each line item/ schedule. In case of any contradiction between Category/ BO Q Item description and \"Technical Specification\" of the item(s) attached in the t ender, TECHNICAL SPECIFICATION OF THAT ITEM SHOULD BE CONSIDERED FOR THE SUBMISSION OF OFFER AND SAME SHALL BE CONSIDERED FOR EVALUATIO N PURPOSE AT OUR END. The details mentioned in the detailed Technical speci fication shall be considered final for the offer/ bid/ technical evaluation. Bidder has to quote make and model in GeM as per option available in GeM duri ng submission of offer after meeting all the technical specification of tender. Aft er opening of bids, any change in vendor's quoted make or model in their bid ca nnot be done and any such request will be rejected. In the event of an order, v endor’s quoted make and model in their bid will also get automatically populat ed in the GEM Purchase order. Also, MSE & MII benefits will be given exclusively based on documents submitted in reference to the \"quoted make and model\" s ubmitted in the GeM bid. 5 Guarantee/Warranty: As per Technical specification. (The Guarantee/ Warranty Terms and Conditions shall be applicable to the material supplied against the P O. No separate Guarantee/ Warranty Certificate is required to be submitted by the Supplier along with the material. The Guarantee / Warranty terms and condi tion shall be binding on the supplier). If any higher Guarantee/warranty mention ed in the technical specification the same shall be applicable. 6 Common IP Addresses: - Bidders may please note that GeM is capturing and pr esenting to the buyer the IP addresses used by the Buyer and the Bidder(s) /Sel ler(s). The received bids having matching/common IP address with either Bidder(s)/Seller(s) or Buyer, shall be outrightly rejected & shall not be consi dered for further evaluation. 7 During techno-commercial evaluation of offer, clarification/ reply to the queries (if asked by NTPC) given by bidder will be considered an integral part of the Ge M purchase order and the vendor will be liable to execute the PO also in accord ance with the same. Furthermore, in the event subsequent clarification(s)/quer y(ies) are sought and bidder fails to respond or responds with incorrect / inadeq uate or non-compliant information, the bid will be liable to be rejected. Subsequ ent representation(s) may not be accepted in such cases."
+    },
+    {
+      "page": 10,
+      "text": "8 The Bidder shall be held solely responsible for non-submission of bids on the e- tender portal due to any reasons within the due date/ time, The Procuring Entit y/NTPC shall not be held responsible or liable in any manner for the same. Bidders shall follow the guidelines/instructions available on the e-tender portal and are advised to submit their bids well before the due date and time to avoid any inconvenience or risk of non-submission. All post award communication/ grievance will be addressed to consignee at em ail id: storeincharge-vindhyachal@ntpc.co.in. In case of non-resolution of the iss ue, matter can be escalated along with previous correspondence(s) to email id: - vendor_grievance_cpg2@ntpc.co.in. 9 Payment terms: As per GeM 10 Make in India (MII): Provisions of Public Procurement (Preference to Make in India), Order 2017 and its subsequent amendments/ revisions issued by DPIIT is not applicable in this t ender. Hence, all suppliers (Class-I/ Class-II/ Non-Local Sup pliers) can participat e in this tender. 11 CONFLICT OF INTEREST: A bidder shall not have conflict of interest with other bidders. Such conflict of in terest can lead to anti- competitive practices to the detriment of Employer’s int erests. A bidder may be considered to have a conflict of interest with one or mo re parties in this bidding process, if: a) they directly or indirectly control, or are controlled by or are under common control of another entity; or b) they have the same legal representative/agent for purposes of their bids; or c) they have relationship with each other, directly or through common third par ty(ies), that puts them in a position to have access to information about or influ ence on the bid of another Bidder; or d) Bidder and/or any of its allied entity(ies), which directly or indirectly control( s) or is(are) controlled by or is(are) under common control of another entity, ha s(ve) participated as a consultant in the preparation of the design or technical s pecifications of the contract that is the subject of the tender; or e) Bidder participates in more than one bid in this bidding process. f) In cases of agents quoting on behalf of their principal manufacturers/service providers, one agent cannot represent two manufacturers/service providers or quote on their behalf in a particular tender enquiry. One manufacturer/service provider can also authorize only one agent. There can be only one bid from the following: i) The principal manufacturer/service provider directly or through one Indian ag ent on his behalf; and ii) Indian/foreign agent on behalf of only one principal."
+    },
+    {
+      "page": 11,
+      "text": "For the purposes of this clause the term ‘control’ shall have the following meani ng: “Control” shall include the right to appoint majority of the directors or to contro l the management or policy decisions exercisable by a person or persons acting individually or in concert, directly or indirectly, including by virtue of their shar eholding or management rights or shareholders’ agreements or voting agreem ents or in any other manner. Vendor has to submit CONFLICT OF INTEREST declaration in bid during submissi on offer as detail as “We confirm that we have read and understood the Buyer Added Bid Specific ATC Clause regarding “Conflict of Interest” and our bid is in c ompliance to this clause. In case it is established that we have provided any fal se information in pursuance of the aforesaid Clause, while competing for this c ontract, then our bid shall be rejected and bid security shall be forfeited. We also understand that in case we become successful bidder, if it is established th at we have not complied with terms of aforesaid Clause, during execution of co ntract, this would be considered as fraudulent practice as mentioned in para 5. 1 (j) of “Policy for Debarment from Business Dealings” and shall be dealt accor dingly.” Note: Policy for Debarment from Business Dealings available at \"https://ntpc.co .in/sites/default/files/policy- documents/Policy_for_Debarment_from_Business_D ealings.pdf\". CONFLICT OF INTEREST DECLARATION FORM ……………………………………. PACKAGE FOR ……………………………………………… …………………. PROJECT BIDDING DOCUMENT NO. …………………………………….. (Compliance to “Conflict of Interest” provisions) We confirm that we have read and understood the ITB* Clause regarding “Confli ct of Interest” and our bid is in compliance to this clause. In case it is established that we have provided any false information in pursuan ce of the aforesaid ITB* Clause, while competing for this contract, then our bid shall be rejected and bid security shall be forfeited. We also understand that in case we become successful bidder, if it is establishe d that we have not complied with terms of aforesaid ITB Clause, during executi on of contract, this would be considered as fraudulent practice as mentioned in para 5.1 (j) of “Policy for Debarment from Business Dealings” and shall be dealt accordingly. 12 Risk purchase- In the event of Suppliers failure to supply the material of accepta ble quality in scheduled delivery period, NTPC reserves the right to procure the materials from any other source at the Suppliers risk and cost and the differenc e in cost shall be borne by the Supplier. Further, NTPC shall retain the right of f orfeiture of CPG/ PBG and or any other action as deemed fit."
+    },
+    {
+      "page": 12,
+      "text": "13 Pre-Dispatch Inspection (PDI): Not Applicable 14 EMD BG: NOT APPLICABLE 15 Performance Bank Guarantee (PBG) Detail: NOT APPLICABLE 16 MSME benefit (purchase preference) is to be given as per following conditions: In case of procurement of goods/ services, preferences to MSEs whose quoted p rices are within L1 (non-MSEs) +15% range (subject to matching of L1 price) wil l be given in the following order: a) SC-ST Women MSEs b) SC-ST other than Women MSEs c) Women MSEs d) Other MSEs The MSE order quantity will be as per following: i. Where the requirement is Not-Splitable: 100% of contract quantity will be awa rded to MSEs. ii. Where the requirement is Splitable: 25% of contract quantity will be awarded to MSEs. In case of more than one MSEs (for the same category) are within rang e of L1+15 % price, then 25% of tendered quantity will be divided equally amon gst them. 17 CONTACT DETAILS 1) Ms. Anju T, 9496004661, anjut@ntpc.co.in 2) Mr. Sudipto De Sarkar, 9650509419, sudiptodesarkar@ntpc.co.in ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8131914",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002131"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 30-10-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002131"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 31-10-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002131"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002131"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Power",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002131"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Na",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002131"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Ntpc Limited",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002131"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Ussc Cpg2 Raipur",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002131"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :sudiptodesarkar@ntpc.co.in Buyer Email id: anjut@ntpc.co.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002131"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002131"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Defibrillator (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002131"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002131"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002131"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002131"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002131"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002131"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Product Description: Defibrillator | Capability parameter of defibrillator: ECG monitoring, External Defibrillation | Internal defibrillation: Yes | Technology of defibrillator: Biphasic technology | Modes in defibrillator: Automated external defibrillation and manual | Patient compatibility to defibrillate: Adult and Pediatric | Type of display: TFT / LCD | Size of display screen in inch: >=6",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002131"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Number of waveforms and provision to display ECG waveform on bright high resolution display: 4 | Defibrillator should display delivered energy: Yes | Maximum energy selection in joules: Upto 360 or more | Facility of External non- invasive pacing: Yes | Type of external transcutaneous pacing modes: Demand mode and fixed mode | Pulse width of External non- invasive pacing in milli seconds (maximum): 40 | Facility to monitor EtCO2: Yes | Facility to monitor NIBP: Yes | Facility to monitor SPO2: Yes | ECG monitoring: Using 5 lead | Battery backup to deliver number of shocks at maximum energy: >=100 | Charging time for maximum energy in seconds: <=7 | Mechanism of self test of unit: Automatic and manual | Suitability of defibrillator for transport on ground (ambulance): Yes | Li-ion Battery: 1 | ECG cable: 1 | NIBP pediatric cuff with hose: 1 | NIBP adult cuff with hose: 1 | SPO2 Probes for adult: 1 | SPO2 Probes for paediatric: 1 | Disposable airway adpater with EtCO2 mainstream sensor and cable: 1 | Disposable sampling line with EtCO2 side stream and cable: 1 | External defibrillator paddles (pediatric in built in adult): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002131"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Multi Function Defibrillator & Monitoring pads/gel sheets: 1 | Compliance to Medical Device Rules (MDR) 2017 as amended till date: Yes | Availability of valid Medical Device license for the product issued from the competent authority defined under Drugs and Cosmetic Act 1940 and Rules made there under as amended till date: Yes | Certification for manufacturing unit: ISO:13485 (Latest) | Availability of Test Report for each supplied batch/product as per Medical Device Rule (MDR) 2017 as amended till date: Yes | Agree to submit all necessary certifications, licenses and test reports to the buyer at the time of bid submission or along with supplies as per buyer requirement: Yes | Conformity to Electrical Safety Standards: IEC 60601 or BIS Equivalent | Warranty (Option of comprehensive warranty is available through bidding only, which if opted will supersede normal warranty in the catalogue): 5.0 (year)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002131"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Sajal Dwivedi | 486885,GSTIN: 23AAACN0255D4Z3 NTPC Stores Vindhyachal Super Thermal Power Station P.O. Vindhyanagar District Singrauli 486885 | 1 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002131"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "1. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 2. Generic",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002131"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "2. We understand that in case the Products and/or Services offered do not meet the technical requirements, then our bid shall be rejected as Technically non-re sponsive. We also confirm that in case we refuse to withdraw additional conditions/deviati on s/variations/exception, implicit or explicit, found anywhere in the techno-co mmercial bid, our bid shall be rejected as Technically non-responsive. We further confirm that if any deviation/variation in any form is found in our Pri ce Bid, the EMD shall be forfeited”.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002131"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "3 If any seller/bidder has any clarification against technical specification or other wise on any aspect of this bid, they can raise their representation against the s ame by using the Representation Window provided in the bid details field in Sel ler dashboard after logging in as a seller within the time period after bid publica tion as allowed by GeM. Clarification asked through any means other than abov e, may not be considered by NTPC. 4 Bidder may quote as per \"Technical Specification\" and/ or spec sheet attached f or each line item/ schedule. In case of any contradiction between Category/ BO Q Item description and \"Technical Specification\" of the item(s) attached in the t ender, TECHNICAL SPECIFICATION OF THAT ITEM SHOULD BE CONSIDERED FOR THE SUBMISSION OF OFFER AND SAME SHALL BE CONSIDERED FOR EVALUATIO N PURPOSE AT OUR END. The details mentioned in the detailed Technical speci fication shall be considered final for the offer/ bid/ technical evaluation. Bidder has to quote make and model in GeM as per option available in GeM duri ng submission of offer after meeting all the technical specification of tender. Aft er opening of bids, any change in vendor's quoted make or model in their bid ca nnot be done and any such request will be rejected. In the event of an order, v endor’s quoted make and model in their bid will also get automatically populat ed in the GEM Purchase order. Also, MSE & MII benefits will be given exclusively based on documents submitted in reference to the \"quoted make and model\" s ubmitted in the GeM bid. 5 Guarantee/Warranty: As per Technical specification. (The Guarantee/ Warranty Terms and Conditions shall be applicable to the material supplied against the P O. No separate Guarantee/ Warranty Certificate is required to be submitted by the Supplier along with the material. The Guarantee / Warranty terms and condi tion shall be binding on the supplier). If any higher Guarantee/warranty mention ed in the technical specification the same shall be applicable. 6 Common IP Addresses: - Bidders may please note that GeM is capturing and pr esenting to the buyer the IP addresses used by the Buyer and the Bidder(s) /Sel ler(s). The received bids having matching/common IP address with either Bidder(s)/Seller(s) or Buyer, shall be outrightly rejected & shall not be consi dered for further evaluation. 7 During techno-commercial evaluation of offer, clarification/ reply to the queries (if asked by NTPC) given by bidder will be considered an integral part of the Ge M purchase order and the vendor will be liable to execute the PO also in accord ance with the same. Furthermore, in the event subsequent clarification(s)/quer y(ies) are sought and bidder fails to respond or responds with incorrect / inadeq uate or non-compliant information, the bid will be liable to be rejected. Subsequ ent representation(s) may not be accepted in such cases.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002131"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "8 The Bidder shall be held solely responsible for non-submission of bids on the e- tender portal due to any reasons within the due date/ time, The Procuring Entit y/NTPC shall not be held responsible or liable in any manner for the same. Bidders shall follow the guidelines/instructions available on the e-tender portal and are advised to submit their bids well before the due date and time to avoid any inconvenience or risk of non-submission. All post award communication/ grievance will be addressed to consignee at em ail id: storeincharge-vindhyachal@ntpc.co.in. In case of non-resolution of the iss ue, matter can be escalated along with previous correspondence(s) to email id: - vendor_grievance_cpg2@ntpc.co.in. 9 Payment terms: As per GeM 10 Make in India (MII): Provisions of Public Procurement (Preference to Make in India), Order 2017 and its subsequent amendments/ revisions issued by DPIIT is not applicable in this t ender. Hence, all suppliers (Class-I/ Class-II/ Non-Local Sup pliers) can participat e in this tender. 11 CONFLICT OF INTEREST: A bidder shall not have conflict of interest with other bidders. Such conflict of in terest can lead to anti- competitive practices to the detriment of Employer’s int erests. A bidder may be considered to have a conflict of interest with one or mo re parties in this bidding process, if: a) they directly or indirectly control, or are controlled by or are under common control of another entity; or b) they have the same legal representative/agent for purposes of their bids; or c) they have relationship with each other, directly or through common third par ty(ies), that puts them in a position to have access to information about or influ ence on the bid of another Bidder; or d) Bidder and/or any of its allied entity(ies), which directly or indirectly control( s) or is(are) controlled by or is(are) under common control of another entity, ha s(ve) participated as a consultant in the preparation of the design or technical s pecifications of the contract that is the subject of the tender; or e) Bidder participates in more than one bid in this bidding process. f) In cases of agents quoting on behalf of their principal manufacturers/service providers, one agent cannot represent two manufacturers/service providers or quote on their behalf in a particular tender enquiry. One manufacturer/service provider can also authorize only one agent. There can be only one bid from the following: i) The principal manufacturer/service provider directly or through one Indian ag ent on his behalf; and ii) Indian/foreign agent on behalf of only one principal.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002131"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 11,
+      "quote": "For the purposes of this clause the term ‘control’ shall have the following meani ng: “Control” shall include the right to appoint majority of the directors or to contro l the management or policy decisions exercisable by a person or persons acting individually or in concert, directly or indirectly, including by virtue of their shar eholding or management rights or shareholders’ agreements or voting agreem ents or in any other manner. Vendor has to submit CONFLICT OF INTEREST declaration in bid during submissi on offer as detail as “We confirm that we have read and understood the Buyer Added Bid Specific ATC Clause regarding “Conflict of Interest” and our bid is in c ompliance to this clause. In case it is established that we have provided any fal se information in pursuance of the aforesaid Clause, while competing for this c ontract, then our bid shall be rejected and bid security shall be forfeited. We also understand that in case we become successful bidder, if it is established th at we have not complied with terms of aforesaid Clause, during execution of co ntract, this would be considered as fraudulent practice as mentioned in para 5. 1 (j) of “Policy for Debarment from Business Dealings” and shall be dealt accor dingly.” Note: Policy for Debarment from Business Dealings available at \"https://ntpc.co .in/sites/default/files/policy- documents/Policy_for_Debarment_from_Business_D ealings.pdf\". CONFLICT OF INTEREST DECLARATION FORM ……………………………………. PACKAGE FOR ……………………………………………… …………………. PROJECT BIDDING DOCUMENT NO. …………………………………….. (Compliance to “Conflict of Interest” provisions) We confirm that we have read and understood the ITB* Clause regarding “Confli ct of Interest” and our bid is in compliance to this clause. In case it is established that we have provided any false information in pursuan ce of the aforesaid ITB* Clause, while competing for this contract, then our bid shall be rejected and bid security shall be forfeited. We also understand that in case we become successful bidder, if it is establishe d that we have not complied with terms of aforesaid ITB Clause, during executi on of contract, this would be considered as fraudulent practice as mentioned in para 5.1 (j) of “Policy for Debarment from Business Dealings” and shall be dealt accordingly. 12 Risk purchase- In the event of Suppliers failure to supply the material of accepta ble quality in scheduled delivery period, NTPC reserves the right to procure the materials from any other source at the Suppliers risk and cost and the differenc e in cost shall be borne by the Supplier. Further, NTPC shall retain the right of f orfeiture of CPG/ PBG and or any other action as deemed fit.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002131"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 12,
+      "quote": "13 Pre-Dispatch Inspection (PDI): Not Applicable 14 EMD BG: NOT APPLICABLE 15 Performance Bank Guarantee (PBG) Detail: NOT APPLICABLE 16 MSME benefit (purchase preference) is to be given as per following conditions: In case of procurement of goods/ services, preferences to MSEs whose quoted p rices are within L1 (non-MSEs) +15% range (subject to matching of L1 price) wil l be given in the following order: a) SC-ST Women MSEs b) SC-ST other than Women MSEs c) Women MSEs d) Other MSEs The MSE order quantity will be as per following: i. Where the requirement is Not-Splitable: 100% of contract quantity will be awa rded to MSEs. ii. Where the requirement is Splitable: 25% of contract quantity will be awarded to MSEs. In case of more than one MSEs (for the same category) are within rang e of L1+15 % price, then 25% of tendered quantity will be divided equally amon gst them. 17 CONTACT DETAILS 1) Ms. Anju T, 9496004661, anjut@ntpc.co.in 2) Mr. Sudipto De Sarkar, 9650509419, sudiptodesarkar@ntpc.co.in .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002131"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

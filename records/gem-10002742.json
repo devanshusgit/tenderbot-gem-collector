@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8132436",
   "title": "Random Access Memory (RAM) Module",
   "description": "Random Access Memory (RAM) Module",
-  "organisation": "Department of Atomic Energy",
-  "ministry": "PMO",
-  "department": "Department of Atomic Energy",
+  "organisation": "Nuclear Power Corporation Of India Limited",
+  "ministry": "Pmo",
+  "department": "Department Of Atomic Energy",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Random Access Memory (RAM) Module",
   "quantity": 100,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 19400,
   "published_at": "2026-10-14T16:20:49+05:30",
   "closing_at": "2026-11-05T11:00:00+05:30",
   "status": "active",
@@ -27,6 +27,31 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10002742"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "1791439094.xlsx",
+      "url": "https://bidplus.gem.gov.in/resources/upload_nas/OctQ426/bidding/excel/bid-10002742/1791439094.xlsx",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/oAnRgHBTMARa1KvMEVuxV9bQdTRyw83Lfm9rjyEbNJ0",
+      "page": 4
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8132436/CLM0010/withMIIMSE_50ae85b7-cea8-4959-9c431791454508737_BUYER8.NAPS.pdf",
+      "page": 8
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261014",
+      "page": 11
     }
   ],
   "tags": [
@@ -34,5 +59,265 @@
   ],
   "source_fetched_at": "2026-10-29T10:05:29.339Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-06T11:00:00+05:30",
+  "office": "Naps",
+  "buyer_email": "sabuyer4939@npcil.co.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 15,
+  "offer_validity": "120 (Days)",
+  "source_document_fetched_at": "2026-10-29T13:00:56.168480+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_sha256": "5b185bbf35dcf818d06196e826c4e9f1505bc6e83c132f6822ff354cbe1e6a54",
+  "document_pages": 11,
+  "eligibility": [
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM bid PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM bid PDF, p. 1)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM bid PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Abrar Alam",
+      "address": "202389,Manager (Materials),- C&MM, Narora Atomic Power Station, Distt.-Bulandshahar (UP), PIN – 203389",
+      "quantity": 100,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Architecture and Performance",
+          "parameter": "Memory Generation / Technology",
+          "value": "DDR4 Or higher"
+        },
+        {
+          "group": "Architecture and Performance",
+          "parameter": "System-level ECC and Buffering Class",
+          "value": "Non-ECC Unbuffered"
+        },
+        {
+          "group": "Architecture and Performance",
+          "parameter": "Memory Capacity (in GB)",
+          "value": "16.0 Or higher"
+        },
+        {
+          "group": "Architecture and Performance",
+          "parameter": "Rated Memory Speed (in MT/s)",
+          "value": "3200.0 Or higher"
+        },
+        {
+          "group": "Physical and Electrical Characteristics",
+          "parameter": "Module Form Factor",
+          "value": "DIMM"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Compatibility and Warranty",
+          "parameter": "Warranty Period (in Year)",
+          "value": "3, 5 Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 3. Purchase Preference (Centre) Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to avail the Purchase preference,"
+    },
+    {
+      "page": 6,
+      "text": "the bidder must be the manufacturer of the offered product in case of bid for supply of goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of 25% of total value. 4. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses NOTES 1.Clarifications/Documents submitted during the representation time shall not be considered for evaluation. 2. Only manufacturers quoting for goods/ product manufactured by them shall be eligible for availing bene fits under the Public Procurement Policy for MSEs Order 2012. Dealers/ Distributors/ Sole Agents/ Resellers/ Traders/ Stockiest will not be considered for benefits under the subject policy and are required t o pay requisite EMD as stipulated in the bid document. Seller declaration (Annexure-E attached in B uyer added bid specific ATC) stating that the offered product is manufactured by them shall be sub mitted along with bid. 3. TReDs MSME Ministry, GoI vide notification dtd 02.11.2018 has mandated all CPSE to get on boarded on the TReD S. As per the above directives of MSME Ministry, NPCIL is already registered with RXIL. TReDS is an electro nic platform for facilitating the financing / discounting of trade receivables of Micro, Small and Medium Ent erprises (MSMEs) through multiple financiers. These receivables can be due from corporates and other buy ers, including Government Departments and Public Sector Undertakings (PSUs).Both Buyer and the Seller must be registered on the TReDS platform for financing / factoring of trade receivables of the MSME Seller. Currently, there are four RBI-approved platforms: Receivables Exchange of India Ltd. (RXIL), A Treds Ltd. (I nvoicemart), C2treds and Mynd Solutions Pvt. Ltd. (M1xchange).NPCIL also encourages its seller to register on RXIL trades Platform. In view of the above, you are requested to register on RXIL trades Platform at the earliest. For registration process, bill discounting & other complete details/FAQs and correctness of above i nformation including current interest rates, terms & condition etc., seller may visit the https://www.rxil.in 4.Documents related to release of payment:- For release of payment as per terms & conditions of GeM contract, supplier has to submit following docum ents along with supply to consignee and also upload the documents on GeM portal. a) Original invoice as per applicable GST provisions. b) Annexure-F i.e.GST declaration (format enclosed in GeM bid). c) Seller bank details. As payment is to be released in a time bound manner hence, non-receipt of these documents alon g with supply may lead to rejection of supplies due to non-compliance of document submission. 5. Price Bid Evaluation and Mismatch between “total price quoted by bidder in GeM Financial bid and Total of Price of all item uploaded “Price bid breakup/SOQR” shall be governed as per Annexure-I (Uploaded in b uyer added specific ATC) 6. Bidder has to furnish Annexure-M format for certification under preference to Make in India Policy as defi ned in Public Procurement (Preference to Make in India) order 2017 as amended from time to time. (Annex ure-M uploaded in buyer added specific ATC)"
+    },
+    {
+      "page": 7,
+      "text": "7. Banning of business dealings by NPCIL/Buyer shall be governed as per Annexure-II (Uploaded in buyer a dded specific ATC). 8. Bidder is required to submit Undertaking as per Annexure-III (one Bid per bidder) uploaded in buyer a dded specific ATC. 9. GST break-up to be uploaded in Financial Bid/Price bid only. 10. Instructions to the supplier 1. Supplier may ensure the driver to reach plant premise with all original documents listed below:- a) Original Aadhaar card of driver and helpers. b) Original Driving license of driver (for heavy duty vehicle, driver may come with heavy duty license ) c) Original RC (Registration card) of vehicle. d) Original Fitness Certificate. e) Road Tax must be paid till the date. f) Original Insurance papers of vehicle. Driver if failed to show all these documents in original state will itself responsible for No entry of vehicl e & also no further communication will be made from our end. 2. The driver is requested to reach plant site from 09.00 AM to 03.00 PM of any working day. 3. Supplier may intimate the dispatch of material to the consignee with all the details of driver and hel pers, one or more days before for the Gate pass process and other necessary actions. 11. Buyer’s details for submitting of Electronic Bank Guarantee (eBG) from NeSL portal in NPCIL: As per OM issued by Department of Expenditure, Ministry of Finance, e-Bank Guarantee is acceptable as Bi d Security (EMD) and Performance Security (ePBG) and hence following information may be noted by the b idders in case of submission of Electronic Bank Guarantee (eBG) from NeSL portal. Sl. No. Description Details 1 Beneficiary PAN AAACN3154F 2 Beneficiary Name Nuclear Power Corporation of India L imited 3 Date of Incorporation 03/09/1987 4 Beneficiary Email id To be notify after issue of contract 5 Contact No. To be notify after issue of contract"
+    },
+    {
+      "page": 8,
+      "text": "6 Legal Constitution of the Part Company y 7 Registered office address 16th Floor,World Trade Centre-1,Cuf fe Parade,Colaba,Mumbai 8 Registered office address Pin 400005 code 9 Communication address C&MM Section, Narora Atomic Power Station,Post-NAPS Township,Narora, Distt-Bulandshahr,Uttar Pradesh 10 Communication address Pin c 203389 ode . 5. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 6. Forms of EMD and PBG Bidders can also submit the EMD with Account Payee Demand Draft in favour of Manager (F&A) NAPS, Narora payable at Narora/Bulandshahar . Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 7. Forms of EMD and PBG Bidders can also submit the EMD with Fixed Deposit Receipt made out or pledged in the name of A/C Station Director NAPS, Narora . The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of EMD, the FDR will be released in the favour of the bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Bidder has to upload scanned copy/ proof of the FDR along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date/ Bid Opening date 8. Forms of EMD and PBG Bidders can also submit the EMD with Banker’s Cheque in favour of Manager (F&A) NAPS, Narora payable at Narora/ Bulandshahar. . Bidder has to upload scanned copy / proof of the BC along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 9. Forms of EMD and PBG"
+    },
+    {
+      "page": 9,
+      "text": "Bidders can also submit the EMD with Payment online through RTGS / internet banking in Beneficiary name Nuclear Power Corporation of India Ltd. Account No. 30858438387 IFSC Code SBIN0010657 Bank Name STATE BANK OF INDIA Branch address SBI PSEC BRANCH, PLANT SIDE, NARORA, DIST-BULANDSHAR PIN-203389 . Bidder to indicate bid number and name of bidding entity in the transaction details field at the time of on- line transfer. Bidder has to upload scanned copy / proof of the Online Payment Transfer along with bid. 10. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in favour of Manager (F&A) NAPS, Narora payable at Narora/ Bulandshahar . After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of contract. 11. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of Station Director NAPS, Narora A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract. 12. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Payment online through RTGS / internet banking also (besides PBG which is allowed as per GeM GTC). On-line payment shall be in Beneficiary name Nuclear Power Corporation of India Ltd Account No. 30858438387 IFSC Code SBIN0010657 Bank Name STATE BANK OF INDIA Branch address SBI PSEC BRANCH, PLANT SIDE, NARORA,DIST-BULANDSHAR PIN-203389 . Successful Bidder to indicate Contract number and name of Seller entity in the transaction details field at the time of on-line transfer. Bidder has to upload scanned copy / proof of the Online Payment Transfer in place of PBG within 15 days of award of contract."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8132436",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002742"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 05-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002742"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 06-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002742"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002742"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Pmo",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002742"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Atomic Energy",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002742"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Nuclear Power Corporation Of India Limited",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002742"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Naps",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002742"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :hod.naps@npcil.co.in Buyer Email id: sabuyer4939@npcil.co.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002742"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 100",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002742"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Random Access Memory (RAM) Module (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002742"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002742"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002742"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002742"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 19400",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002742"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 19400",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002742"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002742"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002742"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 2,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002742"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Memory Generation / Technology: DDR4 Or higher | System-level ECC and Buffering Class: Non-ECC Unbuffered | Memory Capacity (in GB): 16.0 Or higher | Rated Memory Speed (in MT/s): 3200.0 Or higher | Module Form Factor: DIMM",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002742"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Warranty Period (in Year): 3, 5 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002742"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Abrar Alam | 202389,Manager (Materials),- C&MM, Narora Atomic Power Station, Distt.-Bulandshahar (UP), PIN – 203389 | 100 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002742"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 3. Purchase Preference (Centre) Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to avail the Purchase preference,",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002742"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "the bidder must be the manufacturer of the offered product in case of bid for supply of goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of 25% of total value. 4. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses NOTES 1.Clarifications/Documents submitted during the representation time shall not be considered for evaluation. 2. Only manufacturers quoting for goods/ product manufactured by them shall be eligible for availing bene fits under the Public Procurement Policy for MSEs Order 2012. Dealers/ Distributors/ Sole Agents/ Resellers/ Traders/ Stockiest will not be considered for benefits under the subject policy and are required t o pay requisite EMD as stipulated in the bid document. Seller declaration (Annexure-E attached in B uyer added bid specific ATC) stating that the offered product is manufactured by them shall be sub mitted along with bid. 3. TReDs MSME Ministry, GoI vide notification dtd 02.11.2018 has mandated all CPSE to get on boarded on the TReD S. As per the above directives of MSME Ministry, NPCIL is already registered with RXIL. TReDS is an electro nic platform for facilitating the financing / discounting of trade receivables of Micro, Small and Medium Ent erprises (MSMEs) through multiple financiers. These receivables can be due from corporates and other buy ers, including Government Departments and Public Sector Undertakings (PSUs).Both Buyer and the Seller must be registered on the TReDS platform for financing / factoring of trade receivables of the MSME Seller. Currently, there are four RBI-approved platforms: Receivables Exchange of India Ltd. (RXIL), A Treds Ltd. (I nvoicemart), C2treds and Mynd Solutions Pvt. Ltd. (M1xchange).NPCIL also encourages its seller to register on RXIL trades Platform. In view of the above, you are requested to register on RXIL trades Platform at the earliest. For registration process, bill discounting & other complete details/FAQs and correctness of above i nformation including current interest rates, terms & condition etc., seller may visit the https://www.rxil.in 4.Documents related to release of payment:- For release of payment as per terms & conditions of GeM contract, supplier has to submit following docum ents along with supply to consignee and also upload the documents on GeM portal. a) Original invoice as per applicable GST provisions. b) Annexure-F i.e.GST declaration (format enclosed in GeM bid). c) Seller bank details. As payment is to be released in a time bound manner hence, non-receipt of these documents alon g with supply may lead to rejection of supplies due to non-compliance of document submission. 5. Price Bid Evaluation and Mismatch between “total price quoted by bidder in GeM Financial bid and Total of Price of all item uploaded “Price bid breakup/SOQR” shall be governed as per Annexure-I (Uploaded in b uyer added specific ATC) 6. Bidder has to furnish Annexure-M format for certification under preference to Make in India Policy as defi ned in Public Procurement (Preference to Make in India) order 2017 as amended from time to time. (Annex ure-M uploaded in buyer added specific ATC)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002742"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "7. Banning of business dealings by NPCIL/Buyer shall be governed as per Annexure-II (Uploaded in buyer a dded specific ATC). 8. Bidder is required to submit Undertaking as per Annexure-III (one Bid per bidder) uploaded in buyer a dded specific ATC. 9. GST break-up to be uploaded in Financial Bid/Price bid only. 10. Instructions to the supplier 1. Supplier may ensure the driver to reach plant premise with all original documents listed below:- a) Original Aadhaar card of driver and helpers. b) Original Driving license of driver (for heavy duty vehicle, driver may come with heavy duty license ) c) Original RC (Registration card) of vehicle. d) Original Fitness Certificate. e) Road Tax must be paid till the date. f) Original Insurance papers of vehicle. Driver if failed to show all these documents in original state will itself responsible for No entry of vehicl e & also no further communication will be made from our end. 2. The driver is requested to reach plant site from 09.00 AM to 03.00 PM of any working day. 3. Supplier may intimate the dispatch of material to the consignee with all the details of driver and hel pers, one or more days before for the Gate pass process and other necessary actions. 11. Buyer’s details for submitting of Electronic Bank Guarantee (eBG) from NeSL portal in NPCIL: As per OM issued by Department of Expenditure, Ministry of Finance, e-Bank Guarantee is acceptable as Bi d Security (EMD) and Performance Security (ePBG) and hence following information may be noted by the b idders in case of submission of Electronic Bank Guarantee (eBG) from NeSL portal. Sl. No. Description Details 1 Beneficiary PAN AAACN3154F 2 Beneficiary Name Nuclear Power Corporation of India L imited 3 Date of Incorporation 03/09/1987 4 Beneficiary Email id To be notify after issue of contract 5 Contact No. To be notify after issue of contract",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002742"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "6 Legal Constitution of the Part Company y 7 Registered office address 16th Floor,World Trade Centre-1,Cuf fe Parade,Colaba,Mumbai 8 Registered office address Pin 400005 code 9 Communication address C&MM Section, Narora Atomic Power Station,Post-NAPS Township,Narora, Distt-Bulandshahr,Uttar Pradesh 10 Communication address Pin c 203389 ode . 5. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 6. Forms of EMD and PBG Bidders can also submit the EMD with Account Payee Demand Draft in favour of Manager (F&A) NAPS, Narora payable at Narora/Bulandshahar . Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 7. Forms of EMD and PBG Bidders can also submit the EMD with Fixed Deposit Receipt made out or pledged in the name of A/C Station Director NAPS, Narora . The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of EMD, the FDR will be released in the favour of the bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Bidder has to upload scanned copy/ proof of the FDR along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date/ Bid Opening date 8. Forms of EMD and PBG Bidders can also submit the EMD with Banker’s Cheque in favour of Manager (F&A) NAPS, Narora payable at Narora/ Bulandshahar. . Bidder has to upload scanned copy / proof of the BC along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 9. Forms of EMD and PBG",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002742"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "Bidders can also submit the EMD with Payment online through RTGS / internet banking in Beneficiary name Nuclear Power Corporation of India Ltd. Account No. 30858438387 IFSC Code SBIN0010657 Bank Name STATE BANK OF INDIA Branch address SBI PSEC BRANCH, PLANT SIDE, NARORA, DIST-BULANDSHAR PIN-203389 . Bidder to indicate bid number and name of bidding entity in the transaction details field at the time of on- line transfer. Bidder has to upload scanned copy / proof of the Online Payment Transfer along with bid. 10. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in favour of Manager (F&A) NAPS, Narora payable at Narora/ Bulandshahar . After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of contract. 11. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of Station Director NAPS, Narora A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract. 12. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Payment online through RTGS / internet banking also (besides PBG which is allowed as per GeM GTC). On-line payment shall be in Beneficiary name Nuclear Power Corporation of India Ltd Account No. 30858438387 IFSC Code SBIN0010657 Bank Name STATE BANK OF INDIA Branch address SBI PSEC BRANCH, PLANT SIDE, NARORA,DIST-BULANDSHAR PIN-203389 . Successful Bidder to indicate Contract number and name of Seller entity in the transaction details field at the time of on-line transfer. Bidder has to upload scanned copy / proof of the Online Payment Transfer in place of PBG within 15 days of award of contract.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10002742"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

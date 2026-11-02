@@ -15,7 +15,7 @@ import urllib.request
 
 from tenderbot_crawler.gem import GemPortal, PortalChallengeError, PortalError
 from tenderbot_crawler.documents import DOCUMENT_PARSER_VERSION, parse_pdf
-from tenderbot_crawler.storage import atomic_json, timestamp, validate_record
+from tenderbot_crawler.storage import atomic_json, official_url, timestamp, validate_record
 if __package__:
     from .remote_portal import RemotePortal, configured as remote_configured
 else:
@@ -69,6 +69,23 @@ def publish_index(folder, state, records=None):
     return records
 
 
+def merge_document_links(*groups):
+    """Retain official PDF links and their existing precise labels/metadata."""
+    links, seen = [], set()
+    for documents in groups:
+        if not isinstance(documents,list):
+            continue
+        for document in documents:
+            if not isinstance(document,dict):
+                continue
+            url = document.get('url')
+            if not isinstance(url,str) or not official_url(url) or url in seen:
+                continue
+            seen.add(url)
+            links.append(dict(document))
+    return links
+
+
 def save_listing(folder, record):
     validate_record(record)
     path = folder/'records'/(record['id']+'.json')
@@ -87,6 +104,9 @@ def save_listing(folder, record):
         if same_document and current.get(key) is None and previous.get(key) is not None:
             merged[key] = previous[key]
     if same_document and previous.get('source_document_fetched_at'):
+        # Listing payloads usually carry only the original PDF link. Keep
+        # parent-bid and other official links identified inside that PDF.
+        merged['documents'] = merge_document_links(previous.get('documents'),current.get('documents'))
         for key in ('state','city'):
             if not current.get(key) and previous.get(key):
                 merged[key] = previous[key]

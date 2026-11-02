@@ -813,6 +813,52 @@ class GithubCollectorTests(unittest.IsolatedAsyncioTestCase):
         self.assertEqual(saved['source_document_fetched_at'],record['source_document_fetched_at'])
         self.assertFalse(collector.document_due(saved,Clock.current))
 
+    def test_listing_refresh_unions_official_pdf_links_preserving_precise_labels_and_evidence(self):
+        record = {**self.stale_ra(),'detail_status':'parsed',
+            'document_parser_version':collector.DOCUMENT_PARSER_VERSION,
+            'ra_start_at':'2026-10-28T09:00:00+05:30',
+            'evidence':[{'field':'ra_start_at','page':1,'quote':'RA start date: 28-10-2026'}]}
+        original = {'name':'Original reverse auction document','url':record['source_document_url'],'page':None}
+        parent = {'name':'Originating bid document GEM/2026/B/7654321',
+            'url':'https://bidplus.gem.gov.in/showbidDocument/7654321','page':1,'reference':'GEM/2026/B/7654321'}
+        extra = {'name':'Buyer specification','url':'https://mkp.gem.gov.in/specifications/9876543.pdf'}
+        unsafe = [
+            {'name':'Foreign','url':'https://gem.gov.in.example.com/foreign.pdf'},
+            {'name':'Insecure','url':'http://bidplus.gem.gov.in/showbidDocument/7654321'},
+            {'name':'Credentials','url':'https://user:secret@bidplus.gem.gov.in/showbidDocument/7654321'},
+            {'name':'Invalid port','url':'https://bidplus.gem.gov.in:8443/notice.pdf'},
+            {'name':'Missing URL'},{'name':'Invalid URL type','url':{'host':'gem.gov.in'}},'Not a document']
+        collector.save_listing(self.folder,{**record,'documents':[original,parent,*unsafe]})
+        listing = {key:value for key,value in record.items() if key not in
+            ('source_document_fetched_at','detail_status','document_parser_version','ra_start_at','evidence')}
+        collector.save_listing(self.folder,{**listing,'source_fetched_at':collector.stamp(),
+            'documents':[{'name':'Source document','url':original['url']},
+                {'name':'Document','url':parent['url']},extra,*unsafe]})
+        saved = self.saved(record)
+        self.assertEqual(saved['documents'],[original,parent,extra])
+        for key in ('document_parser_version','evidence','ra_start_at','source_document_fetched_at'):
+            self.assertEqual(saved[key],record[key])
+        self.assertEqual(saved['source_fetched_at'],collector.stamp())
+
+    def test_changed_source_or_reference_does_not_inherit_prior_pdf_document_links(self):
+        record = {**self.stale_ra(),'detail_status':'parsed',
+            'document_parser_version':collector.DOCUMENT_PARSER_VERSION,
+            'documents':[{'name':'Originating bid','url':'https://bidplus.gem.gov.in/showbidDocument/7654321'}]}
+        replacements = [
+            {'source_document_url':'https://bidplus.gem.gov.in/showdirectradocumentPdf/1234567'},
+            {'tender_id':'GEM/2026/R/7654321'}]
+        for replacement in replacements:
+            with self.subTest(replacement=replacement):
+                atomic_json(self.folder/'records'/(record['id']+'.json'),record)
+                listing = {key:value for key,value in record.items() if key not in
+                    ('source_document_fetched_at','detail_status','document_parser_version','documents')}
+                listing.update(replacement,source_fetched_at=collector.stamp())
+                listing['documents'] = [{'name':'Current original document','url':listing['source_document_url']}]
+                collector.save_listing(self.folder,listing)
+                saved = self.saved(record)
+                self.assertEqual(saved,listing)
+                self.assertNotIn('document_parser_version',saved)
+
 
 if __name__ == '__main__':
     unittest.main()

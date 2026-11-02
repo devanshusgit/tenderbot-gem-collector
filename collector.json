@@ -1,16 +1,16 @@
 {
   "page": 4348,
   "complete": true,
-  "status": "succeeded",
+  "status": "failed",
   "source_total": 43474,
   "note": "Imported actual source observations; cloud traversal starts from page1 for conservative coverage.",
-  "last_run_at": "2026-11-02T11:13:18.854102+00:00",
-  "error": null,
-  "source_checked_at": "2026-11-02T11:23:32.917006+00:00",
+  "last_run_at": "2026-11-02T11:23:46.158965+00:00",
+  "error": "PortalError",
+  "source_checked_at": "2026-11-02T11:24:25.389669+00:00",
   "source_health": {
-    "status": "reachable",
+    "status": "unavailable",
     "stage": "http",
-    "http_status": 200
+    "http_status": 503
   },
   "source_runtime": "cloudflare-workers",
   "newest_refresh_complete": false,
@@ -29,11 +29,12 @@
   "last_run_kind": "documents",
   "last_documents_success_at": "2026-11-02T11:23:32.916993+00:00",
   "document_batch": {
-    "attempted": 96,
-    "downloaded": 92,
-    "failed": 4,
-    "source_failures": 4
+    "attempted": 3,
+    "downloaded": 0,
+    "failed": 3,
+    "source_failures": 3
   },
+  "error_message": "The document source remains unavailable after bounded transport attempts; retry the batch later.",
   "enabled": true,
   "runtime": "github-actions",
   "automatic": true,
@@ -50,6 +51,6 @@
   "exact_coverage_verified": false,
   "coverage_note": "A traversal of the moving ongoing feed does not verify exact unique coverage.",
   "pages_collected": 4348,
-  "errors": 0,
+  "errors": 1,
   "document_storage": "Original PDFs remain on official GeM; parsed evidence is retained."
 }

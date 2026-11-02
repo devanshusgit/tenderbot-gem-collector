@@ -18,6 +18,7 @@ from urllib.parse import urlsplit
 
 import pdfplumber
 
+DOCUMENT_PARSER_VERSION = 2
 IST = dt.timezone(dt.timedelta(hours=5, minutes=30))
 _CACHE_LIMIT = 4
 _EXTRACTION_CACHE: OrderedDict = OrderedDict()
@@ -143,11 +144,14 @@ def _base_detail(record, fetched_at, source_url, digest, page_count):
         "mse_relaxation", "startup_relaxation", "seller_documents", "tender_type",
         "epbg_percentage", "epbg_duration_months", "offer_validity",
         "estimated_bid_value", "description", "contract_period",
+        "ra_start_at", "auto_extension", "mse_exemption", "startup_exemption",
+        "originating_bid_reference",
     ))
     fields.update({
         "id": str(record["id"]), "source_document_url": source_url,
         "source_document_fetched_at": fetched_at,
         "detail_status": "parsed", "detailLoaded": True,
+        "document_parser_version": DOCUMENT_PARSER_VERSION,
         "document_sha256": digest, "document_pages": page_count,
         "eligibility": [], "consignees": [], "technical_specifications": [],
         "buyer_added_terms": [],
@@ -161,6 +165,7 @@ def _base_detail(record, fetched_at, source_url, digest, page_count):
 
 def _parse_tables(fields, extracted):
     source_url = fields["source_document_url"]
+    is_ra = bool(re.fullmatch(r"GEM/\d{4}/R/\d+", fields.get("tender_id") or "", re.I))
     service_group = None
 
     def record(field, value, page, quote):
@@ -169,7 +174,7 @@ def _parse_tables(fields, extracted):
             fields["evidence"].append({"field": field, "page": page, "quote": quote, "source_url": source_url})
 
     def eligible(text, page):
-        fields["eligibility"].append(f"{text} (GeM bid PDF, p. {page})")
+        fields["eligibility"].append(f"{text} (GeM PDF, p. {page})")
 
     for page_data in extracted["tables"]:
         page = page_data["page"]
@@ -226,7 +231,11 @@ def _parse_tables(fields, extracted):
                     continue
                 key, value = _english(row[0]), _compact(row[1])
                 quote = key + ": " + value
-                if "Bid End Date/Time" in key:
+                if is_ra and "RA Start Date/Time" in key:
+                    record("ra_start_at", _local_date(value), page, quote)
+                elif is_ra and "RA End Date/Time" in key:
+                    record("closing_at", _local_date(value), page, quote)
+                elif "Bid End Date/Time" in key:
                     record("closing_at", _local_date(value), page, quote)
                 elif "Bid Opening Date/Time" in key:
                     record("opening_at", _local_date(value), page, quote)
@@ -263,10 +272,20 @@ def _parse_tables(fields, extracted):
                     label = key[key.index("MSE Relaxation"):]
                     record("mse_relaxation", label + ": " + value, page, quote)
                     eligible(label + ": " + value, page)
+                elif "MSE Exemption" in key:
+                    label = key[key.index("MSE Exemption"):]
+                    record("mse_exemption", label + ": " + value, page, quote)
+                    eligible(label + ": " + value, page)
                 elif "Startup Relaxation" in key:
                     label = key[key.index("Startup Relaxation"):]
                     record("startup_relaxation", label + ": " + value, page, quote)
                     eligible(label + ": " + value, page)
+                elif "Startup Exemption" in key:
+                    label = key[key.index("Startup Exemption"):]
+                    record("startup_exemption", label + ": " + value, page, quote)
+                    eligible(label + ": " + value, page)
+                elif is_ra and key == "Auto Extension":
+                    record("auto_extension", value, page, quote)
                 elif "Document required from seller" in key:
                     record("seller_documents", value, page, quote)
                     eligible("Documents required from seller: " + value, page)
@@ -365,7 +384,7 @@ def parse_pdf(pdf_path, record, fetched_at, source_url=None):
     ``bid_number`` / ``gem_bid_number``) is checked when supplied. ``source_url``
     explicitly overrides ``record.source_document_url``; neither is synthesized.
 
-    Status is ``parsed`` for an identified GeM bid, ``no_readable_text`` for a
+    Status is ``parsed`` for an identified GeM bid/RA, ``no_readable_text`` for a
     PDF without extracted text, or ``unrecognized_document`` for other text.
     No OCR is attempted. Unknown fields remain null. A current listing deadline
     is preserved if the original PDF has older/different dates. Corrupt input
@@ -382,23 +401,40 @@ def parse_pdf(pdf_path, record, fetched_at, source_url=None):
         fields["detail_warning"] = "No readable text was extracted from this PDF. It may require OCR; no tender requirements were inferred."
         return fields
 
-    observed, bid_page = None, None
+    observed, bid_page, identity_label, identity_quote = None, None, None, None
     for index, page in enumerate(extracted["pages"], start=1):
-        match = re.search(r"Bid\s+Number\s*:\s*(GEM/[\w/-]+)", page, re.I)
-        if match:
-            observed, bid_page = match[1], index
+        for match in re.finditer(r"\b(Bid|RA)\s+Number\s*:\s*(GEM/\d{4}/([BR])/\d+)(?![\w/-])", page, re.I):
+            label, reference, kind = match[1], match[2], match[3]
+            if (label.upper() == "RA") != (kind.upper() == "R"):
+                continue
+            observed, bid_page = reference.upper(), index
+            identity_label = "RA" if kind.upper() == "R" else "Bid"
+            identity_quote = _compact(match[0])
+            break
+        if observed:
             break
     expected = record.get("tender_id") or record.get("bid_number") or record.get("gem_bid_number")
     if observed and expected and observed.upper() != str(expected).strip().upper():
         raise DocumentMismatchError(str(expected), observed)
     if not observed:
         fields["detail_status"] = "unrecognized_document"
-        fields["detail_warning"] = "Readable text was extracted, but this PDF was not identified as an original GeM bid document. No tender requirements were inferred."
+        fields["detail_warning"] = "Readable text was extracted, but this PDF was not identified as an original GeM bid or reverse auction document. No tender requirements were inferred."
         _add_links(fields, extracted["links"])
         return fields
 
     fields["tender_id"] = observed
-    fields["evidence"].append({"field": "tender_id", "page": bid_page, "quote": "Bid Number: " + observed, "source_url": url})
+    fields["evidence"].append({"field": "tender_id", "page": bid_page, "quote": identity_quote, "source_url": url})
+    if identity_label == "RA":
+        if fields["documents"]:
+            fields["documents"][0]["name"] = "Original GeM reverse auction document"
+        fields["detail_warning"] = "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda."
+        for index, page in enumerate(extracted["pages"], start=1):
+            parent = re.search(r"Please\s+refer\s+to\s+Bid\s+document\s+of\s+(GEM/\d{4}/B/\d+)(?![\w/-])", page, re.I)
+            if parent:
+                fields["originating_bid_reference"] = parent[1].upper()
+                fields["evidence"].append({"field": "originating_bid_reference", "page": index,
+                    "quote": _compact(parent[0]), "source_url": url})
+                break
     _parse_tables(fields, extracted)
     _add_buyer_terms(fields, extracted["pages"])
     _add_links(fields, extracted["links"])
@@ -421,4 +457,6 @@ def parse_pdf(pdf_path, record, fetched_at, source_url=None):
             if evidence["field"] in ("opening_at", "closing_at"):
                 evidence["field"] = "document_" + evidence["field"]
         fields["detail_warning"] = "The original PDF dates differ from the current public GeM listing. The listing closing date is retained. Confirm the latest opening date and any corrigenda on GeM; the original PDF opening date is not presented as current."
+        if identity_label == "RA":
+            fields["detail_warning"] += " Also check the linked originating bid document for technical specifications and terms."
     return fields

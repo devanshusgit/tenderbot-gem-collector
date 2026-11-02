@@ -78,7 +78,7 @@ jobs:
         env:
           GEM_CLOUDFLARE_SOURCE_URL: ''
           TENDERBOT_SITE_SERVICE_TOKEN: ''
-        run: python -m unittest test_collector test_source_health test_remote_portal test_runner
+        run: python -m unittest test_collector test_source_health test_remote_portal test_runner test_ra_documents
       - name: Install browser
         if: env.GEM_CLOUDFLARE_SOURCE_URL == ''
         run: python -m playwright install --with-deps chromium

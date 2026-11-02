@@ -14,7 +14,7 @@ import time
 import urllib.request
 
 from tenderbot_crawler.gem import GemPortal, PortalChallengeError, PortalError
-from tenderbot_crawler.documents import parse_pdf
+from tenderbot_crawler.documents import DOCUMENT_PARSER_VERSION, parse_pdf
 from tenderbot_crawler.storage import atomic_json, timestamp, validate_record
 if __package__:
     from .remote_portal import RemotePortal, configured as remote_configured
@@ -46,15 +46,17 @@ def publish_index(folder, state, records=None):
     now = dt.datetime.now(dt.timezone.utc)
     downloaded = sum(bool(r.get('source_document_fetched_at')) for r in records)
     parsed = sum(bool(r.get('source_document_fetched_at')) and r.get('detail_status') == 'parsed' for r in records)
-    eligible = sum(document_due(r,now) for r in records)
-    exhausted = sum(not r.get('source_document_fetched_at') and
-        r.get('document_retry',{}).get('attempts',0) >= MAX_DOCUMENT_ATTEMPTS for r in records)
+    jobs = [r for r in records if document_needs_processing(r)]
+    reparse = sum(document_reparse_needed(r) for r in jobs)
+    eligible = sum(document_due(r,now) for r in jobs)
+    exhausted = sum(r.get('document_retry',{}).get('attempts',0) >= MAX_DOCUMENT_ATTEMPTS for r in jobs)
     pending = len(records)-downloaded
     receipt = max((r['source_fetched_at'] for r in records),default=None)
     status = {**state,'enabled':True,'runtime':'github-actions','automatic':True,
         'records':len(records),'documents':downloaded,'downloaded_documents':downloaded,
-        'parsed_documents':parsed,'pending_documents':pending,'eligible_documents':eligible,
-        'exhausted_documents':exhausted,'deferred_documents':pending-eligible-exhausted,
+        'parsed_documents':parsed,'unparsed_documents':downloaded-parsed,'pending_documents':pending,
+        'reparse_documents':reparse,'pending_document_jobs':len(jobs),'eligible_documents':eligible,
+        'exhausted_documents':exhausted,'deferred_documents':len(jobs)-eligible-exhausted,
         'fetched_at':receipt,'last_run_at':state.get('last_run_at'),
         'full_sweep_complete':bool(state.get('complete')),
         'exact_coverage_verified':False,
@@ -91,8 +93,24 @@ def save_listing(folder, record):
     atomic_json(path,merged)
 
 
+def document_reparse_needed(record):
+    """Retry older unrecognized RA layouts once with the upgraded parser."""
+    if not (record.get('source_document_fetched_at') and
+            record.get('detail_status') == 'unrecognized_document' and
+            re.fullmatch(r'GEM/\d{4}/R/\d+',str(record.get('tender_id','')))):
+        return False
+    version = record.get('document_parser_version',0)
+    if not isinstance(version,int) or isinstance(version,bool):
+        version = 0
+    return version < DOCUMENT_PARSER_VERSION
+
+
+def document_needs_processing(record):
+    return not record.get('source_document_fetched_at') or document_reparse_needed(record)
+
+
 def document_due(record, now):
-    if record.get('source_document_fetched_at'):
+    if not document_needs_processing(record):
         return False
     retry = record.get('document_retry',{})
     if retry.get('attempts',0) >= MAX_DOCUMENT_ATTEMPTS:
@@ -124,7 +142,8 @@ def document_priority(record, now):
     source_attempted_at = optional_time(record.get('document_source_error',{}).get('last_attempt_at'))
     recent = published or received
     attempts = record.get('document_retry',{}).get('attempts',0)+document_source_attempts(record)
-    return (attempts,int(inactive),source_attempted_at.timestamp() if source_attempted_at else 0,
+    return (attempts,int(not document_reparse_needed(record)),int(inactive),
+        source_attempted_at.timestamp() if source_attempted_at else 0,
         -recent.timestamp() if recent else 0,-received.timestamp() if received else 0,record['id'])
 
 
@@ -159,9 +178,10 @@ async def process_documents(folder, portal, records, seconds):
     consecutive_source_failures = 0
     last_source_health = None
     # Untouched documents come before retries across the whole queue. Within
-    # each attempt tier prefer open/unknown bids, then older source retries.
-    # Failing live URLs must not pin untouched expired notices indefinitely.
-    queue = sorted((record for record in records if not record.get('source_document_fetched_at')),
+    # each attempt tier migrate unsupported old RA layouts, then prefer
+    # open/unknown bids and older source retries. Failed migrations must not
+    # pin untouched documents behind unavailable URLs.
+    queue = sorted((record for record in records if document_needs_processing(record)),
         key=lambda record:document_priority(record,now))
     for record in queue:
         if time.monotonic()-started >= seconds:

@@ -57,6 +57,12 @@ class GithubCollectorTests(unittest.IsolatedAsyncioTestCase):
             'source_document_url':'https://bidplus.gem.gov.in/showbidDocument/'+str(number),
             'published_at':published_at,'source_fetched_at':collector.stamp()}
 
+    def stale_ra(self,number=1234567):
+        return {**self.bid(number,None),'tender_id':'GEM/2026/R/'+str(number),
+            'source_document_url':'https://bidplus.gem.gov.in/showradocumentPdf/'+str(number),
+            'source_document_fetched_at':'2026-10-26T09:00:00+00:00',
+            'detail_status':'unrecognized_document'}
+
     def portal(self,search):
         portal = mock.MagicMock()
         portal.__aenter__ = mock.AsyncMock(return_value=portal)
@@ -352,7 +358,7 @@ class GithubCollectorTests(unittest.IsolatedAsyncioTestCase):
         self.assertLess(collector.document_priority(newer,Clock.current),
             collector.document_priority(older,Clock.current))
         unknown_close = {**older,'closing_at':'Not disclosed'}
-        self.assertEqual(collector.document_priority(unknown_close,Clock.current)[1],0)
+        self.assertEqual(collector.document_priority(unknown_close,Clock.current)[2],0)
 
     def test_queue_counts_distinguish_downloaded_parsed_due_deferred_and_exhausted(self):
         parsed = {**self.bid(1000001,None),'source_document_fetched_at':collector.stamp(),'detail_status':'parsed'}
@@ -645,6 +651,167 @@ class GithubCollectorTests(unittest.IsolatedAsyncioTestCase):
         self.assertEqual(portal.download.await_args_list[0].args[0],expired['source_document_url'])
         self.assertEqual(portal.download.await_count,4)
         self.assertEqual(self.saved(expired)['document_retry']['attempts'],1)
+
+    def test_only_old_unrecognized_ra_receipts_become_reparse_jobs(self):
+        stale = self.stale_ra()
+        self.assertTrue(collector.document_due(stale,Clock.current))
+        self.assertTrue(collector.document_due({**stale,'document_parser_version':1},Clock.current))
+        for excluded in (
+                {**stale,'document_parser_version':collector.DOCUMENT_PARSER_VERSION},
+                {**stale,'document_parser_version':collector.DOCUMENT_PARSER_VERSION+1},
+                {**stale,'detail_status':'parsed'},
+                {**stale,'detail_status':'no_readable_text'},
+                {**stale,'tender_id':'GEM/2026/B/1234567'},
+                {**stale,'tender_id':'Unidentified reverse auction'}):
+            with self.subTest(record=excluded):
+                self.assertFalse(collector.document_needs_processing(excluded))
+                self.assertFalse(collector.document_due(excluded,Clock.current))
+        self.assertTrue(collector.document_due(RECORD,Clock.current))
+
+    def test_reparse_queue_counts_keep_receipts_separate_from_pending_jobs(self):
+        parsed = {**self.bid(1000001,None),'source_document_fetched_at':collector.stamp(),'detail_status':'parsed'}
+        unreadable = {**self.bid(1000002,None),'source_document_fetched_at':collector.stamp(),'detail_status':'no_readable_text'}
+        unsupported = {**self.bid(1000003,None),'source_document_fetched_at':collector.stamp(),'detail_status':'unrecognized_document'}
+        due = self.stale_ra(1000004)
+        deferred = {**self.stale_ra(1000005),'document_retry':{
+            'attempts':1,'next_attempt_at':'2026-10-28T10:00:00+00:00'}}
+        exhausted = {**self.stale_ra(1000006),'document_retry':{'attempts':3,'status':'exhausted'}}
+        never_downloaded = self.bid(1000007,None)
+        collector.publish_index(self.folder,{},[parsed,unreadable,unsupported,due,deferred,exhausted,never_downloaded])
+        status = collector.read(self.folder/'collector.json',{})
+        self.assertEqual((status['documents'],status['downloaded_documents'],status['parsed_documents']),(6,6,1))
+        self.assertEqual((status['pending_documents'],status['unparsed_documents']),(1,5))
+        self.assertEqual((status['reparse_documents'],status['pending_document_jobs']),(3,4))
+        self.assertEqual((status['eligible_documents'],status['deferred_documents'],status['exhausted_documents']),(2,1,1))
+        self.assertEqual(status['pending_document_jobs'],sum(status[key] for key in
+            ('eligible_documents','deferred_documents','exhausted_documents')))
+
+    async def test_successful_ra_reparse_preserves_listing_receipt_without_inflating_download_count(self):
+        record = {**self.stale_ra(),'document_retry':{'attempts':1},
+            'document_source_error':{'attempts':1,'http_status':503}}
+        collector.save_listing(self.folder,record)
+        atomic_json(self.folder/'state.json',{'page':345,'complete':False,'last_success_at':record['source_fetched_at']})
+        portal = self.portal(mock.Mock(side_effect=AssertionError('No listing searches allowed')))
+        portal.download = mock.AsyncMock(return_value=b'%PDF-offline fixture')
+        details = {'source_document_fetched_at':collector.stamp(),'detail_status':'parsed',
+            'document_parser_version':collector.DOCUMENT_PARSER_VERSION,'emd_fee':2500}
+        temporary = tempfile.TemporaryDirectory
+        with mock.patch.object(collector,'GemPortal',return_value=portal), \
+                mock.patch.object(collector,'parse_pdf',return_value=details), \
+                mock.patch.object(collector.tempfile,'TemporaryDirectory',side_effect=lambda:temporary(dir=self.folder)):
+            self.assertEqual(await collector.collect_documents(self.folder,seconds=30),0)
+        saved = self.saved(record)
+        self.assertEqual(saved['source_fetched_at'],record['source_fetched_at'])
+        self.assertEqual(saved['closing_at'],record['closing_at'])
+        self.assertEqual(saved['document_parser_version'],collector.DOCUMENT_PARSER_VERSION)
+        self.assertEqual(saved['emd_fee'],2500)
+        self.assertNotIn('document_retry',saved)
+        self.assertNotIn('document_source_error',saved)
+        self.assertFalse(collector.document_due(saved,Clock.current))
+        status = collector.read(self.folder/'collector.json',{})
+        self.assertEqual((status['documents'],status['downloaded_documents'],status['parsed_documents']),(1,1,1))
+        self.assertEqual((status['pending_documents'],status['reparse_documents'],status['pending_document_jobs']),(0,0,0))
+        self.assertEqual(status['fetched_at'],record['source_fetched_at'])
+        self.assertEqual(status['page'],345)
+        portal.search.assert_not_awaited()
+
+    async def test_current_parser_unrecognized_ra_is_not_downloaded_again(self):
+        record = self.stale_ra()
+        collector.save_listing(self.folder,record)
+        portal = mock.Mock(download=mock.AsyncMock(return_value=b'%PDF-offline fixture'))
+        details = {'source_document_fetched_at':collector.stamp(),'detail_status':'unrecognized_document',
+            'document_parser_version':collector.DOCUMENT_PARSER_VERSION}
+        temporary = tempfile.TemporaryDirectory
+        with mock.patch.object(collector,'parse_pdf',return_value=details), \
+                mock.patch.object(collector.tempfile,'TemporaryDirectory',side_effect=lambda:temporary(dir=self.folder)):
+            await collector.process_documents(self.folder,portal,[record],seconds=30)
+            await collector.process_documents(self.folder,portal,[self.saved(record)],seconds=30)
+        portal.download.assert_awaited_once_with(record['source_document_url'])
+        self.assertFalse(collector.document_due(self.saved(record),Clock.current))
+        self.assertNotIn('emd_fee', {key:value for key,value in self.saved(record).items() if value is not None})
+        collector.publish_index(self.folder,{})
+        status = collector.read(self.folder/'collector.json',{})
+        self.assertEqual((status['documents'],status['parsed_documents'],status['unparsed_documents']),(1,0,1))
+        self.assertEqual((status['reparse_documents'],status['pending_document_jobs']),(0,0))
+
+    async def test_ra_reparse_transport_failure_keeps_old_receipt_and_remains_retryable(self):
+        record = self.stale_ra()
+        collector.save_listing(self.folder,record)
+        portal = mock.Mock(download=mock.AsyncMock(side_effect=PortalError('Cloud source request failed with HTTP 503.')))
+        with self.assertRaises(PortalError):
+            await collector.process_documents(self.folder,portal,[record],seconds=30)
+        saved = self.saved(record)
+        self.assertEqual(saved['source_document_fetched_at'],record['source_document_fetched_at'])
+        self.assertEqual(saved['source_fetched_at'],record['source_fetched_at'])
+        self.assertEqual(saved['detail_status'],'unrecognized_document')
+        self.assertEqual(saved['document_source_error']['attempts'],1)
+        self.assertNotIn('document_retry',saved)
+        self.assertTrue(collector.document_due(saved,Clock.current))
+        collector.publish_index(self.folder,{})
+        status = collector.read(self.folder/'collector.json',{})
+        self.assertEqual((status['documents'],status['pending_documents'],status['reparse_documents']),(1,0,1))
+        self.assertEqual((status['pending_document_jobs'],status['eligible_documents'],status['deferred_documents']),(1,1,0))
+
+    async def test_ra_reparse_missing_document_retains_backoff_and_attempt_cap(self):
+        record = self.stale_ra()
+        portal = mock.Mock(download=mock.AsyncMock(side_effect=PortalError('Cloud source request failed with HTTP 404.')))
+        await collector.process_documents(self.folder,portal,[record],seconds=30)
+        saved = self.saved(record)
+        self.assertEqual(saved['source_document_fetched_at'],record['source_document_fetched_at'])
+        self.assertEqual(saved['document_retry']['attempts'],1)
+        self.assertFalse(collector.document_due(saved,Clock.current))
+        for attempt in (2,3):
+            Clock.current += dt.timedelta(days=1)
+            self.assertTrue(collector.document_due(saved,Clock.current))
+            await collector.process_documents(self.folder,portal,[saved],seconds=30)
+            saved = self.saved(record)
+            self.assertEqual(saved['document_retry']['attempts'],attempt)
+        Clock.current += dt.timedelta(days=1)
+        self.assertFalse(collector.document_due(saved,Clock.current))
+        await collector.process_documents(self.folder,portal,[saved],seconds=30)
+        self.assertEqual(portal.download.await_count,3)
+        collector.publish_index(self.folder,{})
+        status = collector.read(self.folder/'collector.json',{})
+        self.assertEqual((status['reparse_documents'],status['pending_document_jobs'],status['exhausted_documents']),(1,1,1))
+        self.assertEqual((status['eligible_documents'],status['deferred_documents']),(0,0))
+
+    async def test_ra_migrations_precede_new_downloads_within_attempt_tier_but_failures_do_not_pin_queue(self):
+        stale = {**self.stale_ra(1000001),'closing_at':'2026-10-26T09:00:00+00:00'}
+        new = self.bid(1000002,'2026-10-27T09:59:00+00:00')
+        failed_stale = {**self.stale_ra(1000003),'document_source_error':{
+            'attempts':1,'http_status':503,'last_attempt_at':'2026-10-27T09:00:00+00:00'}}
+        failed_new = {**self.bid(1000004,None),'document_retry':{
+            'attempts':1,'next_attempt_at':'2026-10-27T09:00:00+00:00'}}
+        unsupported = {**self.bid(1000005,None),'source_document_fetched_at':collector.stamp(),
+            'detail_status':'unrecognized_document'}
+        portal = mock.Mock(download=mock.AsyncMock(side_effect=ValueError('Offline malformed PDF')))
+        await collector.process_documents(self.folder,portal,[new,failed_new,unsupported,failed_stale,stale],seconds=30)
+        self.assertEqual([call.args[0] for call in portal.download.await_args_list],
+            [record['source_document_url'] for record in (stale,new,failed_stale,failed_new)])
+        self.assertEqual(self.saved(unsupported),{})
+
+    async def test_ra_reparse_challenge_keeps_receipt_and_stops_without_job_retry(self):
+        record = self.stale_ra()
+        collector.save_listing(self.folder,record)
+        atomic_json(self.folder/'state.json',{'page':345,'complete':False})
+        portal = self.portal(mock.Mock(side_effect=AssertionError('No listing searches allowed')))
+        portal.download = mock.AsyncMock(side_effect=PortalChallengeError('Access restricted'))
+        with mock.patch.object(collector,'GemPortal',return_value=portal):
+            self.assertEqual(await collector.collect_documents(self.folder,seconds=30),1)
+        portal.download.assert_awaited_once()
+        self.assertEqual(self.saved(record),record)
+        self.assertEqual(collector.read(self.folder/'state.json',{})['status'],'blocked')
+
+    def test_listing_refresh_does_not_reset_completed_ra_parser_migration(self):
+        record = {**self.stale_ra(),'document_parser_version':collector.DOCUMENT_PARSER_VERSION}
+        collector.save_listing(self.folder,record)
+        listing = {key:value for key,value in record.items() if key not in
+            ('source_document_fetched_at','detail_status','document_parser_version')}
+        collector.save_listing(self.folder,{**listing,'source_fetched_at':collector.stamp()})
+        saved = self.saved(record)
+        self.assertEqual(saved['document_parser_version'],collector.DOCUMENT_PARSER_VERSION)
+        self.assertEqual(saved['source_document_fetched_at'],record['source_document_fetched_at'])
+        self.assertFalse(collector.document_due(saved,Clock.current))
 
 
 if __name__ == '__main__':

@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/R/763823",
   "title": "Repair, Maintenance, and Installation of Plant/ Systems/Equipments (Version 2) - Commercial; Electr",
   "description": "Repair, Maintenance, and Installation of Plant/ Systems/Equipments (Version 2) - Commercial; Electrical System or Installation; 84/EDC(F)/2026-27 EUDD FBD",
-  "organisation": "Energy Department Uttar Pradesh",
-  "ministry": "",
+  "organisation": "Uttar Pradesh Power Corporation Limited (uppcl)",
+  "ministry": "Uttar Pradesh",
   "department": "Energy Department Uttar Pradesh",
   "portal_name": "GeM",
   "state": [],
@@ -25,7 +25,7 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10116413"
     },
     {
@@ -45,15 +45,119 @@
   "source_fetched_at": "2026-11-02T15:23:50.520Z",
   "demo": false,
   "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
-  "source_document_fetched_at": "2026-11-02T15:34:07.221052+00:00",
-  "detail_status": "unrecognized_document",
+  "source_document_fetched_at": "2026-11-02T16:03:47.449051+00:00",
+  "detail_status": "parsed",
   "detailLoaded": true,
   "document_sha256": "4e458a6b373ecc15daa507c5d7efbe13b2957a0b717875171dcfa97e423f1874",
   "document_pages": 2,
-  "eligibility": [],
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 5 Lakh (s) (GeM PDF, p. 1)",
+    "MSE Exemption for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Exemption for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
   "consignees": [],
   "technical_specifications": [],
   "buyer_added_terms": [],
-  "evidence": [],
-  "detail_warning": "Readable text was extracted, but this PDF was not identified as an original GeM bid document. No tender requirements were inferred."
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/763823",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116413"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 1,
+      "quote": "Please refer to Bid document of GEM/2026/B/8083538",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116413"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 03-11-2026 19:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116413"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 04-11-2026 19:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116413"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Uttar Pradesh",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116413"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Energy Department Uttar Pradesh",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116413"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Uttar Pradesh Power Corporation Limited (uppcl)",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116413"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Agra",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116413"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Repair, Maintenance, and Installation of Plant/ Systems/Equipments (Version 2) - Commercial; Electrical System or Installation; 84/EDC(F)/2026-27 EUDD FBD",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116413"
+    },
+    {
+      "field": "auto_extension",
+      "page": 1,
+      "quote": "Auto Extension: If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116413"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 6 Month(s)",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116413"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 5 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116413"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 1,
+      "quote": "MSE Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116413"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 1,
+      "quote": "Startup Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116413"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda.",
+  "office": "Agra",
+  "bidder_turnover_lakhs": 5,
+  "contract_period": "6 Month(s)",
+  "ra_start_at": "2026-11-03T19:00:00+05:30",
+  "auto_extension": "If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+  "mse_exemption": "MSE Exemption for Years of Experience and Turnover: No",
+  "startup_exemption": "Startup Exemption for Years of Experience and Turnover: No",
+  "originating_bid_reference": "GEM/2026/B/8083538",
+  "document_parser_version": 2
 }

@@ -5,9 +5,9 @@
   "tender_id": "GEM/2026/R/763639",
   "title": "Lint free baniyan cloth,Hot melt gun glue kit,Heat resistance gloves for galley,Grease LG 200,Emery",
   "description": "Lint free baniyan cloth,Hot melt gun glue kit,Heat resistance gloves for galley,Grease LG 200,Emery cloth,Dry Chemical powder,Rope polypropylene 20 MM,Rope Polypropylene 14 MM,Petroleum jelly in 02 Kgs pack,Paint Brush 3 inch",
-  "organisation": "Department of Defence",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Defence",
+  "organisation": "Indian Coast Guard",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Defence",
   "portal_name": "GeM",
   "state": [],
   "city": [],
@@ -25,8 +25,18 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10115325"
+    },
+    {
+      "name": "GEM/2026/B/8142962",
+      "url": "https://bidplus.gem.gov.in/showbidDocument/10014661",
+      "page": 2
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261102",
+      "page": 2
     }
   ],
   "tags": [
@@ -35,15 +45,97 @@
   "source_fetched_at": "2026-11-02T15:24:11.388Z",
   "demo": false,
   "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
-  "source_document_fetched_at": "2026-11-02T14:57:44.637664+00:00",
-  "detail_status": "unrecognized_document",
+  "source_document_fetched_at": "2026-11-02T16:05:58.522997+00:00",
+  "detail_status": "parsed",
   "detailLoaded": true,
   "document_sha256": "802f728f13f0147434af5215bd7aa996dc3e9b8e0ed5a414cc73584f471e7cb0",
   "document_pages": 2,
-  "eligibility": [],
+  "eligibility": [
+    "MSE Exemption for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Exemption for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)"
+  ],
   "consignees": [],
   "technical_specifications": [],
   "buyer_added_terms": [],
-  "evidence": [],
-  "detail_warning": "Readable text was extracted, but this PDF was not identified as an original GeM bid document. No tender requirements were inferred."
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/763639",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115325"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 2,
+      "quote": "Please refer to Bid document of GEM/2026/B/8142962",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115325"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 03-11-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115325"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 04-11-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115325"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115325"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115325"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Coast Guard",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115325"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 597",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115325"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Lint free baniyan cloth , Hot melt gun glue kit , Heat resistance gloves for galley , Grease LG 200 , Emery cloth , Dry Chemical powder , Rope polypropylene 20 MM , Rope Polypropylene 14 MM , Petroleum jelly in 02 Kgs pack , Paint Brush 3 inch",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115325"
+    },
+    {
+      "field": "auto_extension",
+      "page": 1,
+      "quote": "Auto Extension: If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115325"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 1,
+      "quote": "MSE Exemption for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115325"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 1,
+      "quote": "Startup Exemption for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115325"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda.",
+  "ra_start_at": "2026-11-03T17:00:00+05:30",
+  "auto_extension": "If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+  "mse_exemption": "MSE Exemption for Years Of Experience and Turnover: Yes | Complete",
+  "startup_exemption": "Startup Exemption for Years Of Experience and Turnover: Yes | Complete",
+  "originating_bid_reference": "GEM/2026/B/8142962",
+  "document_parser_version": 2
 }

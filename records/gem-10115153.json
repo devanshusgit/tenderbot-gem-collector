@@ -5,9 +5,9 @@
   "tender_id": "GEM/2026/R/763616",
   "title": "LiDAR BASED SPEED DETECTION AND MONITORING SYSTEM WITH CAMERA AND DISPLAY",
   "description": "LiDAR BASED SPEED DETECTION AND MONITORING SYSTEM WITH CAMERA AND DISPLAY",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Navy",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
@@ -25,8 +25,18 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10115153"
+    },
+    {
+      "name": "GEM/2026/B/7991577",
+      "url": "https://bidplus.gem.gov.in/showbidDocument/9841246",
+      "page": 2
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261102",
+      "page": 2
     }
   ],
   "tags": [
@@ -35,15 +45,105 @@
   "source_fetched_at": "2026-11-02T15:24:11.388Z",
   "demo": false,
   "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
-  "source_document_fetched_at": "2026-11-02T14:57:42.510726+00:00",
-  "detail_status": "unrecognized_document",
+  "source_document_fetched_at": "2026-11-02T16:05:56.737546+00:00",
+  "detail_status": "parsed",
   "detailLoaded": true,
   "document_sha256": "a0f2b9623ba72c68966320d51f43eb7442b51b43023da3d7d402f871009a1419",
   "document_pages": 2,
-  "eligibility": [],
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 15 Lakh (s) (GeM PDF, p. 1)",
+    "MSE Exemption for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Exemption for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)"
+  ],
   "consignees": [],
   "technical_specifications": [],
   "buyer_added_terms": [],
-  "evidence": [],
-  "detail_warning": "Readable text was extracted, but this PDF was not identified as an original GeM bid document. No tender requirements were inferred."
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/763616",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115153"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 2,
+      "quote": "Please refer to Bid document of GEM/2026/B/7991577",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115153"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 03-11-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115153"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 04-11-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115153"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115153"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115153"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Navy",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115153"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 6",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115153"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: LiDAR BASED SPEED DETECTION AND MONITORING SYSTEM WITH CAMERA AND DISPLAY",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115153"
+    },
+    {
+      "field": "auto_extension",
+      "page": 1,
+      "quote": "Auto Extension: If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115153"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 15 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115153"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 1,
+      "quote": "MSE Exemption for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115153"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 1,
+      "quote": "Startup Exemption for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115153"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda.",
+  "bidder_turnover_lakhs": 15,
+  "ra_start_at": "2026-11-03T17:00:00+05:30",
+  "auto_extension": "If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+  "mse_exemption": "MSE Exemption for Years Of Experience and Turnover: Yes | Complete",
+  "startup_exemption": "Startup Exemption for Years Of Experience and Turnover: Yes | Complete",
+  "originating_bid_reference": "GEM/2026/B/7991577",
+  "document_parser_version": 2
 }

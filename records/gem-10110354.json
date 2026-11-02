@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/R/762810",
   "title": "Executive Table (V4),Executive Table (V4),Executive Table (V4),Computer Table (V3),Modular Work Sta",
   "description": "Executive Table (V4),Executive Table (V4),Executive Table (V4),Computer Table (V3),Modular Work Stations (V3),Executive Table (V4),Modular Extendable Conference Table (V2),Modular Extendable Conference Table (V2),Modular Extendable Conference Table (V2),Modular Extendable Conference Table (V2),Wooden Shelf / Case / Rack / Credenza / Modular Storage (V2),Wooden Shelf / Case / Rack / Credenza / Modular Storage (V2),Wooden Almirah / Wardrobe (V2),Modular Table / Meeting Table / Centre Table (V2),Wooden Shelf / Case / Rack / Credenza / Modular Storage (V2),Revolving Chair (V5),Revolving Chair (V5),Revolving Chair (V5),Chair for General Purpose,Chair for General Purpose,Revolving Chair (V5),Sofa (V3),Sofa (V3),Waiting Area / Airport Terminal / Public Place / Reception area Chair or Seat (V2),Wooden Shelf / Case / Rack / Credenza / Modular Storage (V2),Wooden Almirah / Wardrobe (V2),Wooden Shelf / Case / Rack / Credenza / Modular Storage (V2),Wooden Shelf / Case / Rack / Credenza / Modular Storage (V2),Wooden Podiu",
-  "organisation": "Home Department Gujarat",
-  "ministry": "",
+  "organisation": "Inspector General Of Prisons",
+  "ministry": "Gujarat",
   "department": "Home Department Gujarat",
   "portal_name": "GeM",
   "state": [],
@@ -25,8 +25,18 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10110354"
+    },
+    {
+      "name": "GEM/2026/B/8029813",
+      "url": "https://bidplus.gem.gov.in/showbidDocument/9884972",
+      "page": 1
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261031",
+      "page": 2
     }
   ],
   "tags": [
@@ -35,15 +45,110 @@
   "source_fetched_at": "2026-11-02T14:27:33.081Z",
   "demo": false,
   "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
-  "source_document_fetched_at": "2026-11-02T12:49:15.340873+00:00",
-  "detail_status": "unrecognized_document",
+  "source_document_fetched_at": "2026-11-02T16:07:59.570478+00:00",
+  "detail_status": "parsed",
   "detailLoaded": true,
   "document_sha256": "63f5380e0451324277ee790e70a4653c071989094fbbc5a724bec8f269076a52",
   "document_pages": 2,
-  "eligibility": [],
+  "eligibility": [
+    "MSE Exemption for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Exemption for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)"
+  ],
   "consignees": [],
   "technical_specifications": [],
   "buyer_added_terms": [],
-  "evidence": [],
-  "detail_warning": "Readable text was extracted, but this PDF was not identified as an original GeM bid document. No tender requirements were inferred."
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/762810",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110354"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 1,
+      "quote": "Please refer to Bid document of GEM/2026/B/8029813",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110354"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 01-11-2026 19:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110354"
+    },
+    {
+      "field": "document_closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 02-11-2026 19:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110354"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Gujarat",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110354"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Home Department Gujarat",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110354"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Inspector General Of Prisons",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110354"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Ahmedabad Jailbhavan",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110354"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 923",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110354"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Executive Table (V4) , Computer Table (V3) , Modular Work Stations (V3) , Modular Extendable Conference Table (V2) , Wooden Shelf / Case / Rack / Credenza / Modular Storage (V2) , Wooden Almirah / Wardrobe (V2) , Modular Table / Meeting Table / Centre Table (V2) , Revolving Chair (V5) , Chair for General Purpose , Sofa (V3) , Waiting Area / Airport Terminal / Public Place / Reception area Chair or Seat (V2) , Wooden Podium , Metal Storage Cabinet",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110354"
+    },
+    {
+      "field": "auto_extension",
+      "page": 1,
+      "quote": "Auto Extension: If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110354"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 1,
+      "quote": "MSE Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110354"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 1,
+      "quote": "Startup Exemption for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110354"
+    }
+  ],
+  "detail_warning": "The original PDF dates differ from the current public GeM listing. The listing closing date is retained. Confirm the latest opening date and any corrigenda on GeM; the original PDF opening date is not presented as current. Also check the linked originating bid document for technical specifications and terms.",
+  "office": "Ahmedabad Jailbhavan",
+  "ra_start_at": "2026-11-01T19:00:00+05:30",
+  "auto_extension": "If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+  "mse_exemption": "MSE Exemption for Years of Experience and Turnover: No",
+  "startup_exemption": "Startup Exemption for Years Of Experience and Turnover: Yes | Complete",
+  "originating_bid_reference": "GEM/2026/B/8029813",
+  "document_parser_version": 2,
+  "document_closing_at": "2026-11-02T19:00:00+05:30",
+  "date_discrepancy": {
+    "listing_closing_at": "2026-11-03T10:00:00+05:30",
+    "document_closing_at": "2026-11-02T19:00:00+05:30",
+    "document_opening_at": null
+  }
 }

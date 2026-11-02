@@ -5,9 +5,9 @@
   "tender_id": "GEM/2026/R/762840",
   "title": "MS Sheet as per IS 1079,Waste Fittings for Washbasin and Sinks as per IS 2963,Self Drilling Screw,C",
   "description": "MS Sheet as per IS 1079,Waste Fittings for Washbasin and Sinks as per IS 2963,Self Drilling Screw,Chain Pipe Wrenches as per IS 4123,Chain Pipe Wrenches as per IS 4123,Chain Pipe Wrenches as per IS 4123,Chain Pipe Wrenches as per IS 4123,Chain Pipe Wrenches as per IS 4123,MS SHEET 8 FEET X 4 FEET X 2 MM,MS SHEET 8 FEET X 4 FEET X3 MM,MS SHEET 8 FEET X 4 FEET X32 MM,MS ANGLE 40 X 40 X 3 MM,MS ANGLE 50 X 50 X 6 MM,MS ANGLE 25 X 16 X 3 MM,ARC WELDING SET 400 AMP THYRISTOR RECTIFIER BASED,ARC WELDING SET 600 AMP THYRISTOR RECTIFIER BASED,200 AMP SINGLE PHASE INVERETR ARC WELDING MACHINE,TRAILER MOUNTED CONCRETE PUMP,WELDING CABLE 70 SQMM 600 AMP,Title1,Title2,Title3,Title4,Title5,Title6,Title7,Title8,Title9,Title10,Title11,Title12,Title13,Title14,Title15,Title16,Title17,Title18,Title19,Title20",
-  "organisation": "Department of Defence",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Defence",
+  "organisation": "Border Road Organisation",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Defence",
   "portal_name": "GeM",
   "state": [],
   "city": [],
@@ -25,8 +25,18 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10110545"
+    },
+    {
+      "name": "GEM/2026/B/8142708",
+      "url": "https://bidplus.gem.gov.in/showbidDocument/10014377",
+      "page": 2
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261031",
+      "page": 2
     }
   ],
   "tags": [
@@ -35,15 +45,105 @@
   "source_fetched_at": "2026-11-02T14:25:48.690Z",
   "demo": false,
   "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
-  "source_document_fetched_at": "2026-11-02T11:23:08.900732+00:00",
-  "detail_status": "unrecognized_document",
+  "source_document_fetched_at": "2026-11-02T16:10:34.570737+00:00",
+  "detail_status": "parsed",
   "detailLoaded": true,
   "document_sha256": "e98af7c43492e164b70e10d7a8743d06dc51b86bf5479a9bbed079962bdbb040",
   "document_pages": 2,
-  "eligibility": [],
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 9.8 Lakh (s) (GeM PDF, p. 1)",
+    "MSE Exemption for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Exemption for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)"
+  ],
   "consignees": [],
   "technical_specifications": [],
   "buyer_added_terms": [],
-  "evidence": [],
-  "detail_warning": "Readable text was extracted, but this PDF was not identified as an original GeM bid document. No tender requirements were inferred."
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/762840",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110545"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 2,
+      "quote": "Please refer to Bid document of GEM/2026/B/8142708",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110545"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 01-11-2026 20:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110545"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 02-11-2026 20:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110545"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110545"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110545"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Border Road Organisation",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110545"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 4102",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110545"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: MS Sheet as per IS 1079 , Waste Fittings for Washbasin and Sinks as per IS 2963 , Self Drilling Screw , Chain Pipe Wrenches as per IS 4123 , MS SHEET 8 FEET X 4 FEET X 2 MM , MS SHEET 8 FEET X 4 FEET X3 MM , MS SHEET 8 FEET X 4 FEET X32 MM , MS ANGLE 40 X 40 X 3 MM , MS ANGLE 50 X 50 X 6 MM , MS ANGLE 25 X 16 X 3 MM , ARC WELDING SET 400 AMP THYRISTOR RECTIFIER BASED , ARC WELDING SET 600 AMP THYRISTOR RECTIFIER BASED , 200 AMP SINGLE PHASE INVERETR ARC WELDING MACHINE , TRAILER MOUNTED CONCRETE PUMP , WELDING CABLE 70 SQMM 600 AMP , Title1 , Title2 , Title3 , Title4 , Title5 , Title6 , Title7 , Title8 , Title9 , Title10 , Title11 , Title12 , Title13 , Title14 , Title15 , Title16 , Title17 , Title18 , Title19 , Title20",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110545"
+    },
+    {
+      "field": "auto_extension",
+      "page": 1,
+      "quote": "Auto Extension: If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110545"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 9.8 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110545"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 1,
+      "quote": "MSE Exemption for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110545"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 1,
+      "quote": "Startup Exemption for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110545"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda.",
+  "bidder_turnover_lakhs": 9.8,
+  "ra_start_at": "2026-11-01T20:00:00+05:30",
+  "auto_extension": "If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+  "mse_exemption": "MSE Exemption for Years Of Experience and Turnover: Yes | Complete",
+  "startup_exemption": "Startup Exemption for Years Of Experience and Turnover: Yes | Complete",
+  "originating_bid_reference": "GEM/2026/B/8142708",
+  "document_parser_version": 2
 }

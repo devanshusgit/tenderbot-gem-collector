@@ -5,9 +5,9 @@
   "tender_id": "GEM/2026/R/762941",
   "title": "Hiring of Creative Agency - Power Stall at IITF 2026; Power Stall at IITF 2026; As per Scope; As pe",
   "description": "Hiring of Creative Agency - Power Stall at IITF 2026; Power Stall at IITF 2026; As per Scope; As per Scope; As per Scope; As per Scope; As per Scope; As per Scope; As per Scope",
-  "organisation": "POWER GRID Corporation OF INDIA Limited",
-  "ministry": "Ministry of Power",
-  "department": "POWER GRID Corporation OF INDIA Limited",
+  "organisation": "Power Grid Corporation Of India Limited",
+  "ministry": "Ministry Of Power",
+  "department": "Power Grid Corporation Of India Limited",
   "portal_name": "GeM",
   "state": [],
   "city": [],
@@ -25,8 +25,18 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10111425"
+    },
+    {
+      "name": "GEM/2026/B/8162000",
+      "url": "https://bidplus.gem.gov.in/showbidDocument/10036379",
+      "page": 1
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261101",
+      "page": 1
     }
   ],
   "tags": [
@@ -35,15 +45,111 @@
   "source_fetched_at": "2026-11-02T15:26:18.085Z",
   "demo": false,
   "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
-  "source_document_fetched_at": "2026-11-02T14:45:55.360787+00:00",
-  "detail_status": "unrecognized_document",
+  "source_document_fetched_at": "2026-11-02T16:07:16.748425+00:00",
+  "detail_status": "parsed",
   "detailLoaded": true,
   "document_sha256": "a8c8e3feca2ecde715735fc9468413731a96597e9f0f31939ff10e8b24ff435c",
   "document_pages": 2,
-  "eligibility": [],
+  "eligibility": [
+    "MSE Exemption for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Exemption for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
   "consignees": [],
   "technical_specifications": [],
   "buyer_added_terms": [],
-  "evidence": [],
-  "detail_warning": "Readable text was extracted, but this PDF was not identified as an original GeM bid document. No tender requirements were inferred."
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/762941",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111425"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 1,
+      "quote": "Please refer to Bid document of GEM/2026/B/8162000",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111425"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 02-11-2026 19:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111425"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 03-11-2026 19:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111425"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Power",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111425"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Power Grid Corporation Of India Limited",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111425"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Power Grid Corporation Of India Limited",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111425"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Corporate Office Gurgaon",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111425"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Hiring of Creative Agency - Power Stall at IITF 2026; Power Stall at IITF 2026; As per Scope; As per Scope; As per Scope; As per Scope; As per Scope; As per Scope; As per Scope",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111425"
+    },
+    {
+      "field": "auto_extension",
+      "page": 1,
+      "quote": "Auto Extension: If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111425"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 7 Day(s)",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111425"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 1,
+      "quote": "MSE Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111425"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 1,
+      "quote": "Startup Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111425"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda.",
+  "office": "Corporate Office Gurgaon",
+  "contract_period": "7 Day(s)",
+  "ra_start_at": "2026-11-02T19:00:00+05:30",
+  "auto_extension": "If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+  "mse_exemption": "MSE Exemption for Years of Experience and Turnover: No",
+  "startup_exemption": "Startup Exemption for Years of Experience and Turnover: No",
+  "originating_bid_reference": "GEM/2026/B/8162000",
+  "document_parser_version": 2
 }

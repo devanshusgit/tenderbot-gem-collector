@@ -5,9 +5,9 @@
   "tender_id": "GEM/2026/R/762754",
   "title": "Hemoglobin Test Strips,Blood Lancets",
   "description": "Hemoglobin Test Strips,Blood Lancets",
-  "organisation": "Medical Health and Family Welfare Department Uttar Pradesh",
-  "ministry": "",
-  "department": "Medical Health and Family Welfare Department Uttar Pradesh",
+  "organisation": "N/a",
+  "ministry": "Uttar Pradesh",
+  "department": "Medical Health And Family Welfare Department Uttar Pradesh",
   "portal_name": "GeM",
   "state": [],
   "city": [],
@@ -25,8 +25,18 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10109985"
+    },
+    {
+      "name": "GEM/2026/B/7952702",
+      "url": "https://bidplus.gem.gov.in/showbidDocument/9796211",
+      "page": 1
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261031",
+      "page": 1
     }
   ],
   "tags": [
@@ -35,15 +45,118 @@
   "source_fetched_at": "2026-11-02T14:27:27.190Z",
   "demo": false,
   "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
-  "source_document_fetched_at": "2026-11-02T12:59:35.543502+00:00",
-  "detail_status": "unrecognized_document",
+  "source_document_fetched_at": "2026-11-02T16:08:09.344891+00:00",
+  "detail_status": "parsed",
   "detailLoaded": true,
   "document_sha256": "75d6c6bcd42273289ff4ddad98de0420279ea7549cd982009c816fba0837fb2f",
   "document_pages": 1,
-  "eligibility": [],
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 5 Lakh (s) (GeM PDF, p. 1)",
+    "MSE Exemption for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Exemption for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
   "consignees": [],
   "technical_specifications": [],
   "buyer_added_terms": [],
-  "evidence": [],
-  "detail_warning": "Readable text was extracted, but this PDF was not identified as an original GeM bid document. No tender requirements were inferred."
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/762754",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10109985"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 1,
+      "quote": "Please refer to Bid document of GEM/2026/B/7952702",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10109985"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 01-11-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10109985"
+    },
+    {
+      "field": "document_closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 02-11-2026 19:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10109985"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Uttar Pradesh",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10109985"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Medical Health And Family Welfare Department Uttar Pradesh",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10109985"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: N/a",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10109985"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Maharajganj",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10109985"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 258300",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10109985"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Hemoglobin Test Strips , Blood Lancets",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10109985"
+    },
+    {
+      "field": "auto_extension",
+      "page": 1,
+      "quote": "Auto Extension: If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10109985"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 5 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10109985"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 1,
+      "quote": "MSE Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10109985"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 1,
+      "quote": "Startup Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10109985"
+    }
+  ],
+  "detail_warning": "The original PDF dates differ from the current public GeM listing. The listing closing date is retained. Confirm the latest opening date and any corrigenda on GeM; the original PDF opening date is not presented as current. Also check the linked originating bid document for technical specifications and terms.",
+  "office": "Maharajganj",
+  "bidder_turnover_lakhs": 5,
+  "ra_start_at": "2026-11-01T17:00:00+05:30",
+  "auto_extension": "If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+  "mse_exemption": "MSE Exemption for Years of Experience and Turnover: No",
+  "startup_exemption": "Startup Exemption for Years of Experience and Turnover: No",
+  "originating_bid_reference": "GEM/2026/B/7952702",
+  "document_parser_version": 2,
+  "document_closing_at": "2026-11-02T19:00:00+05:30",
+  "date_discrepancy": {
+    "listing_closing_at": "2026-11-03T10:00:00+05:30",
+    "document_closing_at": "2026-11-02T19:00:00+05:30",
+    "document_opening_at": null
+  }
 }

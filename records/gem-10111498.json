@@ -5,9 +5,9 @@
   "tender_id": "GEM/2026/R/762957",
   "title": "Safety Googles,Apron Lab PVC,Lab Coat,Latex Gloves,Nitril Gloves,2500X Binocular Compound Microscop",
   "description": "Safety Googles,Apron Lab PVC,Lab Coat,Latex Gloves,Nitril Gloves,2500X Binocular Compound Microscope,Test Tube 15 X 125 mm,Test Tube Stand 3 Tier 31 Holes 16mm,Dissecting Tool 26 Pcs Advance Dissection Kit,Forceps 5 Inch,Complete Science Lab Equipment Kit,Borosilicate 3.3 Glass Beaker Pack of 7,Borosilicate Glass Ware Kit 36 Items,Borosilicate 3.3 Glass Conical Flask 250ml,Porcelain Evaporating Dish 70mm,Glass Funnel 75mm,Glass Measuring Cylinder 1000ml,Droppers,3 ml Transfer Pipettes,Pipettes,Inoculating Loop,Spatulas,Digital Thermometer,Non Mercury Glass Thermometer,Petri Dishes,Scoopulas,Lab Bunsen Burner,Alcohol Burner,Litmus Paper,Filter Paper 90mm,Human Skeleton Model,Human Torso Model,Microscope Slides,Prepared Specimens,Botanical Charts,Zoology Charts,Plant Cell Model,Animal Cell Model,PH Meter,Wash Bottles 500ml,Stop Watch,Disposable Scalpels,Dissecting Pins 300 Pcs,Glass Capillary Tubes,Staining Kits,Culture Tubes,Magnifying Glass,Magnetic Stirrer with Hot Plate,Screw Gauge Micrometre,Anatomy Charts",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Army",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
@@ -25,8 +25,18 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10111498"
+    },
+    {
+      "name": "GEM/2026/B/8002537",
+      "url": "https://bidplus.gem.gov.in/showbidDocument/9853729",
+      "page": 2
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261101",
+      "page": 2
     }
   ],
   "tags": [
@@ -35,15 +45,91 @@
   "source_fetched_at": "2026-11-02T15:25:51.386Z",
   "demo": false,
   "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
-  "source_document_fetched_at": "2026-11-02T14:45:44.745887+00:00",
-  "detail_status": "unrecognized_document",
+  "source_document_fetched_at": "2026-11-02T16:07:11.121875+00:00",
+  "detail_status": "parsed",
   "detailLoaded": true,
   "document_sha256": "92a3a27a8f95b783df74822a02bae9f70cac5c4a86a0c78c24f6d93b184d8751",
   "document_pages": 2,
-  "eligibility": [],
+  "eligibility": [
+    "MSE Exemption for Years of Experience and Turnover: No (GeM PDF, p. 2)",
+    "Startup Exemption for Years of Experience and Turnover: No (GeM PDF, p. 2)"
+  ],
   "consignees": [],
   "technical_specifications": [],
   "buyer_added_terms": [],
-  "evidence": [],
-  "detail_warning": "Readable text was extracted, but this PDF was not identified as an original GeM bid document. No tender requirements were inferred."
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/762957",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111498"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 2,
+      "quote": "Please refer to Bid document of GEM/2026/B/8002537",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111498"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 02-11-2026 20:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111498"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 03-11-2026 20:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111498"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111498"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111498"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Army",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111498"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1176",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111498"
+    },
+    {
+      "field": "auto_extension",
+      "page": 2,
+      "quote": "Auto Extension: If any seller submits the offer price during last 30 minutes of RA end time, then RA will be automatically extended for next 30 minutes from the last participation time. There is no limit on such RA extension cycle.",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111498"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 2,
+      "quote": "MSE Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111498"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 2,
+      "quote": "Startup Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111498"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda.",
+  "ra_start_at": "2026-11-02T20:00:00+05:30",
+  "auto_extension": "If any seller submits the offer price during last 30 minutes of RA end time, then RA will be automatically extended for next 30 minutes from the last participation time. There is no limit on such RA extension cycle.",
+  "mse_exemption": "MSE Exemption for Years of Experience and Turnover: No",
+  "startup_exemption": "Startup Exemption for Years of Experience and Turnover: No",
+  "originating_bid_reference": "GEM/2026/B/8002537",
+  "document_parser_version": 2
 }

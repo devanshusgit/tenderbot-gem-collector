@@ -5,9 +5,9 @@
   "tender_id": "GEM/2026/R/762836",
   "title": "412211204000_BOLT M12x40 4.6_IS1363P1 _ GAL,VZ7115188251_BOLTM16x40_IS3757_8.8S_HDG,VZ7115188253_BO",
   "description": "412211204000_BOLT M12x40 4.6_IS1363P1 _ GAL,VZ7115188251_BOLTM16x40_IS3757_8.8S_HDG,VZ7115188253_BOLTM16x50_IS3757_8.8S_HDG,190256050000_BoltM16x60L_IS3757 CL8.8 S HotDipGlvnizd,190259030000_BoltM20x50L_IS3757 CL8.8 S HotDipGlvnizd,190259050000_BoltM20x60L_IS3757 CL8.8 S HotDipGlvnizd,190259060000_BoltM20x65L_IS3757 CL8.8 S HotDipGlvnizd,190259250000_BoltM24x60L_IS3757 CL8.8 S HotDipGlvnizd,190259270000_BoltM24x70L_IS3757 CL8.8 S HotDipGlvnizd,190259290000_BoltM24x80L_IS3757 CL8.8 S HotDipGlvnizd,961455450000_GAL HEX NUT M12,156470430000_GI WASHER M12_ IS 2016,190259150000_M20 Type A Washer_IS6649 HotDipGalvanizd,190259350000_M24 Type A Washer_IS6649 HotDipGalvanizd,VZ7151188251_NUTM16_IS6623 CL10S_HDG,190259160000_NUTM20_IS6623 CL10 S HOTDIPGALVANIZED,190259200000_NUTM24_IS6623 CL10 S HOTDIPGALVANIZED,VZ7161188202_WASHER M16 A_IS6649_HDG",
-  "organisation": "Department of Heavy Industry",
-  "ministry": "Ministry of Heavy Industries and Public Enterprises",
-  "department": "Department of Heavy Industry",
+  "organisation": "Bharat Heavy Electricals Limited (bhel)",
+  "ministry": "Ministry Of Heavy Industries And Public Enterprises",
+  "department": "Department Of Heavy Industry",
   "portal_name": "GeM",
   "state": [],
   "city": [],
@@ -25,8 +25,18 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10110523"
+    },
+    {
+      "name": "GEM/2026/B/8111800",
+      "url": "https://bidplus.gem.gov.in/showbidDocument/9978982",
+      "page": 2
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261031",
+      "page": 2
     }
   ],
   "tags": [
@@ -35,15 +45,104 @@
   "source_fetched_at": "2026-11-02T14:39:01.674Z",
   "demo": false,
   "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
-  "source_document_fetched_at": "2026-11-02T11:22:55.745352+00:00",
-  "detail_status": "unrecognized_document",
+  "source_document_fetched_at": "2026-11-02T16:07:48.515255+00:00",
+  "detail_status": "parsed",
   "detailLoaded": true,
   "document_sha256": "b338b4422bf0e87dff6ab1072a0657887c57704387b7ccd858641521c6623786",
   "document_pages": 2,
-  "eligibility": [],
+  "eligibility": [
+    "MSE Exemption for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Exemption for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
   "consignees": [],
   "technical_specifications": [],
   "buyer_added_terms": [],
-  "evidence": [],
-  "detail_warning": "Readable text was extracted, but this PDF was not identified as an original GeM bid document. No tender requirements were inferred."
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/762836",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110523"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 2,
+      "quote": "Please refer to Bid document of GEM/2026/B/8111800",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110523"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 01-11-2026 20:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110523"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 03-11-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110523"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Heavy Industries And Public Enterprises",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110523"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Heavy Industry",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110523"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Bharat Heavy Electricals Limited (bhel)",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110523"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: 10380038-heavy Plates & Vessels Plant",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110523"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 51300",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110523"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: 412211204000_BOLT M12x40 4.6_IS1363P1 _ GAL , VZ7115188251_BOLTM16x40_IS3757_8.8S_HDG , VZ7115188253_BOLTM16x50_IS3757_8.8S_HDG , 190256050000_BoltM16x60L_IS3757 CL8.8 S HotDipGlvnizd , 190259030000_BoltM20x50L_IS3757 CL8.8 S HotDipGlvnizd , 190259050000_BoltM20x60L_IS3757 CL8.8 S HotDipGlvnizd , 190259060000_BoltM20x65L_IS3757 CL8.8 S HotDipGlvnizd , 190259250000_BoltM24x60L_IS3757 CL8.8 S HotDipGlvnizd , 190259270000_BoltM24x70L_IS3757 CL8.8 S HotDipGlvnizd , 190259290000_BoltM24x80L_IS3757 CL8.8 S HotDipGlvnizd , 961455450000_GAL HEX NUT M12 , 156470430000_GI WASHER M12_ IS 2016 , 190259150000_M20 Type A Washer_IS6649 HotDipGalvanizd , 190259350000_M24 Type A Washer_IS6649 HotDipGalvanizd , VZ7151188251_NUTM16_IS6623 CL10S_HDG , 190259160000_NUTM20_IS6623 CL10 S HOTDIPGALVANIZED , 190259200000_NUTM24_IS6623 CL10 S HOTDIPGALVANIZED , VZ7161188202_WASHER M16 A_IS6649_HDG",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110523"
+    },
+    {
+      "field": "auto_extension",
+      "page": 1,
+      "quote": "Auto Extension: If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110523"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 1,
+      "quote": "MSE Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110523"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 1,
+      "quote": "Startup Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110523"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda.",
+  "office": "10380038-heavy Plates & Vessels Plant",
+  "ra_start_at": "2026-11-01T20:00:00+05:30",
+  "auto_extension": "If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+  "mse_exemption": "MSE Exemption for Years of Experience and Turnover: No",
+  "startup_exemption": "Startup Exemption for Years of Experience and Turnover: No",
+  "originating_bid_reference": "GEM/2026/B/8111800",
+  "document_parser_version": 2
 }

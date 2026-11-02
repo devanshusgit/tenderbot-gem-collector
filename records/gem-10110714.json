@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/R/762866",
   "title": "TAB AUGMENTIN 625MG,TAB AZITHRAL 500 MG,TAB DIGINE,TAB PAN 40MG,TAB TAXIM-O 200MG,TAB LIMCEE,TAB AV",
   "description": "TAB AUGMENTIN 625MG,TAB AZITHRAL 500 MG,TAB DIGINE,TAB PAN 40MG,TAB TAXIM-O 200MG,TAB LIMCEE,TAB AVIL 25 MG,TAB CETIZINE 10 MG,TAB COMBIFLAM,TAB ACECLOFENAC 100,TAB SERIDOPEPTIDASE 100,TAB ONDEM 4 MG,TAB. DULCOLAX,TAB METRO 400 MG,TAB NORFLOX TZ,TAB CIPRO 500,TAB NITROFURANTOIN,TAB MEFTAL SPAS,TAB SPORLAC DS,LONZENGES STREPSILS,SYP PCM,SYP COMBIFLAM,SYP OFLOX OZ,SYP ZINC,SYP PANTOCID,SYP ONDEM,SYP SINAREST,SYP CETIZINE 60 ML,SYP TIXYLIX,SYP SHELCAL,SYP HAEM- UP,SYP A TO Z,SYP POLYBION 150 ML,SYP MEFTAL SPAS P,SUSP ZENTAL Albendazole,SYP AUGMENTIN DUO,SYP AZITHRAL 100,SYP TAXIM O,SYP MONOCEF 50,SYP LIV 52,SYP ARISTOZYME,LIQ CITRALIKA,OINT QUADIDERM 10 GM,SOLN PERMETHRIN,OINT CLOTRIMAZOLE,OINT MOMETASONE,OINT VOLINI GEL 10 GM,OINT BETADINE 20 GM,OINT SOFRAMYCIN,SPRAY VOLINI 15MG,GARGLE BETADINE 100 ML,LOT BETADINE 100 ML,CIPLOX EYE DROP,EYE DROP REFRESH TEAR,EYE DROP OCCUREST,NASAL SPRAY OTRIVIN,POWDER NEOSPORIN,POWDER ELECTRAL 21 .8 GM,HANSPLAST BANDAID,MP ZYTTEE,GLUCOMETER STRIP ACCUCHECK GLUCO ONE 3X50,GLUCO",
-  "organisation": "Central Armed Police Forces",
-  "ministry": "Ministry of Home Affairs",
+  "organisation": "Border Security Force (bsf)",
+  "ministry": "Ministry Of Home Affairs",
   "department": "Central Armed Police Forces",
   "portal_name": "GeM",
   "state": [],
@@ -25,8 +25,18 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10110714"
+    },
+    {
+      "name": "GEM/2026/B/8112175",
+      "url": "https://bidplus.gem.gov.in/showbidDocument/9979470",
+      "page": 2
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261031",
+      "page": 2
     }
   ],
   "tags": [
@@ -35,15 +45,105 @@
   "source_fetched_at": "2026-11-02T14:26:57.987Z",
   "demo": false,
   "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
-  "source_document_fetched_at": "2026-11-02T11:19:25.127812+00:00",
-  "detail_status": "unrecognized_document",
+  "source_document_fetched_at": "2026-11-02T16:07:36.846445+00:00",
+  "detail_status": "parsed",
   "detailLoaded": true,
   "document_sha256": "b1fbdb640687bfd65ab8b7f295519f3aa6d32fd3577dc56a2da07b869d3d1ff1",
   "document_pages": 2,
-  "eligibility": [],
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 2 Lakh (s) (GeM PDF, p. 2)",
+    "MSE Exemption for Years of Experience and Turnover: No (GeM PDF, p. 2)",
+    "Startup Exemption for Years of Experience and Turnover: No (GeM PDF, p. 2)"
+  ],
   "consignees": [],
   "technical_specifications": [],
   "buyer_added_terms": [],
-  "evidence": [],
-  "detail_warning": "Readable text was extracted, but this PDF was not identified as an original GeM bid document. No tender requirements were inferred."
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/762866",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110714"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 2,
+      "quote": "Please refer to Bid document of GEM/2026/B/8112175",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110714"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 01-11-2026 22:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110714"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 03-11-2026 09:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110714"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Home Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110714"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Central Armed Police Forces",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110714"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Border Security Force (bsf)",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110714"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: 083 Bn Bsf",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110714"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 22845",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110714"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: TAB AUGMENTIN 625MG , TAB AZITHRAL 500 MG , TAB DIGINE , TAB PAN 40MG , TAB TAXIM-O 200MG , TAB LIMCEE , TAB AVIL 25 MG , TAB CETIZINE 10 MG , TAB COMBIFLAM , TAB ACECLOFENAC 100 , TAB SERIDOPEPTIDASE 100 , TAB ONDEM 4 MG , TAB. DULCOLAX , TAB METRO 400 MG , TAB NORFLOX TZ , TAB CIPRO 500 , TAB NITROFURANTOIN , TAB MEFTAL SPAS , TAB SPORLAC DS , LONZENGES STREPSILS , SYP PCM , SYP COMBIFLAM , SYP OFLOX OZ , SYP ZINC , SYP PANTOCID , SYP ONDEM , SYP SINAREST , SYP CETIZINE 60 ML , SYP TIXYLIX , SYP SHELCAL , SYP HAEM- UP , SYP A TO Z , SYP POLYBION 150 ML , SYP MEFTAL SPAS P , SUSP ZENTAL Albendazole , SYP AUGMENTIN DUO , SYP AZITHRAL 100 , SYP TAXIM O , SYP MONOCEF 50 , SYP LIV 52 , SYP ARISTOZYME , LIQ CITRALIKA , OINT QUADIDERM 10 GM , SOLN PERMETHRIN , OINT CLOTRIMAZOLE , OINT MOMETASONE , OINT VOLINI GEL 10 GM , OINT BETADINE 20 GM , OINT SOFRAMYCIN , SPRAY VOLINI 15MG , GARGLE BETADINE 100 ML , LOT BETADINE 100 ML , CIPLOX EYE DROP , EYE DROP REFRESH TEAR , EYE DROP OCCUREST , NASAL SPRAY OTRIVIN , POWDER NEOSPORIN , POWDER ELECTRAL 21 .8 GM , HANSPLAST BANDAID , MP ZYTTEE , GLUCOMETER STRIP ACCUCHECK GLUCO ONE 3X50 , GLUCOMETER , GLOVES EXAMINATION 7.5 INCH , MASK N 95 , MASK SURGICAL , TONGUE DEPRESSOR , HAND SANITIZER 1000ML , SURGICAL PAD 3X4 , GAUSE PICS , TAB BECASULE , TAB NEUROBION FORTE , TAB ZINCOVIT , TAB VIT K2-7 D3 , TAB TELMA 40 , TAB METFORMIN 500 SR , TAB GLIMP 1 , TAB GLIMP 2 , TAB AMLO 5 , TAB MET XL 25",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110714"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 2,
+      "quote": "Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 2 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110714"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 2,
+      "quote": "MSE Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110714"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 2,
+      "quote": "Startup Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110714"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda.",
+  "office": "083 Bn Bsf",
+  "bidder_turnover_lakhs": 2,
+  "ra_start_at": "2026-11-01T22:00:00+05:30",
+  "mse_exemption": "MSE Exemption for Years of Experience and Turnover: No",
+  "startup_exemption": "Startup Exemption for Years of Experience and Turnover: No",
+  "originating_bid_reference": "GEM/2026/B/8112175",
+  "document_parser_version": 2
 }

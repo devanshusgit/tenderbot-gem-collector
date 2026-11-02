@@ -5,9 +5,9 @@
   "tender_id": "GEM/2026/R/763892",
   "title": "Angle 10x1x1,T Angle 15x1x1,T Angle 24x1x1,Ceiling set 24x24,Wall plug 1pt25 inch,Banding wire Alum",
   "description": "Angle 10x1x1,T Angle 15x1x1,T Angle 24x1x1,Ceiling set 24x24,Wall plug 1pt25 inch,Banding wire Aluminum,Neel powder 250 gm pkt,Thread Nylon,Metal Scissor,Wooden screw steel 1pt25 inch Long,Plywood 6x4x19mm,Nails 2 inch Long,MS Sqr 1x1x3mm,Favicol HS,Wooden screw 19mm long,Handel 3 inch long with screw,Magnet catcher 2 inch long with screw,Piano hinge 4x19mm,Ceiling Fan regulator modular type,Modular indicator,TMT bar 10mm,Tiles 1x1,Cement,Sand,Aggregate 63mm,Aggregate 20mm,MS pipe Sqr IS 4923 YST 310 3 inch x 3mm,MS angle 35x35x5mm,MS Flat 2x5mm,MS base plate 1x1x3mm,Foundation bolt 18x16mm,Welding rod size 3pt15mm,Cutting disc 14 inch,Cutting disc 4 inch,Grinding disc 8 inch,Grinding disc 4 inch,Hand gloves,PPGI sheet 12x3pt5x5mm,Self Taping screw 1 inch 100 pieces per pkt,Self Taping screw 2 inch 100 pieces per pkt,Self Taping screw 3 inch 100 pieces per pkt,Adopter 8mm,Ridge 10x1x1,M seal,Black Paint,Red Oxide,Turpentine Oil,Painting brush 2 inch,PVC Single Core MS copper wire 1 Sqmm,PVC Single Core MS cop",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Army",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
@@ -25,7 +25,7 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10116843"
     },
     {
@@ -45,15 +45,99 @@
   "source_fetched_at": "2026-11-02T15:03:37.772Z",
   "demo": false,
   "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
-  "source_document_fetched_at": "2026-11-02T15:09:30.953286+00:00",
-  "detail_status": "unrecognized_document",
+  "source_document_fetched_at": "2026-11-02T16:01:33.227799+00:00",
+  "detail_status": "parsed",
   "detailLoaded": true,
   "document_sha256": "1436265f0dc6a27a8b8141576c5634348455d07c47e3dc726f71f741234cff31",
   "document_pages": 2,
-  "eligibility": [],
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 6.5 Lakh (s) (GeM PDF, p. 2)",
+    "MSE Exemption for Years of Experience and Turnover: No (GeM PDF, p. 2)",
+    "Startup Exemption for Years of Experience and Turnover: No (GeM PDF, p. 2)"
+  ],
   "consignees": [],
   "technical_specifications": [],
   "buyer_added_terms": [],
-  "evidence": [],
-  "detail_warning": "Readable text was extracted, but this PDF was not identified as an original GeM bid document. No tender requirements were inferred."
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/763892",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116843"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 2,
+      "quote": "Please refer to Bid document of GEM/2026/B/8083675",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116843"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 03-11-2026 21:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116843"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 04-11-2026 21:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116843"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116843"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116843"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Army",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116843"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 6129",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116843"
+    },
+    {
+      "field": "auto_extension",
+      "page": 2,
+      "quote": "Auto Extension: If any seller submits the offer price during last 30 minutes of RA end time, then RA will be automatically extended for next 30 minutes from the last participation time. There is no limit on such RA extension cycle.",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116843"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 2,
+      "quote": "Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 6.5 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116843"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 2,
+      "quote": "MSE Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116843"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 2,
+      "quote": "Startup Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116843"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda.",
+  "bidder_turnover_lakhs": 6.5,
+  "ra_start_at": "2026-11-03T21:00:00+05:30",
+  "auto_extension": "If any seller submits the offer price during last 30 minutes of RA end time, then RA will be automatically extended for next 30 minutes from the last participation time. There is no limit on such RA extension cycle.",
+  "mse_exemption": "MSE Exemption for Years of Experience and Turnover: No",
+  "startup_exemption": "Startup Exemption for Years of Experience and Turnover: No",
+  "originating_bid_reference": "GEM/2026/B/8083675",
+  "document_parser_version": 2
 }

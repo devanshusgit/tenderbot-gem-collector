@@ -5,9 +5,9 @@
   "tender_id": "GEM/2026/R/762413",
   "title": "GT9754264031_ NON ASBESTOS MSW GASKET SIZE 1\" -CL150,GT9754264104_ NON ASBESTOS MSW GASKET SIZE 4-C",
   "description": "GT9754264031_ NON ASBESTOS MSW GASKET SIZE 1\" -CL150,GT9754264104_ NON ASBESTOS MSW GASKET SIZE 4-CL 150,GT9754264074_ NON ASBESTOS MSW GASKET SIZE 2.5-CL150",
-  "organisation": "Department of Heavy Industry",
-  "ministry": "Ministry of Heavy Industries and Public Enterprises",
-  "department": "Department of Heavy Industry",
+  "organisation": "Bharat Heavy Electricals Limited (bhel)",
+  "ministry": "Ministry Of Heavy Industries And Public Enterprises",
+  "department": "Department Of Heavy Industry",
   "portal_name": "GeM",
   "state": [],
   "city": [],
@@ -25,7 +25,7 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10107547"
     },
     {
@@ -45,15 +45,104 @@
   "source_fetched_at": "2026-11-01T06:53:54.926Z",
   "demo": false,
   "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
-  "source_document_fetched_at": "2026-11-02T13:12:17.412081+00:00",
-  "detail_status": "unrecognized_document",
+  "source_document_fetched_at": "2026-11-02T16:09:16.298924+00:00",
+  "detail_status": "parsed",
   "detailLoaded": true,
   "document_sha256": "5efbdbd600abc838cd211a9af19a1b4ad97dbf7ed863d91860ccbed9958528cf",
   "document_pages": 1,
-  "eligibility": [],
+  "eligibility": [
+    "MSE Exemption for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Exemption for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
   "consignees": [],
   "technical_specifications": [],
   "buyer_added_terms": [],
-  "evidence": [],
-  "detail_warning": "Readable text was extracted, but this PDF was not identified as an original GeM bid document. No tender requirements were inferred."
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/762413",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107547"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 1,
+      "quote": "Please refer to Bid document of GEM/2026/B/8076310",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107547"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 01-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107547"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 03-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107547"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Heavy Industries And Public Enterprises",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107547"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Heavy Industry",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107547"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Bharat Heavy Electricals Limited (bhel)",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107547"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: 10130010-hpep Hyderabad",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107547"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 554",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107547"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: GT9754264031_ NON ASBESTOS MSW GASKET SIZE 1\" -CL150 , GT9754264104_ NON ASBESTOS MSW GASKET SIZE 4-CL 150 , GT9754264074_ NON ASBESTOS MSW GASKET SIZE 2.5-CL150",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107547"
+    },
+    {
+      "field": "auto_extension",
+      "page": 1,
+      "quote": "Auto Extension: If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107547"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 1,
+      "quote": "MSE Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107547"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 1,
+      "quote": "Startup Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107547"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda.",
+  "office": "10130010-hpep Hyderabad",
+  "ra_start_at": "2026-11-01T11:00:00+05:30",
+  "auto_extension": "If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+  "mse_exemption": "MSE Exemption for Years of Experience and Turnover: No",
+  "startup_exemption": "Startup Exemption for Years of Experience and Turnover: No",
+  "originating_bid_reference": "GEM/2026/B/8076310",
+  "document_parser_version": 2
 }

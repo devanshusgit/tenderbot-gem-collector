@@ -5,9 +5,9 @@
   "tender_id": "GEM/2026/R/762826",
   "title": "Pulp Board (V2) Conforming to IS 4664",
   "description": "Pulp Board (V2) Conforming to IS 4664",
-  "organisation": "Infrastructure and Industrial Development Department Uttar Pradesh",
-  "ministry": "",
-  "department": "Infrastructure and Industrial Development Department Uttar Pradesh",
+  "organisation": "Printing And Stationary Department Government Of Uttar Pradesh",
+  "ministry": "Uttar Pradesh",
+  "department": "Infrastructure And Industrial Development Department Uttar Pradesh",
   "portal_name": "GeM",
   "state": [],
   "city": [],
@@ -25,8 +25,18 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10110452"
+    },
+    {
+      "name": "GEM/2026/B/8098463",
+      "url": "https://bidplus.gem.gov.in/showbidDocument/9963834",
+      "page": 1
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261031",
+      "page": 2
     }
   ],
   "tags": [
@@ -35,15 +45,104 @@
   "source_fetched_at": "2026-11-02T14:40:52.023Z",
   "demo": false,
   "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
-  "source_document_fetched_at": "2026-11-02T12:53:24.798653+00:00",
-  "detail_status": "unrecognized_document",
+  "source_document_fetched_at": "2026-11-02T16:07:57.881736+00:00",
+  "detail_status": "parsed",
   "detailLoaded": true,
   "document_sha256": "f01cb181cdf609b3421508861a285fcda43b1d61d97028e9c5abca5dc07bc549",
   "document_pages": 2,
-  "eligibility": [],
+  "eligibility": [
+    "MSE Exemption for Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Exemption for Turnover: Yes | Complete (GeM PDF, p. 1)"
+  ],
   "consignees": [],
   "technical_specifications": [],
   "buyer_added_terms": [],
-  "evidence": [],
-  "detail_warning": "Readable text was extracted, but this PDF was not identified as an original GeM bid document. No tender requirements were inferred."
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/762826",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110452"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 1,
+      "quote": "Please refer to Bid document of GEM/2026/B/8098463",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110452"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 01-11-2026 19:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110452"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 03-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110452"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Uttar Pradesh",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110452"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Infrastructure And Industrial Development Department Uttar Pradesh",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110452"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Printing And Stationary Department Government Of Uttar Pradesh",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110452"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Allahabad",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110452"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 31900",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110452"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Pulp Board (V2) Conforming to IS 4664",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110452"
+    },
+    {
+      "field": "auto_extension",
+      "page": 1,
+      "quote": "Auto Extension: If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110452"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 1,
+      "quote": "MSE Exemption for Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110452"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 1,
+      "quote": "Startup Exemption for Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10110452"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda.",
+  "office": "Allahabad",
+  "ra_start_at": "2026-11-01T19:00:00+05:30",
+  "auto_extension": "If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+  "mse_exemption": "MSE Exemption for Turnover: Yes | Complete",
+  "startup_exemption": "Startup Exemption for Turnover: Yes | Complete",
+  "originating_bid_reference": "GEM/2026/B/8098463",
+  "document_parser_version": 2
 }

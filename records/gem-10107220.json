@@ -5,9 +5,9 @@
   "tender_id": "GEM/2026/R/762359",
   "title": "High back chair for Court Room,Members Table for Court Room,Table for court staff for Court Room,Ta",
   "description": "High back chair for Court Room,Members Table for Court Room,Table for court staff for Court Room,Table for Authorized Representatives for Court Room,Chair for court staff for Court Room,Chair for ARs for Court Room,Chairs for visitors for Court Room,Cabinets for Court Room,L Shape Table with attached pedestrial and drawers for Member Room,table back unit for Member Room,High Back Chair for Member Room,Mid Back Chair Visitors for Member Room,Sofa 3 seater for Member Room,Coffee Table for Member Room,Book shelf big for Member Room,Officers table with drawers for Member PS Room,Side table for Member PS Room,Officers Chair for Member PS Room,Chair visitors for Member PS Room,Staff chair for Member PS Room,Almirah for Member PS Room,Officers L shape table with drawers for Jr Dr Asstt Registrar Room,Side table for Jr Dr Asstt Registrar Room,Officers Chair for Jr Dr Asstt Registrar Room,Chair visitors for Jr Dr Asstt Registrar Room,Almirah small for Jr Dr Asstt Registrar Room,Sofa 3 seater for Jr Dr Asstt Registrar ",
-  "organisation": "Department of Revenue",
-  "ministry": "Ministry of Finance",
-  "department": "Department of Revenue",
+  "organisation": "Principal Bench Gst Appellate Tribunal",
+  "ministry": "Ministry Of Finance",
+  "department": "Department Of Revenue",
   "portal_name": "GeM",
   "state": [],
   "city": [],
@@ -25,8 +25,18 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10107220"
+    },
+    {
+      "name": "GEM/2026/B/7980720",
+      "url": "https://bidplus.gem.gov.in/showbidDocument/9829097",
+      "page": 2
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261030",
+      "page": 2
     }
   ],
   "tags": [
@@ -35,15 +45,106 @@
   "source_fetched_at": "2026-11-02T14:26:57.987Z",
   "demo": false,
   "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
-  "source_document_fetched_at": "2026-11-02T13:24:51.945927+00:00",
-  "detail_status": "unrecognized_document",
+  "source_document_fetched_at": "2026-11-02T16:09:32.437245+00:00",
+  "detail_status": "parsed",
   "detailLoaded": true,
   "document_sha256": "755f9e86f010de714c56c02b852391edacc65a44edc9e408f27e230d46cd5ca9",
   "document_pages": 3,
-  "eligibility": [],
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 25 Lakh (s) (GeM PDF, p. 2)",
+    "MSE Exemption for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 2)",
+    "Startup Exemption for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 2)"
+  ],
   "consignees": [],
   "technical_specifications": [],
   "buyer_added_terms": [],
-  "evidence": [],
-  "detail_warning": "Readable text was extracted, but this PDF was not identified as an original GeM bid document. No tender requirements were inferred."
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/762359",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107220"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 2,
+      "quote": "Please refer to Bid document of GEM/2026/B/7980720",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107220"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 31-10-2026 22:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107220"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 03-11-2026 09:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107220"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Finance",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107220"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Revenue",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107220"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Principal Bench Gst Appellate Tribunal",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107220"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Principal Bench",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107220"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 438",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107220"
+    },
+    {
+      "field": "auto_extension",
+      "page": 2,
+      "quote": "Auto Extension: If any seller submits the offer price during last 30 minutes of RA end time, then RA will be automatically extended for next 30 minutes from the last participation time. There is no limit on such RA extension cycle.",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107220"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 2,
+      "quote": "Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 25 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107220"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 2,
+      "quote": "MSE Exemption for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107220"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 2,
+      "quote": "Startup Exemption for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107220"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda.",
+  "office": "Principal Bench",
+  "bidder_turnover_lakhs": 25,
+  "ra_start_at": "2026-10-31T22:00:00+05:30",
+  "auto_extension": "If any seller submits the offer price during last 30 minutes of RA end time, then RA will be automatically extended for next 30 minutes from the last participation time. There is no limit on such RA extension cycle.",
+  "mse_exemption": "MSE Exemption for Years Of Experience and Turnover: Yes | Complete",
+  "startup_exemption": "Startup Exemption for Years Of Experience and Turnover: Yes | Complete",
+  "originating_bid_reference": "GEM/2026/B/7980720",
+  "document_parser_version": 2
 }

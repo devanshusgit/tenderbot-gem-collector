@@ -5,9 +5,9 @@
   "tender_id": "GEM/2026/R/763676",
   "title": "Telephone caller ID with RJ11 Telephone cable extension cord",
   "description": "Telephone caller ID with RJ11 Telephone cable extension cord",
-  "organisation": "Department of Defence",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Defence",
+  "organisation": "Indian Coast Guard",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Defence",
   "portal_name": "GeM",
   "state": [],
   "city": [],
@@ -25,8 +25,18 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10115573"
+    },
+    {
+      "name": "GEM/2026/B/8117923",
+      "url": "https://bidplus.gem.gov.in/showbidDocument/9986369",
+      "page": 1
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261102",
+      "page": 2
     }
   ],
   "tags": [
@@ -35,15 +45,97 @@
   "source_fetched_at": "2026-11-02T15:24:11.388Z",
   "demo": false,
   "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
-  "source_document_fetched_at": "2026-11-02T14:57:55.289257+00:00",
-  "detail_status": "unrecognized_document",
+  "source_document_fetched_at": "2026-11-02T16:06:05.051642+00:00",
+  "detail_status": "parsed",
   "detailLoaded": true,
   "document_sha256": "ad4c5504e9eabfaf8d714b8886fcf50abb23104e351db1879ab2097ea251b956",
   "document_pages": 2,
-  "eligibility": [],
+  "eligibility": [
+    "MSE Exemption for Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Exemption for Turnover: Yes | Complete (GeM PDF, p. 1)"
+  ],
   "consignees": [],
   "technical_specifications": [],
   "buyer_added_terms": [],
-  "evidence": [],
-  "detail_warning": "Readable text was extracted, but this PDF was not identified as an original GeM bid document. No tender requirements were inferred."
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/763676",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115573"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 1,
+      "quote": "Please refer to Bid document of GEM/2026/B/8117923",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115573"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 03-11-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115573"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 04-11-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115573"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115573"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115573"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Coast Guard",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115573"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 42",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115573"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Telephone caller ID with RJ11 Telephone cable extension cord",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115573"
+    },
+    {
+      "field": "auto_extension",
+      "page": 1,
+      "quote": "Auto Extension: If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115573"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 1,
+      "quote": "MSE Exemption for Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115573"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 1,
+      "quote": "Startup Exemption for Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10115573"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda.",
+  "ra_start_at": "2026-11-03T17:00:00+05:30",
+  "auto_extension": "If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+  "mse_exemption": "MSE Exemption for Turnover: Yes | Complete",
+  "startup_exemption": "Startup Exemption for Turnover: Yes | Complete",
+  "originating_bid_reference": "GEM/2026/B/8117923",
+  "document_parser_version": 2
 }

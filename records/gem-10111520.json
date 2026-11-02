@@ -5,9 +5,9 @@
   "tender_id": "GEM/2026/R/762959",
   "title": "A4 Paper,A3 Paper,Legal Paper,File Cover Printed various colour,File Cover printed White,File Binde",
   "description": "A4 Paper,A3 Paper,Legal Paper,File Cover Printed various colour,File Cover printed White,File Binder,File Tag White and Blue,Tag Green,Dispenser blade,Tape Dispenser with blade 1 inch,Transparent Tape 1 inch,Transparent Tape 1 by 2 inch,Packing Tape Brown 2 inch x 100 mtr,Pencil Apsara,Eraser,Paper Pin T Type,U Clip Plastic Quoted,Pen Uniball Impact Gell Blue,Pen Uniball Refill blue,Pilot Pen V7 Grip Blue,Pilot Pen Grip Red V7,Pilot Pen Grip Green V7,Pilot Pen Grip Black V7,Pilot Pen V7 Normal Blue,Pen Reynolds or Maxwriter Blue,Pen Reynolds or Maxwriter Red,Pen Reynolds or Maxwriter Black,Register 600 Pages,Register 400 pages,Register 300 pages,Register 200 pages,Binder Clip 3 by 4,Binder Clip 15mm,Binder Clip 25mm,Binder Clip 31mm,Binder Clip 41mm,Binder Clip 51mm,Stapler Pin Small,Stapler Pin Large,Whitener Correction Pen,Ink for stamp pad,Stick Pad Small,Stick Pad Med,Stick Pad Large,Paper Flag,Envelope 16 x 20 Plastic Quoted 25 each pkt,Envelope 14 x 10 Plastic Quoted 25 each pkt,Envelope 12 x 6 25 each ",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Army",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
@@ -25,8 +25,18 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10111520"
+    },
+    {
+      "name": "GEM/2026/B/8115051",
+      "url": "https://bidplus.gem.gov.in/showbidDocument/9982871",
+      "page": 2
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261101",
+      "page": 2
     }
   ],
   "tags": [
@@ -35,15 +45,98 @@
   "source_fetched_at": "2026-11-02T15:25:52.378Z",
   "demo": false,
   "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
-  "source_document_fetched_at": "2026-11-02T14:45:49.339856+00:00",
-  "detail_status": "unrecognized_document",
+  "source_document_fetched_at": "2026-11-02T16:07:02.857936+00:00",
+  "detail_status": "parsed",
   "detailLoaded": true,
   "document_sha256": "06b958043fb921295e70928a86fe0f3b19cb1848c2adcfdb11bbe42f38aef103",
   "document_pages": 2,
-  "eligibility": [],
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 0.85 Lakh (s) (GeM PDF, p. 2)",
+    "MSE Exemption for Years of Experience and Turnover: No (GeM PDF, p. 2)",
+    "Startup Exemption for Years of Experience and Turnover: No (GeM PDF, p. 2)"
+  ],
   "consignees": [],
   "technical_specifications": [],
   "buyer_added_terms": [],
-  "evidence": [],
-  "detail_warning": "Readable text was extracted, but this PDF was not identified as an original GeM bid document. No tender requirements were inferred."
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/762959",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111520"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 2,
+      "quote": "Please refer to Bid document of GEM/2026/B/8115051",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111520"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 02-11-2026 20:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111520"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 03-11-2026 20:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111520"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111520"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111520"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Army",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111520"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 2001",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111520"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: A4 Paper , A3 Paper , Legal Paper , File Cover Printed various colour , File Cover printed White , File Binder , File Tag White and Blue , Tag Green , Dispenser blade , Tape Dispenser with blade 1 inch , Transparent Tape 1 inch , Transparent Tape 1 by 2 inch , Packing Tape Brown 2 inch x 100 mtr , Pencil Apsara , Eraser , Paper Pin T Type , U Clip Plastic Quoted , Pen Uniball Impact Gell Blue , Pen Uniball Refill blue , Pilot Pen V7 Grip Blue , Pilot Pen Grip Red V7 , Pilot Pen Grip Green V7 , Pilot Pen Grip Black V7 , Pilot Pen V7 Normal Blue , Pen Reynolds or Maxwriter Blue , Pen Reynolds or Maxwriter Red , Pen Reynolds or Maxwriter Black , Register 600 Pages , Register 400 pages , Register 300 pages , Register 200 pages , Binder Clip 3 by 4 , Binder Clip 15mm , Binder Clip 25mm , Binder Clip 31mm , Binder Clip 41mm , Binder Clip 51mm , Stapler Pin Small , Stapler Pin Large , Whitener Correction Pen , Ink for stamp pad , Stick Pad Small , Stick Pad Med , Stick Pad Large , Paper Flag , Envelope 16 x 20 Plastic Quoted 25 each pkt , Envelope 14 x 10 Plastic Quoted 25 each pkt , Envelope 12 x 6 25 each pkt , Envelope A4 Size , Envelope 9 x 4 25 each pkt , Envolope small , DO Pad Printed , DO Pad Blank , DO Envelope , Photo paper A4 Glossy , Matte photo paper A4 , Lamination Pouch A4 , Lamination Pouch A3 , Lamination Roll A3 , Fevicol Tube 200 Ml , Fevi stick 15g , Paint brush 1 inch 02 and 2 inch 03 and 3 inch 02 , Paint brush 1 inch 02 and 2 inch 03 and 3inch 02 , Carbon Paper , Mini Clip Board , Pen Stand Round inf Net , Sketch Pen , Calling bell wireless , File Folder , Engagement Pad , Rubber Bands , Plastic Flag , Blue Pen Refill , Duster , Highlighter all color , Door Bell Remote Cell Super Alkaline 23 A , Door Bell , Red Pen Refill",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111520"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 2,
+      "quote": "Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 0.85 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111520"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 2,
+      "quote": "MSE Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111520"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 2,
+      "quote": "Startup Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10111520"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda.",
+  "bidder_turnover_lakhs": 0.85,
+  "ra_start_at": "2026-11-02T20:00:00+05:30",
+  "mse_exemption": "MSE Exemption for Years of Experience and Turnover: No",
+  "startup_exemption": "Startup Exemption for Years of Experience and Turnover: No",
+  "originating_bid_reference": "GEM/2026/B/8115051",
+  "document_parser_version": 2
 }

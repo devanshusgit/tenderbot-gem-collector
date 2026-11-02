@@ -5,9 +5,9 @@
   "tender_id": "GEM/2026/R/763802",
   "title": "Catering service (Event Based) - Snacks/High Tea; As per scope of work; As per scope of work,Cateri",
   "description": "Catering service (Event Based) - Snacks/High Tea; As per scope of work; As per scope of work,Catering service (Event Based) - Snacks/High Tea; As per scope of work; As per scope of work,Catering service (Event Based) - Lunch; As per scope of work; As per scope of work,Catering service (Event Based) - Lunch; As per scope of work; As per scope of work,Catering service (Event Based) - Dinner; As per scope of work; As per scope of work",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Navy",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
@@ -25,7 +25,7 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10116319"
     },
     {
@@ -45,15 +45,104 @@
   "source_fetched_at": "2026-11-02T15:24:00.027Z",
   "demo": false,
   "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
-  "source_document_fetched_at": "2026-11-02T15:47:07.913949+00:00",
-  "detail_status": "unrecognized_document",
+  "source_document_fetched_at": "2026-11-02T16:05:37.816373+00:00",
+  "detail_status": "parsed",
   "detailLoaded": true,
   "document_sha256": "77505fdd025d95dc2b9f55a506d6ef7925e624f7fbe92b087e0b046d7df23278",
   "document_pages": 2,
-  "eligibility": [],
+  "eligibility": [
+    "MSE Exemption for Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Exemption for Turnover: Yes | Complete (GeM PDF, p. 1)"
+  ],
   "consignees": [],
   "technical_specifications": [],
   "buyer_added_terms": [],
-  "evidence": [],
-  "detail_warning": "Readable text was extracted, but this PDF was not identified as an original GeM bid document. No tender requirements were inferred."
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/763802",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116319"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 1,
+      "quote": "Please refer to Bid document of GEM/2026/B/8123696",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116319"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 03-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116319"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 04-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116319"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116319"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116319"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Navy",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116319"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Catering service (Event Based) - Snacks/High Tea; As per scope of work; As per scope of work , Catering service (Event Based) - Lunch; As per scope of work; As per scope of work , Catering service (Event Based) - Dinner; As per scope of work; As per scope of work",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116319"
+    },
+    {
+      "field": "auto_extension",
+      "page": 1,
+      "quote": "Auto Extension: If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116319"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 1 Month(s)",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116319"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 1,
+      "quote": "MSE Exemption for Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116319"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 1,
+      "quote": "Startup Exemption for Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10116319"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 960",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda.",
+  "contract_period": "1 Month(s)",
+  "ra_start_at": "2026-11-03T18:00:00+05:30",
+  "auto_extension": "If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+  "mse_exemption": "MSE Exemption for Turnover: Yes | Complete",
+  "startup_exemption": "Startup Exemption for Turnover: Yes | Complete",
+  "originating_bid_reference": "GEM/2026/B/8123696",
+  "document_parser_version": 2
 }

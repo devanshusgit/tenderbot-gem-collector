@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8225040",
   "title": "Off - Grid Solar Photovoltaic (PV) Power Plant (V2)",
   "description": "Off - Grid Solar Photovoltaic (PV) Power Plant (V2)",
-  "organisation": "Department of Financial Services",
-  "ministry": "Ministry of Finance",
-  "department": "Department of Financial Services",
+  "organisation": "Bank Of Baroda",
+  "ministry": "Ministry Of Finance",
+  "department": "Department Of Financial Services",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Off - Grid Solar Photovoltaic (PV) Power Plant (V2)",
   "quantity": 4,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 50000,
   "published_at": "2026-10-31T18:38:56+05:30",
   "closing_at": "2026-11-16T19:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10109406"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/ns6jHOb0AGZ1To1nfRQgM6NYxzvkP_gmDZjRLqY7Tgg",
+      "page": 5
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8225040/CLM0010/ATCBOB_d4e0b237-187e-4a12-88ee1793449367334_RP124613.pdf",
+      "page": 8
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261031",
+      "page": 10
     }
   ],
   "tags": [
@@ -34,5 +54,299 @@
   ],
   "source_fetched_at": "2026-11-02T02:40:03.552Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-17T19:00:00+05:30",
+  "office": "Patna",
+  "buyer_email": "buyer73.bb.bh@gembuyer.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 12,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience: Yes | Partial | Experience - 2 year (s)",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-02T13:47:15.327277+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_sha256": "1b188fb16dbc03ef8503f4eaf81e4b8bb21988737be902443c35213ca22df1df",
+  "document_pages": 10,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 12 Lakh (s) (GeM bid PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM bid PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM bid PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM bid PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience: Yes | Partial | Experience - 2 year (s) (GeM bid PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM bid PDF, p. 2)",
+    "Past performance: 10 % (GeM bid PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM bid PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Rakhi Paul",
+      "address": "854301,Bank of Baroda Regional Office 3rd floor Shakuntala Daignostic & Imaging, Rambagh Road, Line Bazar, Purnea",
+      "quantity": 4,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Generic",
+          "parameter": "Capacity of power plant (kVA)",
+          "value": "5"
+        },
+        {
+          "group": "PV Module",
+          "parameter": "Type of Solar Module",
+          "value": "Crystalline Silicon Terrestrial Photovoltaic (PV) modules conforming to IS 14286 IS/IEC 61730 -1 IS/IEC 61730 -2"
+        },
+        {
+          "group": "PV Module",
+          "parameter": "Rated power of PV module (in Wp) - Minimum",
+          "value": "5000, 4000"
+        },
+        {
+          "group": "PV Module",
+          "parameter": "BIS CRS compliance for the PV module offered",
+          "value": "Yes as per IS 14286, IS/IEC 61730 - 1, IS/IEC 61730 - 2"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": "Power Conditioning Unit (PCU)/ Solar Inverter",
+          "parameter": "Rated Power (in kVA) (Hint: Inverter Rating)",
+          "value": "5.0"
+        },
+        {
+          "group": "Power Conditioning Unit (PCU)/ Solar Inverter",
+          "parameter": "Output phase",
+          "value": "1 Phase, 230 volt AC, 50 Hz"
+        },
+        {
+          "group": "Power Conditioning Unit (PCU)/ Solar Inverter",
+          "parameter": "Charger technology",
+          "value": "MPPT"
+        },
+        {
+          "group": "Power Conditioning Unit (PCU)/ Solar Inverter",
+          "parameter": "Protection class",
+          "value": "IP20, IP21"
+        },
+        {
+          "group": "Power Conditioning Unit (PCU)/ Solar Inverter",
+          "parameter": "BIS CRS compliance",
+          "value": "Yes as per IS 16242 (Part 1) for upto 10 kVA"
+        },
+        {
+          "group": "Battery",
+          "parameter": "Type of Battery",
+          "value": "Tubular Lead Acid (as per IS 13369)"
+        },
+        {
+          "group": "Battery",
+          "parameter": "Minimum backup time when battery is fully charged - Must declare (in hours)",
+          "value": "4, 12"
+        },
+        {
+          "group": "BOS Items",
+          "parameter": "Protection class of junction box/enclosure box",
+          "value": "IP55, IP65"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up"
+    },
+    {
+      "page": 7,
+      "text": "to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Turnover Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. 3. Turnover OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of CATEGORY RELATED TO primary product having highest bid value should meet this criterion. 4. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 5. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 6. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 7. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 8. Past Project Experience Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc.Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be"
+    },
+    {
+      "page": 8,
+      "text": "considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc. 9. Past Project Experience The Bidder / OEM {themselves or through reseller(s)}, should have executed project for supply and installation / commissioning of same or similar Category Products during preceding 3 financial years (i.e. current year and three previous financial years) as on opening of bid, as per following criteria: (i) Single order of at least 35% of estimated bid value; or (ii) Two orders of at least 20% each of estimated bid value; or (iii) Three orders of at least 15% each of estimated bid value. Satisfactory Performance certificate issued by respective Buyer Organization for the above Orders should be uploaded with bid. In case of bunch bids, the Category related to primary product having highest bid value should meet this criterion 10. Forms of EMD and PBG Bidders can also submit the EMD with Account Payee Demand Draft in favour of AGM, Regional office Bank of Baroda, Purnia payable at Agm Regional Office Bob) . Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 11. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 12. Rate Contract Tax and Duties Toll Tax/ Entry Tax/ Octroi Duty & Local Taxes. No separate payment would be made by the Buyer for Toll Taxes, Entry Taxes, Octroi duty and local Taxes, if any. The Seller should cater for these Taxes/ duties as part of Basic Rate quoted in the Bid. 13. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 14. Certificates ISO 9001: The bidder or the OEM of the offered products must have ISO 9001 certification. 15. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8225040",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10109406"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 16-11-2026 19:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10109406"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 17-11-2026 19:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10109406"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10109406"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Finance",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10109406"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Financial Services",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10109406"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Bank Of Baroda",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10109406"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Patna",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10109406"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :zm.bojz@bankofbaroda.com Buyer Email id: buyer73.bb.bh@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10109406"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 4",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10109406"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Off - Grid Solar Photovoltaic (PV) Power Plant (V2) (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10109406"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 12 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10109406"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10109406"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10109406"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10109406"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience: Yes | Partial | Experience - 2 year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10109406"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10109406"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 10 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10109406"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10109406"
+    },
+    {
+      "field": "emd_fee",
+      "page": 3,
+      "quote": "EMD Amount: 50000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10109406"
+    },
+    {
+      "field": "emd_required",
+      "page": 3,
+      "quote": "EMD Amount: 50000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10109406"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10109406"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Capacity of power plant (kVA): 5 | Type of Solar Module: Crystalline Silicon Terrestrial Photovoltaic (PV) modules conforming to IS 14286 IS/IEC 61730 -1 IS/IEC 61730 -2 | Rated power of PV module (in Wp) - Minimum: 5000, 4000 | BIS CRS compliance for the PV module offered: Yes as per IS 14286, IS/IEC 61730 - 1, IS/IEC 61730 - 2",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10109406"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Rated Power (in kVA) (Hint: Inverter Rating): 5.0 | Output phase: 1 Phase, 230 volt AC, 50 Hz | Charger technology: MPPT | Protection class: IP20, IP21 | BIS CRS compliance: Yes as per IS 16242 (Part 1) for upto 10 kVA | Type of Battery: Tubular Lead Acid (as per IS 13369) | Minimum backup time when battery is fully charged - Must declare (in hours): 4, 12 | Protection class of junction box/enclosure box: IP55, IP65",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10109406"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Rakhi Paul | 854301,Bank of Baroda Regional Office 3rd floor Shakuntala Daignostic & Imaging, Rambagh Road, Line Bazar, Purnea | 4 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10109406"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10109406"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Turnover Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. 3. Turnover OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of CATEGORY RELATED TO primary product having highest bid value should meet this criterion. 4. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 5. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 6. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 7. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 8. Past Project Experience Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc.Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10109406"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc. 9. Past Project Experience The Bidder / OEM {themselves or through reseller(s)}, should have executed project for supply and installation / commissioning of same or similar Category Products during preceding 3 financial years (i.e. current year and three previous financial years) as on opening of bid, as per following criteria: (i) Single order of at least 35% of estimated bid value; or (ii) Two orders of at least 20% each of estimated bid value; or (iii) Three orders of at least 15% each of estimated bid value. Satisfactory Performance certificate issued by respective Buyer Organization for the above Orders should be uploaded with bid. In case of bunch bids, the Category related to primary product having highest bid value should meet this criterion 10. Forms of EMD and PBG Bidders can also submit the EMD with Account Payee Demand Draft in favour of AGM, Regional office Bank of Baroda, Purnia payable at Agm Regional Office Bob) . Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 11. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 12. Rate Contract Tax and Duties Toll Tax/ Entry Tax/ Octroi Duty & Local Taxes. No separate payment would be made by the Buyer for Toll Taxes, Entry Taxes, Octroi duty and local Taxes, if any. The Seller should cater for these Taxes/ duties as part of Basic Rate quoted in the Bid. 13. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 14. Certificates ISO 9001: The bidder or the OEM of the offered products must have ISO 9001 certification. 15. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10109406"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8227558",
   "title": "NETWORK ACCESS CONTROL SOLUTION",
   "description": "NETWORK ACCESS CONTROL SOLUTION",
-  "organisation": "Department of Defence Production",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Defence Production",
+  "organisation": "Hindustan Aeronautics Limited (hal)",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Defence Production",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "NETWORK ACCESS CONTROL SOLUTION",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-02T11:23:53+05:30",
   "closing_at": "2026-11-23T20:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10112410"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "Buyer technical specification",
+      "url": "https://mkp.gem.gov.in/catalog_data/catalog_support_document/buyer_documents/2164077/54/78/703/CatalogAttrs/SpecificationDocument/2026/11/2/annexure-i_2026-11-02-10-57-35_a9d7738d9d57637271e8b383c689a226.pdf",
+      "page": 5
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261102",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +49,143 @@
   ],
   "source_fetched_at": "2026-11-02T10:07:47.227Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-24T20:00:00+05:30",
+  "buyer_email": "pawan.kumar4@hal-india.co.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-02T11:10:32.630127+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_sha256": "e443dd003496fc81b5589462dc4f571e2696af770c455114d7194f391e2f27d3",
+  "document_pages": 8,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM bid PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM bid PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "***********",
+      "address": "***********KANPUR CITY",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    }
+  ],
+  "technical_specifications": [],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1- The bidder should submit line wise compliance of technical specification as mentioned in attached Anne xure-I. 2- Please provide Contact Name, active mobile no. & active Email ID, Screenshots of GeM Profile (Seller ID, GSTIN, Bank details etc.) along with offer. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8227558",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10112410"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 23-11-2026 20:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10112410"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 24-11-2026 20:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10112410"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10112410"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10112410"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Defence Production",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10112410"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Hindustan Aeronautics Limited (hal)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10112410"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :kailash.nath1@hal-india.com Buyer Email id: pawan.kumar4@hal-india.co.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10112410"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10112410"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: NETWORK ACCESS CONTROL SOLUTION",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10112410"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10112410"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10112410"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10112410"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10112410"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10112410"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********KANPUR CITY | 1 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10112410"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1- The bidder should submit line wise compliance of technical specification as mentioned in attached Anne xure-I. 2- Please provide Contact Name, active mobile no. & active Email ID, Screenshots of GeM Profile (Seller ID, GSTIN, Bank details etc.) along with offer. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10112410"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

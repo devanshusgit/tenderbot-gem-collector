@@ -1,12 +1,13 @@
 """Public-source collector for free standard GitHub Actions runners.
 
-No artifacts, caches, paid runners, cloud credentials or PDF binaries are stored.
+No artifacts, caches, paid runners, credential values or PDF binaries are published.
 The data branch keeps source records, parsed evidence and a resumable cursor.
 """
 import argparse
 import asyncio
 import datetime as dt
 import json
+import re
 from pathlib import Path
 import tempfile
 import time
@@ -25,6 +26,7 @@ FIELDS = ['id','tender_id','title','organisation','ministry','department','quant
           'product_category','status','state','city']
 DOCUMENT_RETRY_DELAYS = (3600, 21600)
 MAX_DOCUMENT_ATTEMPTS = len(DOCUMENT_RETRY_DELAYS) + 1
+MAX_CONSECUTIVE_SOURCE_FAILURES = 3
 NEWEST_BUDGET_FRACTION = 0.35
 NEWEST_OVERLAP = dt.timedelta(hours=1)
 
@@ -41,10 +43,18 @@ def publish_index(folder, state, records=None):
     if records is None:
         records = [read(path,{}) for path in sorted((folder/'records').glob('gem-*.json'))]
     rows = [[record.get(key) for key in FIELDS] for record in records]
-    parsed = sum(bool(r.get('source_document_fetched_at')) for r in records)
+    now = dt.datetime.now(dt.timezone.utc)
+    downloaded = sum(bool(r.get('source_document_fetched_at')) for r in records)
+    parsed = sum(bool(r.get('source_document_fetched_at')) and r.get('detail_status') == 'parsed' for r in records)
+    eligible = sum(document_due(r,now) for r in records)
+    exhausted = sum(not r.get('source_document_fetched_at') and
+        r.get('document_retry',{}).get('attempts',0) >= MAX_DOCUMENT_ATTEMPTS for r in records)
+    pending = len(records)-downloaded
     receipt = max((r['source_fetched_at'] for r in records),default=None)
     status = {**state,'enabled':True,'runtime':'github-actions','automatic':True,
-        'records':len(records),'documents':parsed,'pending_documents':len(records)-parsed,
+        'records':len(records),'documents':downloaded,'downloaded_documents':downloaded,
+        'parsed_documents':parsed,'pending_documents':pending,'eligible_documents':eligible,
+        'exhausted_documents':exhausted,'deferred_documents':pending-eligible-exhausted,
         'fetched_at':receipt,'last_run_at':state.get('last_run_at'),
         'full_sweep_complete':bool(state.get('complete')),
         'exact_coverage_verified':False,
@@ -90,18 +100,67 @@ def document_due(record, now):
     return not retry.get('next_attempt_at') or timestamp(retry['next_attempt_at']) <= now
 
 
+def document_priority(record, now):
+    def optional_time(value):
+        try:
+            return timestamp(value)
+        except (ValueError,TypeError):
+            return None
+    closing = optional_time(record.get('closing_at'))
+    inactive = (str(record.get('status','')).lower() in ('cancelled','canceled','closed','expired','awarded') or
+        (closing is not None and closing <= now))
+    published = optional_time(record.get('published_at'))
+    received = optional_time(record.get('source_fetched_at'))
+    recent = published or received
+    return (int(inactive),record.get('document_retry',{}).get('attempts',0),
+        -recent.timestamp() if recent else 0,-received.timestamp() if received else 0,record['id'])
+
+
+def document_source_failure(error):
+    """Recognize source transport failures, not a missing/malformed notice."""
+    if not isinstance(error,PortalError) or isinstance(error,PortalChallengeError):
+        return None
+    status = getattr(error,'status',None)
+    remote_http = re.fullmatch(r'Cloud source request failed with HTTP (\d{3})\.',str(error))
+    if remote_http:
+        status = int(remote_http[1])
+    if isinstance(status,int) and (status == 429 or 500 <= status <= 599):
+        return {'status':'unavailable','stage':'http','http_status':status}
+    if str(error) in ('Cloud source request failed at transport stage.',
+            'GeM request failed after three attempts.','GeM request did not complete.',
+            'GeM public listing navigation failed after three attempts.'):
+        return {'status':'unavailable','stage':'connect'}
+    return None
+
+
+def document_batch_failure(summary, health):
+    error = PortalError('The document source remains unavailable after bounded transport attempts; retry the batch later.')
+    error.document_batch = dict(summary)
+    error.source_health = health
+    return error
+
+
 async def process_documents(folder, portal, records, seconds):
     started = time.monotonic()
-    # Try untouched documents before retrying failed ones. Backoff and the cap
-    # survive job restarts, so one unreadable notice cannot consume every run.
-    queue = sorted(records,key=lambda record:(record.get('document_retry',{}).get('attempts',0),record['id']))
+    now = dt.datetime.now(dt.timezone.utc)
+    summary = {'attempted':0,'downloaded':0,'failed':0,'source_failures':0}
+    consecutive_source_failures = 0
+    last_source_health = None
+    # Open bids (including unknown closing dates) come before expired notices.
+    # Within each group try untouched/newer bids first. Persisted backoff/caps
+    # still prevent an unreadable notice from consuming every batch.
+    queue = sorted((record for record in records if not record.get('source_document_fetched_at')),
+        key=lambda record:document_priority(record,now))
     for record in queue:
         if time.monotonic()-started >= seconds:
             break
         if not document_due(record,dt.datetime.now(dt.timezone.utc)):
             continue
         try:
+            summary['attempted'] += 1
             content = await portal.download(record['source_document_url'])
+            summary['downloaded'] += 1
+            consecutive_source_failures = 0
             with tempfile.TemporaryDirectory() as temporary:
                 path = Path(temporary)/'original.pdf'
                 path.write_bytes(content)
@@ -110,21 +169,46 @@ async def process_documents(folder, portal, records, seconds):
                 ('id','tender_id','title','description','quantity','status','published_at','closing_at','source_fetched_at')}
             merged = {**record,**{k:v for k,v in details.items() if v is not None},**protected}
             merged.pop('document_retry',None)
+            merged.pop('document_source_error',None)
             atomic_json(folder/'records'/(record['id']+'.json'),merged)
         except PortalChallengeError:
             raise
         except Exception as error:
+            summary['failed'] += 1
             failed_at = dt.datetime.now(dt.timezone.utc)
+            health = document_source_failure(error)
+            if health:
+                consecutive_source_failures += 1
+                summary['source_failures'] += 1
+                last_source_health = health
+                # Source outages are retried by the runner's bounded backoff.
+                # They must not exhaust a valid document's parsing retry cap
+                # or make all jobs deferred before the runner retries them.
+                atomic_json(folder/'records'/(record['id']+'.json'),{**record,
+                    'document_source_error':{**health,'last_attempt_at':failed_at.isoformat()}})
+                print(json.dumps({'id':record['id'],'pdf_source_error':health,
+                    'consecutive_source_failures':consecutive_source_failures}),flush=True)
+                if consecutive_source_failures >= MAX_CONSECUTIVE_SOURCE_FAILURES:
+                    raise document_batch_failure(summary,health) from None
+                continue
+            consecutive_source_failures = 0
             attempts = record.get('document_retry',{}).get('attempts',0)+1
             exhausted = attempts >= MAX_DOCUMENT_ATTEMPTS
             retry = {'attempts':attempts,'last_attempt_at':failed_at.isoformat(),
                 'error':type(error).__name__,'status':'exhausted' if exhausted else 'retry',
                 'next_attempt_at':None if exhausted else
                     (failed_at+dt.timedelta(seconds=DOCUMENT_RETRY_DELAYS[attempts-1])).isoformat()}
-            atomic_json(folder/'records'/(record['id']+'.json'),{**record,'document_retry':retry})
+            failed_record = {**record,'document_retry':retry}
+            failed_record.pop('document_source_error',None)
+            atomic_json(folder/'records'/(record['id']+'.json'),failed_record)
             # Unreadable or non-PDF notices stay explicit, never invented.
             print(json.dumps({'id':record['id'],'pdf_error':type(error).__name__,
                 'document_attempts':attempts,'document_retry_status':retry['status']}),flush=True)
+    if summary['source_failures'] and summary['source_failures'] == summary['attempted']:
+        # A short queue/budget may end before the three-failure threshold.
+        # An entirely failed source batch still needs runner retry/backoff.
+        raise document_batch_failure(summary,last_source_health) from None
+    return summary
 
 
 def newest_cutoff(state, previous_status):
@@ -200,7 +284,7 @@ async def collect(folder, seconds=600, pdf_seconds=100):
     state = read(folder/'state.json',{})
     cutoff = newest_cutoff(state,read(folder/'collector.json',{}))
     remote = remote_configured()
-    state.update(status='running',last_run_at=stamp(),error=None,
+    state.update(status='running',mode='collection',last_run_kind='collection',last_run_at=stamp(),error=None,
         source_runtime='cloudflare-workers' if remote else 'github-actions-playwright')
     started = time.monotonic()
     try:
@@ -231,6 +315,9 @@ async def collect(folder, seconds=600, pdf_seconds=100):
         state.update(status='blocked',error='GeM requires human access verification')
     except Exception as error:
         state.update(status='failed',error=type(error).__name__,error_message=str(error)[:250])
+        if getattr(error,'source_health',None):
+            state.update(source_checked_at=stamp(),source_health=error.source_health,
+                document_batch=error.document_batch)
         print(json.dumps({'error':type(error).__name__,'message':str(error)[:250],
             'cause':str(error.__cause__)[:350] if error.__cause__ else None}),flush=True)
         # A single read-only transport check distinguishes browser failure from
@@ -252,12 +339,55 @@ async def collect(folder, seconds=600, pdf_seconds=100):
     return 0 if state['status']=='succeeded' else 1
 
 
+async def collect_documents(folder, seconds=600):
+    """Process only existing document jobs, retaining all listing checkpoints."""
+    if isinstance(seconds,bool) or not isinstance(seconds,(int,float)) or not 1 <= seconds <= 900:
+        raise ValueError('Documents-only budget must be between one and900seconds')
+    if not (folder/'state.json').is_file() or not (folder/'records').is_dir():
+        raise PortalError('Documents-only collection requires the existing data checkout.')
+    state = read(folder/'state.json',{})
+    remote = remote_configured()
+    state.update(status='running',mode='documents',last_run_kind='documents',last_run_at=stamp(),error=None,
+        source_runtime='cloudflare-workers' if remote else 'github-actions-playwright')
+    try:
+        records = publish_index(folder,state)
+        source = RemotePortal(delay=1) if remote else GemPortal(browser_channel='chromium',delay=1)
+        async with source as portal:
+            summary = await process_documents(folder,portal,records,seconds)
+        state.update(status='succeeded',last_documents_success_at=stamp(),document_batch=summary)
+        state.pop('error_message',None)
+        if summary['downloaded']:
+            # A verified document response establishes HTTP reachability; a
+            # no-op queue does not refresh source health or any listing date.
+            state.update(source_checked_at=stamp(),
+                source_health={'status':'reachable','stage':'http','http_status':200})
+    except PortalChallengeError as error:
+        state.update(status='blocked',error='GeM requires human access verification',
+            error_message=str(error)[:250],source_checked_at=stamp(),
+            source_health={'status':'blocked','stage':'http'})
+    except Exception as error:
+        state.update(status='failed',error=type(error).__name__,error_message=str(error)[:250])
+        if getattr(error,'source_health',None):
+            state.update(source_checked_at=stamp(),source_health=error.source_health,
+                document_batch=error.document_batch)
+        print(json.dumps({'error':type(error).__name__,'message':str(error)[:250]}),flush=True)
+        # Keep remote source failures on that source; do not issue a direct
+        # GeM diagnostic or run any listing search in documents-only mode.
+    finally:
+        publish_index(folder,state)
+    return 0 if state['status']=='succeeded' else 1
+
+
 if __name__=='__main__':
     args = argparse.ArgumentParser()
     args.add_argument('--data-dir',type=Path,required=True)
     args.add_argument('--seconds',type=int,default=600)
     args.add_argument('--pdf-seconds',type=int,default=100)
+    args.add_argument('--documents-only',action='store_true',
+        help='Process existing PDF jobs for --seconds without searching listings')
     config=args.parse_args()
     if not 1<=config.seconds<=900 or not 0<=config.pdf_seconds<=180:
         args.error('Collection limits must fit within one free scheduled job')
-    raise SystemExit(asyncio.run(collect(config.data_dir,config.seconds,config.pdf_seconds)))
+    job = (collect_documents(config.data_dir,config.seconds) if config.documents_only else
+        collect(config.data_dir,config.seconds,config.pdf_seconds))
+    raise SystemExit(asyncio.run(job))

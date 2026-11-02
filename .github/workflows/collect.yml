@@ -2,8 +2,16 @@ name: Collect public GeM tenders
 on:
   workflow_dispatch:
     inputs:
+      mode:
+        description: Refresh listings or process the existing PDF queue
+        type: choice
+        options:
+          - collect
+          - documents
+        default: collect
+        required: false
       seconds:
-        description: Listing collection seconds per batch
+        description: Collection seconds per batch (PDF budget in documents mode)
         default: '600'
         required: false
       pdf_seconds:
@@ -16,6 +24,7 @@ on:
         required: false
   schedule:
     - cron: '17,47 * * * *'
+    - cron: '5 */6 * * *'
 permissions:
   contents: write
 concurrency:
@@ -28,6 +37,7 @@ jobs:
     env:
       GEM_CLOUDFLARE_SOURCE_URL: ${{ vars.GEM_CLOUDFLARE_SOURCE_URL }}
       TENDERBOT_SITE_SERVICE_TOKEN: ${{ secrets.TENDERBOT_SITE_SERVICE_TOKEN }}
+      COLLECT_MODE: ${{ inputs.mode || (github.event.schedule == '5 */6 * * *' && 'documents') || 'collect' }}
       COLLECT_SECONDS: ${{ inputs.seconds || '600' }}
       PDF_SECONDS: ${{ inputs.pdf_seconds || '100' }}
       BATCH_COUNT: ${{ inputs.batches || '1' }}
@@ -47,6 +57,8 @@ jobs:
         shell: python
         run: |
           import os, re
+          if os.environ['COLLECT_MODE'] not in ('collect','documents'):
+              raise SystemExit('Unsupported collection mode')
           for name, lower, upper in [('COLLECT_SECONDS',1,900),('PDF_SECONDS',0,180),('BATCH_COUNT',1,24)]:
               value = os.environ[name]
               if not re.fullmatch(r'[0-9]+',value) or not lower <= int(value) <= upper:
@@ -70,7 +82,7 @@ jobs:
       - name: Install browser
         if: env.GEM_CLOUDFLARE_SOURCE_URL == ''
         run: python -m playwright install --with-deps chromium
-      - name: Collect real public bids
+      - name: Collect public listings or process queued official PDFs
         working-directory: app
         run: bash runner.sh
       - name: Publish checkpoint and dataset

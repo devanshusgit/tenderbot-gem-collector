@@ -8,7 +8,7 @@ import unittest
 from unittest import mock
 
 import collector
-from tenderbot_crawler.gem import PortalChallengeError, PortalError
+from tenderbot_crawler.gem import PortalChallengeError, PortalError, PortalHTTPError
 from tenderbot_crawler.storage import atomic_json, timestamp
 
 
@@ -322,6 +322,239 @@ class GithubCollectorTests(unittest.IsolatedAsyncioTestCase):
         with self.assertRaises(PortalChallengeError):
             await collector.process_documents(self.folder,portal,[RECORD],seconds=10)
         self.assertEqual(self.saved(),{})
+
+    async def test_document_priority_serves_current_and_unknown_bids_before_expired_notices(self):
+        expired = {**self.bid(1000001,'2026-10-27T09:59:00+00:00'),
+            'closing_at':'2026-10-26T10:00:00+00:00'}
+        open_retry = {**self.bid(1000002,'2026-10-27T09:59:00+00:00'),
+            'document_retry':{'attempts':1,'next_attempt_at':'2026-10-27T09:00:00+00:00'}}
+        unknown = {**self.bid(1000003,'2026-10-27T09:30:00+00:00'),'closing_at':None}
+        open_old = self.bid(1000004,'2026-10-26T09:00:00+00:00')
+        open_new = self.bid(1000005,'2026-10-27T09:45:00+00:00')
+        cancelled = {**self.bid(1000006,'2026-10-27T09:58:00+00:00'),'status':'cancelled'}
+        parsed = {**self.bid(1000007,'2026-10-27T09:59:00+00:00'),
+            'source_document_fetched_at':collector.stamp(),'detail_status':'parsed'}
+        deferred = {**self.bid(1000008,'2026-10-27T09:59:00+00:00'),
+            'document_retry':{'attempts':1,'next_attempt_at':'2026-10-28T10:00:00+00:00'}}
+        portal = mock.Mock(download=mock.AsyncMock(side_effect=ValueError('Offline unreadable PDF')))
+        records = [expired,open_retry,unknown,open_old,open_new,cancelled,parsed,deferred]
+        await collector.process_documents(self.folder,portal,records,seconds=10)
+        self.assertEqual([call.args[0] for call in portal.download.await_args_list],
+            [record['source_document_url'] for record in
+                (open_new,unknown,open_old,open_retry,expired,cancelled)])
+        self.assertNotIn('status',self.saved(parsed))
+        self.assertEqual(self.saved(expired)['status'],'active')
+        self.assertEqual(self.saved(cancelled)['status'],'cancelled')
+
+    def test_document_priority_uses_source_receipt_when_publication_is_unknown(self):
+        older = {**RECORD,'source_fetched_at':'2026-10-26T09:00:00+00:00'}
+        newer = {**RECORD,'source_fetched_at':'2026-10-27T09:00:00+00:00'}
+        self.assertLess(collector.document_priority(newer,Clock.current),
+            collector.document_priority(older,Clock.current))
+        unknown_close = {**older,'closing_at':'Not disclosed'}
+        self.assertEqual(collector.document_priority(unknown_close,Clock.current)[0],0)
+
+    def test_queue_counts_distinguish_downloaded_parsed_due_deferred_and_exhausted(self):
+        parsed = {**self.bid(1000001,None),'source_document_fetched_at':collector.stamp(),'detail_status':'parsed'}
+        unreadable = {**self.bid(1000002,None),'source_document_fetched_at':collector.stamp(),'detail_status':'no_readable_text'}
+        unrecognized = {**self.bid(1000003,None),'source_document_fetched_at':collector.stamp(),'detail_status':'unrecognized_document'}
+        due = self.bid(1000004,None)
+        deferred = {**self.bid(1000005,None),
+            'document_retry':{'attempts':1,'next_attempt_at':'2026-10-28T10:00:00+00:00'}}
+        exhausted = {**self.bid(1000006,None),'document_retry':{'attempts':3,'status':'exhausted'}}
+        collector.publish_index(self.folder,{'page':99},[parsed,unreadable,unrecognized,due,deferred,exhausted])
+        status = collector.read(self.folder/'collector.json',{})
+        self.assertEqual(status['documents'],3)
+        self.assertEqual(status['downloaded_documents'],3)
+        self.assertEqual(status['parsed_documents'],1)
+        self.assertEqual(status['pending_documents'],3)
+        self.assertEqual(status['eligible_documents'],1)
+        self.assertEqual(status['deferred_documents'],1)
+        self.assertEqual(status['exhausted_documents'],1)
+
+    async def test_documents_only_preserves_listing_cursors_and_source_receipts(self):
+        state = {'page':345,'source_total':42000,'complete':True,
+            'newest_refresh_pages':70,'newest_refresh_complete':False,
+            'newest_refresh_cutoff':'2026-10-25T09:00:00+00:00',
+            'newest_refresh_started_at':'2026-10-26T09:00:00+00:00',
+            'newest_refresh_watermark':'2026-10-25T10:00:00+00:00',
+            'last_success_at':'2026-10-26T10:00:00+00:00'}
+        atomic_json(self.folder/'state.json',state)
+        collector.save_listing(self.folder,RECORD)
+        portal = self.portal(mock.Mock(side_effect=AssertionError('No listing searches allowed')))
+        portal.download = mock.AsyncMock(return_value=b'%PDF-offline fixture')
+        temporary = tempfile.TemporaryDirectory
+        details = {'source_document_fetched_at':collector.stamp(),'detail_status':'parsed','emd_fee':2500}
+        environment = {'GEM_CLOUDFLARE_SOURCE_URL':'https://tenderbot.example.chatgpt.site/api/cloud-source',
+            'TENDERBOT_SITE_SERVICE_TOKEN':'offline-site-secret'}
+        with mock.patch.dict(os.environ,environment), \
+                mock.patch.object(collector,'RemotePortal',return_value=portal), \
+                mock.patch.object(collector,'GemPortal') as browser, \
+                mock.patch.object(collector,'parse_pdf',return_value=details), \
+                mock.patch.object(collector.tempfile,'TemporaryDirectory',side_effect=lambda:temporary(dir=self.folder)):
+            self.assertEqual(await collector.collect_documents(self.folder,seconds=30),0)
+        portal.search.assert_not_awaited()
+        browser.assert_not_called()
+        saved_state = collector.read(self.folder/'state.json',{})
+        for key,value in state.items():
+            self.assertEqual(saved_state[key],value)
+        saved = self.saved()
+        self.assertEqual(saved['source_fetched_at'],RECORD['source_fetched_at'])
+        self.assertEqual(saved['closing_at'],RECORD['closing_at'])
+        self.assertEqual(saved['emd_fee'],2500)
+        status = collector.read(self.folder/'collector.json',{})
+        self.assertEqual(status['fetched_at'],RECORD['source_fetched_at'])
+        self.assertEqual(status['eligible_documents'],0)
+        self.assertEqual(status['parsed_documents'],1)
+        self.assertEqual(status['mode'],'documents')
+        self.assertEqual(status['runtime'],'github-actions')
+        self.assertEqual(status['source_runtime'],'cloudflare-workers')
+
+    async def test_documents_only_source_failure_keeps_checkpoint_and_avoids_direct_fallback(self):
+        state = {'page':345,'complete':False,'newest_refresh_pages':70,
+            'newest_refresh_complete':True,'last_success_at':'2026-10-26T10:00:00+00:00'}
+        atomic_json(self.folder/'state.json',state)
+        collector.save_listing(self.folder,RECORD)
+        environment = {'GEM_CLOUDFLARE_SOURCE_URL':'https://tenderbot.example.chatgpt.site/api/cloud-source',
+            'TENDERBOT_SITE_SERVICE_TOKEN':'offline-site-secret'}
+        with mock.patch.dict(os.environ,environment), \
+                mock.patch.object(collector,'RemotePortal',side_effect=PortalError('Remote source unavailable')), \
+                mock.patch.object(collector,'GemPortal') as browser, \
+                mock.patch.object(collector.urllib.request,'urlopen') as direct:
+            self.assertEqual(await collector.collect_documents(self.folder,seconds=30),1)
+        browser.assert_not_called()
+        direct.assert_not_called()
+        saved_state = collector.read(self.folder/'state.json',{})
+        for key,value in state.items():
+            self.assertEqual(saved_state[key],value)
+        self.assertEqual(saved_state['status'],'failed')
+        self.assertEqual(saved_state['error'],'PortalError')
+        self.assertEqual(self.saved()['source_fetched_at'],RECORD['source_fetched_at'])
+
+    async def test_documents_only_challenge_stops_immediately_without_retry_or_cursor_change(self):
+        state = {'page':345,'complete':False,'newest_refresh_pages':70,'newest_refresh_complete':True}
+        atomic_json(self.folder/'state.json',state)
+        collector.save_listing(self.folder,RECORD)
+        collector.save_listing(self.folder,self.bid(2000000,'2026-10-26T09:00:00+00:00'))
+        portal = self.portal(mock.Mock(side_effect=AssertionError('No listing searches allowed')))
+        portal.download = mock.AsyncMock(side_effect=PortalChallengeError('Access restricted'))
+        with mock.patch.object(collector,'GemPortal',return_value=portal):
+            self.assertEqual(await collector.collect_documents(self.folder,seconds=30),1)
+        portal.search.assert_not_awaited()
+        portal.download.assert_awaited_once()
+        saved_state = collector.read(self.folder/'state.json',{})
+        for key,value in state.items():
+            self.assertEqual(saved_state[key],value)
+        self.assertEqual(saved_state['status'],'blocked')
+        self.assertNotIn('document_retry',self.saved())
+
+    async def test_documents_only_budget_is_bounded_before_opening_source(self):
+        with mock.patch.object(collector,'GemPortal') as source:
+            for budget in (0,901,float('inf'),float('nan'),True):
+                with self.assertRaises(ValueError):
+                    await collector.collect_documents(self.folder,seconds=budget)
+        source.assert_not_called()
+
+    async def test_consecutive_transient_document_failures_persist_then_fail_batch(self):
+        state = {'page':345,'complete':False,'newest_refresh_pages':70,'newest_refresh_complete':True}
+        atomic_json(self.folder/'state.json',state)
+        records = [self.bid(1000000+number,None) for number in range(1,5)]
+        for record in records:
+            collector.save_listing(self.folder,record)
+        portal = self.portal(mock.Mock(side_effect=AssertionError('No listing searches allowed')))
+        portal.download = mock.AsyncMock(side_effect=PortalError('Cloud source request failed with HTTP 503.'))
+        environment = {'GEM_CLOUDFLARE_SOURCE_URL':'https://tenderbot.example.chatgpt.site/api/cloud-source',
+            'TENDERBOT_SITE_SERVICE_TOKEN':'offline-site-secret'}
+        with mock.patch.dict(os.environ,environment), \
+                mock.patch.object(collector,'RemotePortal',return_value=portal), \
+                mock.patch.object(collector.urllib.request,'urlopen') as direct:
+            self.assertEqual(await collector.collect_documents(self.folder,seconds=30),1)
+        self.assertEqual(portal.download.await_count,3)
+        portal.search.assert_not_awaited()
+        direct.assert_not_called()
+        for record in records[:3]:
+            saved = self.saved(record)
+            self.assertEqual(saved['document_source_error']['http_status'],503)
+            self.assertNotIn('document_retry',saved)
+            self.assertEqual(saved['source_fetched_at'],record['source_fetched_at'])
+        self.assertNotIn('document_source_error',self.saved(records[3]))
+        status = collector.read(self.folder/'collector.json',{})
+        self.assertEqual(status['status'],'failed')
+        self.assertEqual(status['source_health'],{'status':'unavailable','stage':'http','http_status':503})
+        self.assertEqual(status['document_batch']['source_failures'],3)
+        self.assertEqual(status['eligible_documents'],4)
+        self.assertEqual(status['deferred_documents'],0)
+        for key,value in state.items():
+            self.assertEqual(collector.read(self.folder/'state.json',{})[key],value)
+
+    async def test_single_all_transport_failure_batch_remains_retryable_then_recovers(self):
+        atomic_json(self.folder/'state.json',{'page':345,'complete':False})
+        collector.save_listing(self.folder,RECORD)
+        portal = self.portal(mock.Mock(side_effect=AssertionError('No listing searches allowed')))
+        portal.download = mock.AsyncMock(side_effect=PortalError('Cloud source request failed at transport stage.'))
+        with mock.patch.object(collector,'GemPortal',return_value=portal):
+            self.assertEqual(await collector.collect_documents(self.folder,seconds=30),1)
+        failed_status = collector.read(self.folder/'collector.json',{})
+        self.assertEqual(failed_status['eligible_documents'],1)
+        self.assertEqual(failed_status['source_health'],{'status':'unavailable','stage':'connect'})
+        self.assertNotIn('document_retry',self.saved())
+        portal.download = mock.AsyncMock(return_value=b'%PDF-offline fixture')
+        details = {'source_document_fetched_at':collector.stamp(),'detail_status':'parsed'}
+        temporary = tempfile.TemporaryDirectory
+        with mock.patch.object(collector,'GemPortal',return_value=portal), \
+                mock.patch.object(collector,'parse_pdf',return_value=details), \
+                mock.patch.object(collector.tempfile,'TemporaryDirectory',side_effect=lambda:temporary(dir=self.folder)):
+            self.assertEqual(await collector.collect_documents(self.folder,seconds=30),0)
+        recovered = collector.read(self.folder/'collector.json',{})
+        self.assertEqual(recovered['source_health']['status'],'reachable')
+        self.assertEqual(recovered['parsed_documents'],1)
+        self.assertEqual(recovered['eligible_documents'],0)
+        self.assertEqual(recovered['page'],345)
+        self.assertNotIn('document_source_error',self.saved())
+
+    async def test_missing_or_malformed_notices_remain_individual_retries(self):
+        records = [self.bid(1000000+number,None) for number in range(1,5)]
+        errors = [PortalHTTPError(404),PortalError('Cloud source request failed with HTTP 404.'),
+            PortalError('Cloud source did not return an original PDF document.'),ValueError('Unreadable PDF')]
+        portal = mock.Mock(download=mock.AsyncMock(side_effect=errors))
+        summary = await collector.process_documents(self.folder,portal,records,seconds=30)
+        self.assertEqual(summary['source_failures'],0)
+        self.assertEqual(summary['failed'],4)
+        for record in records:
+            saved = self.saved(record)
+            self.assertEqual(saved['document_retry']['attempts'],1)
+            self.assertNotIn('document_source_error',saved)
+
+    async def test_short_all_http_500_batch_fails_at_end_instead_of_reporting_success(self):
+        portal = mock.Mock(download=mock.AsyncMock(
+            side_effect=PortalError('Cloud source request failed with HTTP 500.')))
+        with self.assertRaises(PortalError) as failure:
+            await collector.process_documents(self.folder,portal,[RECORD],seconds=30)
+        self.assertEqual(portal.download.await_count,1)
+        self.assertEqual(failure.exception.document_batch['source_failures'],1)
+        self.assertEqual(failure.exception.source_health['http_status'],500)
+        self.assertEqual(self.saved()['document_source_error']['http_status'],500)
+        self.assertTrue(collector.document_due(self.saved(),Clock.current))
+
+    async def test_downloaded_pdf_resets_source_failure_streak_even_if_unreadable(self):
+        records = [self.bid(1000000+number,None) for number in range(1,6)]
+        source_error = PortalError('Cloud source request failed with HTTP 503.')
+        portal = mock.Mock(download=mock.AsyncMock(side_effect=[source_error,source_error,
+            b'%PDF-offline fixture',source_error,source_error]))
+        temporary = tempfile.TemporaryDirectory
+        with mock.patch.object(collector,'parse_pdf',side_effect=ValueError('Unreadable PDF')), \
+                mock.patch.object(collector.tempfile,'TemporaryDirectory',side_effect=lambda:temporary(dir=self.folder)):
+            summary = await collector.process_documents(self.folder,portal,records,seconds=30)
+        self.assertEqual(summary['source_failures'],4)
+        self.assertEqual(summary['downloaded'],1)
+        self.assertEqual(portal.download.await_count,5)
+        self.assertEqual(self.saved(records[2])['document_retry']['attempts'],1)
+
+    def test_transient_direct_http_statuses_are_classified_without_escalating_404(self):
+        for code in (429,500,502,503,504):
+            self.assertEqual(collector.document_source_failure(PortalHTTPError(code))['http_status'],code)
+        self.assertIsNone(collector.document_source_failure(PortalHTTPError(404)))
+        self.assertIsNone(collector.document_source_failure(PortalChallengeError('Access restricted')))
 
 
 if __name__ == '__main__':

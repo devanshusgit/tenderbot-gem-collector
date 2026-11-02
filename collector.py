@@ -100,6 +100,16 @@ def document_due(record, now):
     return not retry.get('next_attempt_at') or timestamp(retry['next_attempt_at']) <= now
 
 
+def document_source_attempts(record):
+    history = record.get('document_source_error',{})
+    if not history:
+        return 0
+    # Earlier checkpoints recorded the error/time without a counter. Treat
+    # that marker as one prior attempt so it cannot outrank untouched bids.
+    attempts = history.get('attempts',1)
+    return max(1,attempts) if isinstance(attempts,int) and not isinstance(attempts,bool) else 1
+
+
 def document_priority(record, now):
     def optional_time(value):
         try:
@@ -111,8 +121,10 @@ def document_priority(record, now):
         (closing is not None and closing <= now))
     published = optional_time(record.get('published_at'))
     received = optional_time(record.get('source_fetched_at'))
+    source_attempted_at = optional_time(record.get('document_source_error',{}).get('last_attempt_at'))
     recent = published or received
-    return (int(inactive),record.get('document_retry',{}).get('attempts',0),
+    attempts = record.get('document_retry',{}).get('attempts',0)+document_source_attempts(record)
+    return (attempts,int(inactive),source_attempted_at.timestamp() if source_attempted_at else 0,
         -recent.timestamp() if recent else 0,-received.timestamp() if received else 0,record['id'])
 
 
@@ -146,9 +158,9 @@ async def process_documents(folder, portal, records, seconds):
     summary = {'attempted':0,'downloaded':0,'failed':0,'source_failures':0}
     consecutive_source_failures = 0
     last_source_health = None
-    # Open bids (including unknown closing dates) come before expired notices.
-    # Within each group try untouched/newer bids first. Persisted backoff/caps
-    # still prevent an unreadable notice from consuming every batch.
+    # Untouched documents come before retries across the whole queue. Within
+    # each attempt tier prefer open/unknown bids, then older source retries.
+    # Failing live URLs must not pin untouched expired notices indefinitely.
     queue = sorted((record for record in records if not record.get('source_document_fetched_at')),
         key=lambda record:document_priority(record,now))
     for record in queue:
@@ -185,7 +197,8 @@ async def process_documents(folder, portal, records, seconds):
                 # They must not exhaust a valid document's parsing retry cap
                 # or make all jobs deferred before the runner retries them.
                 atomic_json(folder/'records'/(record['id']+'.json'),{**record,
-                    'document_source_error':{**health,'last_attempt_at':failed_at.isoformat()}})
+                    'document_source_error':{**health,'attempts':document_source_attempts(record)+1,
+                        'last_attempt_at':failed_at.isoformat()}})
                 print(json.dumps({'id':record['id'],'pdf_source_error':health,
                     'consecutive_source_failures':consecutive_source_failures}),flush=True)
                 if consecutive_source_failures >= MAX_CONSECUTIVE_SOURCE_FAILURES:

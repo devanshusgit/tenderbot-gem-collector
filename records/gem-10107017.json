@@ -5,9 +5,9 @@
   "tender_id": "GEM/2026/R/762321",
   "title": "Torso Full T Shirt,Torso Half T Shirt,Jacket,Neck Scarf,Tactical Shirt Elite Full sleeve,Tactical P",
   "description": "Torso Full T Shirt,Torso Half T Shirt,Jacket,Neck Scarf,Tactical Shirt Elite Full sleeve,Tactical Pant,Tactical T-Shirt,Chemical Light Sticks Green Pack of 10,Chemical Light Sticks Yellow pack of 10,Aqash Shoes Black,Insta 360 One X3,Arvox 32GB voice recorder,Compact 50snap Hook Compass Black,Roll Up Dump Pouch,Mini shot3 Retro Printer,Molle Utility Pouch,Lasercut cover IR patch of India,Mag Pouch,Nightfox XB5 940NM LED Flashlight,Kestrel 5500 Weather Meter,Survival Bracelet for men,Laserware Corsac 2 Digital Active Binocular,Hand Warmer,13 in 1 Multitool,Floating Bag Rucksack,Carabiner Screw Type,Carabiner Plain Type,Pulley Small,Cow s Tail 10.5mm Rope 2 Mtr,Camera Cartridge,Rifle Cover,Camo Net Small,Reflector Vest,Torniquet,Bivy Sack,Medical Scissors,Indian Flag,NPA with Lubricant,Pulse Oximeter,Head Lamps,Knee Elbow,Paracord Ropes 30 Mtr,Rucksack Bag,Bandage,Infrared Ind Patch,Air Muff,Smoke Candle,Yoga Mat Black,Medical Pouch,Utility Pouch,8x5 Medal Pouch,Wireless Slate,Tactical Gloves,Lifestraw Peak Ser",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Army",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
@@ -25,8 +25,18 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10107017"
+    },
+    {
+      "name": "GEM/2026/B/8155719",
+      "url": "https://bidplus.gem.gov.in/showbidDocument/10029405",
+      "page": 2
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261030",
+      "page": 2
     }
   ],
   "tags": [
@@ -35,15 +45,105 @@
   "source_fetched_at": "2026-11-02T14:25:48.690Z",
   "demo": false,
   "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
-  "source_document_fetched_at": "2026-11-02T13:35:37.166382+00:00",
-  "detail_status": "unrecognized_document",
+  "source_document_fetched_at": "2026-11-02T16:14:28.438841+00:00",
+  "detail_status": "parsed",
   "detailLoaded": true,
   "document_sha256": "bf85629603806dc25ab23964aea5e27354a937cd88b30a21f17090c3c2c79215",
   "document_pages": 2,
-  "eligibility": [],
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 8 Lakh (s) (GeM PDF, p. 1)",
+    "MSE Exemption for Years Of Experience: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Exemption for Years Of Experience: Yes | Complete (GeM PDF, p. 1)"
+  ],
   "consignees": [],
   "technical_specifications": [],
   "buyer_added_terms": [],
-  "evidence": [],
-  "detail_warning": "Readable text was extracted, but this PDF was not identified as an original GeM bid document. No tender requirements were inferred."
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/762321",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107017"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 2,
+      "quote": "Please refer to Bid document of GEM/2026/B/8155719",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107017"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 31-10-2026 20:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107017"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 02-11-2026 20:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107017"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107017"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107017"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Army",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107017"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 546",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107017"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Torso Full T Shirt , Torso Half T Shirt , Jacket , Neck Scarf , Tactical Shirt Elite Full sleeve , Tactical Pant , Tactical T-Shirt , Chemical Light Sticks Green Pack of 10 , Chemical Light Sticks Yellow pack of 10 , Aqash Shoes Black , Insta 360 One X3 , Arvox 32GB voice recorder , Compact 50snap Hook Compass Black , Roll Up Dump Pouch , Mini shot3 Retro Printer , Molle Utility Pouch , Lasercut cover IR patch of India , Mag Pouch , Nightfox XB5 940NM LED Flashlight , Kestrel 5500 Weather Meter , Survival Bracelet for men , Laserware Corsac 2 Digital Active Binocular , Hand Warmer , 13 in 1 Multitool , Floating Bag Rucksack , Carabiner Screw Type , Carabiner Plain Type , Pulley Small , Cow s Tail 10.5mm Rope 2 Mtr , Camera Cartridge , Rifle Cover , Camo Net Small , Reflector Vest , Torniquet , Bivy Sack , Medical Scissors , Indian Flag , NPA with Lubricant , Pulse Oximeter , Head Lamps , Knee Elbow , Paracord Ropes 30 Mtr , Rucksack Bag , Bandage , Infrared Ind Patch , Air Muff , Smoke Candle , Yoga Mat Black , Medical Pouch , Utility Pouch , 8x5 Medal Pouch , Wireless Slate , Tactical Gloves , Lifestraw Peak Series Personal Water , Motorola Earpiece , Metal Detector , Water Bottle , National Flag Pocket PVC , SD Card 128 GB , Unit Momento",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107017"
+    },
+    {
+      "field": "auto_extension",
+      "page": 1,
+      "quote": "Auto Extension: If any seller submits the offer price during last 30 minutes of RA end time, then RA will be automatically extended for next 30 minutes from the last participation time. There is no limit on such RA extension cycle.",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107017"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 8 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107017"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 1,
+      "quote": "MSE Exemption for Years Of Experience: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107017"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 1,
+      "quote": "Startup Exemption for Years Of Experience: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107017"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda.",
+  "bidder_turnover_lakhs": 8,
+  "ra_start_at": "2026-10-31T20:00:00+05:30",
+  "auto_extension": "If any seller submits the offer price during last 30 minutes of RA end time, then RA will be automatically extended for next 30 minutes from the last participation time. There is no limit on such RA extension cycle.",
+  "mse_exemption": "MSE Exemption for Years Of Experience: Yes | Complete",
+  "startup_exemption": "Startup Exemption for Years Of Experience: Yes | Complete",
+  "originating_bid_reference": "GEM/2026/B/8155719",
+  "document_parser_version": 2
 }

@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8230981",
   "title": "Three Wheeler for Passengers",
   "description": "Three Wheeler for Passengers",
-  "organisation": "Urban Development Department",
-  "ministry": "",
+  "organisation": "Municipal Council",
+  "ministry": "Maharashtra",
   "department": "Urban Development Department",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Three Wheeler for Passengers",
   "quantity": 5,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 25000,
   "published_at": "2026-11-02T19:02:49+05:30",
   "closing_at": "2026-11-12T20:00:00+05:30",
   "status": "active",
@@ -27,6 +27,16 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10116476"
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/otXEtF2FZnJ554WP1GlT95hgi1n933y7-rOUHiqu2ks",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261102",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +44,312 @@
   ],
   "source_fetched_at": "2026-11-02T15:26:15.373Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-13T20:00:00+05:30",
+  "office": "1",
+  "buyer_email": "tushar.bagul@nic.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 8,
+  "oem_turnover_lakhs": 8,
+  "experience_years": 2,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 0.01,
+  "epbg_duration_months": 12,
+  "offer_validity": "120 (Days)",
+  "source_document_fetched_at": "2026-11-03T14:59:55.681153+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "4059456e13afd45d987020b7aa7a1101ae991aae7fa7c042e3bc1afa61e81869",
+  "document_pages": 8,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 8 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 8 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 2 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 30 % (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Tushar Chintaman Bagul",
+      "address": "423301,SHIVAJI CHOWK SATANA",
+      "quantity": 5,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Generic Parameters",
+          "parameter": "Vehicle Category",
+          "value": "L5M category - Passenger carrier (Autorickshaw)"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Power Source",
+          "value": "Electric - Battery Operated"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Maximum Power Output (kW)",
+          "value": "11.0 - 15.0 Or higher (kiloWatt)"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Type of Traction Battery",
+          "value": "Lithium-ion Battery Or higher"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Traction Battery Capacity (in Ah)",
+          "value": "180.0 - 320.0 Or higher"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Type of Motor",
+          "value": "BLDC, DC, AC Or higher"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Emission Compliance",
+          "value": "NA for Battery Operated"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Seating Capacity (Including Driver)",
+          "value": "4"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Additional Accessories",
+          "value": "GPS Based Navigation System, Fire Extinguisher"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Tests and Conformity",
+          "parameter": "Specific Requirements for L Category Electric Power Train Vehicles",
+          "value": "Confirming to AIS 156 (Latest Version)"
+        },
+        {
+          "group": "Tests and Conformity",
+          "parameter": "CMVR Type Approval for Electric Power Train Vehicles",
+          "value": "Confirming to AIS-049 (Latest Version)"
+        },
+        {
+          "group": "Tests and Conformity",
+          "parameter": "Measurement Of Electrical Energy Consumption",
+          "value": "Confirming to AIS-039 (Latest Version)"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 3. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 4. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 5. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 6. Certificates Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked by Buyer’s Lab & the Results of the Lab will be the Sole Criteria for Acceptance of the Item. 7. Certificates To be eligible for award of contract, Bidder / OEM must possess following Certificates / Test Reports on the date of bid opening (to be uploaded with bid): ARAI/ICAT . 8. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 9. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 10. Certificates"
+    },
+    {
+      "page": 7,
+      "text": "ISO 9001: The bidder or the OEM of the offered products must have ISO 9001 certification. 11. Purchase Preference (State) Bid reserved for MSE from the State of Bid Inviting Authority: Procurement under this bid is reserved for purchase from Micro and Small Enterprises from the State of Bid Inviting Authority having valid Udyam Registration and whose credentials are validated online through Udyam Registration portal. If the bidder wants to avail themselves of the reservation benefit, the bidder must be the manufacturer / OEM of the offered product on GeM. Traders are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises and hence resellers offering products manufactured by some other OEM are not eligible to participate in this bid. In respect of bid for Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in respect of the offered product or service, and Buyer will decide eligibility based on documentary evidence submitted, while evaluating the bid. Benefits of MSE will be allowed only if seller is validated on-line in GeM profile as well as validated and approved by Buyer after evaluation of documents submitted."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8230981",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116476"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 12-11-2026 20:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116476"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 13-11-2026 20:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116476"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116476"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Maharashtra",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116476"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Urban Development Department",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116476"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Municipal Council",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116476"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116476"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :coud.satana@maharashtra.gov.in Buyer Email id: tushar.bagul@nic.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116476"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 5",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116476"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Three Wheeler for Passengers (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116476"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 8 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116476"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 8 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116476"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 2 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116476"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116476"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116476"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116476"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116476"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 30 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116476"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116476"
+    },
+    {
+      "field": "emd_fee",
+      "page": 3,
+      "quote": "EMD Amount: 25000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116476"
+    },
+    {
+      "field": "emd_required",
+      "page": 3,
+      "quote": "EMD Amount: 25000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116476"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 0.01",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116476"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 12",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116476"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116476"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Vehicle Category: L5M category - Passenger carrier (Autorickshaw) | Power Source: Electric - Battery Operated | Maximum Power Output (kW): 11.0 - 15.0 Or higher (kiloWatt) | Type of Traction Battery: Lithium-ion Battery Or higher | Traction Battery Capacity (in Ah): 180.0 - 320.0 Or higher | Type of Motor: BLDC, DC, AC Or higher | Emission Compliance: NA for Battery Operated | Seating Capacity (Including Driver): 4 | Additional Accessories: GPS Based Navigation System, Fire Extinguisher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116476"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Specific Requirements for L Category Electric Power Train Vehicles: Confirming to AIS 156 (Latest Version) | CMVR Type Approval for Electric Power Train Vehicles: Confirming to AIS-049 (Latest Version) | Measurement Of Electrical Energy Consumption: Confirming to AIS-039 (Latest Version)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116476"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Tushar Chintaman Bagul | 423301,SHIVAJI CHOWK SATANA | 5 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116476"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 3. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 4. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 5. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 6. Certificates Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked by Buyer’s Lab & the Results of the Lab will be the Sole Criteria for Acceptance of the Item. 7. Certificates To be eligible for award of contract, Bidder / OEM must possess following Certificates / Test Reports on the date of bid opening (to be uploaded with bid): ARAI/ICAT . 8. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 9. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 10. Certificates",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116476"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "ISO 9001: The bidder or the OEM of the offered products must have ISO 9001 certification. 11. Purchase Preference (State) Bid reserved for MSE from the State of Bid Inviting Authority: Procurement under this bid is reserved for purchase from Micro and Small Enterprises from the State of Bid Inviting Authority having valid Udyam Registration and whose credentials are validated online through Udyam Registration portal. If the bidder wants to avail themselves of the reservation benefit, the bidder must be the manufacturer / OEM of the offered product on GeM. Traders are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises and hence resellers offering products manufactured by some other OEM are not eligible to participate in this bid. In respect of bid for Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in respect of the offered product or service, and Buyer will decide eligibility based on documentary evidence submitted, while evaluating the bid. Benefits of MSE will be allowed only if seller is validated on-line in GeM profile as well as validated and approved by Buyer after evaluation of documents submitted.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116476"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

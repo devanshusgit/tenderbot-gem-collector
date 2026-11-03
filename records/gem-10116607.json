@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8231088",
   "title": "Vehicle Hiring Service - Per Vehicle-Day basis - SUV/MUV; 2021, 2022, 2023, 2024, 2025, 2026; Local",
   "description": "Vehicle Hiring Service - Per Vehicle-Day basis - SUV/MUV; 2021, 2022, 2023, 2024, 2025, 2026; Local + Outstation; Plain and Hilly both; 250Kms x 8Hrs; Round Trip",
-  "organisation": "Department of Commerce",
-  "ministry": "Ministry of Commerce and Industry",
-  "department": "Department of Commerce",
+  "organisation": "Rubber Board",
+  "ministry": "Ministry Of Commerce And Industry",
+  "department": "Department Of Commerce",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Vehicle Hiring Service - Per Vehicle-Day basis - SUV/MUV; 2021, 2022, 2023, 2024, 2025, 2026; Local",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-02T19:17:33+05:30",
   "closing_at": "2026-11-12T20:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10116607"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261102",
+      "page": 6
+    },
+    {
+      "name": "Service Level Agreement",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/bidsla/102345737192449",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +49,248 @@
   ],
   "source_fetched_at": "2026-11-02T15:26:12.446Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-13T20:00:00+05:30",
+  "office": "Head Office",
+  "buyer_email": "naoyoshangr.rbd@nic.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "15 (Days)",
+  "estimated_bid_value": 150000,
+  "contract_period": "4 Month(s) 29 Day(s)",
+  "source_document_fetched_at": "2026-11-03T14:56:23.300709+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "a26216475dc8c3de21ad0b1050c3e8d0791865e0b65ad728344d3e385eccaef0",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "R Naoyoshang",
+      "address": "795142,Rubber Board Field Station Room No. 2011 - 2012, Transit quarter-Block B, Mini Secretariat, DC office, Ukhrul District, Manipur-795142",
+      "quantity": 1,
+      "quantity_label": "Number of Vehicle-Days Required within the Contract Period",
+      "delivery_days": null,
+      "additional_requirements": "Number of Night hault required within the Contract period : 20 Maximum No. of Vehicles required in a Day/Event : 1"
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "State",
+          "value": "NA"
+        },
+        {
+          "group": "Core",
+          "parameter": "District",
+          "value": "NA"
+        },
+        {
+          "group": "Core",
+          "parameter": "Zipcode",
+          "value": "NA"
+        },
+        {
+          "group": "Core",
+          "parameter": "Vehicle Type",
+          "value": "SUV/MUV"
+        },
+        {
+          "group": "Core",
+          "parameter": "Vehicle Model (Please select at least 3 similar options)",
+          "value": "Mahindra Thar , Mahindra Scorpio Classic , Mahindra Bolero"
+        },
+        {
+          "group": "Core",
+          "parameter": "Year of Vehicle Model",
+          "value": "2021 , 2022 , 2023 , 2024 , 2025 , 2026"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type of Service",
+          "value": "Local + Outstation"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type of Terrain",
+          "value": "Plain and Hilly both"
+        },
+        {
+          "group": "Core",
+          "parameter": "Packages",
+          "value": "250Kms x 8Hrs"
+        },
+        {
+          "group": "Core",
+          "parameter": "Trip Type",
+          "value": "Round Trip"
+        },
+        {
+          "group": "Core",
+          "parameter": "Air Conditioning Required",
+          "value": "Non-AC"
+        },
+        {
+          "group": "Core",
+          "parameter": "KM Travelled",
+          "value": "0-25,000 kms , 25,000-50,000 kms , 50,000-75000 kms , 75,000-1,00,000 kms"
+        },
+        {
+          "group": "Core",
+          "parameter": "Fuel Type",
+          "value": "Any"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Outstation night charges applicable",
+          "value": "Yes"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE 25% : The buyer can increase or decrease the contract quantity or contract duration up to 25 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 25 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 25 percent with the consent of the service provider"
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8231088",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116607"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 12-11-2026 20:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116607"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 13-11-2026 20:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116607"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 15 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116607"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Commerce And Industry",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116607"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Commerce",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116607"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Rubber Board",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116607"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Head Office",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116607"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :edp-rubberboard@nic.in Buyer Email id: naoyoshangr.rbd@nic.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116607"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Vehicle Hiring Service - Per Vehicle-Day basis - SUV/MUV; 2021, 2022, 2023, 2024, 2025, 2026; Local + Outstation; Plain and Hilly both; 250Kms x 8Hrs; Round Trip",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116607"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 4 Month(s) 29 Day(s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116607"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116607"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116607"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116607"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "(( )) / Estimated Bid Value in INR (Inclusive of all taxes): 150000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116607"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116607"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116607"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "State: NA | District: NA | Zipcode: NA | Vehicle Type: SUV/MUV | Vehicle Model (Please select at least 3 similar options): Mahindra Thar , Mahindra Scorpio Classic , Mahindra Bolero | Year of Vehicle Model: 2021 , 2022 , 2023 , 2024 , 2025 , 2026 | Type of Service: Local + Outstation | Type of Terrain: Plain and Hilly both | Packages: 250Kms x 8Hrs | Trip Type: Round Trip | Air Conditioning Required: Non-AC | KM Travelled: 0-25,000 kms , 25,000-50,000 kms , 50,000-75000 kms , 75,000-1,00,000 kms | Fuel Type: Any | Outstation night charges applicable: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116607"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Number of Vehicle-Days Required within the Contract Period | Additional Requirement: 1 | R Naoyoshang | 795142,Rubber Board Field Station Room No. 2011 - 2012, Transit quarter-Block B, Mini Secretariat, DC office, Ukhrul District, Manipur-795142 | 1 | Number of Night hault required within the Contract period : 20 Maximum No. of Vehicles required in a Day/Event : 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116607"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE 25% : The buyer can increase or decrease the contract quantity or contract duration up to 25 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 25 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 25 percent with the consent of the service provider",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116607"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8231119",
   "title": "All in One PC (V2)",
   "description": "All in One PC (V2)",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "South Coast Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "All in One PC (V2)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-02T19:11:22+05:30",
   "closing_at": "2026-11-11T19:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10116644"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/kzgw_FEn0eITiKVpCcuLFC7VUgpJRESmExaVj7tKK_s",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261102",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +49,234 @@
   ],
   "source_fetched_at": "2026-11-02T15:26:13.132Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-12T19:00:00+05:30",
+  "office": "Principal Chief Material Manager Visakhapatnam",
+  "buyer_email": "admm_wat@wat.railnet.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-03T14:57:47.071565+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "918b310062ab6cb15650b122bf9c1052783d5ae9d998e491d51ed94082d48da5",
+  "document_pages": 8,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Chadalavada Vijayakumar",
+      "address": "530004,Office of CAO/C/VSKP, DRM office complex, dondaparthy, Visakhapatnam, Andhra pradesh -Pin-530004",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Description",
+          "parameter": "Description of store",
+          "value": "All in One Personal Computers consist of a Mouse, Keyboard, Display with Web camera, inbuilt/integrated microphone array and speakers, an internal CPU with connection cables and power adapter with 1 year standard warranty"
+        },
+        {
+          "group": "Description",
+          "parameter": "Processor Number",
+          "value": "Intel Core i3-12100T, Intel Core i3-13100T, Intel Core i3-12300T, Intel Core i3-13100, Intel Core i3-12100, Intel Core i3-14100T, Intel Core i3-12300, Intel Core i3-14100, Intel Core i5-12400T, Intel Core i5-12500T, Intel Core i5 12600T, Intel Core i5-12400, Intel Core i5-12500, Intel Core i5-13400T, Intel Core i7 12700T, Intel Core i5-12600, Intel Core i5-13500T, Intel Core i5-14500T, Intel Core i5-14400, Intel Core i5-13600T, Intel Core i7-13700T, Intel Core i9 12900T, Intel Core i7-12700, Intel Core i7-14700T, Intel Core i5-13500, Intel Core i5-14500, Intel Core i9-12900, Intel Core i7- 13700, Intel Core i7-14700, Intel Core i9-13900T, Intel Core i9-13900, Intel Core Ultra 5-235, Intel Core Ultra 7-265, Intel Core 300T, Intel Core i5 14600T, Intel Core Ultra 5 235T, Intel Core Ultra 5 245, Intel Core Ultra 5 245T, Intel Core Ultra 9 285 Or higher"
+        },
+        {
+          "group": "Input Devices",
+          "parameter": "Mouse Connectivity",
+          "value": "Wired, Wireless Or higher"
+        },
+        {
+          "group": "Input Devices",
+          "parameter": "Keyboard Connectivity",
+          "value": "Wired, Wireless Or higher"
+        },
+        {
+          "group": "Operating System",
+          "parameter": "Operating System (Factory Preloaded with Certification)",
+          "value": "Windows 11 Professional"
+        },
+        {
+          "group": "Memory",
+          "parameter": "Type of RAM",
+          "value": "DDR4, DDR5 Or higher"
+        },
+        {
+          "group": "Memory",
+          "parameter": "RAM Size (GB)",
+          "value": "16, 32 Or higher"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Storage",
+          "parameter": "Type of Storage Installed with the System",
+          "value": "NVMe SSD"
+        },
+        {
+          "group": "Storage",
+          "parameter": "Storage Capacity (in GB)",
+          "value": "1024, 2048 Or higher"
+        },
+        {
+          "group": "Display",
+          "parameter": "Display Size - Diagonal (in Inches)",
+          "value": "48.1 - 53 (18.94\" - 20.87\"), 53.1 - 58 (20.91\" - 22.83\"), 58.1 - 63 (22.87\" - 24.8\"), 63.1 - 68 (24.84\" - 26.77\"), 68.1 - 73 (26.81\" - 28.74\"), 73.1 - 78 (28.78\" - 30.71\"), 78.1 - 83 (30.75\" - 32.68\"), 83.1 - 88 (32.72\" - 34.65\")"
+        },
+        {
+          "group": "Ports",
+          "parameter": "Number of Ports",
+          "value": "1-DP, 1-HDMI, 1- RJ-45 (10/100/1000 Ethernet Port), 1-USB 3.1 Gen 1 TYPE C, 1-USB 3.1 Gen 2 TYPE A, 2- USB 3.1 Gen 1 TYPE A, 2-USB 3.1 Gen 2 TYPE A, Universal Audio Jack"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Stand",
+          "value": "Height Adjustable"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Additional parameter to Bid :- Display size 58.1-63 (22.87\"-24.8\") Note:- Bids without above may be pass over without further any intimation. 2. Buyer Added text based ATC clauses Bill passing officer: Dy.CE/CON-III/VSKP Bill paying officer: AFA/CON/VSKP Inspection :- BY Consignee Materials is to be delivered at the office of Dy.CE/CON-III/VSKP, DRM COMPLEX, DONDAPARTY, VISA KHAPATNAM-530004 Contact person No: 9030953466 ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8231119",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116644"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 11-11-2026 19:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116644"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 12-11-2026 19:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116644"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116644"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116644"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116644"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: South Coast Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116644"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Principal Chief Material Manager Visakhapatnam",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116644"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :cmmmne@scor.railnet.gov.in Buyer Email id: admm_wat@wat.railnet.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116644"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116644"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: All in One PC (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116644"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116644"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116644"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116644"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116644"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116644"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Description of store: All in One Personal Computers consist of a Mouse, Keyboard, Display with Web camera, inbuilt/integrated microphone array and speakers, an internal CPU with connection cables and power adapter with 1 year standard warranty | Processor Number: Intel Core i3-12100T, Intel Core i3-13100T, Intel Core i3-12300T, Intel Core i3-13100, Intel Core i3-12100, Intel Core i3-14100T, Intel Core i3-12300, Intel Core i3-14100, Intel Core i5-12400T, Intel Core i5-12500T, Intel Core i5 12600T, Intel Core i5-12400, Intel Core i5-12500, Intel Core i5-13400T, Intel Core i7 12700T, Intel Core i5-12600, Intel Core i5-13500T, Intel Core i5-14500T, Intel Core i5-14400, Intel Core i5-13600T, Intel Core i7-13700T, Intel Core i9 12900T, Intel Core i7-12700, Intel Core i7-14700T, Intel Core i5-13500, Intel Core i5-14500, Intel Core i9-12900, Intel Core i7- 13700, Intel Core i7-14700, Intel Core i9-13900T, Intel Core i9-13900, Intel Core Ultra 5-235, Intel Core Ultra 7-265, Intel Core 300T, Intel Core i5 14600T, Intel Core Ultra 5 235T, Intel Core Ultra 5 245, Intel Core Ultra 5 245T, Intel Core Ultra 9 285 Or higher | Mouse Connectivity: Wired, Wireless Or higher | Keyboard Connectivity: Wired, Wireless Or higher | Operating System (Factory Preloaded with Certification): Windows 11 Professional | Type of RAM: DDR4, DDR5 Or higher | RAM Size (GB): 16, 32 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116644"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Type of Storage Installed with the System: NVMe SSD | Storage Capacity (in GB): 1024, 2048 Or higher | Display Size - Diagonal (in Inches): 48.1 - 53 (18.94\" - 20.87\"), 53.1 - 58 (20.91\" - 22.83\"), 58.1 - 63 (22.87\" - 24.8\"), 63.1 - 68 (24.84\" - 26.77\"), 68.1 - 73 (26.81\" - 28.74\"), 73.1 - 78 (28.78\" - 30.71\"), 78.1 - 83 (30.75\" - 32.68\"), 83.1 - 88 (32.72\" - 34.65\") | Number of Ports: 1-DP, 1-HDMI, 1- RJ-45 (10/100/1000 Ethernet Port), 1-USB 3.1 Gen 1 TYPE C, 1-USB 3.1 Gen 2 TYPE A, 2- USB 3.1 Gen 1 TYPE A, 2-USB 3.1 Gen 2 TYPE A, Universal Audio Jack | Stand: Height Adjustable",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116644"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Chadalavada Vijayakumar | 530004,Office of CAO/C/VSKP, DRM office complex, dondaparthy, Visakhapatnam, Andhra pradesh -Pin-530004 | 1 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116644"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Additional parameter to Bid :- Display size 58.1-63 (22.87\"-24.8\") Note:- Bids without above may be pass over without further any intimation. 2. Buyer Added text based ATC clauses Bill passing officer: Dy.CE/CON-III/VSKP Bill paying officer: AFA/CON/VSKP Inspection :- BY Consignee Materials is to be delivered at the office of Dy.CE/CON-III/VSKP, DRM COMPLEX, DONDAPARTY, VISA KHAPATNAM-530004 Contact person No: 9030953466 .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10116644"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

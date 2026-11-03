@@ -5,9 +5,9 @@
   "tender_id": "GEM/2026/R/763303",
   "title": "Process Plant for Preparation of AFC and CPC",
   "description": "Process Plant for Preparation of AFC and CPC",
-  "organisation": "Department of Defence Research & Development",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Defence Research & Development",
+  "organisation": "Office Of Dg (ace)",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Defence Research & Development",
   "portal_name": "GeM",
   "state": [],
   "city": [],
@@ -25,8 +25,18 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10113037"
+    },
+    {
+      "name": "GEM/2026/B/7948510",
+      "url": "https://bidplus.gem.gov.in/showbidDocument/9791280",
+      "page": 1
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261102",
+      "page": 1
     }
   ],
   "tags": [
@@ -34,5 +44,98 @@
   ],
   "source_fetched_at": "2026-11-02T15:25:04.382Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "ra_start_at": "2026-11-03T13:00:00+05:30",
+  "auto_extension": "If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+  "mse_exemption": "MSE Exemption for Years of Experience and Turnover: No",
+  "startup_exemption": "Startup Exemption for Years of Experience and Turnover: No",
+  "originating_bid_reference": "GEM/2026/B/7948510",
+  "source_document_fetched_at": "2026-11-03T06:10:32.606456+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "a86b671f85a9e1869f28ecd757971b665a5ef7b40ef015f265aa5eea1799c479",
+  "document_pages": 1,
+  "eligibility": [
+    "MSE Exemption for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Exemption for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [],
+  "technical_specifications": [],
+  "buyer_added_terms": [],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/763303",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10113037"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 1,
+      "quote": "Please refer to Bid document of GEM/2026/B/7948510",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10113037"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 03-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10113037"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 04-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10113037"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10113037"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Defence Research & Development",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10113037"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Office Of Dg (ace)",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10113037"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10113037"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Process Plant for Preparation of AFC and CPC",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10113037"
+    },
+    {
+      "field": "auto_extension",
+      "page": 1,
+      "quote": "Auto Extension: If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10113037"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 1,
+      "quote": "MSE Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10113037"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 1,
+      "quote": "Startup Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10113037"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda."
 }

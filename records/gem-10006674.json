@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8135973",
   "title": "Fixed Computer Workstation (V2)",
   "description": "Fixed Computer Workstation (V2)",
-  "organisation": "Department of Atomic Energy",
-  "ministry": "PMO",
-  "department": "Department of Atomic Energy",
+  "organisation": "Directorate Of Purchase And Stores",
+  "ministry": "Pmo",
+  "department": "Department Of Atomic Energy",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Fixed Computer Workstation (V2)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-02T16:25:09+05:30",
   "closing_at": "2026-11-17T14:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10006674"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/sf1BhBDV4gnP9ZkVe52xo1Ufdwe1LIcg1BQaC-Sk5kM",
+      "page": 4
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8135973/CLM0010/atc_33957c0e-478a-4ba0-b2601791530267034_apo4mrpu.pdf",
+      "page": 12
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261102",
+      "page": 14
     }
   ],
   "tags": [
@@ -34,5 +54,386 @@
   ],
   "source_fetched_at": "2026-11-03T17:59:04.339Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-18T14:00:00+05:30",
+  "office": "Directorate Of Purchase And Stores",
+  "buyer_email": "apo4mrpu.tndae@nic.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 16,
+  "offer_validity": "90 (Days)",
+  "source_document_fetched_at": "2026-11-03T23:29:27.083325+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "121b20c5423f8fdc8406f2be1a7540e1efd6ab1777f341a8080cd81ec8e6eb12",
+  "document_pages": 14,
+  "eligibility": [
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Panneerselvam S",
+      "address": "603102,DPS/IGCAR, Central Stores Unit, Kalpakkam .",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 45
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Processor and Platform",
+          "parameter": "Processor Number",
+          "value": "Intel Xeon w3-2423, Intel Xeon w3-2425, Intel Xeon w3-2435, Intel Xeon w3-2525, Intel Xeon w5-3423, Intel Xeon w5-2445, Intel Xeon w3-2535, Intel Xeon w5-3425, Intel Xeon w5-2455X, Intel Xeon w5-3525, Intel Xeon w5-2545, Intel Xeon w5-3433, Intel Xeon w5-2465X, Intel Xeon w5-2555X, Intel Xeon w5- 3435X, Intel Xeon w5-3535X, Intel Xeon w5-2565X, Intel Xeon w7-2475X, Intel Xeon w7-2575X, Intel Xeon w7-3445, Intel Xeon w7-2495X, Intel Xeon w7-2595X, Intel Xeon w7-3455, Intel Xeon w7-3545, Intel Xeon w7-3465X, Intel Xeon w7-3555, Intel Xeon w7-3565X, Intel Xeon w9-3475X, Intel Xeon w9-3575X, Intel Xeon w9-3495X, Intel Xeon w9-3595X Or higher"
+        },
+        {
+          "group": "Remote Management",
+          "parameter": "Hardware-Based Out-of-Band Management",
+          "value": "Supported Or higher"
+        },
+        {
+          "group": "Remote Management",
+          "parameter": "TPM Implementation",
+          "value": "Discrete (Hardware Based) TPM 2.0"
+        },
+        {
+          "group": "Graphics",
+          "parameter": "Number of Factory-Fitted Discrete GPUs",
+          "value": "1 x Discrete GPU, 2 x Identical Discrete GPUs, 3 x Identical Discrete GPUs, 4 x Identical Discrete GPUs Or higher"
+        },
+        {
+          "group": "Graphics",
+          "parameter": "GPU Model",
+          "value": "NVIDIA RTX 2000 Ada Generation 16GB, NVIDIA RTX PRO 2000 Blackwell 16GB, NVIDIA RTX 4000 SFF Ada Generation 20GB, NVIDIA RTX 4000 Ada Generation 20GB, NVIDIA RTX PRO 4000 Blackwell SFF Edition 24GB, NVIDIA RTX 4500 Ada Generation 24GB, NVIDIA RTX PRO 4000 Blackwell Workstation Edition 24GB, NVIDIA RTX 5000 Ada Generation 32GB, NVIDIA RTX 6000 Ada Generation 48GB, NVIDIA RTX PRO 4500 Blackwell Workstation Edition 32GB, NVIDIA RTX PRO 5000 Blackwell 48GB, NVIDIA RTX PRO 5000 Blackwell 72GB, NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition 96GB, NVIDIA RTX PRO 6000 Blackwell Workstation Edition 96GB Or higher"
+        },
+        {
+          "group": "Memory (RAM)",
+          "parameter": "System Memory (RAM) Type",
+          "value": "DDR5 Or higher"
+        },
+        {
+          "group": "Memory (RAM)",
+          "parameter": "ECC Memory Support",
+          "value": "ECC Memory Or higher"
+        },
+        {
+          "group": "Memory (RAM)",
+          "parameter": "Installed System Memory (RAM) (in GB)",
+          "value": "64, 96, 128, 192, 256, 384, 512, 768, 1024, 1536, 2048 Or higher"
+        },
+        {
+          "group": "Memory (RAM)",
+          "parameter": "Maximum System Memory Supported (in GB)",
+          "value": "2048 Or higher"
+        },
+        {
+          "group": "Memory (RAM)",
+          "parameter": "Total DIMM Slots",
+          "value": "8, 16 Or higher"
+        },
+        {
+          "group": "Memory (RAM)",
+          "parameter": "DIMM Slots Populated",
+          "value": "1"
+        },
+        {
+          "group": "Storage",
+          "parameter": "Primary NVMe SSD Capacity (in GB)",
+          "value": "2048, 4096, 8192 Or higher"
+        },
+        {
+          "group": "Storage",
+          "parameter": "Primary NVMe SSD Interface",
+          "value": "PCIe 4.0 x4 NVMe, PCIe 5.0 x4 NVMe Or higher"
+        },
+        {
+          "group": "Storage",
+          "parameter": "Total Number of M dot 2 Storage Slots",
+          "value": "2.0 Or higher"
+        },
+        {
+          "group": "RAID",
+          "parameter": "RAID Controller Type",
+          "value": "No RAID Controller"
+        },
+        {
+          "group": "Expansion",
+          "parameter": "Total PCIe x16 Physical Slots",
+          "value": "4.0 Or higher"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Highest PCIe Generation Supported by x16 Slot",
+          "value": "PCIe 5.0 Or higher"
+        },
+        {
+          "group": "Connectivity",
+          "parameter": "Wired Ethernet Capability",
+          "value": "1 x 10 GbE"
+        },
+        {
+          "group": "Ports",
+          "parameter": "Number of USB Type A Version 2 Point 0 Ports",
+          "value": "3 Or higher"
+        },
+        {
+          "group": "Ports",
+          "parameter": "Number of USB Type A 3 Point 2 Gen 2 Ports",
+          "value": "4, 5, 6 Or higher"
+        },
+        {
+          "group": "Ports",
+          "parameter": "Number of Type C 3 Point 2 Gen 2 Ports",
+          "value": "1, 2, 3 Or higher"
+        },
+        {
+          "group": "Ports",
+          "parameter": "Other I/O Ports",
+          "value": "DisplayPort"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Availability of Monitor",
+          "value": "Yes"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Panel Type",
+          "value": "In Plane Switching (IPS)"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Maximum Resolution (Horizontal x Vertical Pixels)",
+          "value": "1920 × 1080"
+        },
+        {
+          "group": "Input Devices",
+          "parameter": "Mouse Connectivity",
+          "value": "Wired, Wireless Or higher"
+        },
+        {
+          "group": "Input Devices",
+          "parameter": "Keyboard Connectivity",
+          "value": "Wired, Wireless Or higher"
+        },
+        {
+          "group": "Power Supply & OS",
+          "parameter": "Power Supply Configuration",
+          "value": "Single Fixed Power Supply, Dual Power Supplies, Dual Redundant Power Supplies Or higher"
+        },
+        {
+          "group": "Power Supply & OS",
+          "parameter": "Factory Preloaded Operating System",
+          "value": "Windows 11 Professional"
+        },
+        {
+          "group": "Compliance",
+          "parameter": "On Site Warranty (in Year)",
+          "value": "1, 3, 5 Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 8,
+      "text": "1. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 3. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in favour of DEPUTY CONTROLLER OF ACCOUNTS, MRAU, DPS, DAE payable at CHENNAI . After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of contract. 4. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. All correspondence if any shall be made with Our File Ref. DPS/MRPU/1/4/24527 along with this GeM Bid Reference otherwise or failing which your request will not be entertained. 2. Terms and conditions a. The supplier shall supply and install the system at IGCAR, Kalpakkam. b. The system shall be accepted only after verifying the parameter given in GeM bid. c. Any faults observed in the supplied system during the warranty period shall be attended to and rectified"
+    },
+    {
+      "page": 9,
+      "text": "/replaced by the supplier. d. Any defective components shall be replaced with genuine parts by the supplier, free of cost, during the warranty period. 3. Qualification criteria a. The supplier shall submit the OEM data sheet for the proposed workstation, containing complete techni cal details. The OEM data sheet shall clearly specify all the technical specifications listed in GeM bid. Any b id submitted without the OEM data sheet, or with an OEM data sheet that does not include all the required specifications, shall be rejected without any further communication. b. The supplier shall be an OEM or authorized dealer of the OEM for the quoted system. A valid Manufactur er's Authorization Form (MAF) issued by the OEM shall be submitted along with the bid. Any bid submitted without a valid OEM Manufacturer's Authorization Form (MAF) shall be rejected without any further commu nication. c. Product offered should meet or exceed all technical specifications mentioned in GEM bid. d. The bidder shall submit a compliance sheet for the offered product for technical evaluation of the offer. 4. Acceptance criteria a. The supplied work station shall be free of any physical damage. b. Items will be accepted after confirming the fulfillment of the parameter listed in GeM bid. 5. If any firm is claiming purchase preference on the basis of Micro/ Small Manufacturer, the bidder should upload both the certificates as follows in the relevant column of GeM portal: i. Latest/Current Year UDYAM registration certificate with all details is only acceptable ii. Self declaration/OEM certificate explicitly stating whether the bidder is the actual manufacturer of the qu oted primary product duly stamped & signed by the authorized signatory of the company. 6. Bidders should upload document strictly as per format attached with this bid duly filled up, signed and stamped by the authorized signatory of the company regarding Self declaration wi th regard to Local content and also ensure that Local content percentage with break up(all the items as per bid) and location of value addition are clearly mentioned in Annexure XI (please r efer ATC document also- other formats and local content without break up are not acceptable) . 7. IMPORTANT PLEASE MAKE SURE AND FURNISH DECLARATION/UNDERTAKING FOR THE FOLLOWING WH ILE SUBMITTING YOUR BID/OFFER ONLINE TO CONSIDER YOUR OFFER: I. YOU HAD FULLY UNDERSTOOD THE SCOPE OF SUPPLY, SPECIFICATION AND ALL BID CONDITIONS. II. NO COMPROMISE IN QUALITY OF THE QUOTED ITEM. III. THERE IS NO DEVIATION FROM BID SPECIFICATION. IV. UNCONDITIONAL ACCEPTANCE OF ALL TERMS AND CONDITIONS AS PER BID DOCUMENT."
+    },
+    {
+      "page": 10,
+      "text": "V. RATES SHOULD NOT BE DISCLOSED IN TECHNICAL PART IN CASE OF TWO PACKET BID. VI. NO COUNTER CONDITIONS AGAINST THE BID TERMS AND CONDITIONS. Note: You are hereby confirming the following by submitting online bid/offer that: a. you have fully understood scope of supply, specification and all Bid conditions b. there is no deviation from Bid specification and c. unconditional acceptance of all the terms and conditions governed by the General Terms and Conditions of GeM and terms as per ATC. 8. BANK GUARANTEE: Bank Guarantee should be obtained and executed on nonjudicial stamp paper of appropriate value. Original Bank Guarantee should be submitted to Assistant Purchase Officer, Madras Regional Purchase Unit, DAE Nodal Facility Centre, Dr. Rajendra Prasad Road, Pallavaram, Chennai- 600 043 Tamil Nadu Original Bank Guarantee ( BG validity covering Delivery Period, Guarantee period, if any plus two months c laim period ) should be sent by the Issuing Bank to the Purchaser Directly under Speed Post (AD) to avoid delay in acceptance. Bank Details for issue of Bank Guarantees :- Bank Name STATE BANK OF INDIA Branch Name PALLAVARAM BRANCH Branch Address: PATANJALI PLAZA, No.15, OLD TRUNK ROAD, PALLAVARAM, CHENNAI – 600 043 Tamil Nad u State, India. IFSC CODE SBIN0002248 E-mail ID sbi.02248@sbi.co.in i) Note for submission of Bank Guarantee: (a) Bank Guarantee will be processed only after due confirmation received directly from the bank only. For this purpose, kindly ensure availability of the FAX Number / E-MAIL ID of the concerned bank for further ne cessary action/arrangement. (b) Any correspondence related to Bank Guarantee being done either by the supplier or supplier’s bank sh all invariably indicate this GeM Contract No.___________ as well as Our Reference No. DPS/MRPU/1/4/24527 without which further processing of bank guarantee is not possible. Please make sure that there is sufficient validity of the BG covering delivery period, guarantee period (if an y) plus claim period of two months as per Bid to avoid delay in acceptance and multiple validit y extension of bank guarantee. ii) NOTE: Bidders can also make the payment of Performance security Deposit Bank Guarantee (PSDBG) / E MD (if any) electronically using Credit Card (CC), Debit Card (DC), Net Banking, Immediate Payment Servic e (IMPS) and Unified Payment Interface / Bharat Interface for money (UPI / BHIM) through Non Tax Receipt Portal (NTRP) also known as Bharatkosh portal."
+    },
+    {
+      "page": 11,
+      "text": "iii) PSDBG in original shall be submitted well in advance to this office and s upply should be made within th e committed delivery period to the consignee. iv) PSDBG will be accepted subject to the following: a. The bank guarantee should only be sent by the issuing bank directly to the buyer by speed post w ith email id reference of issuing bank as well as their controlling bank. Otherwise genuineness of t he bank guarantee will be confirmed by the buyer. b. If SFMS clause is incorporated in the bank guarantee by the issuing bank, the delivery report of the same shall accompany the BG which will be confirmed by the buyer’s bank (i.e. State Bank of India ). v) A crossed demand draft in original in lieu of PSDBG favoring paying authority- DEPUTY CONTROLLER OF ACCOUNTS, MRAU, DPS, DAE payable at Chennai can also be furnished. vi) After award of contract, Successful Bidder can upload scanned copy of the PBG or DD or challan genera ted through Bharatkosh in place of PBG and has to ensure delivery of hard copy of the original PBG/DD/cha llan copy to the Buyer within 15 days of award of contract for scrutiny and acceptance. 9. Warranty Clause: The material(s) shall be guaranteed for a period of at least 12 Months from the da te of final acceptance/satisfactory installation & commissioning against any manufacturing defects for trou ble free performance. During that period any defects arising out of faulty materials, design or workma nship shall be repaired/replaced by you free of cost. 10. Bidder’s offer will summarily be rejected if they fail to upload any of the certificates/ documents sough t in this Bid Document, Specification, ATC & Corrigendum, if any. 11. HINDRANCES The contractor is required to maintain hindrance register for reporting hindrance if any, while executing th e work, as per Annexure-X. The contractor shall get record of hindrances in the hindrance register(s) appr oved/ endorsed by the purchaser. Such hindrance in the work endorsed by the purchaser will only be take n into consideration for granting delivery date extension/re-fixation. “HINDRANCE” means an event resulting in stoppage or delay of work as recorded by the contractor and a uthenticated by the purchaser. Delivery Instructions for Suppliers/Transporters: 1. Delivery Timings & Working Hours: a. NRB/BARC/IGCAR, Kalpakkam works for 5 days in a Week (Saturday & Sunday are weekly-offs ). b. Material delivery can be accepted only in working days (Monday-Friday) excluding Public Holi days between 10:00 Hrs, to 15:00 Hrs. c. Supplier/Transporter should report at Main Gate, NRB/BARC/IGCAR, Kalpakkam well in time, s o as to complete the security checks and deliver the material as per the schedule. In case the"
+    },
+    {
+      "page": 12,
+      "text": "y reach the Site after 3 p.m on any working day or holiday the lorry is liable to be detained ov ernight till next working day when necessary unloading facilities could be organized and th e consignment unloaded. Please also note that, no detention charges will be payable by us if the Lorries are detained overnight due to the above reasons. d. Supply shall be made only to the consignee. 2. The Packages should be securely packed and details regarding Purchase Order/GeM Contract reference, complete address of Consignor/Consignee (with Contact details) should be cle arly marked on all the packages. 3. When dispatching multiple orders, material of each order should be packed in separate pack age, and details regarding Order reference should be clearly marked. 4. OTP based deliveries are not possible inside NRB/BARC/IGCAR/DAE Units. Hence dispatch of ma terial shall be through standard transporters, WITHOUT OTP. 5. In the event of dispatch through Speed Post, the date of actual delivery/physical collecti on will be considered as Delivery Date. 6. The personnel accompanying the supply (visiting NRB/BARC/IGCAR) should carry valid ORIGINAL Go vt ID Proof and details of the personnel should be intimated in advance, for arranging entry permit. 7. Drivers should carry ORIGINAL valid Transport Driving License and Vehicles should possess all the r equired valid ORIGINAL Road Documents, such as RC, Insurance, Fitness and etc., otherwise the veh icles will not be permitted inside plant for delivery. 8. Vehicles with GPS tracking are not permitted inside DAE Units. 9. Prior intimation/communication has to be sent to the consignee, well in advance, with complete det ails of material including Purchase Order/GeM Contract Number, No of Packages, Volume & weight a nd contact details of transporter/driver by email. 10. Contact Details for advance intimation regarding delivery: a. For IGCAR: i. Tel Nos: 044-27480079 & 27480213 (Direct) and ii. Board: 044-27480500 Extension: 22433/22362/22363 iii. Email-IDs: stores@igcar.gov.in, asorone@igcar.gov.in; asortwo@igcar.gov.in . 5. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8135973",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10006674"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 17-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10006674"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 18-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10006674"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10006674"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Pmo",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10006674"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Atomic Energy",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10006674"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Directorate Of Purchase And Stores",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10006674"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Directorate Of Purchase And Stores",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10006674"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :hod_dps_gem@dpsdae.gov.in Buyer Email id: apo4mrpu.tndae@nic.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10006674"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10006674"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Fixed Computer Workstation (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10006674"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10006674"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10006674"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10006674"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10006674"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10006674"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 16",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10006674"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10006674"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10006674"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Processor Number: Intel Xeon w3-2423, Intel Xeon w3-2425, Intel Xeon w3-2435, Intel Xeon w3-2525, Intel Xeon w5-3423, Intel Xeon w5-2445, Intel Xeon w3-2535, Intel Xeon w5-3425, Intel Xeon w5-2455X, Intel Xeon w5-3525, Intel Xeon w5-2545, Intel Xeon w5-3433, Intel Xeon w5-2465X, Intel Xeon w5-2555X, Intel Xeon w5- 3435X, Intel Xeon w5-3535X, Intel Xeon w5-2565X, Intel Xeon w7-2475X, Intel Xeon w7-2575X, Intel Xeon w7-3445, Intel Xeon w7-2495X, Intel Xeon w7-2595X, Intel Xeon w7-3455, Intel Xeon w7-3545, Intel Xeon w7-3465X, Intel Xeon w7-3555, Intel Xeon w7-3565X, Intel Xeon w9-3475X, Intel Xeon w9-3575X, Intel Xeon w9-3495X, Intel Xeon w9-3595X Or higher | Hardware-Based Out-of-Band Management: Supported Or higher | TPM Implementation: Discrete (Hardware Based) TPM 2.0 | Number of Factory-Fitted Discrete GPUs: 1 x Discrete GPU, 2 x Identical Discrete GPUs, 3 x Identical Discrete GPUs, 4 x Identical Discrete GPUs Or higher | GPU Model: NVIDIA RTX 2000 Ada Generation 16GB, NVIDIA RTX PRO 2000 Blackwell 16GB, NVIDIA RTX 4000 SFF Ada Generation 20GB, NVIDIA RTX 4000 Ada Generation 20GB, NVIDIA RTX PRO 4000 Blackwell SFF Edition 24GB, NVIDIA RTX 4500 Ada Generation 24GB, NVIDIA RTX PRO 4000 Blackwell Workstation Edition 24GB, NVIDIA RTX 5000 Ada Generation 32GB, NVIDIA RTX 6000 Ada Generation 48GB, NVIDIA RTX PRO 4500 Blackwell Workstation Edition 32GB, NVIDIA RTX PRO 5000 Blackwell 48GB, NVIDIA RTX PRO 5000 Blackwell 72GB, NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition 96GB, NVIDIA RTX PRO 6000 Blackwell Workstation Edition 96GB Or higher | System Memory (RAM) Type: DDR5 Or higher | ECC Memory Support: ECC Memory Or higher | Installed System Memory (RAM) (in GB): 64, 96, 128, 192, 256, 384, 512, 768, 1024, 1536, 2048 Or higher | Maximum System Memory Supported (in GB): 2048 Or higher | Total DIMM Slots: 8, 16 Or higher | DIMM Slots Populated: 1 | Primary NVMe SSD Capacity (in GB): 2048, 4096, 8192 Or higher | Primary NVMe SSD Interface: PCIe 4.0 x4 NVMe, PCIe 5.0 x4 NVMe Or higher | Total Number of M dot 2 Storage Slots: 2.0 Or higher | RAID Controller Type: No RAID Controller | Total PCIe x16 Physical Slots: 4.0 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10006674"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Highest PCIe Generation Supported by x16 Slot: PCIe 5.0 Or higher | Wired Ethernet Capability: 1 x 10 GbE | Number of USB Type A Version 2 Point 0 Ports: 3 Or higher | Number of USB Type A 3 Point 2 Gen 2 Ports: 4, 5, 6 Or higher | Number of Type C 3 Point 2 Gen 2 Ports: 1, 2, 3 Or higher | Other I/O Ports: DisplayPort | Availability of Monitor: Yes | Panel Type: In Plane Switching (IPS) | Maximum Resolution (Horizontal x Vertical Pixels): 1920 × 1080 | Mouse Connectivity: Wired, Wireless Or higher | Keyboard Connectivity: Wired, Wireless Or higher | Power Supply Configuration: Single Fixed Power Supply, Dual Power Supplies, Dual Redundant Power Supplies Or higher | Factory Preloaded Operating System: Windows 11 Professional | On Site Warranty (in Year): 1, 3, 5 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10006674"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Panneerselvam S | 603102,DPS/IGCAR, Central Stores Unit, Kalpakkam . | 1 | 45",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10006674"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "1. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 3. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in favour of DEPUTY CONTROLLER OF ACCOUNTS, MRAU, DPS, DAE payable at CHENNAI . After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of contract. 4. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. All correspondence if any shall be made with Our File Ref. DPS/MRPU/1/4/24527 along with this GeM Bid Reference otherwise or failing which your request will not be entertained. 2. Terms and conditions a. The supplier shall supply and install the system at IGCAR, Kalpakkam. b. The system shall be accepted only after verifying the parameter given in GeM bid. c. Any faults observed in the supplied system during the warranty period shall be attended to and rectified",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10006674"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "/replaced by the supplier. d. Any defective components shall be replaced with genuine parts by the supplier, free of cost, during the warranty period. 3. Qualification criteria a. The supplier shall submit the OEM data sheet for the proposed workstation, containing complete techni cal details. The OEM data sheet shall clearly specify all the technical specifications listed in GeM bid. Any b id submitted without the OEM data sheet, or with an OEM data sheet that does not include all the required specifications, shall be rejected without any further communication. b. The supplier shall be an OEM or authorized dealer of the OEM for the quoted system. A valid Manufactur er's Authorization Form (MAF) issued by the OEM shall be submitted along with the bid. Any bid submitted without a valid OEM Manufacturer's Authorization Form (MAF) shall be rejected without any further commu nication. c. Product offered should meet or exceed all technical specifications mentioned in GEM bid. d. The bidder shall submit a compliance sheet for the offered product for technical evaluation of the offer. 4. Acceptance criteria a. The supplied work station shall be free of any physical damage. b. Items will be accepted after confirming the fulfillment of the parameter listed in GeM bid. 5. If any firm is claiming purchase preference on the basis of Micro/ Small Manufacturer, the bidder should upload both the certificates as follows in the relevant column of GeM portal: i. Latest/Current Year UDYAM registration certificate with all details is only acceptable ii. Self declaration/OEM certificate explicitly stating whether the bidder is the actual manufacturer of the qu oted primary product duly stamped & signed by the authorized signatory of the company. 6. Bidders should upload document strictly as per format attached with this bid duly filled up, signed and stamped by the authorized signatory of the company regarding Self declaration wi th regard to Local content and also ensure that Local content percentage with break up(all the items as per bid) and location of value addition are clearly mentioned in Annexure XI (please r efer ATC document also- other formats and local content without break up are not acceptable) . 7. IMPORTANT PLEASE MAKE SURE AND FURNISH DECLARATION/UNDERTAKING FOR THE FOLLOWING WH ILE SUBMITTING YOUR BID/OFFER ONLINE TO CONSIDER YOUR OFFER: I. YOU HAD FULLY UNDERSTOOD THE SCOPE OF SUPPLY, SPECIFICATION AND ALL BID CONDITIONS. II. NO COMPROMISE IN QUALITY OF THE QUOTED ITEM. III. THERE IS NO DEVIATION FROM BID SPECIFICATION. IV. UNCONDITIONAL ACCEPTANCE OF ALL TERMS AND CONDITIONS AS PER BID DOCUMENT.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10006674"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "V. RATES SHOULD NOT BE DISCLOSED IN TECHNICAL PART IN CASE OF TWO PACKET BID. VI. NO COUNTER CONDITIONS AGAINST THE BID TERMS AND CONDITIONS. Note: You are hereby confirming the following by submitting online bid/offer that: a. you have fully understood scope of supply, specification and all Bid conditions b. there is no deviation from Bid specification and c. unconditional acceptance of all the terms and conditions governed by the General Terms and Conditions of GeM and terms as per ATC. 8. BANK GUARANTEE: Bank Guarantee should be obtained and executed on nonjudicial stamp paper of appropriate value. Original Bank Guarantee should be submitted to Assistant Purchase Officer, Madras Regional Purchase Unit, DAE Nodal Facility Centre, Dr. Rajendra Prasad Road, Pallavaram, Chennai- 600 043 Tamil Nadu Original Bank Guarantee ( BG validity covering Delivery Period, Guarantee period, if any plus two months c laim period ) should be sent by the Issuing Bank to the Purchaser Directly under Speed Post (AD) to avoid delay in acceptance. Bank Details for issue of Bank Guarantees :- Bank Name STATE BANK OF INDIA Branch Name PALLAVARAM BRANCH Branch Address: PATANJALI PLAZA, No.15, OLD TRUNK ROAD, PALLAVARAM, CHENNAI – 600 043 Tamil Nad u State, India. IFSC CODE SBIN0002248 E-mail ID sbi.02248@sbi.co.in i) Note for submission of Bank Guarantee: (a) Bank Guarantee will be processed only after due confirmation received directly from the bank only. For this purpose, kindly ensure availability of the FAX Number / E-MAIL ID of the concerned bank for further ne cessary action/arrangement. (b) Any correspondence related to Bank Guarantee being done either by the supplier or supplier’s bank sh all invariably indicate this GeM Contract No.___________ as well as Our Reference No. DPS/MRPU/1/4/24527 without which further processing of bank guarantee is not possible. Please make sure that there is sufficient validity of the BG covering delivery period, guarantee period (if an y) plus claim period of two months as per Bid to avoid delay in acceptance and multiple validit y extension of bank guarantee. ii) NOTE: Bidders can also make the payment of Performance security Deposit Bank Guarantee (PSDBG) / E MD (if any) electronically using Credit Card (CC), Debit Card (DC), Net Banking, Immediate Payment Servic e (IMPS) and Unified Payment Interface / Bharat Interface for money (UPI / BHIM) through Non Tax Receipt Portal (NTRP) also known as Bharatkosh portal.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10006674"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 11,
+      "quote": "iii) PSDBG in original shall be submitted well in advance to this office and s upply should be made within th e committed delivery period to the consignee. iv) PSDBG will be accepted subject to the following: a. The bank guarantee should only be sent by the issuing bank directly to the buyer by speed post w ith email id reference of issuing bank as well as their controlling bank. Otherwise genuineness of t he bank guarantee will be confirmed by the buyer. b. If SFMS clause is incorporated in the bank guarantee by the issuing bank, the delivery report of the same shall accompany the BG which will be confirmed by the buyer’s bank (i.e. State Bank of India ). v) A crossed demand draft in original in lieu of PSDBG favoring paying authority- DEPUTY CONTROLLER OF ACCOUNTS, MRAU, DPS, DAE payable at Chennai can also be furnished. vi) After award of contract, Successful Bidder can upload scanned copy of the PBG or DD or challan genera ted through Bharatkosh in place of PBG and has to ensure delivery of hard copy of the original PBG/DD/cha llan copy to the Buyer within 15 days of award of contract for scrutiny and acceptance. 9. Warranty Clause: The material(s) shall be guaranteed for a period of at least 12 Months from the da te of final acceptance/satisfactory installation & commissioning against any manufacturing defects for trou ble free performance. During that period any defects arising out of faulty materials, design or workma nship shall be repaired/replaced by you free of cost. 10. Bidder’s offer will summarily be rejected if they fail to upload any of the certificates/ documents sough t in this Bid Document, Specification, ATC & Corrigendum, if any. 11. HINDRANCES The contractor is required to maintain hindrance register for reporting hindrance if any, while executing th e work, as per Annexure-X. The contractor shall get record of hindrances in the hindrance register(s) appr oved/ endorsed by the purchaser. Such hindrance in the work endorsed by the purchaser will only be take n into consideration for granting delivery date extension/re-fixation. “HINDRANCE” means an event resulting in stoppage or delay of work as recorded by the contractor and a uthenticated by the purchaser. Delivery Instructions for Suppliers/Transporters: 1. Delivery Timings & Working Hours: a. NRB/BARC/IGCAR, Kalpakkam works for 5 days in a Week (Saturday & Sunday are weekly-offs ). b. Material delivery can be accepted only in working days (Monday-Friday) excluding Public Holi days between 10:00 Hrs, to 15:00 Hrs. c. Supplier/Transporter should report at Main Gate, NRB/BARC/IGCAR, Kalpakkam well in time, s o as to complete the security checks and deliver the material as per the schedule. In case the",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10006674"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 12,
+      "quote": "y reach the Site after 3 p.m on any working day or holiday the lorry is liable to be detained ov ernight till next working day when necessary unloading facilities could be organized and th e consignment unloaded. Please also note that, no detention charges will be payable by us if the Lorries are detained overnight due to the above reasons. d. Supply shall be made only to the consignee. 2. The Packages should be securely packed and details regarding Purchase Order/GeM Contract reference, complete address of Consignor/Consignee (with Contact details) should be cle arly marked on all the packages. 3. When dispatching multiple orders, material of each order should be packed in separate pack age, and details regarding Order reference should be clearly marked. 4. OTP based deliveries are not possible inside NRB/BARC/IGCAR/DAE Units. Hence dispatch of ma terial shall be through standard transporters, WITHOUT OTP. 5. In the event of dispatch through Speed Post, the date of actual delivery/physical collecti on will be considered as Delivery Date. 6. The personnel accompanying the supply (visiting NRB/BARC/IGCAR) should carry valid ORIGINAL Go vt ID Proof and details of the personnel should be intimated in advance, for arranging entry permit. 7. Drivers should carry ORIGINAL valid Transport Driving License and Vehicles should possess all the r equired valid ORIGINAL Road Documents, such as RC, Insurance, Fitness and etc., otherwise the veh icles will not be permitted inside plant for delivery. 8. Vehicles with GPS tracking are not permitted inside DAE Units. 9. Prior intimation/communication has to be sent to the consignee, well in advance, with complete det ails of material including Purchase Order/GeM Contract Number, No of Packages, Volume & weight a nd contact details of transporter/driver by email. 10. Contact Details for advance intimation regarding delivery: a. For IGCAR: i. Tel Nos: 044-27480079 & 27480213 (Direct) and ii. Board: 044-27480500 Extension: 22433/22362/22363 iii. Email-IDs: stores@igcar.gov.in, asorone@igcar.gov.in; asortwo@igcar.gov.in . 5. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10006674"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

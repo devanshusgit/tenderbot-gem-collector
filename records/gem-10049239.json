@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8173302",
   "title": "All in One PC (V2)",
   "description": "All in One PC (V2)",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "Eastern Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "All in One PC (V2)",
   "quantity": 18,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-04T13:28:16+05:30",
   "closing_at": "2026-11-16T10:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10049239"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/bsu6yeM5taVndjSRsrMlRGx-SkMQB-ARoJFlt0yT9TQ",
+      "page": 5
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8173302/CLM0010/ATCPC_e1079b68-7343-47f3-a2831792153279962_srdmmmaldaer.pdf",
+      "page": 9
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261104",
+      "page": 10
     }
   ],
   "tags": [
@@ -34,5 +54,264 @@
   ],
   "source_fetched_at": "2026-11-04T11:41:38.944Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-17T10:00:00+05:30",
+  "office": "Eastern Railway Hq",
+  "buyer_email": "srdmm@mldt.railnet.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "140 (Days)",
+  "source_document_fetched_at": "2026-11-04T14:18:38.781173+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "6d92a41136b0caaeb815315484156cd76f97e8b5369b8c1409d85d84e0fc7eab",
+  "document_pages": 10,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 20 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Rakesh Kumar",
+      "address": "732102,DRM Building Malda",
+      "quantity": 18,
+      "quantity_label": "Quantity",
+      "delivery_days": 45
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Description",
+          "parameter": "Description of store",
+          "value": "All in One Personal Computers consist of a Mouse, Keyboard, Display with Web camera, inbuilt/integrated microphone array and speakers, an internal CPU with connection cables and power adapter with 1 year standard warranty"
+        },
+        {
+          "group": "Description",
+          "parameter": "Processor Number",
+          "value": "Intel Core i3-12100, Intel Core i3-14100T, Intel Core i3-12300, Intel Core i3-14100, Intel Core i5-12400T, Intel Core i5-12500T, Intel Core i5 12600T, Intel Core i5-12400, Intel Core i5-12500, Intel Core i5-13400T, Intel Core i7 12700T, Intel Core i5-12600, Intel Core i5-13500T, Intel Core i5-14500T, Intel Core i5-14400, Intel Core i5-13600T, Intel Core i7-13700T, Intel Core i9 12900T, Intel Core i7-12700, Intel Core i7-14700T, Intel Core i5-13500, Intel Core i5-14500, Intel Core i9- 12900, Intel Core i7-13700, Intel Core i7-14700, Intel Core i9-13900T, Intel Core i9-13900, Intel Core Ultra 5-235, Intel Core Ultra 7-265, Intel Core i5 14600T, Intel Core Ultra 5 235T, Intel Core Ultra 5 245, Intel Core Ultra 5 245T, Intel Core Ultra 9 285 Or higher"
+        },
+        {
+          "group": "Input Devices",
+          "parameter": "Mouse Connectivity",
+          "value": "Wired, Wireless Or higher"
+        },
+        {
+          "group": "Input Devices",
+          "parameter": "Keyboard Connectivity",
+          "value": "Wired, Wireless Or higher"
+        },
+        {
+          "group": "Input Devices",
+          "parameter": "Type of Keyboard",
+          "value": "Standard, Bilingual Or higher"
+        },
+        {
+          "group": "Operating System",
+          "parameter": "Operating System (Factory Preloaded with Certification)",
+          "value": "Windows 11 Professional"
+        },
+        {
+          "group": "Memory",
+          "parameter": "Type of RAM",
+          "value": "DDR4, DDR5 Or higher"
+        },
+        {
+          "group": "Memory",
+          "parameter": "RAM Size (GB)",
+          "value": "16, 32 Or higher"
+        },
+        {
+          "group": "Storage",
+          "parameter": "Type of Storage Installed with the System",
+          "value": "NVMe SSD"
+        },
+        {
+          "group": "Storage",
+          "parameter": "Storage Capacity (in GB)",
+          "value": "512, 1024, 2048 Or higher"
+        },
+        {
+          "group": "Display",
+          "parameter": "Display Size - Diagonal (in Inches)",
+          "value": "58.1 - 63 (22.87\" - 24.8\")"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": "Ports",
+          "parameter": "Number of Ports",
+          "value": "1-DP, 1-HDMI, 1- RJ-45 (10/100/1000 Ethernet Port), 1-USB 3.1 Gen 1 TYPE C, 1-USB 3.1 Gen 2 TYPE A, 2- USB 3.1 Gen 1 TYPE A, 2-USB 3.1 Gen 2 TYPE A, Universal Audio Jack"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Stand",
+          "value": "Height Adjustable"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 8,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 3. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 4. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 5. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Bidder must submit BIS license along with offer otherwise their offer will liable to be rejected. 2. Material to be delivered at SSE/G/MLDT, Malda, West Bengal Pin code 732102 Mobile no. 9771424332 3. The following documents must be sent to consignee at the time of claiming bill. I. Tax invoice (GSTIN no. in tax invoice & GeM invoice should be according to supply state i.e, 20AAAGM0 289C1ZX for Jharkhand, 10AAAGM0289C1ZY for Bihar and 19AAAGM0289C1ZG for West Bengal. II. GeM Invoice and Delivery Challan. III. Warranty certificate as per GeM Contract. IV. Inspection Certificate (In case of RITES Inspection) V. E-Way bill."
+    },
+    {
+      "page": 9,
+      "text": "VI. MA copy of DP extension (in case of late supply). VII. Test certificate as per GeM contract. VIII. Bank Mandate Form. IX. Cancelled cheque. X. Turnover details (in case of e-invoice more than 5 Cr. and in other case less than 5 Cr.) 4. Test report should be available from Govt. LAB/NABL accredited LAB/ ILAC accredited LAB as per CIause. 5. Materials must be Inspected by RITES. 6. Materials must be supplied as per ATC document attached. . 6. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8173302",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10049239"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 16-11-2026 10:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10049239"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 17-11-2026 10:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10049239"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 140 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10049239"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10049239"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10049239"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Eastern Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10049239"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Eastern Railway Hq",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10049239"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :alok.shakti@gov.in Buyer Email id: srdmm@mldt.railnet.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10049239"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 18",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10049239"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: All in One PC (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10049239"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10049239"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10049239"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10049239"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 20 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10049239"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10049239"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10049239"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10049239"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Description of store: All in One Personal Computers consist of a Mouse, Keyboard, Display with Web camera, inbuilt/integrated microphone array and speakers, an internal CPU with connection cables and power adapter with 1 year standard warranty | Processor Number: Intel Core i3-12100, Intel Core i3-14100T, Intel Core i3-12300, Intel Core i3-14100, Intel Core i5-12400T, Intel Core i5-12500T, Intel Core i5 12600T, Intel Core i5-12400, Intel Core i5-12500, Intel Core i5-13400T, Intel Core i7 12700T, Intel Core i5-12600, Intel Core i5-13500T, Intel Core i5-14500T, Intel Core i5-14400, Intel Core i5-13600T, Intel Core i7-13700T, Intel Core i9 12900T, Intel Core i7-12700, Intel Core i7-14700T, Intel Core i5-13500, Intel Core i5-14500, Intel Core i9- 12900, Intel Core i7-13700, Intel Core i7-14700, Intel Core i9-13900T, Intel Core i9-13900, Intel Core Ultra 5-235, Intel Core Ultra 7-265, Intel Core i5 14600T, Intel Core Ultra 5 235T, Intel Core Ultra 5 245, Intel Core Ultra 5 245T, Intel Core Ultra 9 285 Or higher | Mouse Connectivity: Wired, Wireless Or higher | Keyboard Connectivity: Wired, Wireless Or higher | Type of Keyboard: Standard, Bilingual Or higher | Operating System (Factory Preloaded with Certification): Windows 11 Professional | Type of RAM: DDR4, DDR5 Or higher | RAM Size (GB): 16, 32 Or higher | Type of Storage Installed with the System: NVMe SSD | Storage Capacity (in GB): 512, 1024, 2048 Or higher | Display Size - Diagonal (in Inches): 58.1 - 63 (22.87\" - 24.8\")",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10049239"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Number of Ports: 1-DP, 1-HDMI, 1- RJ-45 (10/100/1000 Ethernet Port), 1-USB 3.1 Gen 1 TYPE C, 1-USB 3.1 Gen 2 TYPE A, 2- USB 3.1 Gen 1 TYPE A, 2-USB 3.1 Gen 2 TYPE A, Universal Audio Jack | Stand: Height Adjustable",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10049239"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Rakesh Kumar | 732102,DRM Building Malda | 18 | 45",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10049239"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 3. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 4. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 5. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Bidder must submit BIS license along with offer otherwise their offer will liable to be rejected. 2. Material to be delivered at SSE/G/MLDT, Malda, West Bengal Pin code 732102 Mobile no. 9771424332 3. The following documents must be sent to consignee at the time of claiming bill. I. Tax invoice (GSTIN no. in tax invoice & GeM invoice should be according to supply state i.e, 20AAAGM0 289C1ZX for Jharkhand, 10AAAGM0289C1ZY for Bihar and 19AAAGM0289C1ZG for West Bengal. II. GeM Invoice and Delivery Challan. III. Warranty certificate as per GeM Contract. IV. Inspection Certificate (In case of RITES Inspection) V. E-Way bill.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10049239"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "VI. MA copy of DP extension (in case of late supply). VII. Test certificate as per GeM contract. VIII. Bank Mandate Form. IX. Cancelled cheque. X. Turnover details (in case of e-invoice more than 5 Cr. and in other case less than 5 Cr.) 4. Test report should be available from Govt. LAB/NABL accredited LAB/ ILAC accredited LAB as per CIause. 5. Materials must be Inspected by RITES. 6. Materials must be supplied as per ATC document attached. . 6. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10049239"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

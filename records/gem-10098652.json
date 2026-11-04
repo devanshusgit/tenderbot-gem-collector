@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8215734",
   "title": "Operating Table (V2)",
   "description": "Operating Table (V2)",
-  "organisation": "Health and Family Welfare Department Delhi",
-  "ministry": "",
-  "department": "Health and Family Welfare Department Delhi",
+  "organisation": "N/a",
+  "ministry": "Delhi",
+  "department": "Health And Family Welfare Department Delhi",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Operating Table (V2)",
   "quantity": 5,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 380000,
   "published_at": "2026-11-02T15:33:55+05:30",
   "closing_at": "2026-11-23T18:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 5
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/xe1Shf0v0BCj74nd00M-DRB7UXmh4rEPA9V5QBJOk4U",
+      "page": 5
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261102",
+      "page": 17
     }
   ],
   "tags": [
@@ -34,5 +49,328 @@
   ],
   "source_fetched_at": "2026-11-03T10:08:29.766Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-24T18:00:00+05:30",
+  "office": "Govind Ballabh Post Graduate Institute Of Medical Education And Research",
+  "buyer_email": "drmonikatandon.gbph@nic.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 76,
+  "oem_turnover_lakhs": 760,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 62,
+  "offer_validity": "180 (Days)",
+  "estimated_bid_value": 19000000,
+  "source_document_fetched_at": "2026-11-04T00:15:20.971441+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "c8d6f442f33058b96a9138bf76e77115c8a190db6a6d52dc26ee323300fe0620",
+  "document_pages": 17,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 76 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 760 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 80 % (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Sanjay Kumar Maurya",
+      "address": "110002,G.B. Pant Hospital (GIPMER), 1 - Jawaharlal Nehru Marg, Near Delhi Gate, New Delhi-110002",
+      "quantity": 5,
+      "quantity_label": "Quantity",
+      "delivery_days": 60
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Table features",
+          "parameter": "Type of OT table Actuator",
+          "value": "Electro-hydraulic"
+        },
+        {
+          "group": "Table features",
+          "parameter": "Type of mechanism for functioning or controlling the table movements",
+          "value": "Electro-hydraulic movement through remote and backup panel"
+        },
+        {
+          "group": "Table Positions",
+          "parameter": "Table top longitudinal sliding, Range",
+          "value": "250 -300 mm, 301- 350 mm"
+        },
+        {
+          "group": "Table Positions",
+          "parameter": "Minimum Battery backup of operating table in hrs",
+          "value": "3 hrs"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 7,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms."
+    },
+    {
+      "page": 8,
+      "text": "2. Provisions for workmen compensation, insurance, public liability, property damage, insurance etc. to be ensured by the contractor. Also, safety measures prescribed for working in Extra High Voltage & use of personnel protective equipment must be adhered to. 3. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 4. Generic Bidders shall quote only those products (Part of Service delivery) in the bid which are not obsolete in the market and has at least 7 years residual market life i.e. the offered product shall not be declared end-of- life by the OEM before this period. 5. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 6. Generic End User Certificate: Wherever Bidders are insisting for End User Certificate from the Buyer, same shall be provided in Buyer’s standard format only. 7. Generic Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU for 3 years before the bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the primary product having highest value should meet this criterion. 8. Generic Malicious Code Certificate: The seller should upload following certificate in the bid:- (a) This is to certify that the Hardware and the Software being offered, as part of the contract, does not contain Embedded Malicious code that would activate procedures to :- (i) Inhibit the desires and designed function of the equipment. (ii) Cause physical damage to the user or equipment during the exploitation. (iii) Tap information resident or transient in the equipment/network. (b) The firm will be considered to be in breach of the procurement contract, in case physical damage, loss of information or infringements related to copyright and Intellectual Property Right (IPRs) are caused due to activation of any such malicious code in embedded software. 9. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 10. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 11. Generic The successful bidder has to supply all essential accessories required for the successful installation and commissioning of the goods supplied. Besides standard accessories as per normal industry practice, following accessories must be part of supply and cost should be included in bid price:"
+    },
+    {
+      "page": 9,
+      "text": "GST . 12. Generic 1. The Seller shall not assign the Contract in whole or part without obtaining the prior written consent of buyer. 2. The Seller shall not sub-contract the Contract in whole or part to any entity without obtaining the prior written consent of buyer. 3. The Seller shall, notwithstanding the consent and assignment/sub-contract, remain jointly and severally liable and responsible to buyer together with the assignee/ sub-contractor, for and in respect of the due performance of the Contract and the Sellers obligations there under. 13. Generic The seller is required to print logo as per buyer's requirement. 14. Generic Without prejudice to Buyer’s right to price adjustment by way of discount or any other right or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a written notice to the Seller, if: i) The Seller fails to comply with any material term of the Contract. ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within the stipulated Delivery Period or such inability otherwise becomes apparent. iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery Period and/or to replace/rectify any rejected or defective Material(s) promptly. iv) The Seller becomes bankrupt or goes into liquidation. v) The Seller makes a general assignment for the benefit of creditors. vi) A receiver is appointed for any substantial property owned by the Seller. vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has placed the Purchase Order on the Seller. 15. Generic While generating invoice in GeM portal, the seller must upload scanned copy of GST invoice and the screenshot of GST portal confirming payment of GST. 16. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 17. Forms of EMD and PBG Bidders can also submit the EMD with Fixed Deposit Receipt made out or pledged in the name of A/C MEDICAL SUPERINTENDENT, GB PANT HOSPITAL . The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of EMD, the FDR will be released in the favour of the bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Bidder has to upload scanned copy/ proof of the FDR along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date/ Bid Opening date 18. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of MEDICAL SUPERINTENDENT, GB PANT HOSPITAL A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped"
+    },
+    {
+      "page": 10,
+      "text": "along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract. 19. Financial Criteria NET WORTH: Net Worth of the OEM should be positive as per the last audited financial statement. 20. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 21. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 22. Certificates ISO 9001: The bidder or the OEM of the offered products must have ISO 9001 certification. 23. Certificates Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked by Buyer’s Lab & the Results of the Lab will be the Sole Criteria for Acceptance of the Item. 24. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 25. Certificates To be eligible for award of contract, Bidder / OEM must possess following Certificates / Test Reports on the date of bid opening (to be uploaded with bid): OPENING DATE OF BID . 26. Turnover Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. 27. Turnover OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of CATEGORY RELATED TO primary product having highest bid value should meet this criterion. 28. Service & Support"
+    },
+    {
+      "page": 11,
+      "text": "Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 29. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 30. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 31. Warranty Bidder / OEM has to give an undertaking that after expiry of warranty period, it will provide Comprehensive Maintenance Service for next 5 years for the offered products at the rate not more than 10 % of contract price per annum. Buyer reserves the right to enter into a CMC agreement with the Successful Bidder / OEM after expiry of the Warranty period at above mentioned rate and the payment for the CMC charges would be made Biannually after rendering of the CMC Services of the relevant CMC period. Performance Security of the successful bidder shall be forfeited if it fails to accept the CMC contract when called upon by the buyer. CMC would include cost of 3% (Upload the undertaking). The original Performance Security of contract will be returned only after submission and verification of AMC Performance Security for 2% of total CMC value valid up to CMC period plus 2 months (if there is no other claim). 32. Warranty Warranty period of the supplied products shall be 5 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 33. Warranty Over and above the normal Warranty terms as per GeM GTC, the successful bidder / OEM shall have to provide Comprehensive Warranty during the entire Standard warranty period as per contract. : The comprehensive warranty shall be covering the following scope ALL COMPONENTS OF EQUPMENT (Upload an undertaking with the bid confirming compliance by the bidder if Bidder is taking onus of this compliance. In case OEM is taking onus of this compliance, OEM undertaking is to be uploaded along with Bidder undertaking) 34. Warranty Successful bidder will have to ensure that adequate number of dedicated technical service personals / engineers are designated / deployed for attending to the Service Request in a time bound manner and for ensuring Timely Servicing / rectification of defects during warranty period, as per Service level agreement indicated in the relevant clause of the bid. 35. Warranty Timely Servicing / rectification of defects during warranty period: After having been notified of the defects / service requirement during warranty period, Seller has to complete the required Service / Rectification within 3 days time limit. If the Seller fails to complete service / rectification with defined time limit, a"
+    },
+    {
+      "page": 12,
+      "text": "penalty of 0.5% of Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the Buyer. 36. Past Project Experience Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc.Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc. 37. Past Project Experience The Bidder / OEM {themselves or through reseller(s)}, should have executed project for supply and installation / commissioning of same or similar Category Products during preceding 3 financial years (i.e. current year and three previous financial years) as on opening of bid, as per following criteria: (i) Single order of at least 35% of estimated bid value; or (ii) Two orders of at least 20% each of estimated bid value; or (iii) Three orders of at least 15% each of estimated bid value. Satisfactory Performance certificate issued by respective Buyer Organization for the above Orders should be uploaded with bid. In case of bunch bids, the Category related to primary product having highest bid value should meet this criterion 38. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Broad Technical Specification for Electro-hydraulic Operating Table 1. Surgical table should be Electro-hydraulic table with complete carb on fiber tabletop and integrated power unit suitable for MIS Surgery / CTVS / Endo-vascular and other procedure requiring intra operativ e fluoroscopic C-Arm imaging with three axis table movement. 2. It should have X-Ray facility equipped with a full length, built in X-r ay cassette tray accessible from either side of the table. 3. The top includes a 45-degree beveled edge to facilitate accessory attachment on side rail while enabling 360-degree maximum imagi ng capabilities. With side rails, width should not exceed more than 30 inches. 4. Table Top Slide (Longitudinal and Lateral Float): Should have a pro vision for longitudinal slide of at least 60 cm for superior C-arm cov erage without repositioning or reversing the patient and also allow l ateral float of at least 18 cm. 5. Trendelenburg and Reverse Trendelenburg of +/-16 degrees shoul d be possible. 6. There should be lateral tilt facility of +/- 16 degrees or more."
+    },
+    {
+      "page": 13,
+      "text": "7. Operating position i.e. Height adjustment, Trendelenburg, Reverse Trendelenburg, Lateral Tilt, Lateral Slide, Longitudinal Slide and Flo or Locking are quickly and precisely controlled by backlit handheld Remote with symbolic position figures using low voltage system to ensure safety of the user. The remote should have position locking f acility, battery status indicator & mains power indicator. The hands et should have 4 nos. of resettable memory buttons. 8. Should have at least a 4-memory function for the settings of the O T Table positioning for ease to memorize surgeon working settings 9. Should have automatic 'Zero' positioning switch on handheld contr oller to bring all the table top positions to zero level including Heigh t. 10. Should be supplied with a cordless Bluetooth remote which should have buttons for all the movements of the OT Table. 11. The table should be equipped with an electric override control pan el embedded in the center column body with equal performance to that of the handheld controller. 12. The powered movements are actuated by an Imported Electro-hyd raulic System comprising of hydraulic motor pump with low noise le vel of less than 50 dBA and solenoid valves to assure smooth and q uiet movements 13. Tabletop length should be 200 cm (6ft) + 5%. 14. The mattress should be of high quality, covering the table's top for enhanced patient supp ort. It should have a depth of 50 mm and should be latex-free. 15. Mattress should be Flame retardant, lab test report should be attac hed. 16. The operating table should be fitted with four twin-disk 100 mm ca stors, self-compensating 4 post hydraulic floor locking system with manual release valve. 17. Maintenance free Lifting System: State-of -the-art lifting system comprising of hi-precision bearings with large contact surface which ensures the highest rigidity for heavy loads and smooth up-down movement. All bearings are permanently grease lubricated thus making t his lifting system virtually maintenance free for lifetime. 18. Non-corrosive SS304 Grade Stainless Steel base and cylindrical co vers for easy cleaning and hygiene. 19. Complete with SS304 Grade Stainless Steel side-rails, clamps and standard accessories."
+    },
+    {
+      "page": 14,
+      "text": "20. Special accessory pack should include vascular package with catheter extension board an d AV Fistula board. 21. The Quoted model should have Test Report from NABL approved Lab for Electrical IEC 601 01-1, medical/electrical equipment for safety, IEC 60601-2-46 for safety of OT tables. 22. Manufacturer should have ISO 13485 certification issued from Any Certification Bodies reg istered with NABCB under Medical Devices Quality Management System OR Any notified b ody registered with CDSCO OR any 4-digit CE notified body. Technical Specifications: i. Table top length: 2000 mm (+/- 5%) ii. Table top width (with side-rails): Not more than 760 mm iii. Minimum Height (without padding): 750 mm iv. Maximum Height (without padding): 1000 mm or more v. Trendelenburg / Reverse Trendelenburg: 16°/16° vi. Lateral Tilt (Left/Right): 16°/16° vii. Longitudinal Slide: 600 mm or more viii. Lateral Slide: 180 mm or more ix. Load Capacity: 200 Kgs x. Drive: Electro-hydraulic xi. Power supply: 220V AC - 50 Hz Standard Accessories: i. Radio-translucent Arm Support: One pair ii. PU Foam Mattress - 50 mm: One Set iii. Restraint Body Strap: 2 pcs iv. Catheter Extension Board v. AV Fistula Board. Warranty: Five years warranty with all spare parts and after th at CMC quoted for Five years annually. · All Accessories should be covered in warranty atleast for two years from the date of installation. · Price should be quoted separately for all accessories and freeze for next five years . · Physical demonstration of the quoted equipment in bid must be at GIPMER before technical evaluation committee ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8215734",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 23-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 24-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Delhi",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Health And Family Welfare Department Delhi",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: N/a",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Govind Ballabh Post Graduate Institute Of Medical Education And Research",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :drpooja.gbph@nic.in Buyer Email id: drmonikatandon.gbph@nic.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 5",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Operating Table (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 76 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 760 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 80 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 19000000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "emd_fee",
+      "page": 3,
+      "quote": "EMD Amount: 380000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "emd_required",
+      "page": 3,
+      "quote": "EMD Amount: 380000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 62",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Type of OT table Actuator: Electro-hydraulic | Type of mechanism for functioning or controlling the table movements: Electro-hydraulic movement through remote and backup panel | Table top longitudinal sliding, Range: 250 -300 mm, 301- 350 mm | Minimum Battery backup of operating table in hrs: 3 hrs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Sanjay Kumar Maurya | 110002,G.B. Pant Hospital (GIPMER), 1 - Jawaharlal Nehru Marg, Near Delhi Gate, New Delhi-110002 | 5 | 60",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "2. Provisions for workmen compensation, insurance, public liability, property damage, insurance etc. to be ensured by the contractor. Also, safety measures prescribed for working in Extra High Voltage & use of personnel protective equipment must be adhered to. 3. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 4. Generic Bidders shall quote only those products (Part of Service delivery) in the bid which are not obsolete in the market and has at least 7 years residual market life i.e. the offered product shall not be declared end-of- life by the OEM before this period. 5. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 6. Generic End User Certificate: Wherever Bidders are insisting for End User Certificate from the Buyer, same shall be provided in Buyer’s standard format only. 7. Generic Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU for 3 years before the bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the primary product having highest value should meet this criterion. 8. Generic Malicious Code Certificate: The seller should upload following certificate in the bid:- (a) This is to certify that the Hardware and the Software being offered, as part of the contract, does not contain Embedded Malicious code that would activate procedures to :- (i) Inhibit the desires and designed function of the equipment. (ii) Cause physical damage to the user or equipment during the exploitation. (iii) Tap information resident or transient in the equipment/network. (b) The firm will be considered to be in breach of the procurement contract, in case physical damage, loss of information or infringements related to copyright and Intellectual Property Right (IPRs) are caused due to activation of any such malicious code in embedded software. 9. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 10. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 11. Generic The successful bidder has to supply all essential accessories required for the successful installation and commissioning of the goods supplied. Besides standard accessories as per normal industry practice, following accessories must be part of supply and cost should be included in bid price:",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "GST . 12. Generic 1. The Seller shall not assign the Contract in whole or part without obtaining the prior written consent of buyer. 2. The Seller shall not sub-contract the Contract in whole or part to any entity without obtaining the prior written consent of buyer. 3. The Seller shall, notwithstanding the consent and assignment/sub-contract, remain jointly and severally liable and responsible to buyer together with the assignee/ sub-contractor, for and in respect of the due performance of the Contract and the Sellers obligations there under. 13. Generic The seller is required to print logo as per buyer's requirement. 14. Generic Without prejudice to Buyer’s right to price adjustment by way of discount or any other right or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a written notice to the Seller, if: i) The Seller fails to comply with any material term of the Contract. ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within the stipulated Delivery Period or such inability otherwise becomes apparent. iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery Period and/or to replace/rectify any rejected or defective Material(s) promptly. iv) The Seller becomes bankrupt or goes into liquidation. v) The Seller makes a general assignment for the benefit of creditors. vi) A receiver is appointed for any substantial property owned by the Seller. vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has placed the Purchase Order on the Seller. 15. Generic While generating invoice in GeM portal, the seller must upload scanned copy of GST invoice and the screenshot of GST portal confirming payment of GST. 16. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 17. Forms of EMD and PBG Bidders can also submit the EMD with Fixed Deposit Receipt made out or pledged in the name of A/C MEDICAL SUPERINTENDENT, GB PANT HOSPITAL . The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of EMD, the FDR will be released in the favour of the bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Bidder has to upload scanned copy/ proof of the FDR along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date/ Bid Opening date 18. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of MEDICAL SUPERINTENDENT, GB PANT HOSPITAL A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract. 19. Financial Criteria NET WORTH: Net Worth of the OEM should be positive as per the last audited financial statement. 20. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 21. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 22. Certificates ISO 9001: The bidder or the OEM of the offered products must have ISO 9001 certification. 23. Certificates Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked by Buyer’s Lab & the Results of the Lab will be the Sole Criteria for Acceptance of the Item. 24. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 25. Certificates To be eligible for award of contract, Bidder / OEM must possess following Certificates / Test Reports on the date of bid opening (to be uploaded with bid): OPENING DATE OF BID . 26. Turnover Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. 27. Turnover OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of CATEGORY RELATED TO primary product having highest bid value should meet this criterion. 28. Service & Support",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 11,
+      "quote": "Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 29. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 30. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 31. Warranty Bidder / OEM has to give an undertaking that after expiry of warranty period, it will provide Comprehensive Maintenance Service for next 5 years for the offered products at the rate not more than 10 % of contract price per annum. Buyer reserves the right to enter into a CMC agreement with the Successful Bidder / OEM after expiry of the Warranty period at above mentioned rate and the payment for the CMC charges would be made Biannually after rendering of the CMC Services of the relevant CMC period. Performance Security of the successful bidder shall be forfeited if it fails to accept the CMC contract when called upon by the buyer. CMC would include cost of 3% (Upload the undertaking). The original Performance Security of contract will be returned only after submission and verification of AMC Performance Security for 2% of total CMC value valid up to CMC period plus 2 months (if there is no other claim). 32. Warranty Warranty period of the supplied products shall be 5 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 33. Warranty Over and above the normal Warranty terms as per GeM GTC, the successful bidder / OEM shall have to provide Comprehensive Warranty during the entire Standard warranty period as per contract. : The comprehensive warranty shall be covering the following scope ALL COMPONENTS OF EQUPMENT (Upload an undertaking with the bid confirming compliance by the bidder if Bidder is taking onus of this compliance. In case OEM is taking onus of this compliance, OEM undertaking is to be uploaded along with Bidder undertaking) 34. Warranty Successful bidder will have to ensure that adequate number of dedicated technical service personals / engineers are designated / deployed for attending to the Service Request in a time bound manner and for ensuring Timely Servicing / rectification of defects during warranty period, as per Service level agreement indicated in the relevant clause of the bid. 35. Warranty Timely Servicing / rectification of defects during warranty period: After having been notified of the defects / service requirement during warranty period, Seller has to complete the required Service / Rectification within 3 days time limit. If the Seller fails to complete service / rectification with defined time limit, a",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 12,
+      "quote": "penalty of 0.5% of Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the Buyer. 36. Past Project Experience Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc.Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc. 37. Past Project Experience The Bidder / OEM {themselves or through reseller(s)}, should have executed project for supply and installation / commissioning of same or similar Category Products during preceding 3 financial years (i.e. current year and three previous financial years) as on opening of bid, as per following criteria: (i) Single order of at least 35% of estimated bid value; or (ii) Two orders of at least 20% each of estimated bid value; or (iii) Three orders of at least 15% each of estimated bid value. Satisfactory Performance certificate issued by respective Buyer Organization for the above Orders should be uploaded with bid. In case of bunch bids, the Category related to primary product having highest bid value should meet this criterion 38. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Broad Technical Specification for Electro-hydraulic Operating Table 1. Surgical table should be Electro-hydraulic table with complete carb on fiber tabletop and integrated power unit suitable for MIS Surgery / CTVS / Endo-vascular and other procedure requiring intra operativ e fluoroscopic C-Arm imaging with three axis table movement. 2. It should have X-Ray facility equipped with a full length, built in X-r ay cassette tray accessible from either side of the table. 3. The top includes a 45-degree beveled edge to facilitate accessory attachment on side rail while enabling 360-degree maximum imagi ng capabilities. With side rails, width should not exceed more than 30 inches. 4. Table Top Slide (Longitudinal and Lateral Float): Should have a pro vision for longitudinal slide of at least 60 cm for superior C-arm cov erage without repositioning or reversing the patient and also allow l ateral float of at least 18 cm. 5. Trendelenburg and Reverse Trendelenburg of +/-16 degrees shoul d be possible. 6. There should be lateral tilt facility of +/- 16 degrees or more.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 13,
+      "quote": "7. Operating position i.e. Height adjustment, Trendelenburg, Reverse Trendelenburg, Lateral Tilt, Lateral Slide, Longitudinal Slide and Flo or Locking are quickly and precisely controlled by backlit handheld Remote with symbolic position figures using low voltage system to ensure safety of the user. The remote should have position locking f acility, battery status indicator & mains power indicator. The hands et should have 4 nos. of resettable memory buttons. 8. Should have at least a 4-memory function for the settings of the O T Table positioning for ease to memorize surgeon working settings 9. Should have automatic 'Zero' positioning switch on handheld contr oller to bring all the table top positions to zero level including Heigh t. 10. Should be supplied with a cordless Bluetooth remote which should have buttons for all the movements of the OT Table. 11. The table should be equipped with an electric override control pan el embedded in the center column body with equal performance to that of the handheld controller. 12. The powered movements are actuated by an Imported Electro-hyd raulic System comprising of hydraulic motor pump with low noise le vel of less than 50 dBA and solenoid valves to assure smooth and q uiet movements 13. Tabletop length should be 200 cm (6ft) + 5%. 14. The mattress should be of high quality, covering the table's top for enhanced patient supp ort. It should have a depth of 50 mm and should be latex-free. 15. Mattress should be Flame retardant, lab test report should be attac hed. 16. The operating table should be fitted with four twin-disk 100 mm ca stors, self-compensating 4 post hydraulic floor locking system with manual release valve. 17. Maintenance free Lifting System: State-of -the-art lifting system comprising of hi-precision bearings with large contact surface which ensures the highest rigidity for heavy loads and smooth up-down movement. All bearings are permanently grease lubricated thus making t his lifting system virtually maintenance free for lifetime. 18. Non-corrosive SS304 Grade Stainless Steel base and cylindrical co vers for easy cleaning and hygiene. 19. Complete with SS304 Grade Stainless Steel side-rails, clamps and standard accessories.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 14,
+      "quote": "20. Special accessory pack should include vascular package with catheter extension board an d AV Fistula board. 21. The Quoted model should have Test Report from NABL approved Lab for Electrical IEC 601 01-1, medical/electrical equipment for safety, IEC 60601-2-46 for safety of OT tables. 22. Manufacturer should have ISO 13485 certification issued from Any Certification Bodies reg istered with NABCB under Medical Devices Quality Management System OR Any notified b ody registered with CDSCO OR any 4-digit CE notified body. Technical Specifications: i. Table top length: 2000 mm (+/- 5%) ii. Table top width (with side-rails): Not more than 760 mm iii. Minimum Height (without padding): 750 mm iv. Maximum Height (without padding): 1000 mm or more v. Trendelenburg / Reverse Trendelenburg: 16°/16° vi. Lateral Tilt (Left/Right): 16°/16° vii. Longitudinal Slide: 600 mm or more viii. Lateral Slide: 180 mm or more ix. Load Capacity: 200 Kgs x. Drive: Electro-hydraulic xi. Power supply: 220V AC - 50 Hz Standard Accessories: i. Radio-translucent Arm Support: One pair ii. PU Foam Mattress - 50 mm: One Set iii. Restraint Body Strap: 2 pcs iv. Catheter Extension Board v. AV Fistula Board. Warranty: Five years warranty with all spare parts and after th at CMC quoted for Five years annually. · All Accessories should be covered in warranty atleast for two years from the date of installation. · Price should be quoted separately for all accessories and freeze for next five years . · Physical demonstration of the quoted equipment in bid must be at GIPMER before technical evaluation committee .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10098652"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8240589",
   "title": "ANNUAL MAINTENANCE SERVICE -DATA CENTER ASSETS - Compute; Computer-Servers; Neither OEM nor ASP",
   "description": "ANNUAL MAINTENANCE SERVICE -DATA CENTER ASSETS - Compute; Computer-Servers; Neither OEM nor ASP",
-  "organisation": "Higher and Techical Education Department Jharkhand",
-  "ministry": "",
-  "department": "Higher and Techical Education Department Jharkhand",
+  "organisation": "N/a",
+  "ministry": "Jharkhand",
+  "department": "Higher And Techical Education Department Jharkhand",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "ANNUAL MAINTENANCE SERVICE -DATA CENTER ASSETS - Compute; Computer-Servers; Neither OEM nor ASP",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 40000,
   "published_at": "2026-11-04T16:34:59+05:30",
   "closing_at": "2026-11-20T11:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10127290"
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8240589/CLM0010/ATC_23de81f6-3668-4d57-95fa1793789849635_po-bitsindri.pdf",
+      "page": 8
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261104",
+      "page": 9
+    },
+    {
+      "name": "Service Level Agreement",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/bidsla/102562002744100",
+      "page": 9
     }
   ],
   "tags": [
@@ -34,5 +49,302 @@
   ],
   "source_fetched_at": "2026-11-04T17:15:34.944Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-21T11:00:00+05:30",
+  "office": "B.i.t. Sindri",
+  "buyer_email": "po-bitsindri@jharkhandmail.gov.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 10,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 14,
+  "offer_validity": "120 (Days)",
+  "contract_period": "1 Year(s)",
+  "source_document_fetched_at": "2026-11-04T23:38:36.062885+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "1be7e84aa3b00aa82dc6684005a08a09f14b5809b062098794efa3704320294d",
+  "document_pages": 9,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 10 Lakh (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Sagram Hembrom",
+      "address": "828123,BIT Sindri, Sindri",
+      "quantity": 1,
+      "quantity_label": "Quantity of Data Center Assets",
+      "delivery_days": null,
+      "additional_requirements": "N/A"
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Major category of Assets",
+          "value": "Compute"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type Of Asset",
+          "value": "Computer-Servers"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Status of Annual Maintenance Service Provider",
+          "value": "Neither OEM nor ASP"
+        },
+        {
+          "group": "Core",
+          "parameter": "Make/Brand Of Assets",
+          "value": "As per item description"
+        },
+        {
+          "group": "Core",
+          "parameter": "Onsite Service Engineers Requirement",
+          "value": "As Indicated in Bid Document"
+        },
+        {
+          "group": "Core",
+          "parameter": "Basic Maintenance of OS, Office Suite, Drivers Update and Patch update on client machines",
+          "value": "Inclusive"
+        },
+        {
+          "group": "Core",
+          "parameter": "Periodicity of Preventive Maintenance Services",
+          "value": "Monthly"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE 25% : The buyer can increase or decrease the contract quantity or contract duration up to 25 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 25 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 25 percent with the consent of the service provider 2. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 3. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses"
+    },
+    {
+      "page": 5,
+      "text": "ATC Qualifying Requirement for the participation in the Compre hensive AMC of Data Centre at BIT Sindri I. Status: a) The bidder shall necessarily be a legal entity either in the form of a Limited Company or Private Limited Company registered under the Companies Act 2013. Certificate of Incorporation (CoI) co py must be submitted. Joint Venture / Consortium bidding will not be permitted. b) The bidder should be a registered firm in India. It must be registered with Income Tax, GST, PAN , Employees Provident Fund Organization (EPFO) and Employees State Insurance Corporation (E SIC) as applicable. Relevant proof in support shall be submitted. II. Certification: The bidder should have valid ISO 9001:2015, ISO/IEC 27001 (Management of Inf ormation Security of IT Infrastructure and Cyber Security) and ISO/IEC 20000-1 (IT Service Mana gement System) certification. Copies of the certificates must be submitted. Any foreign certificati on will not be considered. III. OEM Authorization: The core components of the Data Centre such as Servers and Cooled Rack System TM) are of Fujitsu and Rittal. Hence, the bidder must submit Tender specific OEM authorization/ MAF (Manu facturer Assistance Form) from Fujitsu and Rittal. This will help the Ins titute to avail better service in terms of Technical Support and RMA of defective products. Any bid without the same would be rejected. IV. Experience: The bidder must have installed or maintained Data Centre with onsite resource deployment in any large academic institution like II T, NIT, IIM, AIIMS, State Engg. College or any other large Centrally Fund ed Technical Institution (CFTI) or in any Public Sector Undertaking (PSU) like SAIL, BHEL, NTPC, etc. The bidder should produce the relevant Purc hase Order/ Work Order along with a Performance Certificate from the c ompetent authority and contact details (Contact Person, Contact numbe r and E-mail ID) of respective institution/ organization/ department. V. Technical Support Infrastructure & Resources: The bidder must have its office with Sales and Support setup in Eastern India (preferably in Kolkata or Ranchi/ Dhanbad) to provide quick and effic ient technical support as and when required. Relevant documents must be submitted. List of Equipment to be covered under AMC Sl. Particulars Make & Model Unit. Qty. Unified Storage Sol ution 1. Unified Storage Fujitsu Storage Eternus DX200S4 Disk System Nos. 1"
+    },
+    {
+      "page": 6,
+      "text": "2. SAN Switch Brocade G610 Nos. 1 Server Farm 1. Servers Fujitsu – Primergy 2530M5 Nos. 6 Server Farm Switch & Accessories 1. Server Farm Switch Extreme Summit x670G2-48z-4q Nos. 1 Cooling and Racks 1. Two 42U Rack subsyst Rittal Set 1 em with Metered and r edundant PDU 2. Redundant Cooling (N Rittal LCP DX Set 1 +1 redundancy) with Fire suppression & Acc ess Control System for above Cooled Rack Sy stem Manpower requirement"
+    },
+    {
+      "page": 7,
+      "text": "1. Resident Engineer at Man Power must have following qualifications and s Nos. 1 BIT Sindri kills: 1. Qualification : Graduate in Science/BCA 2. Skills: (i) Hardware & OS : · Good knowledge of Compu ter Peripherals. · Assembling & Disassembling the PC. · Troubleshooting of commo n functional problem. · Installation & configuration of Windows Operating Syst em (XP, Vista, Win7, Win8,w in10,win11,Ubantu) · Installing &Configuration of MS Office 2007,2010,2013 · Antivirus installation & con figure Quick Heal Total Seq urity Symantec, etc · Installation of any Software (ii) Server: · Installing &Configuration Windows server 2012/2016/ 2019 · Installation and conf iguring VMware, win dows server 2019, u buntu. (iii) Networking: · Can work in LAN & WAN. · Good knowledge of Networ k Cable, Connector & can p erform the cabling of UTP/S TP. · Installing & configuring 24 port manage and unmanag e switch · CCTV VMS"
+    },
+    {
+      "page": 8,
+      "text": ". 4. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 5. Forms of EMD and PBG Bidders can also submit the EMD with Account Payee Demand Draft in favour of Director BIT Sindri payable at Dhanbad . Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8240589",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10127290"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 20-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10127290"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 21-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10127290"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10127290"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Jharkhand",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10127290"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Higher And Techical Education Department Jharkhand",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10127290"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: N/a",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10127290"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: B.i.t. Sindri",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10127290"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :director-bitsindri@jharkhandmail.gov.in Buyer Email id: po-bitsindri@jharkhandmail.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10127290"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: ANNUAL MAINTENANCE SERVICE -DATA CENTER ASSETS - Compute; Computer-Servers; Neither OEM nor ASP",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10127290"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 1 Year(s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10127290"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 10 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10127290"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10127290"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10127290"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10127290"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10127290"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10127290"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 40000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10127290"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 40000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10127290"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10127290"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 14",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10127290"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Major category of Assets: Compute | Type Of Asset: Computer-Servers",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10127290"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10127290"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Status of Annual Maintenance Service Provider: Neither OEM nor ASP | Make/Brand Of Assets: As per item description | Onsite Service Engineers Requirement: As Indicated in Bid Document | Basic Maintenance of OS, Office Suite, Drivers Update and Patch update on client machines: Inclusive | Periodicity of Preventive Maintenance Services: Monthly",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10127290"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity of Data Center Assets | Additional Requirement: 1 | Sagram Hembrom | 828123,BIT Sindri, Sindri | 1 | N/A",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10127290"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE 25% : The buyer can increase or decrease the contract quantity or contract duration up to 25 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 25 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 25 percent with the consent of the service provider 2. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 3. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10127290"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "ATC Qualifying Requirement for the participation in the Compre hensive AMC of Data Centre at BIT Sindri I. Status: a) The bidder shall necessarily be a legal entity either in the form of a Limited Company or Private Limited Company registered under the Companies Act 2013. Certificate of Incorporation (CoI) co py must be submitted. Joint Venture / Consortium bidding will not be permitted. b) The bidder should be a registered firm in India. It must be registered with Income Tax, GST, PAN , Employees Provident Fund Organization (EPFO) and Employees State Insurance Corporation (E SIC) as applicable. Relevant proof in support shall be submitted. II. Certification: The bidder should have valid ISO 9001:2015, ISO/IEC 27001 (Management of Inf ormation Security of IT Infrastructure and Cyber Security) and ISO/IEC 20000-1 (IT Service Mana gement System) certification. Copies of the certificates must be submitted. Any foreign certificati on will not be considered. III. OEM Authorization: The core components of the Data Centre such as Servers and Cooled Rack System TM) are of Fujitsu and Rittal. Hence, the bidder must submit Tender specific OEM authorization/ MAF (Manu facturer Assistance Form) from Fujitsu and Rittal. This will help the Ins titute to avail better service in terms of Technical Support and RMA of defective products. Any bid without the same would be rejected. IV. Experience: The bidder must have installed or maintained Data Centre with onsite resource deployment in any large academic institution like II T, NIT, IIM, AIIMS, State Engg. College or any other large Centrally Fund ed Technical Institution (CFTI) or in any Public Sector Undertaking (PSU) like SAIL, BHEL, NTPC, etc. The bidder should produce the relevant Purc hase Order/ Work Order along with a Performance Certificate from the c ompetent authority and contact details (Contact Person, Contact numbe r and E-mail ID) of respective institution/ organization/ department. V. Technical Support Infrastructure & Resources: The bidder must have its office with Sales and Support setup in Eastern India (preferably in Kolkata or Ranchi/ Dhanbad) to provide quick and effic ient technical support as and when required. Relevant documents must be submitted. List of Equipment to be covered under AMC Sl. Particulars Make & Model Unit. Qty. Unified Storage Sol ution 1. Unified Storage Fujitsu Storage Eternus DX200S4 Disk System Nos. 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10127290"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "2. SAN Switch Brocade G610 Nos. 1 Server Farm 1. Servers Fujitsu – Primergy 2530M5 Nos. 6 Server Farm Switch & Accessories 1. Server Farm Switch Extreme Summit x670G2-48z-4q Nos. 1 Cooling and Racks 1. Two 42U Rack subsyst Rittal Set 1 em with Metered and r edundant PDU 2. Redundant Cooling (N Rittal LCP DX Set 1 +1 redundancy) with Fire suppression & Acc ess Control System for above Cooled Rack Sy stem Manpower requirement",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10127290"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "1. Resident Engineer at Man Power must have following qualifications and s Nos. 1 BIT Sindri kills: 1. Qualification : Graduate in Science/BCA 2. Skills: (i) Hardware & OS : · Good knowledge of Compu ter Peripherals. · Assembling & Disassembling the PC. · Troubleshooting of commo n functional problem. · Installation & configuration of Windows Operating Syst em (XP, Vista, Win7, Win8,w in10,win11,Ubantu) · Installing &Configuration of MS Office 2007,2010,2013 · Antivirus installation & con figure Quick Heal Total Seq urity Symantec, etc · Installation of any Software (ii) Server: · Installing &Configuration Windows server 2012/2016/ 2019 · Installation and conf iguring VMware, win dows server 2019, u buntu. (iii) Networking: · Can work in LAN & WAN. · Good knowledge of Networ k Cable, Connector & can p erform the cabling of UTP/S TP. · Installing & configuring 24 port manage and unmanag e switch · CCTV VMS",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10127290"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": ". 4. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 5. Forms of EMD and PBG Bidders can also submit the EMD with Account Payee Demand Draft in favour of Director BIT Sindri payable at Dhanbad . Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10127290"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

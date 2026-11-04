@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8232165",
   "title": "Tea Set (V2)",
   "description": "Tea Set (V2)",
-  "organisation": "Department of Financial Services",
-  "ministry": "Ministry of Finance",
-  "department": "Department of Financial Services",
+  "organisation": "Lic - Life Insurance Corporation Of India",
+  "ministry": "Ministry Of Finance",
+  "department": "Department Of Financial Services",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Tea Set (V2)",
   "quantity": 264,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-03T11:10:58+05:30",
   "closing_at": "2026-11-14T18:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10117872"
+    },
+    {
+      "name": "View Document",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/documentdownload/10117872/1793683948.pdf",
+      "page": 3
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/7HmcYw9yGCUrxdR9-6AC5q5XQ4-pIYRDy2mBVXYRHCk",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261103",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +54,248 @@
   ],
   "source_fetched_at": "2026-11-04T11:40:43.998Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-15T18:00:00+05:30",
+  "office": "Divisional Office Jeevan Prakash Tagor Marg Rajkot",
+  "buyer_email": "dv_gadoya@licindia.com",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-04T14:43:38.618339+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "c5ce7afebde97172585828d0bb42d57d0db1daf692e0f7f49aaeebb8e38ea371",
+  "document_pages": 7,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Gadoya Dharmesh Vrajnikant",
+      "address": "360001,L I C OF INDIA DIVISIONAL OFFICE JEEVAN PRAKASH TAGOR MARG RAJKOT 360001",
+      "quantity": 264,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Generic",
+          "parameter": "Tea Set Items",
+          "value": "Cups & Saucers, Cups & Teapot, Cups, Saucers & Teapot, Cups, Tray & Teapot, Cups, Saucers, Tea Pot, Milk/Cream Pot & Sugar Pot, Milk/Cream Pot & Sugar Pot"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Material of Tea Set (Excluding tray material)",
+          "value": "Ceramic"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Material of Tray",
+          "value": "NA (If no tray is included)"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Number of Cup in Tea Set",
+          "value": "2 pcs, 4 pcs, 6 pcs, 12 pcs, NA (If no Cup is included)"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Number of Saucer in Tea Set",
+          "value": "2 pcs, 4 pcs, 6 pcs, 12 pcs, NA (If no saucer is included)"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Number of Tea Pot in Tea Set",
+          "value": "1 pcs, NA (If no Tea Pot is included)"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Number of Milk/Cream Pot in Tea Set",
+          "value": "1 pcs, NA (If no Milk/Cream Pot is included)"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Number of Sugar Pot in Tea Set",
+          "value": "1 pcs, NA (If no Sugar Pot is included)"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Number of Tray in Tea Set",
+          "value": "1 pcs, NA (If no Tray is included)"
+        },
+        {
+          "group": "Dimension",
+          "parameter": "Nominal Capacity of Cup (In ml)",
+          "value": "120, 130, 140, 150, 160, 170, 180, 190, 200, 210, 220, 230, 240, 250, NA (If no Cup is included)"
+        },
+        {
+          "group": "Dimension",
+          "parameter": "Nominal Capacity of Tea Pot ( In Ltr )",
+          "value": "0.3, 0.4, 0.5, 0.75, 1, 1.5, NA (If no Tea Pot is included)"
+        },
+        {
+          "group": "Dimension",
+          "parameter": "Nominal Capacity of Milk/Cream Pot ( In Ltr )",
+          "value": "0.2, 0.25, 0.35, 0.5, 1, NA (If no Milk/Cream Pot is included)"
+        },
+        {
+          "group": "Dimension",
+          "parameter": "Nominal Capacity of Sugar Pot (In ml)",
+          "value": "100, 150, 200, 250, 300, NA (If no Sugar Pot is included)"
+        },
+        {
+          "group": "Dimension",
+          "parameter": "Diameter of Saucer ( in mm )",
+          "value": "100, 110, 120, 130, 140, 150, 160, 170, NA (If no saucer is included)"
+        },
+        {
+          "group": "Dimension",
+          "parameter": "Overall Length/Diameter of Tray ( in mm ) (Tolerance :- ± 10 mm)",
+          "value": "200, 220, 240, 260, 280, 300, 320, 340, 360, 380, 400, 420, 440, 460, 480, 500, NA (If no Tray is included)"
+        },
+        {
+          "group": "Dimension",
+          "parameter": "Overall Width of Tray ( in mm ) (Tolerance :- ± 10 mm)",
+          "value": "100, 120, 140, 160, 180, 200, 220, 240, 260, 280, 300, NA (If no Tray is included or round shape tray)"
+        },
+        {
+          "group": "Packaging",
+          "parameter": "Packaging",
+          "value": "Carboard box"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 3. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 4. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8232165",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117872"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 14-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117872"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 15-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117872"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117872"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Finance",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117872"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Financial Services",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117872"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Lic - Life Insurance Corporation Of India",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117872"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Divisional Office Jeevan Prakash Tagor Marg Rajkot",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117872"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :hod1.lic.gj@gembuyer.in Buyer Email id: dv_gadoya@licindia.com",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117872"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 264",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117872"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Tea Set (V2) (Q4) ( PAC Only )",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117872"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117872"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117872"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117872"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117872"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117872"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Tea Set Items: Cups & Saucers, Cups & Teapot, Cups, Saucers & Teapot, Cups, Tray & Teapot, Cups, Saucers, Tea Pot, Milk/Cream Pot & Sugar Pot, Milk/Cream Pot & Sugar Pot | Material of Tea Set (Excluding tray material): Ceramic | Material of Tray: NA (If no tray is included) | Number of Cup in Tea Set: 2 pcs, 4 pcs, 6 pcs, 12 pcs, NA (If no Cup is included) | Number of Saucer in Tea Set: 2 pcs, 4 pcs, 6 pcs, 12 pcs, NA (If no saucer is included) | Number of Tea Pot in Tea Set: 1 pcs, NA (If no Tea Pot is included) | Number of Milk/Cream Pot in Tea Set: 1 pcs, NA (If no Milk/Cream Pot is included) | Number of Sugar Pot in Tea Set: 1 pcs, NA (If no Sugar Pot is included) | Number of Tray in Tea Set: 1 pcs, NA (If no Tray is included) | Nominal Capacity of Cup (In ml): 120, 130, 140, 150, 160, 170, 180, 190, 200, 210, 220, 230, 240, 250, NA (If no Cup is included) | Nominal Capacity of Tea Pot ( In Ltr ): 0.3, 0.4, 0.5, 0.75, 1, 1.5, NA (If no Tea Pot is included) | Nominal Capacity of Milk/Cream Pot ( In Ltr ): 0.2, 0.25, 0.35, 0.5, 1, NA (If no Milk/Cream Pot is included) | Nominal Capacity of Sugar Pot (In ml): 100, 150, 200, 250, 300, NA (If no Sugar Pot is included) | Diameter of Saucer ( in mm ): 100, 110, 120, 130, 140, 150, 160, 170, NA (If no saucer is included) | Overall Length/Diameter of Tray ( in mm ) (Tolerance :- ± 10 mm): 200, 220, 240, 260, 280, 300, 320, 340, 360, 380, 400, 420, 440, 460, 480, 500, NA (If no Tray is included) | Overall Width of Tray ( in mm ) (Tolerance :- ± 10 mm): 100, 120, 140, 160, 180, 200, 220, 240, 260, 280, 300, NA (If no Tray is included or round shape tray) | Packaging: Carboard box",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117872"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Gadoya Dharmesh Vrajnikant | 360001,L I C OF INDIA DIVISIONAL OFFICE JEEVAN PRAKASH TAGOR MARG RAJKOT 360001 | 264 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117872"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 3. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 4. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117872"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

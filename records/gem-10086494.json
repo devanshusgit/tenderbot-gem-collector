@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8205110",
   "title": "Gas Analyser",
   "description": "Gas Analyser",
-  "organisation": "Animal Husbandry Department Uttar Pradesh",
-  "ministry": "",
+  "organisation": "N/a",
+  "ministry": "Uttar Pradesh",
   "department": "Animal Husbandry Department Uttar Pradesh",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Gas Analyser",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 50000,
   "published_at": "2026-11-03T14:08:43+05:30",
   "closing_at": "2026-11-17T14:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10086494"
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/SoOrBPNhBITfhcHOG2cLmZJWwW3sxbawB_yzCiIUeg8",
+      "page": 4
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8205110/CLM0010/atc_a9625b21-4263-49cb-95791793695007067_spoduvasu.pdf",
+      "page": 6
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261103",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +49,350 @@
   ],
   "source_fetched_at": "2026-11-04T11:46:54.487Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-18T14:00:00+05:30",
+  "office": "Duvasu Mathura",
+  "buyer_email": "spo.duvasu@upvetuniv.edu.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 5,
+  "oem_turnover_lakhs": 40,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "90 (Days)",
+  "estimated_bid_value": 1000000,
+  "source_document_fetched_at": "2026-11-04T14:39:25.057690+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "21442b3379a1b6a007ddac5d158895c75d0048649c665190e564615a2981ff6e",
+  "document_pages": 8,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 5 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 40 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 10 % (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Pawanjit Singh",
+      "address": "281001,U.P.Pt. Deen Dayal Upadhyay Pashu Chikitsa Vigyan Vishwavidhyalaya Evam Go Anusandhan Sansthan, Mathura",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Gases Measurements",
+          "parameter": "Leak Test",
+          "value": "Electronic, Manual, No"
+        },
+        {
+          "group": "Technical Parameter",
+          "parameter": "Technology Used to check the parameters",
+          "value": "NDIR, Electrochemical, Battery Based, RTD"
+        },
+        {
+          "group": "Technical Parameter",
+          "parameter": "Optional Sensors",
+          "value": "NOx, SOx, Temperature"
+        },
+        {
+          "group": "Technical Parameter",
+          "parameter": "Sample train",
+          "value": "Borosilicate Glass Impringer, NA"
+        },
+        {
+          "group": "Technical Parameter",
+          "parameter": "Number of Impringer",
+          "value": "1, 2, 3, 4, 5, 6"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "Parameters to check - CO,CO2,HC,O2",
+          "value": "Yes, No"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "Parameters to check - Nox, Sox",
+          "value": "Yes, No"
+        },
+        {
+          "group": "Features",
+          "parameter": "Optional Test Parameters",
+          "value": "AFR, Temperature, RPM, Lamda, Leak, NA"
+        },
+        {
+          "group": "Features",
+          "parameter": "Standard Accessories",
+          "value": "Sampling probe, Sampling tube, RS232 INTERFACE CABLE, BATTERY CABLE, SOFTWARE CD"
+        },
+        {
+          "group": "Features",
+          "parameter": "Inbuilt Printer",
+          "value": "Yes, No"
+        },
+        {
+          "group": "Features",
+          "parameter": "Buttons",
+          "value": "Soft Touch Keys, Push Buttons, NA"
+        },
+        {
+          "group": "Features",
+          "parameter": "Display Type",
+          "value": "LED, LCD, NA"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Separate window for displaying PEF/RPM/?/AFR/NOx & Oil temperature values",
+          "value": "Yes, No"
+        },
+        {
+          "group": null,
+          "parameter": "Confirms to ISO 3930 Standards",
+          "value": "Yes, No"
+        },
+        {
+          "group": null,
+          "parameter": "Display Optional Parameters",
+          "value": "Lambda, AFR, PEF, NA"
+        },
+        {
+          "group": null,
+          "parameter": "Handheld",
+          "value": "Yes, No"
+        },
+        {
+          "group": "Purchase Guidelines",
+          "parameter": "Warranty in years",
+          "value": "1, 2, 3, 5, 7, 10 (year)"
+        },
+        {
+          "group": "Purchase Guidelines",
+          "parameter": "Demonstration of equipment and training to be provided to buyer on demand",
+          "value": "Yes, No"
+        },
+        {
+          "group": "Purchase Guidelines",
+          "parameter": "Calibration tests Certificate",
+          "value": "Yes, No"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic"
+    },
+    {
+      "page": 6,
+      "text": "OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address DUVASU , Mathura DUVASU , Mathura DUVASU , Mathura DUVASU , Mathura DUVASU , Mathura . 3. Forms of EMD and PBG Bidders can also submit the EMD with Account Payee Demand Draft in favour of Manoj Kumar , Finance Officer , DUVASU , Mathura payable at Mathura . Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 4. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 5. Rate Contract Malicious Code Certificate: The seller should upload following certificate in the bid:- (a) This is to certify that the Hardware and the Software being offered, as part of the contract, does not contain Embedded Malicious code that would activate procedures to :- (i) Inhibit the desires and designed function of the equipment. (ii) Cause physical damage to the user or equipment during the exploitation. (iii) Tap information resident or transient in the equipment/network. (b) The firm will be considered to be in breach of the procurement contract, in case physical damage, loss of information or infringements related to copyright and Intellectual Property Right (IPRs) are caused due to activation of any such malicious code in embedded software. 6. Rate Contract Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked by Buyer’s Lab & the Results of the Lab will be the Sole Criteria for Acceptance of the Item. 7. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 8. Generic"
+    },
+    {
+      "page": 7,
+      "text": "Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 9. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Product as per as ATC Attached ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8205110",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10086494"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 17-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10086494"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 18-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10086494"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10086494"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Uttar Pradesh",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10086494"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Animal Husbandry Department Uttar Pradesh",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10086494"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: N/a",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10086494"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Duvasu Mathura",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10086494"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :duvasu.mt-up@gov.in Buyer Email id: spo.duvasu@upvetuniv.edu.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10086494"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10086494"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Gas Analyser (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10086494"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 5 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10086494"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 40 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10086494"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10086494"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10086494"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10086494"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10086494"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10086494"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 10 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10086494"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10086494"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 1000000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10086494"
+    },
+    {
+      "field": "emd_fee",
+      "page": 3,
+      "quote": "EMD Amount: 50000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10086494"
+    },
+    {
+      "field": "emd_required",
+      "page": 3,
+      "quote": "EMD Amount: 50000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10086494"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10086494"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Leak Test: Electronic, Manual, No | Technology Used to check the parameters: NDIR, Electrochemical, Battery Based, RTD | Optional Sensors: NOx, SOx, Temperature | Sample train: Borosilicate Glass Impringer, NA | Number of Impringer: 1, 2, 3, 4, 5, 6 | Parameters to check - CO,CO2,HC,O2: Yes, No | Parameters to check - Nox, Sox: Yes, No | Optional Test Parameters: AFR, Temperature, RPM, Lamda, Leak, NA | Standard Accessories: Sampling probe, Sampling tube, RS232 INTERFACE CABLE, BATTERY CABLE, SOFTWARE CD | Inbuilt Printer: Yes, No | Buttons: Soft Touch Keys, Push Buttons, NA | Display Type: LED, LCD, NA",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10086494"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Separate window for displaying PEF/RPM/?/AFR/NOx & Oil temperature values: Yes, No | Confirms to ISO 3930 Standards: Yes, No | Display Optional Parameters: Lambda, AFR, PEF, NA | Handheld: Yes, No | Warranty in years: 1, 2, 3, 5, 7, 10 (year) | Demonstration of equipment and training to be provided to buyer on demand: Yes, No | Calibration tests Certificate: Yes, No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10086494"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Pawanjit Singh | 281001,U.P.Pt. Deen Dayal Upadhyay Pashu Chikitsa Vigyan Vishwavidhyalaya Evam Go Anusandhan Sansthan, Mathura | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10086494"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10086494"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address DUVASU , Mathura DUVASU , Mathura DUVASU , Mathura DUVASU , Mathura DUVASU , Mathura . 3. Forms of EMD and PBG Bidders can also submit the EMD with Account Payee Demand Draft in favour of Manoj Kumar , Finance Officer , DUVASU , Mathura payable at Mathura . Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 4. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 5. Rate Contract Malicious Code Certificate: The seller should upload following certificate in the bid:- (a) This is to certify that the Hardware and the Software being offered, as part of the contract, does not contain Embedded Malicious code that would activate procedures to :- (i) Inhibit the desires and designed function of the equipment. (ii) Cause physical damage to the user or equipment during the exploitation. (iii) Tap information resident or transient in the equipment/network. (b) The firm will be considered to be in breach of the procurement contract, in case physical damage, loss of information or infringements related to copyright and Intellectual Property Right (IPRs) are caused due to activation of any such malicious code in embedded software. 6. Rate Contract Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked by Buyer’s Lab & the Results of the Lab will be the Sole Criteria for Acceptance of the Item. 7. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 8. Generic",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10086494"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 9. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Product as per as ATC Attached .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10086494"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

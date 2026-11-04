@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8174712",
   "title": "Online UPS (?10 KVA) With Battery Conforming To IS 16242 (Part 1)",
   "description": "Online UPS (?10 KVA) With Battery Conforming To IS 16242 (Part 1)",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "North East Frontier Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Online UPS (?10 KVA) With Battery Conforming To IS 16242 (Part 1)",
   "quantity": 289,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 41310,
   "published_at": "2026-11-03T13:21:41+05:30",
   "closing_at": "2026-11-17T14:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10050864"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/8OoqYvBJh-ngEA8BdPEfYqu8Jz-BkA2Wn0L-I07qGQQ",
+      "page": 5
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261103",
+      "page": 11
     }
   ],
   "tags": [
@@ -34,5 +49,305 @@
   ],
   "source_fetched_at": "2026-11-04T11:46:54.487Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-18T14:00:00+05:30",
+  "office": "North East Frontier Railway",
+  "buyer_email": "nayan.gogoi@gov.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 10,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 38,
+  "offer_validity": "90 (Days)",
+  "source_document_fetched_at": "2026-11-04T14:40:37.881544+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "67becd03f657ecb448bea679dd880d6462e33cdb96612419dfa1c3e5349f115a",
+  "document_pages": 12,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 10 Lakh (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: GeM verified turnover (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 20 % (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Techi Kumar",
+      "address": "786125,office of Divisional Railway Manager Tinsukia, Assam",
+      "quantity": 289,
+      "quantity_label": "Quantity",
+      "delivery_days": 45
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": "Performance Parameters",
+          "parameter": "Rating (in KVA)",
+          "value": "1"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Input Voltage (AC, 50 Hz)",
+          "value": "Single Phase, 160V - 260V"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Output Voltage (AC, 50 Hz)",
+          "value": "Single Phase, 230V±1%,"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Availability of Inbuilt Isolation Transformer",
+          "value": "Yes, No"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Minimum Overload Capacity of Online UPS",
+          "value": "120% of Rating in KVA for 10 minutes"
+        },
+        {
+          "group": "Battery/Backup Bank",
+          "parameter": "Type of Battery",
+          "value": "SMF-VRLA (Sealed Maintenance Free-Valve Regulated Lead Acid) / Stationary Lead Acid Batteries"
+        },
+        {
+          "group": "Battery/Backup Bank",
+          "parameter": "Backup Time",
+          "value": "30.0 (minute)"
+        },
+        {
+          "group": "Features",
+          "parameter": "Type of Mounting of Online UPS",
+          "value": "Floor Standing"
+        },
+        {
+          "group": "Features",
+          "parameter": "Ingress Protection",
+          "value": "IP20, IP21 Or higher"
+        },
+        {
+          "group": "Operating Conditions",
+          "parameter": "Operating Temperature Range (Lower Limit)",
+          "value": "- 5°C to 0°C"
+        },
+        {
+          "group": "Operating Conditions",
+          "parameter": "Operating Temperature Range (Upper Limit)",
+          "value": "35°C to 40°C, 45°C to 50°C"
+        },
+        {
+          "group": "Warranty And Reports",
+          "parameter": "Minimum Standard Warranty",
+          "value": "1.0 (year)"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 7,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 3. Generic Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of technical parameters, the bid is liable for rejection. 4. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid"
+    },
+    {
+      "page": 8,
+      "text": "5. Generic Products supplied shall be nontoxic and harmless to health. In the case of toxic materials, Material Safety Data Sheet may be furnished along with the material. 6. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 7. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 8. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 9. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 10. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): RITES Post Receipt Inspection at consignee site before acceptance of stores: Consignee 11. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 12. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 13. Warranty Warranty period of the supplied products shall be 3 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid."
+    },
+    {
+      "page": 9,
+      "text": "14. Warranty Timely Servicing / rectification of defects during warranty period: After having been notified of the defects / service requirement during warranty period, Seller has to complete the required Service / Rectification within 5 days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the Buyer. 15. Forms of EMD and PBG Bidders can also submit the EMD with Account Payee Demand Draft in favour of PFA/MLG/NFR payable at SBI,Maligaon . Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 16. Forms of EMD and PBG Bidders can also submit the EMD with Banker’s Cheque in favour of PFA/NFR/MLG payable at SBI,Maligaon . Bidder has to upload scanned copy / proof of the BC along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 17. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in favour of PFA/NFR/MLG payable at SBI,Maligaon . After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of contract. 18. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of PFA/MLG/NFR A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract. 19. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Bidders to submit EMD as per Railway Board guidelines & GeM GTC. Offers without EMD will be summarily rejected except for the exempted category as per the latest guidelines is"
+    },
+    {
+      "page": 10,
+      "text": "sued by the Ministry of Finance, Department of Public Procurement and GeM GTC. Bidders claiming for EMD exemption shall submit a Bid Security Declaration. Offers without a bid se curity declaration from the exempted category will be summarily rejected without making a back reference to the bidder. The bidder shall submit \"BID SECURING DECLARATION\" as per mentioned format, which is a s , \"I/we hereby understand and accept that if l/we withdraw or modify my/our bids during t he period of validity, or if we are awarded the contract and on being called upon to submit t he performance security/ security deposit, fail to submit the performance security /security deposit before the deadline defined in the request for bid document/notice inviting tender, I/we shall be debarred from exemption of submitting bid security/ Earnest money deposit a nd performance security / security deposit for a period of 6(SIX) month s, from the date l/w e are declared disqualified from exemption of EMD/SD for all tenders for procurement of go ods issued by any unit of Indian railways published during this period\". 2. The tendered material is required for the consignee Sr.DCM/TSK located at DRM Office, Tinsukia, in the state of Assam. Offers with deviation to the delivery location will be summa rily rejected and no representation in this regard will be entertained. 3. Status of bidders on GeM's website will be considered as valid on the date of tender ope ning. In case GeM's website down grade the bidder after opening of the tender the latest st atus of the bidder at the time of taking final decision will be considered. 4. Latest IRS terms and conditions issued by Railway Board, Ministry of Railways are applic able. In case of contradiction between the GEM GTC and IRS terms and conditions of contra ct on particular terms, the GEM GTC will prevail for procurement on GEM platform for those terms. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8174712",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10050864"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 17-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10050864"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 18-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10050864"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10050864"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10050864"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10050864"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: North East Frontier Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10050864"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: North East Frontier Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10050864"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :ranjitsethi.1970@gov.in Buyer Email id: nayan.gogoi@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10050864"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 289",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10050864"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Online UPS (?10 KVA) With Battery Conforming To IS 16242 (Part 1) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10050864"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 10 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10050864"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: GeM verified turnover",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10050864"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10050864"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10050864"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10050864"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 20 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10050864"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10050864"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 41310",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10050864"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 41310",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10050864"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10050864"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 38",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10050864"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10050864"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Rating (in KVA): 1 | Input Voltage (AC, 50 Hz): Single Phase, 160V - 260V | Output Voltage (AC, 50 Hz): Single Phase, 230V±1%, | Availability of Inbuilt Isolation Transformer: Yes, No | Minimum Overload Capacity of Online UPS: 120% of Rating in KVA for 10 minutes | Type of Battery: SMF-VRLA (Sealed Maintenance Free-Valve Regulated Lead Acid) / Stationary Lead Acid Batteries | Backup Time: 30.0 (minute) | Type of Mounting of Online UPS: Floor Standing | Ingress Protection: IP20, IP21 Or higher | Operating Temperature Range (Lower Limit): - 5°C to 0°C | Operating Temperature Range (Upper Limit): 35°C to 40°C, 45°C to 50°C | Minimum Standard Warranty: 1.0 (year)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10050864"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Techi Kumar | 786125,office of Divisional Railway Manager Tinsukia, Assam | 289 | 45",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10050864"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 3. Generic Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of technical parameters, the bid is liable for rejection. 4. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10050864"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "5. Generic Products supplied shall be nontoxic and harmless to health. In the case of toxic materials, Material Safety Data Sheet may be furnished along with the material. 6. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 7. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 8. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 9. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 10. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): RITES Post Receipt Inspection at consignee site before acceptance of stores: Consignee 11. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 12. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 13. Warranty Warranty period of the supplied products shall be 3 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10050864"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "14. Warranty Timely Servicing / rectification of defects during warranty period: After having been notified of the defects / service requirement during warranty period, Seller has to complete the required Service / Rectification within 5 days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the Buyer. 15. Forms of EMD and PBG Bidders can also submit the EMD with Account Payee Demand Draft in favour of PFA/MLG/NFR payable at SBI,Maligaon . Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 16. Forms of EMD and PBG Bidders can also submit the EMD with Banker’s Cheque in favour of PFA/NFR/MLG payable at SBI,Maligaon . Bidder has to upload scanned copy / proof of the BC along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 17. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in favour of PFA/NFR/MLG payable at SBI,Maligaon . After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of contract. 18. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of PFA/MLG/NFR A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract. 19. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Bidders to submit EMD as per Railway Board guidelines & GeM GTC. Offers without EMD will be summarily rejected except for the exempted category as per the latest guidelines is",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10050864"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "sued by the Ministry of Finance, Department of Public Procurement and GeM GTC. Bidders claiming for EMD exemption shall submit a Bid Security Declaration. Offers without a bid se curity declaration from the exempted category will be summarily rejected without making a back reference to the bidder. The bidder shall submit \"BID SECURING DECLARATION\" as per mentioned format, which is a s , \"I/we hereby understand and accept that if l/we withdraw or modify my/our bids during t he period of validity, or if we are awarded the contract and on being called upon to submit t he performance security/ security deposit, fail to submit the performance security /security deposit before the deadline defined in the request for bid document/notice inviting tender, I/we shall be debarred from exemption of submitting bid security/ Earnest money deposit a nd performance security / security deposit for a period of 6(SIX) month s, from the date l/w e are declared disqualified from exemption of EMD/SD for all tenders for procurement of go ods issued by any unit of Indian railways published during this period\". 2. The tendered material is required for the consignee Sr.DCM/TSK located at DRM Office, Tinsukia, in the state of Assam. Offers with deviation to the delivery location will be summa rily rejected and no representation in this regard will be entertained. 3. Status of bidders on GeM's website will be considered as valid on the date of tender ope ning. In case GeM's website down grade the bidder after opening of the tender the latest st atus of the bidder at the time of taking final decision will be considered. 4. Latest IRS terms and conditions issued by Railway Board, Ministry of Railways are applic able. In case of contradiction between the GEM GTC and IRS terms and conditions of contra ct on particular terms, the GEM GTC will prevail for procurement on GEM platform for those terms. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10050864"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

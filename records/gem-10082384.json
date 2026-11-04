@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8201649",
   "title": "Stationary Valve Regulated Lead Acid Batteries (V3) Conforming To IS 15549",
   "description": "Stationary Valve Regulated Lead Acid Batteries (V3) Conforming To IS 15549",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "South Central Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Stationary Valve Regulated Lead Acid Batteries (V3) Conforming To IS 15549",
   "quantity": 12,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-03T12:57:45+05:30",
   "closing_at": "2026-11-16T13:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10082384"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/OXYjyYB-Yfe9xPyt2NcVLfAXr4FS0Ew-snJjS-9Rvao",
+      "page": 3
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8201649/CLM0010/ANNEXURE_592f026a-5980-4780-8ee81793008620606_srdmmhybdivn.pdf",
+      "page": 6
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261103",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +54,236 @@
   ],
   "source_fetched_at": "2026-11-04T11:42:59.822Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-17T13:00:00+05:30",
+  "office": "Principal Chief Material Manager Secunderabad",
+  "buyer_email": "srdmm@hyb.railnet.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "90 (Days)",
+  "estimated_bid_value": 210000,
+  "source_document_fetched_at": "2026-11-04T14:41:30.235340+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "e70db30634247f9d5aa635151d02fe94c2941b2d7130af33a4aa837592d9b5de",
+  "document_pages": 8,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 20 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "B V L Narasimha Rao",
+      "address": "500025,O/o SENIOR SECTION ENGINEER/PUMPS/HYB/SC, BESIDES RAIL NILAYAM, NEAR RRC GROUNDS, SECUNDERABAD-500025, HYDERABAD,SOUTH CENTRAL RAILWAY, TELANGANA,MOBILE NO.9701372321",
+      "quantity": 12,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Construction",
+          "parameter": "Nominal Battery Voltage",
+          "value": "12.0 (Volt)"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Battery Capacity at 10-h Rate [C 10] (in Ah)",
+          "value": "180"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Material of Container",
+          "value": "Polypropylene co-polymer (PPCP)"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Batteries Suitable For",
+          "value": "Float Application"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms."
+    },
+    {
+      "page": 5,
+      "text": "2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Additional Instructions : Bidders shall follow and quote according to the detailed descript ion of the tendered item strictly as per additional specification parameters. In case of any a mbiguity with regard to additional specification parameters and golden/non-golden paramet ers, the additional specification parameters will supersede/prevail. Special Eligibility criteria : (I) Past Performance Clause : This clause is in supersession of Past performance criteria in c lause (3) of the bid document. Past performance criterion shall be evaluated as per followin g condition. The tenderer with past performance of satisfactory execution of contracts to SC Rail way, o r Other Zonal Railways/Pus/Central Govt/State Govt/PSUs for supply of the same / similar ite ms (Similar item means Any Capacity of Batteries or Size ) for a quantity of 20 perce nt or more of tendered quantity against a single con tract during last three years prior to, a nd excluding tender opening date may be considered as responsive to SC Railways require ments for placement of bulk and regular order The onus of submission of requisite supply p erformance documents i.e CRAC/CRN/Receipt Notes/Proof of acceptance of material by con signee along with concerned Purchase order shall be on the bidder. (II) Submission of Undertaking for Truthfulness :The tenderers shall submit a copy of certificate stating that all their statements/ documents submitted along with the bid are tru e and factual. Standard format of certificate to be submitted by the bid der is enclosed as A nnexure-l. Non submission of above certificate by the bidder shall result in summary rejecti on of his/ their bid. It shall be mandatorily incumbent upon the tenderer to identify, state a nd submit the supporting documents duly self-attested / digitally signed by which they/ he i s qualifying the Qualifying Criteria mentioned in the Tender Document. Note : Post tender opening no new documents (which are not part of original bid offer uploa ded by bidder before opening of GeM bid) will be considered for bid evaluation. Bidder's offe r is summarily to be rejected if they don't upload any of the certificates / documents sought in the Eligibility criteria, Bid document, Buyer Added Bid Specific Additional Terms and Cond itions and Corrigendum if any. 1.Special Conditions: I) GST : Please refer to Clause 8 of GeM GTC hyperlinked with the bid document. The buy er shall raise an invoice for S.C. Railway (Telangana) GST NO: 36AAAGM0289C1ZK for Telanga na based consignee and S.C. Railway (AP) GST No: 37AAAGM0289C1ZI for Andhra Pradesh b ased Consignee. II) Delivery Period and Extension Of Delivery : Time is the essence of Contract. Please refer to Clause 15 of GeM GTC hyperlinked with bid. Bidder shall adhere to the timeline men tioned in bid / contract for supply of goods."
+    },
+    {
+      "page": 6,
+      "text": "III) Failure of Contract & Recoverable Damages : If the Seller fails to supply goods as p er GeM contract within Delivery period or extended delivery period or at any time repudiate s the contract before the expiry of delivery period, Buyer reserves the right to cancel the Ge M contract for unsupplied portion, record adverse performance of the bidder for taking an a ppropriate administrative action (a) through Incident Management of GeM (b) rejection of of fer on account of bad performance in ensuing bids invited by buyer, (c) forfeit the security d eposit (ePBG) or initiate recoveries outstanding for an amount equivalent to applicable Secu rity Deposit for undelivered portion. (d) In severable contracts, in case of failure by the selle r to meet deliveries for any lot, Railways may cancel the contract for defaulted part by forfei ting SD commensurate with that lot or initiating recoveries for an amount equivalent to Secu rity Deposit /PBG for the undelivered portion. IV) Removal of Rejected Goods: Bidders shall refer Clause 11(iv) of GeM GTC hyperlink e d with bid. It is to mention that if Seller fails to lift the rejected stores within 10 working days of rejection CRAC, then they can lift within a further 15 days after payment of applicable Gr ound rent. Beyond 25 working days ( initial 10 working days rent free period and further 15 days with ground rent), Consignee shall have the right to dispose of such rejected goods at t he risk and cost of the seller. No claim of any form from the seller shall be entertained o n this account by the buyer. Buyer shall take action as per Clause 6 of ATC mentioned in the b id. V) Payment Terms: 100 percent payment will be made after successful installation and ac ceptance of goods by consignee. Part Inspection/ part supply/part payment may be allowed. 03) Mandatory Documents to be uploaded with the offer: a) Past performance documents b) OEM Authorization Certificate . 3. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 4. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8201649",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10082384"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 16-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10082384"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 17-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10082384"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10082384"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10082384"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10082384"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: South Central Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10082384"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Principal Chief Material Manager Secunderabad",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10082384"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :dycmmic@scr.railnet.gov.in Buyer Email id: srdmm@hyb.railnet.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10082384"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 12",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10082384"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Stationary Valve Regulated Lead Acid Batteries (V3) Conforming To IS 15549 (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10082384"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10082384"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10082384"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10082384"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 20 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10082384"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10082384"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 210000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10082384"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10082384"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10082384"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Nominal Battery Voltage: 12.0 (Volt) | Battery Capacity at 10-h Rate [C 10] (in Ah): 180 | Material of Container: Polypropylene co-polymer (PPCP)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10082384"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Batteries Suitable For: Float Application",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10082384"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | B V L Narasimha Rao | 500025,O/o SENIOR SECTION ENGINEER/PUMPS/HYB/SC, BESIDES RAIL NILAYAM, NEAR RRC GROUNDS, SECUNDERABAD-500025, HYDERABAD,SOUTH CENTRAL RAILWAY, TELANGANA,MOBILE NO.9701372321 | 12 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10082384"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10082384"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Additional Instructions : Bidders shall follow and quote according to the detailed descript ion of the tendered item strictly as per additional specification parameters. In case of any a mbiguity with regard to additional specification parameters and golden/non-golden paramet ers, the additional specification parameters will supersede/prevail. Special Eligibility criteria : (I) Past Performance Clause : This clause is in supersession of Past performance criteria in c lause (3) of the bid document. Past performance criterion shall be evaluated as per followin g condition. The tenderer with past performance of satisfactory execution of contracts to SC Rail way, o r Other Zonal Railways/Pus/Central Govt/State Govt/PSUs for supply of the same / similar ite ms (Similar item means Any Capacity of Batteries or Size ) for a quantity of 20 perce nt or more of tendered quantity against a single con tract during last three years prior to, a nd excluding tender opening date may be considered as responsive to SC Railways require ments for placement of bulk and regular order The onus of submission of requisite supply p erformance documents i.e CRAC/CRN/Receipt Notes/Proof of acceptance of material by con signee along with concerned Purchase order shall be on the bidder. (II) Submission of Undertaking for Truthfulness :The tenderers shall submit a copy of certificate stating that all their statements/ documents submitted along with the bid are tru e and factual. Standard format of certificate to be submitted by the bid der is enclosed as A nnexure-l. Non submission of above certificate by the bidder shall result in summary rejecti on of his/ their bid. It shall be mandatorily incumbent upon the tenderer to identify, state a nd submit the supporting documents duly self-attested / digitally signed by which they/ he i s qualifying the Qualifying Criteria mentioned in the Tender Document. Note : Post tender opening no new documents (which are not part of original bid offer uploa ded by bidder before opening of GeM bid) will be considered for bid evaluation. Bidder's offe r is summarily to be rejected if they don't upload any of the certificates / documents sought in the Eligibility criteria, Bid document, Buyer Added Bid Specific Additional Terms and Cond itions and Corrigendum if any. 1.Special Conditions: I) GST : Please refer to Clause 8 of GeM GTC hyperlinked with the bid document. The buy er shall raise an invoice for S.C. Railway (Telangana) GST NO: 36AAAGM0289C1ZK for Telanga na based consignee and S.C. Railway (AP) GST No: 37AAAGM0289C1ZI for Andhra Pradesh b ased Consignee. II) Delivery Period and Extension Of Delivery : Time is the essence of Contract. Please refer to Clause 15 of GeM GTC hyperlinked with bid. Bidder shall adhere to the timeline men tioned in bid / contract for supply of goods.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10082384"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "III) Failure of Contract & Recoverable Damages : If the Seller fails to supply goods as p er GeM contract within Delivery period or extended delivery period or at any time repudiate s the contract before the expiry of delivery period, Buyer reserves the right to cancel the Ge M contract for unsupplied portion, record adverse performance of the bidder for taking an a ppropriate administrative action (a) through Incident Management of GeM (b) rejection of of fer on account of bad performance in ensuing bids invited by buyer, (c) forfeit the security d eposit (ePBG) or initiate recoveries outstanding for an amount equivalent to applicable Secu rity Deposit for undelivered portion. (d) In severable contracts, in case of failure by the selle r to meet deliveries for any lot, Railways may cancel the contract for defaulted part by forfei ting SD commensurate with that lot or initiating recoveries for an amount equivalent to Secu rity Deposit /PBG for the undelivered portion. IV) Removal of Rejected Goods: Bidders shall refer Clause 11(iv) of GeM GTC hyperlink e d with bid. It is to mention that if Seller fails to lift the rejected stores within 10 working days of rejection CRAC, then they can lift within a further 15 days after payment of applicable Gr ound rent. Beyond 25 working days ( initial 10 working days rent free period and further 15 days with ground rent), Consignee shall have the right to dispose of such rejected goods at t he risk and cost of the seller. No claim of any form from the seller shall be entertained o n this account by the buyer. Buyer shall take action as per Clause 6 of ATC mentioned in the b id. V) Payment Terms: 100 percent payment will be made after successful installation and ac ceptance of goods by consignee. Part Inspection/ part supply/part payment may be allowed. 03) Mandatory Documents to be uploaded with the offer: a) Past performance documents b) OEM Authorization Certificate . 3. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 4. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10082384"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

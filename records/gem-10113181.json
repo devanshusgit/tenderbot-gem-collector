@@ -6,7 +6,7 @@
   "title": "Register (V2)",
   "description": "Register (V2)",
   "organisation": "Bangalore Metro Rail Corporation Limited",
-  "ministry": "Ministry of Housing & Urban Affairs (MoHUA)",
+  "ministry": "Ministry Of Housing & Urban Affairs (mohua)",
   "department": "Bangalore Metro Rail Corporation Limited",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Register (V2)",
   "quantity": 1000,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-02T12:24:22+05:30",
   "closing_at": "2026-11-13T18:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10113181"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/COO7GODsEL1b3rcI6LIAUAvQAvLyux9qB2ArF7NEhok",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261102",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +49,218 @@
   ],
   "source_fetched_at": "2026-11-04T03:27:54.387Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-14T18:00:00+05:30",
+  "office": "Bangalore Metro Rail Corporation Limited Oandm",
+  "buyer_email": "buycon12.bmrcl.ka@gembuyer.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "90 (Days)",
+  "source_document_fetched_at": "2026-11-04T07:14:41.968377+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "22cecf9371d231bd0dcfa59fb2e52554d0135ec6765ed7d75f679600cb769e81",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Chandrashekara B",
+      "address": "560038,BMRCL Metro Rail Depot , BMRCL DCOS,Old Madras Road, Near NGEF Bus Stop Baiyappanahalli, Bangalore - 560038",
+      "quantity": 1000,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "GENERAL REQUIREMENT",
+          "parameter": "Product Type",
+          "value": "Register"
+        },
+        {
+          "group": "GENERAL REQUIREMENT",
+          "parameter": "Register type",
+          "value": "Acknowledgement (Peon) book, Attendance register, Service book register, Dispatch register, Pay bill register, Cash book register, Stock register, Gate Register, Accession register, Minute register, Log Book, Ledger Book, Contingent Register, OPD Register, Medical Bill Register, Plain Register, Bill Register, Receipt Register, Pension Payment Order"
+        },
+        {
+          "group": "GENERAL REQUIREMENT",
+          "parameter": "Inner paper specification confirming as per Is 1848 (Part 1)",
+          "value": "Account Book paper, Azure Laid paper, Bond paper, Cream laid and cream wove/printing white/printing coloured/printing offset paper, Printing maplitho paper"
+        },
+        {
+          "group": "GENERAL REQUIREMENT",
+          "parameter": "Number of pages (Excluding Cover)",
+          "value": "41-60, 61-80, 81-100, 101-120, 121-150, 151-200, 201-250, 251-300, 301-350, 351-400, 21-40"
+        },
+        {
+          "group": "GENERAL REQUIREMENT",
+          "parameter": "Binding of Register",
+          "value": "Softcover Binding, Hardcover Binding, Saddle Stitching/Stapple Binding, Sewn Binding, Cloth Binding"
+        },
+        {
+          "group": "GRAMMAGE AND DIMENSION",
+          "parameter": "Grammage (substance) of Paper (in GSM)",
+          "value": "60, 75, 90"
+        },
+        {
+          "group": "GRAMMAGE AND DIMENSION",
+          "parameter": "Minimum Length of Register (in mm)",
+          "value": "148, 176, 210, 250, 297, 420, 317, 320, 490 (millimeter)"
+        },
+        {
+          "group": "GRAMMAGE AND DIMENSION",
+          "parameter": "Minimum Width of Register (in mm)",
+          "value": "148, 176, 210, 250, 297, 420, 190, 195, 380 (millimeter)"
+        },
+        {
+          "group": "GRAMMAGE AND DIMENSION",
+          "parameter": "Grammage (substance) of cover board (in GSM)",
+          "value": "110, 130, 150, 175, 200, 225, 275, 325"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 3. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses DELIVERY LOCATION;- BAIYAPPANAHALLI METRO DEPOT"
+    },
+    {
+      "page": 5,
+      "text": "BIDDER MUST VISIT BMRCL SAMPLE VERIFICATION AT BYPH METRO DEPOT. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8228202",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113181"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 13-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113181"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 14-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113181"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113181"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Housing & Urban Affairs (mohua)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113181"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Bangalore Metro Rail Corporation Limited",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113181"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Bangalore Metro Rail Corporation Limited",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113181"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Bangalore Metro Rail Corporation Limited Oandm",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113181"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :con21.bmrcl.ka@gembuyer.in Buyer Email id: buycon12.bmrcl.ka@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113181"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113181"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Register (V2) (Q4)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113181"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113181"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113181"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113181"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113181"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113181"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Product Type: Register | Register type: Acknowledgement (Peon) book, Attendance register, Service book register, Dispatch register, Pay bill register, Cash book register, Stock register, Gate Register, Accession register, Minute register, Log Book, Ledger Book, Contingent Register, OPD Register, Medical Bill Register, Plain Register, Bill Register, Receipt Register, Pension Payment Order | Inner paper specification confirming as per Is 1848 (Part 1): Account Book paper, Azure Laid paper, Bond paper, Cream laid and cream wove/printing white/printing coloured/printing offset paper, Printing maplitho paper | Number of pages (Excluding Cover): 41-60, 61-80, 81-100, 101-120, 121-150, 151-200, 201-250, 251-300, 301-350, 351-400, 21-40 | Binding of Register: Softcover Binding, Hardcover Binding, Saddle Stitching/Stapple Binding, Sewn Binding, Cloth Binding | Grammage (substance) of Paper (in GSM): 60, 75, 90 | Minimum Length of Register (in mm): 148, 176, 210, 250, 297, 420, 317, 320, 490 (millimeter) | Minimum Width of Register (in mm): 148, 176, 210, 250, 297, 420, 190, 195, 380 (millimeter) | Grammage (substance) of cover board (in GSM): 110, 130, 150, 175, 200, 225, 275, 325",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113181"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Chandrashekara B | 560038,BMRCL Metro Rail Depot , BMRCL DCOS,Old Madras Road, Near NGEF Bus Stop Baiyappanahalli, Bangalore - 560038 | 1000 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113181"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 3. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses DELIVERY LOCATION;- BAIYAPPANAHALLI METRO DEPOT",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113181"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "BIDDER MUST VISIT BMRCL SAMPLE VERIFICATION AT BYPH METRO DEPOT. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113181"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

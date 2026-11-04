@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8221878",
   "title": "Goods Transport Service – Per Trip based  Service - Furnace Oil; Oil/Gas Tanker Truck; Medium Tan",
   "description": "Goods Transport Service – Per Trip based  Service - Furnace Oil; Oil/Gas Tanker Truck; Medium Tanker",
-  "organisation": "Department of Space",
-  "ministry": "Department of Space",
-  "department": "Department of Space",
+  "organisation": "Indian Space Research Organization",
+  "ministry": "Department Of Space",
+  "department": "Department Of Space",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Goods Transport Service – Per Trip based  Service - Furnace Oil; Oil/Gas Tanker Truck; Medium Tan",
   "quantity": 25,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-03T09:22:57+05:30",
   "closing_at": "2026-11-14T17:00:00+05:30",
   "status": "active",
@@ -27,6 +27,31 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10105674"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": ":1793358174.pdf",
+      "url": "https://bidplus.gem.gov.in/resources/upload_nas/OctQ426/bidding/biddoc/bid-10105674/1793358174.pdf",
+      "page": 3
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8221878/CLM0012/3581_Spec_60b142e8-c7c7-4cc6-be9f1793358287643_ppecapep.pdf",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261103",
+      "page": 6
+    },
+    {
+      "name": "Service Level Agreement",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/bidsla/102124646994276",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +59,240 @@
   ],
   "source_fetched_at": "2026-11-04T11:37:49.181Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-15T17:00:00+05:30",
+  "office": "Vikram Sarabhai Space Centre",
+  "buyer_email": "ps_apep_pur@vssc.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "90 (Days)",
+  "contract_period": "1 Year(s)",
+  "source_document_fetched_at": "2026-11-04T14:51:32.550304+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "6b42f9ad31e61f18ae0573effd708022294e3e3b6eda112baa53b298a24a78d6",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Jayesh Jayan K",
+      "address": "683112,APEP STORES, APEP, ALUVA",
+      "quantity": 25,
+      "quantity_label": "Number of trips(Pickup and drop to specified location)",
+      "delivery_days": null,
+      "additional_requirements": "N/A"
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Nature of Goods",
+          "value": "Furnace Oil"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type of Truck",
+          "value": "Oil/Gas Tanker Truck"
+        },
+        {
+          "group": "Core",
+          "parameter": "Size / Weight of vehicle",
+          "value": "Medium Tanker"
+        },
+        {
+          "group": "Core",
+          "parameter": "Area of Operation",
+          "value": "Plains"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Loading",
+          "value": "NA"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Unloading",
+          "value": "NA"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Tracking System (GPS)",
+          "value": "NA"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Transit Insurance",
+          "value": "NA"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Additional Details",
+          "parameter": "Start Location Zipcode",
+          "value": "682003"
+        },
+        {
+          "group": "Additional Details",
+          "parameter": "Drop Location Zipcode",
+          "value": "683112"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE 25% : The buyer can increase or decrease the contract quantity or contract duration up to 25 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 25 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 25 percent with the consent of the service provider 2. Buyer Added Bid Specific Scope Of Work(SOW) File Attachment Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8221878",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105674"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 14-11-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105674"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 15-11-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105674"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105674"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Department Of Space",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105674"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Space",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105674"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Space Research Organization",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105674"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Vikram Sarabhai Space Centre",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105674"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :hps@vssc.gov.in Buyer Email id: ps_apep_pur@vssc.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105674"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Goods Transport Service – Per Trip based Service - Furnace Oil; Oil/Gas Tanker Truck; Medium Tanker",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105674"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 1 Year(s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105674"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105674"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105674"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105674"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105674"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105674"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105674"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Nature of Goods: Furnace Oil | Type of Truck: Oil/Gas Tanker Truck | Size / Weight of vehicle: Medium Tanker | Area of Operation: Plains | Loading: NA | Unloading: NA | Tracking System (GPS): NA | Transit Insurance: NA",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105674"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Start Location Zipcode: 682003 | Drop Location Zipcode: 683112",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105674"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Number of trips(Pickup and drop to specified location) | Additional Requirement: 1 | Jayesh Jayan K | 683112,APEP STORES, APEP, ALUVA | 25 | N/A",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105674"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE 25% : The buyer can increase or decrease the contract quantity or contract duration up to 25 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 25 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 25 percent with the consent of the service provider 2. Buyer Added Bid Specific Scope Of Work(SOW) File Attachment Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105674"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 25",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

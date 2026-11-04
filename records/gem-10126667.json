@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8240015",
   "title": "Grease Graphite(V2) Conforming to IS 508",
   "description": "Grease Graphite(V2) Conforming to IS 508",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "Northern Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Grease Graphite(V2) Conforming to IS 508",
   "quantity": 1200,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-04T15:26:59+05:30",
   "closing_at": "2026-11-16T09:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10126667"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/u5cfrFRTcuaB_lFMjSUckXjsIT6dMtuOAfhj19eHBhA",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261104",
+      "page": 5
     }
   ],
   "tags": [
@@ -34,5 +49,178 @@
   ],
   "source_fetched_at": "2026-11-04T11:41:22.935Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-17T09:00:00+05:30",
+  "office": "Northern Railway",
+  "buyer_email": "ammamv@nr.railnet.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "60 (Days)",
+  "source_document_fetched_at": "2026-11-04T14:12:44.339745+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "209ab071553480ed79b659bc514286e2dc81c147bc1fdc7c4d8dd07ea82b1c56",
+  "document_pages": 5,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 3,
+      "consignee": "Sandeep Singh",
+      "address": "226005,OFFICE OF DY CMM GENERAL STORE DEPOT ALAMBAGH LUCKNOW",
+      "quantity": 1200,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "General Requirements",
+          "parameter": "Grades of Grease Graphite",
+          "value": "Grade 3"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 3,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Inspection"
+    },
+    {
+      "page": 4,
+      "text": "Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): NA Post Receipt Inspection at consignee site before acceptance of stores: Consignee"
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8240015",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126667"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 16-11-2026 09:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126667"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 17-11-2026 09:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126667"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 60 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126667"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126667"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126667"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Northern Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126667"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Northern Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126667"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :dycmmm@nr.railnet.gov.in Buyer Email id: ammamv@nr.railnet.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126667"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1200",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126667"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Grease Graphite(V2) Conforming to IS 508 (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126667"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126667"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126667"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126667"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126667"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126667"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Grades of Grease Graphite: Grade 3",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126667"
+    },
+    {
+      "field": "consignees",
+      "page": 3,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Sandeep Singh | 226005,OFFICE OF DY CMM GENERAL STORE DEPOT ALAMBAGH LUCKNOW | 1200 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126667"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 3,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Inspection",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126667"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): NA Post Receipt Inspection at consignee site before acceptance of stores: Consignee",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126667"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

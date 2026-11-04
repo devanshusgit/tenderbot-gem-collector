@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8220724",
   "title": "Diesel Power Generator (V2)",
   "description": "Diesel Power Generator (V2)",
-  "organisation": "Basic Education Department Uttar Pradesh",
-  "ministry": "",
+  "organisation": "N/a",
+  "ministry": "Uttar Pradesh",
   "department": "Basic Education Department Uttar Pradesh",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Diesel Power Generator (V2)",
   "quantity": 24,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 36000,
   "published_at": "2026-11-03T12:49:59+05:30",
   "closing_at": "2026-11-13T21:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10104382"
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/LuJssz3HR5lbT8BCSDXXIt8k1RaO5lw4p_DAjWfMxCM",
+      "page": 4
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8220724/CLM0010/getset_042fd702-c391-4ee4-81731793433148847_bsa.si-up.pdf",
+      "page": 6
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261103",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +49,254 @@
   ],
   "source_fetched_at": "2026-11-04T03:29:03.650Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-14T21:00:00+05:30",
+  "office": "Director Basic Education, Lucknow",
+  "buyer_email": "bsa.si-up@gov.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 18,
+  "oem_turnover_lakhs": 29,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 60,
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-04T06:36:10.602622+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "a8d629e3188fa237eb14441e68d219997ee99d260f7ec39742ebdcbd8a3e1482",
+  "document_pages": 7,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 18 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 29 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Gorakhnath Patel",
+      "address": "261001,BSA OFFICE SITAPUR NEAR GIC CAMPUS BUTS GANJ",
+      "quantity": 24,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Installation Configuration",
+          "parameter": "Installation Type",
+          "value": "Skid Mounted, Trailer Mounted (Mobile)"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Nominal Rated Capacity (in KVA)",
+          "value": "3.5, 5, 7.5, 10, 12.5, 15, 20, 25, 30, 35, 40, 45, 50, 60, 62.5, 58.5, 82.5, 100, 125, 140, 160, 180, 200, 250, 320, 380, 400, 500, 600, 625, 750, 900, 1010, 1250, 1500"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Number of Phases",
+          "value": "Single Phase, Three Phase"
+        },
+        {
+          "group": "Control Panel",
+          "parameter": "Type of Control Panel",
+          "value": "Manual Control Panel, AMF (Automatic Mains Failure) Control Panel Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms."
+    },
+    {
+      "page": 6,
+      "text": "2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8220724",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104382"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 13-11-2026 21:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104382"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 14-11-2026 21:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104382"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104382"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Uttar Pradesh",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104382"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Basic Education Department Uttar Pradesh",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104382"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: N/a",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104382"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Director Basic Education, Lucknow",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104382"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :adir.basicedu-up@gov.in Buyer Email id: bsa.si-up@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104382"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 24",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104382"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Diesel Power Generator (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104382"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 18 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104382"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 29 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104382"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104382"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104382"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104382"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104382"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104382"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104382"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 36000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104382"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 36000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104382"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104382"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 60",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104382"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104382"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Installation Type: Skid Mounted, Trailer Mounted (Mobile) | Nominal Rated Capacity (in KVA): 3.5, 5, 7.5, 10, 12.5, 15, 20, 25, 30, 35, 40, 45, 50, 60, 62.5, 58.5, 82.5, 100, 125, 140, 160, 180, 200, 250, 320, 380, 400, 500, 600, 625, 750, 900, 1010, 1250, 1500 | Number of Phases: Single Phase, Three Phase | Type of Control Panel: Manual Control Panel, AMF (Automatic Mains Failure) Control Panel Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104382"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Gorakhnath Patel | 261001,BSA OFFICE SITAPUR NEAR GIC CAMPUS BUTS GANJ | 24 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104382"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104382"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104382"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

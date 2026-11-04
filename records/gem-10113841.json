@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8228746",
   "title": "REPAIR MAINTENANCE AND ENCAPSULATE THE OLD ELECTRICAL, TELE AND AC CABLES AND DUCTS",
   "description": "REPAIR MAINTENANCE AND ENCAPSULATE THE OLD ELECTRICAL, TELE AND AC CABLES AND DUCTS",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Army",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "REPAIR MAINTENANCE AND ENCAPSULATE THE OLD ELECTRICAL, TELE AND AC CABLES AND DUCTS",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-02T13:55:40+05:30",
   "closing_at": "2026-11-12T14:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10113841"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "Buyer technical specification",
+      "url": "https://mkp.gem.gov.in/catalog_data/catalog_support_document/buyer_documents/22130882/54/78/703/CatalogAttrs/SpecificationDocument/2026/10/19/specification_2026-10-19-14-30-59_0cb2ab90f1b54a1beffe957bb4db8c43.pdf",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261102",
+      "page": 5
     }
   ],
   "tags": [
@@ -34,5 +49,154 @@
   ],
   "source_fetched_at": "2026-11-03T18:00:57.351Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-13T14:00:00+05:30",
+  "buyer_email": "ranoor.655l@gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience: Yes | Partial | Experience - 1 year (s)",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-04T00:51:55.389300+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "0fbb91ef1efa5facf6d0cb5f908f34b23feb1540c0f76f95b994bbc2fcf467f9",
+  "document_pages": 5,
+  "eligibility": [
+    "MSE Relaxation for Years Of Experience: Yes | Partial | Experience - 1 year (s) (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 3,
+      "consignee": "***********",
+      "address": "***********Allahabad",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [],
+  "buyer_added_terms": [
+    {
+      "page": 3,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to"
+    },
+    {
+      "page": 4,
+      "text": "minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 3. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8228746",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113841"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 12-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113841"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 13-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113841"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113841"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113841"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113841"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Army",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113841"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :sangam.sangam@nic.in Buyer Email id: ranoor.655l@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113841"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113841"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: REPAIR MAINTENANCE AND ENCAPSULATE THE OLD ELECTRICAL, TELE AND AC CABLES AND DUCTS",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113841"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience: Yes | Partial | Experience - 1 year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113841"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113841"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113841"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113841"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113841"
+    },
+    {
+      "field": "consignees",
+      "page": 3,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********Allahabad | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113841"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 3,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113841"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 3. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113841"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

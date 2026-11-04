@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8228776",
   "title": "Ceiling OT Light (V2)",
   "description": "Ceiling OT Light (V2)",
-  "organisation": "Central Council for Research in Ayurvedic Sciences",
-  "ministry": "Ministry of AYUSH",
-  "department": "Central Council for Research in Ayurvedic Sciences",
+  "organisation": "Central Council For Research In Ayurvedic Sciences, Kerala",
+  "ministry": "Ministry Of Ayush",
+  "department": "Central Council For Research In Ayurvedic Sciences",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Ceiling OT Light (V2)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-02T13:52:27+05:30",
   "closing_at": "2026-11-12T14:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10113880"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/rtFRRmLNHaH2E1oDJOUXoDitaBYQNBT8_-e-yIj_bzQ",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261102",
+      "page": 12
     }
   ],
   "tags": [
@@ -34,5 +49,506 @@
   ],
   "source_fetched_at": "2026-11-03T18:00:57.351Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-13T14:00:00+05:30",
+  "office": "Kerala",
+  "buyer_email": "chitra.ms@ccras.nic.in",
+  "emd_required": false,
+  "bidder_turnover_lakhs": 0.5,
+  "oem_turnover_lakhs": 1,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 62,
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-04T00:53:00.336670+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "2e9ce255da0be4147e5280e99b29176ae713e1a7364e2c8967f9925b7474991e",
+  "document_pages": 12,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 0.5 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 1 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: GeM verified turnover (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 30 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 7,
+      "consignee": "Deep V C",
+      "address": "679531,National Ayurveda Research Institute for Panchakarma Cheruthuruthy P.O, Thrissur District, Kerala",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "GENERAL",
+          "parameter": "Product Description",
+          "value": "Ceiling OT Light"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Type of Ceiling OT Light",
+          "value": "Single Dome"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Light Emission of OT Light",
+          "value": "LED"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Type of Lamp head",
+          "value": "Petaled Shaped / winged lamp head"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Minimum Diameter of lamp Head for main dome with tolerance ±20 (in mm)",
+          "value": "600 mm, 650 mm"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Minimum Diameter of Auxiliary dome with tolerance ±20 (in mm)",
+          "value": "NA in case of Single dome"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Minimum Diameter of lamp Head for Second auxiliary dome with tolerance ±20 (in mm)",
+          "value": "NA in case of Single dome and Double dome"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Material of Head Lamp",
+          "value": "ABS/ Aluminium/ Poly Carbonate"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Light Intensity in Luminous at 1 meter distance",
+          "value": "120000 to 140000 (Single Dome)"
+        },
+        {
+          "group": null,
+          "parameter": "Colour Temperature in Kelvin (In between)",
+          "value": "3500 to 5000 K"
+        },
+        {
+          "group": null,
+          "parameter": "Minimum Life Span of LED for each dome (in hours)",
+          "value": "50000, 60000 Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Illuminated field diameter (in mm)",
+          "value": "180 to 300 mm or better"
+        },
+        {
+          "group": null,
+          "parameter": "Colour rendering index (CRI)",
+          "value": "95, 96, 98 Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Availability of control panels on the light assembly as well as away from it for adjustment of light intensity, illuminated area and for switching on and off, focusing , colour temp , etc",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Type of Control Panel",
+          "value": "Manual, Touch Screen"
+        },
+        {
+          "group": null,
+          "parameter": "Light head should be so constructed as to provided optimum conditions for laminar flow",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "User selectable intensity variation with digital display",
+          "value": "30 to 100% in minimum 5 or more steps"
+        },
+        {
+          "group": null,
+          "parameter": "Avaliability of back light or ENDO mode to allow appropriate visilibity of the screen",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Lamp head should have sterilizable handle at the center of the lamp head",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Depth of illumination of OT Light (in cms)",
+          "value": "100 to 140 cm or more for main and Satelite dome"
+        },
+        {
+          "group": null,
+          "parameter": "Availability of ON/OFF switch",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Lens of the domes should be interchangeable and removable, The glass should be scratch proof to optimize light penetration",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "OT light should be provided with drip free spring arms for easy maneuverability , total lateral viewing of the patient as well as 360? rotation in main arm and light head",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Ergonomic or user friendly Handle to be provided",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Power Supply",
+          "value": "220-240 V, 50 Hz Single Phase"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": "CAMERA",
+          "parameter": "Camera provided",
+          "value": "No"
+        },
+        {
+          "group": "CAMERA",
+          "parameter": "Camera attachment",
+          "value": "NA if not provided"
+        },
+        {
+          "group": "CAMERA",
+          "parameter": "Camera Placement",
+          "value": "NA if not provided"
+        },
+        {
+          "group": "CAMERA",
+          "parameter": "Adjustment of Zoom and Orientation",
+          "value": "NA if not provided"
+        },
+        {
+          "group": "CAMERA",
+          "parameter": "Camera Resolution",
+          "value": "NA if not provided"
+        },
+        {
+          "group": "CAMERA",
+          "parameter": "Camera Connectivity",
+          "value": "NA if not provided"
+        },
+        {
+          "group": "CAMERA",
+          "parameter": "Item should be from same OEM Make",
+          "value": "NA if not provided"
+        },
+        {
+          "group": "RECORDER",
+          "parameter": "Medical Grade Recorder provided",
+          "value": "No"
+        },
+        {
+          "group": "RECORDER",
+          "parameter": "Recording resolution",
+          "value": "NA if not provided"
+        },
+        {
+          "group": "RECORDER",
+          "parameter": "Recorder Storage capacity",
+          "value": "NA if not provided Or higher"
+        },
+        {
+          "group": "RECORDER",
+          "parameter": "Data Portability",
+          "value": "NA if not provided"
+        },
+        {
+          "group": "RECORDER",
+          "parameter": "Recorder should be from same OEM Make",
+          "value": "NA if not provided"
+        },
+        {
+          "group": "MONITOR",
+          "parameter": "Medical Grade Monitor provided",
+          "value": "No"
+        },
+        {
+          "group": "MONITOR",
+          "parameter": "Monitor resolution",
+          "value": "NA if not provided"
+        },
+        {
+          "group": "MONITOR",
+          "parameter": "Monitor screen Size",
+          "value": "NA if not provided Or higher"
+        },
+        {
+          "group": "MONITOR",
+          "parameter": "Monitor should be from same OEM Make",
+          "value": "NA if not provided"
+        },
+        {
+          "group": "CERTIFICATIONS",
+          "parameter": "Compliance to Medical Device Rules (MDR) 2017 as amended till date",
+          "value": "Yes"
+        },
+        {
+          "group": "CERTIFICATIONS",
+          "parameter": "Availability of valid Medical Device license / Registration for the product issued from the competent authority defined under Drugs and Cosmetic Act 1940 and Rules made there under as amended till date",
+          "value": "Yes"
+        },
+        {
+          "group": "CERTIFICATIONS",
+          "parameter": "Certification for manufacturing unit",
+          "value": "ISO:13485 (Latest)"
+        },
+        {
+          "group": "CERTIFICATIONS",
+          "parameter": "Availability of Test Report for each supplied batch/product as per Medical Device Rule (MDR) 2017 as amended till date",
+          "value": "Yes"
+        },
+        {
+          "group": "CERTIFICATIONS",
+          "parameter": "Submission of all necessary certifications, licenses and test reports to the buyer at the time of bid submission or along with supplies as per buyer requirement",
+          "value": "Yes"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Conformity to electrical safety standards",
+          "value": "IEC 60601 or BIS equivalent"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "Warranty in years (Option of comprehensive warranty is available through bidding only, which if opted will supersede normal warranty in the catalogue)",
+          "value": "2.0, 4.0 (year)"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 9,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Bidders shall quote only those products (Part of Service delivery) in the bid which are not obsolete in the market and has at least 3 years residual market life i.e. the offered product shall not be declared end-of- life by the OEM before this period. 3. Generic Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller. 4. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 5. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 6. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 7. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 8. Warranty Timely Servicing / rectification of defects during warranty period: After having been notified of the defects / service requirement during warranty period, Seller has to complete the required Service / Rectification within 5 days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the Buyer."
+    },
+    {
+      "page": 10,
+      "text": "9. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8228776",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113880"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 12-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113880"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 13-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113880"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113880"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Ayush",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113880"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Central Council For Research In Ayurvedic Sciences",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113880"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Central Council For Research In Ayurvedic Sciences, Kerala",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113880"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Kerala",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113880"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :sn.murthy@ccras.nic.in Buyer Email id: chitra.ms@ccras.nic.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113880"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113880"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Ceiling OT Light (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113880"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 0.5 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113880"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 1 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113880"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113880"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: GeM verified turnover",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113880"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113880"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113880"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113880"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 30 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113880"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113880"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113880"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113880"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113880"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 62",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113880"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Product Description: Ceiling OT Light | Type of Ceiling OT Light: Single Dome | Light Emission of OT Light: LED | Type of Lamp head: Petaled Shaped / winged lamp head | Minimum Diameter of lamp Head for main dome with tolerance ±20 (in mm): 600 mm, 650 mm | Minimum Diameter of Auxiliary dome with tolerance ±20 (in mm): NA in case of Single dome | Minimum Diameter of lamp Head for Second auxiliary dome with tolerance ±20 (in mm): NA in case of Single dome and Double dome | Material of Head Lamp: ABS/ Aluminium/ Poly Carbonate",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113880"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Light Intensity in Luminous at 1 meter distance: 120000 to 140000 (Single Dome) | Colour Temperature in Kelvin (In between): 3500 to 5000 K | Minimum Life Span of LED for each dome (in hours): 50000, 60000 Or higher | Illuminated field diameter (in mm): 180 to 300 mm or better | Colour rendering index (CRI): 95, 96, 98 Or higher | Availability of control panels on the light assembly as well as away from it for adjustment of light intensity, illuminated area and for switching on and off, focusing , colour temp , etc: Yes | Type of Control Panel: Manual, Touch Screen | Light head should be so constructed as to provided optimum conditions for laminar flow: Yes | User selectable intensity variation with digital display: 30 to 100% in minimum 5 or more steps | Avaliability of back light or ENDO mode to allow appropriate visilibity of the screen: Yes | Lamp head should have sterilizable handle at the center of the lamp head: Yes | Depth of illumination of OT Light (in cms): 100 to 140 cm or more for main and Satelite dome | Availability of ON/OFF switch: Yes | Lens of the domes should be interchangeable and removable, The glass should be scratch proof to optimize light penetration: Yes | OT light should be provided with drip free spring arms for easy maneuverability , total lateral viewing of the patient as well as 360? rotation in main arm and light head: Yes | Ergonomic or user friendly Handle to be provided: Yes | Power Supply: 220-240 V, 50 Hz Single Phase",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113880"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Camera provided: No | Camera attachment: NA if not provided | Camera Placement: NA if not provided | Adjustment of Zoom and Orientation: NA if not provided | Camera Resolution: NA if not provided | Camera Connectivity: NA if not provided | Item should be from same OEM Make: NA if not provided | Medical Grade Recorder provided: No | Recording resolution: NA if not provided | Recorder Storage capacity: NA if not provided Or higher | Data Portability: NA if not provided | Recorder should be from same OEM Make: NA if not provided | Medical Grade Monitor provided: No | Monitor resolution: NA if not provided | Monitor screen Size: NA if not provided Or higher | Monitor should be from same OEM Make: NA if not provided | Compliance to Medical Device Rules (MDR) 2017 as amended till date: Yes | Availability of valid Medical Device license / Registration for the product issued from the competent authority defined under Drugs and Cosmetic Act 1940 and Rules made there under as amended till date: Yes | Certification for manufacturing unit: ISO:13485 (Latest) | Availability of Test Report for each supplied batch/product as per Medical Device Rule (MDR) 2017 as amended till date: Yes | Submission of all necessary certifications, licenses and test reports to the buyer at the time of bid submission or along with supplies as per buyer requirement: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113880"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 7,
+      "quote": "Conformity to electrical safety standards: IEC 60601 or BIS equivalent | Warranty in years (Option of comprehensive warranty is available through bidding only, which if opted will supersede normal warranty in the catalogue): 2.0, 4.0 (year)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113880"
+    },
+    {
+      "field": "consignees",
+      "page": 7,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Deep V C | 679531,National Ayurveda Research Institute for Panchakarma Cheruthuruthy P.O, Thrissur District, Kerala | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113880"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Bidders shall quote only those products (Part of Service delivery) in the bid which are not obsolete in the market and has at least 3 years residual market life i.e. the offered product shall not be declared end-of- life by the OEM before this period. 3. Generic Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller. 4. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 5. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 6. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 7. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 8. Warranty Timely Servicing / rectification of defects during warranty period: After having been notified of the defects / service requirement during warranty period, Seller has to complete the required Service / Rectification within 5 days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the Buyer.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113880"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "9. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113880"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

@@ -1,12 +1,12 @@
 {
   "page": 4193,
   "complete": false,
-  "status": "failed",
+  "status": "succeeded",
   "source_total": 46158,
   "note": "Imported actual source observations; cloud traversal starts from page1 for conservative coverage.",
-  "last_run_at": "2026-11-04T19:04:01.460669+00:00",
-  "error": "PortalError",
-  "source_checked_at": "2026-11-04T18:57:18.649486+00:00",
+  "last_run_at": "2026-11-04T23:27:15.073827+00:00",
+  "error": null,
+  "source_checked_at": "2026-11-04T23:37:23.050209+00:00",
   "source_health": {
     "status": "reachable",
     "stage": "http",
@@ -25,14 +25,13 @@
   "last_success_at": "2026-11-04T17:20:40.474404+00:00",
   "newest_refresh_watermark": "2026-11-01T00:27:04.785501+00:00",
   "newest_refresh_last_complete_at": "2026-11-02T15:12:35.513832+00:00",
-  "mode": "collection",
-  "last_run_kind": "collection",
-  "last_documents_success_at": "2026-11-04T16:09:59.000774+00:00",
+  "mode": "documents",
+  "last_run_kind": "documents",
+  "last_documents_success_at": "2026-11-04T23:37:23.050197+00:00",
   "document_batch": {
-    "attempted": 122,
-    "downloaded": 122,
+    "attempted": 102,
+    "downloaded": 102,
     "failed": 0,
     "source_failures": 0
-  },
-  "error_message": "Cloud source request failed with HTTP 503."
+  }
 }

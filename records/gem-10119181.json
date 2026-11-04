@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8233310",
   "title": "Fixed Computer Workstation (V2)",
   "description": "Fixed Computer Workstation (V2)",
-  "organisation": "Directorate of Training (UTCS)",
-  "ministry": "",
-  "department": "Directorate of Training (UTCS)",
+  "organisation": "N/a",
+  "ministry": "Delhi",
+  "department": "Directorate Of Training (utcs)",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Fixed Computer Workstation (V2)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 53850,
   "published_at": "2026-11-03T13:16:24+05:30",
   "closing_at": "2026-11-13T15:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10119181"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 5
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/PJ0bJEfFMa6RB3m58GsAFr7mSkRUxig9itAoPv-ycx0",
+      "page": 6
+    },
+    {
+      "name": "View",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/documentdownload/10119181/1793691296.pdf",
+      "page": 8
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261103",
+      "page": 11
     }
   ],
   "tags": [
@@ -34,5 +54,314 @@
   ],
   "source_fetched_at": "2026-11-04T01:18:17.444Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-14T15:00:00+05:30",
+  "office": "North West Zone",
+  "buyer_email": "kavinder@dtu.ac.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 8,
+  "oem_turnover_lakhs": 20,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 3,
+  "epbg_duration_months": 12,
+  "offer_validity": "180 (Days)",
+  "estimated_bid_value": 1795000,
+  "source_document_fetched_at": "2026-11-04T06:30:49.287973+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "2a7dd367469b737da63a816e1faf0a1ec2a68bafd7406f0ff9af9db99d81b9d4",
+  "document_pages": 11,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 8 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 20 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 30 % (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 7,
+      "consignee": "GIRISH KUMAR",
+      "address": "110042,DELHI TECHNOLOGICAL UNIVERSITY Shahbad Daulatpur, Main Bawana Road, Rohini Delhi- 110042. India",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": "Processor and Platform",
+          "parameter": "Processor Number",
+          "value": "Intel Xeon w3-2423, Intel Xeon w3-2425, Intel Xeon w3-2435, Intel Xeon w3-2525, Intel Xeon w5-3423, Intel Xeon w5-2445, Intel Xeon w3-2535, Intel Xeon w5-3425, Intel Xeon 634, Intel Xeon w5-2455X, Intel Xeon w5-3525, Intel Xeon w5-2545, Intel Xeon 636, Intel Xeon w5-3433, Intel Xeon w5-2465X, Intel Xeon w5-2555X, Intel Xeon w5-3435X, Intel Xeon w5- 3535X, Intel Xeon 638, Intel Xeon w5-2565X, Intel Xeon w7-2475X, Intel Xeon w7-2575X, Intel Xeon w7- 3445, Intel Xeon 654, Intel Xeon w7-2495X, Intel Xeon w7-2595X, Intel Xeon 656, Intel Xeon w7-3455, Intel Xeon w7-3545, Intel Xeon w7-3465X, Intel Xeon w7- 3555, Intel Xeon 658X, Intel Xeon w7-3565X, Intel Xeon w9-3475X, Intel Xeon 674X, Intel Xeon w9- 3575X, Intel Xeon 676X, Intel Xeon w9-3495X, Intel Xeon w9-3595X, Intel Xeon 678X, Intel Xeon 696X, Intel Xeon 698X, AMD Ryzen Threadripper PRO 7945WX, AMD Ryzen Threadripper PRO 9945WX, AMD Ryzen Threadripper PRO 7955WX, AMD Ryzen Threadripper PRO 9955WX, AMD Ryzen Threadripper PRO 7965WX, AMD Ryzen Threadripper PRO 9965WX, AMD Ryzen Threadripper PRO 7975WX, AMD Ryzen Threadripper PRO 9975WX, AMD Ryzen Threadripper PRO 7985WX, AMD Ryzen Threadripper PRO 7995WX, AMD Ryzen Threadripper PRO 9985WX, AMD Ryzen Threadripper PRO 9995WX, Intel Core i5-12500, Intel Core i7-12700, Intel Core i5-14500, Intel Core i9- 12900, Intel Core i5-14600, Intel Core i5-14600K, Intel Core i7-14700, Intel Core i9-14900, Intel Core i7- 14700K, Intel Core i9-14900K, Intel Core Ultra 5 235, Intel Core Ultra 5 245, Intel Core Ultra 7 265, Intel Core Ultra 5 245K, Intel Core Ultra 7 265K, Intel Core Ultra 5 250K Plus, Intel Core Ultra 9 285, Intel Core Ultra 7 270K Plus, Intel Core Ultra 9 285K Or higher"
+        },
+        {
+          "group": "Graphics",
+          "parameter": "Number of Factory-Fitted Discrete GPUs",
+          "value": "1 x Discrete GPU, 2 x Identical Discrete GPUs, 3 x Identical Discrete GPUs, 4 x Identical Discrete GPUs Or higher"
+        },
+        {
+          "group": "Graphics",
+          "parameter": "GPU Model",
+          "value": "NVIDIA RTX A400 4GB, NVIDIA RTX A1000 8GB, NVIDIA RTX 2000 Ada Generation 16GB, NVIDIA RTX PRO 2000 Blackwell 16GB, NVIDIA RTX 4000 SFF Ada Generation 20GB, NVIDIA RTX 4000 Ada Generation 20GB, NVIDIA RTX PRO 4000 Blackwell SFF Edition 24GB, NVIDIA RTX 4500 Ada Generation 24GB, NVIDIA RTX PRO 4000 Blackwell Workstation Edition 24GB, NVIDIA RTX 5000 Ada Generation 32GB, NVIDIA RTX 6000 Ada Generation 48GB, NVIDIA RTX PRO 4500 Blackwell Workstation Edition 32GB, NVIDIA RTX PRO 5000 Blackwell 48GB, NVIDIA RTX PRO 5000 Blackwell 72GB, NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition 96GB, NVIDIA RTX PRO 6000 Blackwell Workstation Edition 96GB Or higher"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "parameters": [
+        {
+          "group": "Memory (RAM)",
+          "parameter": "System Memory (RAM) Type",
+          "value": "DDR5 Or higher"
+        },
+        {
+          "group": "Memory (RAM)",
+          "parameter": "Installed System Memory (RAM) (in GB)",
+          "value": "128, 192, 256, 384, 512, 768, 1024, 1536, 2048 Or higher"
+        },
+        {
+          "group": "Storage",
+          "parameter": "Primary NVMe SSD Capacity (in GB)",
+          "value": "2048, 4096, 8192 Or higher"
+        },
+        {
+          "group": "RAID",
+          "parameter": "RAID Controller Type",
+          "value": "No RAID Controller, Firmware/Software RAID, Hardware RAID (via dedicated RAID controller)"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Availability of Monitor",
+          "value": "Yes"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Maximum Resolution (Horizontal x Vertical Pixels)",
+          "value": "2560 × 1440, 3840 × 2160"
+        },
+        {
+          "group": "Power Supply & OS",
+          "parameter": "Factory Preloaded Operating System",
+          "value": "Windows 11 Professional, Windows 11 Professional for Workstations, Linux, No Preloaded Operating System"
+        },
+        {
+          "group": "Compliance",
+          "parameter": "On Site Warranty (in Year)",
+          "value": "3, 5 Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 9,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Provisions for workmen compensation, insurance, public liability, property damage, insurance etc. to be ensured by the contractor. Also, safety measures prescribed for working in Extra High Voltage & use of"
+    },
+    {
+      "page": 10,
+      "text": "personnel protective equipment must be adhered to. 3. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of Registrar DTU A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8233310",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119181"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 13-11-2026 15:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119181"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 14-11-2026 15:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119181"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119181"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Delhi",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119181"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Directorate Of Training (utcs)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119181"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: N/a",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119181"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: North West Zone",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119181"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :buycon3.hedd.dl@gembuyer.in Buyer Email id: kavinder@dtu.ac.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119181"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119181"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Fixed Computer Workstation (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119181"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 8 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119181"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 20 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119181"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119181"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119181"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119181"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119181"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119181"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 30 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119181"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119181"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 1795000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119181"
+    },
+    {
+      "field": "emd_fee",
+      "page": 3,
+      "quote": "EMD Amount: 53850",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119181"
+    },
+    {
+      "field": "emd_required",
+      "page": 3,
+      "quote": "EMD Amount: 53850",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119181"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 3.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119181"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 12",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119181"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119181"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Processor Number: Intel Xeon w3-2423, Intel Xeon w3-2425, Intel Xeon w3-2435, Intel Xeon w3-2525, Intel Xeon w5-3423, Intel Xeon w5-2445, Intel Xeon w3-2535, Intel Xeon w5-3425, Intel Xeon 634, Intel Xeon w5-2455X, Intel Xeon w5-3525, Intel Xeon w5-2545, Intel Xeon 636, Intel Xeon w5-3433, Intel Xeon w5-2465X, Intel Xeon w5-2555X, Intel Xeon w5-3435X, Intel Xeon w5- 3535X, Intel Xeon 638, Intel Xeon w5-2565X, Intel Xeon w7-2475X, Intel Xeon w7-2575X, Intel Xeon w7- 3445, Intel Xeon 654, Intel Xeon w7-2495X, Intel Xeon w7-2595X, Intel Xeon 656, Intel Xeon w7-3455, Intel Xeon w7-3545, Intel Xeon w7-3465X, Intel Xeon w7- 3555, Intel Xeon 658X, Intel Xeon w7-3565X, Intel Xeon w9-3475X, Intel Xeon 674X, Intel Xeon w9- 3575X, Intel Xeon 676X, Intel Xeon w9-3495X, Intel Xeon w9-3595X, Intel Xeon 678X, Intel Xeon 696X, Intel Xeon 698X, AMD Ryzen Threadripper PRO 7945WX, AMD Ryzen Threadripper PRO 9945WX, AMD Ryzen Threadripper PRO 7955WX, AMD Ryzen Threadripper PRO 9955WX, AMD Ryzen Threadripper PRO 7965WX, AMD Ryzen Threadripper PRO 9965WX, AMD Ryzen Threadripper PRO 7975WX, AMD Ryzen Threadripper PRO 9975WX, AMD Ryzen Threadripper PRO 7985WX, AMD Ryzen Threadripper PRO 7995WX, AMD Ryzen Threadripper PRO 9985WX, AMD Ryzen Threadripper PRO 9995WX, Intel Core i5-12500, Intel Core i7-12700, Intel Core i5-14500, Intel Core i9- 12900, Intel Core i5-14600, Intel Core i5-14600K, Intel Core i7-14700, Intel Core i9-14900, Intel Core i7- 14700K, Intel Core i9-14900K, Intel Core Ultra 5 235, Intel Core Ultra 5 245, Intel Core Ultra 7 265, Intel Core Ultra 5 245K, Intel Core Ultra 7 265K, Intel Core Ultra 5 250K Plus, Intel Core Ultra 9 285, Intel Core Ultra 7 270K Plus, Intel Core Ultra 9 285K Or higher | Number of Factory-Fitted Discrete GPUs: 1 x Discrete GPU, 2 x Identical Discrete GPUs, 3 x Identical Discrete GPUs, 4 x Identical Discrete GPUs Or higher | GPU Model: NVIDIA RTX A400 4GB, NVIDIA RTX A1000 8GB, NVIDIA RTX 2000 Ada Generation 16GB, NVIDIA RTX PRO 2000 Blackwell 16GB, NVIDIA RTX 4000 SFF Ada Generation 20GB, NVIDIA RTX 4000 Ada Generation 20GB, NVIDIA RTX PRO 4000 Blackwell SFF Edition 24GB, NVIDIA RTX 4500 Ada Generation 24GB, NVIDIA RTX PRO 4000 Blackwell Workstation Edition 24GB, NVIDIA RTX 5000 Ada Generation 32GB, NVIDIA RTX 6000 Ada Generation 48GB, NVIDIA RTX PRO 4500 Blackwell Workstation Edition 32GB, NVIDIA RTX PRO 5000 Blackwell 48GB, NVIDIA RTX PRO 5000 Blackwell 72GB, NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition 96GB, NVIDIA RTX PRO 6000 Blackwell Workstation Edition 96GB Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119181"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 7,
+      "quote": "System Memory (RAM) Type: DDR5 Or higher | Installed System Memory (RAM) (in GB): 128, 192, 256, 384, 512, 768, 1024, 1536, 2048 Or higher | Primary NVMe SSD Capacity (in GB): 2048, 4096, 8192 Or higher | RAID Controller Type: No RAID Controller, Firmware/Software RAID, Hardware RAID (via dedicated RAID controller) | Availability of Monitor: Yes | Maximum Resolution (Horizontal x Vertical Pixels): 2560 × 1440, 3840 × 2160 | Factory Preloaded Operating System: Windows 11 Professional, Windows 11 Professional for Workstations, Linux, No Preloaded Operating System | On Site Warranty (in Year): 3, 5 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119181"
+    },
+    {
+      "field": "consignees",
+      "page": 7,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | GIRISH KUMAR | 110042,DELHI TECHNOLOGICAL UNIVERSITY Shahbad Daulatpur, Main Bawana Road, Rohini Delhi- 110042. India | 1 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119181"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Provisions for workmen compensation, insurance, public liability, property damage, insurance etc. to be ensured by the contractor. Also, safety measures prescribed for working in Extra High Voltage & use of",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119181"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "personnel protective equipment must be adhered to. 3. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of Registrar DTU A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119181"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

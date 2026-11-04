@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8234597",
   "title": "Unmanaged L2 Ethernet Switch (Non-PoE)",
   "description": "Unmanaged L2 Ethernet Switch (Non-PoE)",
-  "organisation": "INDUSTRIAL TRAINING INSTITUTE",
-  "ministry": "",
-  "department": "INDUSTRIAL TRAINING INSTITUTE",
+  "organisation": "Industrial Training Institute",
+  "ministry": "Haryana",
+  "department": "Industrial Training Institute",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Unmanaged L2 Ethernet Switch (Non-PoE)",
   "quantity": 2,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-03T15:30:23+05:30",
   "closing_at": "2026-11-13T16:00:00+05:30",
   "status": "active",
@@ -27,6 +27,16 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10120621"
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/i_YlNHCwqSDvB3BcFIveIkNzwxaPfVaqw7qPHzoCF9A",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261103",
+      "page": 5
     }
   ],
   "tags": [
@@ -34,5 +44,213 @@
   ],
   "source_fetched_at": "2026-11-04T03:24:34.692Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-14T16:00:00+05:30",
+  "office": "Government Industrial Training Institute Bhaklana",
+  "buyer_email": "buyer50.iti.hr@gembuyer.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-04T06:14:32.900148+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "aa452e800cac1c104b0b417ac0833244dd23afacb481be499c41a239e3bc0039",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Sajjan Kumar",
+      "address": "125038,Govt ITI Bhaklana Jind Bhiwani Road",
+      "quantity": 2,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Generic",
+          "parameter": "Description of Store",
+          "value": "Unmanaged (no configuration) and non-PoE Ethernet Switch"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Cable Type Support",
+          "value": "Cat 5e, Cat 6"
+        },
+        {
+          "group": "Functional Parameters",
+          "parameter": "Number of Ethernet Ports",
+          "value": "24"
+        },
+        {
+          "group": "Functional Parameters",
+          "parameter": "Data Transfer Rates in RJ45 Port (in Mbps)",
+          "value": "10/100/1000 (Gigabit Ethernet)"
+        },
+        {
+          "group": "Functional Parameters",
+          "parameter": "Uplink Port Type",
+          "value": "None"
+        },
+        {
+          "group": "Functional Parameters",
+          "parameter": "Number of SFP Port",
+          "value": "0.0"
+        },
+        {
+          "group": "Functional Parameters",
+          "parameter": "Number of SFP+ Port",
+          "value": "0.0"
+        },
+        {
+          "group": "Functional Parameters",
+          "parameter": "MAC address table size (in number of Entries)",
+          "value": "8K"
+        },
+        {
+          "group": "Functional Parameters",
+          "parameter": "Performance Features",
+          "value": "Jumbo Frame Support, Auto Negotiation, Auto- MDI/MDIX Support (Medium Dependent Interface)/(Medium Dependent Interface- Crossover)"
+        },
+        {
+          "group": "Warranty",
+          "parameter": "Warranty Support",
+          "value": "3 Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8234597",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120621"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 13-11-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120621"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 14-11-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120621"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120621"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Haryana",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120621"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Industrial Training Institute",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120621"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Industrial Training Institute",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120621"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Government Industrial Training Institute Bhaklana",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120621"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :bhaklana.giti@hry.gov.in Buyer Email id: buyer50.iti.hr@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120621"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 2",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120621"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Unmanaged L2 Ethernet Switch (Non-PoE) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120621"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120621"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120621"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120621"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120621"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120621"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Description of Store: Unmanaged (no configuration) and non-PoE Ethernet Switch | Cable Type Support: Cat 5e, Cat 6 | Number of Ethernet Ports: 24 | Data Transfer Rates in RJ45 Port (in Mbps): 10/100/1000 (Gigabit Ethernet) | Uplink Port Type: None | Number of SFP Port: 0.0 | Number of SFP+ Port: 0.0 | MAC address table size (in number of Entries): 8K | Performance Features: Jumbo Frame Support, Auto Negotiation, Auto- MDI/MDIX Support (Medium Dependent Interface)/(Medium Dependent Interface- Crossover) | Warranty Support: 3 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120621"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Sajjan Kumar | 125038,Govt ITI Bhaklana Jind Bhiwani Road | 2 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120621"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120621"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8234553",
   "title": "Digital Multimeter (V2)",
   "description": "Digital Multimeter (V2)",
-  "organisation": "INDUSTRIAL TRAINING INSTITUTE",
-  "ministry": "",
-  "department": "INDUSTRIAL TRAINING INSTITUTE",
+  "organisation": "Industrial Training Institute",
+  "ministry": "Haryana",
+  "department": "Industrial Training Institute",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Digital Multimeter (V2)",
   "quantity": 4,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-03T15:22:42+05:30",
   "closing_at": "2026-11-13T16:00:00+05:30",
   "status": "active",
@@ -27,6 +27,16 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10120573"
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/u3xjoUphhHEJmsP7ke88NNamAcI3SuROiKylW9jTqmI",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261103",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +44,329 @@
   ],
   "source_fetched_at": "2026-11-04T03:24:37.368Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-14T16:00:00+05:30",
+  "office": "Government Industrial Training Institute Bhaklana",
+  "buyer_email": "buyer50.iti.hr@gembuyer.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-04T06:15:14.446407+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "5139be214e5f2eb9882aeaaf8a254ebcdfca0b2baa0acec179ab5a3b74161c3d",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Sajjan Kumar",
+      "address": "125038,Govt ITI Bhaklana Jind Bhiwani Road",
+      "quantity": 4,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "General Specification",
+          "parameter": "Type",
+          "value": "Handheld"
+        },
+        {
+          "group": "General Specification",
+          "parameter": "Display (Digits)",
+          "value": "3.5"
+        },
+        {
+          "group": "General Specification",
+          "parameter": "Measurement Type",
+          "value": "True RMS"
+        },
+        {
+          "group": "General Specification",
+          "parameter": "Display Count",
+          "value": "6000"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "DC Voltage",
+          "value": "1000 V"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "DC Voltage Accuracy",
+          "value": "0.5 %"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "DC Voltage Resolution",
+          "value": "100 mV"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "AC Voltage",
+          "value": "1000 V"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "AC Voltage Accuracy",
+          "value": "1 %"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "AC Voltage Resolution",
+          "value": "1 mV"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "DC Current",
+          "value": "10 A"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "DC Current Accuracy",
+          "value": "1.5 %"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "DC Current Resolution",
+          "value": "10 mA"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "AC Current",
+          "value": "10 A"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "AC Current Accuracy",
+          "value": "1.5 %"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "AC Current Resolution",
+          "value": "100 mA"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "Resistance",
+          "value": "60 M?"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "Resistance Accuracy",
+          "value": "2 %"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Resistance Resolution",
+          "value": "100 ?"
+        },
+        {
+          "group": null,
+          "parameter": "Capacitance Range (Micro farad)",
+          "value": "1 to 100"
+        },
+        {
+          "group": null,
+          "parameter": "Capacitance Accuracy",
+          "value": "5 %"
+        },
+        {
+          "group": null,
+          "parameter": "Capacitance Resolution",
+          "value": "1 nF"
+        },
+        {
+          "group": null,
+          "parameter": "Frequency",
+          "value": "10000 kHz"
+        },
+        {
+          "group": null,
+          "parameter": "Frequency Accuracy",
+          "value": "0.1 %"
+        },
+        {
+          "group": null,
+          "parameter": "Frequency Resolution",
+          "value": "10 Hz"
+        },
+        {
+          "group": null,
+          "parameter": "Temperature Range",
+          "value": "-50 to 1000 °C"
+        },
+        {
+          "group": null,
+          "parameter": "Temperature Accuracy",
+          "value": "2 %"
+        },
+        {
+          "group": null,
+          "parameter": "Temperature Resolution",
+          "value": "1 °C"
+        },
+        {
+          "group": "Power Supply",
+          "parameter": "Power Supply",
+          "value": "AA Battery"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery"
+    },
+    {
+      "page": 5,
+      "text": "time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8234553",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120573"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 13-11-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120573"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 14-11-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120573"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120573"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Haryana",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120573"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Industrial Training Institute",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120573"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Industrial Training Institute",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120573"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Government Industrial Training Institute Bhaklana",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120573"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :bhaklana.giti@hry.gov.in Buyer Email id: buyer50.iti.hr@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120573"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 4",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120573"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Digital Multimeter (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120573"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120573"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120573"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120573"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120573"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120573"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Type: Handheld | Display (Digits): 3.5 | Measurement Type: True RMS | Display Count: 6000 | DC Voltage: 1000 V | DC Voltage Accuracy: 0.5 % | DC Voltage Resolution: 100 mV | AC Voltage: 1000 V | AC Voltage Accuracy: 1 % | AC Voltage Resolution: 1 mV | DC Current: 10 A | DC Current Accuracy: 1.5 % | DC Current Resolution: 10 mA | AC Current: 10 A | AC Current Accuracy: 1.5 % | AC Current Resolution: 100 mA | Resistance: 60 M? | Resistance Accuracy: 2 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120573"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Resistance Resolution: 100 ? | Capacitance Range (Micro farad): 1 to 100 | Capacitance Accuracy: 5 % | Capacitance Resolution: 1 nF | Frequency: 10000 kHz | Frequency Accuracy: 0.1 % | Frequency Resolution: 10 Hz | Temperature Range: -50 to 1000 °C | Temperature Accuracy: 2 % | Temperature Resolution: 1 °C | Power Supply: AA Battery",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120573"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Sajjan Kumar | 125038,Govt ITI Bhaklana Jind Bhiwani Road | 4 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120573"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120573"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120573"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

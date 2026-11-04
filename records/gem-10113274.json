@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8228280",
   "title": "Dot Matrix Printers (V2)",
   "description": "Dot Matrix Printers (V2)",
-  "organisation": "Central Armed Police Forces",
-  "ministry": "Ministry of Home Affairs",
+  "organisation": "Border Security Force (bsf)",
+  "ministry": "Ministry Of Home Affairs",
   "department": "Central Armed Police Forces",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Dot Matrix Printers (V2)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-02T12:53:13+05:30",
   "closing_at": "2026-11-05T13:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10113274"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/zVwV0fz4mTk_9poaEzsrO1QP6IoKAlL7HygOj-RyWaA",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261102",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +49,292 @@
   ],
   "source_fetched_at": "2026-11-04T03:22:46.016Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-06T13:00:00+05:30",
+  "office": "Commandant 65 Bn Bsf",
+  "buyer_email": "rasik113@bsf.nic.in",
+  "emd_required": false,
+  "oem_turnover_lakhs": 1,
+  "experience_years": 1,
+  "mse_relaxation": "MSE Relaxation for Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "30 (Days)",
+  "estimated_bid_value": 42462,
+  "source_document_fetched_at": "2026-11-04T07:05:46.544561+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "32d8a5b8196ee0dddae8e4abfbb5207f429fe7184c7dbd5efcb596c472739c25",
+  "document_pages": 8,
+  "eligibility": [
+    "OEM average turnover (last 3 years): 1 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 1 Year (s) (GeM PDF, p. 1)",
+    "MSE Relaxation for Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 50 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Rasik Kumar",
+      "address": "152123,65 BN BSF SADIQI ROAD, NEAR MR COLLAGE, DISTT- FAZILKA,PUNJAB-152123",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Generic",
+          "parameter": "Description of Store",
+          "value": "Dot Matrix Printer Supplied with Minimum 1 OEM Ribbon"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Number of Pins",
+          "value": "24.0 Or higher"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Number of Columns",
+          "value": "136.0 Or higher"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Performance",
+          "parameter": "Print Speed in Draft Mode at 10 characters per Inch (in characters per second)",
+          "value": "200 to 299, 300 to 399, 400 to 499, 500 to 599 Or higher"
+        },
+        {
+          "group": "Performance",
+          "parameter": "Print Speed in Draft Mode at 16 characters per Inch (in lines per second)",
+          "value": "Not Applicable Or higher"
+        },
+        {
+          "group": "Performance",
+          "parameter": "Input Data Buffer Capacity (in KB)",
+          "value": "51 to 100, 101 to 150 Or higher"
+        },
+        {
+          "group": "Functional",
+          "parameter": "Features",
+          "value": "Rugged printer, capable of continuous operation for up to 16 hours, Printer self-test functionality without connecting to a computer, Integrated cutting edge for paper tearing, System lock/jam prevention if pulley movement is attempted manually, End-of-paper indicator"
+        },
+        {
+          "group": "Functional",
+          "parameter": "Carbon Copy Supported",
+          "value": "1 Original + 3 Copies, 1 Original + 4 Copies Or higher"
+        },
+        {
+          "group": "Functional",
+          "parameter": "Print Direction Supported",
+          "value": "Bidirectional Or higher"
+        },
+        {
+          "group": "Functional",
+          "parameter": "Supported ticket roll dimension (in mm)",
+          "value": "120 x 64"
+        },
+        {
+          "group": "Connectivity",
+          "parameter": "Ports",
+          "value": "1 x Parallel Port, 1 x USB Type A, 1 x Serial Port"
+        },
+        {
+          "group": "Connectivity",
+          "parameter": "Operating System Supported",
+          "value": "Windows, Linux"
+        },
+        {
+          "group": "Reliability & Durability",
+          "parameter": "Mean Time Between Failure (in Hours)",
+          "value": "10,001 to 15,000, 15,001 to 20,000 Or higher"
+        },
+        {
+          "group": "Reliability & Durability",
+          "parameter": "Minimum Print head Life",
+          "value": "200 million characters, 300 million characters, 400 million characters Or higher"
+        },
+        {
+          "group": "Reliability & Durability",
+          "parameter": "Life of OEM Ribbon Supplied (in Million Characters)",
+          "value": "2.1 to 3.0, 3.1 to 4.0, 4.1 to 5.0, 5.1 to 7.0, 7.1 to 10.0, 10.1 to 15.0 Or higher"
+        },
+        {
+          "group": "Certification",
+          "parameter": "On-site Warranty (in Years)",
+          "value": "1"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Turnover OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of CATEGORY RELATED TO primary product having highest bid value should meet this criterion. 3. Warranty Timely Servicing / rectification of defects during warranty period: After having been notified of the defects / service requirement during warranty period, Seller has to complete the required Service / Rectification within 3 days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the Buyer. 4. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 5. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods"
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8228280",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113274"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 05-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113274"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 06-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113274"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113274"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Home Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113274"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Central Armed Police Forces",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113274"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Border Security Force (bsf)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113274"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Commandant 65 Bn Bsf",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113274"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :comdt065@bsf.nic.in Buyer Email id: rasik113@bsf.nic.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113274"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113274"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Dot Matrix Printers (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113274"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 1 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113274"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 1 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113274"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113274"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113274"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113274"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 50 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113274"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113274"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 42462",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113274"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113274"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113274"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Description of Store: Dot Matrix Printer Supplied with Minimum 1 OEM Ribbon | Number of Pins: 24.0 Or higher | Number of Columns: 136.0 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113274"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Print Speed in Draft Mode at 10 characters per Inch (in characters per second): 200 to 299, 300 to 399, 400 to 499, 500 to 599 Or higher | Print Speed in Draft Mode at 16 characters per Inch (in lines per second): Not Applicable Or higher | Input Data Buffer Capacity (in KB): 51 to 100, 101 to 150 Or higher | Features: Rugged printer, capable of continuous operation for up to 16 hours, Printer self-test functionality without connecting to a computer, Integrated cutting edge for paper tearing, System lock/jam prevention if pulley movement is attempted manually, End-of-paper indicator | Carbon Copy Supported: 1 Original + 3 Copies, 1 Original + 4 Copies Or higher | Print Direction Supported: Bidirectional Or higher | Supported ticket roll dimension (in mm): 120 x 64 | Ports: 1 x Parallel Port, 1 x USB Type A, 1 x Serial Port | Operating System Supported: Windows, Linux | Mean Time Between Failure (in Hours): 10,001 to 15,000, 15,001 to 20,000 Or higher | Minimum Print head Life: 200 million characters, 300 million characters, 400 million characters Or higher | Life of OEM Ribbon Supplied (in Million Characters): 2.1 to 3.0, 3.1 to 4.0, 4.1 to 5.0, 5.1 to 7.0, 7.1 to 10.0, 10.1 to 15.0 Or higher | On-site Warranty (in Years): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113274"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Rasik Kumar | 152123,65 BN BSF SADIQI ROAD, NEAR MR COLLAGE, DISTT- FAZILKA,PUNJAB-152123 | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113274"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Turnover OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of CATEGORY RELATED TO primary product having highest bid value should meet this criterion. 3. Warranty Timely Servicing / rectification of defects during warranty period: After having been notified of the defects / service requirement during warranty period, Seller has to complete the required Service / Rectification within 3 days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the Buyer. 4. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 5. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10113274"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

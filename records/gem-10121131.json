@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8235068",
   "title": "DC7A8000016A1A9,DD9A5030018A1A1,DD9A5030015NSNS,DC4C2102029A1A2,DD6C4010095H1A5,DC4C1120311A1A2,DD6",
   "description": "DC4C1120311A1A2,DC4C1120311A1A2,DC4C1120311A1A2,DD6A3000801NSNS,DD6A3000801NSNS,DD6A3000801NSNS,DD6A3000801NSNS,DD6A3000801NSNS,DD6A3000801NSNS,DD6A3000801NSNS,DC7A8000016A1A9,DC7A8000016A1A9,DC7A8000016A1A9,DC7A8000016A1A9,DC7A8000016A1A9,DC7A8000016A1A9,DC7A8000016A1A9,DD9A5030018A1A1,DD9A5030018A1A1,DD9A5030018A1A1,DD9A5030018A1A1,DD9A5030018A1A1,DD9A5030018A1A1,DD9A5030018A1A1,DD9A5030015NSNS,DD9A5030015NSNS,DD9A5030015NSNS,DD9A5030015NSNS,DD9A5030015NSNS,DD9A5030015NSNS,DD9A5030015NSNS,DC4C2102029A1A2,DC4C2102029A1A2,DC4C2102029A1A2,DC4C2102029A1A2,DC4C2102029A1A2,DC4C2102029A1A2,DC4C2102029A1A2,DD6C4010095H1A5,DD6C4010095H1A5,DD6C4010095H1A5,DD6C4010095H1A5,DD6C4010095H1A5,DD6C4010095H1A5,DD6C4010095H1A5,DC4C1120311A1A2,DC4C1120311A1A2,DC4C1120311A1A2,DC4C1120311A1A2",
-  "organisation": "Department of Telecommunications (DOT)",
-  "ministry": "Ministry of Communications",
-  "department": "Department of Telecommunications (DOT)",
+  "organisation": "Iti Limited",
+  "ministry": "Ministry Of Communications",
+  "department": "Department Of Telecommunications (dot)",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "DC7A8000016A1A9,DD9A5030018A1A1,DD9A5030015NSNS,DC4C2102029A1A2,DD6C4010095H1A5,DC4C1120311A1A2,DD6",
   "quantity": 915,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-03T16:20:42+05:30",
   "closing_at": "2026-11-17T17:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10121131"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 5
+    },
+    {
+      "name": "View File",
+      "url": "https://mkp.gem.gov.in/uploaded_documents/51/16/877/OrderItem/BoqDocument/2026/11/3/technical_2026-11-03-16-12-10_a53faa93151dc4ad657f49a9a4265672.pdf",
+      "page": 6
+    },
+    {
+      "name": "View File",
+      "url": "https://mkp.gem.gov.in/uploaded_documents/51/16/877/OrderItem/BoqLineItemsDocument/2026/11/3/boq_item_sample_file_2026-11-03-16-12-10_1e18ffc6f218b55e807e750cba7ecc8b.csv",
+      "page": 6
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261103",
+      "page": 14
     }
   ],
   "tags": [
@@ -34,5 +54,263 @@
   ],
   "source_fetched_at": "2026-11-04T16:39:13.583Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-18T17:00:00+05:30",
+  "office": "Corporate Office Bangalore",
+  "buyer_email": "vineetha_bgp@itiltd.co.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-05T00:26:19.797896+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "6c9c2af8495de00ed630a5c1e4fe737c257febbcb0db73b4c33d7d9a56e4639c",
+  "document_pages": 14,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 2)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 2)",
+    "Documents required from seller: Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Vineetha K",
+      "address": "560016,F-100 Central Purchase ITI Ltd Bengaluru Plant",
+      "quantity": 100,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    },
+    {
+      "page": 7,
+      "consignee": "Vineetha K",
+      "address": "560016,F-100 Central Purchase ITI Ltd Bengaluru Plant",
+      "quantity": 220,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    },
+    {
+      "page": 7,
+      "consignee": "Vineetha K",
+      "address": "560016,F-100 Central Purchase ITI Ltd Bengaluru Plant",
+      "quantity": 120,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    },
+    {
+      "page": 8,
+      "consignee": "Vineetha K",
+      "address": "560016,F-100 Central Purchase ITI Ltd Bengaluru Plant",
+      "quantity": 250,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    },
+    {
+      "page": 9,
+      "consignee": "Vineetha K",
+      "address": "560016,F-100 Central Purchase ITI Ltd Bengaluru Plant",
+      "quantity": 150,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    },
+    {
+      "page": 9,
+      "consignee": "Vineetha K",
+      "address": "560016,F-100 Central Purchase ITI Ltd Bengaluru Plant",
+      "quantity": 50,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    },
+    {
+      "page": 10,
+      "consignee": "Vineetha K",
+      "address": "560016,F-100 Central Purchase ITI Ltd Bengaluru Plant",
+      "quantity": 25,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [],
+  "buyer_added_terms": [
+    {
+      "page": 10,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 3. Generic Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of technical parameters, the bid is liable for rejection. 4. Sample Clause"
+    },
+    {
+      "page": 11,
+      "text": "After award of contract – Successful Bidder shall have to get advance sample approved from buyer before bulk manufacturing / starting bulk supplies. Successful Bidder shall submit 1 samples for Buyer's approval, within 5 days of award of contract. Buyer shall, as per contract specifications framework, either approve the advance sample or will provide complete list of modification required in the sample within 5 days of receipt of advance sample. Seller shall be required to ensure supply as per approved sample with modifications as communicated by Buyer. If there is delay from buyer side in approval of advance sample – the delivery period shall be refixed without LD for the period of delay in sample approval. In case, the sample is found to have major deviations / not conforming to the Contract specifications, the buyer at its discretion may call for fresh samples for approval before allowing bulk supplies or may terminate the contract after notifying the deviations to the seller. Unless otherwise provided in the contract, all samples required for test shall be supplied by the contractor free of cost. Where under the contract, the contractor is required to submit an advance sample, any expenses incurred by the contractor on or in connection with the production of stores in bulk, before the sample has been approved unconditionally shall be borne by the Seller and he shall not claim any compensation in the event of such sample being found unacceptable by the Buyer / Consignee. 5. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. The material should match the MPN and Make details mentioned in t he technical document. If any clarification required, please write to mai l \"vineetha_bgp@itiltd.co.in\" and \"pnchaudhary_bgp@itiltd.co.in\".The s ame mail IDs may used for further communications. 2. The bids without MPN and Make details in company letter head with seal and sign will not be considered for evaluation. Otherwise, bids will get rejected. Quoted MPN shall be mentioned clearly in the document. 3. Bidder should take the sample approval from the user department b efore bulk supply. 4. Price should be mentioned per Nos. 5. Payment term: 100% within 45 days after the delivery and accepta nce. 6· Delivery Location: IGA Stores, Bangalore Plant, ITI Limited Bangalore ,Dooravaninagar-560016.(igastores_bgp@itiltd.co.in). 7. Warranty clause should be mentioned in the bid and the certificate s hall be submitted along with supply(if applicable) . 8· Lead time should be clearly specified in the bid.It should be of the sa me delivery time mentioned below. 9. MSME certificate shall be submitted if applicable. Failing which, rese rvation will not be applicable. 10· All offers should be complete with specification /catalogue (English only). 11· Validity: Quotations should be valid for a period of 180 days from t"
+    },
+    {
+      "page": 12,
+      "text": "he due date of tender. 12. Once quotation is accepted and order is confirmed, the price must remain same till the completion of the order. 13· Delivery Schedule: Within 30 days from the date of PO. 14· Inspection: Inspection of goods at our work is final. Goods rejected will be returned on freight to pay basis. Packing & forwarding charges i n respect of such consignment will be debited to your account. 15. We reserve the right to accept or reject any or all offers and order part or full quantity,without assigning any reason. 16· The quote must be for the quantity specified in the enquiry. . 17. COC,Test reports etc.shall be submitted along with supply for inspe ction clearance. 18.Liquidated Damages and risk purchase clauses: In case of any chan ge in the delivery period, the supplier should inform us in advance and obtain approval to the revised delivery schedule.If the supplier fail to d eliver the material in full/ part there of, we shall be entitled at our opti on either to recover from the supplier the liquidated damages and not as penalty, a sum equivalent to half percent(1/2%) of the contract pric e of the item per week of such delay or part thereof subject to maximu m of 10% of the contract price of the item delayed or to terminate the contract in respect of balance quantity so delayed and purchase m ate rial elsewhere at the risk of supplier. FAILURE TO ADHERE TO ANY OF THE ABOVE, WILL DISQUALIFY THE OF FER. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8235068",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121131"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 17-11-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121131"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 18-11-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121131"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121131"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Communications",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121131"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Telecommunications (dot)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121131"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Iti Limited",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121131"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Corporate Office Bangalore",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121131"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :satishkumar_crp@itiltd.co.in Buyer Email id: vineetha_bgp@itiltd.co.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121131"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 915",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121131"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: DC7A8000016A1A9 , DD9A5030018A1A1 , DD9A5030015NSNS , DC4C2102029A1A2 , DD6C4010095H1A5 , DC4C1120311A1A2 , DD6A3000801NSNS",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121131"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 2,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121131"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 2,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121131"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121131"
+    },
+    {
+      "field": "tender_type",
+      "page": 3,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121131"
+    },
+    {
+      "field": "emd_required",
+      "page": 3,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121131"
+    },
+    {
+      "field": "emd_fee",
+      "page": 3,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121131"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Vineetha K | 560016,F-100 Central Purchase ITI Ltd Bengaluru Plant | 100 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121131"
+    },
+    {
+      "field": "consignees",
+      "page": 7,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Vineetha K | 560016,F-100 Central Purchase ITI Ltd Bengaluru Plant | 220 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121131"
+    },
+    {
+      "field": "consignees",
+      "page": 7,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Vineetha K | 560016,F-100 Central Purchase ITI Ltd Bengaluru Plant | 120 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121131"
+    },
+    {
+      "field": "consignees",
+      "page": 8,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Vineetha K | 560016,F-100 Central Purchase ITI Ltd Bengaluru Plant | 250 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121131"
+    },
+    {
+      "field": "consignees",
+      "page": 9,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Vineetha K | 560016,F-100 Central Purchase ITI Ltd Bengaluru Plant | 150 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121131"
+    },
+    {
+      "field": "consignees",
+      "page": 9,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Vineetha K | 560016,F-100 Central Purchase ITI Ltd Bengaluru Plant | 50 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121131"
+    },
+    {
+      "field": "consignees",
+      "page": 10,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Vineetha K | 560016,F-100 Central Purchase ITI Ltd Bengaluru Plant | 25 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121131"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 3. Generic Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of technical parameters, the bid is liable for rejection. 4. Sample Clause",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121131"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 11,
+      "quote": "After award of contract – Successful Bidder shall have to get advance sample approved from buyer before bulk manufacturing / starting bulk supplies. Successful Bidder shall submit 1 samples for Buyer's approval, within 5 days of award of contract. Buyer shall, as per contract specifications framework, either approve the advance sample or will provide complete list of modification required in the sample within 5 days of receipt of advance sample. Seller shall be required to ensure supply as per approved sample with modifications as communicated by Buyer. If there is delay from buyer side in approval of advance sample – the delivery period shall be refixed without LD for the period of delay in sample approval. In case, the sample is found to have major deviations / not conforming to the Contract specifications, the buyer at its discretion may call for fresh samples for approval before allowing bulk supplies or may terminate the contract after notifying the deviations to the seller. Unless otherwise provided in the contract, all samples required for test shall be supplied by the contractor free of cost. Where under the contract, the contractor is required to submit an advance sample, any expenses incurred by the contractor on or in connection with the production of stores in bulk, before the sample has been approved unconditionally shall be borne by the Seller and he shall not claim any compensation in the event of such sample being found unacceptable by the Buyer / Consignee. 5. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. The material should match the MPN and Make details mentioned in t he technical document. If any clarification required, please write to mai l \"vineetha_bgp@itiltd.co.in\" and \"pnchaudhary_bgp@itiltd.co.in\".The s ame mail IDs may used for further communications. 2. The bids without MPN and Make details in company letter head with seal and sign will not be considered for evaluation. Otherwise, bids will get rejected. Quoted MPN shall be mentioned clearly in the document. 3. Bidder should take the sample approval from the user department b efore bulk supply. 4. Price should be mentioned per Nos. 5. Payment term: 100% within 45 days after the delivery and accepta nce. 6· Delivery Location: IGA Stores, Bangalore Plant, ITI Limited Bangalore ,Dooravaninagar-560016.(igastores_bgp@itiltd.co.in). 7. Warranty clause should be mentioned in the bid and the certificate s hall be submitted along with supply(if applicable) . 8· Lead time should be clearly specified in the bid.It should be of the sa me delivery time mentioned below. 9. MSME certificate shall be submitted if applicable. Failing which, rese rvation will not be applicable. 10· All offers should be complete with specification /catalogue (English only). 11· Validity: Quotations should be valid for a period of 180 days from t",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121131"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 12,
+      "quote": "he due date of tender. 12. Once quotation is accepted and order is confirmed, the price must remain same till the completion of the order. 13· Delivery Schedule: Within 30 days from the date of PO. 14· Inspection: Inspection of goods at our work is final. Goods rejected will be returned on freight to pay basis. Packing & forwarding charges i n respect of such consignment will be debited to your account. 15. We reserve the right to accept or reject any or all offers and order part or full quantity,without assigning any reason. 16· The quote must be for the quantity specified in the enquiry. . 17. COC,Test reports etc.shall be submitted along with supply for inspe ction clearance. 18.Liquidated Damages and risk purchase clauses: In case of any chan ge in the delivery period, the supplier should inform us in advance and obtain approval to the revised delivery schedule.If the supplier fail to d eliver the material in full/ part there of, we shall be entitled at our opti on either to recover from the supplier the liquidated damages and not as penalty, a sum equivalent to half percent(1/2%) of the contract pric e of the item per week of such delay or part thereof subject to maximu m of 10% of the contract price of the item delayed or to terminate the contract in respect of balance quantity so delayed and purchase m ate rial elsewhere at the risk of supplier. FAILURE TO ADHERE TO ANY OF THE ABOVE, WILL DISQUALIFY THE OF FER. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121131"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

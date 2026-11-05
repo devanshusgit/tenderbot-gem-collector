@@ -1,27 +1,27 @@
 {
-  "page": 4496,
-  "complete": false,
-  "status": "succeeded",
-  "source_total": 46206,
+  "page": 4610,
+  "complete": true,
+  "status": "failed",
+  "source_total": 46098,
   "note": "Imported actual source observations; cloud traversal starts from page1 for conservative coverage.",
-  "last_run_at": "2026-11-05T01:12:19.314656+00:00",
-  "error": null,
-  "source_checked_at": "2026-11-05T01:22:20.299463+00:00",
+  "last_run_at": "2026-11-05T04:07:33.333507+00:00",
+  "error": "PortalError",
+  "source_checked_at": "2026-11-05T04:13:52.452699+00:00",
   "source_health": {
-    "status": "reachable",
+    "status": "unavailable",
     "stage": "http",
-    "http_status": 200
+    "http_status": 503
   },
   "source_runtime": "cloudflare-workers",
-  "newest_refresh_complete": true,
-  "newest_refresh_pages": 1249,
-  "newest_refresh_run_pages": 94,
-  "newest_refresh_run_started_at": "2026-11-05T01:12:19.333234+00:00",
-  "newest_refresh_cutoff": "2026-10-31T23:27:04.785501+00:00",
-  "newest_refresh_started_at": "2026-11-02T15:23:35.530083+00:00",
-  "newest_refresh_stop_reason": "cutoff",
-  "newest_refresh_source_total": 46206,
-  "newest_refresh_finished_at": "2026-11-05T01:15:23.482546+00:00",
+  "newest_refresh_complete": false,
+  "newest_refresh_pages": 90,
+  "newest_refresh_run_pages": 90,
+  "newest_refresh_run_started_at": "2026-11-05T04:07:33.352051+00:00",
+  "newest_refresh_cutoff": "2026-11-02T14:23:35.530083+00:00",
+  "newest_refresh_started_at": "2026-11-05T04:07:33.352035+00:00",
+  "newest_refresh_stop_reason": "budget",
+  "newest_refresh_source_total": 46098,
+  "newest_refresh_finished_at": "2026-11-05T04:11:03.952414+00:00",
   "last_success_at": "2026-11-05T01:24:19.486671+00:00",
   "newest_refresh_watermark": "2026-11-02T15:23:35.530083+00:00",
   "newest_refresh_last_complete_at": "2026-11-05T01:15:23.481869+00:00",
@@ -29,9 +29,10 @@
   "last_run_kind": "collection",
   "last_documents_success_at": "2026-11-05T01:01:09.627061+00:00",
   "document_batch": {
-    "attempted": 106,
-    "downloaded": 106,
-    "failed": 0,
-    "source_failures": 0
-  }
+    "attempted": 6,
+    "downloaded": 2,
+    "failed": 4,
+    "source_failures": 4
+  },
+  "error_message": "The document source remains unavailable after bounded transport attempts; retry the batch later."
 }

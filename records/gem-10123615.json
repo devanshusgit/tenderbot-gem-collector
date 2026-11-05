@@ -5,9 +5,9 @@
   "tender_id": "GEM/2026/R/764687",
   "title": "SLIP ON FLANGEDRG. 2092020000,SLIP ON FLANGEDRG. 2092020000,25 NB FLANGE SS316 AS PER DRG 209203820",
   "description": "40 NB SS 316 SET IN FLANGE DRG NO 2092165000,50 NB SET ON FLANGE MS GALV DRG. 2092130000,25 NB SET IN FLANGE DRG. NO. 2092160000,32 NB SET IN FLANGE DRG. NO. 2092160000,50 NB SET IN FLANGE DRG. NO. 2092160000,65 NB SET IN FLANGE DRG. NO. 2092160000,80 NB SET IN FLANGE DRG. NO. 2092160000,25 NB SET IN FLANGE MS GALV DRG. 2092160000,32 NB MS GALV SET IN FLANGE DRG NO 2092160000,40 NB SET IN FLANGE MS GALV DRG. 2092160000,50 NB SET IN FLANGE MS GALV DRG. 2092160000,65 NB SET IN FLANGE DRG. 2092160000,32 NB SS 316 SET IN FLANGE DRG NO 2092165000,SET ON FLANGE DRG.2092130000,65 NB SS 316 SET IN FLANGE DRG NO 2092165000,25 NB SS SET IN FLANGE DRG NO 2092166000,40 NB SS SET IN FLANGE DRG NO 2092166000,65 NB SS SET IN FLANGE DRG NO 2092166000,80 NB SS SET IN FLANGE DRG NO 2092166000,100 NB SS SET IN FLANGE DRG NO 2092166000,15 NB COMP. SET IN FLANGE DRG. NO. 2092210000,40 NB COMP. SET IN FLANGE DRG. NO. 2092210000,50 NB COMP. SET IN FLANGE DRG. NO. 2092210000,65 NB COMP. SET IN FLANGE DRG. NO. 2092210000,100 NB COMP.",
-  "organisation": "Department of Defence Production",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Defence Production",
+  "organisation": "Goa Shipyard Limited",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Defence Production",
   "portal_name": "GeM",
   "state": [],
   "city": [],
@@ -25,8 +25,18 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10123615"
+    },
+    {
+      "name": "GEM/2026/B/7962002",
+      "url": "https://bidplus.gem.gov.in/showbidDocument/9807117",
+      "page": 2
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261104",
+      "page": 2
     }
   ],
   "tags": [
@@ -34,5 +44,99 @@
   ],
   "source_fetched_at": "2026-11-05T04:52:41.190Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "bidder_turnover_lakhs": 11,
+  "ra_start_at": "2026-11-05T11:00:00+05:30",
+  "mse_exemption": "MSE Exemption for Years of Experience and Turnover: No",
+  "startup_exemption": "Startup Exemption for Years of Experience and Turnover: No",
+  "originating_bid_reference": "GEM/2026/B/7962002",
+  "source_document_fetched_at": "2026-11-05T14:51:02.509161+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "0186dad516c670ab6ddc7e47a125b312e928ccd1affbb7029e7b3b366d14a316",
+  "document_pages": 2,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 11 Lakh (s) (GeM PDF, p. 2)",
+    "MSE Exemption for Years of Experience and Turnover: No (GeM PDF, p. 2)",
+    "Startup Exemption for Years of Experience and Turnover: No (GeM PDF, p. 2)"
+  ],
+  "consignees": [],
+  "technical_specifications": [],
+  "buyer_added_terms": [],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/764687",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10123615"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 2,
+      "quote": "Please refer to Bid document of GEM/2026/B/7962002",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10123615"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 05-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10123615"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 06-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10123615"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10123615"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Defence Production",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10123615"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Goa Shipyard Limited",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10123615"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 2828",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10123615"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: SLIP ON FLANGEDRG. 2092020000 , 25 NB FLANGE SS316 AS PER DRG 2092038200 , 32 NB FLANGE SS316 AS PER DRG 2092038200 , 40 NB FLANGE SS316 AS PER DRG 2092038200 , 50 NB FLANGE SS316 AS PER DRG 2092038200 , 65 NB FLANGE SS316 AS PER DRG 2092038200 , 80 NB FLANGE SS316 AS PER DRG 2092038200 , 100 NB SS AISI 316 L BLANK FLANGE DIN ND 10 STD , 40 NB SET ON FLANGE DRG. 2092130000 , SET ON FLANGE 65 NB DRG. NO. 2092130000 , SET ON FLANGE DRG.2092130000 , 50 NB SET ON FLANGE MS GALV DRG. 2092130000 , 25 NB SET IN FLANGE DRG. NO. 2092160000 , 32 NB SET IN FLANGE DRG. NO. 2092160000 , 50 NB SET IN FLANGE DRG. NO. 2092160000 , 65 NB SET IN FLANGE DRG. NO. 2092160000 , 80 NB SET IN FLANGE DRG. NO. 2092160000 , 25 NB SET IN FLANGE MS GALV DRG. 2092160000 , 32 NB MS GALV SET IN FLANGE DRG NO 2092160000 , 40 NB SET IN FLANGE MS GALV DRG. 2092160000 , 50 NB SET IN FLANGE MS GALV DRG. 2092160000 , 65 NB SET IN FLANGE DRG. 2092160000 , 32 NB SS 316 SET IN FLANGE DRG NO 2092165000 , 40 NB SS 316 SET IN FLANGE DRG NO 2092165000 , 65 NB SS 316 SET IN FLANGE DRG NO 2092165000 , 25 NB SS SET IN FLANGE DRG NO 2092166000 , 40 NB SS SET IN FLANGE DRG NO 2092166000 , 65 NB SS SET IN FLANGE DRG NO 2092166000 , 80 NB SS SET IN FLANGE DRG NO 2092166000 , 100 NB SS SET IN FLANGE DRG NO 2092166000 , 15 NB COMP. SET IN FLANGE DRG. NO. 2092210000 , 40 NB COMP. SET IN FLANGE DRG. NO. 2092210000 , 50 NB COMP. SET IN FLANGE DRG. NO. 2092210000 , 65 NB COMP. SET IN FLANGE DRG. NO. 2092210000 , 100 NB COMP. SET IN FLANGE DRG.2092210000 , COMPOSITE SET IN FLANGE FOR CUNI PIPES 150 NB SEF21",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10123615"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 2,
+      "quote": "Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 11 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10123615"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 2,
+      "quote": "MSE Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10123615"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 2,
+      "quote": "Startup Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10123615"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda."
 }

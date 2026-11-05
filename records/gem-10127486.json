@@ -5,9 +5,9 @@
   "tender_id": "GEM/2026/R/765062",
   "title": "N7510-002416,N7510-002417,N7510-002418,N7510-002427,N7510-002428,N7510-002429,N7520-000850,N7520-00",
   "description": "N7510-002416,N7510-002417,N7510-002418,N7510-002427,N7510-002428,N7510-002429,N7520-000850,N7520-000851,N7520-000852,N7520-000853,N7520-000854,N7520-000855,N7520-000856,N7520-000857,N7520-000858,N7520-000859,N7520-000860,N7520-000861,N7520-000862,N7520-000863,N7520-000864,N7530-001401,N7540-000021,N7540-P062762,N7540-P062763,N7540-P062765,N7540-P062768,N7540-P062781,N7540-P062782,N7540-P062785,N7540-P062788,N7540-P062789,N7540-P062796,N7540-P062797,N7540-P062798,N7540-P062799,N7540-P062800,N7540-P062801,N7540-P062802,N7540-P062803,N7540-P062804,N7540-P062805,N7540-P063093,N7540-P063094,N7540-P063095,N7540-P063096,N7540-P063097,N7540-P063099,N7540-P063100,N7540-P063101,N7540-P063102,N7540-P063103,N7540-P063104,N7540-P063105,N7540-P063106,N7540-P063107,N7540-P063108,N7540-P063109,N7540-P063110,N7540-P063111,N7540-P063112,N7540-P063113,N7540-P063114,N7540-P063115,N7540-P063116,N7540-P063117,N7540-P063118,N7540-P063119,N7540-P063120,N7540-P063121,N7540-STY-105,N7540-STY-111,N7540-STY-146,N7540-STY-147,N7540-STY-1",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Navy",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
@@ -25,8 +25,18 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10127486"
+    },
+    {
+      "name": "GEM/2026/B/7942637",
+      "url": "https://bidplus.gem.gov.in/showbidDocument/9784615",
+      "page": 2
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261104",
+      "page": 2
     }
   ],
   "tags": [
@@ -34,5 +44,99 @@
   ],
   "source_fetched_at": "2026-11-05T05:05:03.541Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "bidder_turnover_lakhs": 100,
+  "ra_start_at": "2026-11-05T17:00:00+05:30",
+  "mse_exemption": "MSE Exemption for Years Of Experience: Yes | Complete",
+  "startup_exemption": "Startup Exemption for Years Of Experience: Yes | Complete",
+  "originating_bid_reference": "GEM/2026/B/7942637",
+  "source_document_fetched_at": "2026-11-05T06:09:01.550619+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "06a455a262158af7635187776d3d261fa7c32dc45a95b3bc34c3475d9f1c3887",
+  "document_pages": 2,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 100 Lakh (s) (GeM PDF, p. 2)",
+    "MSE Exemption for Years Of Experience: Yes | Complete (GeM PDF, p. 2)",
+    "Startup Exemption for Years Of Experience: Yes | Complete (GeM PDF, p. 2)"
+  ],
+  "consignees": [],
+  "technical_specifications": [],
+  "buyer_added_terms": [],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/765062",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10127486"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 2,
+      "quote": "Please refer to Bid document of GEM/2026/B/7942637",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10127486"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 05-11-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10127486"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 06-11-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10127486"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10127486"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10127486"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Navy",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10127486"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 889784",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10127486"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: N7510-002416 , N7510-002417 , N7510-002418 , N7510-002427 , N7510-002428 , N7510-002429 , N7520-000850 , N7520-000851 , N7520-000852 , N7520-000853 , N7520-000854 , N7520-000855 , N7520-000856 , N7520-000857 , N7520-000858 , N7520-000859 , N7520-000860 , N7520-000861 , N7520-000862 , N7520-000863 , N7520-000864 , N7530-001401 , N7540-000021 , N7540-P062762 , N7540-P062763 , N7540-P062765 , N7540-P062768 , N7540-P062781 , N7540-P062782 , N7540-P062785 , N7540-P062788 , N7540-P062789 , N7540-P062796 , N7540-P062797 , N7540-P062798 , N7540-P062799 , N7540-P062800 , N7540-P062801 , N7540-P062802 , N7540-P062803 , N7540-P062804 , N7540-P062805 , N7540-P063093 , N7540-P063094 , N7540-P063095 , N7540-P063096 , N7540-P063097 , N7540-P063099 , N7540-P063100 , N7540-P063101 , N7540-P063102 , N7540-P063103 , N7540-P063104 , N7540-P063105 , N7540-P063106 , N7540-P063107 , N7540-P063108 , N7540-P063109 , N7540-P063110 , N7540-P063111 , N7540-P063112 , N7540-P063113 , N7540-P063114 , N7540-P063115 , N7540-P063116 , N7540-P063117 , N7540-P063118 , N7540-P063119 , N7540-P063120 , N7540-P063121 , N7540-STY-105 , N7540-STY-111 , N7540-STY-146 , N7540-STY-147 , N7540-STY-152 , N7540-STY-172 , N7540-STY-178 , N7540-STY-179 , N7540-STY-183 , N7540-STY-187 , N7540-STY-195 , N7540-STY-197 , N7540-STY-198 , N7540-STY-44 , N7540-STY-5 , N7540-STY-61 , N7540-STY-62 , N7540-STY-63 , N7540-STY-64 , N7540-STY-65 , N7540-STY-67 , N7540-STY-68 , N7540-STY-71 , N7540-STY-73 , N7540-STY-75 , N7540-STY-77 , N7540-STY-81 , N7540-STY-FO-48 , N7540-STY-FO-49 , N7540-STY-FO-51 , N7540-STY-FO-53",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10127486"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 2,
+      "quote": "Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 100 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10127486"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 2,
+      "quote": "MSE Exemption for Years Of Experience: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10127486"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 2,
+      "quote": "Startup Exemption for Years Of Experience: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10127486"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda."
 }

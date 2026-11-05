@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8237277",
   "title": "Entry and Mid Level Desktop Computer",
   "description": "Entry and Mid Level Desktop Computer",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Army",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Entry and Mid Level Desktop Computer",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-04T18:19:42+05:30",
   "closing_at": "2026-11-07T13:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10123630"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/fFVWJs_pr6MaCtn906TuD0t9rEfCMtdBFzb4geCyDm0",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261104",
+      "page": 13
     }
   ],
   "tags": [
@@ -34,5 +49,450 @@
   ],
   "source_fetched_at": "2026-11-05T05:10:57.709Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-08T13:00:00+05:30",
+  "buyer_email": "worldwonac.1218@gov.in",
+  "emd_required": false,
+  "oem_turnover_lakhs": 4,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "30 (Days)",
+  "estimated_bid_value": 125000,
+  "source_document_fetched_at": "2026-11-05T15:49:47.888342+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "b835a35c5030765cc49f0758c335c3f3dd4c7343cb661db21fb8ea43e0d3aa6e",
+  "document_pages": 13,
+  "eligibility": [
+    "OEM average turnover (last 3 years): 4 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 10 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 7,
+      "consignee": "***********",
+      "address": "***********Rajauri",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "PROCESSOR",
+          "parameter": "Description of Stores",
+          "value": "Desktop Computer with Table Mount Monitor System with Compatible Chipset as per Processor Make with Minimum 6 USB Port"
+        },
+        {
+          "group": "PROCESSOR",
+          "parameter": "Computer Type",
+          "value": "Mid Level"
+        },
+        {
+          "group": "PROCESSOR",
+          "parameter": "Processor Number",
+          "value": "AMD Ryzen 5 5600G, Intel Core i5 12400 Or higher"
+        },
+        {
+          "group": "MOTHERBOARD",
+          "parameter": "Expansion Slots (PCIe x 1)",
+          "value": "1, 2 Or higher"
+        },
+        {
+          "group": "MOTHERBOARD",
+          "parameter": "Expansion Slots (PCIe x 4)",
+          "value": "0, 1, 2 Or higher"
+        },
+        {
+          "group": "MOTHERBOARD",
+          "parameter": "Expansion Slots (PCIe x 16)",
+          "value": "1, 2 Or higher"
+        },
+        {
+          "group": "MOTHERBOARD",
+          "parameter": "Expansion Slots (M Dot 2) for SSD",
+          "value": "1, 2 Or higher"
+        },
+        {
+          "group": "MOTHERBOARD",
+          "parameter": "Expansion Slots (M Dot 2) for WiFi",
+          "value": "1 Or higher"
+        },
+        {
+          "group": "MOTHERBOARD",
+          "parameter": "Trusted Platform Module",
+          "value": "Discrete TPM 2.0"
+        },
+        {
+          "group": "GRAPHICS",
+          "parameter": "Graphics Type",
+          "value": "Dedicated/Discrete"
+        },
+        {
+          "group": "GRAPHICS",
+          "parameter": "Size of Memory in Case of Dedicated Graphic Card (GB)",
+          "value": "1.0, 4.0 Or higher"
+        },
+        {
+          "group": "OPERATING SYSTEM",
+          "parameter": "Factory Pre-loaded Operating System by Desktop OEM",
+          "value": "Window 11 Professional"
+        },
+        {
+          "group": "MEMORY (RAM)",
+          "parameter": "RAM Size (Memory Card/Module) (in GB) (Capacity to be installed in the System)",
+          "value": "16, 32 Or higher"
+        },
+        {
+          "group": "MEMORY (RAM)",
+          "parameter": "Memory Expandable Up To (in GB)",
+          "value": "64, 128 Or higher"
+        },
+        {
+          "group": "MEMORY (RAM)",
+          "parameter": "Total Numbers of DIMM Slots Available",
+          "value": "2, 4 Or higher"
+        },
+        {
+          "group": "MEMORY (RAM)",
+          "parameter": "Number of DIMM Slots Populated with Memory Card/Module",
+          "value": "2, 1"
+        },
+        {
+          "group": "STORAGE",
+          "parameter": "Type of Storage Installed with the System",
+          "value": "NVMe-SSD Plus HDD@5400 RPM, NVMe-SSD"
+        },
+        {
+          "group": "STORAGE",
+          "parameter": "SSD - Storage Capacity (in GB)",
+          "value": "1024, 2048 Or higher"
+        },
+        {
+          "group": "STORAGE",
+          "parameter": "HDD - Storage Capacity (in GB)",
+          "value": "0 as SSD only Installed, 500, 1000, 2000 Or higher"
+        },
+        {
+          "group": "BAYS AVAILABILITY",
+          "parameter": "Number of Internal Bays Available, Size 2 Point 5 Inch",
+          "value": "0, 1, 2 Or higher"
+        },
+        {
+          "group": "BAYS AVAILABILITY",
+          "parameter": "Number of Internal Bay Populated, Size 2 Point 5 Inch",
+          "value": "1, 0"
+        },
+        {
+          "group": "BAYS AVAILABILITY",
+          "parameter": "Number of Internal Bays Available, Size 3 Point 5 inch",
+          "value": "1, 2 Or higher"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Number of Internal Bay Populated, Size 3 Point 5 inch",
+          "value": "1, 0"
+        },
+        {
+          "group": "CABINET",
+          "parameter": "Cabinet Form Factor",
+          "value": "Tower (More than 13 to 26 Liters)"
+        },
+        {
+          "group": "CABINET",
+          "parameter": "Bays for Optical Drive",
+          "value": "0, 1 Or higher"
+        },
+        {
+          "group": "CABINET",
+          "parameter": "Optical Drive",
+          "value": "No Optical Drive, DVD R/W"
+        },
+        {
+          "group": "CABINET",
+          "parameter": "Audio Interface Type",
+          "value": "Universal 3.5 mm Audio Jack (Support for Audio-in and Audio out), Audio-in, Audio-out"
+        },
+        {
+          "group": "PORTS",
+          "parameter": "Number of USB Type A Port (Version 2 Point 0)",
+          "value": "2, 3, 4 Or higher"
+        },
+        {
+          "group": "PORTS",
+          "parameter": "Number of USB Type A Port (Version 3 point 2 Gen 1)",
+          "value": "3, 4, 5, 6 Or higher"
+        },
+        {
+          "group": "PORTS",
+          "parameter": "Number of USB Ports Type C",
+          "value": "1, 2 Or higher"
+        },
+        {
+          "group": "PORTS",
+          "parameter": "Number of VGA Ports",
+          "value": "0, 1 Or higher"
+        },
+        {
+          "group": "PORTS",
+          "parameter": "Number of HDMI Ports",
+          "value": "1 Or higher"
+        },
+        {
+          "group": "PORTS",
+          "parameter": "Number of DP Ports",
+          "value": "1 Or higher"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Availibility of Monitor",
+          "value": "Yes as per IS 13252 (Part 1)"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Panel Type",
+          "value": "Twisted Nematic (TN), In Plane Switching (IPS)"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Display Technology",
+          "value": "LED Backlit LCD (Liquid Crystal Display)"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Screen Size (in CMs)",
+          "value": "53.1 - 58 (20.91\" - 22.83\")"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Maximum Resolution (Pixels)",
+          "value": "1920 x 1080 (Full HD)"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Monitor Port",
+          "value": "HDMI, VGA, Display Port"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Integrated Webcam with Mic",
+          "value": "No"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Speaker",
+          "value": "No"
+        },
+        {
+          "group": "INPUT DEVICES",
+          "parameter": "Mouse Connectivity",
+          "value": "USB Wired, Wireless Or higher"
+        },
+        {
+          "group": "INPUT DEVICES",
+          "parameter": "Keyboard Connectivity",
+          "value": "USB Wired, Wireless Or higher"
+        },
+        {
+          "group": "INPUT DEVICES",
+          "parameter": "Type of Keyboard",
+          "value": "Mechanical, Standard"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "On Site OEM Warranty (in Year)",
+          "value": "3, 4, 5 Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 9,
+      "text": "1. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses ADDITIONAL TERMS AND CONDITIONS 1. The scope of work includes the supply, installation, testing, and commissioning of hardware Items. 2. Payment will be done after supply & installation, testing, and commissioning of hardware Items. 3. This procurement treated as per Trunkey project. 4. Generic Option Clause: The Purchaser reserves the right to increase or decrease the quantity to be or dered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves th e right to increase the ordered quantity by up to 25% of the contracted quantity during the currency of the contract at the contracted rates. Bidders are bound to accept the orders accordingly. 5. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or si milar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 6. Generic Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have re gularly, manufactured and supplied same or similar Category Products to any Central / State Govt Organiz ation / PSU / Public Listed Company for 3 years before the bid opening date. Copies of relevant contracts t o be submitted along with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the primary product having highest value should meet this criterion. 7. Generic Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid docume nts. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any une xplained mismatch of technical parameters, the bid is liable for rejection. 8. bid:-Generic Malicious Code Certificate: The seller should upload following certificate in the 8.1 This is to certify that the Hardware and the Software being offered, as part of the contract, does not contain Embedded Malicious code that would activate procedures to :- (i) Inhibit the desires and designed function of the equipment. (ii) Cause physical damage to the user or equipment during the exploitation. (iii) Tap information resident or transient in the equipment/network. (iv) The firm will be considered to be in breach of the procurement contract, in case physical damage, loss of information or infringements related to copyright and Intellectual Property Right (IPRs) are caused due to activation of any such malicious code in embedded software."
+    },
+    {
+      "page": 10,
+      "text": "9. Generic Manufacturer Authorization: Wherever Authorised Distributors/service providers are submitting t he bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designatio n, address, e-mail Id and Phone No. required to be furnished along with the bid. 10.Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 11. Turnover Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder du ring the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of co nstitution / incorporation of the bidder is less than 3 year old, the average turnover in respect of the compl eted financial years after the date of constitution shall be taken into account for this criteria. 12. Replacement Clause: Any defective or damaged item shell be replaced at no extra Cost. 13. Turnover OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the off ered product during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of rel evant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover det ails for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution sha ll be taken into account for this criteria. In case of bunch bids, the OEM of category related to primary product having highest bid value should meet this criterion. 14. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods havin g on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM sh all have to establish one within 30 days of award of contract. Payment shall be released only after submiss ion of documentary evidence of having Functional Service Centre. 15. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have De dicated/toll Free Telephone No. for Service Support. 16. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix o f Telephone Numbers for Service Support. 17. Certificates ISO 9001: The bidder or the OEM of the offered products must have ISO 9001 certification. 18. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates/ documents sought in the Bid document, ATC and Corrigendum if any. 19. Certificates The bidder is required to upload, along with the bid, all relevant certificatessuch as BIS lice nce, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 20. Past Project Experience Proof for Past Experience and Project Experience clause: For fulfilling the exper ience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. 6 / 8 Contract copy along with Invoice(s) with self-certification b y the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution l"
+    },
+    {
+      "page": 11,
+      "text": "ike Third Party Inspection release note, etc.Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be conside red as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been execute d.b. Execution certificate by client with contract value.c. Any other document in support of contract execu tion like Third Party Inspection release note, etc. 21. Past Project Experience The Bidder / OEM {themselves or through reseller(s)}, should have executed p roject for supply and installation / commissioning of same or similar Category Products during preceding 3 financial years (i.e. current year and three previous financial years) as on opening of bid, as per following criteria: (i) Single order of at least 35% of estimated bid value; or (ii) Two orders of at least 20% each of estimated bid value; or (iii) Three orders of at least 15% each of estimat ed bid value. Satisfactory Performance certificate issued by respective Buyer Organization for the above Orders should be uploaded with bid. In case of bunch bids, the Category related to primary product having highest bid value should meet this criterion 22. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses. 22.1 Non Black Listed Certificate in Must be Submit. 22.2 If delivery is not on time, a charge of 5% will be charged per week. 22.3 ITR last 3 years 2023-24, 2024-25 & 2025-26 with balance sheet audited. 22.4 Non-Return of Hard Disk in case any hard disk, SSD, storage device or other data bearing component is replaced/removed during repair or maintenance, the removed item shall not be returned to the consigne e/User unit unless specifically demanded in writing. 22.5 Warranty Certificate must be submit in OEM letterhead. GST certificate pan card must be attached bidder 22.6 Specification Compliance must be submit OEM letter head. 22.7 Declaration by OEM/ Principal Firm / Bidder that the offered rates are lower than supplied to others. 22.8 Antivirus MII, MAF with ISO certification in network, data protection, privacy, encrypted auto back up and anti-ransomware patent certified technology certificates from OEM Ink signed documents to be uploa ded. 22.9 The OEM of the offered products must have Accredited certificate ISO 9001:2015, ISO 14001:2015, IS O 45001:2018, ISO 50001-2018, ISO 13485/2016 (APPROVED BY NABCB/NABL/IAF), GREENPRO BY CII / IGB C Membership by CII and Greengard, AIOTA BY All India Occupational Therapists Association (AIOTA) only no compliance certificate will be entertained. At least one BIFMA tested product certificate/ BIFMA Certificate, All Certificates uploaded alon g with Bid documents. 22.10 Quoted product Latest State of Art technology. The link details of the online facility (URL) of OEM/GE M should be submitted alongwith bid. 22.11 Specifications and warranty of the offered products should be available through serial no. search/tra cking on the website of OEM. 22.12 Declaration to deliver equipment within 15 days from the date of award of Contract. 22.13 OEM should have online facility to verify the specification mentioned in product description in additio n to Certificate (Energy Star or BEE, RoHS Compliance, EPR), Security (TPM 2.0 (Hardware/Firemwar). 22.14 Priority will be given OEM. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8237277",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123630"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 07-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123630"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 08-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123630"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123630"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123630"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123630"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Army",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123630"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :pashuman.pet@gov.in Buyer Email id: worldwonac.1218@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123630"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123630"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Entry and Mid Level Desktop Computer (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123630"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 4 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123630"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123630"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123630"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123630"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123630"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 10 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123630"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123630"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 125000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123630"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123630"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123630"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Description of Stores: Desktop Computer with Table Mount Monitor System with Compatible Chipset as per Processor Make with Minimum 6 USB Port | Computer Type: Mid Level | Processor Number: AMD Ryzen 5 5600G, Intel Core i5 12400 Or higher | Expansion Slots (PCIe x 1): 1, 2 Or higher | Expansion Slots (PCIe x 4): 0, 1, 2 Or higher | Expansion Slots (PCIe x 16): 1, 2 Or higher | Expansion Slots (M Dot 2) for SSD: 1, 2 Or higher | Expansion Slots (M Dot 2) for WiFi: 1 Or higher | Trusted Platform Module: Discrete TPM 2.0 | Graphics Type: Dedicated/Discrete | Size of Memory in Case of Dedicated Graphic Card (GB): 1.0, 4.0 Or higher | Factory Pre-loaded Operating System by Desktop OEM: Window 11 Professional | RAM Size (Memory Card/Module) (in GB) (Capacity to be installed in the System): 16, 32 Or higher | Memory Expandable Up To (in GB): 64, 128 Or higher | Total Numbers of DIMM Slots Available: 2, 4 Or higher | Number of DIMM Slots Populated with Memory Card/Module: 2, 1 | Type of Storage Installed with the System: NVMe-SSD Plus HDD@5400 RPM, NVMe-SSD | SSD - Storage Capacity (in GB): 1024, 2048 Or higher | HDD - Storage Capacity (in GB): 0 as SSD only Installed, 500, 1000, 2000 Or higher | Number of Internal Bays Available, Size 2 Point 5 Inch: 0, 1, 2 Or higher | Number of Internal Bay Populated, Size 2 Point 5 Inch: 1, 0 | Number of Internal Bays Available, Size 3 Point 5 inch: 1, 2 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123630"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Number of Internal Bay Populated, Size 3 Point 5 inch: 1, 0 | Cabinet Form Factor: Tower (More than 13 to 26 Liters) | Bays for Optical Drive: 0, 1 Or higher | Optical Drive: No Optical Drive, DVD R/W | Audio Interface Type: Universal 3.5 mm Audio Jack (Support for Audio-in and Audio out), Audio-in, Audio-out | Number of USB Type A Port (Version 2 Point 0): 2, 3, 4 Or higher | Number of USB Type A Port (Version 3 point 2 Gen 1): 3, 4, 5, 6 Or higher | Number of USB Ports Type C: 1, 2 Or higher | Number of VGA Ports: 0, 1 Or higher | Number of HDMI Ports: 1 Or higher | Number of DP Ports: 1 Or higher | Availibility of Monitor: Yes as per IS 13252 (Part 1) | Panel Type: Twisted Nematic (TN), In Plane Switching (IPS) | Display Technology: LED Backlit LCD (Liquid Crystal Display) | Screen Size (in CMs): 53.1 - 58 (20.91\" - 22.83\") | Maximum Resolution (Pixels): 1920 x 1080 (Full HD) | Monitor Port: HDMI, VGA, Display Port | Integrated Webcam with Mic: No | Speaker: No | Mouse Connectivity: USB Wired, Wireless Or higher | Keyboard Connectivity: USB Wired, Wireless Or higher | Type of Keyboard: Mechanical, Standard | On Site OEM Warranty (in Year): 3, 4, 5 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123630"
+    },
+    {
+      "field": "consignees",
+      "page": 7,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********Rajauri | 1 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123630"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "1. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses ADDITIONAL TERMS AND CONDITIONS 1. The scope of work includes the supply, installation, testing, and commissioning of hardware Items. 2. Payment will be done after supply & installation, testing, and commissioning of hardware Items. 3. This procurement treated as per Trunkey project. 4. Generic Option Clause: The Purchaser reserves the right to increase or decrease the quantity to be or dered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves th e right to increase the ordered quantity by up to 25% of the contracted quantity during the currency of the contract at the contracted rates. Bidders are bound to accept the orders accordingly. 5. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or si milar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 6. Generic Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have re gularly, manufactured and supplied same or similar Category Products to any Central / State Govt Organiz ation / PSU / Public Listed Company for 3 years before the bid opening date. Copies of relevant contracts t o be submitted along with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the primary product having highest value should meet this criterion. 7. Generic Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid docume nts. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any une xplained mismatch of technical parameters, the bid is liable for rejection. 8. bid:-Generic Malicious Code Certificate: The seller should upload following certificate in the 8.1 This is to certify that the Hardware and the Software being offered, as part of the contract, does not contain Embedded Malicious code that would activate procedures to :- (i) Inhibit the desires and designed function of the equipment. (ii) Cause physical damage to the user or equipment during the exploitation. (iii) Tap information resident or transient in the equipment/network. (iv) The firm will be considered to be in breach of the procurement contract, in case physical damage, loss of information or infringements related to copyright and Intellectual Property Right (IPRs) are caused due to activation of any such malicious code in embedded software.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123630"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "9. Generic Manufacturer Authorization: Wherever Authorised Distributors/service providers are submitting t he bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designatio n, address, e-mail Id and Phone No. required to be furnished along with the bid. 10.Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 11. Turnover Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder du ring the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of co nstitution / incorporation of the bidder is less than 3 year old, the average turnover in respect of the compl eted financial years after the date of constitution shall be taken into account for this criteria. 12. Replacement Clause: Any defective or damaged item shell be replaced at no extra Cost. 13. Turnover OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the off ered product during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of rel evant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover det ails for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution sha ll be taken into account for this criteria. In case of bunch bids, the OEM of category related to primary product having highest bid value should meet this criterion. 14. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods havin g on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM sh all have to establish one within 30 days of award of contract. Payment shall be released only after submiss ion of documentary evidence of having Functional Service Centre. 15. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have De dicated/toll Free Telephone No. for Service Support. 16. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix o f Telephone Numbers for Service Support. 17. Certificates ISO 9001: The bidder or the OEM of the offered products must have ISO 9001 certification. 18. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates/ documents sought in the Bid document, ATC and Corrigendum if any. 19. Certificates The bidder is required to upload, along with the bid, all relevant certificatessuch as BIS lice nce, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 20. Past Project Experience Proof for Past Experience and Project Experience clause: For fulfilling the exper ience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. 6 / 8 Contract copy along with Invoice(s) with self-certification b y the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution l",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123630"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 11,
+      "quote": "ike Third Party Inspection release note, etc.Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be conside red as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been execute d.b. Execution certificate by client with contract value.c. Any other document in support of contract execu tion like Third Party Inspection release note, etc. 21. Past Project Experience The Bidder / OEM {themselves or through reseller(s)}, should have executed p roject for supply and installation / commissioning of same or similar Category Products during preceding 3 financial years (i.e. current year and three previous financial years) as on opening of bid, as per following criteria: (i) Single order of at least 35% of estimated bid value; or (ii) Two orders of at least 20% each of estimated bid value; or (iii) Three orders of at least 15% each of estimat ed bid value. Satisfactory Performance certificate issued by respective Buyer Organization for the above Orders should be uploaded with bid. In case of bunch bids, the Category related to primary product having highest bid value should meet this criterion 22. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses. 22.1 Non Black Listed Certificate in Must be Submit. 22.2 If delivery is not on time, a charge of 5% will be charged per week. 22.3 ITR last 3 years 2023-24, 2024-25 & 2025-26 with balance sheet audited. 22.4 Non-Return of Hard Disk in case any hard disk, SSD, storage device or other data bearing component is replaced/removed during repair or maintenance, the removed item shall not be returned to the consigne e/User unit unless specifically demanded in writing. 22.5 Warranty Certificate must be submit in OEM letterhead. GST certificate pan card must be attached bidder 22.6 Specification Compliance must be submit OEM letter head. 22.7 Declaration by OEM/ Principal Firm / Bidder that the offered rates are lower than supplied to others. 22.8 Antivirus MII, MAF with ISO certification in network, data protection, privacy, encrypted auto back up and anti-ransomware patent certified technology certificates from OEM Ink signed documents to be uploa ded. 22.9 The OEM of the offered products must have Accredited certificate ISO 9001:2015, ISO 14001:2015, IS O 45001:2018, ISO 50001-2018, ISO 13485/2016 (APPROVED BY NABCB/NABL/IAF), GREENPRO BY CII / IGB C Membership by CII and Greengard, AIOTA BY All India Occupational Therapists Association (AIOTA) only no compliance certificate will be entertained. At least one BIFMA tested product certificate/ BIFMA Certificate, All Certificates uploaded alon g with Bid documents. 22.10 Quoted product Latest State of Art technology. The link details of the online facility (URL) of OEM/GE M should be submitted alongwith bid. 22.11 Specifications and warranty of the offered products should be available through serial no. search/tra cking on the website of OEM. 22.12 Declaration to deliver equipment within 15 days from the date of award of Contract. 22.13 OEM should have online facility to verify the specification mentioned in product description in additio n to Certificate (Energy Star or BEE, RoHS Compliance, EPR), Security (TPM 2.0 (Hardware/Firemwar). 22.14 Priority will be given OEM. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123630"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

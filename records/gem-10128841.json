@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8241962",
   "title": "Bar Counter",
   "description": "Bar Counter",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Army",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Bar Counter",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-04T19:57:28+05:30",
   "closing_at": "2026-11-14T20:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10128841"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/kDAk1ljQuuIv0H_9EE6ZbkguamPggyiQZCrLMFYRJnA",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261104",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +49,369 @@
   ],
   "source_fetched_at": "2026-11-05T04:17:43.516Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-15T20:00:00+05:30",
+  "buyer_email": "kaustubh.643m@gov.in",
+  "emd_required": false,
+  "bidder_turnover_lakhs": 1,
+  "oem_turnover_lakhs": 8,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-05T15:29:21.922080+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "922f9f482d3fd62ca714120b32b661ab0facb14161b95977539e4743a7927260",
+  "document_pages": 8,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 1 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 8 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 50 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "***********",
+      "address": "***********Gurdaspur",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "GENERIC",
+          "parameter": "Bar consists of",
+          "value": "Front bar and under bar"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Mode of supply",
+          "value": "Knocked Down To Be Assembled At Consignee Site By Consignee Himself"
+        },
+        {
+          "group": null,
+          "parameter": "Provision of electric supply",
+          "value": "For front bar only, No electric supply"
+        },
+        {
+          "group": null,
+          "parameter": "Provision for the front Bar",
+          "value": "Meeting point for customers and bartenders where customer order for drinks and are served by bartenders"
+        },
+        {
+          "group": null,
+          "parameter": "Provision of the under bar",
+          "value": "Refers to the area under the front bar of the bartender’s side –design for the drinks to be made and mixes need for drinks"
+        },
+        {
+          "group": null,
+          "parameter": "All plain panels edge to be banded",
+          "value": "With 0.8 -1.0 mm thick PVC tape with the help of hot melt glue, CP Teak Wood Lipping"
+        },
+        {
+          "group": "FRONT BAR",
+          "parameter": "Adequate space for pouring the drinks and serving",
+          "value": "Yes"
+        },
+        {
+          "group": "FRONT BAR",
+          "parameter": "Height of the bar ± 10 mm",
+          "value": "1000 mm, 1220 mm"
+        },
+        {
+          "group": "FRONT BAR",
+          "parameter": "Width of the bar ± 5 mm",
+          "value": "460 mm, N. A"
+        },
+        {
+          "group": "FRONT BAR",
+          "parameter": "Surface of front bar should be",
+          "value": "Laminated wood"
+        },
+        {
+          "group": "FRONT BAR",
+          "parameter": "Front bar top thickness ± 5 mm",
+          "value": "25 mm, 36 mm"
+        },
+        {
+          "group": "FRONT BAR",
+          "parameter": "Space added up to the width of wall",
+          "value": "330 mm and the armrest should be added for comfort, N. A"
+        },
+        {
+          "group": "FRONT BAR",
+          "parameter": "Space for glass rail (drip rail) which is recessed at the bartender’s side",
+          "value": "75 mm"
+        },
+        {
+          "group": "FRONT BAR",
+          "parameter": "Total width of front Bar ± 5 mm",
+          "value": "610 mm, 660 mm"
+        },
+        {
+          "group": "FRONT BAR",
+          "parameter": "Provision of bar die – which separated the customers from bartenders’ work area",
+          "value": "Decorated with carving, N.A"
+        },
+        {
+          "group": "FRONT BAR",
+          "parameter": "Footrest runs the length of the counter on the customers side from the floor ± 5 mm",
+          "value": "300 mm, N.A"
+        },
+        {
+          "group": "FRONT BAR",
+          "parameter": "Material for footrest",
+          "value": "N.A"
+        },
+        {
+          "group": "FRONT BAR",
+          "parameter": "Front bar made up of",
+          "value": "Commercial Block Board BWP grade Conforming to IS 1659, Teak wood"
+        },
+        {
+          "group": "FRONT BAR",
+          "parameter": "Material thickness of complete body for front bar(except front bar top)",
+          "value": "12 mm, 19 mm"
+        },
+        {
+          "group": "UNDER BAR",
+          "parameter": "Under bar is main centre for the entire bar operations",
+          "value": "Yes, N.A"
+        },
+        {
+          "group": "UNDER BAR",
+          "parameter": "Number of workstations in the under bar",
+          "value": "5"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Under bar made up of",
+          "value": "Prelaminated particle board of grade II type III of IS 12823/Latest. Both side laminated. Outer side laminated with shade matching with top shade and facia shade and having balancing laminate of 0.5mm thickness on other side, Commercial Block Board BWP grade Conforming to IS 1659"
+        },
+        {
+          "group": null,
+          "parameter": "Material thickness of complete body for under bar",
+          "value": "15 mm"
+        },
+        {
+          "group": "COLOUR AND FINISH",
+          "parameter": "Bar counter top surface finish",
+          "value": "Gloss finish"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "Warranty period",
+          "value": "2 – years"
+        },
+        {
+          "group": "CERTIFICATION",
+          "parameter": "Test reports to be furnished to buyer on demand",
+          "value": "Yes"
+        },
+        {
+          "group": "CERTIFICATION",
+          "parameter": "OEM of offered product is ISO 14001:2015 certified",
+          "value": "Yes, No"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 2. Warranty Warranty period of the supplied products shall be 3 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during"
+    },
+    {
+      "page": 7,
+      "text": "the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 3. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Bidder should come on site in personal alongwith advance sample for approval before opening of bid. 2. Delivery period for supply of items would be as per Supply Order local delivery at 23 GRENADIERS, Tibri, Gurdaspur (Punjab) from the effective date of contract. Maximum duration of complete the project will be 10 days from the placing of Supply Order. 3. The seller will submit International Accreditation forum approved ISO 9001:2015 certificate. Those seller s whose certificate would not be IAF approved will not be eligible for Bid. 4. Bidder should be non black-listed. 5. All transportation, installation and labor charges to be incurred by bidder. 6. GeM Invoice must be submitted in Past performance. 7. MSME must be manufacturer of relevant products. 8. Bidder must be submitted Non Disclosure Certificate. 9. Bidder must be submitted terms & condition certificate on firm letter pad. 10. Bid Security Declaration Certificate. 11. Seller rating must by 4.5 and above. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8241962",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128841"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 14-11-2026 20:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128841"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 15-11-2026 20:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128841"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128841"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128841"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128841"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Army",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128841"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :raviyadav.742p@nic.in Buyer Email id: kaustubh.643m@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128841"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128841"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Bar Counter (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128841"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 1 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128841"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 8 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128841"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128841"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128841"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128841"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128841"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128841"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 50 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128841"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128841"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128841"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128841"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Bar consists of: Front bar and under bar",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128841"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Mode of supply: Knocked Down To Be Assembled At Consignee Site By Consignee Himself | Provision of electric supply: For front bar only, No electric supply | Provision for the front Bar: Meeting point for customers and bartenders where customer order for drinks and are served by bartenders | Provision of the under bar: Refers to the area under the front bar of the bartender’s side –design for the drinks to be made and mixes need for drinks | All plain panels edge to be banded: With 0.8 -1.0 mm thick PVC tape with the help of hot melt glue, CP Teak Wood Lipping | Adequate space for pouring the drinks and serving: Yes | Height of the bar ± 10 mm: 1000 mm, 1220 mm | Width of the bar ± 5 mm: 460 mm, N. A | Surface of front bar should be: Laminated wood | Front bar top thickness ± 5 mm: 25 mm, 36 mm | Space added up to the width of wall: 330 mm and the armrest should be added for comfort, N. A | Space for glass rail (drip rail) which is recessed at the bartender’s side: 75 mm | Total width of front Bar ± 5 mm: 610 mm, 660 mm | Provision of bar die – which separated the customers from bartenders’ work area: Decorated with carving, N.A | Footrest runs the length of the counter on the customers side from the floor ± 5 mm: 300 mm, N.A | Material for footrest: N.A | Front bar made up of: Commercial Block Board BWP grade Conforming to IS 1659, Teak wood | Material thickness of complete body for front bar(except front bar top): 12 mm, 19 mm | Under bar is main centre for the entire bar operations: Yes, N.A | Number of workstations in the under bar: 5",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128841"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Under bar made up of: Prelaminated particle board of grade II type III of IS 12823/Latest. Both side laminated. Outer side laminated with shade matching with top shade and facia shade and having balancing laminate of 0.5mm thickness on other side, Commercial Block Board BWP grade Conforming to IS 1659 | Material thickness of complete body for under bar: 15 mm | Bar counter top surface finish: Gloss finish | Warranty period: 2 – years | Test reports to be furnished to buyer on demand: Yes | OEM of offered product is ISO 14001:2015 certified: Yes, No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128841"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********Gurdaspur | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128841"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 2. Warranty Warranty period of the supplied products shall be 3 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128841"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 3. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Bidder should come on site in personal alongwith advance sample for approval before opening of bid. 2. Delivery period for supply of items would be as per Supply Order local delivery at 23 GRENADIERS, Tibri, Gurdaspur (Punjab) from the effective date of contract. Maximum duration of complete the project will be 10 days from the placing of Supply Order. 3. The seller will submit International Accreditation forum approved ISO 9001:2015 certificate. Those seller s whose certificate would not be IAF approved will not be eligible for Bid. 4. Bidder should be non black-listed. 5. All transportation, installation and labor charges to be incurred by bidder. 6. GeM Invoice must be submitted in Past performance. 7. MSME must be manufacturer of relevant products. 8. Bidder must be submitted Non Disclosure Certificate. 9. Bidder must be submitted terms & condition certificate on firm letter pad. 10. Bid Security Declaration Certificate. 11. Seller rating must by 4.5 and above. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128841"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8176022",
   "title": "LED Luminaire for Flood Light, Flame Proof (V2)",
   "description": "LED Luminaire for Flood Light, Flame Proof (V2)",
-  "organisation": "Department of Economic Affairs",
-  "ministry": "Ministry of Finance",
-  "department": "Department of Economic Affairs",
+  "organisation": "Security Printing And Minting Corporation Of India Limited (spmcil)",
+  "ministry": "Ministry Of Finance",
+  "department": "Department Of Economic Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "LED Luminaire for Flood Light, Flame Proof (V2)",
   "quantity": 15,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-04T17:08:46+05:30",
   "closing_at": "2026-12-04T15:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10052351"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/v_sDz9TWJwyPHOa4X99xuD37zw3nX60e3djqNSw8tE4",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261104",
+      "page": 10
     }
   ],
   "tags": [
@@ -34,5 +49,261 @@
   ],
   "source_fetched_at": "2026-11-05T04:27:17.928Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-05T15:00:00+05:30",
+  "office": "3rd Floor Tower G World Trade Centre Nauroji Nagar",
+  "buyer_email": "gajendra.sejkar@spmcil.com",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Certificate (Requested in ATC),Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "90 (Days)",
+  "source_document_fetched_at": "2026-11-06T00:07:25.922178+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "c494a133129f7c10738d6b2014c856a731caf628e89cfd25b50747983e3a68e1",
+  "document_pages": 10,
+  "eligibility": [
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Certificate (Requested in ATC),Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Biplab Basak",
+      "address": "461005,Security Paper Mill ,Narmadapuram , Madhya Pradesh",
+      "quantity": 15,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "STANDARDS",
+          "parameter": "Degree of protection (Ingress Protection)",
+          "value": "IP 65 (as per IS/IEC:60529:2001), IP 66 (as per IS/IEC:60529:2001), IP 67 (as per IS/IEC:60529:2001)"
+        },
+        {
+          "group": "STANDARDS",
+          "parameter": "Impact resistance (If claimbed \"Yes\" - agreed to furnish test certificates to buyer / consignee on demand)",
+          "value": "Yes. IK05 (as per IEC 62262:2002), Yes. IK07 (as per IEC 62262:2002), No"
+        },
+        {
+          "group": "STANDARDS",
+          "parameter": "Other compliacne (If claimbed - agreed to furnish test certificates to buyer / consignee on demand)",
+          "value": "EMC (as per IEC:61000-3-2:2014 latest), EMC (as per IEC:61000-4-5:2014 latest), No"
+        },
+        {
+          "group": "FLAME PROOF",
+          "parameter": "Equipment Group (intend for use in explosive atmospheres) (hint: Ref as per lS/lEC 60079-0&1:2007)",
+          "value": "Group IIA, Group IIB, Group IIC"
+        },
+        {
+          "group": "FLAME PROOF",
+          "parameter": "Temperature class",
+          "value": "T1, T2, T3, T4, T5, T6"
+        },
+        {
+          "group": "FLAME PROOF",
+          "parameter": "Area Classification",
+          "value": "Zone 0, Zone 1, Zone 2"
+        },
+        {
+          "group": "FLAME PROOF",
+          "parameter": "Flame proof and equipment safety certificate and approval (Agreed to fuurnish copy certificate to the buyer / cosngnee on demand)",
+          "value": "Yes from CIMFR, Yes from DGMS, Yes from PESO"
+        },
+        {
+          "group": "RATINGS",
+          "parameter": "Luminaire System Wattage (in Watts)",
+          "value": "15, 20, 25, 30, 40, 50, 55, 60, 70, 75, 80, 90, 100, 110, 120, 125, 130, 140, 150, 180, 200, 250, 300, 350, 400, 500"
+        },
+        {
+          "group": "RATINGS",
+          "parameter": "Luminaire System Efficacy - Lumen output - (Lumen/watt)",
+          "value": "? 100, ? 120, ? 90"
+        },
+        {
+          "group": "CONSTRUCTION",
+          "parameter": "Number of electronic control gear on each luminaire (power supplies) - (in Nos)",
+          "value": "1, 2"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 3. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Technical specs mentioned above are as per category available on GeM Portal. Technical specs mentioned i n Buyer added bid specific ATC shall supersede techni cal specs mentioned in bid. Any deviation in technical specs shall result in rejection of offer. TECHNICAL SPECIFICATIONS Flame Proof Light Flame Proof Light Luminaire System Wattage (in Watts) 60 Degree of protection IP 66(As per IS/IEC 60529) (Ingress Protection) Equipment Group (intend for Group IIC use in explosive atmospheres) Type of LED Luminaire Type-B (as per IS: 16107(Part-2/ Sec.-1)/2012)"
+    },
+    {
+      "page": 6,
+      "text": "Type and performance Type-3 (as per the IS: 16103(Part-2)/2012) of LED Modul e Type of Equipment protection Flame Proof \"d\" (as per lS/lEC 60079-0&1:2007) la test Equipment Group (intend for use in explosive atmospheres) Group IIC Powder C oated Temperature class T6 Area Classification Zone 2 Rated voltage (in Volts) 240 V, AC Operating input voltage range 140 to 270 Luminaire System Wattage (in Watts) 60 LED chip Efficacy (Lumen/watt) ≥130 Luminaire System Efficacy - Lumen output ≥ 100 (Lumen/watt) Short circuit Protection Yes Over load protection Yes Over Voltage protection Yes Warranty 1 Year Model (ACEON-60-FL) Make : AECON or equivalent ADDITIONAL TERMS & CONDITIONS (ATC) 1. Required Terms of Delivery: F.O.R. Security Paper Mill Narmadapuram (Duly Unloaded). 2. Destination: Security Paper Mill, Narmadapuram (M.P.)-461005. 3. Bidder Should Quote Prices Inclusive of GST and All Cost Components such as Packing & Forwarding Details, Freight & Insurance Charges up to Destination etc. on FOR Security Paper Mill, Narmadapura m (Madhya Pradesh), India basis only. 4. Liquidated Damages (LD) Clause: If the contractor fails to deliver the goods and/or services or a ny instalment thereof within the Delivery Period, SPM Narmadapuram shall, without prejudice to other rights and remedies available to SPM, Narmadapuram under the contract, deduct from the contract pr ice, as Liquidated damages, a sum equivalent to the rate of 0.5 per cent of the delivered price of the d elayed goods and/or services for each week of delay or part thereof until actual delivery or performan ce, subject to a maximum deduction of the 10% of the delayed goods or services. 5. GIT & GCC Clause : The terms and conditions, guidelines of SPMCIL Procurement Manual Version 3. 0 will be applicable to this bid at any stage to avoid any conflict at later stage. Kindly refer General In structions to Tenderer (GIT) and General Conditions of Contract (GCC) of SPMCIL Procurement Manual Version 3.0 for additional terms and conditions as per the links given below: GIT: https://www.spmcil.com/wp-content/uploads/2024/06/GIT-3.0-1.pdf GCC: https://www.spmcil.com/wp-content/uploads/2024/06/GCC-3.0-1.pdf 6. TDS: SPM (as Buyer) is liable to deduct TDS u/s 194Q @ applicable rate on goods purchases (if appli"
+    },
+    {
+      "page": 7,
+      "text": "cable). In case of deduction of TDS under section 194Q; the Supplier (Vendor) need not to charge TCS u/s 206C (1H) on invoicing on or after 01.07.2021. 7. GST Return: Supplier should file the GST returns for outward supplies in time. In case of any Input C redit Loss to SPM by way of their failure to files GST Returns in time, SPM reserves the right to withhol d the payment of further supplies till production of evidence of filling of Returns. 8. Delivery Period: 30 Days from the date of issue of GeM purchase order. 9. Bidder shall submit duly seal & signed copy of Scope of Work/Technical Specifications, declaration, G em Bid and all the documents as per mentioned in checklist and Gem Bid. Failure to submit any docu ment, the bidder shall be liable to rejected and shall not be consider for further evaluation. 10. Payment terms: 100% Payment will be done after receipt and suitability of the materials and on pr oduction of all required documents by the supplier as per bid terms and condition by the firm. Payme nt shall be made through RTGS/NEFT. 11. Warranty Clause: 1. The supplier warrants that the goods supplied under the contract is new, unused, and incorporate all recent improvements in design and materials unless prescribed otherwise by SPMCIL in the contract. The supplier further warrants that the goods supplied under the contract shall have no defect arising f rom design, materials (except when the design adopted and / or the material used are as per SPMCIL’ s specifications) or workmanship or from any act or omission of the supplier, that may develop under normal use of the supplied goods under the conditions prevailing in India. 2. This warranty shall remain valid for 01 year (12 months) after the goods or any portion thereof as th e case may be, have been delivered to the final destination and installed and commissioned at the fin al destination and accepted by SPMCIL in terms of the contract or for fifteen months from the date of despatch from the supplier’s premises for domestic goods (including goods already imported by the s upplier under its own arrangement) or for eighteen months after the date of shipment from the port of loading in the source country for imported goods offered from abroad, whichever is earlier, unless spe cified otherwise in the SCC. 3. In case of any claim arising out of this warranty, SPMCIL shall promptly notify the same in writing to t he supplier. 4. Upon receipt of such notice, the supplier shall, with all reasonable speed (or within the period, if spec ified in the SCC), repair or replace the defective goods or parts thereof, free of cost, at the ultimate de stination. The supplier shall take over the replaced parts/ goods after providing their replacements an d no claim, whatsoever shall lie on SPMCIL for such replaced parts/ goods thereafter. 5. In the event of any rectification of a defect or replacement of any defective goods during the warrant y period, the warranty for the rectified/ replaced goods shall be extended to a further period of twelve months from the date such rectified / replaced goods starts functioning to the satisfaction of SPMCIL. 6. If the supplier, having been notified, fails to rectify/ replace the defect(s) within a reasonable period ( or within the period, if specified in the SCC), SPMCIL may proceed to take such remedial action(s) as d eemed fit by SPMCIL, at the risk and expense of the supplier and without prejudice to other contractua l rights and remedies, which SPMCIL may have against the supplier. 12. Anti-Bribery Management System (ABMS): By participating in this tender, the suppliers/Vendors/ Contractors are deemed to have undertaken that they shall not give or take, any financial or non-fina ncial bribe, to or from anyone during the tender or during the execution of the contract thereafter and if they notice any such incident happening, they shall report it to Vigilance. 13. Common IP Addresses: Bidders may please note that GeM is capturing and showing the IP address es used by the Buyer and the Bidder(s)/Seller(s). The received bids having matching/common IP addr ess with either Bidder(s)/Seller(s) or Buyer, shall be out rightly rejected & shall not be considered for f urther evaluation. 14. In case a tenderer attempts to influence SPMCIL’s decision on scrutiny, comparison, evaluation, and a ward of the contracts, it will be treated as a serious misdemeanour. In such a case the tender of the te nderer shall be liable for rejection in addition to appropriate administrative actions being taken agains t that tenderer, as deemed fit by SPMCIL, in terms of clause 44 of GIT. 15. Termination for convenience: SPM reserves the right to terminate the contract, in whole or in part for its convenience, by serving written notice on the supplier at any time during the currency of the co ntract. 16. Contacting SPMCIL: 1. From the time of submission of tender to the time of awarding the contract, if a tenderer needs to co ntact SPMCIL for any reason relating to this tender enquiry and / or its tender, it should do so only in writing via email. 2. It will be treated as a serious misdemeanour in case a tenderer attempts to influence SPMCIL’s decisi on on scrutiny, comparison, evaluation, and award of the contracts. In such a case the tender of the te nderer shall be liable for rejection in addition to appropriate administrative actions being taken agains t that tenderer, as deemed fit by SPMCIL, in terms of clause 44 of GIT."
+    },
+    {
+      "page": 8,
+      "text": "17. Kindly submit Land border sharing declaration in your firm’s letter head as below format: Land border sharing clause: Bidders should submit undertaking regarding Comp liance of Restrictions under Rule 144 (xi) of GFR 2017 as per DOE Order (Public Procurement No.4) dated 23.02.2023 (as amended from time to time) regarding restrictions on procurement from a bidder of a country which shares a land bor der with India as follows: Undertaking regarding of Land Border Sharing Clause To, M/s Security Printing and Minting Corporation of India Limited Ref : - GEM/BID/2026/B/XXXXXX Dated : - XX/XX/XXXX Dear Sir, We have read the clause regarding provisions for procurement from a Bidder w hich share a land border with India, we certify that, bidder M/s (Name of Bidder) is: (i) Not from such a country [ ] (ii) If from such a country, has been registered with the Competent Authority. [ ] (Evidence of valid registration by the Competent Authority shall be attached) (Bidder is to tick appropriate option ( ) above. We hereby certify that bidder M/s (Name of Bidder) fulfills all requirement in thi s regard and is eligible to be considered against the tender. {Signature of Authorized Signatory of Bidder} Name : _____________________ Designation : ____________ Seal : 18. Blacklisted/debarred declaration: i. We have not been blacklisted/debarred by DoE, MoF, GoI; DEA, MoF, GoI; S PMCIL; procuring unit of SPMCIL for participation in tenders. The informatio"
+    },
+    {
+      "page": 9,
+      "text": "n provided above is correct and true to the best of my knowledge and belief. 19. Documents Checklist: - The participating bidder shall also submit the document s as per following mentioned order: - (i) Seal & signed Bid/Tender document as an unconditional acceptance of all terms & conditions of bid. (ii) Seal & signed technical specifications. (iii) Latest Udyam Certificate, if bidder is claiming any benefits against MS E Policy. (iv) Acceptance of GIT & GCC. (v) Undertaking/Declaration certificate that you are currently not suspen ded/ Banned/ Blacklisted by any ministry/ department of govt. of India or by any state govt. for business dealing. (vi) Declaration about compliance of land border sharing declaration ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8176022",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10052351"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 04-12-2026 15:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10052351"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 05-12-2026 15:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10052351"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10052351"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Finance",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10052351"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Economic Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10052351"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Security Printing And Minting Corporation Of India Limited (spmcil)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10052351"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: 3rd Floor Tower G World Trade Centre Nauroji Nagar",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10052351"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :ram.sahai@gov.in Buyer Email id: gajendra.sejkar@spmcil.com",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10052351"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10052351"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: LED Luminaire for Flood Light, Flame Proof (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10052351"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10052351"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10052351"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Certificate (Requested in ATC),Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10052351"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10052351"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10052351"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10052351"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Degree of protection (Ingress Protection): IP 65 (as per IS/IEC:60529:2001), IP 66 (as per IS/IEC:60529:2001), IP 67 (as per IS/IEC:60529:2001) | Impact resistance (If claimbed \"Yes\" - agreed to furnish test certificates to buyer / consignee on demand): Yes. IK05 (as per IEC 62262:2002), Yes. IK07 (as per IEC 62262:2002), No | Other compliacne (If claimbed - agreed to furnish test certificates to buyer / consignee on demand): EMC (as per IEC:61000-3-2:2014 latest), EMC (as per IEC:61000-4-5:2014 latest), No | Equipment Group (intend for use in explosive atmospheres) (hint: Ref as per lS/lEC 60079-0&1:2007): Group IIA, Group IIB, Group IIC | Temperature class: T1, T2, T3, T4, T5, T6 | Area Classification: Zone 0, Zone 1, Zone 2 | Flame proof and equipment safety certificate and approval (Agreed to fuurnish copy certificate to the buyer / cosngnee on demand): Yes from CIMFR, Yes from DGMS, Yes from PESO | Luminaire System Wattage (in Watts): 15, 20, 25, 30, 40, 50, 55, 60, 70, 75, 80, 90, 100, 110, 120, 125, 130, 140, 150, 180, 200, 250, 300, 350, 400, 500 | Luminaire System Efficacy - Lumen output - (Lumen/watt): ? 100, ? 120, ? 90 | Number of electronic control gear on each luminaire (power supplies) - (in Nos): 1, 2",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10052351"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Biplab Basak | 461005,Security Paper Mill ,Narmadapuram , Madhya Pradesh | 15 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10052351"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 3. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Technical specs mentioned above are as per category available on GeM Portal. Technical specs mentioned i n Buyer added bid specific ATC shall supersede techni cal specs mentioned in bid. Any deviation in technical specs shall result in rejection of offer. TECHNICAL SPECIFICATIONS Flame Proof Light Flame Proof Light Luminaire System Wattage (in Watts) 60 Degree of protection IP 66(As per IS/IEC 60529) (Ingress Protection) Equipment Group (intend for Group IIC use in explosive atmospheres) Type of LED Luminaire Type-B (as per IS: 16107(Part-2/ Sec.-1)/2012)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10052351"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "Type and performance Type-3 (as per the IS: 16103(Part-2)/2012) of LED Modul e Type of Equipment protection Flame Proof \"d\" (as per lS/lEC 60079-0&1:2007) la test Equipment Group (intend for use in explosive atmospheres) Group IIC Powder C oated Temperature class T6 Area Classification Zone 2 Rated voltage (in Volts) 240 V, AC Operating input voltage range 140 to 270 Luminaire System Wattage (in Watts) 60 LED chip Efficacy (Lumen/watt) ≥130 Luminaire System Efficacy - Lumen output ≥ 100 (Lumen/watt) Short circuit Protection Yes Over load protection Yes Over Voltage protection Yes Warranty 1 Year Model (ACEON-60-FL) Make : AECON or equivalent ADDITIONAL TERMS & CONDITIONS (ATC) 1. Required Terms of Delivery: F.O.R. Security Paper Mill Narmadapuram (Duly Unloaded). 2. Destination: Security Paper Mill, Narmadapuram (M.P.)-461005. 3. Bidder Should Quote Prices Inclusive of GST and All Cost Components such as Packing & Forwarding Details, Freight & Insurance Charges up to Destination etc. on FOR Security Paper Mill, Narmadapura m (Madhya Pradesh), India basis only. 4. Liquidated Damages (LD) Clause: If the contractor fails to deliver the goods and/or services or a ny instalment thereof within the Delivery Period, SPM Narmadapuram shall, without prejudice to other rights and remedies available to SPM, Narmadapuram under the contract, deduct from the contract pr ice, as Liquidated damages, a sum equivalent to the rate of 0.5 per cent of the delivered price of the d elayed goods and/or services for each week of delay or part thereof until actual delivery or performan ce, subject to a maximum deduction of the 10% of the delayed goods or services. 5. GIT & GCC Clause : The terms and conditions, guidelines of SPMCIL Procurement Manual Version 3. 0 will be applicable to this bid at any stage to avoid any conflict at later stage. Kindly refer General In structions to Tenderer (GIT) and General Conditions of Contract (GCC) of SPMCIL Procurement Manual Version 3.0 for additional terms and conditions as per the links given below: GIT: https://www.spmcil.com/wp-content/uploads/2024/06/GIT-3.0-1.pdf GCC: https://www.spmcil.com/wp-content/uploads/2024/06/GCC-3.0-1.pdf 6. TDS: SPM (as Buyer) is liable to deduct TDS u/s 194Q @ applicable rate on goods purchases (if appli",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10052351"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "cable). In case of deduction of TDS under section 194Q; the Supplier (Vendor) need not to charge TCS u/s 206C (1H) on invoicing on or after 01.07.2021. 7. GST Return: Supplier should file the GST returns for outward supplies in time. In case of any Input C redit Loss to SPM by way of their failure to files GST Returns in time, SPM reserves the right to withhol d the payment of further supplies till production of evidence of filling of Returns. 8. Delivery Period: 30 Days from the date of issue of GeM purchase order. 9. Bidder shall submit duly seal & signed copy of Scope of Work/Technical Specifications, declaration, G em Bid and all the documents as per mentioned in checklist and Gem Bid. Failure to submit any docu ment, the bidder shall be liable to rejected and shall not be consider for further evaluation. 10. Payment terms: 100% Payment will be done after receipt and suitability of the materials and on pr oduction of all required documents by the supplier as per bid terms and condition by the firm. Payme nt shall be made through RTGS/NEFT. 11. Warranty Clause: 1. The supplier warrants that the goods supplied under the contract is new, unused, and incorporate all recent improvements in design and materials unless prescribed otherwise by SPMCIL in the contract. The supplier further warrants that the goods supplied under the contract shall have no defect arising f rom design, materials (except when the design adopted and / or the material used are as per SPMCIL’ s specifications) or workmanship or from any act or omission of the supplier, that may develop under normal use of the supplied goods under the conditions prevailing in India. 2. This warranty shall remain valid for 01 year (12 months) after the goods or any portion thereof as th e case may be, have been delivered to the final destination and installed and commissioned at the fin al destination and accepted by SPMCIL in terms of the contract or for fifteen months from the date of despatch from the supplier’s premises for domestic goods (including goods already imported by the s upplier under its own arrangement) or for eighteen months after the date of shipment from the port of loading in the source country for imported goods offered from abroad, whichever is earlier, unless spe cified otherwise in the SCC. 3. In case of any claim arising out of this warranty, SPMCIL shall promptly notify the same in writing to t he supplier. 4. Upon receipt of such notice, the supplier shall, with all reasonable speed (or within the period, if spec ified in the SCC), repair or replace the defective goods or parts thereof, free of cost, at the ultimate de stination. The supplier shall take over the replaced parts/ goods after providing their replacements an d no claim, whatsoever shall lie on SPMCIL for such replaced parts/ goods thereafter. 5. In the event of any rectification of a defect or replacement of any defective goods during the warrant y period, the warranty for the rectified/ replaced goods shall be extended to a further period of twelve months from the date such rectified / replaced goods starts functioning to the satisfaction of SPMCIL. 6. If the supplier, having been notified, fails to rectify/ replace the defect(s) within a reasonable period ( or within the period, if specified in the SCC), SPMCIL may proceed to take such remedial action(s) as d eemed fit by SPMCIL, at the risk and expense of the supplier and without prejudice to other contractua l rights and remedies, which SPMCIL may have against the supplier. 12. Anti-Bribery Management System (ABMS): By participating in this tender, the suppliers/Vendors/ Contractors are deemed to have undertaken that they shall not give or take, any financial or non-fina ncial bribe, to or from anyone during the tender or during the execution of the contract thereafter and if they notice any such incident happening, they shall report it to Vigilance. 13. Common IP Addresses: Bidders may please note that GeM is capturing and showing the IP address es used by the Buyer and the Bidder(s)/Seller(s). The received bids having matching/common IP addr ess with either Bidder(s)/Seller(s) or Buyer, shall be out rightly rejected & shall not be considered for f urther evaluation. 14. In case a tenderer attempts to influence SPMCIL’s decision on scrutiny, comparison, evaluation, and a ward of the contracts, it will be treated as a serious misdemeanour. In such a case the tender of the te nderer shall be liable for rejection in addition to appropriate administrative actions being taken agains t that tenderer, as deemed fit by SPMCIL, in terms of clause 44 of GIT. 15. Termination for convenience: SPM reserves the right to terminate the contract, in whole or in part for its convenience, by serving written notice on the supplier at any time during the currency of the co ntract. 16. Contacting SPMCIL: 1. From the time of submission of tender to the time of awarding the contract, if a tenderer needs to co ntact SPMCIL for any reason relating to this tender enquiry and / or its tender, it should do so only in writing via email. 2. It will be treated as a serious misdemeanour in case a tenderer attempts to influence SPMCIL’s decisi on on scrutiny, comparison, evaluation, and award of the contracts. In such a case the tender of the te nderer shall be liable for rejection in addition to appropriate administrative actions being taken agains t that tenderer, as deemed fit by SPMCIL, in terms of clause 44 of GIT.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10052351"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "17. Kindly submit Land border sharing declaration in your firm’s letter head as below format: Land border sharing clause: Bidders should submit undertaking regarding Comp liance of Restrictions under Rule 144 (xi) of GFR 2017 as per DOE Order (Public Procurement No.4) dated 23.02.2023 (as amended from time to time) regarding restrictions on procurement from a bidder of a country which shares a land bor der with India as follows: Undertaking regarding of Land Border Sharing Clause To, M/s Security Printing and Minting Corporation of India Limited Ref : - GEM/BID/2026/B/XXXXXX Dated : - XX/XX/XXXX Dear Sir, We have read the clause regarding provisions for procurement from a Bidder w hich share a land border with India, we certify that, bidder M/s (Name of Bidder) is: (i) Not from such a country [ ] (ii) If from such a country, has been registered with the Competent Authority. [ ] (Evidence of valid registration by the Competent Authority shall be attached) (Bidder is to tick appropriate option ( ) above. We hereby certify that bidder M/s (Name of Bidder) fulfills all requirement in thi s regard and is eligible to be considered against the tender. {Signature of Authorized Signatory of Bidder} Name : _____________________ Designation : ____________ Seal : 18. Blacklisted/debarred declaration: i. We have not been blacklisted/debarred by DoE, MoF, GoI; DEA, MoF, GoI; S PMCIL; procuring unit of SPMCIL for participation in tenders. The informatio",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10052351"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "n provided above is correct and true to the best of my knowledge and belief. 19. Documents Checklist: - The participating bidder shall also submit the document s as per following mentioned order: - (i) Seal & signed Bid/Tender document as an unconditional acceptance of all terms & conditions of bid. (ii) Seal & signed technical specifications. (iii) Latest Udyam Certificate, if bidder is claiming any benefits against MS E Policy. (iv) Acceptance of GIT & GCC. (v) Undertaking/Declaration certificate that you are currently not suspen ded/ Banned/ Blacklisted by any ministry/ department of govt. of India or by any state govt. for business dealing. (vi) Declaration about compliance of land border sharing declaration .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10052351"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

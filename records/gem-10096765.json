@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8214056",
   "title": "SMB Male Connector,SMB Female Connector",
   "description": "SMB Male Connector,SMB Female Connector",
-  "organisation": "Department of Defence Research & Development",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Defence Research & Development",
+  "organisation": "Office Of Dg (mss)",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Defence Research & Development",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "SMB Male Connector,SMB Female Connector",
   "quantity": 200,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-04T17:12:31+05:30",
   "closing_at": "2026-11-27T10:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10096765"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "Buyer technical specification",
+      "url": "https://mkp.gem.gov.in/catalog_data/catalog_support_document/buyer_documents/426682/54/78/703/CatalogAttrs/SpecificationDocument/2026/10/29/1600-specification_2026-10-29-10-46-00_ebf7e651b5dd8c286f7af481f783961b.pdf",
+      "page": 4
+    },
+    {
+      "name": "Buyer technical specification",
+      "url": "https://mkp.gem.gov.in/catalog_data/catalog_support_document/buyer_documents/426682/54/78/703/CatalogAttrs/SpecificationDocument/2026/10/29/1600-specification_2026-10-29-10-46-40_d11a6af29da5746b8e5a5faa59a7dea9.pdf",
+      "page": 5
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261104",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +54,166 @@
   ],
   "source_fetched_at": "2026-11-05T04:27:13.973Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-28T10:00:00+05:30",
+  "buyer_email": "pawan.tbrl@gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-06T00:05:16.703343+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "87eb092a4d2dcb07e7122a62ab34d1e9d46a7ffb9e876e7baaa805a392b80a2d",
+  "document_pages": 7,
+  "eligibility": [
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "***********",
+      "address": "***********PANCHKULA",
+      "quantity": 100,
+      "quantity_label": "Quantity",
+      "delivery_days": 60
+    },
+    {
+      "page": 5,
+      "consignee": "***********",
+      "address": "***********PANCHKULA",
+      "quantity": 100,
+      "quantity_label": "Quantity",
+      "delivery_days": 60
+    }
+  ],
+  "technical_specifications": [],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Bidder should submit signed and stamped copy of our technical document. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8214056",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096765"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 27-11-2026 10:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096765"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 28-11-2026 10:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096765"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096765"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096765"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Defence Research & Development",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096765"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Office Of Dg (mss)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096765"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :neeraj.tbrl@gov.in Buyer Email id: pawan.tbrl@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096765"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 200",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096765"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: SMB Male Connector , SMB Female Connector",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096765"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096765"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096765"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096765"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096765"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096765"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096765"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********PANCHKULA | 100 | 60",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096765"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********PANCHKULA | 100 | 60",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096765"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Bidder should submit signed and stamped copy of our technical document. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096765"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

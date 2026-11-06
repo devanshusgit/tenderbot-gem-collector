@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8236245",
   "title": "Direct Evaporative Air Cooler (V2) ISI Marked To IS 3315",
   "description": "Direct Evaporative Air Cooler (V2) ISI Marked To IS 3315",
-  "organisation": "Higher Education Department Uttar Pradesh",
-  "ministry": "",
+  "organisation": "Gautam Buddha University",
+  "ministry": "Uttar Pradesh",
   "department": "Higher Education Department Uttar Pradesh",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Direct Evaporative Air Cooler (V2) ISI Marked To IS 3315",
   "quantity": 16,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-04T17:16:15+05:30",
   "closing_at": "2026-11-14T18:00:00+05:30",
   "status": "active",
@@ -27,6 +27,16 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10122425"
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/QJOIL_f5AMw7IMBq-u5QoIZw2n1Xfywd3acnZKXIMRU",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261104",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +44,268 @@
   ],
   "source_fetched_at": "2026-11-05T04:27:10.909Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-15T18:00:00+05:30",
+  "office": "Greater Noida",
+  "buyer_email": "ma.ansari@gbu.ac.in",
+  "emd_required": false,
+  "bidder_turnover_lakhs": 2,
+  "oem_turnover_lakhs": 16,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 3,
+  "epbg_duration_months": 14,
+  "offer_validity": "180 (Days)",
+  "estimated_bid_value": 416000,
+  "source_document_fetched_at": "2026-11-06T00:02:53.757771+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "7ddaf08d27c30d86e2ed1ed640306387388426dbeab67cf4fa6be2f8e07df88a",
+  "document_pages": 8,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 2 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 16 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Mohd. Ahmad Ansari",
+      "address": "201312,Gautam Buddha University, Gr. Noida",
+      "quantity": 16,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Performance Parameters",
+          "parameter": "Description of stores",
+          "value": "Direct Evaporative Air Coolers with Fan On/Off Switch, Pump On/Off Switch, Minimum 1.5-meter power cable (measured from the outer body), accessible drain hole, and rated voltage of 230–240 Volts, 50 Hz"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Classification of Air Cooler (according to air flow)",
+          "value": "Fan Type"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Air Delivery (Air Flow) [Hint: CMH refers to Cubic Meters per Hour]",
+          "value": "5001 to 6000 CMH"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Minimum EER (energy efficiency ratio) of air cooler (Hint: EER = cooling capacity/power input)",
+          "value": "22.0"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Capacity of Sump Tank [Hint: Lower value in each range is not included and Tolerance for declared sump tank capacity shall be +/- 5%]",
+          "value": "120 - 140 liters"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Filter Pad",
+          "value": "Honey Comb"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Compliance to Eco-Mark",
+          "value": "Yes"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 3. Generic Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller. 4. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses TERMS & CONDTIONS FOR ELIGIBILITY CRITERIA 1. The Physical copy of the EMD Should be submitted to the Gautam Buddha University, Greater Noida, Utt ar Pradesh well before the end date/opening date of the bid. MSE category, only manufactures for goods a nd service provides for services are eligible for exemption from EMD. The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per the exemption clauses on GE M. 2. Working Experience: Three similar satisfactorily completed works out of the last four financial years in C entral Govt. or State Govt. Organization/Institution, PSUs or Private organization/Institution, each three cos ting not less than the amount equal to 15% of the estimated cost Or Two of 20% Or One of 35%. 3. Audited balance sheet counter signed by C.A. for three years out of last four financial years clearly indic ating turnover and T.D.S. Average financial turnover should be at least 50% of the estimated cost during th e last three financial years out of last four financial years. 4. Attach PAN, GST/IGST Registration Certificate Xerox copy."
+    },
+    {
+      "page": 6,
+      "text": "5. The bidder must be either sole manufacturer of the items or the authorized partner of the OEM. In the ca se of partner, valid certified copy of the authorization issued for the item by the OEM for this particular ten der and should be enclosed with the tender. It should be on OEM letterhead with authorized signature. 6. Never Black-listed affidavit : The vendor shall submit an affidavit (duly notarized) on Rs.10/- stamp pap er as per below format (the affidavit issues date/notarize date should not be earlier than the bid publicatio n date): “I/We hereby confirm and declare that M/s. …………………………… proprietor/partner(s) is/are not blacklisted/de-registered/debarred by any Government department/Public Sector Undertaking , Universities, Institution and College or any other reputed organization for which we have exe cuted/undertaken the works/services during the last four financial years. Deponent Signature” 7. a) The items delivery time should be preferably within stipulated period mentioned in order, if fails b) The Penalty Clause is as under:- i. Delay up to one week 1% ii. Delay exceeding one week but not exceeding two weeks 2% iii. Delay exceeding two weeks but not exceeding one month 5% iv. Delay exceeding one month 5% for each month and part there of subject to maximum 10% c) In case of failure to supply the goods within stipulated delivery period and in accordance with the specifi cations given in the quotations, the University shall be free to cancel the order. 8. Sub-judice Matter Clause : The bid of the participating firm shall not be considered, If any matter of the bidder against the University is sub-judice in any Court of Law. 9. Notwithstanding anything contained in the draft, in case of any dispute, ambiguity and interpretation of any provisions of the draft, the decision of the Competent Authority of the GBU shall be final. SPECIAL TERMS & CONDITIONS 1. The bidder has to upload brochure of product confirming technical specification. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8236245",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10122425"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 14-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10122425"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 15-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10122425"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10122425"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Uttar Pradesh",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10122425"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Higher Education Department Uttar Pradesh",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10122425"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Gautam Buddha University",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10122425"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Greater Noida",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10122425"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :hod1.gbu.noida@gembuyer.in Buyer Email id: ma.ansari@gbu.ac.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10122425"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 16",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10122425"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Direct Evaporative Air Cooler (V2) ISI Marked To IS 3315 (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10122425"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 2 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10122425"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 16 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10122425"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10122425"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10122425"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10122425"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10122425"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10122425"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10122425"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 416000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10122425"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10122425"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10122425"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 3.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10122425"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 14",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10122425"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Description of stores: Direct Evaporative Air Coolers with Fan On/Off Switch, Pump On/Off Switch, Minimum 1.5-meter power cable (measured from the outer body), accessible drain hole, and rated voltage of 230–240 Volts, 50 Hz | Classification of Air Cooler (according to air flow): Fan Type | Air Delivery (Air Flow) [Hint: CMH refers to Cubic Meters per Hour]: 5001 to 6000 CMH | Minimum EER (energy efficiency ratio) of air cooler (Hint: EER = cooling capacity/power input): 22.0 | Capacity of Sump Tank [Hint: Lower value in each range is not included and Tolerance for declared sump tank capacity shall be +/- 5%]: 120 - 140 liters | Filter Pad: Honey Comb | Compliance to Eco-Mark: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10122425"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Mohd. Ahmad Ansari | 201312,Gautam Buddha University, Gr. Noida | 16 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10122425"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 3. Generic Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller. 4. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses TERMS & CONDTIONS FOR ELIGIBILITY CRITERIA 1. The Physical copy of the EMD Should be submitted to the Gautam Buddha University, Greater Noida, Utt ar Pradesh well before the end date/opening date of the bid. MSE category, only manufactures for goods a nd service provides for services are eligible for exemption from EMD. The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per the exemption clauses on GE M. 2. Working Experience: Three similar satisfactorily completed works out of the last four financial years in C entral Govt. or State Govt. Organization/Institution, PSUs or Private organization/Institution, each three cos ting not less than the amount equal to 15% of the estimated cost Or Two of 20% Or One of 35%. 3. Audited balance sheet counter signed by C.A. for three years out of last four financial years clearly indic ating turnover and T.D.S. Average financial turnover should be at least 50% of the estimated cost during th e last three financial years out of last four financial years. 4. Attach PAN, GST/IGST Registration Certificate Xerox copy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10122425"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "5. The bidder must be either sole manufacturer of the items or the authorized partner of the OEM. In the ca se of partner, valid certified copy of the authorization issued for the item by the OEM for this particular ten der and should be enclosed with the tender. It should be on OEM letterhead with authorized signature. 6. Never Black-listed affidavit : The vendor shall submit an affidavit (duly notarized) on Rs.10/- stamp pap er as per below format (the affidavit issues date/notarize date should not be earlier than the bid publicatio n date): “I/We hereby confirm and declare that M/s. …………………………… proprietor/partner(s) is/are not blacklisted/de-registered/debarred by any Government department/Public Sector Undertaking , Universities, Institution and College or any other reputed organization for which we have exe cuted/undertaken the works/services during the last four financial years. Deponent Signature” 7. a) The items delivery time should be preferably within stipulated period mentioned in order, if fails b) The Penalty Clause is as under:- i. Delay up to one week 1% ii. Delay exceeding one week but not exceeding two weeks 2% iii. Delay exceeding two weeks but not exceeding one month 5% iv. Delay exceeding one month 5% for each month and part there of subject to maximum 10% c) In case of failure to supply the goods within stipulated delivery period and in accordance with the specifi cations given in the quotations, the University shall be free to cancel the order. 8. Sub-judice Matter Clause : The bid of the participating firm shall not be considered, If any matter of the bidder against the University is sub-judice in any Court of Law. 9. Notwithstanding anything contained in the draft, in case of any dispute, ambiguity and interpretation of any provisions of the draft, the decision of the Competent Authority of the GBU shall be final. SPECIAL TERMS & CONDITIONS 1. The bidder has to upload brochure of product confirming technical specification. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10122425"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

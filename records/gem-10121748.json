@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8235630",
   "title": "Toner Cartridges / Ink Cartridges / Consumables for Printers",
   "description": "Toner Cartridges / Ink Cartridges / Consumables for Printers",
-  "organisation": "Department of Electronics and Information Technology",
-  "ministry": "Ministry of Electronics and Information Technology",
-  "department": "Department of Electronics and Information Technology",
+  "organisation": "National Informatics Centre (nic)",
+  "ministry": "Ministry Of Electronics And Information Technology",
+  "department": "Department Of Electronics And Information Technology",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Toner Cartridges / Ink Cartridges / Consumables for Printers",
   "quantity": 100,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 42000,
   "published_at": "2026-11-06T15:33:24+05:30",
   "closing_at": "2026-11-16T16:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10121748"
+    },
+    {
+      "name": "View Document",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/documentdownload/10121748/1793706156.pdf",
+      "page": 4
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 5
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/9BSep0eKwGf0slEIRXu6YZApldVxcVOvX4IUgIUnLIM",
+      "page": 6
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261106",
+      "page": 10
     }
   ],
   "tags": [
@@ -34,5 +54,283 @@
   ],
   "source_fetched_at": "2026-11-06T17:35:56.455Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-17T16:00:00+05:30",
+  "office": "National Informatics Centre-head Quaters",
+  "buyer_email": "dh6-ps@nic.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 10,
+  "oem_turnover_lakhs": 84,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 3,
+  "epbg_duration_months": 9,
+  "offer_validity": "180 (Days)",
+  "estimated_bid_value": 2100000,
+  "source_document_fetched_at": "2026-11-06T23:50:57.263962+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "3db6c94a9fde1e179e689c38c48f949be32b95d651c5d2e9b7734ad51b47a175",
+  "document_pages": 11,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 10 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 84 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 10 % (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 7,
+      "consignee": "Ashok Dimri",
+      "address": "110011,Seva Teerth (PMO), NIC-cell Room No- T-27, New Delhi",
+      "quantity": 100,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": "GENERIC",
+          "parameter": "Product Class of Cartridge",
+          "value": "OEM"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Printer/Multifunction Machines Brand for which offered Cartridge/Consumable is Suitable",
+          "value": "Canon"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Type of Cartridge/Consumable",
+          "value": "Toner Cartridge"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Color of the Ink/Toner",
+          "value": "Black"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Model Number of OEM's Printer/OEM's Multi Function Machine",
+          "value": "LBP243dw, LBP246dw, LBP248x, MF461dw, MF465dw, MF469x"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Model Number of OEM's Printer Cartridge/Consumable",
+          "value": "Canon - 070H"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Minimum Yield of the Replacement Cartridge/Consumable offered (Number of Pages)",
+          "value": "10001 to 15000, 15001 to 20000, 20001 to 30000, 30001 to 40000, 40001 to 50000, 50001 to 70000, 70001 to 100000, 100001 to 500000, 500001 to 1000000, 1000001 to 1500000 Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 8,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 3. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 4. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 5. Service & Support"
+    },
+    {
+      "page": 9,
+      "text": "Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 6. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 7. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. After award of contract L1 bidder have to submit PBG within 15 days, failing w hich penalty @ 0.1% per calendar day shall be imposed upto 10%, beyond that NI C reserves the right to cancel the contract and L1 bidder shall be debarred for a period of 2 years from any procurement process in NIC. 2. Bid specific, MAF with ink sign and stamp should be submitted failing which th e bid will be summarily rejected. Note: Bidders have to submit their EMD in Physical form before the closing date of bid at th e following address: - National Informatics Center A-Block, CGO Complex, Lodhi Road, New Delhi-110003 ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8235630",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121748"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 16-11-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121748"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 17-11-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121748"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121748"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Electronics And Information Technology",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121748"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Electronics And Information Technology",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121748"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: National Informatics Centre (nic)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121748"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: National Informatics Centre-head Quaters",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121748"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :hod-procsec@nic.in Buyer Email id: dh6-ps@nic.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121748"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 100",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121748"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Toner Cartridges / Ink Cartridges / Consumables for Printers (Q2) ( PAC Only )",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121748"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 10 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121748"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 84 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121748"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121748"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121748"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121748"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121748"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121748"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 10 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121748"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121748"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 2100000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121748"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 42000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121748"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 42000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121748"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 3.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121748"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 9",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121748"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121748"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Product Class of Cartridge: OEM | Printer/Multifunction Machines Brand for which offered Cartridge/Consumable is Suitable: Canon | Type of Cartridge/Consumable: Toner Cartridge | Color of the Ink/Toner: Black | Model Number of OEM's Printer/OEM's Multi Function Machine: LBP243dw, LBP246dw, LBP248x, MF461dw, MF465dw, MF469x | Model Number of OEM's Printer Cartridge/Consumable: Canon - 070H | Minimum Yield of the Replacement Cartridge/Consumable offered (Number of Pages): 10001 to 15000, 15001 to 20000, 20001 to 30000, 30001 to 40000, 40001 to 50000, 50001 to 70000, 70001 to 100000, 100001 to 500000, 500001 to 1000000, 1000001 to 1500000 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121748"
+    },
+    {
+      "field": "consignees",
+      "page": 7,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Ashok Dimri | 110011,Seva Teerth (PMO), NIC-cell Room No- T-27, New Delhi | 100 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121748"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 3. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 4. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 5. Service & Support",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121748"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 6. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 7. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. After award of contract L1 bidder have to submit PBG within 15 days, failing w hich penalty @ 0.1% per calendar day shall be imposed upto 10%, beyond that NI C reserves the right to cancel the contract and L1 bidder shall be debarred for a period of 2 years from any procurement process in NIC. 2. Bid specific, MAF with ink sign and stamp should be submitted failing which th e bid will be summarily rejected. Note: Bidders have to submit their EMD in Physical form before the closing date of bid at th e following address: - National Informatics Center A-Block, CGO Complex, Lodhi Road, New Delhi-110003 .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121748"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

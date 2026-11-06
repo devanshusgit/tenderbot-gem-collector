@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8234473",
   "title": "Laundry Service - Commercial/Residential/Transport/Industrial Purpose",
   "description": "Laundry Service - Commercial/Residential/Transport/Industrial Purpose",
-  "organisation": "Department of Health and Family Welfare",
-  "ministry": "Ministry of Health and Family Welfare",
-  "department": "Department of Health and Family Welfare",
+  "organisation": "N/a",
+  "ministry": "Ministry Of Health And Family Welfare",
+  "department": "Department Of Health And Family Welfare",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Laundry Service - Commercial/Residential/Transport/Industrial Purpose",
   "quantity": 300,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-04T10:32:06+05:30",
   "closing_at": "2026-12-01T11:00:00+05:30",
   "status": "active",
@@ -27,6 +27,31 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10120482"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": ":1793703438.pdf",
+      "url": "https://bidplus.gem.gov.in/resources/upload_nas/NovQ426/bidding/biddoc/bid-10120482/1793703438.pdf",
+      "page": 3
+    },
+    {
+      "name": "1793708780.pdf",
+      "url": "https://bidplus.gem.gov.in/resources/upload_nas/NovQ426/bidding/biddoc/bid-10120482/1793708780.pdf",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261104",
+      "page": 6
+    },
+    {
+      "name": "Service Level Agreement",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/bidsla/102424155912324",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +59,256 @@
   ],
   "source_fetched_at": "2026-11-05T04:52:04.407Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-02T11:00:00+05:30",
+  "office": "Central Drugs Testing Laboratory -mumbai., Zonal Fda Bhawan, Gmsd Compound, Bellasis Road, Mumbai Central, Mumbai- 400 008.",
+  "buyer_email": "sneha.rajangali@cdsco.nic.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 3,
+  "epbg_duration_months": 14,
+  "offer_validity": "180 (Days)",
+  "contract_period": "1 Year(s)",
+  "source_document_fetched_at": "2026-11-06T07:59:09.941194+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "83e3a63db5a579311363560f46b02b91d559ad0986f185ce26a40c1f693d3c87",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Neha Santosh Doke",
+      "address": "400008,Zonal FDA Bhawan, GMSD Compound , Bellasis Road, Mumbai Central Mumbai.",
+      "quantity": 300,
+      "quantity_label": "Weight in Kg per month / Number of Cloths per month",
+      "delivery_days": null,
+      "additional_requirements": "Total weight in Kg / Number of Pieces for Ironing per month : 300 Total weight in Kg / Number of Pieces for combined packaging per month : 300 Number of months within contract period : 12"
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Type of Space",
+          "value": "Office/Commercial/ Institutions/Residential/Public Transport/Hotels"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Type of Laundry service",
+          "value": "Pick up & Drop Service"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type of Laundry Solution",
+          "value": "Wet Cleaning"
+        },
+        {
+          "group": "Core",
+          "parameter": "Cycle",
+          "value": "Weekly"
+        },
+        {
+          "group": "Core",
+          "parameter": "Frequency",
+          "value": "4"
+        },
+        {
+          "group": "Core",
+          "parameter": "Average profit in the past three years should be positive(Documentary evidence to be submitted by Service Provider)",
+          "value": "NA"
+        },
+        {
+          "group": "Core",
+          "parameter": "X number of employees on payroll of Service Provider(Documentary evidence to be submitted by Service Provider)",
+          "value": "NA"
+        },
+        {
+          "group": "Core",
+          "parameter": "Unit of Laundry",
+          "value": "Numbers"
+        },
+        {
+          "group": "Core",
+          "parameter": "Quantity Range",
+          "value": "Not Applicable"
+        },
+        {
+          "group": "Core",
+          "parameter": "Size of Laundry",
+          "value": "Medium"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Ironing",
+          "value": "Yes"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Combined Packaging",
+          "value": "Yes"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Experience Certificate for the supply of the same to any Govt/ PSU/ any renowned private organisation along with Supply/ Purchase Order. 2. If the agency is registered under MSME or NSIC, then EMD exemption certificate needs to be enclosed. 3. Generic OPTION CLAUSE 50% : The buyer can increase or decrease the contract quantity or contract duration up to 50 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 50 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 50 percent with the consent of the service provider"
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8234473",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120482"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 01-12-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120482"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 02-12-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120482"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120482"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Health And Family Welfare",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120482"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Health And Family Welfare",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120482"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: N/a",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120482"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Central Drugs Testing Laboratory -mumbai., Zonal Fda Bhawan, Gmsd Compound, Bellasis Road, Mumbai Central, Mumbai- 400 008.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120482"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :chella.haran@cdsco.nic.in Buyer Email id: sneha.rajangali@cdsco.nic.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120482"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Laundry Service - Commercial/Residential/Transport/Industrial Purpose",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120482"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 1 Year(s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120482"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120482"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120482"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120482"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 3.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120482"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 14",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120482"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120482"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120482"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Type of Space: Office/Commercial/ Institutions/Residential/Public Transport/Hotels",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120482"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Type of Laundry service: Pick up & Drop Service | Type of Laundry Solution: Wet Cleaning | Cycle: Weekly | Frequency: 4 | Average profit in the past three years should be positive(Documentary evidence to be submitted by Service Provider): NA | X number of employees on payroll of Service Provider(Documentary evidence to be submitted by Service Provider): NA | Unit of Laundry: Numbers | Quantity Range: Not Applicable | Size of Laundry: Medium | Ironing: Yes | Combined Packaging: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120482"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Weight in Kg per month / Number of Cloths per month | Additional Requirement: 1 | Neha Santosh Doke | 400008,Zonal FDA Bhawan, GMSD Compound , Bellasis Road, Mumbai Central Mumbai. | 300 | Total weight in Kg / Number of Pieces for Ironing per month : 300 Total weight in Kg / Number of Pieces for combined packaging per month : 300 Number of months within contract period : 12",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120482"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Experience Certificate for the supply of the same to any Govt/ PSU/ any renowned private organisation along with Supply/ Purchase Order. 2. If the agency is registered under MSME or NSIC, then EMD exemption certificate needs to be enclosed. 3. Generic OPTION CLAUSE 50% : The buyer can increase or decrease the contract quantity or contract duration up to 50 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 50 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 50 percent with the consent of the service provider",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120482"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 300",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

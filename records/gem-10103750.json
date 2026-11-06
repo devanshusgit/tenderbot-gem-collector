@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8220168",
   "title": "General Purpose Battery Chargers",
   "description": "General Purpose Battery Chargers",
-  "organisation": "Department of Atomic Energy",
-  "ministry": "Department of Atomic Energy",
-  "department": "Department of Atomic Energy",
+  "organisation": "Directorate Of Purchase And Stores",
+  "ministry": "Department Of Atomic Energy",
+  "department": "Department Of Atomic Energy",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "General Purpose Battery Chargers",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-04T10:21:28+05:30",
   "closing_at": "2026-11-14T14:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10103750"
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/7ij74DuoHYEWrpL8S6wy0bNeSBbicu2O2NhTSATj4p8",
+      "page": 3
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8220168/CLM0010/Hindrance_4ff74df2-6a4a-4ba7-886e1793349687006_mprpum.docx",
+      "page": 6
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261104",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +49,277 @@
   ],
   "source_fetched_at": "2026-11-05T04:52:11.175Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-15T14:00:00+05:30",
+  "office": "Directorate Of Purchase And Stores",
+  "buyer_email": "apo.rpum-dae@gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "90 (Days)",
+  "source_document_fetched_at": "2026-11-06T08:05:18.340681+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "ece1c24c418e5854274237998babbd7f0ccd59e0cae2208d5597a6510d7b00a0",
+  "document_pages": 7,
+  "eligibility": [
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "M Lakshmi Priya",
+      "address": "507116,STORES UNIT, HWP MANUGURU, P.O. GAUTAMINAGAR, ASWAPURAM, BHADRADRI KOTHAGUDEM DIST.",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 90
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Performance Parameters",
+          "parameter": "Suitable for charging of types of battery chemistry",
+          "value": "Tubular Lead acid / VRLA/SMF/ Flat Plate Lead-Acid"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Charger type",
+          "value": "Float cum boost charger (FCBC)"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Input voltage (in volt)",
+          "value": "AC 230V+/-15%"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Nominal output DC Voltage in (volts)",
+          "value": "24"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Minimum output current at nominal output DC voltage (in Ampere)",
+          "value": "30"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Power Rating (in watts) [Hint: Nominal output DC Voltage (in volts) x Minimum Output current at nominal output DC voltage (in Ampere)]",
+          "value": "10000.0 - 44000.0 Or higher"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Efficiency",
+          "value": ">/=75%, >/=80%, >/=85%, >=90%, >/=95%"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Construction",
+          "parameter": "Construction/Enclosure",
+          "value": "Enclosure made of 1mm or better, CRCA sheet, duly powder coated and asthetically designed."
+        },
+        {
+          "group": "Construction",
+          "parameter": "Additional requirements [Hint: Products matching all selected values will be displayed; For example, if both 'Charging cut off voltage' and 'Provision of two different ports' are selected, product that include both options will be shown]",
+          "value": "Charging cut off voltage (14.5V+/- (-0.2V), Provision of two different ports, one port for Radio Operation and other for Battery charging operation."
+        },
+        {
+          "group": "Protection and Features/Accessories",
+          "parameter": "Salient protection [Hint: Products matching all selected values will be displayed; For example, if both 'Overload protection' and 'Overcharge protection' are selected, product that include both options will be shown]",
+          "value": "Overload protection, Overcharge protection, Over Current protection, Short Circuit protection, Reverse polarity protection, AC input circuit breaker, DC output circuit breaker"
+        },
+        {
+          "group": "Protection and Features/Accessories",
+          "parameter": "Salient features/Accessories (Choose NA in case alligator clips not provided)",
+          "value": "Charging cable of 1.5m with alligator clips provided"
+        },
+        {
+          "group": "Environment",
+          "parameter": "Ingress protection",
+          "value": "IP20 or better, IP23 or better Or higher"
+        },
+        {
+          "group": "Environment",
+          "parameter": "Humidity (Rh)",
+          "value": "90%"
+        },
+        {
+          "group": "Warranty",
+          "parameter": "Installation/Commissioning",
+          "value": "With Installation Commissioning Or higher"
+        },
+        {
+          "group": "Certification",
+          "parameter": "Type of lab which carried out test of complete product to prove the conformity of specification",
+          "value": "Certificate of Govt./NABL/ILAC accredited lab"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Scope of Supply"
+    },
+    {
+      "page": 5,
+      "text": "Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 2. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 3. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 4. Warranty Warranty period of the supplied products shall be as given in specifications from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 5. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1). File no. DPS/RPUM/25125 2). Additional specification parameters: a). Output Voltage adjustment: Float: +/- 10%, Boost: +/-15% of output nominal voltage. b). Input MCB has to be present. c). Meters should be present to indicate output voltage and current. d). Charging current limit protection features has to be present. e). Charger should be suitable to charge Lead acid automotive batteries also. 3). Purchase Preference (Centre) Procurement under this bid is reserved for purchase from Micro and Small Enterprises whose credentials a re validated online through Udyam Registration Certificate(URC) for that product/service category. If the bi dder wants to avail the reservation benefit, the bidder must be the manufacturer of the offered product in case of bid for supply of goods. Traders are excluded from the purview of Public Procurement Policy for Mic ro and Small Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offer ed Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in respect of the offered product or service. NOTE TO BIDDER:- IN THE EVENT OF ORDER, THE CONTRACTOR SHOULD SUPPLY THE MATERIAL WITHIN THE ORIGINAL DELIVERY PERIOD MENTIONED IN THE CONTRACT. IF NOT, THE HINDR ANCE REGISTER SHOULD BE SUBMITTED WHICH IS MANDATORY DOCUMENT FOR CO NSIDERATION OF GRANTING DP EXTENSION (IF REQUIRED). THE CONTRACTOR IS REQUIRED TO MAINTAIN HINDRANCE REGISTER FOR REPORTIN G HINDRANCE, IF ANY, WHILE EXECUTING THE WORK, AS PER ANNEXURE-X. THE CO NTRACTOR SHALL GET RECORD OF HINDRANCES IN THE HINDRANCE REGISTER(S) AP PROVED/ ENDORSED BY THE PURCHASER. SUCH HINDRANCE IN THE WORK ENDORSE D BY THE PURCHASER WILL ONLY BE TAKEN INTO CONSIDERATION FOR GRANTING D"
+    },
+    {
+      "page": 6,
+      "text": "ELIVERY DATE RE-FIXATION. . 6. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8220168",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103750"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 14-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103750"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 15-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103750"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103750"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Department Of Atomic Energy",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103750"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Atomic Energy",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103750"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Directorate Of Purchase And Stores",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103750"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Directorate Of Purchase And Stores",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103750"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :hod_dps_gem@dpsdae.gov.in Buyer Email id: apo.rpum-dae@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103750"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103750"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: General Purpose Battery Chargers (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103750"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103750"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103750"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103750"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103750"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103750"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103750"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Suitable for charging of types of battery chemistry: Tubular Lead acid / VRLA/SMF/ Flat Plate Lead-Acid | Charger type: Float cum boost charger (FCBC) | Input voltage (in volt): AC 230V+/-15% | Nominal output DC Voltage in (volts): 24 | Minimum output current at nominal output DC voltage (in Ampere): 30 | Power Rating (in watts) [Hint: Nominal output DC Voltage (in volts) x Minimum Output current at nominal output DC voltage (in Ampere)]: 10000.0 - 44000.0 Or higher | Efficiency: >/=75%, >/=80%, >/=85%, >=90%, >/=95%",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103750"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Construction/Enclosure: Enclosure made of 1mm or better, CRCA sheet, duly powder coated and asthetically designed. | Additional requirements [Hint: Products matching all selected values will be displayed; For example, if both 'Charging cut off voltage' and 'Provision of two different ports' are selected, product that include both options will be shown]: Charging cut off voltage (14.5V+/- (-0.2V), Provision of two different ports, one port for Radio Operation and other for Battery charging operation. | Salient protection [Hint: Products matching all selected values will be displayed; For example, if both 'Overload protection' and 'Overcharge protection' are selected, product that include both options will be shown]: Overload protection, Overcharge protection, Over Current protection, Short Circuit protection, Reverse polarity protection, AC input circuit breaker, DC output circuit breaker | Salient features/Accessories (Choose NA in case alligator clips not provided): Charging cable of 1.5m with alligator clips provided | Ingress protection: IP20 or better, IP23 or better Or higher | Humidity (Rh): 90% | Installation/Commissioning: With Installation Commissioning Or higher | Type of lab which carried out test of complete product to prove the conformity of specification: Certificate of Govt./NABL/ILAC accredited lab",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103750"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | M Lakshmi Priya | 507116,STORES UNIT, HWP MANUGURU, P.O. GAUTAMINAGAR, ASWAPURAM, BHADRADRI KOTHAGUDEM DIST. | 1 | 90",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103750"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Scope of Supply",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103750"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 2. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 3. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 4. Warranty Warranty period of the supplied products shall be as given in specifications from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 5. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1). File no. DPS/RPUM/25125 2). Additional specification parameters: a). Output Voltage adjustment: Float: +/- 10%, Boost: +/-15% of output nominal voltage. b). Input MCB has to be present. c). Meters should be present to indicate output voltage and current. d). Charging current limit protection features has to be present. e). Charger should be suitable to charge Lead acid automotive batteries also. 3). Purchase Preference (Centre) Procurement under this bid is reserved for purchase from Micro and Small Enterprises whose credentials a re validated online through Udyam Registration Certificate(URC) for that product/service category. If the bi dder wants to avail the reservation benefit, the bidder must be the manufacturer of the offered product in case of bid for supply of goods. Traders are excluded from the purview of Public Procurement Policy for Mic ro and Small Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offer ed Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in respect of the offered product or service. NOTE TO BIDDER:- IN THE EVENT OF ORDER, THE CONTRACTOR SHOULD SUPPLY THE MATERIAL WITHIN THE ORIGINAL DELIVERY PERIOD MENTIONED IN THE CONTRACT. IF NOT, THE HINDR ANCE REGISTER SHOULD BE SUBMITTED WHICH IS MANDATORY DOCUMENT FOR CO NSIDERATION OF GRANTING DP EXTENSION (IF REQUIRED). THE CONTRACTOR IS REQUIRED TO MAINTAIN HINDRANCE REGISTER FOR REPORTIN G HINDRANCE, IF ANY, WHILE EXECUTING THE WORK, AS PER ANNEXURE-X. THE CO NTRACTOR SHALL GET RECORD OF HINDRANCES IN THE HINDRANCE REGISTER(S) AP PROVED/ ENDORSED BY THE PURCHASER. SUCH HINDRANCE IN THE WORK ENDORSE D BY THE PURCHASER WILL ONLY BE TAKEN INTO CONSIDERATION FOR GRANTING D",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103750"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "ELIVERY DATE RE-FIXATION. . 6. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103750"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

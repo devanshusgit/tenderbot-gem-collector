@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8232373",
   "title": "Ultrasonic Thickness Gauge",
   "description": "Ultrasonic Thickness Gauge",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "Southern Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Ultrasonic Thickness Gauge",
   "quantity": 6,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-04T10:00:35+05:30",
   "closing_at": "2026-11-14T10:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10118115"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/qer0BdiVDDDX9KQ6i0Vw0sQPWUWbtxiPpraq6HoAIZU",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261104",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +49,347 @@
   ],
   "source_fetched_at": "2026-11-05T05:01:07.187Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-15T10:00:00+05:30",
+  "office": "Southern Railway",
+  "buyer_email": "amm@tpj.railnet.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "60 (Days)",
+  "source_document_fetched_at": "2026-11-06T09:12:49.249252+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "239fdd67ea5f707ae2407a7ade037e3657951daf404e84509698031b5b42cda4",
+  "document_pages": 7,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Rajamahalingam S",
+      "address": "620001,OFFICE OF THE SENIOR SECTION ENGINEER ELECTRICAL ,WORKS , SOUTHERN RAILWAYTIRUCHIRAPALLI",
+      "quantity": 6,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "General Parameter",
+          "parameter": "Operational mode",
+          "value": "dual"
+        },
+        {
+          "group": "General Parameter",
+          "parameter": "Material",
+          "value": "Steel"
+        },
+        {
+          "group": "General Parameter",
+          "parameter": "Portable",
+          "value": "Yes"
+        },
+        {
+          "group": "Certification and standard",
+          "parameter": "Conformity to EN 15317",
+          "value": "No"
+        },
+        {
+          "group": "Certification and standard",
+          "parameter": "Conformity to ASTM E 797",
+          "value": "No"
+        },
+        {
+          "group": "Performance Parameter",
+          "parameter": "Calibration",
+          "value": "Single Point Calibration"
+        },
+        {
+          "group": "Performance Parameter",
+          "parameter": "Measurement range",
+          "value": "1.2mm-225"
+        },
+        {
+          "group": "Performance Parameter",
+          "parameter": "Data interface/communication port",
+          "value": "NA"
+        },
+        {
+          "group": "Performance Parameter",
+          "parameter": "Probe compatibility",
+          "value": "Single"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Sound velocity range,m/s",
+          "value": "1000-9999"
+        },
+        {
+          "group": null,
+          "parameter": "Accuracy",
+          "value": "+/-(1% Thickness 0.1) mm"
+        },
+        {
+          "group": null,
+          "parameter": "Storage (values)",
+          "value": "1"
+        },
+        {
+          "group": null,
+          "parameter": "Applicable Materials",
+          "value": "Mild steel"
+        },
+        {
+          "group": null,
+          "parameter": "Resolution",
+          "value": "0.1 (millimeter)"
+        },
+        {
+          "group": null,
+          "parameter": "Frequency range",
+          "value": "5.0 (megaHertz)"
+        },
+        {
+          "group": "Display specification",
+          "parameter": "Display Type",
+          "value": "LCD"
+        },
+        {
+          "group": "Display specification",
+          "parameter": "Display unit",
+          "value": "mm"
+        },
+        {
+          "group": "Environmental Parameter",
+          "parameter": "Operating temperature,degree Celsius",
+          "value": "0 to 40"
+        },
+        {
+          "group": "Electrical Parameter",
+          "parameter": "Battery life operating time",
+          "value": "9.0 (hour)"
+        },
+        {
+          "group": "Electrical Parameter",
+          "parameter": "Battery Type",
+          "value": "Built-in lithium rechargeable battery"
+        },
+        {
+          "group": "Electrical Parameter",
+          "parameter": "Power supply",
+          "value": "3 AA batteries"
+        },
+        {
+          "group": "Dimension & Size",
+          "parameter": "Width",
+          "value": "65.0 (millimeter)"
+        },
+        {
+          "group": "Dimension & Size",
+          "parameter": "Height",
+          "value": "30.0 (millimeter)"
+        },
+        {
+          "group": "Dimension & Size",
+          "parameter": "Weight",
+          "value": "150.0 (gram)"
+        },
+        {
+          "group": "Dimension & Size",
+          "parameter": "Length",
+          "value": "146.0 (millimeter)"
+        },
+        {
+          "group": "Shelf life",
+          "parameter": "Warranty",
+          "value": "1, 2, 3, 4, 5 Or higher (year)"
+        },
+        {
+          "group": "Additional Parameter",
+          "parameter": "Features",
+          "value": "Auto power off"
+        },
+        {
+          "group": "Additional Parameter",
+          "parameter": "Case",
+          "value": "Stanard"
+        },
+        {
+          "group": "Test Report/Certification",
+          "parameter": "Manufacturer should have ISO certification for quality standards",
+          "value": "No"
+        },
+        {
+          "group": "Test Report/Certification",
+          "parameter": "Availability Of Test Report From Central Govt/Nabl/Ilac Accredited Lab To Prove Conformity To Specification",
+          "value": "No"
+        },
+        {
+          "group": "Test Report/Certification",
+          "parameter": "Copies of reports and certifications to be furnished to buyer on demand at time of supplies",
+          "value": "Yes"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 3. Certificates Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked by Buyer’s Lab & the Results of the Lab will be the Sole Criteria for Acceptance of the Item. 4. Warranty Warranty period of the supplied products shall be 1 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of"
+    },
+    {
+      "page": 6,
+      "text": "Service Centres near consignee destinations are to be uploaded along with the bid. 5. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses CONSIGNEE'S CONTACT No. 9003864305 Payment Conditions: Failure consequences: In case the firm fails to execute the contract within the original deliv ery period, the purchaser will be entitled to impose liquidated damages for extension of del ivery period. For any reason, if the supplier fails to supply goods as per the conditions of co ntract, as amended from time to time, Purchaser shall have the right to levy damages from the supplier for failing to comply with the contractual conditions, not by the way of penalty, an amount equal to security deposit of the defaulted order amount. These damages shall b e treated as recoveries outstanding against the vendor and dealt with accordingly. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8232373",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118115"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 14-11-2026 10:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118115"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 15-11-2026 10:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118115"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 60 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118115"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118115"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118115"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Southern Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118115"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Southern Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118115"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :dycmmdsl@sr.railnet.gov.in Buyer Email id: amm@tpj.railnet.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118115"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 6",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118115"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Ultrasonic Thickness Gauge (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118115"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118115"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118115"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118115"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118115"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118115"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118115"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Operational mode: dual | Material: Steel | Portable: Yes | Conformity to EN 15317: No | Conformity to ASTM E 797: No | Calibration: Single Point Calibration | Measurement range: 1.2mm-225 | Data interface/communication port: NA | Probe compatibility: Single",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118115"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Sound velocity range,m/s: 1000-9999 | Accuracy: +/-(1% Thickness 0.1) mm | Storage (values): 1 | Applicable Materials: Mild steel | Resolution: 0.1 (millimeter) | Frequency range: 5.0 (megaHertz) | Display Type: LCD | Display unit: mm | Operating temperature,degree Celsius: 0 to 40 | Battery life operating time: 9.0 (hour) | Battery Type: Built-in lithium rechargeable battery | Power supply: 3 AA batteries | Width: 65.0 (millimeter) | Height: 30.0 (millimeter) | Weight: 150.0 (gram) | Length: 146.0 (millimeter) | Warranty: 1, 2, 3, 4, 5 Or higher (year) | Features: Auto power off | Case: Stanard | Manufacturer should have ISO certification for quality standards: No | Availability Of Test Report From Central Govt/Nabl/Ilac Accredited Lab To Prove Conformity To Specification: No | Copies of reports and certifications to be furnished to buyer on demand at time of supplies: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118115"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Rajamahalingam S | 620001,OFFICE OF THE SENIOR SECTION ENGINEER ELECTRICAL ,WORKS , SOUTHERN RAILWAYTIRUCHIRAPALLI | 6 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118115"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 3. Certificates Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked by Buyer’s Lab & the Results of the Lab will be the Sole Criteria for Acceptance of the Item. 4. Warranty Warranty period of the supplied products shall be 1 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118115"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "Service Centres near consignee destinations are to be uploaded along with the bid. 5. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses CONSIGNEE'S CONTACT No. 9003864305 Payment Conditions: Failure consequences: In case the firm fails to execute the contract within the original deliv ery period, the purchaser will be entitled to impose liquidated damages for extension of del ivery period. For any reason, if the supplier fails to supply goods as per the conditions of co ntract, as amended from time to time, Purchaser shall have the right to levy damages from the supplier for failing to comply with the contractual conditions, not by the way of penalty, an amount equal to security deposit of the defaulted order amount. These damages shall b e treated as recoveries outstanding against the vendor and dealt with accordingly. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118115"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

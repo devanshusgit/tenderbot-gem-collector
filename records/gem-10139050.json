@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8250982",
   "title": "All in One PC (V2)",
   "description": "All in One PC (V2)",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "Central Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "All in One PC (V2)",
   "quantity": 5,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-06T16:30:04+05:30",
   "closing_at": "2026-11-16T17:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10139050"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/U09Aah6znYNlxG-EocTeXHmuuIIYzTkIRfGxyfW2sG8",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261106",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +49,266 @@
   ],
   "source_fetched_at": "2026-11-06T17:36:53.961Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-17T17:00:00+05:30",
+  "office": "Central Railway Stores Deptt",
+  "buyer_email": "smmelskyn@cr.railnet.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "60 (Days)",
+  "estimated_bid_value": 249500,
+  "source_document_fetched_at": "2026-11-06T23:39:29.134408+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "b22a1f3c047c7e56281df3d018f70448713502edabf67a31d9d872c5afe0b6ff",
+  "document_pages": 9,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Umesh Kumar Sharma",
+      "address": "421301,OFFICE OF SMM(ELS) ELECTRIC LOCO STORE DEPOT WALDHUNI KALYAN - 421301",
+      "quantity": 5,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Description",
+          "parameter": "Description of store",
+          "value": "All in One Personal Computers consist of a Mouse, Keyboard, Display with Web camera, inbuilt/integrated microphone array and speakers, an internal CPU with connection cables and power adapter with 1 year standard warranty"
+        },
+        {
+          "group": "Description",
+          "parameter": "Processor Number",
+          "value": "Intel Core i3-13100, Intel Core i3-12100, Intel Core i3- 14100T, Intel Core i3-12300, Intel Core i3-14100, Intel Core i5-12400T, Intel Core i5-12500T, Intel Core i5 12600T, Intel Core i5-12400, Intel Core i5-12500, Intel Core i5-13400T, Intel Core i7 12700T, Intel Core i5- 12600, Intel Core i5-13500T, Intel Core i5-14500T, Intel Core i5-14400, Intel Core i5-13600T, Intel Core i7-13700T, Intel Core i9 12900T, Intel Core i7-12700, Intel Core i7-14700T, Intel Core i5-13500, Intel Core i5-14500, Intel Core i9-12900, Intel Core i7-13700, Intel Core i7-14700, Intel Core i9-13900T, Intel Core i9-13900, Intel Core Ultra 5-235, Intel Core Ultra 7- 265, Intel Core i5 14600T, Intel Core Ultra 5 235T, Intel Core Ultra 5 245, Intel Core Ultra 5 245T, Intel Core Ultra 9 285 Or higher"
+        },
+        {
+          "group": "Input Devices",
+          "parameter": "Mouse Connectivity",
+          "value": "Wired, Wireless Or higher"
+        },
+        {
+          "group": "Input Devices",
+          "parameter": "Keyboard Connectivity",
+          "value": "Wired, Wireless Or higher"
+        },
+        {
+          "group": "Input Devices",
+          "parameter": "Type of Keyboard",
+          "value": "Standard, Bilingual Or higher"
+        },
+        {
+          "group": "Graphics",
+          "parameter": "Graphics Type",
+          "value": "Integrated"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Operating System",
+          "parameter": "Operating System (Factory Preloaded with Certification)",
+          "value": "Windows 11 Professional"
+        },
+        {
+          "group": "Memory",
+          "parameter": "Type of RAM",
+          "value": "DDR4, DDR5 Or higher"
+        },
+        {
+          "group": "Memory",
+          "parameter": "RAM Size (GB)",
+          "value": "8, 16, 32 Or higher"
+        },
+        {
+          "group": "Storage",
+          "parameter": "Type of Storage Installed with the System",
+          "value": "NVMe SSD, SATA SSD"
+        },
+        {
+          "group": "Storage",
+          "parameter": "Storage Capacity (in GB)",
+          "value": "512, 1024, 2048 Or higher"
+        },
+        {
+          "group": "Display",
+          "parameter": "Display Size - Diagonal (in Inches)",
+          "value": "58.1 - 63 (22.87\" - 24.8\")"
+        },
+        {
+          "group": "Display",
+          "parameter": "Panel Technology",
+          "value": "In Plane Switching (IPS) Or higher"
+        },
+        {
+          "group": "Ports",
+          "parameter": "Number of Ports",
+          "value": "1-HDMI, 1-DP, 1-USB 3.0 TYPE A, 1-USB TYPE C, 2- USB TYPE C, Universal Audio Jack, 1- RJ-45 (10/100/1000 Ethernet Port), 1- VGA, 1-USB 3.1 Gen 2 TYPE A, 1-USB 3.1 Gen 1 TYPE A, 2-USB 3.0 TYPE A, 2- USB 3.1 Gen 2 TYPE A, 2-USB 3.1 Gen 1 TYPE A, 1- USB 3.1 Gen 1 TYPE C, 2-USB 3.1 Gen 1 TYPE C, 1- USB 3.2 Gen 2 TYPE C, 2-USB 3.2 Gen 2 TYPE C, 2- HDMI"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Stand",
+          "value": "Standard, Height Adjustable, Swivel and Pivot, Height Adjustable and Swivel and Pivot"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 3. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 4. Warranty Successful bidder will have to ensure that adequate number of dedicated technical service personals / engineers are designated / deployed for attending to the Service Request in a time bound manner and for"
+    },
+    {
+      "page": 7,
+      "text": "ensuring Timely Servicing / rectification of defects during warranty period, as per Service level agreement indicated in the relevant clause of the bid. 5. Warranty Warranty period of the supplied products shall be 3 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 6. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): NIL Post Receipt Inspection at consignee site before acceptance of stores: CONSIGNEE 7. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses ONSITE WARRANTY 03 YEARS FROM THE DATE OF INSTALLATION OF PRODUCT. BIDDERS SHOU LD ACCEPT ON LETTERHEAD OF COMPANY WITH SEAL AND STAMP, ATC ACCEPTED LETTER SH OULD BE UPLOADED ALONG WITH BID, FAILING WHICH OFFER WILL BE PASSOVER. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8250982",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139050"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 16-11-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139050"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 17-11-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139050"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 60 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139050"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139050"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139050"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Central Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139050"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Central Railway Stores Deptt",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139050"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :dycmmadmin@cr.railnet.gov.in Buyer Email id: smmelskyn@cr.railnet.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139050"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 5",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139050"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: All in One PC (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139050"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139050"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139050"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139050"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 249500",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139050"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139050"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139050"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Description of store: All in One Personal Computers consist of a Mouse, Keyboard, Display with Web camera, inbuilt/integrated microphone array and speakers, an internal CPU with connection cables and power adapter with 1 year standard warranty | Processor Number: Intel Core i3-13100, Intel Core i3-12100, Intel Core i3- 14100T, Intel Core i3-12300, Intel Core i3-14100, Intel Core i5-12400T, Intel Core i5-12500T, Intel Core i5 12600T, Intel Core i5-12400, Intel Core i5-12500, Intel Core i5-13400T, Intel Core i7 12700T, Intel Core i5- 12600, Intel Core i5-13500T, Intel Core i5-14500T, Intel Core i5-14400, Intel Core i5-13600T, Intel Core i7-13700T, Intel Core i9 12900T, Intel Core i7-12700, Intel Core i7-14700T, Intel Core i5-13500, Intel Core i5-14500, Intel Core i9-12900, Intel Core i7-13700, Intel Core i7-14700, Intel Core i9-13900T, Intel Core i9-13900, Intel Core Ultra 5-235, Intel Core Ultra 7- 265, Intel Core i5 14600T, Intel Core Ultra 5 235T, Intel Core Ultra 5 245, Intel Core Ultra 5 245T, Intel Core Ultra 9 285 Or higher | Mouse Connectivity: Wired, Wireless Or higher | Keyboard Connectivity: Wired, Wireless Or higher | Type of Keyboard: Standard, Bilingual Or higher | Graphics Type: Integrated",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139050"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Operating System (Factory Preloaded with Certification): Windows 11 Professional | Type of RAM: DDR4, DDR5 Or higher | RAM Size (GB): 8, 16, 32 Or higher | Type of Storage Installed with the System: NVMe SSD, SATA SSD | Storage Capacity (in GB): 512, 1024, 2048 Or higher | Display Size - Diagonal (in Inches): 58.1 - 63 (22.87\" - 24.8\") | Panel Technology: In Plane Switching (IPS) Or higher | Number of Ports: 1-HDMI, 1-DP, 1-USB 3.0 TYPE A, 1-USB TYPE C, 2- USB TYPE C, Universal Audio Jack, 1- RJ-45 (10/100/1000 Ethernet Port), 1- VGA, 1-USB 3.1 Gen 2 TYPE A, 1-USB 3.1 Gen 1 TYPE A, 2-USB 3.0 TYPE A, 2- USB 3.1 Gen 2 TYPE A, 2-USB 3.1 Gen 1 TYPE A, 1- USB 3.1 Gen 1 TYPE C, 2-USB 3.1 Gen 1 TYPE C, 1- USB 3.2 Gen 2 TYPE C, 2-USB 3.2 Gen 2 TYPE C, 2- HDMI | Stand: Standard, Height Adjustable, Swivel and Pivot, Height Adjustable and Swivel and Pivot",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139050"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Umesh Kumar Sharma | 421301,OFFICE OF SMM(ELS) ELECTRIC LOCO STORE DEPOT WALDHUNI KALYAN - 421301 | 5 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139050"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 3. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 4. Warranty Successful bidder will have to ensure that adequate number of dedicated technical service personals / engineers are designated / deployed for attending to the Service Request in a time bound manner and for",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139050"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "ensuring Timely Servicing / rectification of defects during warranty period, as per Service level agreement indicated in the relevant clause of the bid. 5. Warranty Warranty period of the supplied products shall be 3 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 6. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): NIL Post Receipt Inspection at consignee site before acceptance of stores: CONSIGNEE 7. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses ONSITE WARRANTY 03 YEARS FROM THE DATE OF INSTALLATION OF PRODUCT. BIDDERS SHOU LD ACCEPT ON LETTERHEAD OF COMPANY WITH SEAL AND STAMP, ATC ACCEPTED LETTER SH OULD BE UPLOADED ALONG WITH BID, FAILING WHICH OFFER WILL BE PASSOVER. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139050"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

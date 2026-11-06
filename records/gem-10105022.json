@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8221291",
   "title": "Surveillance Drone / Unmanned Aerial Vehicle (V2)",
   "description": "Surveillance Drone / Unmanned Aerial Vehicle (V2)",
-  "organisation": "Police Department Goa",
-  "ministry": "",
+  "organisation": "N/a",
+  "ministry": "Goa",
   "department": "Police Department Goa",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Surveillance Drone / Unmanned Aerial Vehicle (V2)",
   "quantity": 10,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 240000,
   "published_at": "2026-11-04T14:54:29+05:30",
   "closing_at": "2026-11-14T15:00:00+05:30",
   "status": "active",
@@ -27,6 +27,16 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10105022"
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/KY7Ddcjf37ELoR6DQGuTxRVK-Wth43EKLwmMTUW_mIQ",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261104",
+      "page": 11
     }
   ],
   "tags": [
@@ -34,5 +44,327 @@
   ],
   "source_fetched_at": "2026-11-05T04:38:51.780Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-15T15:00:00+05:30",
+  "office": "The Director General Of Police",
+  "buyer_email": "dyspcpc-hq@goapolice.gov.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 40,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 26,
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-06T01:15:43.340253+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "44ae3d26acfba327143e8116a25950716338fe33fec770771fb68f9025fd43b8",
+  "document_pages": 11,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 40 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Pravinkumar Ganoo Vast",
+      "address": "403001,Opposite Azad Maidan, Police Headquarters, Panaji- Goa",
+      "quantity": 10,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Included in Scope of Supply",
+          "parameter": "UAV Bird (Drone)",
+          "value": "Yes"
+        },
+        {
+          "group": "Included in Scope of Supply",
+          "parameter": "Ground Control Station (GCS) - Software (Hint: GCS to include payload operation control)",
+          "value": "Yes"
+        },
+        {
+          "group": "Included in Scope of Supply",
+          "parameter": "GCS Compatible Hardware",
+          "value": "Yes"
+        },
+        {
+          "group": "UAV Bird Classification",
+          "parameter": "Category of drone (as per Type Certificate in Drone rules, 2021)",
+          "value": "Rotorcraft"
+        },
+        {
+          "group": "UAV Bird Classification",
+          "parameter": "Sub-category of drone (as per Type Certificate in Drone rules, 2021)",
+          "value": "Remotely Piloted aircraft System"
+        },
+        {
+          "group": "UAV Bird Classification",
+          "parameter": "Classification of Drones (based on maximum all-up weight defined in drone rules, 2021)",
+          "value": "Small (weighing more than 2 kilograms, but less than or equal to 25 kilograms)"
+        },
+        {
+          "group": "UAV Bird - Performance",
+          "parameter": "Maximum All-up weight (Hint: Lower value in each range is not included)",
+          "value": "4 - 5 kg, 5 - 6 kg, 6 - 7 kg, 7 - 8 kg, 8 - 9 kg, 9 - 10 kg, 10 - 11 kg, 11 - 12 kg, 12 - 13 kg, 13 - 14 kg, 14 - 15 kg, 15 - 16 kg, 16 - 17 kg, 17 - 18 kg, 18 - 19 kg, 19 - 20 kg, 20 - 21 kg, 21 - 22 kg, 22 - 23 kg, 23 - 24 kg, 24 - 25 kg Or higher"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Maximum Flight Time at Maximum all-up weight (In minutes) (Hint: Lower value in each range is not included)",
+          "value": "35 - 45, 45 - 55, 55 - 65, 65 - 75, 75 - 85, 85 - 95, 95 - 105, 105 - 115, 115 - 125, 125 - 135, 135 - 145, 145 - 155, 155 - 165, 165 - 175, 175 - 185, 185 - 195, 195 - 205, 205 - 215, 215 - 225, 225 - 235, 235 - 245, 245 - 255, 255 - 265, 265 - 275, 275 - 285, 285 - 295, 295 - 305, 305 - 315, 315 - 325, 325 - 335, 335 - 345, 345 - 355, 355 - 365 Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Maximum Flight Distance at Max All-up weight (In metres) (Hint: Distance between Take Off Point to farthest point on a one way distance | Lower value in each range is not included)",
+          "value": "1000 - 1100, 1100 - 1200, 1200 - 1300, 1300 - 1400, 1400 - 1500, 1500 - 1600, 1600 - 1700, 1700 - 1800, 1800 - 1900, 1900 - 2000, 2000 - 2500, 2500 - 3000, 3000 - 3500, 3500 - 4000, 4000 - 4500, 4500 - 5000, 5000 - 5500, 5500 - 6000, 6000 - 6500, 6500 - 7000, 7000 - 7500, 7500 - 8000, 8000 - 8500, 8500 - 9000, 9000 - 9500, 9500 - 10000, 10000 - 10500, 10500 - 11000, 11000 - 11500 Or higher"
+        },
+        {
+          "group": "GCS Compatible Hardware",
+          "parameter": "GCS Compatible Hardware included in the scope of supply",
+          "value": "Joystick with detachable screen, Joystick with integrated screen"
+        },
+        {
+          "group": "Surveillance Payload",
+          "parameter": "Availability of camera in payload housing",
+          "value": "Yes"
+        },
+        {
+          "group": "Surveillance Payload",
+          "parameter": "Availability of Thermal Camera in payload housing",
+          "value": "Yes"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU for 3 years before the bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the primary product having highest value should meet this criterion. 3. Generic Scope of supply includes Training: Number of employees to be trained 10 , Place for Training Goa and Duration of training 5 days. 4. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC):"
+    },
+    {
+      "page": 7,
+      "text": "TECHNICAL COMMITTEE Post Receipt Inspection at consignee site before acceptance of stores: TECHNICAL COMMITTEE 5. Forms of EMD and PBG Bidders can also submit the EMD with Account Payee Demand Draft in favour of DGP GOA payable at AT PANAJI GOA . Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 6. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in favour of DGP GOA payable at AT PANAJI GOA . After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of contract. 7. Certificates To be eligible for award of contract, Bidder / OEM must possess following Certificates / Test Reports on the date of bid opening (to be uploaded with bid): ALL CERTIFICATES MENTIONED IN THE BUYER UPLOADED ATC DOCUMENT . 8. Turnover Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. 9. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 10. Warranty Warranty period of the supplied products shall be 2 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid."
+    },
+    {
+      "page": 8,
+      "text": "11. Warranty Successful bidder will have to ensure that adequate number of dedicated technical service personals / engineers are designated / deployed for attending to the Service Request in a time bound manner and for ensuring Timely Servicing / rectification of defects during warranty period, as per Service level agreement indicated in the relevant clause of the bid. 12. Warranty Timely Servicing / rectification of defects during warranty period: After having been notified of the defects / service requirement during warranty period, Seller has to complete the required Service / Rectification within 3 days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the Buyer. 13. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Buyer Added Bid Specific Additional Terms and Conditions (ATC) The bidder shall quote in strict accordance with the GeM specifications, read in conjunction with the buyer- defined additional specification parameters and the strict conditions detailed below. Non-compliance with a ny clause shall lead to summary rejection of the technical bid. 1. Scope of Supply & Kit Components All equipment must be delivered as a complete, integrated system. Loose or unconfigured delivery will lea d to rejection at the consignee site. Airframe: High-strength, lightweight drone platform holding a valid DGCA Type Certification. The p latform must offer operational stability in coastal winds and be resistant to light rain and dust. Payload (Camera and Gimbal): Day-vision video camera equipped with true optical zoom paired with an entry-level thermal imaging sensor. Payloads must be mounted on a motorized stabilizing g imbal to ensure steady, vibration-free live streaming. Ground Control Station (GCS): Handheld remote-control unit featuring a built-in integrated scree n or a detachable display system to view the real-time video feed and handle flight paths seamlessl y. Batteries & Charging: Minimum of 2 (Two) intelligent lithium battery packs per drone (1 main ope rational battery and 1 hot-swap spare battery) along with a compatible OEM fast charger. Carry Case: Rugged, hard-shell, dustproof, and waterproof transit case designed to safely pack, iso late, and transport the entire drone kit and its field accessories. Operator Training: The successful bidder shall provide complete basic flight operations and field s afety training for 2 (Two) designated police personnel from each participating unit (District North, Di strict South, Coastal Police, Tourist Police, and Traffic Police) per drone at the time of delivery. The v endor must issue certified Pilot or Co-Pilot operational certificates to successful trainees. 2. Statutory & Regulatory Compliance (Non-Negotiable) DGCA Type Certification: The offered drone platform must hold a valid Type Certificate issued by the Directorate General of Civil Aviation (DGCA) under the Drone Rules, 2021. A clear copy of this D GCA Type Certificate must be uploaded during technical bid submission. Digital Sky Registration: The UAV platform must be fully compliant with No Permission No Takeof f (NPNT) protocols and capable of instant registration for a Unique Identification Number (UIN) on th e Digital Sky Platform before deployment. Bidders must submit documentary evidence of product co mpliance. Remote Pilot Licensing: The bidder must guarantee that their technical team and flight pilots hol d valid Remote Pilot Certificates issued by a DGCA-authorized Remote Pilot Training Organization ( RPTO) during any evaluation or physical trial. 3. Location, Weatherproofing & Environmental Adaptation"
+    },
+    {
+      "page": 9,
+      "text": "Coastal Weatherproofing: To withstand high humidity, coastal salt air, and heavy moisture, the ai rborne platform must possess a certified ingress protection rating of minimum IP54. Wind Resistance Threshold: The drone's propulsion system and onboard flight controller must re main stable, fully responsive, and controllable under sustained coastal wind speeds of up to 30 kilo meters per hour. 4. Make in India (MII) & Supply Chain Security DPIIT Registration: The bidding entity or the Original Equipment Manufacturer (OEM) must be reg istered with the Department for Promotion of Industry and Internal Trade (DPIIT) under the Make in I ndia initiative. Valid supporting documents must be uploaded. Land Border Sharing Restrictions: In strict compliance with Ministry of Finance guidelines, the bi dder must submit a formal signed undertaking on their company letterhead confirming that no critic al sub-components (including flight controllers, GPS/navigation boards, communication modules, or camera sensors) are sourced from countries sharing a land border with India. 5. Comprehensive Warranty & Operational Life Standard Warranty: The complete drone system (inclusive of airframe, camera payloads, gimbal, GCS, and structural components) must carry a minimum of a 2-year comprehensive manufacturer warranty from the date of final operational acceptance. Battery Cycle Assurance: The supplied intelligent battery packs must be warranted by the OEM t o retain a minimum of 80 percent of their original rated storage capacity after 100 complete operati onal flight cycles. 6. Technical Compliance Matrix & Documentation Point-by-Point Matrix: Bidders must upload a formal technical compliance matrix explicitly ackno wledging absolute adherence to all buyer-defined additional specification parameters and terms list ed in this ATC. Vague Phrases Disqualified: Vague or single-word compliance declarations such as \"noted\", \"co mpiled\", \"under process\", or \"accepted\" will be treated as non-compliant and will result in immediat e technical rejection. Supporting Evidence: Bidders must attach official product datasheets, original bid specific OEM a uthorization certificates (MAF), and factory test certificates to legally prove every technical claim m ade. Precedence of Buyer Terms: In case of any contradiction or range discrepancy between the stan dard GeM catalog parameters and these buyer-defined additional specifications, the strict paramete rs detailed in this ATC shall prevail. Mismatches & Penalties: Any discrepancy discovered between the uploaded compliance sheet a nd the actual equipment behavior during physical validation will result in immediate disqualification , forfeiture of security deposits, and reporting to GeM for blacklisting. 7. Mandatory Quality and Security Certifications The bidder must upload active, valid copies of the following international certifications during the technical bid stage to verify factory reliability and data safety: 1. ISO 9001 Certification: Confirming standard Quality Management Systems are followed during dr one fabrication. 2. ISO 14001 Certification: Confirming Environmental Management Systems compliance at the acti ve production site. 3. ISO 27001 Certification: Confirming Information Security Management Systems. This is non-nego tiable for police applications to ensure encrypted video transmission, secure flight logs, and system data privacy. 8. Mandatory Physical Demonstration & Pre-Dispatch Inspection Technical Evaluation Demonstration: All technically participating bidders—or those shortlisted during initial document scrutiny—shall organize a live physical demonstration of the quoted drone model at Panaji, Goa (or a designated police ground) within 7 days of being notified by the buyer. Demonstration Criteria: The drone must successfully demonstrate its stable hover capability, pay load control, camera zoom stability, and thermal image quality before the Technical Evaluation Com mittee. Failure to exhibit a working model will lead to technical disqualification. Pre-Dispatch Inspection (PDI): The buyer reserves the right to conduct a comprehensive physica l verification and flight check of the final bulk batch at the bidder’s assembly site or manufacturer gr"
+    },
+    {
+      "page": 10,
+      "text": "ounds before granting final dispatch clearance. Bidders must deliver all 10 units in a ready-to-fly sta te inside their designated transit cases. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8221291",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105022"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 14-11-2026 15:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105022"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 15-11-2026 15:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105022"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105022"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Goa",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105022"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Police Department Goa",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105022"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: N/a",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105022"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: The Director General Of Police",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105022"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :sphq@goapolice.gov.in Buyer Email id: dyspcpc-hq@goapolice.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105022"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 10",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105022"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Surveillance Drone / Unmanned Aerial Vehicle (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105022"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 40 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105022"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105022"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105022"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105022"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105022"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105022"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105022"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 240000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105022"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 240000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105022"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105022"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 26",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105022"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105022"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "UAV Bird (Drone): Yes | Ground Control Station (GCS) - Software (Hint: GCS to include payload operation control): Yes | GCS Compatible Hardware: Yes | Category of drone (as per Type Certificate in Drone rules, 2021): Rotorcraft | Sub-category of drone (as per Type Certificate in Drone rules, 2021): Remotely Piloted aircraft System | Classification of Drones (based on maximum all-up weight defined in drone rules, 2021): Small (weighing more than 2 kilograms, but less than or equal to 25 kilograms) | Maximum All-up weight (Hint: Lower value in each range is not included): 4 - 5 kg, 5 - 6 kg, 6 - 7 kg, 7 - 8 kg, 8 - 9 kg, 9 - 10 kg, 10 - 11 kg, 11 - 12 kg, 12 - 13 kg, 13 - 14 kg, 14 - 15 kg, 15 - 16 kg, 16 - 17 kg, 17 - 18 kg, 18 - 19 kg, 19 - 20 kg, 20 - 21 kg, 21 - 22 kg, 22 - 23 kg, 23 - 24 kg, 24 - 25 kg Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105022"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Maximum Flight Time at Maximum all-up weight (In minutes) (Hint: Lower value in each range is not included): 35 - 45, 45 - 55, 55 - 65, 65 - 75, 75 - 85, 85 - 95, 95 - 105, 105 - 115, 115 - 125, 125 - 135, 135 - 145, 145 - 155, 155 - 165, 165 - 175, 175 - 185, 185 - 195, 195 - 205, 205 - 215, 215 - 225, 225 - 235, 235 - 245, 245 - 255, 255 - 265, 265 - 275, 275 - 285, 285 - 295, 295 - 305, 305 - 315, 315 - 325, 325 - 335, 335 - 345, 345 - 355, 355 - 365 Or higher | Maximum Flight Distance at Max All-up weight (In metres) (Hint: Distance between Take Off Point to farthest point on a one way distance | Lower value in each range is not included): 1000 - 1100, 1100 - 1200, 1200 - 1300, 1300 - 1400, 1400 - 1500, 1500 - 1600, 1600 - 1700, 1700 - 1800, 1800 - 1900, 1900 - 2000, 2000 - 2500, 2500 - 3000, 3000 - 3500, 3500 - 4000, 4000 - 4500, 4500 - 5000, 5000 - 5500, 5500 - 6000, 6000 - 6500, 6500 - 7000, 7000 - 7500, 7500 - 8000, 8000 - 8500, 8500 - 9000, 9000 - 9500, 9500 - 10000, 10000 - 10500, 10500 - 11000, 11000 - 11500 Or higher | GCS Compatible Hardware included in the scope of supply: Joystick with detachable screen, Joystick with integrated screen | Availability of camera in payload housing: Yes | Availability of Thermal Camera in payload housing: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105022"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Pravinkumar Ganoo Vast | 403001,Opposite Azad Maidan, Police Headquarters, Panaji- Goa | 10 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105022"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU for 3 years before the bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the primary product having highest value should meet this criterion. 3. Generic Scope of supply includes Training: Number of employees to be trained 10 , Place for Training Goa and Duration of training 5 days. 4. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC):",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105022"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "TECHNICAL COMMITTEE Post Receipt Inspection at consignee site before acceptance of stores: TECHNICAL COMMITTEE 5. Forms of EMD and PBG Bidders can also submit the EMD with Account Payee Demand Draft in favour of DGP GOA payable at AT PANAJI GOA . Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 6. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in favour of DGP GOA payable at AT PANAJI GOA . After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of contract. 7. Certificates To be eligible for award of contract, Bidder / OEM must possess following Certificates / Test Reports on the date of bid opening (to be uploaded with bid): ALL CERTIFICATES MENTIONED IN THE BUYER UPLOADED ATC DOCUMENT . 8. Turnover Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. 9. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 10. Warranty Warranty period of the supplied products shall be 2 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105022"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "11. Warranty Successful bidder will have to ensure that adequate number of dedicated technical service personals / engineers are designated / deployed for attending to the Service Request in a time bound manner and for ensuring Timely Servicing / rectification of defects during warranty period, as per Service level agreement indicated in the relevant clause of the bid. 12. Warranty Timely Servicing / rectification of defects during warranty period: After having been notified of the defects / service requirement during warranty period, Seller has to complete the required Service / Rectification within 3 days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the Buyer. 13. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Buyer Added Bid Specific Additional Terms and Conditions (ATC) The bidder shall quote in strict accordance with the GeM specifications, read in conjunction with the buyer- defined additional specification parameters and the strict conditions detailed below. Non-compliance with a ny clause shall lead to summary rejection of the technical bid. 1. Scope of Supply & Kit Components All equipment must be delivered as a complete, integrated system. Loose or unconfigured delivery will lea d to rejection at the consignee site. Airframe: High-strength, lightweight drone platform holding a valid DGCA Type Certification. The p latform must offer operational stability in coastal winds and be resistant to light rain and dust. Payload (Camera and Gimbal): Day-vision video camera equipped with true optical zoom paired with an entry-level thermal imaging sensor. Payloads must be mounted on a motorized stabilizing g imbal to ensure steady, vibration-free live streaming. Ground Control Station (GCS): Handheld remote-control unit featuring a built-in integrated scree n or a detachable display system to view the real-time video feed and handle flight paths seamlessl y. Batteries & Charging: Minimum of 2 (Two) intelligent lithium battery packs per drone (1 main ope rational battery and 1 hot-swap spare battery) along with a compatible OEM fast charger. Carry Case: Rugged, hard-shell, dustproof, and waterproof transit case designed to safely pack, iso late, and transport the entire drone kit and its field accessories. Operator Training: The successful bidder shall provide complete basic flight operations and field s afety training for 2 (Two) designated police personnel from each participating unit (District North, Di strict South, Coastal Police, Tourist Police, and Traffic Police) per drone at the time of delivery. The v endor must issue certified Pilot or Co-Pilot operational certificates to successful trainees. 2. Statutory & Regulatory Compliance (Non-Negotiable) DGCA Type Certification: The offered drone platform must hold a valid Type Certificate issued by the Directorate General of Civil Aviation (DGCA) under the Drone Rules, 2021. A clear copy of this D GCA Type Certificate must be uploaded during technical bid submission. Digital Sky Registration: The UAV platform must be fully compliant with No Permission No Takeof f (NPNT) protocols and capable of instant registration for a Unique Identification Number (UIN) on th e Digital Sky Platform before deployment. Bidders must submit documentary evidence of product co mpliance. Remote Pilot Licensing: The bidder must guarantee that their technical team and flight pilots hol d valid Remote Pilot Certificates issued by a DGCA-authorized Remote Pilot Training Organization ( RPTO) during any evaluation or physical trial. 3. Location, Weatherproofing & Environmental Adaptation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105022"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "Coastal Weatherproofing: To withstand high humidity, coastal salt air, and heavy moisture, the ai rborne platform must possess a certified ingress protection rating of minimum IP54. Wind Resistance Threshold: The drone's propulsion system and onboard flight controller must re main stable, fully responsive, and controllable under sustained coastal wind speeds of up to 30 kilo meters per hour. 4. Make in India (MII) & Supply Chain Security DPIIT Registration: The bidding entity or the Original Equipment Manufacturer (OEM) must be reg istered with the Department for Promotion of Industry and Internal Trade (DPIIT) under the Make in I ndia initiative. Valid supporting documents must be uploaded. Land Border Sharing Restrictions: In strict compliance with Ministry of Finance guidelines, the bi dder must submit a formal signed undertaking on their company letterhead confirming that no critic al sub-components (including flight controllers, GPS/navigation boards, communication modules, or camera sensors) are sourced from countries sharing a land border with India. 5. Comprehensive Warranty & Operational Life Standard Warranty: The complete drone system (inclusive of airframe, camera payloads, gimbal, GCS, and structural components) must carry a minimum of a 2-year comprehensive manufacturer warranty from the date of final operational acceptance. Battery Cycle Assurance: The supplied intelligent battery packs must be warranted by the OEM t o retain a minimum of 80 percent of their original rated storage capacity after 100 complete operati onal flight cycles. 6. Technical Compliance Matrix & Documentation Point-by-Point Matrix: Bidders must upload a formal technical compliance matrix explicitly ackno wledging absolute adherence to all buyer-defined additional specification parameters and terms list ed in this ATC. Vague Phrases Disqualified: Vague or single-word compliance declarations such as \"noted\", \"co mpiled\", \"under process\", or \"accepted\" will be treated as non-compliant and will result in immediat e technical rejection. Supporting Evidence: Bidders must attach official product datasheets, original bid specific OEM a uthorization certificates (MAF), and factory test certificates to legally prove every technical claim m ade. Precedence of Buyer Terms: In case of any contradiction or range discrepancy between the stan dard GeM catalog parameters and these buyer-defined additional specifications, the strict paramete rs detailed in this ATC shall prevail. Mismatches & Penalties: Any discrepancy discovered between the uploaded compliance sheet a nd the actual equipment behavior during physical validation will result in immediate disqualification , forfeiture of security deposits, and reporting to GeM for blacklisting. 7. Mandatory Quality and Security Certifications The bidder must upload active, valid copies of the following international certifications during the technical bid stage to verify factory reliability and data safety: 1. ISO 9001 Certification: Confirming standard Quality Management Systems are followed during dr one fabrication. 2. ISO 14001 Certification: Confirming Environmental Management Systems compliance at the acti ve production site. 3. ISO 27001 Certification: Confirming Information Security Management Systems. This is non-nego tiable for police applications to ensure encrypted video transmission, secure flight logs, and system data privacy. 8. Mandatory Physical Demonstration & Pre-Dispatch Inspection Technical Evaluation Demonstration: All technically participating bidders—or those shortlisted during initial document scrutiny—shall organize a live physical demonstration of the quoted drone model at Panaji, Goa (or a designated police ground) within 7 days of being notified by the buyer. Demonstration Criteria: The drone must successfully demonstrate its stable hover capability, pay load control, camera zoom stability, and thermal image quality before the Technical Evaluation Com mittee. Failure to exhibit a working model will lead to technical disqualification. Pre-Dispatch Inspection (PDI): The buyer reserves the right to conduct a comprehensive physica l verification and flight check of the final bulk batch at the bidder’s assembly site or manufacturer gr",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105022"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "ounds before granting final dispatch clearance. Bidders must deliver all 10 units in a ready-to-fly sta te inside their designated transit cases. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105022"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

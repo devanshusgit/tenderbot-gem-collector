@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8234021",
   "title": "Digital Oscilloscope (V2)",
   "description": "Digital Oscilloscope (V2)",
-  "organisation": "Technical Education",
-  "ministry": "",
+  "organisation": "Principal. Government Polytechnic, Valsad",
+  "ministry": "Gujarat",
   "department": "Technical Education",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Digital Oscilloscope (V2)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-04T16:08:00+05:30",
   "closing_at": "2026-11-24T13:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10119984"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/m5n7VfU0wzAQxIsYuUQAJ1HEsBLI3S3SeZxALw7Ht4k",
+      "page": 4
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8234021/CLM0010/dso_terms_f58e922a-8fc0-4354-82551793775425327_buycon4.edu.bl.pdf",
+      "page": 6
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261104",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +54,349 @@
   ],
   "source_fetched_at": "2026-11-05T04:37:40.622Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-25T13:00:00+05:30",
+  "office": "Government Polytechnic, Valsad",
+  "buyer_email": "buycon2.pgpv.gj@gembuyer.in",
+  "emd_required": false,
+  "oem_turnover_lakhs": 3,
+  "experience_years": 2,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 14,
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-06T00:46:26.161575+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "2800e337ea39e731ff3585d3c1aa2988d504aff937171610f504e22984da086c",
+  "document_pages": 8,
+  "eligibility": [
+    "OEM average turnover (last 3 years): 3 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 2 Year (s) (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 50 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Gavit Mukeshkumar Bendubhai",
+      "address": "396001,Government Polytechnic, Valsad, Kosmba Road, Valsad.",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 20
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Generic",
+          "parameter": "Type of Input",
+          "value": "Analog, Analog & Digital (Mixed Signal)"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Number of Analog Channels",
+          "value": "4"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Number of Digital Channels",
+          "value": "16, NA"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Bandwidth (MHz)",
+          "value": "100, 200"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Record Length Per Analog Channel Simultaneously",
+          "value": "100 K point, 200 K point, 1 M point, 2 M point, 4 M point, 10 M point, 20 M point, 50 M point, 100 M point"
+        },
+        {
+          "group": null,
+          "parameter": "Record Length Per Digital Channel Simultaneously",
+          "value": "100 M point, NA"
+        },
+        {
+          "group": null,
+          "parameter": "Sample Rate Per Analog Channel Simultaneously",
+          "value": "1 GS/sec"
+        },
+        {
+          "group": null,
+          "parameter": "Sampling Rate Per Digital Channel Simultaneously",
+          "value": "2GS/sec, NA"
+        },
+        {
+          "group": null,
+          "parameter": "Vertical Sensitivity",
+          "value": "1 mV/div to 5 V/div, 500 ?V/div to 10 V/div"
+        },
+        {
+          "group": null,
+          "parameter": "Vertical Resolution (bit)",
+          "value": "8, 10, 12, 14, 16"
+        },
+        {
+          "group": null,
+          "parameter": "Display Type",
+          "value": "LCD / LED"
+        },
+        {
+          "group": null,
+          "parameter": "Display Size",
+          "value": "7 inch, 15 inch"
+        },
+        {
+          "group": null,
+          "parameter": "Frequency Analysis Feature",
+          "value": "Yes, No"
+        },
+        {
+          "group": null,
+          "parameter": "In-built Frequency Counter",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "In-built Function Generator",
+          "value": "Yes, No"
+        },
+        {
+          "group": null,
+          "parameter": "Time Base Accuracy Parts per Million",
+          "value": "0.05, 1"
+        },
+        {
+          "group": null,
+          "parameter": "Time Base Range",
+          "value": "5 ns/div to 50 s/div, 5 ps/div to 200 s/div"
+        },
+        {
+          "group": null,
+          "parameter": "Minimum Detectable Pulse Width",
+          "value": "1 to 10 ns"
+        },
+        {
+          "group": null,
+          "parameter": "Segmented Memory Feature Availability",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Waveform Update Rate (wfms/s)",
+          "value": "3500, 50000, 100000, 200000, 250000, 400000, 700000, 1000000, 450000, 1300000"
+        },
+        {
+          "group": null,
+          "parameter": "Trigger Types",
+          "value": "Edge, Pulse Width, Video, Pattern/State, External, Zone Qualified triggering, Runt, Setup/Hold, Burst"
+        },
+        {
+          "group": null,
+          "parameter": "Measurements",
+          "value": "Math function-Add, subtract, multiply, divide, Automatic Measurements of Amplitude and time, FFT (phase), Low-Pass Lilter, Frequency Domain function, Time & Voltage cursors, FFT (magnitude), Automatic Measurements related to combination,histogram and communication"
+        },
+        {
+          "group": null,
+          "parameter": "Acquisition Modes",
+          "value": "Normal, Peak Detect, Averaging, High Resolution, Roll Mode, Sample, Envelope"
+        },
+        {
+          "group": null,
+          "parameter": "Interface Ports",
+          "value": "USB Device, LAN Port"
+        },
+        {
+          "group": null,
+          "parameter": "Power Source",
+          "value": "240 V AC, 50/60 Hz"
+        },
+        {
+          "group": "Warranty",
+          "parameter": "Warranty (Year)",
+          "value": "1, 3"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8234021",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119984"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 24-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119984"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 25-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119984"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119984"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Gujarat",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119984"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Technical Education",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119984"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Principal. Government Polytechnic, Valsad",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119984"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Government Polytechnic, Valsad",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119984"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :hod1.gpol.valsad@gembuyer.in Buyer Email id: buycon2.pgpv.gj@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119984"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119984"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Digital Oscilloscope (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119984"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 3 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119984"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 2 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119984"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119984"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119984"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119984"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 50 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119984"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119984"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119984"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119984"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119984"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 14",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119984"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Type of Input: Analog, Analog & Digital (Mixed Signal) | Number of Analog Channels: 4 | Number of Digital Channels: 16, NA | Bandwidth (MHz): 100, 200",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119984"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Record Length Per Analog Channel Simultaneously: 100 K point, 200 K point, 1 M point, 2 M point, 4 M point, 10 M point, 20 M point, 50 M point, 100 M point | Record Length Per Digital Channel Simultaneously: 100 M point, NA | Sample Rate Per Analog Channel Simultaneously: 1 GS/sec | Sampling Rate Per Digital Channel Simultaneously: 2GS/sec, NA | Vertical Sensitivity: 1 mV/div to 5 V/div, 500 ?V/div to 10 V/div | Vertical Resolution (bit): 8, 10, 12, 14, 16 | Display Type: LCD / LED | Display Size: 7 inch, 15 inch | Frequency Analysis Feature: Yes, No | In-built Frequency Counter: Yes | In-built Function Generator: Yes, No | Time Base Accuracy Parts per Million: 0.05, 1 | Time Base Range: 5 ns/div to 50 s/div, 5 ps/div to 200 s/div | Minimum Detectable Pulse Width: 1 to 10 ns | Segmented Memory Feature Availability: Yes | Waveform Update Rate (wfms/s): 3500, 50000, 100000, 200000, 250000, 400000, 700000, 1000000, 450000, 1300000 | Trigger Types: Edge, Pulse Width, Video, Pattern/State, External, Zone Qualified triggering, Runt, Setup/Hold, Burst | Measurements: Math function-Add, subtract, multiply, divide, Automatic Measurements of Amplitude and time, FFT (phase), Low-Pass Lilter, Frequency Domain function, Time & Voltage cursors, FFT (magnitude), Automatic Measurements related to combination,histogram and communication | Acquisition Modes: Normal, Peak Detect, Averaging, High Resolution, Roll Mode, Sample, Envelope | Interface Ports: USB Device, LAN Port | Power Source: 240 V AC, 50/60 Hz | Warranty (Year): 1, 3",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119984"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Gavit Mukeshkumar Bendubhai | 396001,Government Polytechnic, Valsad, Kosmba Road, Valsad. | 1 | 20",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119984"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10119984"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8234061",
   "title": "Commercial Dishwasher",
   "description": "Commercial Dishwasher",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Army",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Commercial Dishwasher",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-04T15:50:51+05:30",
   "closing_at": "2026-11-09T15:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10120029"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/_4pIBTXMPzAZCOpo6_1gnWZHN2qI5ZGw6EWa2CAFPdA",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261104",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +49,311 @@
   ],
   "source_fetched_at": "2026-11-05T07:31:59.931Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-10T15:00:00+05:30",
+  "buyer_email": "manojkumar.382w@gov.in",
+  "emd_required": false,
+  "bidder_turnover_lakhs": 1.5,
+  "oem_turnover_lakhs": 2,
+  "experience_years": 1,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-06T00:52:28.481560+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "d3c0f591b4236b64bfc9fd5879f0c15d828d9f275bd40e7853b5c061960872dc",
+  "document_pages": 9,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 1.5 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 2 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 1 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "***********",
+      "address": "***********AGRA",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "TYPE",
+          "parameter": "Dishwasher Type",
+          "value": "Hood Type"
+        },
+        {
+          "group": "TYPE",
+          "parameter": "Integrated Dryer",
+          "value": "Without, With Or higher"
+        },
+        {
+          "group": "TYPE",
+          "parameter": "Built in Steam Generator (Boiler)",
+          "value": "Yes, No"
+        },
+        {
+          "group": "PERFORMANCE",
+          "parameter": "Nominal Productivity (racks / hour)",
+          "value": "60"
+        },
+        {
+          "group": "PERFORMANCE",
+          "parameter": "Rack Size (mmX mm)",
+          "value": "500 X 500"
+        },
+        {
+          "group": "CONSTRUCTION",
+          "parameter": "Tank Material",
+          "value": "Stainless Steel, Galvanized Mild Steel"
+        },
+        {
+          "group": "CONSTRUCTION",
+          "parameter": "Body Construction",
+          "value": "Single Wall, Double Wall with Insulation"
+        },
+        {
+          "group": "CONSTRUCTION",
+          "parameter": "Door Construction",
+          "value": "Single Wall, Double Wall with Insulation, NA"
+        },
+        {
+          "group": "CONSTRUCTION",
+          "parameter": "Built-in Liquid Detergent Storage",
+          "value": "Yes, No"
+        },
+        {
+          "group": "CONSTRUCTION",
+          "parameter": "Built-in Rinsing Agent Storage",
+          "value": "Yes, No"
+        },
+        {
+          "group": "WASH PUMP / HEATING",
+          "parameter": "Cleaning Temperature",
+          "value": "55, 60, 65, 70 (degree Celsius)"
+        },
+        {
+          "group": "FUNCTIONS / FEATURES",
+          "parameter": "Functions / Features",
+          "value": "Automatic Start function, Self Cleaning Function, Tank Water Regeneration, Digital Display"
+        },
+        {
+          "group": "POWER",
+          "parameter": "Working Voltage",
+          "value": "230 V +/- 5 % (Single Phase), 410 V +/- 5 % (Three Phase)"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Number of Rack for Dishes Inclusive in the Scope of Supply",
+          "value": "1, 2, 3 Or higher"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Detergent Inclusive in the Scope of Supply",
+          "value": "5, 10, 20 Or higher (liter)"
+        },
+        {
+          "group": null,
+          "parameter": "Rinsing Agent Inclusive in the Scope of Supply",
+          "value": "5, 10, 15 Or higher (liter)"
+        },
+        {
+          "group": null,
+          "parameter": "\"Other Accessories (Select Included Accessories Only)\"",
+          "value": "1 X Glass Rack, 1 X Cutlery Rack, Water Inlet Hose, Water Outlet Hose, Water Softener, Stainless Steel Loading Table with Sink & raised boarder, Stainless Steel Unloading Table with raised boarder, Stainless Steel Unloading Roller Table with raised boarder, Pre Wash Shower, User Manual, One Number Extra Limit Switch for Rack Conveyor"
+        },
+        {
+          "group": "WARRANTY / TRAINING",
+          "parameter": "Warranty on Equipment",
+          "value": "1, 2, 3 Or higher (year)"
+        },
+        {
+          "group": "WARRANTY / TRAINING",
+          "parameter": "Training",
+          "value": "0, 1, 2, 3 Or higher (day)"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 3. Generic Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller. 4. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 5. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support."
+    },
+    {
+      "page": 7,
+      "text": "6. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 7. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 8. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Service & Support Availability of Service Centres : Bidder / OEM must have a Functional Service Centre in the State of each C onsignee's Location in case of carry-in-warranty. (Not applicable in case of goods having on-site warranty). Or else OEM is ready to provide services on call at the required place. 2. Scope of Supply 2.1 Detergent Inclusive in the Scope of Supply - 20 Litre or higher 2.2 Rinsing Agent Inclusive in the Scope of Supply - 15 Litre or higher ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8234061",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120029"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 09-11-2026 15:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120029"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 10-11-2026 15:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120029"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120029"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120029"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120029"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Army",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120029"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :mycoplasma@nic.in Buyer Email id: manojkumar.382w@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120029"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120029"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Commercial Dishwasher (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120029"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 1.5 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120029"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 2 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120029"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 1 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120029"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120029"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120029"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120029"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120029"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120029"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120029"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120029"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Dishwasher Type: Hood Type | Integrated Dryer: Without, With Or higher | Built in Steam Generator (Boiler): Yes, No | Nominal Productivity (racks / hour): 60 | Rack Size (mmX mm): 500 X 500 | Tank Material: Stainless Steel, Galvanized Mild Steel | Body Construction: Single Wall, Double Wall with Insulation | Door Construction: Single Wall, Double Wall with Insulation, NA | Built-in Liquid Detergent Storage: Yes, No | Built-in Rinsing Agent Storage: Yes, No | Cleaning Temperature: 55, 60, 65, 70 (degree Celsius) | Functions / Features: Automatic Start function, Self Cleaning Function, Tank Water Regeneration, Digital Display | Working Voltage: 230 V +/- 5 % (Single Phase), 410 V +/- 5 % (Three Phase) | Number of Rack for Dishes Inclusive in the Scope of Supply: 1, 2, 3 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120029"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Detergent Inclusive in the Scope of Supply: 5, 10, 20 Or higher (liter) | Rinsing Agent Inclusive in the Scope of Supply: 5, 10, 15 Or higher (liter) | \"Other Accessories (Select Included Accessories Only)\": 1 X Glass Rack, 1 X Cutlery Rack, Water Inlet Hose, Water Outlet Hose, Water Softener, Stainless Steel Loading Table with Sink & raised boarder, Stainless Steel Unloading Table with raised boarder, Stainless Steel Unloading Roller Table with raised boarder, Pre Wash Shower, User Manual, One Number Extra Limit Switch for Rack Conveyor | Warranty on Equipment: 1, 2, 3 Or higher (year) | Training: 0, 1, 2, 3 Or higher (day)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120029"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********AGRA | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120029"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 3. Generic Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller. 4. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 5. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120029"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "6. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 7. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 8. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Service & Support Availability of Service Centres : Bidder / OEM must have a Functional Service Centre in the State of each C onsignee's Location in case of carry-in-warranty. (Not applicable in case of goods having on-site warranty). Or else OEM is ready to provide services on call at the required place. 2. Scope of Supply 2.1 Detergent Inclusive in the Scope of Supply - 20 Litre or higher 2.2 Rinsing Agent Inclusive in the Scope of Supply - 15 Litre or higher .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10120029"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

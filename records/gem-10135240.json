@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8247655",
   "title": "Television (V3)",
   "description": "Television (V3)",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Army",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Television (V3)",
   "quantity": 2,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-06T08:06:18+05:30",
   "closing_at": "2026-11-16T09:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10135240"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/DBNdxqw3f8JK8oiTBesm680CFAPt8A5j6Qv9_UpMvSo",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261106",
+      "page": 5
     }
   ],
   "tags": [
@@ -34,5 +49,191 @@
   ],
   "source_fetched_at": "2026-11-06T10:01:23.235Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-17T09:00:00+05:30",
+  "buyer_email": "nagarcoil@echs.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "90 (Days)",
+  "source_document_fetched_at": "2026-11-06T14:23:05.982642+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "327a412d7ba4b868b571cdc3bc3888e502da5af61477e3e5f33021fa228a20bd",
+  "document_pages": 5,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "***********",
+      "address": "***********Kanyakumari",
+      "quantity": 2,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Product Characteristics",
+          "parameter": "Duty Cycle of Product (Number of operation hours per day X number of days in week)",
+          "value": "8 x 7, 16 x 7"
+        },
+        {
+          "group": "Product Characteristics",
+          "parameter": "Native Resolution of Display (Pixels)",
+          "value": "HD (1280 X 720), Full HD (1920 x 1080), Ultra HD (3840 x 2160)"
+        },
+        {
+          "group": "Product Characteristics",
+          "parameter": "BEE Star Rating of the product",
+          "value": "3 Star, 4 Star, 5 Star Or higher"
+        },
+        {
+          "group": "Display Characteristics",
+          "parameter": "Diagonal Display Size (in inches)",
+          "value": "Between 50 and 55 (127 and 139.7 cm)"
+        },
+        {
+          "group": "Display Characteristics",
+          "parameter": "Display Technology",
+          "value": "LCD (Liquid Crystal Display), LED (Light Emitting Diode)"
+        },
+        {
+          "group": "Display Characteristics",
+          "parameter": "Type of Backlight in LCD / Type of LED in Display Technology",
+          "value": "Edge-lit LED, Direct-lit LED, Full-array LED, OLED (Organic LED)"
+        },
+        {
+          "group": "Display Characteristics",
+          "parameter": "Peak display brightness in product (in nits)",
+          "value": "Between 200 and 300, Between 300 and 400, Between 400 and 500, Between 500 and 600, Between 600 and 700, Between 700 and 800, Between 800 and 900, Between 900 and 1000"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8247655",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10135240"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 16-11-2026 09:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10135240"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 17-11-2026 09:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10135240"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10135240"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10135240"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10135240"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Army",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10135240"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :atupan.04440@gov.in Buyer Email id: nagarcoil@echs.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10135240"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 2",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10135240"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Television (V3) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10135240"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10135240"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10135240"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10135240"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10135240"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10135240"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Duty Cycle of Product (Number of operation hours per day X number of days in week): 8 x 7, 16 x 7 | Native Resolution of Display (Pixels): HD (1280 X 720), Full HD (1920 x 1080), Ultra HD (3840 x 2160) | BEE Star Rating of the product: 3 Star, 4 Star, 5 Star Or higher | Diagonal Display Size (in inches): Between 50 and 55 (127 and 139.7 cm) | Display Technology: LCD (Liquid Crystal Display), LED (Light Emitting Diode) | Type of Backlight in LCD / Type of LED in Display Technology: Edge-lit LED, Direct-lit LED, Full-array LED, OLED (Organic LED) | Peak display brightness in product (in nits): Between 200 and 300, Between 300 and 400, Between 400 and 500, Between 500 and 600, Between 600 and 700, Between 700 and 800, Between 800 and 900, Between 900 and 1000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10135240"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********Kanyakumari | 2 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10135240"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10135240"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

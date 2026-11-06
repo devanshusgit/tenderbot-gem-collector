@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8222622",
   "title": "True RMS Clamp Meter (V2)",
   "description": "True RMS Clamp Meter (V2)",
-  "organisation": "Power Department Delhi",
-  "ministry": "",
+  "organisation": "N/a",
+  "ministry": "Delhi",
   "department": "Power Department Delhi",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "True RMS Clamp Meter (V2)",
   "quantity": 2,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-04T11:15:30+05:30",
   "closing_at": "2026-12-01T11:00:00+05:30",
   "status": "active",
@@ -27,6 +27,16 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10106525"
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/cgwf4oHEJtNivYuIIuOIVGl1UVtVGYUeA9O9vqI_rj4",
+      "page": 2
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261104",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +44,269 @@
   ],
   "source_fetched_at": "2026-11-05T04:51:42.269Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-02T11:00:00+05:30",
+  "office": "Ppcl",
+  "buyer_email": "pkrai@ipgcl-ppcl.nic.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "120 (Days)",
+  "source_document_fetched_at": "2026-11-06T07:37:07.740870+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "95ebf4134cb943fb405065973c5412466364d6c7f23d3702fe9726c2b9426741",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Sunil Kumar",
+      "address": "110039,PRAGATI III, PRAGATI POWER CORPORATION LIMITED, SECOTR V, DSIIDC BAWANA INDUSTRIAL AREA, BAWANA, DELHI - 110039",
+      "quantity": 2,
+      "quantity_label": "Quantity",
+      "delivery_days": 56
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 2,
+      "parameters": [
+        {
+          "group": "Genreric",
+          "parameter": "Type",
+          "value": "Handheld Clamp Meter"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "Measurement Type",
+          "value": "True RMS"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "Display",
+          "value": "3½ Digit LCD"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Display Count",
+          "value": "2000 to 10000 counts"
+        },
+        {
+          "group": null,
+          "parameter": "AC Current Measurement Range",
+          "value": "0 A to 1000 A"
+        },
+        {
+          "group": null,
+          "parameter": "AC Current Accuracy",
+          "value": "±1% to ±2.5%"
+        },
+        {
+          "group": null,
+          "parameter": "AC Voltage Measurement Range",
+          "value": "0 V to 1000 V"
+        },
+        {
+          "group": null,
+          "parameter": "AC Voltage Accuracy",
+          "value": "±0.8% to ±2%"
+        },
+        {
+          "group": null,
+          "parameter": "DC Current Measurement Range",
+          "value": "0 A to 1000 A"
+        },
+        {
+          "group": null,
+          "parameter": "DC Current Accuracy",
+          "value": "±1% to ±2%"
+        },
+        {
+          "group": null,
+          "parameter": "DC Voltage Measurement Range",
+          "value": "0 mV to 1000 V"
+        },
+        {
+          "group": null,
+          "parameter": "DC Voltage Accuracy",
+          "value": "±0.5% to ±1.5%"
+        },
+        {
+          "group": null,
+          "parameter": "Resistance Measurement Range",
+          "value": "0 ? to 1000 M?"
+        },
+        {
+          "group": null,
+          "parameter": "Resistance Accuracy",
+          "value": "±1% to ±2%"
+        },
+        {
+          "group": null,
+          "parameter": "Frequency Measurement Range",
+          "value": "10 Hz to 100 kHz"
+        },
+        {
+          "group": null,
+          "parameter": "Frequency Accuracy",
+          "value": "±0.1% to ±0.5%"
+        },
+        {
+          "group": "Power Source",
+          "parameter": "Power Source",
+          "value": "Battery Operated"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1.1: Material will be supplied/ quoted as per following specification: METER, TYPE : DC DIGITAL MILLIAMP PROCESS CLAMP METER, MEASUREMENT RANGE : 0-100 mA DC, DC CURRENT RANGE : 0 TO 20.99 mA, ACCURACY : +/- 0.2 % OR BETTER, 21 TO 100 mA, ACCURACY : +/- 1 % OR BETTER AUTO POWER OFF : 30 MINUTE AFTER POWER ON, DISPLAY:LCD,3&1/2DIGIT, IP RATING:IP40 SAMPLE RATE:1.5 PER SECOND, WEIGHT: < 0.5 KG, POWER REQUIREMENT: ALKALINE BATTERY-1.5 V, STORAGE TEMPERATURE: -25 DEGREE C TO 60 DEGREE C, SAFETY: OVER VOLTAGE SAFETY, CATEGORY: AS PER RELEVANT STANDARD DROP PROTECTION : 1 M ON TO A HARD SURFACE, DATA HOLD FEATURE\" MAKE: FLUKE, MODEL: FLUKE 771 Milliamp Process Clamp Meter 1.2: Product Name : FLUKE 3.5 digit Backlit LCD Hand Held True Rms Clamp Meter Model: Fluke make, Model - 771 Milliamp Process Clamp Meter. 1.3: Special Features: 4 to 20 mA, 21 to 100 mA 1.4: Accessories: Test lead to be provided 2. Delivery Period: 56 days from the date of award of GeM contract."
+    },
+    {
+      "page": 5,
+      "text": "3. Test Certificate: Applicable 4. Warranty/ Gauranty: 18 months/12 months from the date of supply/use which ever is earlier against manufacturing defects/poor workmanship etc Note: Bid of different vendors received from same IP address will not be considered and bid s hall be out rightly rejected for this tender. No further communication will be made in this rega rd ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8222622",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10106525"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 01-12-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10106525"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 02-12-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10106525"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10106525"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Delhi",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10106525"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Power Department Delhi",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10106525"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: N/a",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10106525"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Ppcl",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10106525"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :vineetgupta@ipgcl-ppcl.nic.in Buyer Email id: pkrai@ipgcl-ppcl.nic.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10106525"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 2",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10106525"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: True RMS Clamp Meter (V2) (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10106525"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10106525"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10106525"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10106525"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 2,
+      "quote": "Type: Handheld Clamp Meter | Measurement Type: True RMS | Display: 3½ Digit LCD",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10106525"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10106525"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10106525"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Display Count: 2000 to 10000 counts | AC Current Measurement Range: 0 A to 1000 A | AC Current Accuracy: ±1% to ±2.5% | AC Voltage Measurement Range: 0 V to 1000 V | AC Voltage Accuracy: ±0.8% to ±2% | DC Current Measurement Range: 0 A to 1000 A | DC Current Accuracy: ±1% to ±2% | DC Voltage Measurement Range: 0 mV to 1000 V | DC Voltage Accuracy: ±0.5% to ±1.5% | Resistance Measurement Range: 0 ? to 1000 M? | Resistance Accuracy: ±1% to ±2% | Frequency Measurement Range: 10 Hz to 100 kHz | Frequency Accuracy: ±0.1% to ±0.5% | Power Source: Battery Operated",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10106525"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Sunil Kumar | 110039,PRAGATI III, PRAGATI POWER CORPORATION LIMITED, SECOTR V, DSIIDC BAWANA INDUSTRIAL AREA, BAWANA, DELHI - 110039 | 2 | 56",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10106525"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1.1: Material will be supplied/ quoted as per following specification: METER, TYPE : DC DIGITAL MILLIAMP PROCESS CLAMP METER, MEASUREMENT RANGE : 0-100 mA DC, DC CURRENT RANGE : 0 TO 20.99 mA, ACCURACY : +/- 0.2 % OR BETTER, 21 TO 100 mA, ACCURACY : +/- 1 % OR BETTER AUTO POWER OFF : 30 MINUTE AFTER POWER ON, DISPLAY:LCD,3&1/2DIGIT, IP RATING:IP40 SAMPLE RATE:1.5 PER SECOND, WEIGHT: < 0.5 KG, POWER REQUIREMENT: ALKALINE BATTERY-1.5 V, STORAGE TEMPERATURE: -25 DEGREE C TO 60 DEGREE C, SAFETY: OVER VOLTAGE SAFETY, CATEGORY: AS PER RELEVANT STANDARD DROP PROTECTION : 1 M ON TO A HARD SURFACE, DATA HOLD FEATURE\" MAKE: FLUKE, MODEL: FLUKE 771 Milliamp Process Clamp Meter 1.2: Product Name : FLUKE 3.5 digit Backlit LCD Hand Held True Rms Clamp Meter Model: Fluke make, Model - 771 Milliamp Process Clamp Meter. 1.3: Special Features: 4 to 20 mA, 21 to 100 mA 1.4: Accessories: Test lead to be provided 2. Delivery Period: 56 days from the date of award of GeM contract.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10106525"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "3. Test Certificate: Applicable 4. Warranty/ Gauranty: 18 months/12 months from the date of supply/use which ever is earlier against manufacturing defects/poor workmanship etc Note: Bid of different vendors received from same IP address will not be considered and bid s hall be out rightly rejected for this tender. No further communication will be made in this rega rd .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10106525"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

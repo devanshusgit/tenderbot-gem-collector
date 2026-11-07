@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8229731",
   "title": "Scanner (V3)",
   "description": "Scanner (V3)",
-  "organisation": "Higher Education Department Kerala",
-  "ministry": "",
+  "organisation": "University Of Kerala",
+  "ministry": "Kerala",
   "department": "Higher Education Department Kerala",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Scanner (V3)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-05T16:26:01+05:30",
   "closing_at": "2026-11-16T17:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10114997"
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/S4yJW1sdR9XxwP_2WxHWvm_YP0tz6nhj3s6nRn0AGlg",
+      "page": 3
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8229731/CLM0010/COMPLIANCE_38ca7879-afd7-440b-ad7a1793875979219_JRAdmin@ku.doc",
+      "page": 6
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261105",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +49,256 @@
   ],
   "source_fetched_at": "2026-11-07T19:42:41.658Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-17T17:00:00+05:30",
+  "office": "Thiruvananthapuram",
+  "buyer_email": "jointregadmn.ku@kerala.gov.in",
+  "emd_required": false,
+  "experience_years": 2,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-07T22:22:06.602841+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "456dcd063e656e1b3456161d9d269563518802c264f27b7db919f6f719e38706",
+  "document_pages": 7,
+  "eligibility": [
+    "Past experience required for same/similar service: 2 Year (s) (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 20 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Mohamed Hashir A",
+      "address": "695034,UNIVERSITY OF KERALA, SENATE HOUSE CAMPUS",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Generic",
+          "parameter": "Scanner Type",
+          "value": "Sheet Fed"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Scanning Technology",
+          "value": "Contact Image Sensor (CIS)"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Maximum Scan Size",
+          "value": "A4 and Legal, A4, Legal and A3, A4, Legal, A3 and A3+ Or higher"
+        },
+        {
+          "group": "Performance",
+          "parameter": "Maximum Optical Resolution (in Dpi)",
+          "value": "600, 1200, 2400, 4800 Or higher"
+        },
+        {
+          "group": "Performance",
+          "parameter": "Simplex Colour Scan Speed at 200 dpi (in ppm) for Document Feeder",
+          "value": "31 to 35, 36 to 40, 41 to 45, 46 to 50, 51 to 60, 61 to 70, 71 to 80, 81 to 90, 91 to 100, 101 to 120, 121 to 140, 141 to 160 Or higher"
+        },
+        {
+          "group": "Performance",
+          "parameter": "Duplex Colour Scan Speed for document (in ipm) for Document Feeder",
+          "value": "61 to 70, 71 to 80, 81 to 90, 91 to 100, 101 to 120, 121 to 140, 141 to 160, 161 to 180, 181 to 200, 201 to 220, 221 to 240, 241 to 260, 261 to 280 Or higher"
+        },
+        {
+          "group": "Document Handling",
+          "parameter": "Daily Duty Cycle (Number of Pages)",
+          "value": "2,001 to 5,000, 5,001 to 10,000, 10,001 to 20,000, 20,001 to 30,000, 30,001 to 40,000, 40,001 to 50,000, 50,001 to 1,00,000 Or higher"
+        },
+        {
+          "group": "Document Handling",
+          "parameter": "Duplex Scanning",
+          "value": "Yes Or higher"
+        },
+        {
+          "group": "Document Handling",
+          "parameter": "Automatic Document Feeder (ADF) Tray Capacity at 75 GSM (in Number of sheets)",
+          "value": "41 to 50, 51 to 100, 101 to 150, 151 to 200, 201 to 300, 301 to 500 Or higher"
+        },
+        {
+          "group": "Certification",
+          "parameter": "On Site Warranty (in Years)",
+          "value": "3 Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address The Store Keeper, Examination Store, University of Kerala, Senate House Campus, Palayam, Thiruvananthapuram, Kerala. . 3. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 4. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 5. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 6. Warranty Timely Servicing / rectification of defects during warranty period: After having been notified of the defects"
+    },
+    {
+      "page": 5,
+      "text": "/ service requirement during warranty period, Seller has to complete the required Service / Rectification within 3 days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the Buyer. 7. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. The Bidder must have a Registered Office/Service Centre inside the State of Kerala, preferably in Thiruv ananthapuram. 2. The Brochure along with the detailed technical specification should be submitted. 3. The Compliance statement should be submitted as per the format attached in the Buyer uploaded ATC Document. 4. Complaints with the item supplied should be rectified/replaced to the satisfaction of the University by th e suppliers at their own cost. 5. Payment will be made only after the supply and installation of the items at our site. 6. Bidders who are blacklisted by State / Central Government departments and organizations are not eligib le to participate in this bid and such bids will be summarily rejected. A self-declaration of the bidder showi ng that the bidder is not blacklisted in India/Abroad for the last seven years (In company letter head) is to b e submitted. 7. Actual delivery is to be done at following address: The Store Keeper, General Store, University of Kerala, Senate House Campus, Palayam, Thiruvananthapuram. 8. If the selected bidder fails to complete the task within the delivery period prescribed above, the delayed consignment will be subject to 2% penalty per consignment per month or part thereof recoverable on the value of stores supplied. 9. The unexcused delay in the completion of task by the selected bidder in the prescribed delivery period o r If the selected bidder fails to supply and install the items after placing the Work Order/Supply Order, may render him liable to any or all of the following penalties: - (a) Incident will be reported through GeM Portal (b) The penalty as mentioned in this Bid document (c) Black listing or debarring from participating in any bid released by Kerala Government in future. 10. The rate quoted should be inclusive of all charges such as GST, delivery charges, packing, forwarding, freight, loading/unloading/handling and Government duties leviable, if any. 11. The Technical Evaluation Process will be carried out as per the specification/Compliance Statement att ached in the Buyer uploaded ATC Document. 12. The Duly filled signed and sealed Technical Compliance Statement should be submitted as per the for m attached in the Buyer uploaded ATC Document. 13. The Full payment will be made only after successful completion of the supply of the items at the propo sed site mentioned in the Supply Order and advance payment will not be allowed under any circumstances . No part payments shall be made. 14. The Bid inviting authority reserves the right to reject any bid, if the bidder does not meet the eligibility criteria/does not submit the document, mentioned in the Bid Document. 15. Supporting Document (Authorization Letter) should be uploaded stating that the Bidder is an authorize d dealer/supplier. 16. The Bidder who fails to submit the authorization letter will be rejected."
+    },
+    {
+      "page": 6,
+      "text": "17. General rules relating to purchase of equipment will also applicable to this Bid . 8. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8229731",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10114997"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 16-11-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10114997"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 17-11-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10114997"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10114997"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Kerala",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10114997"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Higher Education Department Kerala",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10114997"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: University Of Kerala",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10114997"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Thiruvananthapuram",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10114997"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :registrar.ku@kerala.gov.in Buyer Email id: jointregadmn.ku@kerala.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10114997"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10114997"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Scanner (V3) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10114997"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 2 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10114997"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10114997"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10114997"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10114997"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 20 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10114997"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10114997"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10114997"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10114997"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Scanner Type: Sheet Fed | Scanning Technology: Contact Image Sensor (CIS) | Maximum Scan Size: A4 and Legal, A4, Legal and A3, A4, Legal, A3 and A3+ Or higher | Maximum Optical Resolution (in Dpi): 600, 1200, 2400, 4800 Or higher | Simplex Colour Scan Speed at 200 dpi (in ppm) for Document Feeder: 31 to 35, 36 to 40, 41 to 45, 46 to 50, 51 to 60, 61 to 70, 71 to 80, 81 to 90, 91 to 100, 101 to 120, 121 to 140, 141 to 160 Or higher | Duplex Colour Scan Speed for document (in ipm) for Document Feeder: 61 to 70, 71 to 80, 81 to 90, 91 to 100, 101 to 120, 121 to 140, 141 to 160, 161 to 180, 181 to 200, 201 to 220, 221 to 240, 241 to 260, 261 to 280 Or higher | Daily Duty Cycle (Number of Pages): 2,001 to 5,000, 5,001 to 10,000, 10,001 to 20,000, 20,001 to 30,000, 30,001 to 40,000, 40,001 to 50,000, 50,001 to 1,00,000 Or higher | Duplex Scanning: Yes Or higher | Automatic Document Feeder (ADF) Tray Capacity at 75 GSM (in Number of sheets): 41 to 50, 51 to 100, 101 to 150, 151 to 200, 201 to 300, 301 to 500 Or higher | On Site Warranty (in Years): 3 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10114997"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Mohamed Hashir A | 695034,UNIVERSITY OF KERALA, SENATE HOUSE CAMPUS | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10114997"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address The Store Keeper, Examination Store, University of Kerala, Senate House Campus, Palayam, Thiruvananthapuram, Kerala. . 3. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 4. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 5. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 6. Warranty Timely Servicing / rectification of defects during warranty period: After having been notified of the defects",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10114997"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "/ service requirement during warranty period, Seller has to complete the required Service / Rectification within 3 days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the Buyer. 7. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. The Bidder must have a Registered Office/Service Centre inside the State of Kerala, preferably in Thiruv ananthapuram. 2. The Brochure along with the detailed technical specification should be submitted. 3. The Compliance statement should be submitted as per the format attached in the Buyer uploaded ATC Document. 4. Complaints with the item supplied should be rectified/replaced to the satisfaction of the University by th e suppliers at their own cost. 5. Payment will be made only after the supply and installation of the items at our site. 6. Bidders who are blacklisted by State / Central Government departments and organizations are not eligib le to participate in this bid and such bids will be summarily rejected. A self-declaration of the bidder showi ng that the bidder is not blacklisted in India/Abroad for the last seven years (In company letter head) is to b e submitted. 7. Actual delivery is to be done at following address: The Store Keeper, General Store, University of Kerala, Senate House Campus, Palayam, Thiruvananthapuram. 8. If the selected bidder fails to complete the task within the delivery period prescribed above, the delayed consignment will be subject to 2% penalty per consignment per month or part thereof recoverable on the value of stores supplied. 9. The unexcused delay in the completion of task by the selected bidder in the prescribed delivery period o r If the selected bidder fails to supply and install the items after placing the Work Order/Supply Order, may render him liable to any or all of the following penalties: - (a) Incident will be reported through GeM Portal (b) The penalty as mentioned in this Bid document (c) Black listing or debarring from participating in any bid released by Kerala Government in future. 10. The rate quoted should be inclusive of all charges such as GST, delivery charges, packing, forwarding, freight, loading/unloading/handling and Government duties leviable, if any. 11. The Technical Evaluation Process will be carried out as per the specification/Compliance Statement att ached in the Buyer uploaded ATC Document. 12. The Duly filled signed and sealed Technical Compliance Statement should be submitted as per the for m attached in the Buyer uploaded ATC Document. 13. The Full payment will be made only after successful completion of the supply of the items at the propo sed site mentioned in the Supply Order and advance payment will not be allowed under any circumstances . No part payments shall be made. 14. The Bid inviting authority reserves the right to reject any bid, if the bidder does not meet the eligibility criteria/does not submit the document, mentioned in the Bid Document. 15. Supporting Document (Authorization Letter) should be uploaded stating that the Bidder is an authorize d dealer/supplier. 16. The Bidder who fails to submit the authorization letter will be rejected.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10114997"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "17. General rules relating to purchase of equipment will also applicable to this Bid . 8. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10114997"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

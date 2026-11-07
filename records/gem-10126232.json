@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8239616",
   "title": "High End Desktop Computer",
   "description": "High End Desktop Computer",
-  "organisation": "Indraprastha Power Generation Co. Ltd.",
-  "ministry": "",
+  "organisation": "Indraprastha Power Generation Co. Ltd",
+  "ministry": "Delhi",
   "department": "Indraprastha Power Generation Co. Ltd.",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "High End Desktop Computer",
   "quantity": 4,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 20300,
   "published_at": "2026-11-05T15:30:11+05:30",
   "closing_at": "2026-11-26T11:00:00+05:30",
   "status": "active",
@@ -27,6 +27,16 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10126232"
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/boGL96-n3v_4CfaByFQ1_dHxP2L6a10YiWjvuOiagHk",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261105",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +44,306 @@
   ],
   "source_fetched_at": "2026-11-07T19:43:34.374Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-27T11:00:00+05:30",
+  "office": "New Delhi",
+  "buyer_email": "pkrai@ipgcl-ppcl.nic.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 38,
+  "offer_validity": "120 (Days)",
+  "source_document_fetched_at": "2026-11-07T22:52:45.998540+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "62fe43ec3aba545072a913c3c82b25dd16ff92bec7ddc2f47581c03cf6ac0407",
+  "document_pages": 9,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Joginder Singh",
+      "address": "110002,INDRAPRASTHA POWER GENERATION COMPANY LIMITED, HIMADRI, RAJGHAT POWER HOUSE OFFICE COMPLEX, RAJGHAT, NEW DELHI - 110002",
+      "quantity": 4,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "PROCESSOR",
+          "parameter": "Description of Stores",
+          "value": "Desktop Computer with Table Mount Monitor System with Compatible Chipset as per Processor make with Minimum 6 USB Port"
+        },
+        {
+          "group": "PROCESSOR",
+          "parameter": "Base Processor Number",
+          "value": "AMD Ryzen 7 5700G, Intel Core i7 12700, NA for Higher Processor Or higher"
+        },
+        {
+          "group": "PROCESSOR",
+          "parameter": "Higher Processor Number",
+          "value": "NA for Base Processor, AMD Ryzen 7 PRO 5750G, AMD Ryzen 7 8700GE, AMD Ryzen 7 PRO 8700GE, AMD Ryzen 7 8700G, AMD Ryzen 7 PRO 8700G, AMD Ryzen 9 PRO 7945, AMD Ryzen 9 7900X3D, AMD Ryzen 9 7950X3D, Intel Core i7- 13700, Intel Core i7- 13700K, Intel Core i7- 14700, Intel Core i7- 14700K, Intel Core i9- 12900, Intel Core i9- 12900K, Intel Core i9- 13900, Intel Core i9- 13900K, Intel Core i9- 14900, Intel Core i9- 14900K, Intel Core Ultra 5- 235T, Intel Core Ultra 5- 225T, Intel Core Ultra 5- 225, Intel Core Ultra 5- 245T, Intel Core Ultra 5- 235, Intel Core Ultra 5- 245, Intel Core Ultra 7- 265T, Intel Core Ultra 7- 265, Intel Core Ultra 9- 285 Or higher"
+        },
+        {
+          "group": "MOTHERBOARD",
+          "parameter": "Trusted Platform Module",
+          "value": "No TPM, Discrete TPM 2.0"
+        },
+        {
+          "group": "GRAPHICS",
+          "parameter": "Graphics Type",
+          "value": "Dedicated/Discrete"
+        },
+        {
+          "group": "GRAPHICS",
+          "parameter": "Size of Memory in Case of Dedicated Graphic Card (GB)",
+          "value": "4.0 Or higher"
+        },
+        {
+          "group": "OPERATING SYSTEM",
+          "parameter": "Factory Pre-loaded Operating System",
+          "value": "Window 11 Professional, Window 11 Home, DOS or Equivalent, Linux, Window 11 STF (Shape the Future)"
+        },
+        {
+          "group": "MEMORY (RAM)",
+          "parameter": "Type of RAM",
+          "value": "DDR4, DDR5 Or higher"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "RAM Size (Memory Card/Module) (in GB) (Capacity to be Installed in the System)",
+          "value": "16, 32, 64 Or higher"
+        },
+        {
+          "group": "STORAGE",
+          "parameter": "Primary Storage Capacity (in GB)",
+          "value": "2048 Or higher"
+        },
+        {
+          "group": "STORAGE",
+          "parameter": "Availability of Secondary Storage",
+          "value": "No Secondary Storage, HDD@5400RPM, HDD@7200RPM, NVME - SSD Or higher"
+        },
+        {
+          "group": "STORAGE",
+          "parameter": "Secondary Storage Capacity (in GB)",
+          "value": "0, 500, 512, 1024, 2048 Or higher"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Availibility of Monitor",
+          "value": "Yes as per IS 13252 (Part 1)"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Panel Type",
+          "value": "Twisted Nematic (TN), Vertical Alignment (VA), In Plane Switching (IPS)"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Screen Size (in CMs)",
+          "value": "48.26 - 53 (19.0\" - 20.87\"), 53.1 - 58 (20.91\" - 22.83\"), 58.1 - 63 (22.87\" - 24.8\"), 63.1 - 68 (24.84\" - 26.77\"), 68.1 - 73 (26.81\" - 28.74\"), 73.1 - 78 (28.78\" - 30.71\"), 78.1 - 83 (30.75\" - 32.68\"), 83.1 - 88 (32.72\" - 34.65\")"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "On Site OEM Warranty (In year)",
+          "value": "3, 4, 5 Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "for details technical for details technical specifications specifications * Bidders offering must also comply with the additional specification parameters mentioned above. पपररेेषषततीी//ररपपोोटटगग अअििधधककाारर ततथथाा ममाााा/Consignees/Reporting Officer and Quantity पपररेेषषततीी//ररपपोोटटगग ..ससं.ं./S.N डडललीीववरर ककेे ददनन/Delivery o. अअििधधककाारर /Consignee पपतताा/Address ममाााा /Quantity Days Reporting/Officer 110002,INDRAPRASTHA POWER GENERATION COMPANY LIMITED, HIMADRI, RAJGHAT 1 Joginder Singh 4 30 POWER HOUSE OFFICE COMPLEX, RAJGHAT, NEW DELHI - 110002"
+    },
+    {
+      "page": 5,
+      "text": "Special terms and conditions-Version:10 effective from 30-09-2026 for category High End Desktop Computer 1. 1. Category Specification / MeitY Model Technical Specification / ATC Restrictions The category has been created in accordance with the Model Technical Specification issued by the Ministry of Electronics and Information Technology (MeitY) vide letter No. W-43/4/2020-IPHW dated 19.08.2024 and is based on the parameters defined therein. Buyers shall not prescribe, through Buyer Added ATCs, any technical parameter, allowed value, particular processor, processor brand, processor manufacturer or other requirement which restricts or overrides the Category Specifications. Clause 2(e) of the GeM General Terms and Conditions (GTC) shall apply accordingly. 2. Product Verification Each supplied Device shall bear a unique device serial number or other unique device identifier traceable to the OEM. The Buyer/Consignee shall be able to verify the authenticity of the supplied product including the configuration through the OEM website. 3. Requirement of OEM Logo Buyers shall not prescribe a requirement for embossing, engraving, printing or affixing the OEM name/logo on the motherboard or any internal component. 4. Operating System - OEM/Publisher Status There shall be no mandatory requirement that the OEM of the offered device should be a Microsoft Device Partner or hold any specific Microsoft authorisation. Where an Operating System other than Microsoft Windows is offered, no specific partner status or authorisation from the concerned Operating System publisher/provider shall be mandated. 5. Operating System - Licensing Where Microsoft Windows is supplied, it shall be a genuine, legally licensed and duly activated copy of the Windows edition/version declared in the catalogue, and the licence shall be obtained through a licensing or distribution mechanism authorised by Microsoft. Where any other Operating System is supplied, it shall comply with the applicable licensing terms and conditions of the concerned Operating System publisher/provider, wherever licensing is applicable. 6. Operating System - Verification Where Microsoft Windows is supplied pre-installed, the Buyer/Consignee shall be able to verify that the supplied Windows Operating System is genuine and duly activated through the OEM, i.e. Microsoft. A valid digital licence or any other licensing mechanism permitted by Microsoft for the supplied device shall be acceptable. Where any other Operating System is supplied, similar verification of licence authenticity and/or activation status shall be required only where the concerned Operating System publisher/provider provides a device-level or equivalent verification mechanism. Where no such verification mechanism is provided, this requirement shall not apply. 7. Operating System - Applicability The requirements relating specifically to Microsoft Windows licensing, activation and verification shall apply where Microsoft Windows forms part of the contracted configuration. Where an Operating System other than Microsoft Windows is supplied, the applicable licensing requirements of the concerned Operating System publisher/provider shall be complied with, and verification of licence authenticity and/or activation shall be required only where such verification is supported by the concerned Operating System publisher/provider. 8. Operating System-specific Certification / Compatibility Hardware compatibility certificate prescribed by a particular Operating System publisher/provider may be requested by buyers. 9. USB Port Declaration / Higher Interface Standard Each physical USB port shall be declared only once under the highest interface capability supported by that port. The same physical port shall not be counted under multiple USB generations/types merely because of backward compatibility. A technically backward-compatible higher-generation version of a prescribed USB/interface standard may be offered where it meets or exceeds the functionality and performance of the prescribed standard and complies with all other Category requirements. 10. Warranty The warranty applicable to the supplied Device shall be as specified/selected in the product and reflected in the resultant contract. The applicable warranty shall be verifiable through the OEM website, OEM customer support facility or warranty certificate/tag provided by the OEM."
+    },
+    {
+      "page": 6,
+      "text": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Buyer Added text based ATC clauses 1. The Required operating system shall be only Windows 10 IoT Enterprise LTSB 2016 with valid drivers a nd product key. (no other operating system shall be acceptable) 2. Minimum 8 GB DDR4 RAM (2 × 4 GB or higher configuration acceptable) shall be provided. 3. Minimum 2 GB dedicated graphics card (NVIDIA Quadro P600 or better) shall be provided. 4. At least one (01) RJ45 onboard Ethernet port shall be provided. 5. System shall include additional network interface card (NIC): Intel I210 single-port + Broadcom 5719 qu"
+    },
+    {
+      "page": 7,
+      "text": "ad-port 1GbE or better equivalent. 6. Minimum 1 TB SATA 3.5\" HDD, 7200 RPM shall be provided. 7. System shall include DVD-RW drive. 8. The OEM shall provide onsite warranty for a minimum period of 3 years. 9. Required Processor Intel make and 3.5GHz or better 10. Monitor, keyboard, and mouse shall be supplied along with each workstation 11. Guarantee/ Warranty: Onsite warranty for a minimum period of 03 Years from the date of delivery. 12. Secuirity Deposit: SD clause applicable @5% of GeM PO/contract value and shall be released after succ essful completion of PO./supply. This SD is applicable in addition to E-PBG in e-PBG details tab in GeM bid. 13. PBG: Applicable as per GeM E-PBG @ 5% with validity 38 months 14. EMD: Applicable: The bidder seeking EMD exemption, must submit the valid supporti ng document for the relevant category with the bid. Under MSE category (Micro & Small Enterprises), only manufacturers of goods are eligible for exemption from EMD. Traders are excluded from the purview of thi s Policy 15. Delivery Period: 30 Days from the date of award of GeM contract 16. Bid of different vendors received from same IP address will not be considered and bid shall be out right ly rejected for this tender. No further communication will be made in this regard ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8239616",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126232"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 26-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126232"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 27-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126232"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126232"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Delhi",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126232"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indraprastha Power Generation Co. Ltd.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126232"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indraprastha Power Generation Co. Ltd",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126232"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: New Delhi",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126232"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :manojkr.nirala@ipgcl-ppcl.nic.in Buyer Email id: pkrai@ipgcl-ppcl.nic.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126232"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 4",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126232"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: High End Desktop Computer (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126232"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126232"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126232"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126232"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 20300",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126232"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 20300",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126232"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126232"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 38",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126232"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 2,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126232"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Description of Stores: Desktop Computer with Table Mount Monitor System with Compatible Chipset as per Processor make with Minimum 6 USB Port | Base Processor Number: AMD Ryzen 7 5700G, Intel Core i7 12700, NA for Higher Processor Or higher | Higher Processor Number: NA for Base Processor, AMD Ryzen 7 PRO 5750G, AMD Ryzen 7 8700GE, AMD Ryzen 7 PRO 8700GE, AMD Ryzen 7 8700G, AMD Ryzen 7 PRO 8700G, AMD Ryzen 9 PRO 7945, AMD Ryzen 9 7900X3D, AMD Ryzen 9 7950X3D, Intel Core i7- 13700, Intel Core i7- 13700K, Intel Core i7- 14700, Intel Core i7- 14700K, Intel Core i9- 12900, Intel Core i9- 12900K, Intel Core i9- 13900, Intel Core i9- 13900K, Intel Core i9- 14900, Intel Core i9- 14900K, Intel Core Ultra 5- 235T, Intel Core Ultra 5- 225T, Intel Core Ultra 5- 225, Intel Core Ultra 5- 245T, Intel Core Ultra 5- 235, Intel Core Ultra 5- 245, Intel Core Ultra 7- 265T, Intel Core Ultra 7- 265, Intel Core Ultra 9- 285 Or higher | Trusted Platform Module: No TPM, Discrete TPM 2.0 | Graphics Type: Dedicated/Discrete | Size of Memory in Case of Dedicated Graphic Card (GB): 4.0 Or higher | Factory Pre-loaded Operating System: Window 11 Professional, Window 11 Home, DOS or Equivalent, Linux, Window 11 STF (Shape the Future) | Type of RAM: DDR4, DDR5 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126232"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "RAM Size (Memory Card/Module) (in GB) (Capacity to be Installed in the System): 16, 32, 64 Or higher | Primary Storage Capacity (in GB): 2048 Or higher | Availability of Secondary Storage: No Secondary Storage, HDD@5400RPM, HDD@7200RPM, NVME - SSD Or higher | Secondary Storage Capacity (in GB): 0, 500, 512, 1024, 2048 Or higher | Availibility of Monitor: Yes as per IS 13252 (Part 1) | Panel Type: Twisted Nematic (TN), Vertical Alignment (VA), In Plane Switching (IPS) | Screen Size (in CMs): 48.26 - 53 (19.0\" - 20.87\"), 53.1 - 58 (20.91\" - 22.83\"), 58.1 - 63 (22.87\" - 24.8\"), 63.1 - 68 (24.84\" - 26.77\"), 68.1 - 73 (26.81\" - 28.74\"), 73.1 - 78 (28.78\" - 30.71\"), 78.1 - 83 (30.75\" - 32.68\"), 83.1 - 88 (32.72\" - 34.65\") | On Site OEM Warranty (In year): 3, 4, 5 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126232"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Joginder Singh | 110002,INDRAPRASTHA POWER GENERATION COMPANY LIMITED, HIMADRI, RAJGHAT POWER HOUSE OFFICE COMPLEX, RAJGHAT, NEW DELHI - 110002 | 4 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126232"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "for details technical for details technical specifications specifications * Bidders offering must also comply with the additional specification parameters mentioned above. पपररेेषषततीी//ररपपोोटटगग अअििधधककाारर ततथथाा ममाााा/Consignees/Reporting Officer and Quantity पपररेेषषततीी//ररपपोोटटगग ..ससं.ं./S.N डडललीीववरर ककेे ददनन/Delivery o. अअििधधककाारर /Consignee पपतताा/Address ममाााा /Quantity Days Reporting/Officer 110002,INDRAPRASTHA POWER GENERATION COMPANY LIMITED, HIMADRI, RAJGHAT 1 Joginder Singh 4 30 POWER HOUSE OFFICE COMPLEX, RAJGHAT, NEW DELHI - 110002",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126232"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "Special terms and conditions-Version:10 effective from 30-09-2026 for category High End Desktop Computer 1. 1. Category Specification / MeitY Model Technical Specification / ATC Restrictions The category has been created in accordance with the Model Technical Specification issued by the Ministry of Electronics and Information Technology (MeitY) vide letter No. W-43/4/2020-IPHW dated 19.08.2024 and is based on the parameters defined therein. Buyers shall not prescribe, through Buyer Added ATCs, any technical parameter, allowed value, particular processor, processor brand, processor manufacturer or other requirement which restricts or overrides the Category Specifications. Clause 2(e) of the GeM General Terms and Conditions (GTC) shall apply accordingly. 2. Product Verification Each supplied Device shall bear a unique device serial number or other unique device identifier traceable to the OEM. The Buyer/Consignee shall be able to verify the authenticity of the supplied product including the configuration through the OEM website. 3. Requirement of OEM Logo Buyers shall not prescribe a requirement for embossing, engraving, printing or affixing the OEM name/logo on the motherboard or any internal component. 4. Operating System - OEM/Publisher Status There shall be no mandatory requirement that the OEM of the offered device should be a Microsoft Device Partner or hold any specific Microsoft authorisation. Where an Operating System other than Microsoft Windows is offered, no specific partner status or authorisation from the concerned Operating System publisher/provider shall be mandated. 5. Operating System - Licensing Where Microsoft Windows is supplied, it shall be a genuine, legally licensed and duly activated copy of the Windows edition/version declared in the catalogue, and the licence shall be obtained through a licensing or distribution mechanism authorised by Microsoft. Where any other Operating System is supplied, it shall comply with the applicable licensing terms and conditions of the concerned Operating System publisher/provider, wherever licensing is applicable. 6. Operating System - Verification Where Microsoft Windows is supplied pre-installed, the Buyer/Consignee shall be able to verify that the supplied Windows Operating System is genuine and duly activated through the OEM, i.e. Microsoft. A valid digital licence or any other licensing mechanism permitted by Microsoft for the supplied device shall be acceptable. Where any other Operating System is supplied, similar verification of licence authenticity and/or activation status shall be required only where the concerned Operating System publisher/provider provides a device-level or equivalent verification mechanism. Where no such verification mechanism is provided, this requirement shall not apply. 7. Operating System - Applicability The requirements relating specifically to Microsoft Windows licensing, activation and verification shall apply where Microsoft Windows forms part of the contracted configuration. Where an Operating System other than Microsoft Windows is supplied, the applicable licensing requirements of the concerned Operating System publisher/provider shall be complied with, and verification of licence authenticity and/or activation shall be required only where such verification is supported by the concerned Operating System publisher/provider. 8. Operating System-specific Certification / Compatibility Hardware compatibility certificate prescribed by a particular Operating System publisher/provider may be requested by buyers. 9. USB Port Declaration / Higher Interface Standard Each physical USB port shall be declared only once under the highest interface capability supported by that port. The same physical port shall not be counted under multiple USB generations/types merely because of backward compatibility. A technically backward-compatible higher-generation version of a prescribed USB/interface standard may be offered where it meets or exceeds the functionality and performance of the prescribed standard and complies with all other Category requirements. 10. Warranty The warranty applicable to the supplied Device shall be as specified/selected in the product and reflected in the resultant contract. The applicable warranty shall be verifiable through the OEM website, OEM customer support facility or warranty certificate/tag provided by the OEM.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126232"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Buyer Added text based ATC clauses 1. The Required operating system shall be only Windows 10 IoT Enterprise LTSB 2016 with valid drivers a nd product key. (no other operating system shall be acceptable) 2. Minimum 8 GB DDR4 RAM (2 × 4 GB or higher configuration acceptable) shall be provided. 3. Minimum 2 GB dedicated graphics card (NVIDIA Quadro P600 or better) shall be provided. 4. At least one (01) RJ45 onboard Ethernet port shall be provided. 5. System shall include additional network interface card (NIC): Intel I210 single-port + Broadcom 5719 qu",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126232"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "ad-port 1GbE or better equivalent. 6. Minimum 1 TB SATA 3.5\" HDD, 7200 RPM shall be provided. 7. System shall include DVD-RW drive. 8. The OEM shall provide onsite warranty for a minimum period of 3 years. 9. Required Processor Intel make and 3.5GHz or better 10. Monitor, keyboard, and mouse shall be supplied along with each workstation 11. Guarantee/ Warranty: Onsite warranty for a minimum period of 03 Years from the date of delivery. 12. Secuirity Deposit: SD clause applicable @5% of GeM PO/contract value and shall be released after succ essful completion of PO./supply. This SD is applicable in addition to E-PBG in e-PBG details tab in GeM bid. 13. PBG: Applicable as per GeM E-PBG @ 5% with validity 38 months 14. EMD: Applicable: The bidder seeking EMD exemption, must submit the valid supporti ng document for the relevant category with the bid. Under MSE category (Micro & Small Enterprises), only manufacturers of goods are eligible for exemption from EMD. Traders are excluded from the purview of thi s Policy 15. Delivery Period: 30 Days from the date of award of GeM contract 16. Bid of different vendors received from same IP address will not be considered and bid shall be out right ly rejected for this tender. No further communication will be made in this regard .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10126232"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

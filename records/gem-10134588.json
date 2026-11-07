@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8247092",
   "title": "Goods Transport Service – Per KM Based Service - Machinery & Equipment; Open Body LCV Truck; 22 F",
   "description": "Goods Transport Service – Per KM Based Service - Machinery & Equipment; Open Body LCV Truck; 22 FEET OPEN BODY TRUCK",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Air Force",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Goods Transport Service – Per KM Based Service - Machinery & Equipment; Open Body LCV Truck; 22 F",
   "quantity": 816,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-05T18:16:27+05:30",
   "closing_at": "2026-11-09T09:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10134588"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261105",
+      "page": 6
+    },
+    {
+      "name": "Service Level Agreement",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/bidsla/102709873929744",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +49,256 @@
   ],
   "source_fetched_at": "2026-11-07T09:23:17.386Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-10T09:00:00+05:30",
+  "buyer_email": "providers.365@gov.in",
+  "emd_required": false,
+  "experience_years": 2,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Bidder Turnover,Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "180 (Days)",
+  "contract_period": "1 Month(s)",
+  "source_document_fetched_at": "2026-11-07T14:44:55.204269+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "9035e77761ea20078e4c7081c8fe57eab7d04656c39d6668b7c457c5c1c31d89",
+  "document_pages": 6,
+  "eligibility": [
+    "Past experience required for same/similar service: 2 Year (s) (GeM PDF, p. 1)",
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "***********",
+      "address": "***********KUTCHH/BHUJ",
+      "quantity": 816,
+      "quantity_label": "Running Kilometres",
+      "delivery_days": null,
+      "additional_requirements": "N/A"
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Nature of Goods",
+          "value": "Machinery & Equipment"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Type of Truck",
+          "value": "Open Body LCV Truck"
+        },
+        {
+          "group": "Core",
+          "parameter": "Size / Weight of vehicle",
+          "value": "22 FEET OPEN BODY TRUCK"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type of Travel",
+          "value": "Outside city within state"
+        },
+        {
+          "group": "Core",
+          "parameter": "Km Range",
+          "value": "301-450 Km"
+        },
+        {
+          "group": "Core",
+          "parameter": "Area of Operation",
+          "value": "Plains"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Loading",
+          "value": "NA"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Unloading",
+          "value": "NA"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Tracking System (GPS)",
+          "value": "NA"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Transit Insurance",
+          "value": "NA"
+        },
+        {
+          "group": "Additional Details",
+          "parameter": "Type Of Trip (One-Way/Return)",
+          "value": "ONE WAY"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE 50% : The buyer can increase or decrease the contract quantity or contract duration up to 50 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 50 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 50 percent with the consent of the service provider 2. Buyer Added Bid Specific ATC"
+    },
+    {
+      "page": 5,
+      "text": "Buyer Added text based ATC clauses QTY-02 22 FEET OPEN BODY TRUCK REQUIRED FROM AIRFORCE STATION BHUJ TO AIRFORCE STATION JAM NAGAR. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8247092",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134588"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 09-11-2026 09:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134588"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 10-11-2026 09:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134588"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134588"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134588"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134588"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Air Force",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134588"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :defenders@nic.in Buyer Email id: providers.365@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134588"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Goods Transport Service – Per KM Based Service - Machinery & Equipment; Open Body LCV Truck; 22 FEET OPEN BODY TRUCK",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134588"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 1 Month(s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134588"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 2 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134588"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134588"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134588"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134588"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134588"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134588"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134588"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Nature of Goods: Machinery & Equipment",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134588"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Type of Truck: Open Body LCV Truck | Size / Weight of vehicle: 22 FEET OPEN BODY TRUCK | Type of Travel: Outside city within state | Km Range: 301-450 Km | Area of Operation: Plains | Loading: NA | Unloading: NA | Tracking System (GPS): NA | Transit Insurance: NA | Type Of Trip (One-Way/Return): ONE WAY",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134588"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Running Kilometres | Additional Requirement: 1 | *********** | ***********KUTCHH/BHUJ | 816 | N/A",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134588"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE 50% : The buyer can increase or decrease the contract quantity or contract duration up to 50 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 50 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 50 percent with the consent of the service provider 2. Buyer Added Bid Specific ATC",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134588"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "Buyer Added text based ATC clauses QTY-02 22 FEET OPEN BODY TRUCK REQUIRED FROM AIRFORCE STATION BHUJ TO AIRFORCE STATION JAM NAGAR. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134588"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 816",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

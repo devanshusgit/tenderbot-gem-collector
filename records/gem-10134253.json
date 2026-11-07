@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8246785",
   "title": "Standard Ambulances",
   "description": "Standard Ambulances",
-  "organisation": "Department of Agricultural Research and Education (DARE)",
-  "ministry": "Ministry of Agriculture and Farmers Welfare",
-  "department": "Department of Agricultural Research and Education (DARE)",
+  "organisation": "Central Agricultural University Imphal Manipur",
+  "ministry": "Ministry Of Agriculture And Farmers Welfare",
+  "department": "Department Of Agricultural Research And Education (dare)",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Standard Ambulances",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-05T17:50:36+05:30",
   "closing_at": "2026-11-16T18:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10134253"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/p400WZmGr53dsT13MJiMlvIRO9yH9i97TO-byyjWY0g",
+      "page": 4
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8246785/CLM0010/SATC_0ef94eac-4177-431f-92b51793881167400_coakbuycon2.pdf",
+      "page": 9
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261105",
+      "page": 10
     }
   ],
   "tags": [
@@ -34,5 +54,269 @@
   ],
   "source_fetched_at": "2026-11-06T17:37:36.244Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-17T18:00:00+05:30",
+  "office": "Central Agricultural University, Headquarter,lamphelpat",
+  "buyer_email": "storecoak@cau.ac.in",
+  "emd_required": false,
+  "bidder_turnover_lakhs": 5,
+  "oem_turnover_lakhs": 5,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,OEM Authorization Certificate,OEM Annual Turnover,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-07T00:52:08.343566+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "c6bd9689c86aac19b563459b21226347777beec78c0ade01096e1319e414efb7",
+  "document_pages": 10,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 5 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 5 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,OEM Authorization Certificate,OEM Annual Turnover,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 50 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Narendra Kumar",
+      "address": "793104,College of Agriculture, Kyrdemkulai, Ri-Bhoi District, Meghalaya",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Generic Parameters",
+          "parameter": "Type of Ambulance [as per clause 3*3 of AIS-125 (Part 1)]",
+          "value": "Type A - Road Ambulance / Medical First Responder, Type B - Road Ambulance / Patient Transport Vehicle, Type C - Road Ambulance: Basic Life Support Ambulance, Type D - Road Ambulance: Advanced Life Support Ambulance"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Category of Vehicle",
+          "value": "M1, M2 (GVW <=5 tonnes), M3 (GVW >5 tonnes)"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Type of Wheel Drive",
+          "value": "Two wheel drive, Four wheel drive"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Type of Fuel",
+          "value": "Petrol, Diesel, CNG"
+        },
+        {
+          "group": "Engine and Transmission",
+          "parameter": "Maximum Engine Output / Power (kW) at rated RPM",
+          "value": "20 - 200 (kiloWatt)"
+        },
+        {
+          "group": "Vehicle Parameters",
+          "parameter": "Maximum Gross Vehicle Weight (Kerb weight + Payload)",
+          "value": "1500 - 7000 (kilogram)"
+        },
+        {
+          "group": "Accessories/Features",
+          "parameter": "Air Conditioning",
+          "value": "Whole Ambulance, Only Patient Compartment, NA for without AC"
+        },
+        {
+          "group": "Ambulance Body",
+          "parameter": "Number of Stretcher",
+          "value": "1, 2, 3, 4, Berth for Type A"
+        },
+        {
+          "group": "Ambulance Body",
+          "parameter": "Features of Main Stretcher",
+          "value": "Main stretcher with an integral undercarriage, Main stretcher with separable undercarriage, NA for Type A"
+        },
+        {
+          "group": "Warranty",
+          "parameter": "Vehicle Warranty Time (Years)",
+          "value": "1, 2, 3, 4, 5 Or higher (year)"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 8,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address Dean College of Agriculture CAU(I) Kyrdemkulai Meghalaya . 3. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 4. Turnover Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. 5. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 6. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support."
+    },
+    {
+      "page": 9,
+      "text": "7. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 8. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8246785",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134253"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 16-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134253"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 17-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134253"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134253"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Agriculture And Farmers Welfare",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134253"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Agricultural Research And Education (dare)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134253"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Central Agricultural University Imphal Manipur",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134253"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Central Agricultural University, Headquarter,lamphelpat",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134253"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :registrar.cau@gov.in Buyer Email id: storecoak@cau.ac.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134253"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134253"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Standard Ambulances (Q1)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134253"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 5 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134253"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 5 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134253"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134253"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134253"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134253"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134253"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,OEM Authorization Certificate,OEM Annual Turnover,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134253"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 50 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134253"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134253"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134253"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134253"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Type of Ambulance [as per clause 3*3 of AIS-125 (Part 1)]: Type A - Road Ambulance / Medical First Responder, Type B - Road Ambulance / Patient Transport Vehicle, Type C - Road Ambulance: Basic Life Support Ambulance, Type D - Road Ambulance: Advanced Life Support Ambulance | Category of Vehicle: M1, M2 (GVW <=5 tonnes), M3 (GVW >5 tonnes) | Type of Wheel Drive: Two wheel drive, Four wheel drive | Type of Fuel: Petrol, Diesel, CNG | Maximum Engine Output / Power (kW) at rated RPM: 20 - 200 (kiloWatt) | Maximum Gross Vehicle Weight (Kerb weight + Payload): 1500 - 7000 (kilogram) | Air Conditioning: Whole Ambulance, Only Patient Compartment, NA for without AC | Number of Stretcher: 1, 2, 3, 4, Berth for Type A | Features of Main Stretcher: Main stretcher with an integral undercarriage, Main stretcher with separable undercarriage, NA for Type A | Vehicle Warranty Time (Years): 1, 2, 3, 4, 5 Or higher (year)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134253"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Narendra Kumar | 793104,College of Agriculture, Kyrdemkulai, Ri-Bhoi District, Meghalaya | 1 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134253"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address Dean College of Agriculture CAU(I) Kyrdemkulai Meghalaya . 3. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 4. Turnover Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. 5. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 6. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134253"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "7. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 8. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134253"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

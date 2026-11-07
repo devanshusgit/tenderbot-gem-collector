@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8251535",
   "title": "General Purpose Battery Chargers",
   "description": "General Purpose Battery Chargers",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "Rail Wheel Factory Yelahanka",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "General Purpose Battery Chargers",
   "quantity": 6,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-06T17:42:21+05:30",
   "closing_at": "2026-11-19T18:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10139681"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/SHLQaVbWXCaUy3k759RZjgr_eSlcVUbOeZhE_e0M2ac",
+      "page": 3
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8251535/CLM0010/Annexure_ecd99800-60b4-4ff1-839a1793966930718_AMMGENERAL.pdf",
+      "page": 6
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261106",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +54,254 @@
   ],
   "source_fetched_at": "2026-11-07T04:35:00.031Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-20T18:00:00+05:30",
+  "office": "Pcmm's Office",
+  "buyer_email": "bm.kkmurthy@gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "60 (Days)",
+  "source_document_fetched_at": "2026-11-07T06:17:15.300135+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "095f0e0cfb088e8afa72b98e014e536ca92fa6acd0d9f11df60ca4bc2ffa299f",
+  "document_pages": 8,
+  "eligibility": [
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "A K Manickavelu",
+      "address": "560064,OFFICE OF THE CEE RAIL WHEEL FACTORY, YELAHANKA, BENGALURU - 560064",
+      "quantity": 6,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Performance Parameters",
+          "parameter": "Suitable for charging of types of battery chemistry",
+          "value": "Tubular Lead acid / VRLA/SMF/ Flat Plate Lead-Acid"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Charger type",
+          "value": "Float cum boost charger (FCBC)"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Input voltage (in volt)",
+          "value": "AC 230V+/-15%"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Nominal output DC Voltage in (volts)",
+          "value": "24"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Minimum output current at nominal output DC voltage (in Ampere)",
+          "value": "10"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Efficiency",
+          "value": ">/=85%"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Construction/Enclosure",
+          "value": "Enclosure made of 0.5mm or better, CRCA sheet, duly powder coated and asthetically designed"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Additional requirements [Hint: Products matching all selected values will be displayed; For example, if both 'Charging cut off voltage' and 'Provision of two different ports' are selected, product that include both options will be shown]",
+          "value": "Charging cut off voltage (14.5V+/- (-0.2V), Provision of two different ports, one port for Radio Operation and other for Battery charging operation."
+        },
+        {
+          "group": "Protection and Features/Accessories",
+          "parameter": "Salient protection [Hint: Products matching all selected values will be displayed; For example, if both 'Overload protection' and 'Overcharge protection' are selected, product that include both options will be shown]",
+          "value": "Overload protection, Overcharge protection, Over Current protection, Short Circuit protection, Reverse polarity protection, AC input circuit breaker, DC output circuit breaker"
+        },
+        {
+          "group": "Environment",
+          "parameter": "Ingress protection",
+          "value": "IP20 or better, IP23 or better Or higher"
+        },
+        {
+          "group": "Environment",
+          "parameter": "Humidity (Rh)",
+          "value": "90%"
+        },
+        {
+          "group": "Certification",
+          "parameter": "Type of lab which carried out test of complete product to prove the conformity of specification",
+          "value": "Certificate of Govt./NABL/ILAC accredited lab"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "ेेतताा ाारराा जजोोड़ड़ गगईई बबडड कक ववशशेषेष शशतत"
+    },
+    {
+      "page": 5,
+      "text": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 2. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 3. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 4. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 5. Warranty Warranty period of the supplied products shall be 1 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 6. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Additional Specification Parameters: The below additional specification parameters shall overraid the above GeM spe cification parameters. 1. Application The Battery charger shall be suitable for Substation Control room 2. Maximum power rating 750 watts 3. Maximum output current at 30 Amps. nominal output DC voltage 4. Installation & with Installation & Commissioning Commissioning"
+    },
+    {
+      "page": 6,
+      "text": "5. Warranty 12 months after successful installatio n and commissioning 6. Delivery Shall be delivered at consignee locati on in RWF 7. Documents required from b 1. Valid OEM authorization certificate idder/ tenderer along with t for the offered make of item. he offer. 2. Certificate of Govt. NABL/ILAC accr edited lab to prove the conformity of product as per governing specificatio n. 3. OEM Product catalog/data sheet of the offered make & model of item for the verifying the specification of the o ffered item. 8. Documents required from t 1. Warranty certificate. he supplier along with the s 2. Instruction/Maintenance manual of upply of material. the supplied item. . 7. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8251535",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139681"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 19-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139681"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 20-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139681"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 60 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139681"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139681"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139681"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Rail Wheel Factory Yelahanka",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139681"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Pcmm's Office",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139681"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :cmm@rwf.railnet.gov.in Buyer Email id: bm.kkmurthy@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139681"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 6",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139681"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: General Purpose Battery Chargers (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139681"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139681"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139681"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139681"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139681"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139681"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Suitable for charging of types of battery chemistry: Tubular Lead acid / VRLA/SMF/ Flat Plate Lead-Acid | Charger type: Float cum boost charger (FCBC) | Input voltage (in volt): AC 230V+/-15% | Nominal output DC Voltage in (volts): 24 | Minimum output current at nominal output DC voltage (in Ampere): 10 | Efficiency: >/=85% | Construction/Enclosure: Enclosure made of 0.5mm or better, CRCA sheet, duly powder coated and asthetically designed",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139681"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Additional requirements [Hint: Products matching all selected values will be displayed; For example, if both 'Charging cut off voltage' and 'Provision of two different ports' are selected, product that include both options will be shown]: Charging cut off voltage (14.5V+/- (-0.2V), Provision of two different ports, one port for Radio Operation and other for Battery charging operation. | Salient protection [Hint: Products matching all selected values will be displayed; For example, if both 'Overload protection' and 'Overcharge protection' are selected, product that include both options will be shown]: Overload protection, Overcharge protection, Over Current protection, Short Circuit protection, Reverse polarity protection, AC input circuit breaker, DC output circuit breaker | Ingress protection: IP20 or better, IP23 or better Or higher | Humidity (Rh): 90% | Type of lab which carried out test of complete product to prove the conformity of specification: Certificate of Govt./NABL/ILAC accredited lab",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139681"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | A K Manickavelu | 560064,OFFICE OF THE CEE RAIL WHEEL FACTORY, YELAHANKA, BENGALURU - 560064 | 6 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139681"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "ेेतताा ाारराा जजोोड़ड़ गगईई बबडड कक ववशशेषेष शशतत",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139681"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 2. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 3. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 4. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 5. Warranty Warranty period of the supplied products shall be 1 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 6. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Additional Specification Parameters: The below additional specification parameters shall overraid the above GeM spe cification parameters. 1. Application The Battery charger shall be suitable for Substation Control room 2. Maximum power rating 750 watts 3. Maximum output current at 30 Amps. nominal output DC voltage 4. Installation & with Installation & Commissioning Commissioning",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139681"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "5. Warranty 12 months after successful installatio n and commissioning 6. Delivery Shall be delivered at consignee locati on in RWF 7. Documents required from b 1. Valid OEM authorization certificate idder/ tenderer along with t for the offered make of item. he offer. 2. Certificate of Govt. NABL/ILAC accr edited lab to prove the conformity of product as per governing specificatio n. 3. OEM Product catalog/data sheet of the offered make & model of item for the verifying the specification of the o ffered item. 8. Documents required from t 1. Warranty certificate. he supplier along with the s 2. Instruction/Maintenance manual of upply of material. the supplied item. . 7. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139681"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

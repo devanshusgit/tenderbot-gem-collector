@@ -5,9 +5,9 @@
   "tender_id": "GEM/2026/R/765825",
   "title": "UPS 30kVA,Battery,Battery enclosure,Isolation transformer,Installation and commissioning",
   "description": "UPS 30kVA,Battery,Battery enclosure,Isolation transformer,Installation and commissioning",
-  "organisation": "Department of Defence Production",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Defence Production",
+  "organisation": "Bharat Dynamics Limited",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Defence Production",
   "portal_name": "GeM",
   "state": [],
   "city": [],
@@ -25,8 +25,18 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10134507"
+    },
+    {
+      "name": "GEM/2026/B/8064841",
+      "url": "https://bidplus.gem.gov.in/showbidDocument/9925412",
+      "page": 1
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261105",
+      "page": 1
     }
   ],
   "tags": [
@@ -34,5 +44,98 @@
   ],
   "source_fetched_at": "2026-11-07T05:01:41.305Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "ra_start_at": "2026-11-06T18:00:00+05:30",
+  "auto_extension": "If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+  "mse_exemption": "MSE Exemption for Years of Experience and Turnover: No",
+  "startup_exemption": "Startup Exemption for Years of Experience and Turnover: No",
+  "originating_bid_reference": "GEM/2026/B/8064841",
+  "source_document_fetched_at": "2026-11-07T06:14:17.040765+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "80a5f93fd4759a02a8c63cf57b1a78cfa3bc82a9426823f57289a1a12299f10e",
+  "document_pages": 1,
+  "eligibility": [
+    "MSE Exemption for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Exemption for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [],
+  "technical_specifications": [],
+  "buyer_added_terms": [],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/765825",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10134507"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 1,
+      "quote": "Please refer to Bid document of GEM/2026/B/8064841",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10134507"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 06-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10134507"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 07-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10134507"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10134507"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Defence Production",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10134507"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Bharat Dynamics Limited",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10134507"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 10",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10134507"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: UPS 30kVA , Battery , Battery enclosure , Isolation transformer , Installation and commissioning",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10134507"
+    },
+    {
+      "field": "auto_extension",
+      "page": 1,
+      "quote": "Auto Extension: If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10134507"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 1,
+      "quote": "MSE Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10134507"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 1,
+      "quote": "Startup Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10134507"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda."
 }

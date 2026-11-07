@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8251920",
   "title": "Live Remote Temperature and Humidity Monitoring and Alert System",
   "description": "Live Remote Temperature and Humidity Monitoring and Alert System",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Army",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Live Remote Temperature and Humidity Monitoring and Alert System",
   "quantity": 8,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-06T19:16:29+05:30",
   "closing_at": "2026-11-09T09:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10140131"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/3BD5kik1dcAiBEWtpLfsZtNM2QXCwQzzL3IuqC3rl3c",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261106",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +49,363 @@
   ],
   "source_fetched_at": "2026-11-07T04:24:56.285Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-10T09:00:00+05:30",
+  "buyer_email": "pkmishra.405h@gov.in",
+  "emd_required": false,
+  "oem_turnover_lakhs": 1,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-07T06:04:07.006304+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "8518795b5ad6ff9b69ca17f6d32a36e417b2336dcf032e396d47c18be4f3962f",
+  "document_pages": 8,
+  "eligibility": [
+    "OEM average turnover (last 3 years): 1 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 10 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "***********",
+      "address": "***********Kathua",
+      "quantity": 8,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "General",
+          "parameter": "Items covered in the System",
+          "value": "1. IOT Device for measuring & monitoring of temperature, 2.IOT Device for measuring & monitoring of temperature & Humidity"
+        },
+        {
+          "group": "General",
+          "parameter": "Activation & Demonstration of the product",
+          "value": "Yes"
+        },
+        {
+          "group": "General",
+          "parameter": "Demonstration Type",
+          "value": "onsite"
+        },
+        {
+          "group": "General",
+          "parameter": "Number of Years upto which Support is available from OEM/Seller",
+          "value": "2"
+        },
+        {
+          "group": "IoT Device",
+          "parameter": "Features of IOT Device",
+          "value": "1. To measure, observe and monitor Temperature & Humidity in a real time remotely and send alerts when there is deviation from defined temperature range., 2. Captures the location detail of monitoring unit., 3. User configurable sampling and data reporting frequency, 4. NA"
+        },
+        {
+          "group": "IoT Device",
+          "parameter": "Key components in the IoT device",
+          "value": "1. Temperature Sensor, 2. Humidity Sensor, 3. Microcontroller, 4. Communication module, 5. Battery, 6. NA"
+        },
+        {
+          "group": "IoT Device",
+          "parameter": "Type of Monitoring",
+          "value": "Temperature, Humidity, NA"
+        },
+        {
+          "group": "IoT Device",
+          "parameter": "No Of data readings stored in memory (in Thousand)",
+          "value": "1, 1.5, 2, NA"
+        },
+        {
+          "group": "IoT Device",
+          "parameter": "Sensor type",
+          "value": "Internal, External, NA"
+        },
+        {
+          "group": "IoT Device",
+          "parameter": "Visual display available in the offered product",
+          "value": "LED, OLED, LCD, PLASMA, TFT, GRAPHIC, NA"
+        },
+        {
+          "group": "IoT Device",
+          "parameter": "Warranty on the IOT device (years)",
+          "value": "1, 2, 3, 4, 5, NA"
+        },
+        {
+          "group": "Temperature Sensor",
+          "parameter": "Sensitivity(in ?C)",
+          "value": "±0.5, ± 1, ±1.5, ±2, NA"
+        },
+        {
+          "group": "Temperature Sensor",
+          "parameter": "Temperature Resolution",
+          "value": "0.5, 1, NA"
+        },
+        {
+          "group": "Temperature Sensor",
+          "parameter": "Minimum Operating Temperature(in ?C) (Hint: Select \"0\" if not applicable )",
+          "value": "-30 - 20"
+        },
+        {
+          "group": "Temperature Sensor",
+          "parameter": "Maximum Operating Temperature(in ?C) (Hint: Select \"0\" if not applicable; )",
+          "value": "-20 - 60"
+        },
+        {
+          "group": "Humidity Sensor",
+          "parameter": "Humidity Range(in % RH) (Hint: Select \"0\" if not applicable)",
+          "value": "0 - 100"
+        },
+        {
+          "group": "Humidity Sensor",
+          "parameter": "Accuracy (in % RH)",
+          "value": "±2, ±3, NA"
+        },
+        {
+          "group": "Humidity Sensor",
+          "parameter": "Sensitivity(in % RH)",
+          "value": "±0.1, ±0.2, NA"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Communication Module",
+          "parameter": "Communication protocols Supported",
+          "value": "2G ( quad band), 3G, 4G (LTE), Wi-fi, Bluetooth, NA"
+        },
+        {
+          "group": "Microcontroller",
+          "parameter": "Bit core",
+          "value": "4, 8, 16-single, 16-dual, 32-single, 32-dual, 32- tri, 32- quad, NA"
+        },
+        {
+          "group": "Microcontroller",
+          "parameter": "Core processor",
+          "value": "8051/52, ARM, FT32, F2MC, MAXQ, MSP, XCORE, NA"
+        },
+        {
+          "group": "Microcontroller",
+          "parameter": "Memory type",
+          "value": "code RAM, EEPROM, FLASH, OTP, FRAM, ROMLESS, SRAM, RAM, PRAM, EPROM, MTP, NA"
+        },
+        {
+          "group": "Microcontroller",
+          "parameter": "Memory Size in KB (Hint: Select \"0\" if not applicable; )",
+          "value": "0 - 2048"
+        },
+        {
+          "group": "Battery",
+          "parameter": "Type of Battery",
+          "value": "Rechargeable Battery, Non-Rechargeable Battery, NA"
+        },
+        {
+          "group": "Battery",
+          "parameter": "Number of Batteries",
+          "value": "1, 2, 3, 4, 5, NA"
+        },
+        {
+          "group": "Battery",
+          "parameter": "Chemistry of Battery",
+          "value": "Li-ion, Ni-MH, SMF, Alkaline, Lithium Polymer, NA"
+        },
+        {
+          "group": "Battery",
+          "parameter": "Capacity of Battery (in mAh) (Hint: Select \"0\" if not applicable; )",
+          "value": "0 - 6000"
+        },
+        {
+          "group": "Battery",
+          "parameter": "Minimum Battery Back Up Time ( in days) as per standard sampling and data reporting intervals (Hint: Select \"0\" if not applicable)",
+          "value": "0 - 30"
+        },
+        {
+          "group": "SOFTWARE",
+          "parameter": "Deployment Option",
+          "value": "In-premise, Cloud, NA"
+        },
+        {
+          "group": "SOFTWARE",
+          "parameter": "Features of Software for monitoring/ Reports",
+          "value": "1. Graphical User Interface to configure, read, upgrade the device., 2. Software provides acess to data , reports of temperature, humidity and location., 3. Admin rights to create and manage devices and users, assign devices to users., 4. Set temperature limits for individual devices for monitoring & alert ., 5. User access to monitor each device and view/ download reports., 6. Create and modify storage locations like warehouse, and subsequent locations., 7. Create and modify Trips if used for transportation ., 8. API to integrate with other or existing application ., 9. NA"
+        },
+        {
+          "group": "SOFTWARE",
+          "parameter": "Type of Licence",
+          "value": "Perpetual, Subscription, NA"
+        },
+        {
+          "group": "SOFTWARE",
+          "parameter": "Valid licence copy to be provided",
+          "value": "Yes, NA"
+        },
+        {
+          "group": "Generic Features",
+          "parameter": "Alarm Types",
+          "value": "SMS, Mobile Apps, Email, Audio, NA"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Turnover Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. 3. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Sellers are requested to send sample of product physically before 09 Nov 2026 for checking quality and pri ce by board of officers. Product should be updated as on date or year 2026. If no sellers fulfil this conditio ns they should be disqualified. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8251920",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140131"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 09-11-2026 09:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140131"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 10-11-2026 09:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140131"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140131"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140131"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140131"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Army",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140131"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :rajmar.019h@gov.in Buyer Email id: pkmishra.405h@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140131"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 8",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140131"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Live Remote Temperature and Humidity Monitoring and Alert System (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140131"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 1 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140131"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140131"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140131"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140131"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140131"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 10 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140131"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140131"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140131"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140131"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Items covered in the System: 1. IOT Device for measuring & monitoring of temperature, 2.IOT Device for measuring & monitoring of temperature & Humidity | Activation & Demonstration of the product: Yes | Demonstration Type: onsite | Number of Years upto which Support is available from OEM/Seller: 2 | Features of IOT Device: 1. To measure, observe and monitor Temperature & Humidity in a real time remotely and send alerts when there is deviation from defined temperature range., 2. Captures the location detail of monitoring unit., 3. User configurable sampling and data reporting frequency, 4. NA | Key components in the IoT device: 1. Temperature Sensor, 2. Humidity Sensor, 3. Microcontroller, 4. Communication module, 5. Battery, 6. NA | Type of Monitoring: Temperature, Humidity, NA | No Of data readings stored in memory (in Thousand): 1, 1.5, 2, NA | Sensor type: Internal, External, NA | Visual display available in the offered product: LED, OLED, LCD, PLASMA, TFT, GRAPHIC, NA | Warranty on the IOT device (years): 1, 2, 3, 4, 5, NA | Sensitivity(in ?C): ±0.5, ± 1, ±1.5, ±2, NA | Temperature Resolution: 0.5, 1, NA | Minimum Operating Temperature(in ?C) (Hint: Select \"0\" if not applicable ): -30 - 20 | Maximum Operating Temperature(in ?C) (Hint: Select \"0\" if not applicable; ): -20 - 60 | Humidity Range(in % RH) (Hint: Select \"0\" if not applicable): 0 - 100 | Accuracy (in % RH): ±2, ±3, NA | Sensitivity(in % RH): ±0.1, ±0.2, NA",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140131"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Communication protocols Supported: 2G ( quad band), 3G, 4G (LTE), Wi-fi, Bluetooth, NA | Bit core: 4, 8, 16-single, 16-dual, 32-single, 32-dual, 32- tri, 32- quad, NA | Core processor: 8051/52, ARM, FT32, F2MC, MAXQ, MSP, XCORE, NA | Memory type: code RAM, EEPROM, FLASH, OTP, FRAM, ROMLESS, SRAM, RAM, PRAM, EPROM, MTP, NA | Memory Size in KB (Hint: Select \"0\" if not applicable; ): 0 - 2048 | Type of Battery: Rechargeable Battery, Non-Rechargeable Battery, NA | Number of Batteries: 1, 2, 3, 4, 5, NA | Chemistry of Battery: Li-ion, Ni-MH, SMF, Alkaline, Lithium Polymer, NA | Capacity of Battery (in mAh) (Hint: Select \"0\" if not applicable; ): 0 - 6000 | Minimum Battery Back Up Time ( in days) as per standard sampling and data reporting intervals (Hint: Select \"0\" if not applicable): 0 - 30 | Deployment Option: In-premise, Cloud, NA | Features of Software for monitoring/ Reports: 1. Graphical User Interface to configure, read, upgrade the device., 2. Software provides acess to data , reports of temperature, humidity and location., 3. Admin rights to create and manage devices and users, assign devices to users., 4. Set temperature limits for individual devices for monitoring & alert ., 5. User access to monitor each device and view/ download reports., 6. Create and modify storage locations like warehouse, and subsequent locations., 7. Create and modify Trips if used for transportation ., 8. API to integrate with other or existing application ., 9. NA | Type of Licence: Perpetual, Subscription, NA | Valid licence copy to be provided: Yes, NA | Alarm Types: SMS, Mobile Apps, Email, Audio, NA",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140131"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********Kathua | 8 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140131"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Turnover Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. 3. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Sellers are requested to send sample of product physically before 09 Nov 2026 for checking quality and pri ce by board of officers. Product should be updated as on date or year 2026. If no sellers fulfil this conditio ns they should be disqualified. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140131"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

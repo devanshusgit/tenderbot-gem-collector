@@ -5,9 +5,9 @@
   "tender_id": "GEM/2026/R/766164",
   "title": "Cotton Yarn Waste (V2) as per IS 5485",
   "description": "Cotton Yarn Waste (V2) as per IS 5485",
-  "organisation": "Urban Development and Town and Country Planning Department West Bengal",
-  "ministry": "",
-  "department": "Urban Development and Town and Country Planning Department West Bengal",
+  "organisation": "Kolkata Municipal Corporation",
+  "ministry": "West Bengal",
+  "department": "Urban Development And Town And Country Planning Department West Bengal",
   "portal_name": "GeM",
   "state": [],
   "city": [],
@@ -25,8 +25,18 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10137060"
+    },
+    {
+      "name": "GEM/2026/B/7553756",
+      "url": "https://bidplus.gem.gov.in/showbidDocument/9344572",
+      "page": 1
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261106",
+      "page": 1
     }
   ],
   "tags": [
@@ -34,5 +44,99 @@
   ],
   "source_fetched_at": "2026-11-07T04:22:53.915Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "office": "Kolkata700013",
+  "ra_start_at": "2026-11-07T13:00:00+05:30",
+  "auto_extension": "If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+  "mse_exemption": "MSE Exemption for Years of Experience and Turnover: No",
+  "startup_exemption": "Startup Exemption for Years of Experience and Turnover: No",
+  "originating_bid_reference": "GEM/2026/B/7553756",
+  "source_document_fetched_at": "2026-11-07T05:36:48.878555+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "6f760a9935feb6ab0ccb2954b5be15e33fc04ad41ce4963afcb15243e2aad598",
+  "document_pages": 1,
+  "eligibility": [
+    "MSE Exemption for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Exemption for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [],
+  "technical_specifications": [],
+  "buyer_added_terms": [],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/766164",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10137060"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 1,
+      "quote": "Please refer to Bid document of GEM/2026/B/7553756",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10137060"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 07-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10137060"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 10-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10137060"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: West Bengal",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10137060"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Urban Development And Town And Country Planning Department West Bengal",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10137060"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Kolkata Municipal Corporation",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10137060"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Kolkata700013",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10137060"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 5600",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10137060"
+    },
+    {
+      "field": "auto_extension",
+      "page": 1,
+      "quote": "Auto Extension: If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10137060"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 1,
+      "quote": "MSE Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10137060"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 1,
+      "quote": "Startup Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10137060"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda."
 }

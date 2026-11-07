@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8248517",
   "title": "E-cart for Goods",
   "description": "E-cart for Goods",
-  "organisation": "Department of Defence Production",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Defence Production",
+  "organisation": "Munitions India Limited",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Defence Production",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "E-cart for Goods",
   "quantity": 2,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-06T14:45:00+05:30",
   "closing_at": "2026-11-21T14:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10136267"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/R1zIYOIayCEHGCwbazTj7pg-Hpf8M4Ko9Xx3zfWxyYQ",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261106",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +49,305 @@
   ],
   "source_fetched_at": "2026-11-07T04:46:46.114Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-22T14:00:00+05:30",
+  "buyer_email": "ajitkumarsingh1.ofb@gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-07T07:12:20.767740+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "86fd7452ba40737c0f68d3420fe2091ff572611942cc346c930b6811f8b4479f",
+  "document_pages": 8,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "***********",
+      "address": "***********BHANDARA",
+      "quantity": 2,
+      "quantity_label": "Quantity",
+      "delivery_days": 90
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Generic Parameters",
+          "parameter": "Vehicle Category",
+          "value": "E-cart"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Used for",
+          "value": "Goods Carrier"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Type of Body/Container",
+          "value": "Closed Body (Box Type)"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Tipping",
+          "value": "Hydraulic Tipping, Manual Tipping, NA for Fixed Body Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Body/Container Volume (cubic metres)",
+          "value": "1.0 - 3.0 Or higher (cubic meter)"
+        },
+        {
+          "group": null,
+          "parameter": "Body/Container Material",
+          "value": "Mild Steel as per IS 2062, Stainless Steel Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Body/Container Plate Thickness (mm)",
+          "value": "1.6 - 3.0 Or higher (millimeter)"
+        },
+        {
+          "group": null,
+          "parameter": "Power Source",
+          "value": "Electric - Battery Operated"
+        },
+        {
+          "group": null,
+          "parameter": "Maximum Power Output (kW)",
+          "value": "1.2 - 2.0 Or higher (kiloWatt)"
+        },
+        {
+          "group": null,
+          "parameter": "Type of Traction Battery",
+          "value": "Lithium-ion Battery, Lead-acid Battery Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Traction Battery Capacity (in Ah)",
+          "value": "100.0 - 160.0 Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Type of Motor",
+          "value": "BLDC Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Seating Capacity (Including Driver)",
+          "value": "1"
+        },
+        {
+          "group": null,
+          "parameter": "Type of Front Tyre",
+          "value": "Tube-type, Tubeless Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Type of Rear Tyres",
+          "value": "Tube-type, Tubeless Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Km Range as per AIS 040",
+          "value": "60.0 - 150.0 Or higher (kilometer)"
+        },
+        {
+          "group": null,
+          "parameter": "Windshield (Made of suitable safety glass provided with wiper and motor)",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Additional Accessories",
+          "value": "Public Address System, GPS Based Navigation System, Fire Extinguisher, NA"
+        },
+        {
+          "group": "Dimensions",
+          "parameter": "Maximum Gross Vehicle Weight (Kg)",
+          "value": "755.0 - 900.0 Or higher (kilogram)"
+        },
+        {
+          "group": "Certifications & Warranty",
+          "parameter": "Standard Vehicle Warranty (minimum)",
+          "value": "1 Year"
+        },
+        {
+          "group": "Certifications & Warranty",
+          "parameter": "Battery Warranty (minimum)",
+          "value": "1 Year, 3 Year"
+        },
+        {
+          "group": "Tests and Conformity",
+          "parameter": "Confirming to Constructional & Functional Safety of battery operated vehicle",
+          "value": "As per AIS-038 (Latest Version)"
+        },
+        {
+          "group": "Tests and Conformity",
+          "parameter": "Confirming to Installation and Functional Testing of Automobile Lamps",
+          "value": "As per AIS-034 (Latest Version)"
+        },
+        {
+          "group": "Tests and Conformity",
+          "parameter": "Traction Batteries used in Battery Operated Vehicles",
+          "value": "Confirming to AIS-048 (Latest Version)"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 3. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 4. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses A) FULL NOMENCLATURE:“1. VEHICLE CATEGORY-E-CART, 2. TYPE OF BODY/ CONTAINER- OPEN BODY, 3. R OOF TYPE- WATER PROOF CLOTH, 4. POWER SOURCE- ELECTRIC BATTERY OPERATED, 5. POWER OUTPUT (KW) 1200 WATT, 6. CHARGING TIME-5 TO 6 HRS, 7.LOADING CAPACITY-500-600 KG. 8. SEATING CAPACITY-2 SEATER (WITH SHED). 9. NO. OF BATTERY:- 04 BATTERY WITH CHARGER OF WARRAN TY 18-24 MONTHS .”Qty:- 02 Nos. B) FIRM MUST SUPPLY THE ITEMS AS PER SPECIFICATION. C) INSPECTION AUTHORITY: CHIEF GENERAL MANAGER/OFBA D) INSPECTION OFFICER: CHIEF GENERAL MANAGER/OFBA OR HIS AUTHORIZED REPRESENTATIVE. E) PLACE OF INSPECTION: O. F. BHANDARA F) PAYMENT TERMS: 100% Payment will be made within 10 days of issue of Consignee Receipt cum Accept ance Certificate (CRAC) and submission of Bill. G)Guarantee/warranty: 1 year from the date of acceptance at O.F. Bhandara."
+    },
+    {
+      "page": 7,
+      "text": "H) The amount of performance security will be an amount equal to 5% of the total contract value (inclusiv e all) if contract value exceeds 5 Lakh, PSD will be applicable as per GeM GTC irrespective of Bid Condition s or will be as per Clause No. 5.a@) of MIL Stores Purchase Manual - 2023). I) All other term and conditions of subject bid will be as per OFBPM - 2023. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8248517",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136267"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 21-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136267"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 22-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136267"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136267"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136267"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Defence Production",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136267"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Munitions India Limited",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136267"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :kcmeena@ord.gov.in Buyer Email id: ajitkumarsingh1.ofb@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136267"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 2",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136267"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: E-cart for Goods (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136267"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136267"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136267"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136267"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136267"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136267"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136267"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Vehicle Category: E-cart | Used for: Goods Carrier | Type of Body/Container: Closed Body (Box Type)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136267"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Tipping: Hydraulic Tipping, Manual Tipping, NA for Fixed Body Or higher | Body/Container Volume (cubic metres): 1.0 - 3.0 Or higher (cubic meter) | Body/Container Material: Mild Steel as per IS 2062, Stainless Steel Or higher | Body/Container Plate Thickness (mm): 1.6 - 3.0 Or higher (millimeter) | Power Source: Electric - Battery Operated | Maximum Power Output (kW): 1.2 - 2.0 Or higher (kiloWatt) | Type of Traction Battery: Lithium-ion Battery, Lead-acid Battery Or higher | Traction Battery Capacity (in Ah): 100.0 - 160.0 Or higher | Type of Motor: BLDC Or higher | Seating Capacity (Including Driver): 1 | Type of Front Tyre: Tube-type, Tubeless Or higher | Type of Rear Tyres: Tube-type, Tubeless Or higher | Km Range as per AIS 040: 60.0 - 150.0 Or higher (kilometer) | Windshield (Made of suitable safety glass provided with wiper and motor): Yes | Additional Accessories: Public Address System, GPS Based Navigation System, Fire Extinguisher, NA | Maximum Gross Vehicle Weight (Kg): 755.0 - 900.0 Or higher (kilogram) | Standard Vehicle Warranty (minimum): 1 Year | Battery Warranty (minimum): 1 Year, 3 Year | Confirming to Constructional & Functional Safety of battery operated vehicle: As per AIS-038 (Latest Version) | Confirming to Installation and Functional Testing of Automobile Lamps: As per AIS-034 (Latest Version) | Traction Batteries used in Battery Operated Vehicles: Confirming to AIS-048 (Latest Version)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136267"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********BHANDARA | 2 | 90",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136267"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 3. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 4. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses A) FULL NOMENCLATURE:“1. VEHICLE CATEGORY-E-CART, 2. TYPE OF BODY/ CONTAINER- OPEN BODY, 3. R OOF TYPE- WATER PROOF CLOTH, 4. POWER SOURCE- ELECTRIC BATTERY OPERATED, 5. POWER OUTPUT (KW) 1200 WATT, 6. CHARGING TIME-5 TO 6 HRS, 7.LOADING CAPACITY-500-600 KG. 8. SEATING CAPACITY-2 SEATER (WITH SHED). 9. NO. OF BATTERY:- 04 BATTERY WITH CHARGER OF WARRAN TY 18-24 MONTHS .”Qty:- 02 Nos. B) FIRM MUST SUPPLY THE ITEMS AS PER SPECIFICATION. C) INSPECTION AUTHORITY: CHIEF GENERAL MANAGER/OFBA D) INSPECTION OFFICER: CHIEF GENERAL MANAGER/OFBA OR HIS AUTHORIZED REPRESENTATIVE. E) PLACE OF INSPECTION: O. F. BHANDARA F) PAYMENT TERMS: 100% Payment will be made within 10 days of issue of Consignee Receipt cum Accept ance Certificate (CRAC) and submission of Bill. G)Guarantee/warranty: 1 year from the date of acceptance at O.F. Bhandara.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136267"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "H) The amount of performance security will be an amount equal to 5% of the total contract value (inclusiv e all) if contract value exceeds 5 Lakh, PSD will be applicable as per GeM GTC irrespective of Bid Condition s or will be as per Clause No. 5.a@) of MIL Stores Purchase Manual - 2023). I) All other term and conditions of subject bid will be as per OFBPM - 2023. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136267"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

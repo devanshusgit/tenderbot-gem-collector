@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8250260",
   "title": "Unmanaged L2 Ethernet Switch (PoE)",
   "description": "Unmanaged L2 Ethernet Switch (PoE)",
-  "organisation": "Labour and Employment Department Gujarat",
-  "ministry": "",
-  "department": "Labour and Employment Department Gujarat",
+  "organisation": "Directorate Of Employment & Training",
+  "ministry": "Gujarat",
+  "department": "Labour And Employment Department Gujarat",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Unmanaged L2 Ethernet Switch (PoE)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-06T15:38:32+05:30",
   "closing_at": "2026-11-21T16:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10138224"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/eQFFt5qyOQf0EJQ5TsvxHzrssXZSftxlAJgKJfd28N4",
+      "page": 4
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8250260/CLM0010/ATC_0bf42ee3-9905-4f5c-b4f71793958250140_MUNDRA_CON.pdf",
+      "page": 10
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261106",
+      "page": 11
     }
   ],
   "tags": [
@@ -34,5 +54,331 @@
   ],
   "source_fetched_at": "2026-11-07T04:37:01.127Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-22T16:00:00+05:30",
+  "office": "Det",
+  "buyer_email": "ask-iti-mundra@gujarat.gov.in",
+  "emd_required": false,
+  "oem_turnover_lakhs": 1,
+  "experience_years": 1,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 13,
+  "offer_validity": "180 (Days)",
+  "estimated_bid_value": 20000,
+  "source_document_fetched_at": "2026-11-07T06:56:12.623700+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "62850df1486789cf847692d113ab042108669b24baa94257324db236df2bebb1",
+  "document_pages": 11,
+  "eligibility": [
+    "OEM average turnover (last 3 years): 1 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 1 Year (s) (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 20 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Davda Chirag Bharatbhai",
+      "address": "370421,GOVT. INDUSTRIAL TRAINING INSTITUTE, MUNDRA, NEAR - SAMUDRA TOWNSHIP, OLD PORT ROAD, TA - MUNDRA, DI - KACHCHH",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Generic",
+          "parameter": "Description of Store",
+          "value": "Unamanaged (no-configuration) Power Over Ethernet (PoE) Switch"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Power Supply",
+          "value": "Internal, External Adapter"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Transfer Rate (in Mbps)",
+          "value": "10/100 (Fast Ethernet)"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Performance Parameter",
+          "parameter": "Number of PoE RJ45 Ports",
+          "value": "24"
+        },
+        {
+          "group": "Performance Parameter",
+          "parameter": "Number of Non-PoE RJ45 Ports",
+          "value": "0, 2, 4, 6"
+        },
+        {
+          "group": "Performance Parameter",
+          "parameter": "Number of PoE+ RJ45 Ports",
+          "value": "24"
+        },
+        {
+          "group": "Performance Parameter",
+          "parameter": "Uplink Port Type",
+          "value": "None, SFP, SFP+"
+        },
+        {
+          "group": "Performance Parameter",
+          "parameter": "Number of SFP Port",
+          "value": "0.0, 2.0, 4.0, 6.0"
+        },
+        {
+          "group": "Performance Parameter",
+          "parameter": "Number of SFP+ Port",
+          "value": "0.0, 2.0, 4.0, 6.0"
+        },
+        {
+          "group": "Performance Parameter",
+          "parameter": "Performance Features",
+          "value": "Jumbo frame support, Auto Negotiation, Auto- MDI/MDIX Support (Medium Dependent Interface)/(Medium Dependent Interface- Crossover)"
+        },
+        {
+          "group": "Warranty and Certification",
+          "parameter": "Warranty Support",
+          "value": "1, 2, 3 Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the"
+    },
+    {
+      "page": 6,
+      "text": "additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Forms of EMD and PBG Bidders can also submit the EMD with Fixed Deposit Receipt made out or pledged in the name of A/C IMC SOCIETY OF ITI MUNDRA . The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of EMD, the FDR will be released in the favour of the bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Bidder has to upload scanned copy/ proof of the FDR along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date/ Bid Opening date 3. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of IMC SOCIETY OF ITI MUNDRA A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract. 4. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 5. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 6. Generic Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller. 7. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 8. Inspection Pre-dispatch inspection at Seller premises (Fee/Charges to be borne by the BUYER): Before dispatch, the goods will be inspected by Buyer / Consignee or their Authorized Representative or by Nominated External Inspection Agency (independently or jointly with Buyer or Consignee as decided by the Buyer) at Seller premises (or at designated place for inspection as declared / communicated by the seller) for their compliance to the contract specifications. Fee/Charges taken by the External inspection Agency and any external laboratories testing charges shall be borne by the Buyer. For in-house testing, the Sellers will provide necessary facilities free of cost. Seller shall notify the Buyer through e-mail about readiness of goods for pre-dispatch inspection and Buyer will notify the Seller about the Authorized Representative/ Nominated External Inspection Agency and the date for testing. The goods would be dispatched to consignee only after clearance in pre-dispatch inspection. Consignee's right of rejection as"
+    },
+    {
+      "page": 7,
+      "text": "per GTC in respect of the goods finally received at his location shall in no way be limited or waived by reason of the goods having previously been inspected, tested and passed by Buyer/ Consignee or its Nominated External Inspection Agency prior to the goods' shipment. While bidding, the sellers should take into account 7 days for inspection from the date of email offering the goods for inspection. Any delay in inspection beyond 7 days shall be on the part of the buyer and shall be regularised without Liquidated Damages. When there is requirement of submission the advance sample, the seller shall inform the buyer promptly through emails about the date of submission of sample to the buyer nominated Inspection agency. 9. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 10. Warranty Timely Servicing / rectification of defects during warranty period: After having been notified of the defects / service requirement during warranty period, Seller has to complete the required Service / Rectification within 15 days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the Buyer. 11. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses “The bidder must be required to supply all items/materials i n accordance with the specifications mentioned in the ATC ( Additional Terms & Conditions) of the bid.” This bid will be governed as per \"Gujarat State Procurement Policy 2024\" published by Industries and Mines Department, Gujarat. * Bidders are advised to check clauses of Gujarat State Procureme nt Policy 2024 (like EMD Exemption, Start-up related, Purchase Pref erence etc...) before participation. Clarification for EMD Exempted · MSE Required Udyam and NSIC/CSPO Certificate for particular ite m OR· Startup Required Startup Certificate of DPIIT, Udyam and NS IC/ CSPO Certificate for particular item as MSE OR · Sellers having Gem Verified Vendor Assessment for particular item OR And other As per Clause 4A of Gujarat State Purchase Policy -2024 (pg no. 06) *ePBG Percentage (%) - As per Gujarat State Procurement Policy 2 024: (Exempted- Enterprises Or Organizations Which Are Exempte d From Paying EMD and Purchase up to Rs. 5 Lakh / 3% of order val ue - Enterprises or Organizations Which Are Exempted from Paying"
+    },
+    {
+      "page": 8,
+      "text": "EMD / 5% of order value - For all other enterprises) * In case of any conflict in the terms and conditions given in this bi d in ATC, the Gujarat State Procurement Policy 2024 provisions sha ll prevail. However, if there is such an ATC which has no counterpa rt in the said policy, then the ATC shall prevail. IN THIS BID OF 24 Port Network Switch with latest configurati on BIDDER NON MSE/NSIC BIDDER MUST HAVE TO SUBMIT EMD AS PER GUJARAT STATE PROCUREMENT POLICY 2024. EMD AMOUNT IS RS 600/- (3% OF BID VALUE) ITEM MUST BE AS PER UPLOADED SPECIFICATIONS I N ATC DOCUMENTS * Turnover of the bidder The minimum average annual financial turnover or actual productio n of the bidder/ during the last three years, ending on 31st March o f the previous financial year, should be at least twice the bid value. (Bid Estimated value mentioned in bid document) Documentary evi dence in the form of certified Audited Balance Sheets of relevant p eriods or a certificate from the Chartered Accountant/ Cost Account ant indicating the financial turnover or actual production details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, t he average financial turnover or actual production in respect of the completed financial years after the date of constitution shall be tak en into account for this criteria. * Warranty period of the supplied products shall be 01 years from the date of final acceptance of goods or after completion of installa tion, commissioning & testing of goods (if included in the scope of s upply), at consignee location. The seller should guarantee the rectif ication of goods in case of any break down during the guarantee pe riod. Seller should have well established Installation, Commissionin g, Training, Troubleshooting and Maintenance Service group in INDI A for attending the after sales service."
+    },
+    {
+      "page": 9,
+      "text": "* The warranty provided by the bidder must be on site at consigne e place. * Product must be supplied as per minimum specification requirem ent of Bid/corrigendum. Any deviated offers will not be considered f or further proceeding. * Self-Declaration of Non- Blacklisted/Debarred/ Banned The Bidder shall submit a self-declaration confirming that they are not bankrupt and have not been blacklisted, debarred, or banned b y any government authority (State or Central) or any public-sector organization. * Sample Inspection and Pre-Dispatch Inspection (PDI) shall be perf ormed at a particular location in Gujarat Only. Note : Representation will be Accepted till Pre-Bid Meeting day only. *For any issues or assistance related to the tender, please contact at the following email ID and phone number. Ø MAIL ID : prin-det-mundra@gujarat.gov.in ask-iti-mundra@gujarat.gov.in Note : The Bidder has to upload Check list duly signed and stamp sample given in Buyer uploaded ATC document) with necessary details and submit documents in relevant windo w on GeM as per check list * Mandatory Documents List 1. Annexure – A (Checklist) 2. Annexure -1 (Local Content Declaration) Note- In case the bidder is supplier and not OEM, then the above m entioned MII certificate should be given by the OEM in their letter h ead. 3. Annexure – 2 (Self Declaration regarding blacklisting, financial st anding etc.) 4. Annexure – 3 (Service Centre Details)"
+    },
+    {
+      "page": 10,
+      "text": "5. EMD Deposit/ Udyam and NSIC/CSPO // Vendor Assessment / EM D Exemption Document as per Gujarat Procurement Policy- 2024 p oint - 4 A (a to h) NSIC certificate must clearly highlight and indicate the concerned p roduct for which EMD exemption is claimed 6. Turnover Document as per bid requirement 7. NO DEVIATION CERTIFICATE FOR THE PRODUCT . 12. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8250260",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138224"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 21-11-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138224"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 22-11-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138224"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138224"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Gujarat",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138224"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Labour And Employment Department Gujarat",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138224"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Directorate Of Employment & Training",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138224"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Det",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138224"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :adirpur-det@gujarat.gov.in Buyer Email id: ask-iti-mundra@gujarat.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138224"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138224"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Unmanaged L2 Ethernet Switch (PoE) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138224"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 1 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138224"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 1 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138224"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138224"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138224"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138224"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 20 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138224"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138224"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 20000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138224"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138224"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138224"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138224"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 13",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138224"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Description of Store: Unamanaged (no-configuration) Power Over Ethernet (PoE) Switch | Power Supply: Internal, External Adapter | Transfer Rate (in Mbps): 10/100 (Fast Ethernet)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138224"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Number of PoE RJ45 Ports: 24 | Number of Non-PoE RJ45 Ports: 0, 2, 4, 6 | Number of PoE+ RJ45 Ports: 24 | Uplink Port Type: None, SFP, SFP+ | Number of SFP Port: 0.0, 2.0, 4.0, 6.0 | Number of SFP+ Port: 0.0, 2.0, 4.0, 6.0 | Performance Features: Jumbo frame support, Auto Negotiation, Auto- MDI/MDIX Support (Medium Dependent Interface)/(Medium Dependent Interface- Crossover) | Warranty Support: 1, 2, 3 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138224"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Davda Chirag Bharatbhai | 370421,GOVT. INDUSTRIAL TRAINING INSTITUTE, MUNDRA, NEAR - SAMUDRA TOWNSHIP, OLD PORT ROAD, TA - MUNDRA, DI - KACHCHH | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138224"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138224"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Forms of EMD and PBG Bidders can also submit the EMD with Fixed Deposit Receipt made out or pledged in the name of A/C IMC SOCIETY OF ITI MUNDRA . The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of EMD, the FDR will be released in the favour of the bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Bidder has to upload scanned copy/ proof of the FDR along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date/ Bid Opening date 3. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of IMC SOCIETY OF ITI MUNDRA A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract. 4. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 5. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 6. Generic Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller. 7. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 8. Inspection Pre-dispatch inspection at Seller premises (Fee/Charges to be borne by the BUYER): Before dispatch, the goods will be inspected by Buyer / Consignee or their Authorized Representative or by Nominated External Inspection Agency (independently or jointly with Buyer or Consignee as decided by the Buyer) at Seller premises (or at designated place for inspection as declared / communicated by the seller) for their compliance to the contract specifications. Fee/Charges taken by the External inspection Agency and any external laboratories testing charges shall be borne by the Buyer. For in-house testing, the Sellers will provide necessary facilities free of cost. Seller shall notify the Buyer through e-mail about readiness of goods for pre-dispatch inspection and Buyer will notify the Seller about the Authorized Representative/ Nominated External Inspection Agency and the date for testing. The goods would be dispatched to consignee only after clearance in pre-dispatch inspection. Consignee's right of rejection as",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138224"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "per GTC in respect of the goods finally received at his location shall in no way be limited or waived by reason of the goods having previously been inspected, tested and passed by Buyer/ Consignee or its Nominated External Inspection Agency prior to the goods' shipment. While bidding, the sellers should take into account 7 days for inspection from the date of email offering the goods for inspection. Any delay in inspection beyond 7 days shall be on the part of the buyer and shall be regularised without Liquidated Damages. When there is requirement of submission the advance sample, the seller shall inform the buyer promptly through emails about the date of submission of sample to the buyer nominated Inspection agency. 9. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 10. Warranty Timely Servicing / rectification of defects during warranty period: After having been notified of the defects / service requirement during warranty period, Seller has to complete the required Service / Rectification within 15 days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the Buyer. 11. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses “The bidder must be required to supply all items/materials i n accordance with the specifications mentioned in the ATC ( Additional Terms & Conditions) of the bid.” This bid will be governed as per \"Gujarat State Procurement Policy 2024\" published by Industries and Mines Department, Gujarat. * Bidders are advised to check clauses of Gujarat State Procureme nt Policy 2024 (like EMD Exemption, Start-up related, Purchase Pref erence etc...) before participation. Clarification for EMD Exempted · MSE Required Udyam and NSIC/CSPO Certificate for particular ite m OR· Startup Required Startup Certificate of DPIIT, Udyam and NS IC/ CSPO Certificate for particular item as MSE OR · Sellers having Gem Verified Vendor Assessment for particular item OR And other As per Clause 4A of Gujarat State Purchase Policy -2024 (pg no. 06) *ePBG Percentage (%) - As per Gujarat State Procurement Policy 2 024: (Exempted- Enterprises Or Organizations Which Are Exempte d From Paying EMD and Purchase up to Rs. 5 Lakh / 3% of order val ue - Enterprises or Organizations Which Are Exempted from Paying",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138224"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "EMD / 5% of order value - For all other enterprises) * In case of any conflict in the terms and conditions given in this bi d in ATC, the Gujarat State Procurement Policy 2024 provisions sha ll prevail. However, if there is such an ATC which has no counterpa rt in the said policy, then the ATC shall prevail. IN THIS BID OF 24 Port Network Switch with latest configurati on BIDDER NON MSE/NSIC BIDDER MUST HAVE TO SUBMIT EMD AS PER GUJARAT STATE PROCUREMENT POLICY 2024. EMD AMOUNT IS RS 600/- (3% OF BID VALUE) ITEM MUST BE AS PER UPLOADED SPECIFICATIONS I N ATC DOCUMENTS * Turnover of the bidder The minimum average annual financial turnover or actual productio n of the bidder/ during the last three years, ending on 31st March o f the previous financial year, should be at least twice the bid value. (Bid Estimated value mentioned in bid document) Documentary evi dence in the form of certified Audited Balance Sheets of relevant p eriods or a certificate from the Chartered Accountant/ Cost Account ant indicating the financial turnover or actual production details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, t he average financial turnover or actual production in respect of the completed financial years after the date of constitution shall be tak en into account for this criteria. * Warranty period of the supplied products shall be 01 years from the date of final acceptance of goods or after completion of installa tion, commissioning & testing of goods (if included in the scope of s upply), at consignee location. The seller should guarantee the rectif ication of goods in case of any break down during the guarantee pe riod. Seller should have well established Installation, Commissionin g, Training, Troubleshooting and Maintenance Service group in INDI A for attending the after sales service.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138224"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "* The warranty provided by the bidder must be on site at consigne e place. * Product must be supplied as per minimum specification requirem ent of Bid/corrigendum. Any deviated offers will not be considered f or further proceeding. * Self-Declaration of Non- Blacklisted/Debarred/ Banned The Bidder shall submit a self-declaration confirming that they are not bankrupt and have not been blacklisted, debarred, or banned b y any government authority (State or Central) or any public-sector organization. * Sample Inspection and Pre-Dispatch Inspection (PDI) shall be perf ormed at a particular location in Gujarat Only. Note : Representation will be Accepted till Pre-Bid Meeting day only. *For any issues or assistance related to the tender, please contact at the following email ID and phone number. Ø MAIL ID : prin-det-mundra@gujarat.gov.in ask-iti-mundra@gujarat.gov.in Note : The Bidder has to upload Check list duly signed and stamp sample given in Buyer uploaded ATC document) with necessary details and submit documents in relevant windo w on GeM as per check list * Mandatory Documents List 1. Annexure – A (Checklist) 2. Annexure -1 (Local Content Declaration) Note- In case the bidder is supplier and not OEM, then the above m entioned MII certificate should be given by the OEM in their letter h ead. 3. Annexure – 2 (Self Declaration regarding blacklisting, financial st anding etc.) 4. Annexure – 3 (Service Centre Details)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138224"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "5. EMD Deposit/ Udyam and NSIC/CSPO // Vendor Assessment / EM D Exemption Document as per Gujarat Procurement Policy- 2024 p oint - 4 A (a to h) NSIC certificate must clearly highlight and indicate the concerned p roduct for which EMD exemption is claimed 6. Turnover Document as per bid requirement 7. NO DEVIATION CERTIFICATE FOR THE PRODUCT . 12. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138224"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8250429",
   "title": "Wool Felt",
   "description": "Wool Felt",
-  "organisation": "Bhakra Beas Managemet Board ",
-  "ministry": "Ministry of Power",
-  "department": "Bhakra Beas Managemet Board ",
+  "organisation": "Bhakra Beas Management Board",
+  "ministry": "Ministry Of Power",
+  "department": "Bhakra Beas Managemet Board",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Wool Felt",
   "quantity": 3,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-06T15:46:33+05:30",
   "closing_at": "2026-11-27T16:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10138421"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "Buyer technical specification",
+      "url": "https://mkp.gem.gov.in/catalog_data/catalog_support_document/buyer_documents/389082/54/78/703/CatalogAttrs/SpecificationDocument/2026/11/6/scope_of_supply_wool_felt_2026-11-06-11-17-52_0f0e74d8b5a5a6fad557653a7185a477.pdf",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261106",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +49,161 @@
   ],
   "source_fetched_at": "2026-11-07T04:41:20.287Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-28T16:00:00+05:30",
+  "office": "Bhakra Beas Management Board, Chandigarh",
+  "buyer_email": "bphcadproc@bbmb.nic.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-07T06:53:55.208080+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "cd9944b89ec05bf049b39db6f106a5008f5e07df3ec8b4d49ada47b5845c774b",
+  "document_pages": 7,
+  "eligibility": [
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Kaushal Kumar Prajapat",
+      "address": "140124,Bhakra Beas Management Board, XEN STORE POWER WING NANGAL",
+      "quantity": 3,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 3. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses"
+    },
+    {
+      "page": 5,
+      "text": "SCOPE OF SUPPLY Specification of Wool Felt (Width x Length) = 30 inch x 75 inch Wool Content:- 95% Min. Thickness:- 14 mm Density:- 0.34 g/cm3 (Tolerance on Thickness and Density:- 10%) Tensile Strength: 2.4 N/mm2. Min. Splitting Resistance: 40 N/mm2. Min. IS:- 1719-2000 (Tentative weight 30 kg per sheet) ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8250429",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138421"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 27-11-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138421"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 28-11-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138421"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138421"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Power",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138421"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Bhakra Beas Managemet Board",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138421"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Bhakra Beas Management Board",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138421"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Bhakra Beas Management Board, Chandigarh",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138421"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :bbmb-gempu@bbmb.nic.in Buyer Email id: bphcadproc@bbmb.nic.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138421"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 3",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138421"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Wool Felt",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138421"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138421"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138421"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138421"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138421"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138421"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Kaushal Kumar Prajapat | 140124,Bhakra Beas Management Board, XEN STORE POWER WING NANGAL | 3 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138421"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 3. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138421"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "SCOPE OF SUPPLY Specification of Wool Felt (Width x Length) = 30 inch x 75 inch Wool Content:- 95% Min. Thickness:- 14 mm Density:- 0.34 g/cm3 (Tolerance on Thickness and Density:- 10%) Tensile Strength: 2.4 N/mm2. Min. Splitting Resistance: 40 N/mm2. Min. IS:- 1719-2000 (Tentative weight 30 kg per sheet) .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10138421"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

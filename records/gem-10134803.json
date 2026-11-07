@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8247278",
   "title": "Goods Transportation service - Monthly Based Service - Within city; Dangerous/Hazardous; Containeri",
   "description": "Goods Transportation service - Monthly Based Service - Within city; Dangerous/Hazardous; Containerized Truck",
-  "organisation": "COAL INDIA LIMITED",
-  "ministry": "Ministry of Coal",
-  "department": "COAL INDIA LIMITED",
+  "organisation": "Mahanadi Coalfields Limited",
+  "ministry": "Ministry Of Coal",
+  "department": "Coal India Limited",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Goods Transportation service - Monthly Based Service - Within city; Dangerous/Hazardous; Containeri",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 48300,
   "published_at": "2026-11-06T13:17:21+05:30",
   "closing_at": "2026-11-16T13:00:00+05:30",
   "status": "active",
@@ -27,6 +27,16 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261106",
+      "page": 16
+    },
+    {
+      "name": "Service Level Agreement",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/bidsla/102714231848809",
+      "page": 16
     }
   ],
   "tags": [
@@ -34,5 +44,366 @@
   ],
   "source_fetched_at": "2026-11-07T04:48:00.846Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-17T13:00:00+05:30",
+  "office": "Mcl Sambalpur Odisha",
+  "buyer_email": "so-enm-jaga.mcl@coalindia.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Single Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 38,
+  "offer_validity": "120 (Days)",
+  "estimated_bid_value": 3862772,
+  "contract_period": "3 Year(s)",
+  "source_document_fetched_at": "2026-11-07T13:08:20.760724+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "4a4c2999582d919595a6e6dd108bae9969bc826051b96c0eb4e8379cd6930ce1",
+  "document_pages": 16,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Deenabandhu Sethi",
+      "address": "759103,Mahanadi Coalfields Limited Office Of the General Manager, Jagannath Area, PO- Dera, Talcher",
+      "quantity": 1,
+      "quantity_label": "Number of Vehicles for regular basis",
+      "delivery_days": null,
+      "additional_requirements": "Tracking System (GPS) : 1 Total No. of Trucks required – On call basis (If not required please input 0) : 0 Estimated Number of Trips during contract Period : 3000 Duration in months (for the trucks required on call basis) : 0 Duration in months (For Regular basis) : 36"
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Type of Transport",
+          "value": "Within city"
+        },
+        {
+          "group": "Core",
+          "parameter": "Nature of Goods",
+          "value": "Dangerous/Hazardous"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type of Truck",
+          "value": "Containerized Truck"
+        },
+        {
+          "group": "Core",
+          "parameter": "Size / Weight of vehicle",
+          "value": "Load carrying capacity minimum 1500kg"
+        },
+        {
+          "group": "Core",
+          "parameter": "Usage Variant",
+          "value": "4000 kms X 365 Hrs"
+        },
+        {
+          "group": "Core",
+          "parameter": "Area of Operation",
+          "value": "Hilly + Plain area"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Loading",
+          "value": "NA"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Unloading",
+          "value": "NA"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Tracking System (GPS)",
+          "value": "Yes"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "3",
+          "parameter": "Transit Insurance",
+          "value": "NA"
+        },
+        {
+          "group": "3",
+          "parameter": "Handling",
+          "value": "NA"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic"
+    },
+    {
+      "page": 5,
+      "text": "OPTION CLAUSE 25% : The buyer can increase or decrease the contract quantity or contract duration up to 25 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 25 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 25 percent with the consent of the service provider 2. Generic 1. The Seller shall not assign the Contract in whole or part without obtaining the prior written consent of buyer. 2. The Seller shall not sub-contract the Contract in whole or part to any entity without obtaining the prior written consent of buyer. 3. The Seller shall, notwithstanding the consent and assignment/sub-contract, remain jointly and severally liable and responsible to buyer together with the assignee/ sub-contractor, for and in respect of the due performance of the Contract and the Sellers obligations there under. 3. Purchase Preference (Centre) Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to avail the Purchase preference, the bidder must be the manufacturer of the offered product in case of bid for supply of goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of 100% of total value. 4. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 5. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 6. Payment PAYMENT OF SALARIES AND WAGES: Service Provider is required to pay Salaries / wages of contracted staff deployed at buyer location first i.e. on their own and then claim payment from Buyer alongwith all statutory documents like, PF, ESIC etc. as well as the bank statement of payment done to staff. 7. Forms of EMD and PBG Bidders can also submit the EMD with Account Payee Demand Draft in favour of MCL JAGANNATH AREA payable at TALCHER . Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 8. Forms of EMD and PBG Bidders can also submit the EMD with Banker’s Cheque in favour of"
+    },
+    {
+      "page": 6,
+      "text": "MCL JAGANNATH AREA payable at TALCHER . Bidder has to upload scanned copy / proof of the BC along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 9. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in favour of MCL JAGANNATH AREA payable at TALCHER . After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of contract. 10. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of MCL JAGANNATH AREA A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract. 11. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses FOLLOWING TERMS & CONDITIONS TO BE INCORPORATED IN ATC OF BID DOCUMENT: 1. Bid Estimated value (In Rs.) Period of Completion Description of work (Total Value including GST @ (In Days) 18% -ITC available to MCL) Hiring of one no. Explosive van havi ng 1 plus 1 seating capacity & 1.5 T on load carrying capacity van body/ container (Diesel) on 12 hours duty Rs. 38,62,772.00 1095 Days (One driver with staggered rest), m ax run 4000 km/month for 1095 da ys in a period of Three years for use at Jagannath OCP, Jagannath Area. 2. The Vehicle will normally be engaged for 12 / 24 (non-shift duty)/ 24 (shift duty in mines) hours a day with engagement of 01(with staggered rest)/ 02 drivers (with staggered rest)/ 03 drivers r espectively. 3. The first date of registration of the vehicle(s) accepted in this tender: on or after Dt.16/03/2024. 4. Mileage/ average of KM/Litre applicable for required type of vehicle is 14. 5. The bidder should either own or have a hiring agreement with the owner(s) of vehicle(s) which is/a"
+    },
+    {
+      "page": 7,
+      "text": "re offered to be engaged. The vehicle(s) should be registered under commercial category. 1. After generation of Contract document in GeM Portal, the bidder will have to submit all statutory documents e.g Taxi registration, RC book, Hiring agreement (if applicable), Fitness Certificate, poll ution certificate, Road tax clearance, Latest First Party Insurance (comprehensive policy) paid up t o date, valid driving license of the assigned driver, as required under Motor vehicle Act, and other Govt. Acts/ registration for the deployed vehicle along with Pre Contract Integrity Pact as per Anne xure-I of ATC (if applicable). After submission of Performance Security amount by the bidder within 15 days of award of contract (as per GTC of GeM) and upon verification from the issuing bank, Wo rk Order will be issued. (The bidder must submit Valid license of Competent Authority to t ransport explosives as per relevant Act/Rule e.g. Indian explosive Act 1884 Indian Expl osive Rule-2008 etc.) Note: Hiring agreement should contain the GeM Contract No. & date. 6. If L1 bidder backs out (i.e. Techno commercially established L1 bidder), the EMD will be forfeited a nd the bidder will be debarred for minimum one (1) year from participating in tenders in MCL. 7. After award of contract, Successful Bidder can upload scanned copy of the DD/FDR/PBG in place of PBG and has to ensure delivery of hard copy to the original DD/FDR/PBG to the Buyer within 15 da ys of award of contract. In case the successful bidder fails to submit the Performance Security with in the stipulated time then the award of work shall be cancelled with forfeiture of the bid security / earnest money. Additionally, the company shall debar such defaulting contractor from participatin g in future tenders of MCL for a minimum period of one year from the date of issue of such letter. 8. If the contractor, without reasonable cause or valid reasons, commits default in commencing the w ork within the aforesaid time limit or fail to execute the work satisfactorily, the company shall, wit hout prejudice to any other right or remedy, be at liberty, by giving 15 day’s notice in writing to th e contractor to commence the work, failing which to forfeit the Earnest Money, deposited by him a nd to rescind the Contract document generated on GeM/Work Order and also to debar the contract or to take part in the future re-tender. The Company may debar such defaulting Contractors from participating in future Tenders for a mi nimum period of 1 (One) year in MCL. 9. It will be the responsibility of the contractor to maintain all statutory documents e.g Taxi registrati on, RC book, Fitness Certificate, pollution certificate, Road tax clearance, Latest First Party Insuran ce (comprehensive policy) paid up to date. Goods and Services Tax Registration (if required), vali d driving license of the assigned driver, as required under Motor vehicle Act and other Govt. Acts/ r egistration. 10. The interior of the vehicle should be maintained in clean and hygienic condition. 11. For the daily routine service, the vehicle should not be withdrawn without prior intimation. In case the vehicle remains out of the road due to any break down, the contractor shall have to arrange a standby vehicle of same class in good working condition as replacement. 12. Penalty: Penalty clause is applicable as per existing clauses of SLA. In Addition to that, if Buyer d oes not hire vehicle from third party then the penalty amount will be calculated as per the actual v ehicle hiring cost of the contract along with existing penalty clauses of SLA. 13. If the hired vehicle remains under breakdown for more than 10 days in a month and at a suitable r eplacement is not given, the contract will be terminated and the security money deposited with th e Management will be forfeited. 14. The driver(s) of the vehicle, employed by the contractor should have valid driving license. He/They should be well behaved. He/They should be in clean and well dressed. He/They should not be conn ected with any unsocial activities. He/They should be free from alcohol drinking habit. The contrac tor of the vehicle will be held responsible for the conduct and behavior of driver(s). If behaviour of driver(s) is not satisfactory, he/they should be replaced within 48 hours with a good driver. 15. Temporary Permit/Toll Tax /Parking Charges, if any, within the station / out-station / other States, when the vehicle runs for official work, will be reimbursed by the Company subject to the producti on of documentary evidence, dully signed by the controlling officer. 16. The Bank payment statement, wage sheet and EPF/CMPF & CMPS deduction/deposit has to be sub"
+    },
+    {
+      "page": 8,
+      "text": "mitted (Hard copy) at the time of Bill processing every month. Based on that Labour Payment Cert ificate (LPC) will be issued by MCL. 17. All the contractor workers shall be covered with the Aadhaar Enabled Biometric Attendance Syste m (AEBAS) for the payment of wages. 18. The contractors shall register themselves on the Contract Labour Payment Management Portal (CL PMP) of Coal India Limited within 30 days after work order and will have to enter and update perio dically the following details in the portal: a. Work Order details b. Contractor workers details and Wages payment details in respect of each Work Order. 19. The work shall be commenced as per the date mentioned in the work order. 20. In case of any accident of the vehicle or to the driver, MCL will not be held responsible or liable for any payment of compensation to the contractor or to his driver. 21. The MCL undertakes no liability if the vehicle is damaged, set on fire etc. by any mob or by any person or by accident during the engagement/hire in progress. 22. If the vehicle is seized by the authority under law or for election duty, MCL will not be liable for the same & no payment of whatsoever nature will be demanded for such event. In such condition the contractor will provide alternate vehicle for MCL without delay. 23. The vehicle movement register has to be maintained by the Service Provider & the same to be cert ified by the controlling officer on daily basis. If desired the same has to be produced to the Consign ee/Controlling Officer of the Vehicle. 24. Engineer-In-Charge: Staff Officer (E&M) will be the Engineer-in-Charge of the concerned area and t he user of vehicle will be the designated officer in-charge for this contract. 25. The Contractor and Driver of the vehicle will have to maintain phone connection and Mobile for ea sy access. 26. The contractor shall be responsible for availability of sufficient diesel in the tank of the vehicle and in no case driver of the vehicle should ask for money from the user for filling of diesel etc. 27. The contractor shall keep adequate number of vehicles for satisfactory execution of the work. 28. Vehicles in good and safe condition having valid fitness certificate permits/licenses etc. and in res pect of which the required taxes/fees have been deposited and which are properly covered with 1s t party insurance, shall be deployed for the work. 29. The contractor shall at his own cost, arrange for regular checking/ maintenance/ repair of the vehi cles and keep them in good and safe running conditions all the time. 30. Only experience, skilled and disciplined drivers of sound health and good behavior& having valid d riving license shall be deployed by the contractor for driving vehicles supplied to MCL. In no case a ny un-authorized driving of the vehicles shall be permitted by the contractor. 31. Vehicle will run inside the state of Odisha. 32. Vehicle should always be in an excellent running condition, with spare wheel (stepney) & tyres sho uld be in good condition & exterior paintings not defaced. 33. The vehicle should run only on the diesel/petrol& not on gas or kerosene. 34. The driver should be in white dress at the cost of contractor. 35. Seats of the vehicles must be covered with clean & white Turkish towels. 36. Driver of the vehicle should open the door of the car/vehicle for the user & after properly sitting of the user he will close the door & then he will go to driving seat. 37. Music system of the vehicle should be in working condition. 38. Driver of vehicle should keep his mobile phone switched off, while driving the vehicle."
+    },
+    {
+      "page": 9,
+      "text": "39. The driver of the vehicle should not be in drunken condition while on duty. 40. The contractor will supply the vehicles on Sundays & holidays also, if required, at the same rate an d terms and condition. 41. The contractor shall familiarize himself and fully comply with the provisions of all the Acts/Rule/Re gulations/Bye-laws and orders of the Local authority/ Municipality/State Govt./Central Govt. applic able to the worker. Mines Act. Payment of Wages Act, Motor Vehicle Act, Workmen’s Compensati on Act, etc. and shall be fully responsible and liable for due observance of the same. The compan y shall have no responsibility/liability whatsoever on these accounts and the contractor shall fully i ndemnify the Company against any claim/dispute. 42. The contractor may request offline for change of vehicles to be deployed by him at any time at his option as follows: The contractor may deploy any other vehicle(s) of same class owned by him subsequently or hired subsequently through a hiring agreement, of the same or lower age than the originally offered veh icle(s). Moreover, such requests will be considered by the department on the merit of the individual case. In case, the request for change of vehicle/s is not accepted by the department then the bidder has to deploy the originally offered vehicle/s. 43. Legal Status of the bidder: Bidder need to submit any one of the following document at the tim e of bidding: 1. Affidavit or any other document to prove proprietorship/individual status of the bidder. 2. Partnership deed containing name of partners. 3. Memorandum & Article of Association with certificate of incorporation containing name of bidde r 44. Application of Price Variation Clause (if applicable): 44.1 Escalation/De-escalation for Labour: The amount paid to the contractor for the work don e shall be adjusted for increase or decrease in the cost of labour and the cost shall be calculated q uarterly in accordance with the following formula: A L - Lo V = W x ----- x --------- L 100 Lo Where: V = Variation in labour cost i.e., increase or decrease in the amount in rupees to be paid or recov L ered. W = Value of work done during the period under reckoning to which the escalation/de-escalation relates as indicated in clause-44.11. A = Component of Labour expressed as percentage of total value of work is 26.12. Lo = Minimum wages for unskilled workers payable as per the Minimum Wages Act/Rules of the St ate or Central Govt., whichever is more, applicable to the place of work as on the last date stipulated for receipt of the price bids or revised price bids, whichever is later."
+    },
+    {
+      "page": 10,
+      "text": "L = Revised minimum wages of unskilled worker corresponding to Lo during the period to which th e escalation/de-escalation relates. 44.11 While calculating the value of \"W\" the following may be noted : The cost on which th e escalation will be payable shall be reckoned as 85 % of the cost of work as per the bills to whi ch escalation relates, and from this amount the value of materials supplied or services rendered at the prescribed charges under the relevant provisions of the contract, and proposed to be recovered in the particular bill, shall be deducted before the amount of compensation for escalation or de-escalation is worked out. In the case of materials brought to site for which any secured advance is included in the bill, the full value of such materials as assessed by the Engin eer In Charge (and not the reduced amount for which secured advance has been paid) shall be i ncluded in the cost of work done for operation of this clause. Similarly, when such materials are incorporated in the work and the secured advance is deducted from the bill, the full-assessed v alue of the materials originally considered for operation of this clause should be deducted from the cost of the work shown in the bill, running or final. Further the cost of work shall not include any work for which payment is made at prevailing market rates. 44.12 In the event wages of labour required for execution of the work decreases, there shall be downward adjustment of the cost of work so that wages of labour shall be deductible from the c ost of work under this contract and in this regard the formulae herein before stated under this c lause shall mutatis/mutandis apply. No such adjustment for the increase / decrease in material price and/ or wages of labour before mentioned would be made in case of contracts in which th e stipulated period of completion of the work is six (6) months or less. 44.2 PAYMENT OF PRICE VARIATION ON PETROL/ DIESEL: If the prices of Petrol/ Diesel in creases or decreases, the contractor shall be compensated for such increase or recoveries shall be made from the dues of the contractor for such decrease as per provisions detailed below an d the amount of the contract shall accordingly be varied, subject to the condition that such com pensation for variation in prices shall be available only for the work done during the stipulated period of the contract including such period for which the contract is validly extended under the provisions of the contract without any penal action. If the contract is to be extended beyond the stipulated period for completion of the work due to fault on the part of the contractor, escalatio n on prices should not be allowed further if not provided otherwise in the accepted contract. Suc h compensation for variation in the prices when due shall be worked out based on the following provisions: 44.21: The base price of petrol/diesel for working out such price variation (escalation/de-escalati on) shall be the price of petrol/ HSD (High Speed Diesel) specified in the tender notice. 44.22: Bench marking of price variation on account of petrol/ diesel will be done on the basis of price of the petrol/diesel of the retail outlet of IOC/BP (PSUs), nearest to the worksite and the pri ce variation will be admissible on simple average of petrol/ diesel rate (nearest to the worksite) of the period considered for price variation. 44.23: Price Variation on Petrol/ Diesel : The amount paid to the contractor for the work done s hall be adjusted for increase or decrease in the cost of petrol/diesel and the cost shall be calcul ated in accordance with the following formula: 1 V f = K x ----- x (F – Fo) B Vf = Variation in Petrol/Diesel cost i.e., increase or decrease in the amount in rupees to be paid or recovered. K = Actual KM run of the vehicle on that particular period considered for price variation."
+    },
+    {
+      "page": 11,
+      "text": "B = Mileage of the vehicle (Km/litre) as specified in the tender notice. F = Simple average of petrol/ diesel rate (nearest to the work site) of the period considered for pri ce variation. Fo = Base price of petrol/diesel, applicable to the place of work as taken in the approved estimate which is equals to 102.15. 44.3 Application of Price Variation Clause during extended period of Contracts. The Price Variation Clause as stated above will be applied for extended time frame of a contract b y the principle stated as under: i) Normally, if and when it is understood that a contract is not going to be completed within the scheduled time period, the contract is kept operative by extending the time of compl etion provisionally. During this provisional extended period, the operation of the Price Va riation Clause will remain suspended. ii) If and when it is decided at the end of the successful completion of the work that the del ay was due to causes not attributable to the contractor, then the Price Variation Clause w ill be revived and applied as if the scheduled date of completion has been shifted to the approved extended date. iii) If it is decided at the end of successful completion of the work that the delay was due to the fault of the contractor, then the Price Variation Clause will not be revived for the purp ose of escalation but shall be revived and applied for the purpose of de-escalation and no further payment will be made to the contractor on account of any escalation during this p eriod but recovery shall be made for de-escalation, if any. Additionally, the Clause related to Compensation for delay will be applied. No payment will be made by applying “FROZEN INDICES” under any circumstances. If the wages of labour required for execution of the work increase or decrease, the contract or shall be compensated for such increase or recoveries will be made from the bills for such decrease, as per provisions detailed hereafter: a) The amount of the contract shall accordingly be varied subject to the condition that suc h compensation for escalation/ de-escalation in price shall be available only for the work do ne during the stipulated period of the contract including such period for which the contract is validly extended under the provisions of the contract without any penal action. The Price Variation Clause shall not be applicable for works for which stipulated period of completion is six months or less. b) The base date for working out such escalation/de-escalation shall be the last date on w hich the bids (inclusive of price part) or revised price bids (inclusive of revised offer) were s tipulated to be received. c) The compensation for escalation or recoveries to be made shall be worked out at quarterly intervals and shall be with respect to the cost of work done during the previous t hree months. The first such payment will be made at the end of three months after the mo nth (excluding) in which the tender was accepted and thereafter at three months' interval. 45. When the period fixed for the completion of the contract is about to expire, the question of extensi on of the contract may be considered at the instance of the Contractor or the Department or of bot h. The extension will have to be by party's agreement, express or implied. The extension of contract will be at the existing rate or the rate finalized in the next tender, which ever is lower."
+    },
+    {
+      "page": 12,
+      "text": "46. Termination, Cancellation, Suspension and Foreclosure of the Contract: (A) The company shall, in addition to other remedial steps to be taken as provided in the co nditions of contract be entitled to cancel the contract in full or in part, and whether the date of completion has or has not elapsed, by notice in writing if the contractor:- a) makes default in proceeding with the works with due diligence and continues to do so even afte r a notice in writing from the Engineer-in-Charge, then on the expiry of the period as specified in t he notice Or b) commits default/breach in complying with any of the terms and conditions of the contract and d oes not remedy it or fails to take effective steps for the remedy to the satisfaction of the Engineer- in-Charge, then on the expiry of the period as may be specified by the Engineer-in-Charge in a not ice in writing. Or c) obtains a contract with the company as a result of ring tendering or other non-bonafide method s of competitive tendering Or d) shall offer or give or agree to give any person in the service of the company or to any other per son on his behalf any gift or consideration of any kind as an inducement or reward for act/acts of f avour in relation to the obtaining or execution of this or any other contract for his company. Or e) fails to complete the work or items of work with individual dates of completion, on or before the date/dates of completion or as extended by the company, then on the expiry of the p eriod as may be specified by the Engineer-in-Charge in a notice in writing. Or f) transfers, sublets, assigns the entire work or any portion thereof without the prior approval in wr iting from the Engineer-in-Charge. The Engineer-in-Charge may by giving a written notice, cancel t he whole contract or portion of it in default. (B) The contract shall also stand terminated under any of the following circumst ances: a) If the contractor being an individual in the case of proprietary concern or in the case of a partne rship firm any of its partners is declared insolvent under the provisions of Insolvency Act for the ti me being in force, or makes any conveyance or assignment of his effects or composition or arrang ement for the benefit of his creditors amounting to proceedings for liquidation or composition und er any Insolvency Act. b) In the case of the contractor being a company, its affairs are under liquidation either by a resolu tion passed by the contractors company or by an order of court, not being a voluntary liquidation p roceedings for the purpose of amalgamation or reorganization, or a receiver or manager is appoint ed by the court on the application by the debenture holders of the contractor's company, if any."
+    },
+    {
+      "page": 13,
+      "text": "c) If the contractor shall suffer an execution being levied on his/their goods, estates and allow it to be continued for a period of 21 (twenty-one) days. d) On the death of the contractor being a proprietary concern or of any of the partners in the case of a partnership concern and the company is not satisfied that the legal representative of the d eceased proprietor or the other surviving partners of the partnership concern are capable of carryi ng out and completing the contract. The decision of the company in this respect shall be final an d binding which is to be intimated in writing to the legal representative or to the partnership conce rn. (C) On cancellation of the contract or on termination of the contract, the Engine er-in-charge shall have powers: The contractor whose contract is terminated shall not be allowed to participate in future bidding i n MCL for period of minimum twelve months. In such an event, the contractor shall be liable for loss/damage suffered by the employer because of action under this clause and to compensate for this loss or damage, the employer shall be entitl ed to recover higher of the following: i) Forfeiture of security deposit at disposal of the employer. Or ii) 10% of value of incomplete work. The value of the incomplete work shall be calculated for the it ems and quantities remaining incomplete (as per provision of contract) at the contract rates inclu ding price variation as applicable on the date, when notice in writing for termination of work was i ssued to the contractor. The amount to be recovered from the contractor as determined above, shall, without prejudice to any other right or remedy available to the employer as per law or as per agreement, will be recov ered from any money due to the contractor on any account or under any other contract and in the event of any shortfall, the contractor shall be liable to pay the same within 30 days. In case of failu re to pay the same the amount shall be debt payable. In the event of above course being adopted by the Engineer-in-charge, the contractor shall have n o claim to compensation for any loss sustained by him by reasons of his having purchased materia ls, equipment or entered into agreement or made advances on any account or with a view to the execution of work or performance of the contract. And in case action is taken under any of provisi on aforesaid, the contractor shall not be entitled to recover or to be paid any sum for any work the reof or actually performed under this contract unless and until the engineer-in-charge has certified in writing the performance of such work and value payable in respect thereof and he shall only be entitled to be paid the value so certified. The need for determination of the amount of recovery of any extra cost/expenditure or of any loss"
+    },
+    {
+      "page": 14,
+      "text": "/damage suffered by the company shall not however arise in the case of termination of the contract for death/demise of the contractor as stated in 46(B)(d). (D) Suspension of Work: The Company shall have power to suspend the work. The contractor shall on receipt of the order i n writing of Engineer-in -charge (whose decision shall be final and binding on the contractor), susp end the progress of work or any part thereof for such time in such manner as the Engineer-in-Char ge may consider necessary so as not to cause any damage, or endanger the safety thereof for any of the following reasons: a) on account of any default on the part of the contractor, or b) for proper execution of the works, or part thereof, for reasons other than the default of the contractor or, c) for safety of the works, or part thereof. The contractor shall, during such suspension properly protect and ensure the works to the extent necessary and carry out the instruction of the Engineer-in-charge. If the suspension is ordered for reasons (b) & (c), the contractor shall be entitled to an extension of time equal to the period of ev ery such suspension. This shall also be applicable for completion of the item or group of items of t he work for which a separate period of completion as specified in the contract and of which the su spended work forms a part. The contractor shall carry out the instructions given in this respect by the Engineer-In Charge & if such suspension exceeds 45 (forty five) days, the contractor will be compensated on mutually agr eed terms. (E) Foreclosure of contract: If at any time after acceptance of the tender the company decides to abandon or reduce the scope of work for any reason whatsoever the company, through its Engineer-in-Charge, shall give notice in writing to that effect to the contractor and contractor shall act accordingly in the matter. In the event of abandonment, the contractor shall have no claim to any payment of compensation. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8247278",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 16-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 17-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Coal",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Coal India Limited",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Mahanadi Coalfields Limited",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Mcl Sambalpur Odisha",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :cgm-mm.mcl@coalindia.in Buyer Email id: so-enm-jaga.mcl@coalindia.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Goods Transportation service - Monthly Based Service - Within city; Dangerous/Hazardous; Containerized Truck",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 3 Year(s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "(( )) / Estimated Bid Value in INR (Inclusive of all taxes): 3862772",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 48300",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 48300",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 38",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 2,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Type of Transport: Within city | Nature of Goods: Dangerous/Hazardous | Type of Truck: Containerized Truck | Size / Weight of vehicle: Load carrying capacity minimum 1500kg | Usage Variant: 4000 kms X 365 Hrs | Area of Operation: Hilly + Plain area | Loading: NA | Unloading: NA | Tracking System (GPS): Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Transit Insurance: NA | Handling: NA",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Number of Vehicles for regular basis | Additional Requirement: 1 | Deenabandhu Sethi | 759103,Mahanadi Coalfields Limited Office Of the General Manager, Jagannath Area, PO- Dera, Talcher | 1 | Tracking System (GPS) : 1 Total No. of Trucks required – On call basis (If not required please input 0) : 0 Estimated Number of Trips during contract Period : 3000 Duration in months (for the trucks required on call basis) : 0 Duration in months (For Regular basis) : 36",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "OPTION CLAUSE 25% : The buyer can increase or decrease the contract quantity or contract duration up to 25 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 25 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 25 percent with the consent of the service provider 2. Generic 1. The Seller shall not assign the Contract in whole or part without obtaining the prior written consent of buyer. 2. The Seller shall not sub-contract the Contract in whole or part to any entity without obtaining the prior written consent of buyer. 3. The Seller shall, notwithstanding the consent and assignment/sub-contract, remain jointly and severally liable and responsible to buyer together with the assignee/ sub-contractor, for and in respect of the due performance of the Contract and the Sellers obligations there under. 3. Purchase Preference (Centre) Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to avail the Purchase preference, the bidder must be the manufacturer of the offered product in case of bid for supply of goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of 100% of total value. 4. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 5. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 6. Payment PAYMENT OF SALARIES AND WAGES: Service Provider is required to pay Salaries / wages of contracted staff deployed at buyer location first i.e. on their own and then claim payment from Buyer alongwith all statutory documents like, PF, ESIC etc. as well as the bank statement of payment done to staff. 7. Forms of EMD and PBG Bidders can also submit the EMD with Account Payee Demand Draft in favour of MCL JAGANNATH AREA payable at TALCHER . Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 8. Forms of EMD and PBG Bidders can also submit the EMD with Banker’s Cheque in favour of",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "MCL JAGANNATH AREA payable at TALCHER . Bidder has to upload scanned copy / proof of the BC along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 9. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in favour of MCL JAGANNATH AREA payable at TALCHER . After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of contract. 10. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of MCL JAGANNATH AREA A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract. 11. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses FOLLOWING TERMS & CONDITIONS TO BE INCORPORATED IN ATC OF BID DOCUMENT: 1. Bid Estimated value (In Rs.) Period of Completion Description of work (Total Value including GST @ (In Days) 18% -ITC available to MCL) Hiring of one no. Explosive van havi ng 1 plus 1 seating capacity & 1.5 T on load carrying capacity van body/ container (Diesel) on 12 hours duty Rs. 38,62,772.00 1095 Days (One driver with staggered rest), m ax run 4000 km/month for 1095 da ys in a period of Three years for use at Jagannath OCP, Jagannath Area. 2. The Vehicle will normally be engaged for 12 / 24 (non-shift duty)/ 24 (shift duty in mines) hours a day with engagement of 01(with staggered rest)/ 02 drivers (with staggered rest)/ 03 drivers r espectively. 3. The first date of registration of the vehicle(s) accepted in this tender: on or after Dt.16/03/2024. 4. Mileage/ average of KM/Litre applicable for required type of vehicle is 14. 5. The bidder should either own or have a hiring agreement with the owner(s) of vehicle(s) which is/a",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "re offered to be engaged. The vehicle(s) should be registered under commercial category. 1. After generation of Contract document in GeM Portal, the bidder will have to submit all statutory documents e.g Taxi registration, RC book, Hiring agreement (if applicable), Fitness Certificate, poll ution certificate, Road tax clearance, Latest First Party Insurance (comprehensive policy) paid up t o date, valid driving license of the assigned driver, as required under Motor vehicle Act, and other Govt. Acts/ registration for the deployed vehicle along with Pre Contract Integrity Pact as per Anne xure-I of ATC (if applicable). After submission of Performance Security amount by the bidder within 15 days of award of contract (as per GTC of GeM) and upon verification from the issuing bank, Wo rk Order will be issued. (The bidder must submit Valid license of Competent Authority to t ransport explosives as per relevant Act/Rule e.g. Indian explosive Act 1884 Indian Expl osive Rule-2008 etc.) Note: Hiring agreement should contain the GeM Contract No. & date. 6. If L1 bidder backs out (i.e. Techno commercially established L1 bidder), the EMD will be forfeited a nd the bidder will be debarred for minimum one (1) year from participating in tenders in MCL. 7. After award of contract, Successful Bidder can upload scanned copy of the DD/FDR/PBG in place of PBG and has to ensure delivery of hard copy to the original DD/FDR/PBG to the Buyer within 15 da ys of award of contract. In case the successful bidder fails to submit the Performance Security with in the stipulated time then the award of work shall be cancelled with forfeiture of the bid security / earnest money. Additionally, the company shall debar such defaulting contractor from participatin g in future tenders of MCL for a minimum period of one year from the date of issue of such letter. 8. If the contractor, without reasonable cause or valid reasons, commits default in commencing the w ork within the aforesaid time limit or fail to execute the work satisfactorily, the company shall, wit hout prejudice to any other right or remedy, be at liberty, by giving 15 day’s notice in writing to th e contractor to commence the work, failing which to forfeit the Earnest Money, deposited by him a nd to rescind the Contract document generated on GeM/Work Order and also to debar the contract or to take part in the future re-tender. The Company may debar such defaulting Contractors from participating in future Tenders for a mi nimum period of 1 (One) year in MCL. 9. It will be the responsibility of the contractor to maintain all statutory documents e.g Taxi registrati on, RC book, Fitness Certificate, pollution certificate, Road tax clearance, Latest First Party Insuran ce (comprehensive policy) paid up to date. Goods and Services Tax Registration (if required), vali d driving license of the assigned driver, as required under Motor vehicle Act and other Govt. Acts/ r egistration. 10. The interior of the vehicle should be maintained in clean and hygienic condition. 11. For the daily routine service, the vehicle should not be withdrawn without prior intimation. In case the vehicle remains out of the road due to any break down, the contractor shall have to arrange a standby vehicle of same class in good working condition as replacement. 12. Penalty: Penalty clause is applicable as per existing clauses of SLA. In Addition to that, if Buyer d oes not hire vehicle from third party then the penalty amount will be calculated as per the actual v ehicle hiring cost of the contract along with existing penalty clauses of SLA. 13. If the hired vehicle remains under breakdown for more than 10 days in a month and at a suitable r eplacement is not given, the contract will be terminated and the security money deposited with th e Management will be forfeited. 14. The driver(s) of the vehicle, employed by the contractor should have valid driving license. He/They should be well behaved. He/They should be in clean and well dressed. He/They should not be conn ected with any unsocial activities. He/They should be free from alcohol drinking habit. The contrac tor of the vehicle will be held responsible for the conduct and behavior of driver(s). If behaviour of driver(s) is not satisfactory, he/they should be replaced within 48 hours with a good driver. 15. Temporary Permit/Toll Tax /Parking Charges, if any, within the station / out-station / other States, when the vehicle runs for official work, will be reimbursed by the Company subject to the producti on of documentary evidence, dully signed by the controlling officer. 16. The Bank payment statement, wage sheet and EPF/CMPF & CMPS deduction/deposit has to be sub",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "mitted (Hard copy) at the time of Bill processing every month. Based on that Labour Payment Cert ificate (LPC) will be issued by MCL. 17. All the contractor workers shall be covered with the Aadhaar Enabled Biometric Attendance Syste m (AEBAS) for the payment of wages. 18. The contractors shall register themselves on the Contract Labour Payment Management Portal (CL PMP) of Coal India Limited within 30 days after work order and will have to enter and update perio dically the following details in the portal: a. Work Order details b. Contractor workers details and Wages payment details in respect of each Work Order. 19. The work shall be commenced as per the date mentioned in the work order. 20. In case of any accident of the vehicle or to the driver, MCL will not be held responsible or liable for any payment of compensation to the contractor or to his driver. 21. The MCL undertakes no liability if the vehicle is damaged, set on fire etc. by any mob or by any person or by accident during the engagement/hire in progress. 22. If the vehicle is seized by the authority under law or for election duty, MCL will not be liable for the same & no payment of whatsoever nature will be demanded for such event. In such condition the contractor will provide alternate vehicle for MCL without delay. 23. The vehicle movement register has to be maintained by the Service Provider & the same to be cert ified by the controlling officer on daily basis. If desired the same has to be produced to the Consign ee/Controlling Officer of the Vehicle. 24. Engineer-In-Charge: Staff Officer (E&M) will be the Engineer-in-Charge of the concerned area and t he user of vehicle will be the designated officer in-charge for this contract. 25. The Contractor and Driver of the vehicle will have to maintain phone connection and Mobile for ea sy access. 26. The contractor shall be responsible for availability of sufficient diesel in the tank of the vehicle and in no case driver of the vehicle should ask for money from the user for filling of diesel etc. 27. The contractor shall keep adequate number of vehicles for satisfactory execution of the work. 28. Vehicles in good and safe condition having valid fitness certificate permits/licenses etc. and in res pect of which the required taxes/fees have been deposited and which are properly covered with 1s t party insurance, shall be deployed for the work. 29. The contractor shall at his own cost, arrange for regular checking/ maintenance/ repair of the vehi cles and keep them in good and safe running conditions all the time. 30. Only experience, skilled and disciplined drivers of sound health and good behavior& having valid d riving license shall be deployed by the contractor for driving vehicles supplied to MCL. In no case a ny un-authorized driving of the vehicles shall be permitted by the contractor. 31. Vehicle will run inside the state of Odisha. 32. Vehicle should always be in an excellent running condition, with spare wheel (stepney) & tyres sho uld be in good condition & exterior paintings not defaced. 33. The vehicle should run only on the diesel/petrol& not on gas or kerosene. 34. The driver should be in white dress at the cost of contractor. 35. Seats of the vehicles must be covered with clean & white Turkish towels. 36. Driver of the vehicle should open the door of the car/vehicle for the user & after properly sitting of the user he will close the door & then he will go to driving seat. 37. Music system of the vehicle should be in working condition. 38. Driver of vehicle should keep his mobile phone switched off, while driving the vehicle.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "39. The driver of the vehicle should not be in drunken condition while on duty. 40. The contractor will supply the vehicles on Sundays & holidays also, if required, at the same rate an d terms and condition. 41. The contractor shall familiarize himself and fully comply with the provisions of all the Acts/Rule/Re gulations/Bye-laws and orders of the Local authority/ Municipality/State Govt./Central Govt. applic able to the worker. Mines Act. Payment of Wages Act, Motor Vehicle Act, Workmen’s Compensati on Act, etc. and shall be fully responsible and liable for due observance of the same. The compan y shall have no responsibility/liability whatsoever on these accounts and the contractor shall fully i ndemnify the Company against any claim/dispute. 42. The contractor may request offline for change of vehicles to be deployed by him at any time at his option as follows: The contractor may deploy any other vehicle(s) of same class owned by him subsequently or hired subsequently through a hiring agreement, of the same or lower age than the originally offered veh icle(s). Moreover, such requests will be considered by the department on the merit of the individual case. In case, the request for change of vehicle/s is not accepted by the department then the bidder has to deploy the originally offered vehicle/s. 43. Legal Status of the bidder: Bidder need to submit any one of the following document at the tim e of bidding: 1. Affidavit or any other document to prove proprietorship/individual status of the bidder. 2. Partnership deed containing name of partners. 3. Memorandum & Article of Association with certificate of incorporation containing name of bidde r 44. Application of Price Variation Clause (if applicable): 44.1 Escalation/De-escalation for Labour: The amount paid to the contractor for the work don e shall be adjusted for increase or decrease in the cost of labour and the cost shall be calculated q uarterly in accordance with the following formula: A L - Lo V = W x ----- x --------- L 100 Lo Where: V = Variation in labour cost i.e., increase or decrease in the amount in rupees to be paid or recov L ered. W = Value of work done during the period under reckoning to which the escalation/de-escalation relates as indicated in clause-44.11. A = Component of Labour expressed as percentage of total value of work is 26.12. Lo = Minimum wages for unskilled workers payable as per the Minimum Wages Act/Rules of the St ate or Central Govt., whichever is more, applicable to the place of work as on the last date stipulated for receipt of the price bids or revised price bids, whichever is later.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "L = Revised minimum wages of unskilled worker corresponding to Lo during the period to which th e escalation/de-escalation relates. 44.11 While calculating the value of \"W\" the following may be noted : The cost on which th e escalation will be payable shall be reckoned as 85 % of the cost of work as per the bills to whi ch escalation relates, and from this amount the value of materials supplied or services rendered at the prescribed charges under the relevant provisions of the contract, and proposed to be recovered in the particular bill, shall be deducted before the amount of compensation for escalation or de-escalation is worked out. In the case of materials brought to site for which any secured advance is included in the bill, the full value of such materials as assessed by the Engin eer In Charge (and not the reduced amount for which secured advance has been paid) shall be i ncluded in the cost of work done for operation of this clause. Similarly, when such materials are incorporated in the work and the secured advance is deducted from the bill, the full-assessed v alue of the materials originally considered for operation of this clause should be deducted from the cost of the work shown in the bill, running or final. Further the cost of work shall not include any work for which payment is made at prevailing market rates. 44.12 In the event wages of labour required for execution of the work decreases, there shall be downward adjustment of the cost of work so that wages of labour shall be deductible from the c ost of work under this contract and in this regard the formulae herein before stated under this c lause shall mutatis/mutandis apply. No such adjustment for the increase / decrease in material price and/ or wages of labour before mentioned would be made in case of contracts in which th e stipulated period of completion of the work is six (6) months or less. 44.2 PAYMENT OF PRICE VARIATION ON PETROL/ DIESEL: If the prices of Petrol/ Diesel in creases or decreases, the contractor shall be compensated for such increase or recoveries shall be made from the dues of the contractor for such decrease as per provisions detailed below an d the amount of the contract shall accordingly be varied, subject to the condition that such com pensation for variation in prices shall be available only for the work done during the stipulated period of the contract including such period for which the contract is validly extended under the provisions of the contract without any penal action. If the contract is to be extended beyond the stipulated period for completion of the work due to fault on the part of the contractor, escalatio n on prices should not be allowed further if not provided otherwise in the accepted contract. Suc h compensation for variation in the prices when due shall be worked out based on the following provisions: 44.21: The base price of petrol/diesel for working out such price variation (escalation/de-escalati on) shall be the price of petrol/ HSD (High Speed Diesel) specified in the tender notice. 44.22: Bench marking of price variation on account of petrol/ diesel will be done on the basis of price of the petrol/diesel of the retail outlet of IOC/BP (PSUs), nearest to the worksite and the pri ce variation will be admissible on simple average of petrol/ diesel rate (nearest to the worksite) of the period considered for price variation. 44.23: Price Variation on Petrol/ Diesel : The amount paid to the contractor for the work done s hall be adjusted for increase or decrease in the cost of petrol/diesel and the cost shall be calcul ated in accordance with the following formula: 1 V f = K x ----- x (F – Fo) B Vf = Variation in Petrol/Diesel cost i.e., increase or decrease in the amount in rupees to be paid or recovered. K = Actual KM run of the vehicle on that particular period considered for price variation.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 11,
+      "quote": "B = Mileage of the vehicle (Km/litre) as specified in the tender notice. F = Simple average of petrol/ diesel rate (nearest to the work site) of the period considered for pri ce variation. Fo = Base price of petrol/diesel, applicable to the place of work as taken in the approved estimate which is equals to 102.15. 44.3 Application of Price Variation Clause during extended period of Contracts. The Price Variation Clause as stated above will be applied for extended time frame of a contract b y the principle stated as under: i) Normally, if and when it is understood that a contract is not going to be completed within the scheduled time period, the contract is kept operative by extending the time of compl etion provisionally. During this provisional extended period, the operation of the Price Va riation Clause will remain suspended. ii) If and when it is decided at the end of the successful completion of the work that the del ay was due to causes not attributable to the contractor, then the Price Variation Clause w ill be revived and applied as if the scheduled date of completion has been shifted to the approved extended date. iii) If it is decided at the end of successful completion of the work that the delay was due to the fault of the contractor, then the Price Variation Clause will not be revived for the purp ose of escalation but shall be revived and applied for the purpose of de-escalation and no further payment will be made to the contractor on account of any escalation during this p eriod but recovery shall be made for de-escalation, if any. Additionally, the Clause related to Compensation for delay will be applied. No payment will be made by applying “FROZEN INDICES” under any circumstances. If the wages of labour required for execution of the work increase or decrease, the contract or shall be compensated for such increase or recoveries will be made from the bills for such decrease, as per provisions detailed hereafter: a) The amount of the contract shall accordingly be varied subject to the condition that suc h compensation for escalation/ de-escalation in price shall be available only for the work do ne during the stipulated period of the contract including such period for which the contract is validly extended under the provisions of the contract without any penal action. The Price Variation Clause shall not be applicable for works for which stipulated period of completion is six months or less. b) The base date for working out such escalation/de-escalation shall be the last date on w hich the bids (inclusive of price part) or revised price bids (inclusive of revised offer) were s tipulated to be received. c) The compensation for escalation or recoveries to be made shall be worked out at quarterly intervals and shall be with respect to the cost of work done during the previous t hree months. The first such payment will be made at the end of three months after the mo nth (excluding) in which the tender was accepted and thereafter at three months' interval. 45. When the period fixed for the completion of the contract is about to expire, the question of extensi on of the contract may be considered at the instance of the Contractor or the Department or of bot h. The extension will have to be by party's agreement, express or implied. The extension of contract will be at the existing rate or the rate finalized in the next tender, which ever is lower.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 12,
+      "quote": "46. Termination, Cancellation, Suspension and Foreclosure of the Contract: (A) The company shall, in addition to other remedial steps to be taken as provided in the co nditions of contract be entitled to cancel the contract in full or in part, and whether the date of completion has or has not elapsed, by notice in writing if the contractor:- a) makes default in proceeding with the works with due diligence and continues to do so even afte r a notice in writing from the Engineer-in-Charge, then on the expiry of the period as specified in t he notice Or b) commits default/breach in complying with any of the terms and conditions of the contract and d oes not remedy it or fails to take effective steps for the remedy to the satisfaction of the Engineer- in-Charge, then on the expiry of the period as may be specified by the Engineer-in-Charge in a not ice in writing. Or c) obtains a contract with the company as a result of ring tendering or other non-bonafide method s of competitive tendering Or d) shall offer or give or agree to give any person in the service of the company or to any other per son on his behalf any gift or consideration of any kind as an inducement or reward for act/acts of f avour in relation to the obtaining or execution of this or any other contract for his company. Or e) fails to complete the work or items of work with individual dates of completion, on or before the date/dates of completion or as extended by the company, then on the expiry of the p eriod as may be specified by the Engineer-in-Charge in a notice in writing. Or f) transfers, sublets, assigns the entire work or any portion thereof without the prior approval in wr iting from the Engineer-in-Charge. The Engineer-in-Charge may by giving a written notice, cancel t he whole contract or portion of it in default. (B) The contract shall also stand terminated under any of the following circumst ances: a) If the contractor being an individual in the case of proprietary concern or in the case of a partne rship firm any of its partners is declared insolvent under the provisions of Insolvency Act for the ti me being in force, or makes any conveyance or assignment of his effects or composition or arrang ement for the benefit of his creditors amounting to proceedings for liquidation or composition und er any Insolvency Act. b) In the case of the contractor being a company, its affairs are under liquidation either by a resolu tion passed by the contractors company or by an order of court, not being a voluntary liquidation p roceedings for the purpose of amalgamation or reorganization, or a receiver or manager is appoint ed by the court on the application by the debenture holders of the contractor's company, if any.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 13,
+      "quote": "c) If the contractor shall suffer an execution being levied on his/their goods, estates and allow it to be continued for a period of 21 (twenty-one) days. d) On the death of the contractor being a proprietary concern or of any of the partners in the case of a partnership concern and the company is not satisfied that the legal representative of the d eceased proprietor or the other surviving partners of the partnership concern are capable of carryi ng out and completing the contract. The decision of the company in this respect shall be final an d binding which is to be intimated in writing to the legal representative or to the partnership conce rn. (C) On cancellation of the contract or on termination of the contract, the Engine er-in-charge shall have powers: The contractor whose contract is terminated shall not be allowed to participate in future bidding i n MCL for period of minimum twelve months. In such an event, the contractor shall be liable for loss/damage suffered by the employer because of action under this clause and to compensate for this loss or damage, the employer shall be entitl ed to recover higher of the following: i) Forfeiture of security deposit at disposal of the employer. Or ii) 10% of value of incomplete work. The value of the incomplete work shall be calculated for the it ems and quantities remaining incomplete (as per provision of contract) at the contract rates inclu ding price variation as applicable on the date, when notice in writing for termination of work was i ssued to the contractor. The amount to be recovered from the contractor as determined above, shall, without prejudice to any other right or remedy available to the employer as per law or as per agreement, will be recov ered from any money due to the contractor on any account or under any other contract and in the event of any shortfall, the contractor shall be liable to pay the same within 30 days. In case of failu re to pay the same the amount shall be debt payable. In the event of above course being adopted by the Engineer-in-charge, the contractor shall have n o claim to compensation for any loss sustained by him by reasons of his having purchased materia ls, equipment or entered into agreement or made advances on any account or with a view to the execution of work or performance of the contract. And in case action is taken under any of provisi on aforesaid, the contractor shall not be entitled to recover or to be paid any sum for any work the reof or actually performed under this contract unless and until the engineer-in-charge has certified in writing the performance of such work and value payable in respect thereof and he shall only be entitled to be paid the value so certified. The need for determination of the amount of recovery of any extra cost/expenditure or of any loss",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 14,
+      "quote": "/damage suffered by the company shall not however arise in the case of termination of the contract for death/demise of the contractor as stated in 46(B)(d). (D) Suspension of Work: The Company shall have power to suspend the work. The contractor shall on receipt of the order i n writing of Engineer-in -charge (whose decision shall be final and binding on the contractor), susp end the progress of work or any part thereof for such time in such manner as the Engineer-in-Char ge may consider necessary so as not to cause any damage, or endanger the safety thereof for any of the following reasons: a) on account of any default on the part of the contractor, or b) for proper execution of the works, or part thereof, for reasons other than the default of the contractor or, c) for safety of the works, or part thereof. The contractor shall, during such suspension properly protect and ensure the works to the extent necessary and carry out the instruction of the Engineer-in-charge. If the suspension is ordered for reasons (b) & (c), the contractor shall be entitled to an extension of time equal to the period of ev ery such suspension. This shall also be applicable for completion of the item or group of items of t he work for which a separate period of completion as specified in the contract and of which the su spended work forms a part. The contractor shall carry out the instructions given in this respect by the Engineer-In Charge & if such suspension exceeds 45 (forty five) days, the contractor will be compensated on mutually agr eed terms. (E) Foreclosure of contract: If at any time after acceptance of the tender the company decides to abandon or reduce the scope of work for any reason whatsoever the company, through its Engineer-in-Charge, shall give notice in writing to that effect to the contractor and contractor shall act accordingly in the matter. In the event of abandonment, the contractor shall have no claim to any payment of compensation. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10134803"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

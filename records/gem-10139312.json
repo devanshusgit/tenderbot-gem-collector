@@ -5,9 +5,9 @@
   "tender_id": "GEM/2026/B/8251207",
   "title": "Safes (V3) ISI Marked to IS 550",
   "description": "Safes (V3) ISI Marked to IS 550",
-  "organisation": "Department of Financial Services",
-  "ministry": "Ministry of Finance",
-  "department": "Department of Financial Services",
+  "organisation": "Union Bank Of India (ubi)",
+  "ministry": "Ministry Of Finance",
+  "department": "Department Of Financial Services",
   "portal_name": "GeM",
   "state": [],
   "city": [],
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10139312"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/oy_P44pM1bu2yr7vRXLrmk_ZJ2Q09aL47aOPP-btXac",
+      "page": 4
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8251207/CLM0010/RFPCASHKKD_2002a13e-637b-4cb1-8d001793965085294_RO_KAKINADA_PAYER.pdf",
+      "page": 6
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261106",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +54,236 @@
   ],
   "source_fetched_at": "2026-11-07T04:35:15.061Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-14T18:00:00+05:30",
+  "office": "Central Office Dept Of Information Technology",
+  "buyer_email": "pao23.ubiu.ap@gembuyer.in",
+  "bidder_turnover_lakhs": 2,
+  "oem_turnover_lakhs": 20,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-07T06:22:05.635398+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "d951df7f1fce4ebc214fa8c8f2e71645c8eaad4af6e0802e3269e298feb263e0",
+  "document_pages": 8,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 2 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 20 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 80 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Cherukuri Visweswararao",
+      "address": "533001,REGIONAL OFFICE KAKINADA, NO.1-61& 61/1, KATYAYANI HI TECH COMPLEX, 2ND FLOOR, MAIN ROAD KAKINADA",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "GENERAL REQUIREMENTS",
+          "parameter": "Classification of Safes (as per Table 1 of IS 550 | Format: Class / Classification Code)",
+          "value": "A / TRTL – 30 × 6"
+        },
+        {
+          "group": "GENERAL REQUIREMENTS",
+          "parameter": "Number of Doors in Safe",
+          "value": "Single Door"
+        },
+        {
+          "group": "PHYSICAL REQUIREMENTS",
+          "parameter": "Standard Size of Safe (Gross Internal Volume, in L) (As per Table 2 of IS 550)",
+          "value": "1340 (336 L)"
+        },
+        {
+          "group": "PHYSICAL REQUIREMENTS",
+          "parameter": "Gross Internal Volume (in L | As per table 2 of IS 550)",
+          "value": "336"
+        },
+        {
+          "group": "PHYSICAL REQUIREMENTS",
+          "parameter": "Anchoring Arrangement provided",
+          "value": "No"
+        },
+        {
+          "group": "LOCKS",
+          "parameter": "Number of lock keys on safe (as per point x (a) of Table 2)",
+          "value": "2"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 3. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1) Vendors/Agencies/firms having an office in Kakinada District will be preferred. 2) Shooting Bolts: For better security against brutal attack on the Safe, irrespective of its class, the Safe sh ould have at least four shooting bolts on the hinge side, four bolts on the side opposite to hinge side and t wo bolts each on top and bottom sides. Only on the hinge side of the door, instead of four shooting bolts a single continuous bolt of sliding or fixed nature making engagement into the body for at least two-third of t he internal height is also acceptable. 3) Key Locks: For Class 'A' ' Safes, the Safe door should have at least two key locks and both the key locks should be of dual-control type. The main lock shall have minimum of 8 levers. No two locks shall have the same combination. 4) Keys: Each lock shall be provided with duplicates of main and auxiliary keys. The keys shall be mutually non-interchangeable i.e., no lock shall open by other than its own specific keys. 5) Automatic Relocking Device: An automatic relocking device one for each key lock shall be fitted in the d oor which being always on guard shall come into operation if a lock is dislodged by explosives or any other means. . 4. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 5. Generic Bidders shall quote only those products (Part of Service delivery) in the bid which are not obsolete in the market and has at least 5 years residual market life i.e. the offered product shall not be declared end-of- life by the OEM before this period. 6. Generic Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller. 7. Generic"
+    },
+    {
+      "page": 7,
+      "text": "OPTIONAL SITE VISIT: 1. The Bidder is advised to visit and examine the installation site and its surroundings and obtain for itself on its own responsibility all information that may be necessary for preparing the Bid. The costs of visiting the site shall be borne by the Bidder. The OEM/Agency/Firm is to borne the cost of visiting the site of the buyer for supply 2. The Bidder representative shall be allowed entry upon consignee premises for such visits, only upon the express conditions that the Bidder will release and indemnify the Buyer and Consignee against all liabilities arising out of such visit including death or injury, loss or damage to property, and any other loss, damage, costs, and expenses incurred as a result of such visit. 3. The Bidder shall not be entitled to hold any claim against Buyer for noncompliance due to lack of any kind of pre-requisite information as it is the sole responsibility of the Bidder to obtain all the necessary information with regard to site, surrounding, working conditions, weather etc. on its own before submission of the bid."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8251207",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139312"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 13-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139312"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 14-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139312"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139312"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Finance",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139312"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Financial Services",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139312"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Union Bank Of India (ubi)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139312"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Central Office Dept Of Information Technology",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139312"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :hod1.ubn.mh@gembuyer.in Buyer Email id: pao23.ubiu.ap@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139312"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139312"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Safes (V3) ISI Marked to IS 550 (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139312"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 2 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139312"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 20 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139312"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139312"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139312"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139312"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139312"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139312"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 80 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139312"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139312"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Classification of Safes (as per Table 1 of IS 550 | Format: Class / Classification Code): A / TRTL – 30 × 6 | Number of Doors in Safe: Single Door | Standard Size of Safe (Gross Internal Volume, in L) (As per Table 2 of IS 550): 1340 (336 L) | Gross Internal Volume (in L | As per table 2 of IS 550): 336 | Anchoring Arrangement provided: No | Number of lock keys on safe (as per point x (a) of Table 2): 2",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139312"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Cherukuri Visweswararao | 533001,REGIONAL OFFICE KAKINADA, NO.1-61& 61/1, KATYAYANI HI TECH COMPLEX, 2ND FLOOR, MAIN ROAD KAKINADA | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139312"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 3. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1) Vendors/Agencies/firms having an office in Kakinada District will be preferred. 2) Shooting Bolts: For better security against brutal attack on the Safe, irrespective of its class, the Safe sh ould have at least four shooting bolts on the hinge side, four bolts on the side opposite to hinge side and t wo bolts each on top and bottom sides. Only on the hinge side of the door, instead of four shooting bolts a single continuous bolt of sliding or fixed nature making engagement into the body for at least two-third of t he internal height is also acceptable. 3) Key Locks: For Class 'A' ' Safes, the Safe door should have at least two key locks and both the key locks should be of dual-control type. The main lock shall have minimum of 8 levers. No two locks shall have the same combination. 4) Keys: Each lock shall be provided with duplicates of main and auxiliary keys. The keys shall be mutually non-interchangeable i.e., no lock shall open by other than its own specific keys. 5) Automatic Relocking Device: An automatic relocking device one for each key lock shall be fitted in the d oor which being always on guard shall come into operation if a lock is dislodged by explosives or any other means. . 4. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 5. Generic Bidders shall quote only those products (Part of Service delivery) in the bid which are not obsolete in the market and has at least 5 years residual market life i.e. the offered product shall not be declared end-of- life by the OEM before this period. 6. Generic Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller. 7. Generic",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139312"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "OPTIONAL SITE VISIT: 1. The Bidder is advised to visit and examine the installation site and its surroundings and obtain for itself on its own responsibility all information that may be necessary for preparing the Bid. The costs of visiting the site shall be borne by the Bidder. The OEM/Agency/Firm is to borne the cost of visiting the site of the buyer for supply 2. The Bidder representative shall be allowed entry upon consignee premises for such visits, only upon the express conditions that the Bidder will release and indemnify the Buyer and Consignee against all liabilities arising out of such visit including death or injury, loss or damage to property, and any other loss, damage, costs, and expenses incurred as a result of such visit. 3. The Bidder shall not be entitled to hold any claim against Buyer for noncompliance due to lack of any kind of pre-requisite information as it is the sole responsibility of the Bidder to obtain all the necessary information with regard to site, surrounding, working conditions, weather etc. on its own before submission of the bid.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10139312"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8246526",
   "title": "Receiver for Global Navigation Satellite System (GNSS) (V1)",
   "description": "Receiver for Global Navigation Satellite System (GNSS) (V1)",
-  "organisation": "Revenue and Forest Department Maharashtra",
-  "ministry": "",
-  "department": "Revenue and Forest Department Maharashtra",
+  "organisation": "N/a",
+  "ministry": "Maharashtra",
+  "department": "Revenue And Forest Department Maharashtra",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Receiver for Global Navigation Satellite System (GNSS) (V1)",
   "quantity": 19,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 250000,
   "published_at": "2026-11-06T14:43:42+05:30",
   "closing_at": "2026-11-17T15:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10133966"
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/iOdCEMNg1zGsFHJQWVd3ZEhQN1ZNLysMZngTNcnyxyo",
+      "page": 4
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8246526/CLM0010/RoverSpecs_77645d3e-45a6-4c65-8b0a1793878828065_DSLRBuyer.pdf",
+      "page": 9
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261106",
+      "page": 11
     }
   ],
   "tags": [
@@ -34,5 +49,570 @@
   ],
   "source_fetched_at": "2026-11-06T22:29:39.552Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-18T15:00:00+05:30",
+  "office": "District Superintendent Of Land Record Sindhudurg",
+  "buyer_email": "maheshsarmalkar2@gmail.com",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 120,
+  "oem_turnover_lakhs": 1000,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-07T00:04:03.858920+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "2061dd2135574a854b8c79b26d2cf3f6e266fe3faf527123baa74a8d5b06c164",
+  "document_pages": 11,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 120 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 1000 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 80 % (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 8,
+      "consignee": "Mahesh Anant Sarmalkar",
+      "address": "416812,Main Admin. bld. A wing, 2nd floor, sindhudurgnagari tal kudal dist sindhudurg",
+      "quantity": 19,
+      "quantity_label": "Quantity",
+      "delivery_days": 60
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "RECEIVER POSITIONING PERFORMANCE & ACCURACY (RMS)",
+          "parameter": "Differential GPS (DGPS) Accuracy - (Horizontal)",
+          "value": "25 cm + 1 ppm"
+        },
+        {
+          "group": "RECEIVER POSITIONING PERFORMANCE & ACCURACY (RMS)",
+          "parameter": "Differential GPS (DGPS) Accuracy - (Vertical)",
+          "value": "50 cm + 1 ppm"
+        },
+        {
+          "group": "RECEIVER POSITIONING PERFORMANCE & ACCURACY (RMS)",
+          "parameter": "High Precision / Long Observation Static Accuracy - (Horizontal)",
+          "value": "3 mm + 0.1 ppm"
+        },
+        {
+          "group": "RECEIVER POSITIONING PERFORMANCE & ACCURACY (RMS)",
+          "parameter": "High Precision / Long Observation Static Accuracy - (Vertical)",
+          "value": "3.5 mm + 0.4 ppm"
+        },
+        {
+          "group": "RECEIVER POSITIONING PERFORMANCE & ACCURACY (RMS)",
+          "parameter": "Static and Fast Static Accuracy - (Horizontal)",
+          "value": "3 mm + 0.1 ppm, 3 mm + 0.5 ppm"
+        },
+        {
+          "group": "RECEIVER POSITIONING PERFORMANCE & ACCURACY (RMS)",
+          "parameter": "Static and Fast Static Accuracy -(Vertical)",
+          "value": "5 mm + 0.5 ppm"
+        },
+        {
+          "group": "RECEIVER POSITIONING PERFORMANCE & ACCURACY (RMS)",
+          "parameter": "Real-Time Kinematic (RTK) Accuracy - (Horizontal)",
+          "value": "8 mm + 1 ppm, 10 mm + 1 ppm"
+        },
+        {
+          "group": "RECEIVER POSITIONING PERFORMANCE & ACCURACY (RMS)",
+          "parameter": "Real-Time Kinematic (RTK) Accuracy - (Vertical)",
+          "value": "15 mm + 1 ppm"
+        },
+        {
+          "group": "RECEIVER POSITIONING PERFORMANCE & ACCURACY (RMS)",
+          "parameter": "Stand alone L-band Accuracy via satellite based correction (95%) - (Horizontal)",
+          "value": "Less than 5 cm"
+        },
+        {
+          "group": "RECEIVER POSITIONING PERFORMANCE & ACCURACY (RMS)",
+          "parameter": "Stand alone L-band Accuracy via satellite based correction (95%) - (Vertical)",
+          "value": "Less than 10 cm"
+        },
+        {
+          "group": "RECEIVER FEATURES & FUNCTIONS",
+          "parameter": "Receiver Type",
+          "value": "Rover, Rover compatible to other makes of Base/Rover"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Mode of Processing",
+          "value": "RTK with Single Base RTK Correction, RTK with Network RTK Correction"
+        },
+        {
+          "group": null,
+          "parameter": "Receiver salient Features - inclusive in the scope of supply",
+          "value": "Interchangeable / Configurable as Base or Rover, Base Station able to serve multiple Rovers, Provision to Indicate the Connectivity with Base Station, RTK processing, Built-in stand alone L-band facility and satellite based correction, Integrated receiver Antenna, External receiver Antenna, Multi-path Mitigation for Receiver Antenna, All Control functions available with receiver, Compatible to Electronic Total Station (ETS) of Other Makes"
+        },
+        {
+          "group": "RECEIVER TRACKING CAPABILITIES",
+          "parameter": "Base Line Processing Range (Static) (Kilometer)",
+          "value": "500.0, 1000.0 (kilometer)"
+        },
+        {
+          "group": "RECEIVER TRACKING CAPABILITIES",
+          "parameter": "Number of Channels",
+          "value": "555, 672 Or higher"
+        },
+        {
+          "group": "RECEIVER TRACKING CAPABILITIES",
+          "parameter": "Maximum Position Update Rate (Hertz)",
+          "value": "20.0 (Hertz)"
+        },
+        {
+          "group": "RECEIVER TRACKING CAPABILITIES",
+          "parameter": "Tilt Sensor",
+          "value": "No, Yes"
+        },
+        {
+          "group": "RECEIVER TRACKING CAPABILITIES",
+          "parameter": "Position Acquisition Method",
+          "value": "Float to Fix, Fix"
+        },
+        {
+          "group": "GNSS TRACKING SIGNALS (RECEIVER)",
+          "parameter": "GPS Tracking Signals",
+          "value": "L1, L2, L2 C, L5"
+        },
+        {
+          "group": "GNSS TRACKING SIGNALS (RECEIVER)",
+          "parameter": "GLONASS Tracking Signals",
+          "value": "L1, L2, L2 C/A, L3"
+        },
+        {
+          "group": "GNSS TRACKING SIGNALS (RECEIVER)",
+          "parameter": "NAVIC Tracking Signals",
+          "value": "L5, NA, Upgradable to IRNSS L5 and S band"
+        },
+        {
+          "group": "GNSS TRACKING SIGNALS (RECEIVER)",
+          "parameter": "Galileo Tracking Signals",
+          "value": "E1, E5 a, E5 b, E5 ab, E6"
+        },
+        {
+          "group": "GNSS TRACKING SIGNALS (RECEIVER)",
+          "parameter": "BeiDou Tracking Signals",
+          "value": "B1, B2, B3"
+        },
+        {
+          "group": "GNSS TRACKING SIGNALS (RECEIVER)",
+          "parameter": "L-band tracking Signals",
+          "value": "Omnistar, Terrastar, Starfire, Atlas, RTX"
+        },
+        {
+          "group": "GNSS TRACKING SIGNALS (RECEIVER)",
+          "parameter": "SBAS Support",
+          "value": "GAGAN, WAAS, EGNOS, MSAS, QZSS"
+        },
+        {
+          "group": "SOFTWARES",
+          "parameter": "Subscription license for satellite based correction - inclusive in the scope of supply",
+          "value": "Yes"
+        },
+        {
+          "group": "SOFTWARES",
+          "parameter": "If Yes, Validity of License period (Subscription license for satellite based correction ) (Year)",
+          "value": "0.0 (year)"
+        },
+        {
+          "group": "SOFTWARES",
+          "parameter": "Post Processing Software with free updates upto Warranty period - inclusive in the scope of supply",
+          "value": "Yes"
+        },
+        {
+          "group": "SOFTWARES",
+          "parameter": "If Yes, Validity of License period (Post Processing Software with free updates upto Warranty period ) (Year)",
+          "value": "5.0 (year)"
+        },
+        {
+          "group": "COMMUNICATIONS",
+          "parameter": "Communication Ports",
+          "value": "RS 232, Bluetooth, Combined LEMO, Wi-Fi / WLAN"
+        },
+        {
+          "group": "COMMUNICATIONS",
+          "parameter": "Communication Protocals",
+          "value": "RINEX, RTCM 2.0, RTCM 3.0, CMR, CMR+"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Phone Modem Antenna",
+          "value": "Internal Antenna"
+        },
+        {
+          "group": null,
+          "parameter": "Radio Modem Antenna",
+          "value": "Internal Antenna, NA"
+        },
+        {
+          "group": null,
+          "parameter": "Built-in Data Links - Phone & Radio Modems",
+          "value": "LTE, UHF"
+        },
+        {
+          "group": null,
+          "parameter": "External Data Links Supported",
+          "value": "GSM, GPRS, LTE, UMTS, HSDPA, UHF"
+        },
+        {
+          "group": "RAM / STORAGE",
+          "parameter": "Data Storage Medium",
+          "value": "Internal"
+        },
+        {
+          "group": "RAM / STORAGE",
+          "parameter": "Internal Storage Capacity",
+          "value": "1 GB"
+        },
+        {
+          "group": "RAM / STORAGE",
+          "parameter": "External / Removable Storage Slot",
+          "value": "SD, Micro SD, SDHC, Memory stick"
+        },
+        {
+          "group": "RAM / STORAGE",
+          "parameter": "External / Removable Storage Card Capacity supplied with Receiver (GB) - inclusive in the scope of supply",
+          "value": "8, 16, 32 Or higher (gigabyte)"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Radio Power (Watt)",
+          "value": "0.0, 1.0 (Watt)"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "Power Source",
+          "value": "Internal - Rechargeable Battery"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "Supports 12 V External Battery",
+          "value": "Yes"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "Chemistry of Battery",
+          "value": "Li-ion"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "Battery Back Up Time (Hour)",
+          "value": "6, 7, 8, 10, 12, 16 Or higher (hour)"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "Number of Batteries required for operation",
+          "value": "1"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "Number of Batteries Supplied",
+          "value": "2, 4, 6, 8 Or higher"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "Battery Chargers for Rechargeable Batteries (inclusive in the scope of supply)",
+          "value": "Yes"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "12 V Vehicle Charging Kit inclusive in the scope of supply",
+          "value": "Yes, No"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "Hot - Swappable b/w External and Internal Power Sources without affecting Data Recording",
+          "value": "Yes"
+        },
+        {
+          "group": "ENVIRONMENTAL PARAMETERS",
+          "parameter": "Minimum Operating Temperature",
+          "value": "-10, -15, -20, -25, -30, -40 Or higher (degree Celsius)"
+        },
+        {
+          "group": "ENVIRONMENTAL PARAMETERS",
+          "parameter": "Maximum Operating Temperature",
+          "value": "55, 60, 65, 70, 75 Or higher (degree Celsius)"
+        },
+        {
+          "group": "ENVIRONMENTAL PARAMETERS",
+          "parameter": "Non Condensing Humidity, Rh",
+          "value": "95, 100 Or higher (percent)"
+        },
+        {
+          "group": "ENVIRONMENTAL PARAMETERS",
+          "parameter": "Ingress Protection",
+          "value": "IP 67, IP 68 Or higher"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "parameters": [
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Accessories (inclusive in the scope of supply)",
+          "value": "Clamp for Controller, Power Cable, Connectors and Cables for Connecting to Car Batteries, Stop and Go Pole, USB Data Transfer Cable"
+        },
+        {
+          "group": "WARRANTY / TRAINING",
+          "parameter": "Warranty (year)",
+          "value": "3 Or higher (year)"
+        },
+        {
+          "group": "WARRANTY / TRAINING",
+          "parameter": "Training Type",
+          "value": "At Buyer's Premises"
+        },
+        {
+          "group": "WARRANTY / TRAINING",
+          "parameter": "Training Period (day)",
+          "value": "3, 5, 7, 10, 15 Or higher (day)"
+        },
+        {
+          "group": "TEST REPORTS",
+          "parameter": "Compliance to Dust test",
+          "value": "MIL-STD-810 F, MILSTD-810 G, IEC-60529 or Equivalent Specn"
+        },
+        {
+          "group": "TEST REPORTS",
+          "parameter": "Compliance to Water Intrusion test",
+          "value": "MIL-STD-810 F, MILSTD-810 G, IEC-60529 or Equivalent Specn"
+        },
+        {
+          "group": "TEST REPORTS",
+          "parameter": "Compliance to Vibration / Shock test",
+          "value": "MIL-STD-810 F, MILSTD-810 G"
+        },
+        {
+          "group": "TEST REPORTS",
+          "parameter": "Type of lab which carried out Test of Complete Product to prove the conformity of product as per specification",
+          "value": "OEM"
+        },
+        {
+          "group": "TEST REPORTS",
+          "parameter": "Agree to provide all relevant documents Test Reports/supporting document /reports etc to the buyer at the time of bidding or on demand",
+          "value": "Yes"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 8,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of technical parameters, the bid is liable for rejection. 3. Generic Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU for 3 years before the bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the primary product having highest value should meet this criterion."
+    },
+    {
+      "page": 9,
+      "text": "4. Generic Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller. 5. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 6. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 7. Financial Criteria NET WORTH: Net Worth of the OEM should be positive as per the last audited financial statement. 8. Certificates ISO 9001: The bidder or the OEM of the offered products must have ISO 9001 certification. 9. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 10. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 11. Turnover Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. 12. Turnover OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of CATEGORY RELATED TO primary product having highest bid value should meet this criterion. 13. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8246526",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133966"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 17-11-2026 15:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133966"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 18-11-2026 15:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133966"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133966"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Maharashtra",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133966"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Revenue And Forest Department Maharashtra",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133966"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: N/a",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133966"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: District Superintendent Of Land Record Sindhudurg",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133966"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :dyslr.ven-si@mah.gov.in Buyer Email id: maheshsarmalkar2@gmail.com",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133966"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 19",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133966"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Receiver for Global Navigation Satellite System (GNSS) (V1) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133966"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 120 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133966"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 1000 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133966"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133966"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133966"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133966"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133966"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133966"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 80 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133966"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133966"
+    },
+    {
+      "field": "emd_fee",
+      "page": 3,
+      "quote": "EMD Amount: 250000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133966"
+    },
+    {
+      "field": "emd_required",
+      "page": 3,
+      "quote": "EMD Amount: 250000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133966"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133966"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Differential GPS (DGPS) Accuracy - (Horizontal): 25 cm + 1 ppm | Differential GPS (DGPS) Accuracy - (Vertical): 50 cm + 1 ppm | High Precision / Long Observation Static Accuracy - (Horizontal): 3 mm + 0.1 ppm | High Precision / Long Observation Static Accuracy - (Vertical): 3.5 mm + 0.4 ppm | Static and Fast Static Accuracy - (Horizontal): 3 mm + 0.1 ppm, 3 mm + 0.5 ppm | Static and Fast Static Accuracy -(Vertical): 5 mm + 0.5 ppm | Real-Time Kinematic (RTK) Accuracy - (Horizontal): 8 mm + 1 ppm, 10 mm + 1 ppm | Real-Time Kinematic (RTK) Accuracy - (Vertical): 15 mm + 1 ppm | Stand alone L-band Accuracy via satellite based correction (95%) - (Horizontal): Less than 5 cm | Stand alone L-band Accuracy via satellite based correction (95%) - (Vertical): Less than 10 cm | Receiver Type: Rover, Rover compatible to other makes of Base/Rover",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133966"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Mode of Processing: RTK with Single Base RTK Correction, RTK with Network RTK Correction | Receiver salient Features - inclusive in the scope of supply: Interchangeable / Configurable as Base or Rover, Base Station able to serve multiple Rovers, Provision to Indicate the Connectivity with Base Station, RTK processing, Built-in stand alone L-band facility and satellite based correction, Integrated receiver Antenna, External receiver Antenna, Multi-path Mitigation for Receiver Antenna, All Control functions available with receiver, Compatible to Electronic Total Station (ETS) of Other Makes | Base Line Processing Range (Static) (Kilometer): 500.0, 1000.0 (kilometer) | Number of Channels: 555, 672 Or higher | Maximum Position Update Rate (Hertz): 20.0 (Hertz) | Tilt Sensor: No, Yes | Position Acquisition Method: Float to Fix, Fix | GPS Tracking Signals: L1, L2, L2 C, L5 | GLONASS Tracking Signals: L1, L2, L2 C/A, L3 | NAVIC Tracking Signals: L5, NA, Upgradable to IRNSS L5 and S band | Galileo Tracking Signals: E1, E5 a, E5 b, E5 ab, E6 | BeiDou Tracking Signals: B1, B2, B3 | L-band tracking Signals: Omnistar, Terrastar, Starfire, Atlas, RTX | SBAS Support: GAGAN, WAAS, EGNOS, MSAS, QZSS | Subscription license for satellite based correction - inclusive in the scope of supply: Yes | If Yes, Validity of License period (Subscription license for satellite based correction ) (Year): 0.0 (year) | Post Processing Software with free updates upto Warranty period - inclusive in the scope of supply: Yes | If Yes, Validity of License period (Post Processing Software with free updates upto Warranty period ) (Year): 5.0 (year) | Communication Ports: RS 232, Bluetooth, Combined LEMO, Wi-Fi / WLAN | Communication Protocals: RINEX, RTCM 2.0, RTCM 3.0, CMR, CMR+",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133966"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Phone Modem Antenna: Internal Antenna | Radio Modem Antenna: Internal Antenna, NA | Built-in Data Links - Phone & Radio Modems: LTE, UHF | External Data Links Supported: GSM, GPRS, LTE, UMTS, HSDPA, UHF | Data Storage Medium: Internal | Internal Storage Capacity: 1 GB | External / Removable Storage Slot: SD, Micro SD, SDHC, Memory stick | External / Removable Storage Card Capacity supplied with Receiver (GB) - inclusive in the scope of supply: 8, 16, 32 Or higher (gigabyte) | Radio Power (Watt): 0.0, 1.0 (Watt) | Power Source: Internal - Rechargeable Battery | Supports 12 V External Battery: Yes | Chemistry of Battery: Li-ion | Battery Back Up Time (Hour): 6, 7, 8, 10, 12, 16 Or higher (hour) | Number of Batteries required for operation: 1 | Number of Batteries Supplied: 2, 4, 6, 8 Or higher | Battery Chargers for Rechargeable Batteries (inclusive in the scope of supply): Yes | 12 V Vehicle Charging Kit inclusive in the scope of supply: Yes, No | Hot - Swappable b/w External and Internal Power Sources without affecting Data Recording: Yes | Minimum Operating Temperature: -10, -15, -20, -25, -30, -40 Or higher (degree Celsius) | Maximum Operating Temperature: 55, 60, 65, 70, 75 Or higher (degree Celsius) | Non Condensing Humidity, Rh: 95, 100 Or higher (percent) | Ingress Protection: IP 67, IP 68 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133966"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 7,
+      "quote": "Accessories (inclusive in the scope of supply): Clamp for Controller, Power Cable, Connectors and Cables for Connecting to Car Batteries, Stop and Go Pole, USB Data Transfer Cable | Warranty (year): 3 Or higher (year) | Training Type: At Buyer's Premises | Training Period (day): 3, 5, 7, 10, 15 Or higher (day) | Compliance to Dust test: MIL-STD-810 F, MILSTD-810 G, IEC-60529 or Equivalent Specn | Compliance to Water Intrusion test: MIL-STD-810 F, MILSTD-810 G, IEC-60529 or Equivalent Specn | Compliance to Vibration / Shock test: MIL-STD-810 F, MILSTD-810 G | Type of lab which carried out Test of Complete Product to prove the conformity of product as per specification: OEM | Agree to provide all relevant documents Test Reports/supporting document /reports etc to the buyer at the time of bidding or on demand: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133966"
+    },
+    {
+      "field": "consignees",
+      "page": 8,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Mahesh Anant Sarmalkar | 416812,Main Admin. bld. A wing, 2nd floor, sindhudurgnagari tal kudal dist sindhudurg | 19 | 60",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133966"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of technical parameters, the bid is liable for rejection. 3. Generic Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU for 3 years before the bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the primary product having highest value should meet this criterion.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133966"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "4. Generic Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller. 5. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 6. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 7. Financial Criteria NET WORTH: Net Worth of the OEM should be positive as per the last audited financial statement. 8. Certificates ISO 9001: The bidder or the OEM of the offered products must have ISO 9001 certification. 9. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 10. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 11. Turnover Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. 12. Turnover OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of CATEGORY RELATED TO primary product having highest bid value should meet this criterion. 13. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133966"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

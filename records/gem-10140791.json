@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8252476",
   "title": "Cleaning Duster (V3)",
   "description": "Cleaning Duster (V3)",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Air Force",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Cleaning Duster (V3)",
   "quantity": 2000,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-07T10:35:50+05:30",
   "closing_at": "2026-11-10T11:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10140791"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/R6qQMFHoSgh4Y-H5mwwLSie-aUnfdaHYCZuuKGl9TA4",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261107",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +49,191 @@
   ],
   "source_fetched_at": "2026-11-07T15:54:13.194Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-11T11:00:00+05:30",
+  "buyer_email": "buycon707.iaf.up@gembuyer.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-07T21:50:20.220371+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "1d65854dd0201f2345318d1a028ca93204f6395c365bf500a518c3a7925f1e82",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "***********",
+      "address": "***********KANPUR CITY",
+      "quantity": 2000,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Generic",
+          "parameter": "Material",
+          "value": "Cotton Flannelette"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Usage",
+          "value": "Wet/Dry"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Mass (GSM)",
+          "value": "351-400"
+        },
+        {
+          "group": "Physical Characteristics",
+          "parameter": "Size (Length X Breadth) (inch* inch)",
+          "value": "18 x 18"
+        },
+        {
+          "group": "Packaging",
+          "parameter": "No. of dusters per pack",
+          "value": "6"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Scope of Supply"
+    },
+    {
+      "page": 5,
+      "text": "Scope of supply (Bid price to include all cost components) : Only supply of Goods"
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8252476",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140791"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 10-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140791"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 11-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140791"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140791"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140791"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140791"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Air Force",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140791"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :kooledgroup@nic.in Buyer Email id: buycon707.iaf.up@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140791"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 2000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140791"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Cleaning Duster (V3) (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140791"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140791"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140791"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140791"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140791"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140791"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Material: Cotton Flannelette | Usage: Wet/Dry | Mass (GSM): 351-400 | Size (Length X Breadth) (inch* inch): 18 x 18 | No. of dusters per pack: 6",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140791"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********KANPUR CITY | 2000 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140791"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Scope of Supply",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140791"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "Scope of supply (Bid price to include all cost components) : Only supply of Goods",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140791"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

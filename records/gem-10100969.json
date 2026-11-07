@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8217776",
   "title": "Goods Transportation service - Monthly Based Service - Outside state; Railway material; 4 Ton capac",
   "description": "Goods Transportation service - Monthly Based Service - Outside state; Railway material; 4 Ton capacity Truck",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "South Eastern Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Goods Transportation service - Monthly Based Service - Outside state; Railway material; 4 Ton capac",
   "quantity": 2,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 58290,
   "published_at": "2026-11-05T17:31:25+05:30",
   "closing_at": "2026-11-19T18:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10100969"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261105",
+      "page": 9
+    },
+    {
+      "name": "Service Level Agreement",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/bidsla/102029574738961",
+      "page": 9
     }
   ],
   "tags": [
@@ -34,5 +49,327 @@
   ],
   "source_fetched_at": "2026-11-07T15:48:09.067Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-20T18:00:00+05:30",
+  "office": "Pcee Ser",
+  "buyer_email": "praveen.meena6@gov.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 15,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Bidder Turnover,Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Single Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 30,
+  "offer_validity": "60 (Days)",
+  "estimated_bid_value": 2914448,
+  "contract_period": "2 Year(s)",
+  "source_document_fetched_at": "2026-11-07T21:50:49.190789+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "e1edc8960b5f5b41113164565a4362b95bfedf8bdffdad88d1a162606be797fe",
+  "document_pages": 9,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 15 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Md. Ehtesam Ansari",
+      "address": "834003,O/O- DRM Ranchi, DRM Building, Hatia",
+      "quantity": 2,
+      "quantity_label": "Number of Vehicles for regular basis",
+      "delivery_days": null,
+      "additional_requirements": "Total No. of Trucks required – On call basis (If not required please input 0) : 0 Estimated Number of Trips during contract Period : 500 Duration in months (for the trucks required on call basis) : 0 Duration in months (For Regular basis) : 24"
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Type of Transport",
+          "value": "Outside state"
+        },
+        {
+          "group": "Core",
+          "parameter": "Nature of Goods",
+          "value": "Railway material"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type of Truck",
+          "value": "4 Ton capacity Truck"
+        },
+        {
+          "group": "Core",
+          "parameter": "Size / Weight of vehicle",
+          "value": "13 FT LCV"
+        },
+        {
+          "group": "Core",
+          "parameter": "Usage Variant",
+          "value": "Upto 1500 Kms"
+        },
+        {
+          "group": "Core",
+          "parameter": "Area of Operation",
+          "value": "Hilly + Plain area"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Loading",
+          "value": "NA"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Addon(s)",
+          "parameter": "Unloading",
+          "value": "NA"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Tracking System (GPS)",
+          "value": "NA"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Transit Insurance",
+          "value": "NA"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Handling",
+          "value": "NA"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE 25% : The buyer can increase or decrease the contract quantity or contract duration up to 25 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 25 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 25 percent with the consent of the service provider 2. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 3. Forms of EMD and PBG"
+    },
+    {
+      "page": 6,
+      "text": "Bidders can also submit the EMD with Fixed Deposit Receipt made out or pledged in the name of A/C PFA/SER/Kolkata-43 . The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of EMD, the FDR will be released in the favour of the bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Bidder has to upload scanned copy/ proof of the FDR along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date/ Bid Opening date 4. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of PFA/SER/Kolkata A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract. 5. Past Project Experience Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc.Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc. 6. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 7. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Vehicle should not be older than 3 calendar years i.e. the vehicle registration should be in 2026, 2025, 2 024, or 2023. At any point of time, vehicles should not be older than 5 years and the vehicle should be BS- VI or latest. 2. A name plate of suitable size is required to be made and fitted on the front of the vehicle. The name plat e should read “On Duty, Ministry of Railway, Govt. of India”. 3. The vehicle should be mechanically sound and shall be well maintained with neat and clean interior/ext eriors and hygienic. 4. The driver must have valid driving license, must possess good driving skill, obedient and courteous. Driv er should not be suffering from hyperhidrosis or any other medical conditions resulting in foul body odour. Medical Certificate to this effect should be provided. The driver must be literate, having good knowledge o f roads, navigation skills and familiarities with traffic rules and regulations and should be able to communic ate properly. He should also be able to do the day-to-day maintenance of the vehicle's cleanliness and func tionality. Driver must have adequate control and patience and remain calm and composed even in stressf ul traffic situations and should never be a part of road rage or reckless driving. 5. All other terms and conditions of the contract for Hiring of Vehicles, which are not specified, Additional T erms and Conditions (ATC), will be governed by Service level Agreement (SLA) for monthly basis cab & tax i hiring services of GeM Portal."
+    },
+    {
+      "page": 7,
+      "text": "6. The vehicle should be available for any outstation duty during the Contract Period. The toll charges and other taxes for the outstation duty will be borne by the contract 7. In case of any break-down of the vehicle or in any other situation such as the firm fails to provide the all ocated category/model of vehicle, the firm must provide a higher category/model of vehicle as an alternati ve for stop-gap arrangement. 8. The tenderer shall submit their official address, Mobile / phone nos., e-mails, & Fax No. (if any) and the driver’s mobile number for communication. 9. Driver should have a mobile phone with round the clock availability (24*7) to attend movement/program details of the vehicle. Service provider should bear the charges regarding Phone call/SMS communication with the user. 10. Driver should not use mobile phone during driving in emergency situation; he should park the vehicle a nd talk/communicate with the permission of the occupant/passenger. 11. The Railway in no case shall be responsible for any legal matters arising out of any State or Central Go vt. laws/rules in the matters of employing the driver by vehicle's owner/Contractor. 12. The contractor shall bear the cost of repair or renewal of any kind of Railway properties if damaged by driver's negligence in rough driving, carelessness. In regard to assessment of such loss on account of dma ges, the decision of the Officer for whom vehicle is hired or his representative will be considered as final a nd binding on the Contractors. 13. Contractor shall be fully responsible for any repair, accident, loss and damages to the vehicle and driv er. If any fine or penalty is imposed by various authorities such as Road Transport Officers/Authorities, Traf fic police etc. for any violation such as speed, traffic rules violation etc., the same will have to be borne by the contractor only. 14. All hired vehicles should be equipped with prescribed emergency kit and a fire extinguisher as per stat utory provision. 15. No sub-contracting shall be allowed in any case. Vehicles should be in the name of the bidder and no s ubletting would be permitted. 16. The contractor shall submit the bill for the month or part thereof by 7th of the following month. The bill must accompany the certification of the consignee using the vehicles having day-wise use and kilometer of use . 17. However, any penalty or fines etc. imposed by RTA, Police or other law enforcing agencies due to failur e/violation of traffic rules etc. are not payable to the contractor and such risk and cost will be borne by the contractor. 18. Other terms and condition will be as per GeM SLA, GeM GCC and other conditions shall be as per GeM updated from time to time. 19. Duration of the service contract may be extended up to 6 months beyond the initial contract duration ( subject to satisfactory performance). 20. While generating invoice in GeM portal, the seller must upload scanned copy of GST invoice and the scr eenshot of GST portal confirming payment of GST. 21. The vehicle should be available to the Railway with Driver, toll tax & fuel round the clock on all days of the month including Sunday & National Holidays at SSE/OHE/BANO & SSE/OHE/GRE. 22. The fixed monthly charges include all major/minor repairs, servicing of vehicle, cost of Lubricants, toll t axes and other consumables as may be required from time to time. 23. No Garage facility for the vehicle or accommodation for the drivers will be provided by the Railway. 24. Railway in no case shall be responsible for any legal matters arising out of any state or central govern ment laws in matters of employing the drivers by the contractor. 25. The contractor should ensure round the clock availability of vehicle & drivers. He should follow the of M inimum Wage Act and duty hours. 26. Driver should be neatly dressed & behave in civilized manners. In any case of complain by consignee,"
+    },
+    {
+      "page": 8,
+      "text": "Contractor must change the driver within 48 hours. 27. Commercial License of driver/ Identity card (Aadhaar card) will be verified by consignee before start of contract. 28. TRUCK HIRING PERIOD: 4 TON capacity Truck hiring is for 730 (Seven hundred thirty) days from the dat e as may be specified in Gem contract. (02 years). 29. INSPECTIONS & ACCEPTANCE: The trucks will be subjected to inspection at the Railway’s premises and approval/ acceptance by SR.DEE(TRD)/RNC or his representative. Any vehicle not found acceptable should be changed 30. CONSIGNEE: The TRUCKS shall be consigned to SSE/OHE/GRE and SSE/OHE/BANO or any authorized pe rson by SR.DEE(TRD)/RNC. 31. The truck should be maintained in good working condition/order and should have full Insurance covera ge. 32. The truck should be 4-tone capacity with valid permit of West Bengal, Orissa & Jharkhand. . 8. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8217776",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100969"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 19-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100969"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 20-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100969"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 60 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100969"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100969"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100969"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: South Eastern Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100969"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Pcee Ser",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100969"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :sanjaya.samal7@gov.in Buyer Email id: praveen.meena6@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100969"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Goods Transportation service - Monthly Based Service - Outside state; Railway material; 4 Ton capacity Truck",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100969"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 2 Year(s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100969"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 15 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100969"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100969"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100969"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100969"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100969"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100969"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100969"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "(( )) / Estimated Bid Value in INR (Inclusive of all taxes): 2914448",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100969"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 58290",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100969"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 58290",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100969"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100969"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100969"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100969"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Type of Transport: Outside state | Nature of Goods: Railway material | Type of Truck: 4 Ton capacity Truck | Size / Weight of vehicle: 13 FT LCV | Usage Variant: Upto 1500 Kms | Area of Operation: Hilly + Plain area | Loading: NA",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100969"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Unloading: NA | Tracking System (GPS): NA | Transit Insurance: NA | Handling: NA",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100969"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Number of Vehicles for regular basis | Additional Requirement: 1 | Md. Ehtesam Ansari | 834003,O/O- DRM Ranchi, DRM Building, Hatia | 2 | Total No. of Trucks required – On call basis (If not required please input 0) : 0 Estimated Number of Trips during contract Period : 500 Duration in months (for the trucks required on call basis) : 0 Duration in months (For Regular basis) : 24",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100969"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE 25% : The buyer can increase or decrease the contract quantity or contract duration up to 25 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 25 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 25 percent with the consent of the service provider 2. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 3. Forms of EMD and PBG",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100969"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "Bidders can also submit the EMD with Fixed Deposit Receipt made out or pledged in the name of A/C PFA/SER/Kolkata-43 . The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of EMD, the FDR will be released in the favour of the bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Bidder has to upload scanned copy/ proof of the FDR along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date/ Bid Opening date 4. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of PFA/SER/Kolkata A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract. 5. Past Project Experience Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc.Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc. 6. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 7. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Vehicle should not be older than 3 calendar years i.e. the vehicle registration should be in 2026, 2025, 2 024, or 2023. At any point of time, vehicles should not be older than 5 years and the vehicle should be BS- VI or latest. 2. A name plate of suitable size is required to be made and fitted on the front of the vehicle. The name plat e should read “On Duty, Ministry of Railway, Govt. of India”. 3. The vehicle should be mechanically sound and shall be well maintained with neat and clean interior/ext eriors and hygienic. 4. The driver must have valid driving license, must possess good driving skill, obedient and courteous. Driv er should not be suffering from hyperhidrosis or any other medical conditions resulting in foul body odour. Medical Certificate to this effect should be provided. The driver must be literate, having good knowledge o f roads, navigation skills and familiarities with traffic rules and regulations and should be able to communic ate properly. He should also be able to do the day-to-day maintenance of the vehicle's cleanliness and func tionality. Driver must have adequate control and patience and remain calm and composed even in stressf ul traffic situations and should never be a part of road rage or reckless driving. 5. All other terms and conditions of the contract for Hiring of Vehicles, which are not specified, Additional T erms and Conditions (ATC), will be governed by Service level Agreement (SLA) for monthly basis cab & tax i hiring services of GeM Portal.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100969"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "6. The vehicle should be available for any outstation duty during the Contract Period. The toll charges and other taxes for the outstation duty will be borne by the contract 7. In case of any break-down of the vehicle or in any other situation such as the firm fails to provide the all ocated category/model of vehicle, the firm must provide a higher category/model of vehicle as an alternati ve for stop-gap arrangement. 8. The tenderer shall submit their official address, Mobile / phone nos., e-mails, & Fax No. (if any) and the driver’s mobile number for communication. 9. Driver should have a mobile phone with round the clock availability (24*7) to attend movement/program details of the vehicle. Service provider should bear the charges regarding Phone call/SMS communication with the user. 10. Driver should not use mobile phone during driving in emergency situation; he should park the vehicle a nd talk/communicate with the permission of the occupant/passenger. 11. The Railway in no case shall be responsible for any legal matters arising out of any State or Central Go vt. laws/rules in the matters of employing the driver by vehicle's owner/Contractor. 12. The contractor shall bear the cost of repair or renewal of any kind of Railway properties if damaged by driver's negligence in rough driving, carelessness. In regard to assessment of such loss on account of dma ges, the decision of the Officer for whom vehicle is hired or his representative will be considered as final a nd binding on the Contractors. 13. Contractor shall be fully responsible for any repair, accident, loss and damages to the vehicle and driv er. If any fine or penalty is imposed by various authorities such as Road Transport Officers/Authorities, Traf fic police etc. for any violation such as speed, traffic rules violation etc., the same will have to be borne by the contractor only. 14. All hired vehicles should be equipped with prescribed emergency kit and a fire extinguisher as per stat utory provision. 15. No sub-contracting shall be allowed in any case. Vehicles should be in the name of the bidder and no s ubletting would be permitted. 16. The contractor shall submit the bill for the month or part thereof by 7th of the following month. The bill must accompany the certification of the consignee using the vehicles having day-wise use and kilometer of use . 17. However, any penalty or fines etc. imposed by RTA, Police or other law enforcing agencies due to failur e/violation of traffic rules etc. are not payable to the contractor and such risk and cost will be borne by the contractor. 18. Other terms and condition will be as per GeM SLA, GeM GCC and other conditions shall be as per GeM updated from time to time. 19. Duration of the service contract may be extended up to 6 months beyond the initial contract duration ( subject to satisfactory performance). 20. While generating invoice in GeM portal, the seller must upload scanned copy of GST invoice and the scr eenshot of GST portal confirming payment of GST. 21. The vehicle should be available to the Railway with Driver, toll tax & fuel round the clock on all days of the month including Sunday & National Holidays at SSE/OHE/BANO & SSE/OHE/GRE. 22. The fixed monthly charges include all major/minor repairs, servicing of vehicle, cost of Lubricants, toll t axes and other consumables as may be required from time to time. 23. No Garage facility for the vehicle or accommodation for the drivers will be provided by the Railway. 24. Railway in no case shall be responsible for any legal matters arising out of any state or central govern ment laws in matters of employing the drivers by the contractor. 25. The contractor should ensure round the clock availability of vehicle & drivers. He should follow the of M inimum Wage Act and duty hours. 26. Driver should be neatly dressed & behave in civilized manners. In any case of complain by consignee,",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100969"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "Contractor must change the driver within 48 hours. 27. Commercial License of driver/ Identity card (Aadhaar card) will be verified by consignee before start of contract. 28. TRUCK HIRING PERIOD: 4 TON capacity Truck hiring is for 730 (Seven hundred thirty) days from the dat e as may be specified in Gem contract. (02 years). 29. INSPECTIONS & ACCEPTANCE: The trucks will be subjected to inspection at the Railway’s premises and approval/ acceptance by SR.DEE(TRD)/RNC or his representative. Any vehicle not found acceptable should be changed 30. CONSIGNEE: The TRUCKS shall be consigned to SSE/OHE/GRE and SSE/OHE/BANO or any authorized pe rson by SR.DEE(TRD)/RNC. 31. The truck should be maintained in good working condition/order and should have full Insurance covera ge. 32. The truck should be 4-tone capacity with valid permit of West Bengal, Orissa & Jharkhand. . 8. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100969"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 2",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

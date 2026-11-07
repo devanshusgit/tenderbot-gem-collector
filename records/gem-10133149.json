@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8245773",
   "title": "High End Desktop Computer",
   "description": "High End Desktop Computer",
-  "organisation": "Industries and Commerce Department Kerala",
-  "ministry": "",
-  "department": "Industries and Commerce Department Kerala",
+  "organisation": "The Kerala Minerals And Metals Ltd",
+  "ministry": "Kerala",
+  "department": "Industries And Commerce Department Kerala",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "High End Desktop Computer",
   "quantity": 2,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-05T16:03:46+05:30",
   "closing_at": "2026-11-20T16:00:00+05:30",
   "status": "active",
@@ -27,6 +27,16 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10133149"
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/WjbbcSAi6cCJfNEUOQe86x-fLsLAaEDUZ8LKf3k0IgY",
+      "page": 2
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261105",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +44,274 @@
   ],
   "source_fetched_at": "2026-11-07T19:43:14.382Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-21T16:00:00+05:30",
+  "office": "Kollam",
+  "buyer_email": "mmtls@kmml.com",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "120 (Days)",
+  "source_document_fetched_at": "2026-11-07T22:37:50.171917+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "4e492118e82baa6c4d85cb430a276587aca5319dac553e31393915b4479bd92f",
+  "document_pages": 7,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "M O Biju",
+      "address": "691583,SANKARAMANGALAM, CHAVARA, KOLLAM",
+      "quantity": 2,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 2,
+      "parameters": [
+        {
+          "group": "PROCESSOR",
+          "parameter": "Description of Stores",
+          "value": "Desktop Computer with Table Mount Monitor System with Compatible Chipset as per Processor make with Minimum 6 USB Port"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Base Processor Number",
+          "value": "AMD Ryzen 7 5700G, Intel Core i7 12700, NA for Higher Processor Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Higher Processor Number",
+          "value": "Intel Core i7- 13700, Intel Core i7- 13700K, Intel Core i7- 14700, Intel Core i7- 14700K, Intel Core i9- 12900, Intel Core i9- 12900K, Intel Core i9- 13900, Intel Core i9- 13900K, Intel Core i9- 14900, Intel Core i9- 14900K, Intel Core Ultra 5- 235T, Intel Core Ultra 5- 225T, Intel Core Ultra 5- 225, Intel Core Ultra 5- 245T, Intel Core Ultra 5- 235, Intel Core Ultra 5- 245, Intel Core Ultra 7- 265T, Intel Core Ultra 7- 265, Intel Core Ultra 9- 285 Or higher"
+        },
+        {
+          "group": "MOTHERBOARD",
+          "parameter": "Trusted Platform Module",
+          "value": "No TPM, Discrete TPM 2.0"
+        },
+        {
+          "group": "OPERATING SYSTEM",
+          "parameter": "Factory Pre-loaded Operating System",
+          "value": "Window 11 Professional, DOS or Equivalent"
+        },
+        {
+          "group": "MEMORY (RAM)",
+          "parameter": "RAM Size (Memory Card/Module) (in GB) (Capacity to be Installed in the System)",
+          "value": "32, 64 Or higher"
+        },
+        {
+          "group": "STORAGE",
+          "parameter": "Primary Storage Capacity (in GB)",
+          "value": "1024, 2048 Or higher"
+        },
+        {
+          "group": "STORAGE",
+          "parameter": "Availability of Secondary Storage",
+          "value": "No Secondary Storage, HDD@5400RPM, HDD@7200RPM, NVME - SSD Or higher"
+        },
+        {
+          "group": "STORAGE",
+          "parameter": "Secondary Storage Capacity (in GB)",
+          "value": "0.0, 1024.0 Or higher"
+        },
+        {
+          "group": "PORTS",
+          "parameter": "Number of USB Type A Ports (Version 3 point 2 Gen 1)",
+          "value": "6 Or higher"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Availibility of Monitor",
+          "value": "Yes as per IS 13252 (Part 1)"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Panel Type",
+          "value": "Twisted Nematic (TN), Vertical Alignment (VA), In Plane Switching (IPS)"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Screen Size (in CMs)",
+          "value": "48.26 - 53 (19.0\" - 20.87\"), 53.1 - 58 (20.91\" - 22.83\"), 58.1 - 63 (22.87\" - 24.8\"), 63.1 - 68 (24.84\" - 26.77\"), 68.1 - 73 (26.81\" - 28.74\"), 73.1 - 78 (28.78\" - 30.71\"), 78.1 - 83 (30.75\" - 32.68\"), 83.1 - 88 (32.72\" - 34.65\")"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Maximum Resolution (Pixels)",
+          "value": "1920 x 1080 (Full HD)"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Monitor Port",
+          "value": "HDMI, VGA, Display Port"
+        },
+        {
+          "group": "INPUT DEVICES",
+          "parameter": "Mouse Connectivity",
+          "value": "USB Wired, Wireless Or higher"
+        },
+        {
+          "group": "INPUT DEVICES",
+          "parameter": "Keyboard Connectivity",
+          "value": "USB Wired, Wireless Or higher"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "On Site OEM Warranty (In year)",
+          "value": "3, 4, 5 Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at"
+    },
+    {
+      "page": 6,
+      "text": "the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 3. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8245773",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133149"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 20-11-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133149"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 21-11-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133149"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133149"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Kerala",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133149"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Industries And Commerce Department Kerala",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133149"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: The Kerala Minerals And Metals Ltd",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133149"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Kollam",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133149"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :mmtls.kmml@kerala.gov.in Buyer Email id: mmtls@kmml.com",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133149"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 2",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133149"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: High End Desktop Computer (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133149"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133149"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133149"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133149"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 2,
+      "quote": "Description of Stores: Desktop Computer with Table Mount Monitor System with Compatible Chipset as per Processor make with Minimum 6 USB Port",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133149"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133149"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133149"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Base Processor Number: AMD Ryzen 7 5700G, Intel Core i7 12700, NA for Higher Processor Or higher | Higher Processor Number: Intel Core i7- 13700, Intel Core i7- 13700K, Intel Core i7- 14700, Intel Core i7- 14700K, Intel Core i9- 12900, Intel Core i9- 12900K, Intel Core i9- 13900, Intel Core i9- 13900K, Intel Core i9- 14900, Intel Core i9- 14900K, Intel Core Ultra 5- 235T, Intel Core Ultra 5- 225T, Intel Core Ultra 5- 225, Intel Core Ultra 5- 245T, Intel Core Ultra 5- 235, Intel Core Ultra 5- 245, Intel Core Ultra 7- 265T, Intel Core Ultra 7- 265, Intel Core Ultra 9- 285 Or higher | Trusted Platform Module: No TPM, Discrete TPM 2.0 | Factory Pre-loaded Operating System: Window 11 Professional, DOS or Equivalent | RAM Size (Memory Card/Module) (in GB) (Capacity to be Installed in the System): 32, 64 Or higher | Primary Storage Capacity (in GB): 1024, 2048 Or higher | Availability of Secondary Storage: No Secondary Storage, HDD@5400RPM, HDD@7200RPM, NVME - SSD Or higher | Secondary Storage Capacity (in GB): 0.0, 1024.0 Or higher | Number of USB Type A Ports (Version 3 point 2 Gen 1): 6 Or higher | Availibility of Monitor: Yes as per IS 13252 (Part 1) | Panel Type: Twisted Nematic (TN), Vertical Alignment (VA), In Plane Switching (IPS) | Screen Size (in CMs): 48.26 - 53 (19.0\" - 20.87\"), 53.1 - 58 (20.91\" - 22.83\"), 58.1 - 63 (22.87\" - 24.8\"), 63.1 - 68 (24.84\" - 26.77\"), 68.1 - 73 (26.81\" - 28.74\"), 73.1 - 78 (28.78\" - 30.71\"), 78.1 - 83 (30.75\" - 32.68\"), 83.1 - 88 (32.72\" - 34.65\") | Maximum Resolution (Pixels): 1920 x 1080 (Full HD) | Monitor Port: HDMI, VGA, Display Port | Mouse Connectivity: USB Wired, Wireless Or higher | Keyboard Connectivity: USB Wired, Wireless Or higher | On Site OEM Warranty (In year): 3, 4, 5 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133149"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | M O Biju | 691583,SANKARAMANGALAM, CHAVARA, KOLLAM | 2 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133149"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133149"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 3. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133149"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

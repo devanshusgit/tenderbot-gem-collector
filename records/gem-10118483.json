@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8232691",
   "title": "Goods Transportation service - Monthly Based Service - Within city; As per tender document; As per ",
   "description": "Goods Transportation service - Monthly Based Service - Within city; As per tender document; As per tender document",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "Central Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Goods Transportation service - Monthly Based Service - Within city; As per tender document; As per ",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 89000,
   "published_at": "2026-11-03T12:15:19+05:30",
   "closing_at": "2026-11-25T13:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10118483"
+    },
+    {
+      "name": ":1793687581.pdf",
+      "url": "https://bidplus.gem.gov.in/resources/upload_nas/NovQ426/bidding/biddoc/bid-10118483/1793687581.pdf",
+      "page": 3
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8232691/CLM0010/TD_d8630fd5-3a6f-4313-8dbd1793687925490_dycmepmtn.cr.pdf",
+      "page": 5
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261103",
+      "page": 6
+    },
+    {
+      "name": "Service Level Agreement",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/bidsla/102383698221289",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +54,276 @@
   ],
   "source_fetched_at": "2026-11-08T09:00:22.505Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-26T13:00:00+05:30",
+  "office": "Central Railway Stores Deptt",
+  "buyer_email": "dycme1mtn@cr.railnet.gov.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Single Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 24,
+  "offer_validity": "60 (Days)",
+  "estimated_bid_value": 4450000,
+  "contract_period": "1 Year(s) 8 Month(s)",
+  "source_document_fetched_at": "2026-11-08T22:32:37.246385+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "932416760798cd9e6c8b0115040b57895e775496e9f7464c94a5fba133d39136",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Manoj Prabhakar Bhavsar",
+      "address": "400019,CENTRAL RAILWAY CARRIAGE WORKSHOP OPPOSITE DHARAVI GATE MATUNGA",
+      "quantity": 1,
+      "quantity_label": "Number of Vehicles for regular basis",
+      "delivery_days": null,
+      "additional_requirements": "Total No. of Trucks required – On call basis (If not required please input 0) : 0 Estimated Number of Trips during contract Period : 450 Duration in months (for the trucks required on call basis) : 0 Duration in months (For Regular basis) : 20"
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Type of Transport",
+          "value": "Within city"
+        },
+        {
+          "group": "Core",
+          "parameter": "Nature of Goods",
+          "value": "As per tender document"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type of Truck",
+          "value": "As per tender document"
+        },
+        {
+          "group": "Core",
+          "parameter": "Size / Weight of vehicle",
+          "value": "As per tender document"
+        },
+        {
+          "group": "Core",
+          "parameter": "Usage Variant",
+          "value": "As per tender document"
+        },
+        {
+          "group": "Core",
+          "parameter": "Area of Operation",
+          "value": "Hilly + Plain area"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Loading",
+          "value": "NA"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Unloading",
+          "value": "NA"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Addon(s)",
+          "parameter": "Tracking System (GPS)",
+          "value": "NA"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Transit Insurance",
+          "value": "NA"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Handling",
+          "value": "NA"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE 50% : The buyer can increase or decrease the contract quantity or contract duration up to 50 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 50 percent. Bidders are bound to accept the revised quantity or duration."
+    },
+    {
+      "page": 5,
+      "text": "For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 50 percent with the consent of the service provider 2. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 3. Payment PAYMENT OF SALARIES AND WAGES: Service Provider is required to pay Salaries / wages of contracted staff deployed at buyer location first i.e. on their own and then claim payment from Buyer alongwith all statutory documents like, PF, ESIC etc. as well as the bank statement of payment done to staff. 4. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8232691",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118483"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 25-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118483"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 26-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118483"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 60 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118483"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118483"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118483"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Central Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118483"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Central Railway Stores Deptt",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118483"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :dycmmadmin@cr.railnet.gov.in Buyer Email id: dycme1mtn@cr.railnet.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118483"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Goods Transportation service - Monthly Based Service - Within city; As per tender document; As per tender document",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118483"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 1 Year(s) 8 Month(s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118483"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118483"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118483"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118483"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "(( )) / Estimated Bid Value in INR (Inclusive of all taxes): 4450000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118483"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 89000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118483"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 89000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118483"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118483"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 24",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118483"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 2,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118483"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Type of Transport: Within city | Nature of Goods: As per tender document | Type of Truck: As per tender document | Size / Weight of vehicle: As per tender document | Usage Variant: As per tender document | Area of Operation: Hilly + Plain area | Loading: NA | Unloading: NA",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118483"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Tracking System (GPS): NA | Transit Insurance: NA | Handling: NA",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118483"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Number of Vehicles for regular basis | Additional Requirement: 1 | Manoj Prabhakar Bhavsar | 400019,CENTRAL RAILWAY CARRIAGE WORKSHOP OPPOSITE DHARAVI GATE MATUNGA | 1 | Total No. of Trucks required – On call basis (If not required please input 0) : 0 Estimated Number of Trips during contract Period : 450 Duration in months (for the trucks required on call basis) : 0 Duration in months (For Regular basis) : 20",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118483"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE 50% : The buyer can increase or decrease the contract quantity or contract duration up to 50 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 50 percent. Bidders are bound to accept the revised quantity or duration.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118483"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 50 percent with the consent of the service provider 2. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 3. Payment PAYMENT OF SALARIES AND WAGES: Service Provider is required to pay Salaries / wages of contracted staff deployed at buyer location first i.e. on their own and then claim payment from Buyer alongwith all statutory documents like, PF, ESIC etc. as well as the bank statement of payment done to staff. 4. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10118483"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

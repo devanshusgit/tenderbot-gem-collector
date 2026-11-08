@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8253956",
   "title": "Cut - off Wheel",
   "description": "Cut - off Wheel",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "Central Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Cut - off Wheel",
   "quantity": 50,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-07T15:50:51+05:30",
   "closing_at": "2026-11-23T11:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10142502"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/XtWxPlckpJ2QU1EWCLMZQ0MdaZb52zxgI6XEqn3rSaU",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261107",
+      "page": 5
     }
   ],
   "tags": [
@@ -34,5 +49,218 @@
   ],
   "source_fetched_at": "2026-11-08T04:50:02.173Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-24T11:00:00+05:30",
+  "office": "Central Railway Stores Deptt",
+  "buyer_email": "amd.kyn@cr.railnet.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "60 (Days)",
+  "source_document_fetched_at": "2026-11-08T06:23:49.692737+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "af433ebacc31ece35534068c8a0ee9a4cbc9e804861ad2fb1465250efdecc2d4",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 3,
+      "consignee": "Umesh Kumar Sharma",
+      "address": "421301,ASSISTANT MATERIAL MANAGER/DIESEL CENTRAL RAILWAY DIESEL LOCO SHED, KALYAN EAST",
+      "quantity": 50,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Construction",
+          "parameter": "Wheel Type",
+          "value": "Type 1"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Material",
+          "value": "Stainless steel"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Wheel Shape",
+          "value": "Straight"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Color",
+          "value": "Red"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Abrasive Types",
+          "value": "Aluminum Oxide"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Arbor Hole",
+          "value": "Threaded"
+        },
+        {
+          "group": "Technical Specifications",
+          "parameter": "Grit",
+          "value": "120, 275, 514, 524 Or higher"
+        },
+        {
+          "group": "Technical Specifications",
+          "parameter": "Maximum Speed, RPM",
+          "value": "13300, 25465 Or higher"
+        },
+        {
+          "group": "Dimensions",
+          "parameter": "Arbor Hole Size",
+          "value": "25.4 (millimeter)"
+        },
+        {
+          "group": "Dimensions",
+          "parameter": "Diameter",
+          "value": "355.0 - 600.0 Or higher (millimeter)"
+        },
+        {
+          "group": "Dimensions",
+          "parameter": "Thickness",
+          "value": "3.0 - 5.0 Or higher (millimeter)"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 2. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 3. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): NIL Post Receipt Inspection at consignee site before acceptance of stores: CONSIGNEE"
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8253956",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10142502"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 23-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10142502"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 24-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10142502"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 60 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10142502"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10142502"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10142502"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Central Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10142502"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Central Railway Stores Deptt",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10142502"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :dycmmadmin@cr.railnet.gov.in Buyer Email id: amd.kyn@cr.railnet.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10142502"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 50",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10142502"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Cut - off Wheel (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10142502"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10142502"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10142502"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10142502"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10142502"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10142502"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Wheel Type: Type 1 | Material: Stainless steel | Wheel Shape: Straight | Color: Red | Abrasive Types: Aluminum Oxide | Arbor Hole: Threaded | Grit: 120, 275, 514, 524 Or higher | Maximum Speed, RPM: 13300, 25465 Or higher | Arbor Hole Size: 25.4 (millimeter) | Diameter: 355.0 - 600.0 Or higher (millimeter) | Thickness: 3.0 - 5.0 Or higher (millimeter)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10142502"
+    },
+    {
+      "field": "consignees",
+      "page": 3,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Umesh Kumar Sharma | 421301,ASSISTANT MATERIAL MANAGER/DIESEL CENTRAL RAILWAY DIESEL LOCO SHED, KALYAN EAST | 50 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10142502"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 2. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 3. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): NIL Post Receipt Inspection at consignee site before acceptance of stores: CONSIGNEE",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10142502"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

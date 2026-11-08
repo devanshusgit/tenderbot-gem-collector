@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8140836",
   "title": "Biosafety Cabinet (V2)",
   "description": "Biosafety Cabinet (V2)",
-  "organisation": "Department of Agricultural Research and Education (DARE)",
-  "ministry": "Ministry of Agriculture and Farmers Welfare",
-  "department": "Department of Agricultural Research and Education (DARE)",
+  "organisation": "Indian Council Of Agricultural Research (icar)",
+  "ministry": "Ministry Of Agriculture And Farmers Welfare",
+  "department": "Department Of Agricultural Research And Education (dare)",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Biosafety Cabinet (V2)",
   "quantity": 2,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 80000,
   "published_at": "2026-11-03T11:24:45+05:30",
   "closing_at": "2026-11-24T12:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10012140"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 5
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/uE7mJ1ru1_Q4UfdD-EmTRc2Zu3qAOppWsZUfYdo2hSk",
+      "page": 6
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8140836/CLM0010/tenderdoc_3a4eff5a-5283-46b6-b6861791543878282_aaoivri.contract.pdf",
+      "page": 9
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261103",
+      "page": 10
     }
   ],
   "tags": [
@@ -34,5 +54,358 @@
   ],
   "source_fetched_at": "2026-11-08T08:58:26.838Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-25T12:00:00+05:30",
+  "office": "Indian Veterinary Research Institute",
+  "buyer_email": "maheshwari.s-icar@nic.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 8,
+  "oem_turnover_lakhs": 8,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 30,
+  "offer_validity": "180 (Days)",
+  "estimated_bid_value": 1600000,
+  "source_document_fetched_at": "2026-11-08T22:50:13.932847+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "27a822a329afc718827c7436c6122f27358031094620ad9490800b0080968f87",
+  "document_pages": 10,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 8 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 8 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: GeM verified turnover (GeM PDF, p. 1)",
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 50 % (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 7,
+      "consignee": "Prakash Verma",
+      "address": "243122,ICAR-Indian Veterinary Research Institute, Izatnagar,Bareilly.",
+      "quantity": 2,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": "Generic",
+          "parameter": "Type of Cabinet",
+          "value": "Class II"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Sub Types of Class II",
+          "value": "Type A2"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Vertical Laminar Flow",
+          "value": "Yes"
+        },
+        {
+          "group": "Dimensions & Construction",
+          "parameter": "Installation Type",
+          "value": "Floor-Mounted"
+        },
+        {
+          "group": "Dimensions & Construction",
+          "parameter": "Outer Body Material",
+          "value": "Precoated Sheet, SS 304 Stainless Steel, SS 316L Stainless Steel Or higher"
+        },
+        {
+          "group": "Dimensions & Construction",
+          "parameter": "Internal Body Material",
+          "value": "Precoated Sheet, SS 304 Stainless Steel, SS 316L Stainless Steel Or higher"
+        },
+        {
+          "group": "Dimensions & Construction",
+          "parameter": "Work Surface",
+          "value": "Single-Piece SS 304 Stainless Steel, Segmented SS 304 Stainless Steel, Single-Piece SS 316L Stainless Steel, Segmented SS 316L Stainless Steel Or higher"
+        },
+        {
+          "group": "Dimensions & Construction",
+          "parameter": "Nominal Width Sizes in mm, Tolerance = ±50 mm",
+          "value": "1200 mm"
+        },
+        {
+          "group": "Dimensions & Construction",
+          "parameter": "Height of Work Top from Ground Level in mm , Tolerance = ±50 mm",
+          "value": "750 mm"
+        },
+        {
+          "group": "Dimensions & Construction",
+          "parameter": "Front Window Material",
+          "value": "Tempered Transparent UV Protected Glass, Transparent UV Protected Polycarbonate"
+        },
+        {
+          "group": "Dimensions & Construction",
+          "parameter": "ULPA Filtration",
+          "value": "ULPA filters at 99.999% efficiency at 0.12 ?m"
+        },
+        {
+          "group": "Specification Performance",
+          "parameter": "Controller",
+          "value": "Microprocessor Based"
+        },
+        {
+          "group": "Specification Performance",
+          "parameter": "Type of Motor",
+          "value": "Suitable AC motor, Suitable DC motor"
+        },
+        {
+          "group": "Specification Performance",
+          "parameter": "Inflow Velocity in (m/s) (Tolerance - ±0.03 m/s)",
+          "value": "0.51 m/s"
+        },
+        {
+          "group": "Specification Performance",
+          "parameter": "Airflow",
+          "value": "(70% recirculated; 30% exhausted)"
+        },
+        {
+          "group": "Specification Performance",
+          "parameter": "Ducting",
+          "value": "Thimble connection optional"
+        },
+        {
+          "group": "Specification Performance",
+          "parameter": "Plenum",
+          "value": "Negative Pressure plenums"
+        },
+        {
+          "group": "Specification Performance",
+          "parameter": "BSL Suitability",
+          "value": "BSL-2"
+        },
+        {
+          "group": "Specification Performance",
+          "parameter": "Electrical Sockets",
+          "value": "1, 2"
+        },
+        {
+          "group": "Specification Performance",
+          "parameter": "Cabinet Control System",
+          "value": "Pressure Gauge for inflow and downflow, Motor Voltage Regulator, Audible and Visual Window Alarm, Main and Outlet Power Circuit Breakers, Power Switches for Exterior Mounted LED/Fluorescent Light and/or Ultraviolet Lights, Interior Outlets, Motor Controller, Filter Life Indicator, UV Lamp Timer, Automatic Airflow Compensation"
+        },
+        {
+          "group": "Specification Performance",
+          "parameter": "Number of Glove Port",
+          "value": "NA"
+        },
+        {
+          "group": "Specification Performance",
+          "parameter": "Gloves Material",
+          "value": "NA"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 8,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of ICAR Unit IVRI Izatnagar A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract. 3. Forms of EMD and PBG Bidders can also submit the EMD with Fixed Deposit Receipt made out or pledged in the name of A/C ICAR Unit IVRI Izatnagar . The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of EMD, the FDR will be released in the favour of the bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Bidder has to upload scanned copy/ proof of the FDR along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date/ Bid Opening date 4. Buyer Added Bid Specific ATC"
+    },
+    {
+      "page": 9,
+      "text": "Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8140836",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012140"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 24-11-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012140"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 25-11-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012140"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012140"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Agriculture And Farmers Welfare",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012140"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Agricultural Research And Education (dare)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012140"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Council Of Agricultural Research (icar)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012140"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Indian Veterinary Research Institute",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012140"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :sujit.singh-icar@nic.in Buyer Email id: maheshwari.s-icar@nic.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012140"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 2",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012140"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Biosafety Cabinet (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012140"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 8 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012140"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 8 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012140"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012140"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: GeM verified turnover",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012140"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012140"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012140"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012140"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 50 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012140"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012140"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 1600000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012140"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 80000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012140"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 80000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012140"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012140"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012140"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012140"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Type of Cabinet: Class II | Sub Types of Class II: Type A2 | Vertical Laminar Flow: Yes | Installation Type: Floor-Mounted | Outer Body Material: Precoated Sheet, SS 304 Stainless Steel, SS 316L Stainless Steel Or higher | Internal Body Material: Precoated Sheet, SS 304 Stainless Steel, SS 316L Stainless Steel Or higher | Work Surface: Single-Piece SS 304 Stainless Steel, Segmented SS 304 Stainless Steel, Single-Piece SS 316L Stainless Steel, Segmented SS 316L Stainless Steel Or higher | Nominal Width Sizes in mm, Tolerance = ±50 mm: 1200 mm | Height of Work Top from Ground Level in mm , Tolerance = ±50 mm: 750 mm | Front Window Material: Tempered Transparent UV Protected Glass, Transparent UV Protected Polycarbonate | ULPA Filtration: ULPA filters at 99.999% efficiency at 0.12 ?m | Controller: Microprocessor Based | Type of Motor: Suitable AC motor, Suitable DC motor | Inflow Velocity in (m/s) (Tolerance - ±0.03 m/s): 0.51 m/s | Airflow: (70% recirculated; 30% exhausted) | Ducting: Thimble connection optional | Plenum: Negative Pressure plenums | BSL Suitability: BSL-2 | Electrical Sockets: 1, 2 | Cabinet Control System: Pressure Gauge for inflow and downflow, Motor Voltage Regulator, Audible and Visual Window Alarm, Main and Outlet Power Circuit Breakers, Power Switches for Exterior Mounted LED/Fluorescent Light and/or Ultraviolet Lights, Interior Outlets, Motor Controller, Filter Life Indicator, UV Lamp Timer, Automatic Airflow Compensation | Number of Glove Port: NA | Gloves Material: NA",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012140"
+    },
+    {
+      "field": "consignees",
+      "page": 7,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Prakash Verma | 243122,ICAR-Indian Veterinary Research Institute, Izatnagar,Bareilly. | 2 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012140"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of ICAR Unit IVRI Izatnagar A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract. 3. Forms of EMD and PBG Bidders can also submit the EMD with Fixed Deposit Receipt made out or pledged in the name of A/C ICAR Unit IVRI Izatnagar . The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of EMD, the FDR will be released in the favour of the bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Bidder has to upload scanned copy/ proof of the FDR along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date/ Bid Opening date 4. Buyer Added Bid Specific ATC",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012140"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012140"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8230459",
   "title": "Servers (V2)",
   "description": "Servers (V2)",
-  "organisation": "Central Council for Research in Ayurvedic Sciences",
-  "ministry": "Ministry of AYUSH",
-  "department": "Central Council for Research in Ayurvedic Sciences",
+  "organisation": "Central Council For Research In Ayurvedic Sciences",
+  "ministry": "Ministry Of Ayush",
+  "department": "Central Council For Research In Ayurvedic Sciences",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Servers (V2)",
   "quantity": 2,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 200000,
   "published_at": "2026-11-03T11:00:20+05:30",
   "closing_at": "2026-11-23T18:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 5
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/bIv8Qinsw2ahXI4Sm-xDIysW3uZRs7fiJyP4qGpNKO4",
+      "page": 5
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261103",
+      "page": 11
     }
   ],
   "tags": [
@@ -34,5 +49,351 @@
   ],
   "source_fetched_at": "2026-11-08T08:57:43.795Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-24T18:00:00+05:30",
+  "office": "National Institute Of Indian Medical Heritage",
+  "buyer_email": "bisworanjan.80@gov.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 20,
+  "oem_turnover_lakhs": 160,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,OEM Authorization Certificate,OEM Annual Turnover,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 14,
+  "offer_validity": "120 (Days)",
+  "estimated_bid_value": 4000000,
+  "source_document_fetched_at": "2026-11-08T22:58:37.246209+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "472da9386a50653676ab24f501364b9370fb1f7b4fe8b52be69e40a19fdd79ef",
+  "document_pages": 11,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 20 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 160 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: GeM verified turnover (GeM PDF, p. 1)",
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,OEM Authorization Certificate,OEM Annual Turnover,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 50 % (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 8,
+      "consignee": "Thrigulla Saketh Ram",
+      "address": "500036,National Institute of Indian Medical Heritage Revenue Board Colony, Gaddiannaram",
+      "quantity": 2,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Chassis",
+          "parameter": "Description of Stores",
+          "value": "Server with standard 1 year warranty"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Form Factor",
+          "value": "Rack"
+        },
+        {
+          "group": null,
+          "parameter": "Size (RU)",
+          "value": "2"
+        },
+        {
+          "group": "Processor and Motherboard",
+          "parameter": "Number of Sockets Available on the Server",
+          "value": "2, 4 Or higher"
+        },
+        {
+          "group": "Processor and Motherboard",
+          "parameter": "Number of Sockets Populated with Processors on the Server",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Processor Number",
+          "value": "Intel Xeon Gold 6526Y, Intel Xeon Gold 6342, Intel Xeon Gold 5418N, Intel Xeon Gold 6544Y, Intel Xeon Gold 6444Y, Intel Xeon Gold 6338N, Intel Xeon Gold 6338, Intel Xeon Gold 6348, Intel Xeon Gold 5418Y, Intel Xeon Platinum 8352S, Intel Xeon Silver 4516Y+, Intel Xeon Platinum 8352V, Intel Xeon Platinum 8352M, Intel Xeon Platinum 8352Y, Intel Xeon Gold 5318H, Intel Xeon Platinum 8353H, Intel Xeon Gold 6328H, Intel Xeon Gold 6328HL, Intel Xeon Platinum 8358P, Intel Xeon Platinum 8358, Intel Xeon Gold 6418H, Intel Xeon Gold 6530, Intel Xeon Gold 5420+, Intel Xeon Gold 5320H, Intel Xeon Gold 6554S, Intel Xeon Platinum 8450H, Intel Xeon Gold 6428N, Intel Xeon Platinum 8360Y, Intel Xeon Platinum 8362, Intel Xeon Silver 4215, Intel Xeon Gold 5520+, Intel Xeon Gold 6442Y, Intel Xeon Gold 6542Y, Intel Xeon Gold 6430, Intel Xeon Gold 6330H, Intel Xeon Platinum 8368, Intel Xeon Gold 6438N, Intel Xeon Gold 6438M, Intel Xeon Gold 6438Y+, Intel Xeon Platinum 8454H, Intel Xeon Gold 6538N, Intel Xeon Silver 4210T, Intel Xeon Silver 4215R, Intel Xeon Silver 4210R, Intel Xeon Gold 6454S, Intel Xeon Gold 6348H, Intel Xeon Platinum 8380, Intel Xeon Platinum 8368Q, Intel Xeon Platinum 8354H, Intel Xeon Gold 6448Y, Intel Xeon Gold 6538Y+, Intel Xeon Platinum 8558, Intel Xeon Gold 6548N, Intel Xeon Platinum 8558P, Intel Xeon Gold 6548Y+, Intel Xeon Platinum 8360H, Intel Xeon Platinum 8360HL, Intel Xeon Platinum 8376H, Intel Xeon Platinum 8452Y, Intel Xeon Gold 6448H, Intel Xeon Platinum 8376HL, Intel Xeon 6710E, Intel Xeon Silver 4214R, Intel Xeon CPU Max 9462, Intel Xeon 6730P, Intel Xeon Platinum 8562Y+, Intel Xeon Platinum 8462Y+, Intel Xeon CPU Max 9460, Intel Xeon Gold 6458Q, Intel Xeon Gold 6558Q, Intel Xeon Platinum 8460Y+, Intel Xeon Platinum 8380H, Intel Xeon CPU Max 9468, Intel Xeon Gold 6226R, Intel Xeon Platinum 8460H, Intel Xeon CPU Max 9470, Intel Xeon CPU Max 9480, Intel Xeon Platinum 8458P, Intel Xeon Gold 6230R, Intel Xeon Platinum 8468V, Intel Xeon Platinum 8470N, Intel Xeon Platinum 8468H, Intel Xeon Platinum 8468, Intel Xeon Platinum 8470, Intel Xeon 6740P, Intel Xeon Platinum 8568Y+, Intel Xeon 6741P, Intel Xeon Platinum 8570, Intel Xeon Platinum 8470Q, Intel Xeon 6746E, Intel Xeon Platinum 8592V, Intel Xeon Platinum 8480+, Intel Xeon 6740E, Intel Xeon Platinum 8490H, Intel Xeon 6747P, Intel Xeon Platinum 8580, Intel Xeon 6756E, Intel Xeon Platinum 8593Q, Intel Xeon Platinum 8592+, Intel Xeon 6766E, Intel Xeon 6760P, Intel Xeon 6761P, Intel Xeon 6767P, Intel Xeon 6780E, Intel Xeon 6781P, Intel Xeon 6787P, Intel Xeon 6731E, Intel Xeon 6714P, Intel Xeon 6515P, Intel Xeon 6527P, Intel Xeon 6530P, Intel Xeon 6520P, Intel Xeon 6724P, Intel Xeon 6725P, Intel Xeon 6728P, Intel Xeon 6736P, Intel Xeon 6737P, Intel Xeon 6738P, Intel Xeon 6748P, Intel Xeon 6788P Or higher"
+        },
+        {
+          "group": "Graphic Processing Unit (GPU)",
+          "parameter": "Graphic Card Availability",
+          "value": "Yes Or higher"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Graphics Processing Unit (GPU) Number",
+          "value": "NVIDIA L40S - 48 GB, NVIDIA L40 - 48GB, NVIDIA A16 - 64 GB, NVIDIA A100 Tensor Core - 80 GB, NVIDIA H100 - 80 GB, NVIDIA H200 Tensor Core - 141 GB, NVIDIA RTX PRO 6000 Blackwell Server Edition - 96 GB, NVIDIA H100 SXM - 80 GB, NVIDIA H100 NVL - 94 GB, NVIDIA HGX H200 - 141 GB, NVIDIA HGX B200 - 180 GB Or higher"
+        },
+        {
+          "group": "Memory",
+          "parameter": "Type of RAM",
+          "value": "DDR5 with ECC Or higher"
+        },
+        {
+          "group": "Memory",
+          "parameter": "Total Number of DIMM Slots available",
+          "value": "32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64 Or higher"
+        },
+        {
+          "group": "Memory",
+          "parameter": "Total Memory (RAM) Size Installed (in GB)",
+          "value": "64, 128, 256, 512, 1024, 2048, 4096 Or higher"
+        },
+        {
+          "group": "SSD Storage",
+          "parameter": "Type of Interface for SSD",
+          "value": "SATA-SSD"
+        },
+        {
+          "group": "HDD Storage",
+          "parameter": "Type of Interface for Hard Disk Drive (HDD)",
+          "value": "SATA-HDD, SAS-HDD, NL SAS-HDD, Not Applicable"
+        },
+        {
+          "group": "Software",
+          "parameter": "Certifications Compliance (Operating System)",
+          "value": "Windows"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 9,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Non return of Hard Disk: As per Buyer organization’s Security Policy,Faulty Hard Disk of Servers/Desktop Computers/ Laptops etc. will not be returned back to the OEM/supplier against warranty replacement. 3. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 4. Forms of EMD and PBG Bidders can also submit the EMD with Fixed Deposit Receipt made out or pledged in the name of A/C NATIONAL INSTITUTE OF INDIAN MEDICAL HERITAGE . The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of EMD, the FDR will be released in the favour of the bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Bidder has to upload scanned copy/ proof of the FDR along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date/ Bid Opening date 5. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of NATIONAL INSTITUTE OF INDIAN MEDICAL HERITAGE A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of"
+    },
+    {
+      "page": 10,
+      "text": "PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract. 6. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. The bidders are requested to submit the following following documents. 1. Valid PAN CARD 2. Valid GST certificate 3. Valid Authorization Certificate. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8230459",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 23-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 24-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Ayush",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Central Council For Research In Ayurvedic Sciences",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Central Council For Research In Ayurvedic Sciences",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: National Institute Of Indian Medical Heritage",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :goli.prasad@gov.in Buyer Email id: bisworanjan.80@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 2",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Servers (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 20 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 160 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: GeM verified turnover",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,OEM Authorization Certificate,OEM Annual Turnover,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 50 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 4000000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 200000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 200000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 14",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Description of Stores: Server with standard 1 year warranty",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Form Factor: Rack | Size (RU): 2 | Number of Sockets Available on the Server: 2, 4 Or higher | Number of Sockets Populated with Processors on the Server: 2",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 7,
+      "quote": "Processor Number: Intel Xeon Gold 6526Y, Intel Xeon Gold 6342, Intel Xeon Gold 5418N, Intel Xeon Gold 6544Y, Intel Xeon Gold 6444Y, Intel Xeon Gold 6338N, Intel Xeon Gold 6338, Intel Xeon Gold 6348, Intel Xeon Gold 5418Y, Intel Xeon Platinum 8352S, Intel Xeon Silver 4516Y+, Intel Xeon Platinum 8352V, Intel Xeon Platinum 8352M, Intel Xeon Platinum 8352Y, Intel Xeon Gold 5318H, Intel Xeon Platinum 8353H, Intel Xeon Gold 6328H, Intel Xeon Gold 6328HL, Intel Xeon Platinum 8358P, Intel Xeon Platinum 8358, Intel Xeon Gold 6418H, Intel Xeon Gold 6530, Intel Xeon Gold 5420+, Intel Xeon Gold 5320H, Intel Xeon Gold 6554S, Intel Xeon Platinum 8450H, Intel Xeon Gold 6428N, Intel Xeon Platinum 8360Y, Intel Xeon Platinum 8362, Intel Xeon Silver 4215, Intel Xeon Gold 5520+, Intel Xeon Gold 6442Y, Intel Xeon Gold 6542Y, Intel Xeon Gold 6430, Intel Xeon Gold 6330H, Intel Xeon Platinum 8368, Intel Xeon Gold 6438N, Intel Xeon Gold 6438M, Intel Xeon Gold 6438Y+, Intel Xeon Platinum 8454H, Intel Xeon Gold 6538N, Intel Xeon Silver 4210T, Intel Xeon Silver 4215R, Intel Xeon Silver 4210R, Intel Xeon Gold 6454S, Intel Xeon Gold 6348H, Intel Xeon Platinum 8380, Intel Xeon Platinum 8368Q, Intel Xeon Platinum 8354H, Intel Xeon Gold 6448Y, Intel Xeon Gold 6538Y+, Intel Xeon Platinum 8558, Intel Xeon Gold 6548N, Intel Xeon Platinum 8558P, Intel Xeon Gold 6548Y+, Intel Xeon Platinum 8360H, Intel Xeon Platinum 8360HL, Intel Xeon Platinum 8376H, Intel Xeon Platinum 8452Y, Intel Xeon Gold 6448H, Intel Xeon Platinum 8376HL, Intel Xeon 6710E, Intel Xeon Silver 4214R, Intel Xeon CPU Max 9462, Intel Xeon 6730P, Intel Xeon Platinum 8562Y+, Intel Xeon Platinum 8462Y+, Intel Xeon CPU Max 9460, Intel Xeon Gold 6458Q, Intel Xeon Gold 6558Q, Intel Xeon Platinum 8460Y+, Intel Xeon Platinum 8380H, Intel Xeon CPU Max 9468, Intel Xeon Gold 6226R, Intel Xeon Platinum 8460H, Intel Xeon CPU Max 9470, Intel Xeon CPU Max 9480, Intel Xeon Platinum 8458P, Intel Xeon Gold 6230R, Intel Xeon Platinum 8468V, Intel Xeon Platinum 8470N, Intel Xeon Platinum 8468H, Intel Xeon Platinum 8468, Intel Xeon Platinum 8470, Intel Xeon 6740P, Intel Xeon Platinum 8568Y+, Intel Xeon 6741P, Intel Xeon Platinum 8570, Intel Xeon Platinum 8470Q, Intel Xeon 6746E, Intel Xeon Platinum 8592V, Intel Xeon Platinum 8480+, Intel Xeon 6740E, Intel Xeon Platinum 8490H, Intel Xeon 6747P, Intel Xeon Platinum 8580, Intel Xeon 6756E, Intel Xeon Platinum 8593Q, Intel Xeon Platinum 8592+, Intel Xeon 6766E, Intel Xeon 6760P, Intel Xeon 6761P, Intel Xeon 6767P, Intel Xeon 6780E, Intel Xeon 6781P, Intel Xeon 6787P, Intel Xeon 6731E, Intel Xeon 6714P, Intel Xeon 6515P, Intel Xeon 6527P, Intel Xeon 6530P, Intel Xeon 6520P, Intel Xeon 6724P, Intel Xeon 6725P, Intel Xeon 6728P, Intel Xeon 6736P, Intel Xeon 6737P, Intel Xeon 6738P, Intel Xeon 6748P, Intel Xeon 6788P Or higher | Graphic Card Availability: Yes Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 8,
+      "quote": "Graphics Processing Unit (GPU) Number: NVIDIA L40S - 48 GB, NVIDIA L40 - 48GB, NVIDIA A16 - 64 GB, NVIDIA A100 Tensor Core - 80 GB, NVIDIA H100 - 80 GB, NVIDIA H200 Tensor Core - 141 GB, NVIDIA RTX PRO 6000 Blackwell Server Edition - 96 GB, NVIDIA H100 SXM - 80 GB, NVIDIA H100 NVL - 94 GB, NVIDIA HGX H200 - 141 GB, NVIDIA HGX B200 - 180 GB Or higher | Type of RAM: DDR5 with ECC Or higher | Total Number of DIMM Slots available: 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64 Or higher | Total Memory (RAM) Size Installed (in GB): 64, 128, 256, 512, 1024, 2048, 4096 Or higher | Type of Interface for SSD: SATA-SSD | Type of Interface for Hard Disk Drive (HDD): SATA-HDD, SAS-HDD, NL SAS-HDD, Not Applicable | Certifications Compliance (Operating System): Windows",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    },
+    {
+      "field": "consignees",
+      "page": 8,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Thrigulla Saketh Ram | 500036,National Institute of Indian Medical Heritage Revenue Board Colony, Gaddiannaram | 2 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Non return of Hard Disk: As per Buyer organization’s Security Policy,Faulty Hard Disk of Servers/Desktop Computers/ Laptops etc. will not be returned back to the OEM/supplier against warranty replacement. 3. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 4. Forms of EMD and PBG Bidders can also submit the EMD with Fixed Deposit Receipt made out or pledged in the name of A/C NATIONAL INSTITUTE OF INDIAN MEDICAL HERITAGE . The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of EMD, the FDR will be released in the favour of the bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Bidder has to upload scanned copy/ proof of the FDR along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date/ Bid Opening date 5. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of NATIONAL INSTITUTE OF INDIAN MEDICAL HERITAGE A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract. 6. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. The bidders are requested to submit the following following documents. 1. Valid PAN CARD 2. Valid GST certificate 3. Valid Authorization Certificate. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10115835"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

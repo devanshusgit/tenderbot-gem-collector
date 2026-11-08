@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8252407",
   "title": "Line Interactive UPS with AVR (V2)",
   "description": "Line Interactive UPS with AVR (V2)",
-  "organisation": "Department of Food and Public Distribution",
-  "ministry": "Ministry of Consumer Affairs Food and Public Distribution",
-  "department": "Department of Food and Public Distribution",
+  "organisation": "Food Corporation Of India (fci)",
+  "ministry": "Ministry Of Consumer Affairs Food And Public Distribution",
+  "department": "Department Of Food And Public Distribution",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Line Interactive UPS with AVR (V2)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-07T10:44:24+05:30",
   "closing_at": "2026-11-17T11:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10140695"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/8i7Qhx1ZdGhDcVTgo_qrR52MpBAHGp7wP9w-e9ReHRY",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261107",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +49,183 @@
   ],
   "source_fetched_at": "2026-11-08T05:17:14.169Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-18T11:00:00+05:30",
+  "office": "Kangra",
+  "buyer_email": "pangtey@fci.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-08T14:26:33.337269+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "e56fad56ed8e131a30ece6e23d8f2c683c829c1533b871c1822832377746933d",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Vinod Singh Pangtey",
+      "address": "176057,Devakshar plaza, Barol, Post office Dari, DMC Ward no. 12, Dharamshala, Kangra, Himachal pradesh, 176057",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "GENERIC",
+          "parameter": "UPS Rating (in KVA)",
+          "value": "1.0, 1.5, 2.0, 3 Or higher"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Inverter Technology",
+          "value": "MOSFET-PWM"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Inverter Efficiency (in %)",
+          "value": "70% or better Or higher"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Minimum Guaranteed Battery Backup Time (in Minutes) at Full Load",
+          "value": "30, 60, 90, 120, 180, 240 Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Malicious Code Certificate: The seller should upload following certificate in the bid:- (a) This is to certify that the Hardware and the Software being offered, as part of the contract, does not contain Embedded Malicious code that would activate procedures to :- (i) Inhibit the desires and designed function of the equipment. (ii) Cause physical damage to the user or equipment during the exploitation. (iii) Tap information resident or transient in the equipment/network. (b) The firm will be considered to be in breach of the procurement contract, in case physical damage, loss of information or infringements related to copyright and Intellectual Property Right (IPRs) are caused due to activation of any such malicious code in embedded software. 3. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8252407",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140695"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 17-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140695"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 18-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140695"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140695"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Consumer Affairs Food And Public Distribution",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140695"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Food And Public Distribution",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140695"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Food Corporation Of India (fci)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140695"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Kangra",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140695"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :dharahp.fci@nic.in Buyer Email id: pangtey@fci.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140695"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140695"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Line Interactive UPS with AVR (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140695"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140695"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140695"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140695"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140695"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140695"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "UPS Rating (in KVA): 1.0, 1.5, 2.0, 3 Or higher | Inverter Technology: MOSFET-PWM | Inverter Efficiency (in %): 70% or better Or higher | Minimum Guaranteed Battery Backup Time (in Minutes) at Full Load: 30, 60, 90, 120, 180, 240 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140695"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Vinod Singh Pangtey | 176057,Devakshar plaza, Barol, Post office Dari, DMC Ward no. 12, Dharamshala, Kangra, Himachal pradesh, 176057 | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140695"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Malicious Code Certificate: The seller should upload following certificate in the bid:- (a) This is to certify that the Hardware and the Software being offered, as part of the contract, does not contain Embedded Malicious code that would activate procedures to :- (i) Inhibit the desires and designed function of the equipment. (ii) Cause physical damage to the user or equipment during the exploitation. (iii) Tap information resident or transient in the equipment/network. (b) The firm will be considered to be in breach of the procurement contract, in case physical damage, loss of information or infringements related to copyright and Intellectual Property Right (IPRs) are caused due to activation of any such malicious code in embedded software. 3. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140695"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

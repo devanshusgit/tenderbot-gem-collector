@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8051716",
   "title": "Network Attached Storage (V2)",
   "description": "Network Attached Storage (V2)",
-  "organisation": "Department of Economic Affairs",
-  "ministry": "Ministry of Finance",
-  "department": "Department of Economic Affairs",
+  "organisation": "N/a",
+  "ministry": "Ministry Of Finance",
+  "department": "Department Of Economic Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Network Attached Storage (V2)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 22000,
   "published_at": "2026-11-05T09:36:52+05:30",
   "closing_at": "2026-11-26T11:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/9910283"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/jEtBZ2W3Ii4ysuTT0yNmxy9JtSincMKY3oZqxyf-fV4",
+      "page": 5
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8051716/CLM0010/ATC_NAS_e9d43e96-92f2-49e4-a6ad1793851414432_debanjanhalder@brbnmpl.co.in.pdf",
+      "page": 10
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261105",
+      "page": 12
     }
   ],
   "tags": [
@@ -34,5 +54,359 @@
   ],
   "source_fetched_at": "2026-11-08T09:05:27.536Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-27T11:00:00+05:30",
+  "office": "Karnataka",
+  "buyer_email": "debanjanhalder@brbnmpl.co.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 3.3,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 65,
+  "offer_validity": "120 (Days)",
+  "source_document_fetched_at": "2026-11-08T22:16:37.598267+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "6a66c29da83b189bf500f04b9344ab44e2b0bd1c5c7826c814648713d72ce651",
+  "document_pages": 12,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 3.3 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 30 % (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 7,
+      "consignee": "Y N Vijaya Kumar",
+      "address": "570003,BHARATIYA RESERVE BANK NOTE MUDRAN (P) LIMITED NOTE MUDRAN NAGAR MYSURU",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 90
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Generic",
+          "parameter": "Description of Stores",
+          "value": "Network Attached Storage (NAS) with standard 1 year warranty"
+        },
+        {
+          "group": "Memory",
+          "parameter": "Total Memory (RAM) Size Installed (in GB)",
+          "value": "64, 96, 128, 192, 256, 384, 512, 768, 1024, 2048 Or higher"
+        },
+        {
+          "group": "Computing",
+          "parameter": "Architecture Type",
+          "value": "Processor"
+        },
+        {
+          "group": "Computing",
+          "parameter": "Number of Controller/Node/Processor",
+          "value": "1, 2"
+        },
+        {
+          "group": "Computing",
+          "parameter": "Protocol Supported",
+          "value": "NFS (Network File System), SMB / CIFS (Serve Messaging Block / Common Internet File System)"
+        },
+        {
+          "group": "Computing",
+          "parameter": "Feature",
+          "value": "Snapshot, Replication"
+        },
+        {
+          "group": "Storage",
+          "parameter": "Type of Storage Interface",
+          "value": "SATA-SSD, SATA-HDD"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Hot Swappable",
+          "value": "No, Yes Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Total Number of Slots available for SATA SSD Storage",
+          "value": "8.0, 12.0, 16.0, 24.0, 36.0, 48.0, 60.0, 80.0, 96.0, 100.0, 0.0 Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Number of Slot Populated with SATA SSD",
+          "value": "10.0, 20.0, 30.0, 40.0, 50.0, 60.0, 70.0, 80.0, 90.0, 100.0, 0.0"
+        },
+        {
+          "group": null,
+          "parameter": "Capacity offered per SATA SSD (in GB)",
+          "value": "480.0, 800.0, 960.0, 1600.0, 1920.0, 3200.0, 3840.0, 7680.0, 15360.0, 30720.0, 0.0 Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Total Number of Slots Available for NVMe SSD",
+          "value": "0.0 Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Number of Slots Populated with NVMe SSD",
+          "value": "0.0"
+        },
+        {
+          "group": null,
+          "parameter": "Capacity Offered per NVMe SSD (in GB)",
+          "value": "0.0 Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Total Number of Slots Available for SATA HDD",
+          "value": "8.0, 12.0, 15.0, 16.0, 24.0, 30.0, 36.0, 42.0, 45.0, 48.0, 54.0, 60.0, 66.0, 72.0, 75.0, 78.0, 84.0, 90.0, 96.0 Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Number of Slots populated with SATA HDD",
+          "value": "2.0, 4.0, 6.0, 8.0, 10.0, 12.0, 14.0, 16.0, 18.0, 20.0, 22.0, 24.0, 26.0, 28.0, 30.0, 32.0, 34.0, 36.0, 38.0, 40.0, 42.0, 44.0, 46.0, 48.0, 50.0, 52.0, 54.0, 56.0, 58.0, 60.0"
+        },
+        {
+          "group": null,
+          "parameter": "Capacity offered per SATA HDD (in GB)",
+          "value": "6000.0, 20000.0 Or higher"
+        },
+        {
+          "group": "RAID",
+          "parameter": "RAID level",
+          "value": "RAID 1, RAID 5, RAID 6, RAID 10 (RAID 1+0)"
+        },
+        {
+          "group": "Software",
+          "parameter": "Operating System Supported",
+          "value": "Windows, Linux, Unix"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 7,
+      "text": "1. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 2. Generic Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of technical parameters, the bid is liable for rejection. 3. Generic Malicious Code Certificate: The seller should upload following certificate in the bid:-"
+    },
+    {
+      "page": 8,
+      "text": "(a) This is to certify that the Hardware and the Software being offered, as part of the contract, does not contain Embedded Malicious code that would activate procedures to :- (i) Inhibit the desires and designed function of the equipment. (ii) Cause physical damage to the user or equipment during the exploitation. (iii) Tap information resident or transient in the equipment/network. (b) The firm will be considered to be in breach of the procurement contract, in case physical damage, loss of information or infringements related to copyright and Intellectual Property Right (IPRs) are caused due to activation of any such malicious code in embedded software. 4. Generic Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller. 5. Generic Non return of Hard Disk: As per Buyer organization’s Security Policy,Faulty Hard Disk of Servers/Desktop Computers/ Laptops etc. will not be returned back to the OEM/supplier against warranty replacement. 6. Generic Without prejudice to Buyer’s right to price adjustment by way of discount or any other right or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a written notice to the Seller, if: i) The Seller fails to comply with any material term of the Contract. ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within the stipulated Delivery Period or such inability otherwise becomes apparent. iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery Period and/or to replace/rectify any rejected or defective Material(s) promptly. iv) The Seller becomes bankrupt or goes into liquidation. v) The Seller makes a general assignment for the benefit of creditors. vi) A receiver is appointed for any substantial property owned by the Seller. vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has placed the Purchase Order on the Seller. 7. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 8. Purchase Preference (Centre) Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to avail the Purchase preference, the bidder must be the manufacturer of the offered product in case of bid for supply of goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of 25% of total value. 9. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 10. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the"
+    },
+    {
+      "page": 9,
+      "text": "Bid document, ATC and Corrigendum if any. 11. Warranty Warranty period of the supplied products shall be 5 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 12. Forms of EMD and PBG Bidders can also submit the EMD with Account Payee Demand Draft in favour of BHARATIYA RESERVE BANK NOTE MUDRAN (P) LTD payable at MYSURU . Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 13. Forms of EMD and PBG Bidders can also submit the EMD with Banker’s Cheque in favour of BHARATIYA RESERVE BANK NOTE MUDRAN (P) LTD payable at MYSURU . Bidder has to upload scanned copy / proof of the BC along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 14. Forms of EMD and PBG Bidders can also submit the EMD with Payment online through RTGS / internet banking in Beneficiary name BHARATIYA RESERVE BANK NOTE MUDRAN (P) LTD Account No. 00000010562408040 IFSC Code SBIN0003130 Bank Name STATE BANK OF INDIA Branch address MOTHIKHANA BUILDING, NEW SAYYAJI ROAD, MYSURU-570024 . Bidder to indicate bid number and name of bidding entity in the transaction details field at the time of on- line transfer. Bidder has to upload scanned copy / proof of the Online Payment Transfer along with bid. 15. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in favour of BHARATIYA RESERVE BANK NOTE MUDRAN (P) LTD payable at MYSURU . After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of contract. 16. Forms of EMD and PBG"
+    },
+    {
+      "page": 10,
+      "text": "Successful Bidder can submit the Performance Security in the form of Payment online through RTGS / internet banking also (besides PBG which is allowed as per GeM GTC). On-line payment shall be in Beneficiary name BHARATIYA RESERVE BANK NOTE MUDRAN (P) LTD Account No. 00000010562408040 IFSC Code SBIN0003130 Bank Name STATE BANK OF INDIA Branch address MOTHIKHANA BUILDING, NEW SAYYAJI ROAD, MYSURU-570024 . Successful Bidder to indicate Contract number and name of Seller entity in the transaction details field at the time of on-line transfer. Bidder has to upload scanned copy / proof of the Online Payment Transfer in place of PBG within 15 days of award of contract. 17. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses i) All other terms and conditions mentioned in uploaded ATC document are integral part of this bid. ii) ATTENTION BIDDERS: This ATC and its Annexures govern on Past Performance Timeframes, Warranty, D elivery Period, and the technical/operational detail (specifications, scope of supply, delivery and inspection requirements, the documents to be submitted and eligibility criteria) that GeM's generic bid fields do not c apture. The technical specifications are as given in Annexure-2, as referred to in the Additional Specificatio n Parameters of the Bid Details; the generic GeM category values are the nearest available match. Bidders must read, quote and submit compliance based on this ATC together with the Bid Details section. In case o f any conflict between this ATC and the generic parameters or terms auto-generated by the GeM portal, th is ATC shall prevail. Bids failing to comply with this ATC's explicit terms will be liable for rejection. iii) Any indication of Price in the technical bid shall be summarily rejected. . 18. Generic Bidders shall quote only those products (Part of Service delivery) in the bid which are not obsolete in the market and has at least 5 years residual market life i.e. the offered product shall not be declared end-of- life by the OEM before this period. 19. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8051716",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9910283"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 26-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9910283"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 27-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9910283"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9910283"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Finance",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9910283"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Economic Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9910283"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: N/a",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9910283"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Karnataka",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9910283"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :buyer19.dea.ka@gembuyer.in Buyer Email id: debanjanhalder@brbnmpl.co.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9910283"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9910283"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Network Attached Storage (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9910283"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 3.3 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9910283"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9910283"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9910283"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9910283"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9910283"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9910283"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 30 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9910283"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9910283"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 22000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9910283"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 22000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9910283"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9910283"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 65",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9910283"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9910283"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Description of Stores: Network Attached Storage (NAS) with standard 1 year warranty | Total Memory (RAM) Size Installed (in GB): 64, 96, 128, 192, 256, 384, 512, 768, 1024, 2048 Or higher | Architecture Type: Processor | Number of Controller/Node/Processor: 1, 2 | Protocol Supported: NFS (Network File System), SMB / CIFS (Serve Messaging Block / Common Internet File System) | Feature: Snapshot, Replication | Type of Storage Interface: SATA-SSD, SATA-HDD",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9910283"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Hot Swappable: No, Yes Or higher | Total Number of Slots available for SATA SSD Storage: 8.0, 12.0, 16.0, 24.0, 36.0, 48.0, 60.0, 80.0, 96.0, 100.0, 0.0 Or higher | Number of Slot Populated with SATA SSD: 10.0, 20.0, 30.0, 40.0, 50.0, 60.0, 70.0, 80.0, 90.0, 100.0, 0.0 | Capacity offered per SATA SSD (in GB): 480.0, 800.0, 960.0, 1600.0, 1920.0, 3200.0, 3840.0, 7680.0, 15360.0, 30720.0, 0.0 Or higher | Total Number of Slots Available for NVMe SSD: 0.0 Or higher | Number of Slots Populated with NVMe SSD: 0.0 | Capacity Offered per NVMe SSD (in GB): 0.0 Or higher | Total Number of Slots Available for SATA HDD: 8.0, 12.0, 15.0, 16.0, 24.0, 30.0, 36.0, 42.0, 45.0, 48.0, 54.0, 60.0, 66.0, 72.0, 75.0, 78.0, 84.0, 90.0, 96.0 Or higher | Number of Slots populated with SATA HDD: 2.0, 4.0, 6.0, 8.0, 10.0, 12.0, 14.0, 16.0, 18.0, 20.0, 22.0, 24.0, 26.0, 28.0, 30.0, 32.0, 34.0, 36.0, 38.0, 40.0, 42.0, 44.0, 46.0, 48.0, 50.0, 52.0, 54.0, 56.0, 58.0, 60.0 | Capacity offered per SATA HDD (in GB): 6000.0, 20000.0 Or higher | RAID level: RAID 1, RAID 5, RAID 6, RAID 10 (RAID 1+0) | Operating System Supported: Windows, Linux, Unix",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9910283"
+    },
+    {
+      "field": "consignees",
+      "page": 7,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Y N Vijaya Kumar | 570003,BHARATIYA RESERVE BANK NOTE MUDRAN (P) LIMITED NOTE MUDRAN NAGAR MYSURU | 1 | 90",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9910283"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "1. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 2. Generic Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of technical parameters, the bid is liable for rejection. 3. Generic Malicious Code Certificate: The seller should upload following certificate in the bid:-",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9910283"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "(a) This is to certify that the Hardware and the Software being offered, as part of the contract, does not contain Embedded Malicious code that would activate procedures to :- (i) Inhibit the desires and designed function of the equipment. (ii) Cause physical damage to the user or equipment during the exploitation. (iii) Tap information resident or transient in the equipment/network. (b) The firm will be considered to be in breach of the procurement contract, in case physical damage, loss of information or infringements related to copyright and Intellectual Property Right (IPRs) are caused due to activation of any such malicious code in embedded software. 4. Generic Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller. 5. Generic Non return of Hard Disk: As per Buyer organization’s Security Policy,Faulty Hard Disk of Servers/Desktop Computers/ Laptops etc. will not be returned back to the OEM/supplier against warranty replacement. 6. Generic Without prejudice to Buyer’s right to price adjustment by way of discount or any other right or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a written notice to the Seller, if: i) The Seller fails to comply with any material term of the Contract. ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within the stipulated Delivery Period or such inability otherwise becomes apparent. iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery Period and/or to replace/rectify any rejected or defective Material(s) promptly. iv) The Seller becomes bankrupt or goes into liquidation. v) The Seller makes a general assignment for the benefit of creditors. vi) A receiver is appointed for any substantial property owned by the Seller. vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has placed the Purchase Order on the Seller. 7. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 8. Purchase Preference (Centre) Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to avail the Purchase preference, the bidder must be the manufacturer of the offered product in case of bid for supply of goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of 25% of total value. 9. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 10. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9910283"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "Bid document, ATC and Corrigendum if any. 11. Warranty Warranty period of the supplied products shall be 5 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 12. Forms of EMD and PBG Bidders can also submit the EMD with Account Payee Demand Draft in favour of BHARATIYA RESERVE BANK NOTE MUDRAN (P) LTD payable at MYSURU . Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 13. Forms of EMD and PBG Bidders can also submit the EMD with Banker’s Cheque in favour of BHARATIYA RESERVE BANK NOTE MUDRAN (P) LTD payable at MYSURU . Bidder has to upload scanned copy / proof of the BC along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 14. Forms of EMD and PBG Bidders can also submit the EMD with Payment online through RTGS / internet banking in Beneficiary name BHARATIYA RESERVE BANK NOTE MUDRAN (P) LTD Account No. 00000010562408040 IFSC Code SBIN0003130 Bank Name STATE BANK OF INDIA Branch address MOTHIKHANA BUILDING, NEW SAYYAJI ROAD, MYSURU-570024 . Bidder to indicate bid number and name of bidding entity in the transaction details field at the time of on- line transfer. Bidder has to upload scanned copy / proof of the Online Payment Transfer along with bid. 15. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in favour of BHARATIYA RESERVE BANK NOTE MUDRAN (P) LTD payable at MYSURU . After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of contract. 16. Forms of EMD and PBG",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9910283"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "Successful Bidder can submit the Performance Security in the form of Payment online through RTGS / internet banking also (besides PBG which is allowed as per GeM GTC). On-line payment shall be in Beneficiary name BHARATIYA RESERVE BANK NOTE MUDRAN (P) LTD Account No. 00000010562408040 IFSC Code SBIN0003130 Bank Name STATE BANK OF INDIA Branch address MOTHIKHANA BUILDING, NEW SAYYAJI ROAD, MYSURU-570024 . Successful Bidder to indicate Contract number and name of Seller entity in the transaction details field at the time of on-line transfer. Bidder has to upload scanned copy / proof of the Online Payment Transfer in place of PBG within 15 days of award of contract. 17. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses i) All other terms and conditions mentioned in uploaded ATC document are integral part of this bid. ii) ATTENTION BIDDERS: This ATC and its Annexures govern on Past Performance Timeframes, Warranty, D elivery Period, and the technical/operational detail (specifications, scope of supply, delivery and inspection requirements, the documents to be submitted and eligibility criteria) that GeM's generic bid fields do not c apture. The technical specifications are as given in Annexure-2, as referred to in the Additional Specificatio n Parameters of the Bid Details; the generic GeM category values are the nearest available match. Bidders must read, quote and submit compliance based on this ATC together with the Bid Details section. In case o f any conflict between this ATC and the generic parameters or terms auto-generated by the GeM portal, th is ATC shall prevail. Bids failing to comply with this ATC's explicit terms will be liable for rejection. iii) Any indication of Price in the technical bid shall be summarily rejected. . 18. Generic Bidders shall quote only those products (Part of Service delivery) in the bid which are not obsolete in the market and has at least 5 years residual market life i.e. the offered product shall not be declared end-of- life by the OEM before this period. 19. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9910283"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

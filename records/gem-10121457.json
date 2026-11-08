@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8235370",
   "title": "Hematology Analyzer (Fully-Automated)",
   "description": "Hematology Analyzer (Fully-Automated)",
-  "organisation": "COAL INDIA LIMITED",
-  "ministry": "Ministry of Coal",
-  "department": "COAL INDIA LIMITED",
+  "organisation": "Bharat Coking Coal Limited",
+  "ministry": "Ministry Of Coal",
+  "department": "Coal India Limited",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Hematology Analyzer (Fully-Automated)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 26000,
   "published_at": "2026-11-07T13:49:50+05:30",
   "closing_at": "2026-11-18T11:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/x38iePdpDf6vsUb4D_dpdON9BgPknF8Q204N2Q-_y8Q",
+      "page": 5
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261107",
+      "page": 27
     }
   ],
   "tags": [
@@ -34,5 +49,511 @@
   ],
   "source_fetched_at": "2026-11-08T04:59:50.148Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-19T11:00:00+05:30",
+  "office": "Bccl Dhanbad Jharkhand",
+  "buyer_email": "nikhil.prakash@nic.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 3,
+  "offer_validity": "120 (Days)",
+  "estimated_bid_value": 1297500,
+  "source_document_fetched_at": "2026-11-08T07:06:54.161083+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "adca833b81c418df14f874414633c66f1da3a5fdc3f581f6c9bdad8cb86f22b3",
+  "document_pages": 27,
+  "eligibility": [
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 7,
+      "consignee": "Rajnish Ranjan Shukla",
+      "address": "828113,Office of Depot Officer ,Regional Store, Katras Area, Katras Garh, Post Office- Angarpathra, DHANBAD, JHARKHAND- 828113",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "ANALYSIS PARAMETERS",
+          "parameter": "Type",
+          "value": "5-Part"
+        },
+        {
+          "group": "ANALYSIS PARAMETERS",
+          "parameter": "WBC Differential (Reportable)",
+          "value": "5-Part (Neutrophils, Lymphocytes, Monocytes, Eosinophils, Basophils)"
+        },
+        {
+          "group": "ANALYSIS PARAMETERS",
+          "parameter": "Core CBC Parameters (Reportable)",
+          "value": "WBC, RBC, HGB, HCT, MCV, MCH, MCHC, RDW-SD, RDW-CV, PLT, MPV Or higher"
+        },
+        {
+          "group": "ANALYSIS PARAMETERS",
+          "parameter": "Reticulocyte Count",
+          "value": "No"
+        },
+        {
+          "group": "ANALYSIS PARAMETERS",
+          "parameter": "NRBC (Nucleated Red Blood Cells)",
+          "value": "Yes"
+        },
+        {
+          "group": "ANALYSIS PARAMETERS",
+          "parameter": "Immature Platelet Fraction (IPF)",
+          "value": "No"
+        },
+        {
+          "group": "ANALYSIS PARAMETERS",
+          "parameter": "Body Fluid (Reportable)",
+          "value": "Yes"
+        },
+        {
+          "group": "ANALYSIS PARAMETERS",
+          "parameter": "Minimum Throughput (Samples/hour)",
+          "value": "70.0 Or higher"
+        },
+        {
+          "group": "SAMPLE",
+          "parameter": "Modes available for sample running",
+          "value": "Open Tube, Closed Tube, Capillary/Pre-diluted"
+        },
+        {
+          "group": "SAMPLE",
+          "parameter": "Sample Loading Mode",
+          "value": "Auto Sampler"
+        },
+        {
+          "group": "SAMPLE",
+          "parameter": "Minimum Autosampler Capacity",
+          "value": "60.0 Or higher"
+        },
+        {
+          "group": "SAMPLE",
+          "parameter": "STAT Capability",
+          "value": "Yes"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Cap-Piercing Function",
+          "value": "Yes"
+        },
+        {
+          "group": "REAGENT",
+          "parameter": "On board reagent facility and automatic reagent inventory management",
+          "value": "Yes"
+        },
+        {
+          "group": "CALIBRATION & QUALITY CONTRAOL",
+          "parameter": "Calibration Type",
+          "value": "Automatic and Manual Both Or higher"
+        },
+        {
+          "group": "CALIBRATION & QUALITY CONTRAOL",
+          "parameter": "Quality Control Type",
+          "value": "Automatic and Manual Both Or higher"
+        },
+        {
+          "group": "CALIBRATION & QUALITY CONTRAOL",
+          "parameter": "QC Levels (Minimum)",
+          "value": "3 Levels Or higher"
+        },
+        {
+          "group": "CALIBRATION & QUALITY CONTRAOL",
+          "parameter": "QC Trend Analysis",
+          "value": "Levey-Jennings Charts / Westgard Rules"
+        },
+        {
+          "group": "DISPLAY & INTERFACE",
+          "parameter": "Inbuilt Screen Size",
+          "value": "? 5 inch"
+        },
+        {
+          "group": "DISPLAY & INTERFACE",
+          "parameter": "Printer Type",
+          "value": "In-built Thermal Printer"
+        },
+        {
+          "group": "DISPLAY & INTERFACE",
+          "parameter": "Connectivity",
+          "value": "USB, LAN, RS-232, LIS/HIS Integration"
+        },
+        {
+          "group": "DISPLAY & INTERFACE",
+          "parameter": "Data Storage Capacity (Number of results storable)",
+          "value": "? 50000 Or higher"
+        },
+        {
+          "group": "DISPLAY & INTERFACE",
+          "parameter": "Barcode Reader",
+          "value": "Yes"
+        },
+        {
+          "group": "CERTIFICATIONS",
+          "parameter": "Availability of valid medical device license (CDSCO License) for the product issued from the competent authority defined under Drugs and Cosmetic Act 1940 and Rules as amended till date",
+          "value": "Yes"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 8,
+      "text": "1. Generic Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of technical parameters, the bid is liable for rejection. 2. Generic 1. The Seller shall not assign the Contract in whole or part without obtaining the prior written consent of buyer. 2. The Seller shall not sub-contract the Contract in whole or part to any entity without obtaining the prior written consent of buyer. 3. The Seller shall, notwithstanding the consent and assignment/sub-contract, remain jointly and severally liable and responsible to buyer together with the assignee/ sub-contractor, for and in respect of the due performance of the Contract and the Sellers obligations there under. 3. Generic Without prejudice to Buyer’s right to price adjustment by way of discount or any other right or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a written notice to the Seller, if: i) The Seller fails to comply with any material term of the Contract. ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within the stipulated Delivery Period or such inability otherwise becomes apparent. iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery Period and/or to replace/rectify any rejected or defective Material(s) promptly. iv) The Seller becomes bankrupt or goes into liquidation. v) The Seller makes a general assignment for the benefit of creditors. vi) A receiver is appointed for any substantial property owned by the Seller. vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has placed the Purchase Order on the Seller."
+    },
+    {
+      "page": 9,
+      "text": "4. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 5. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): Not applicable Post Receipt Inspection at consignee site before acceptance of stores: AMO, Katras area 6. Forms of EMD and PBG Bidders can also submit the EMD with Payment online through RTGS / internet banking in Beneficiary name Bharat Coking Coal Limited Account No. 10976596836 IFSC Code SBIN0000066 Bank Name State Bank of India Branch address Bank More, Dhanbad . Bidder to indicate bid number and name of bidding entity in the transaction details field at the time of on- line transfer. Bidder has to upload scanned copy / proof of the Online Payment Transfer along with bid. 7. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 8. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 9. Certificates To be eligible for award of contract, Bidder / OEM must possess following Certificates / Test Reports on the date of bid opening (to be uploaded with bid): ISO/EU-CE/USFDA. . 10. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 11. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates"
+    },
+    {
+      "page": 10,
+      "text": "(whichever is lower), subject to the maximum of quoted GST %. 12. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Annexure-A Additional terms of Bid 1. Security Deposit, The Security Deposit shall be for 5% of total contract value.Security Deposit is to be submitted by bidders in e-PBG format of GeM as Security Deposit. The S D shall remain valid till 2 months after the completion of delivery period (30 d ays) from the date of issue of GeM Contract. a. The successful tenderers will have to submit Security Deposit for the 5% value of the total landed value of the contract including all taxes, duties and other cost s and charges. In case of Rate / Running Contracts the Security Deposit shall be f or an amount of 5% of average annual offtake contractual value; and in case RC period is longer than 1 year, SD amount shall be 5% of average annual offtake. I n case of Contracts for procurement of Capital Goods along with Warranty Spare s & Consumables (if applicable) and additional Spares & Consumables / AMC / C MC for more than one year, the Security Deposit shall be for 5% of equipment la nded value along with maximum annual landed value of Spares & Consumables. b. The Security Deposit shall be deposited through RTGS / NEFT / IMPS /e-BG/ oth er digital modes or in the form of a Bank Guarantee in the prescribed format fro m a RBI Scheduled Bank in purchaser’s country (on a non-judicial stamp paper) within 15 days from date of notification of award or placement of order. c. The Security Deposit shall be in the same currency(ies) in which contract is to be signed/ issued. In case of multi-currency contract, separate Security Deposit Bank Guarantee (SDBG) in respective currency for required value as above shall be submitted. d. In case of equipment, SDBG shall not be individual equipment wise. However, multiple Bank Guaranteesfor Security Deposit shall be permissible provided valu e of all the SDBGs totals to 5% of the contractvalue, and all are submitted simult aneously within the specified time schedule and all of them are in thesame pres cribed format of SDBG without linking to any particular equipment. e. The SDBG shall remain valid up to 2 months after completion of supplies and a cceptance of materialsby the consignee in case of supply contracts and in case of contracts for equipment involving installationand commissioning, 2 months af ter the supply and commissioning of all the equipment covered in thecontract. f. If the successful tenderer fails to deposit the security deposit within 15 (fifteen ) days from date of notification of award/ placement of order, another opportunit y may be given to them for submission ofSecurity Deposit within next 15 days. If the successful tenderer still fails to deposit the security depositwithin the extend ed period but executes the supplies within scheduled delivery period, the submission ofSecurity Deposit may be waived, as the purpose of submission of S D is fulfilled."
+    },
+    {
+      "page": 11,
+      "text": "g. In cases where the successful tenderer did not submit the security deposit ev en within the extended periodfor SD submission but has supplied the materials e ither in full or in part after the extended period for SDsubmission, a penalty equi valent to 0.5% (half percent) of SD amount for delay of each week or partthereof (period of delay is to be calculated from the 31st day from the date of notificatio n ofaward/placement of order to the date of receipt of full SD) shall be levied sub ject to a maximum of 5%of the contract value. h. Security Deposit will be released with the approval of HOD of MM Department/ Area GM within 30days after completion of supplies and acceptance of material by the consignee in case of supply contractor after successful commissioning an d on receipt of confirmation of Performance Bank Guarantee(s) for all the equip ment covered in the contract in case of contracts for equipment and all those ite ms/ goods involving installation and commissioning and PBG. i. All Central/State Government Organization/PSUs, Govt. Ministries, Departme nts, Attached and Subordinate Offices, Autonomous bodies formed by the gov ernment shall be exempted from submission of Security Deposit. j. OEM/OES shall also be exempted from submission of Security Deposit in cas e of procurement of Spare Parts for equipment against Single / Open / Limited Tender Enquiries. k. The SDBG will be submitted Through Structured Financial Management Syst em (SFMS). l. The Bank Guarantee issued by Issuing bank on behalf of the bidder in favou r of “Bharat Coking Coal Limited” shall be in paper form (Stamp Paper) as well as issued under “Structured Financial Messaging System. In case, the beneficiary bank for SFMS confirmation is State Bank of India, Delhi, then the remittance of ₹1,000 plus GST for each inward SFMS confir mation in respect of Bank Guarantees issued by non-SBI banks and ₹500 plus GST for each inward SFMS confirmation for Bank Guarantees issued b y SBI, towards confirmation charges, if any, levied by State Bank of India, Delhi, shall be borne by the supplier. In addition to State Bank of India, Delhi, the supplier shall have the option to designate either State Bank of India, Dhanbad or ICICI Bank, Dhanbad, as the beneficiary bank for issuance of the Bank Guarantee (BG) through t he SFMS platform. The Issuing Bank shall transmit the underlying SFMS co nfirmation message to any one of the following beneficiary banks, whose details are furnished below: Name of bene Bharat Coking Coal ficiary Name Limited & its details Area HQ,BCCL Bank Accou nt no. 35160317947 Deptt. MM Department"
+    },
+    {
+      "page": 12,
+      "text": "Beneficiary B State Bank of India ank, Branch & Ad dress Main Branch Dhanbad IFSC code SBIN0000066 OR Name of ben Bharat Coking Coal eficiary Name Limited & its details Area HQ,BCCL Bank Accou nt no. 019605001057 Deptt. MM Department Beneficiary B ICICI Bank ank, Branch & Ad dress ICICI Bank, Dhanbad IFSC code ICIC0000196 2. Performance Bank Guarantee for 5 years Warranty period: The successful bidder shall be required to furnish performance bank Guaran tee for 5 years Warrantee, PBG (s) as per following, 1. The successful bidder shall be required to furnish a Performance Gua rantee equivalent to 10% value of the contract to cover the 63(60+3) months for 5 years warranty. 2. The Performance Guarantee shall be in the form of a Bank Guarante e issued by a RBI scheduled bank in India in the prescribed format as b elow on a non-judicial stamp paper. 3. The Performance Bank Guarantee (PBG) shall be in the same curren cy in which contract has been signed. 4. The PBG (s) shall remain valid till 3 months after the completion of 6 0 months warranty period (Date calculated from date of installation & commissioning). 5. The PBG shall be submitted sufficiently in advance (say 3-4 weeks) t o enable its verification from the issuing bank, before submission of th e invoice. 6. The release of the Performance Bank guarantee after above indicate d period, shall be subject to satisfactory performance of the equipment / items during the warranty period and fulfilment of contractual obligati ons failing which, action for further extension or encashment of PBG, as deemed suitable shall be taken. The Performance Bank Guarantee shall be released after expiry of valid ity period if no claim is pending, with the approval of the concerned HO D (MM)/ Area GM after expiry of validity period after obtaining the follo wing: i. ‘No Claim Certificate’ from the concerned HOD (User Dept.) indi cating that there is no claim pending. ii. ‘No Claim Certificate’ from the contractor indicating that there is no claim pending and that there is no dispute pending as per Anne"
+    },
+    {
+      "page": 13,
+      "text": "xure-D. 7. The PBG(Annexure C) will be submitted through Structured Financial Management System (SFMS). 8. The PBG issued by Issuing bank on behalf of the bidder in favour of “ Bharat Coking Coal Limited” shall be in paper form (Stamp Paper) as w ell as issued under “Structured Financial Messaging System”. The detai ls of beneficiary Bank for issue of BG through SFMS Platform shall be as under,Issuing Bank should send the underlying confirmation to either o f following banks: Name of beneficiary & its details Name Bharat Coking Coal Limited Area HQ,BCCL Bank Account n o. 35160317947 Deptt. MM Department State Bank of India Beneficiary Bank, Main Branch Dhanbad Branch & Address IFSC code SBIN0000066 Or Name of beneficiary & its details Name Bharat Coking Coal Limited Area HQ,BCCL Bank Account no. 019605001057 Deptt. MM Department ICICI Bank Beneficiary Bank, ICICI Bank, Dhanbad Branch & Address IFSC code ICIC0000196 9. Original copy of the Bank Guarantee issued by the Issuing Bank along with SFMS confirmation sh all be sent by the issuing bank to MM department, BCCL. 10. In cases where the supplier does not submit the PBG in time or as per t he prescribed format in line with the contract stipulations, the PBG amou nt may be deducted from the first bill or in case of insufficient amount, fr om subsequent bill(s) of the supplier till the full PBG amount is deducted. This amount shall be refunded to the supplier upon acceptance of PBG su bmitted by them. 11. PBG for the equipment will be released only after the receipt of the PBG for the CAMC. 3. Relaxation for MSEs andStart-ups if the bidders in their offer will submit documents to prove the Startup/MSE statu s for the tendered itemwithout certificate towards quality, assurance and capabil ity from some authority like MSME, NSIC, etc., the TIA, if needed, may assess the techno-commercial capability of the vendors to manufacture and deliver goods a"
+    },
+    {
+      "page": 14,
+      "text": "s per the prescribed quality and technical specification before awarding contract to them. For this purpose, a ‘Proforma for Equipment and Quality Control’ (as pe r Annexure-E) has to be enclosed in the tender documents and such MSEs/ Start ups should be asked to submit the details of plant & machinery, quality control a rrangements, etc., in the above proforma along with their bids for verification of their technical capability. After opening of bids, the verification of technical capa bility may be done by the concerned Technical Department immediately without any undue delay so that it is available for consideration at the time of evaluation / processing of offers. It should be ensured that the designated technical authority from whom the tech nical capability report is being called, is furnished with copy of the enquiry, the d etails of equipment, quality control, man-power availability, compliance/ deviatio n statements and any other relevant particulars related to manufacturing/supply of the item as furnished by the firm(s) along with their tender. If required, a techno-commercial team of the organization may visit the manufac turing unit of the vendor without any undue delay for quick finalization of tender s. In case there is deficiency in technical capability of the firm, the same is to be c ommunicated to them by TIA for improvement in the quality of their product for future tenders and clearly indicating that their offer cannot be considered for rel axation against the tender in question in order to avoid any future complications . The issues relating to Technical capability may be decided by the Head of the T echnical Department. If favourable technical capability reports obtained earlier on such firms for suppl y of the item in question as per the required specification is available, these may be considered for granting relaxation to the criteria of prior experience and prior turnover provided date of such reports are not more than one year from the dat e of opening of bids. If bidders have submitted documents to prove the Startup/MSE status for the ten dered itemsand their products are ISI marked/DGMS approved/Proven in CIL or it s Subsidiary companies/Proven product of the ancillary unit of a Subsidiary Com pany of CIL, they will be required to submit the following applicable related docu ments, digitally signed (for documents submitted on e-procurement portal) / self -certified (for documents submitted in modes other than e-procurement portal), for relaxation from the criteria of prior experience and prior turnover: · a valid BIS Marking License for the quoted items or · Rate contract issued by CIL/its Subsidiary Companies for the quoteditems or · a valid DGMS Approval certificate for the quoted items or"
+    },
+    {
+      "page": 15,
+      "text": "· Proven Ancillary certificate issued by the Subsidiary Companies forthe qu oted items. The document(s)/certificate(s) furnished by the bidders for ISI markings or DGMS approval for any relaxation should be valid on the date of tender opening and a s elf-certified copy of such document(s)/certificate(s) valid on the date of supply, must accompany their bill(s). 4. Payment of Invoices of MSME Vendors through TReDS Platform: The Ministry of Micro, Small and Medium Enterprises (MSME), Government of India, vi de Gazette Notification S.O. 3507(E) dated 30.06.2026, has mandated that all op erating Central Public Sector Enterprises (CPSEs) shall settle invoices for goods a nd services procured from Micro and Small Enterprise (MSE) suppliers through Tr ade Receivables Discounting System (TReDS) platforms authorised by the Reser ve Bank of India (RBI). Coal India Limited and its Subsidiaries have onboarded on the following five (5) o perating TReDS platforms: 1. M/s Receivables Exchange of India Limited (RXIL) 2. M/s M1xchange 3. M/s Invoicemart 4. M/s KredX 5. M/s C2TReDS* (*The Reserve Bank of India (RBI) has accepted the voluntary surrender of the Ce rtificate of Authorisation (CoA) for C2treds (operated by C2FO Factoring Solution s Private Limited), and the platform will officially cease its Trade Receivables Dis counting System (TReDS) operations on October 30, 2026.) All eligible MSME vendors are advised to register themselves on any of the TReD S platforms authorised by the Reserve Bank of India (RBI) and submit their eligible invoices through the TReDS platform."
+    },
+    {
+      "page": 16,
+      "text": "The Purchaser/Company shall, upon receipt and acceptance of the invoice/claim and subject to the applicable contractual terms and conditions, facilitate confirm ation/acceptance of the invoice on the TReDS platform. Upon confirmation/accep tance of the invoice, payment to the MSME vendor shall be processed through th e TReDS platform in accordance with the applicable terms and conditions. The submission, confirmation, discounting and settlement of invoices through TR eDS shall be subject to the terms and conditions of the concerned TReDS platfor m and applicable statutory/regulatory provisions. The vendor shall be responsibl e for registration with the TReDS platform and for complying with all requiremen ts prescribed by the concerned platform. 5. Experience criteria: (i)The equipment offered by the tenderer shall be considered proven provided t he 01 no of quoted model or similar equipment, as defined below, or combinatio n thereof, must have been supplied by the bidder (or Manufacturer in case bidde r is not the manufacturer) in India to mining industry and/or to the other Industri es (Private or Government/ Public Sector Undertaking) and all of them performe d satisfactorily for a minimum period of 01 year from the date of commissioning. The performance of only those equipment would be considered for assessing pro neness which have been commissioned 1 year prior to the date of opening of ten der but not prior to 5 years from the date of opening of tender. (ii)“Satisfactory Performance” means the supplied equipment must have achiev ed the guaranteed annual availability, if any, as per the performance guarantee clause of the supply orders / contracts for a minimum period of one year from th e date of commissioning. In case supply orders / contracts do not have provision for guaranteed annual availability, the bidder will submit satisfactory performan ce report issued by end users as per benchmark regarding performance of equip ment, if any, incorporated in the supply orders / contracts against which these e quipment were supplied. In case, the Performance Report(s) of the End-User(s) is not available, the bidder shall submit self-certification claiming satisfactory perfo rmance of the equipment supplied. (iii)“Similar Equipment” shall be such equipment, which fulfills the following: a) Performs almost identical operations as the quoted model. b) Should be equal to or higher than the tendered capacity. c) Uses sub-components, sub-systems and major assemblies of substantiall y similar design &construction to the model quoted – only ratings/ specifica tions may differ (Lower or Higher)."
+    },
+    {
+      "page": 17,
+      "text": "In case, the bidder claims provenness of the quoted model based on simila r equipment, the similar equipment should have performed satisfactorily fo r a minimum period of one year from the date of commissioning and the q uoted model should have worked for a minimum period of six months from the date of commissioning within the window period of 5 years. (iv)Documents required for fulfilling the experience criteria are as under: a) The bidder must submit documentary evidence i.e. authenticated copy of such contracts/purchase orders received by them & their satisfactory perfo rmance as above. b) Considering the practical difficulties in obtaining the performance reports in cases where provenness of the offered product is being ascertained on t he basis of supply made in other subsidiaries of CIL or other PSUs/ Govt. D epartments, the bidder will submit a Self- Certificate in the following forma t, along with Proof of Payment against the Purchase Order(s)/ Rate Contrac t(s) and commissioning certificate (s) (in case of Equipment ,P&M etc. whe re installation & commissioning is required) : \"The items covered in the Purchase Order(s)/ Rate Contract(s) copies enclo sed with our offer have been fully executed and have performed satisfacto rily as per the provisions of respective Purchase Order(s)/ Rate Contract(s) and all the complaints/ claim (s) lodged by the purchaser, if any, have bee n attended to and no complaints/ claims(s) are pending.\" c) The authenticity of the self-certificate as well as other documents submitt ed/uploaded by the bidder will solely be their responsibility and appropriat e action will be taken by CIL / Subsidiary Company if it is subsequently fou nd to be misleading / false / forged. d) However, the Purchaser reserves the right to obtain the performance dire ctly from the end user of the item / product. e) In case, any specific Purcha se Order(s) has/ have not been fully executed and any complaint/ claim is pending, then details of such cases to be categorically mentioned with the reasons thereof so that decision making is in clear perspective without any hidden facts in the subject matter. Any of the following documents shall serve the purpose of “proof of paym ent” in case of non-availability of performance of upload supply orders for proven-ness , i. Self-attested copy (ies) of invoice (s) along with self-attested copy (ies) of Bank Statement(s) or relevant pages of the Passbook. In case of payment a mount being less than the invoice amount, a statement by the bidder (sup plier) explaining the reason(s) for deductions. ii. Self-attested copy (ies) of Payment certificate (s) issued by the Purchase r or its Paying Authority giving the details of invoices(s) and payment and deductions, if any. iii. Self-attested copy (ies) of GST TDS certificate (s) for the supply along with self attested copy(ies) of invoice (s), where applicable iv. Self-attested copy of the Certificate issued by practicing Chartered or Cost Accountant g iving the details of the invoice(s) and payment and deduction (s) if any"
+    },
+    {
+      "page": 18,
+      "text": "6.Clarification of Bids/ Shortfall/ Confirmatory Documents: After evaluation of the uploaded documents, shortfall documents, if required, shall be sought from the bidder. Only one opportunity shall be provided for submission of such documents. A time period of 7 × 24 hours will be given to the bidder to uplo ad the required clarifications/shortfall documents.The bidder must upload the re quested documents within the specified time. No additional time shall be allowe d for online submission of documents after the single opportunity of 7 × 24 hour s. If the bidder fails to comply or does not respond within the stipulated date and time, the bid is liable to be rejected. Shortfall information/documents shall be so ught only in respect of historical documents, as per GeM provisions/rules. 7.No shortfall documents submitted during the 48-hour challenge/representat ion on period will be accepted. 8. Paying authority-HoD (Pay) email- hodpay.bccl@coalindia.in 9.DOCUMENTS TO BE SUBMITTED BY BIDDERS WHO HAVE SUBMITTED EMD I N FORM OF RTGS / INTERNET BANKING. Bidders submitting EMD in the form of RTGS / internet banking shall also s ubmit the following document s along with their bid for Vendor Code Creati on to return the EMD amount post finalization of tender: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 10 Certification : ISO/EU-CE/USFDA. 11.Authority to issue installation certificate : AMO, Katras area. 12. Other parameter (a). Service center should be within 300 km from place of installation and commi ssioning. (b). Satisfactory report from any reputed organization as per purchase manual of coal India limited latest amendment. 13. Following document will the part of GeM Bid to be provided by supplier at th e time of supply, i. Supplier's invoice showing Contract Number, Goods description, quantity, unit price, total amount. ii. Railway receipt/ Transporter’s consignment note /acknowledgement of receipt of Goods from the consignee(s); iii. Manufacturer's/Supplier's warranty / guarantee certificate;"
+    },
+    {
+      "page": 19,
+      "text": "iv. Manufacturer’s Test & Inspection certificate (if any). 14. Submit MII(Make in Certificate ) in the format given below Certificate of Local Content as per Public Procurement (Preference to Make in India) Order, 201 7 (as amended from time to time) for tender value less than 10 Cr. Ref. No: ………..………………………. Date: ……………………. Tender No.: ………..………………………. dated ……………………. We, M/s …………………, having registered office at ……………………, being OEM of the offered product/servic es do hereby confirm that the percentage of local content in the offered product / service is _____ % and m eets the local content requirement for ‘Class – I local supplier/ Class – II local supplier’ (Strike off which is no t applicable) as prescribed under Public Procurement (Preference to Make in India) Order, 2017 (as amende d from time to time). The complete address of the location(s) at which the local value addition is made, is / are as under: 1. 2. (Signature of the authorised signatory) Name: Designation: Email id: Mobile No: Place: Date:"
+    },
+    {
+      "page": 20,
+      "text": "Note: Percentage of local content is to be mentioned as per the formula given in Annexure 28 (page no 285 ) of Manual for Procurement of Goods, Second Edition, 2024 issued by Department of Expenditure, MoF, GoI .(https://doe.gov.in/circulars/manual-procurement-goods-second-edition-2024) 15. Annexure-B is to be filled by all bidders& to be uploaded in pdf format in of fer documents. Annexure-B (Bidder Details) Sl Details required Bidder Details 1 Offer no. and Date 2 Name of the Tenderer 3 Address of the Tenderer 4 Phone no. of office 5 Fax No of office 6 E-mail id of office 7 Contact person name & designation 8 Contact person Mobile no. 9 Contact person e-mail id 10 If the tenderer is a Dealer 11 Name of manufacturer (If the tenderer is not Manufacture) 12 Address of the manufacturer 13 Phone /fax/email id of manufacturer 14 Nature of company (Govt/PSU/Pvt Ltd /Public Ltd/Other (please specify) 15 Ownership (Proprietorship/partnershi p/other) 16 Name of the Chief Executive of tende rer / Proprietor 17 Email id of the Chief Executive of Ten derer / Proprietor"
+    },
+    {
+      "page": 21,
+      "text": "18 Supply address (from which place an d state the materials will be supplied) to be mentioned for equipment items . 19 Billing address from where billing to b e done for tender items. 20 Type of local supplier (Class-I/Clas s-II) 21 % of Local Content for each schedule as a whole as per auditor’ certificate 22 Place of value addition for each sche dule as per auditor’ certificate This annexure is to be filled by all bidders & to be uploaded in pdf form at in offer documents. Annexure-C (Performance Bank Guarantee Format) M/s. Bharat Coking Coal Ltd. KoylaBhawan KoylaNagar Dhanbad – 826005 Re : Bank Guarantee in respect of Notification of Award/Purchase order vide no… …dated… between . . . . . . . . . . . . . . . . . . . . . . . . . (Name of Purchaser Company ) and (Name of Supplier Company) Messers ………………… a Company Firm having its office at No. . . . . . . . . . . . . . . . . . . (hereinafter called the Contractor) has received the Notification of Award/Pu rchase order vide no……dated .................... (hereinafter called 'the said agreem ent') with Coal India Limited , Kolkata on behalf of Bharat Coking Coal Limited /P urchaser Company (hereinafter called 'the Company') to supply …………………… …...stores/materials amounting to Rs . . . . . . . . . . . . . on the terms and condition s contained in the said agreement."
+    },
+    {
+      "page": 22,
+      "text": "The ………………..(Name of the Bank) having its Office at………………………. has a t the request of the Contractor agreed to give the guarantee as hereinafter conta ined. We …………………………(Name of the Bank) do hereby unconditionally agree wit h the Company that if the Contractor shall in any way fail to observe or perform t he terms and condition of the said agreement or shall commit any breach of its o bligations thereunder, the Bank shall on demand and without any objection or de mur pay to the Company the said sum of Rs ………………….. or any portion there of without requiring the company to have recourse to any legal remedy that ma y be available to it to compel the Bank to pay the same or calling on the compan y to compel such payment by the contractor. Any such demand shall be conclusive as regards the liability of the Contractor to the company and as regards the amount payable by the Bank under this guaran tee. The Bank shall not be entitled to withhold, payment on the ground that the contractor has disputed its liability to pay or has disputed the quantum of the a mount or that any arbitration proceeding or legal proceeding is pending between the Company and the contractor regarding the claim. We, the Bank- further agree that the guarantee shall come into force from the d ate hereof and shall remain in full force and effect till the period that will be take n for the performance of the said agreement which is likely to be the ....day of . . . …. but if the period of agreement is extended either pursuant to the provisions in the said agreement or by mutual agreement between the contractor and the Company the Bank shall renew the period of the guarantee failing which it shall pay to the Company the said sum of Rs………. or such lesser amount out of the s aid sum of Rs…………… as may be due to the Company and as the Company ma y demand. This guarantee shall remain in force until the dues of the Company in respect of the said sum of Rs……………. are fully satisfied and the company certi fies that the agreement has been fully carried out by the contractor and discharg es the guarantee. The Bank further agrees with the Company that the Company shall have the full est liberty without the consent of the Bank and without affecting in any way the obligations hereunder to vary any of the terms and conditions of the said agree ment or to extend the time for performance of the said agreement from time to t ime or to postpone for any time or from time to time any of the powers exercisab le by the Company against the contractor and to forbear to enforce any of the te rms and conditions relating to the said agreement and the Bank shall not be relie ved from its liability by reason of such failure or extension being granted to the c ontractor or through any forbearance, act or omission on the part of the Compan"
+    },
+    {
+      "page": 23,
+      "text": "y or any indulgence by the Company to the contractor or any other matter or thi ng whatsoever which under the law relating to sureties would but for this provisi ons have the effect of relieving or discharging the Guarantor. The Bank further agrees that in case this guarantee is required for a longer peri od and it is not extended by the Bank beyond the period specified above, the Ba nk shall pay to the Company the said sum of Rs ………… or such lesser sum as m ay then be due to the Company and as the Company may require. Notwithstanding anything herein contained the liability of the Bank under this gu arantee is restricted to Rs........ only. The guarantee shall remain in force till the …………….. day of ………20… and unless the guarantee is renewed or a claim is preferred against the Bank within the validity period and/or the claim period fro m the said date ,all rights of the company under this guarantee shall cease and t he Bank shall be released and discharged from all liability hereunder except as p rovided in the preceding clause. The Bank has under its constitution power to give this guarantee and …………… (Name of the person) who has signed it on behalf of the Bank has authority to do so. Dated this………….Day of……………..20….. Place………………………………………….. Signature of the authorized person For and on behalf of the Bank Annexure-D (No Claim Certificate) (On company letterhead) To, (Contract Executing Officer)"
+    },
+    {
+      "page": 24,
+      "text": "Procuring Entity_______________________ NO CLAIM CERTIFICATE Sub: Contract Agreement no. ---------------- dated --------------for the s upply of ------------- We have received the sum of Rs. (Rupees _______________________ only) in full an d final settlement of all the payments due to us for the supply of ________________ __________under the above mentioned contract agreement, between us and (CIL or Subsidiary). We hereby unconditionally and without any reservation whatsoev er, certify that we have no claim whatsoever, of any description, on any account, against Procuring Entity, against aforesaid contract agreement executed by us. We further declare unequivocally, that we have received all the amounts payabl e to us, and have no dispute of any description whatsoever, regarding the amou nts worked out as payable to us and __________________________________________ received by us, and that we shall continue to be bound by the terms and conditi ons of the contract agreement, as regards performance of the contract. Yours faithfully, Signatures of contractor or officer authorized to sign the contract documents on behalf of the contractor (company stamp) Date:__________ Place:_________"
+    },
+    {
+      "page": 25,
+      "text": "ANNEXURE-E (PROFORMA FOR EQUIPMENT AND QUALITY CONTROL FOR MSE BIDDER) Reference: CIL/Subsidiary Co.__________________ Tender No.______________ Date ____________________ for supply of ___________________________________ 1. Name and Address of the Firm 2. (a) Telephone No. office/factory/works (b) Fax No. / E-mail ID 3. Location of manufacturing works/factories owned by the firm (documenta ry evidence of ownership must be produced). 4. Brief description of the factory (i.e. area covered accommodation, Depart ment into which it is divided, laboratory etc.) 5. Details of plant and machinery erected and functioning in each departme nt (monographs and description pamphlets) be supplied if available. 6. Whether the process of manufacture in the factory is carried out with the aid of power or without it. 7. Process Flow Chart for the whole manufacturing process of the tendered i tem. 8. Details and stocks of raw materials held. 9. Production capacity of items quoted for with the existing plants and mach inery (a) Normal (b) Maximum 10. Details of Quality Assurance Plan and Quality Control infrastructure such as laboratories etc. 11. (a) Details of technical supervisory staff in-charge of production and qua lity control. (b) Skilled labour employed. (c) Unskilled labour employed (d) Maximum number of workers (skilled and unskilled) employed on any da y during 18 months preceding the date of application. 12. Whether stores were tested to any standard specification, if so, copies o f original test certificate should be submitted in duplicate. ……………………………………………………………………………………………… (Signature of Tenderer) NB: Details against Sl. no. 5 to 12 need be restricted to the extent they pert ain to the items This annexure is to be filled by MSE bidders & to be uploaded in pdf for mat in offer documents."
+    },
+    {
+      "page": 26,
+      "text": ". 13. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 14. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8235370",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 18-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 19-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Coal",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Coal India Limited",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Bharat Coking Coal Limited",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Bccl Dhanbad Jharkhand",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :anand.kumar@coalindia.in Buyer Email id: nikhil.prakash@nic.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Hematology Analyzer (Fully-Automated) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 1297500",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 26000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 26000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 3",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Type: 5-Part | WBC Differential (Reportable): 5-Part (Neutrophils, Lymphocytes, Monocytes, Eosinophils, Basophils) | Core CBC Parameters (Reportable): WBC, RBC, HGB, HCT, MCV, MCH, MCHC, RDW-SD, RDW-CV, PLT, MPV Or higher | Reticulocyte Count: No | NRBC (Nucleated Red Blood Cells): Yes | Immature Platelet Fraction (IPF): No | Body Fluid (Reportable): Yes | Minimum Throughput (Samples/hour): 70.0 Or higher | Modes available for sample running: Open Tube, Closed Tube, Capillary/Pre-diluted | Sample Loading Mode: Auto Sampler | Minimum Autosampler Capacity: 60.0 Or higher | STAT Capability: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Cap-Piercing Function: Yes | On board reagent facility and automatic reagent inventory management: Yes | Calibration Type: Automatic and Manual Both Or higher | Quality Control Type: Automatic and Manual Both Or higher | QC Levels (Minimum): 3 Levels Or higher | QC Trend Analysis: Levey-Jennings Charts / Westgard Rules | Inbuilt Screen Size: ? 5 inch | Printer Type: In-built Thermal Printer | Connectivity: USB, LAN, RS-232, LIS/HIS Integration | Data Storage Capacity (Number of results storable): ? 50000 Or higher | Barcode Reader: Yes | Availability of valid medical device license (CDSCO License) for the product issued from the competent authority defined under Drugs and Cosmetic Act 1940 and Rules as amended till date: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "consignees",
+      "page": 7,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Rajnish Ranjan Shukla | 828113,Office of Depot Officer ,Regional Store, Katras Area, Katras Garh, Post Office- Angarpathra, DHANBAD, JHARKHAND- 828113 | 1 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "1. Generic Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of technical parameters, the bid is liable for rejection. 2. Generic 1. The Seller shall not assign the Contract in whole or part without obtaining the prior written consent of buyer. 2. The Seller shall not sub-contract the Contract in whole or part to any entity without obtaining the prior written consent of buyer. 3. The Seller shall, notwithstanding the consent and assignment/sub-contract, remain jointly and severally liable and responsible to buyer together with the assignee/ sub-contractor, for and in respect of the due performance of the Contract and the Sellers obligations there under. 3. Generic Without prejudice to Buyer’s right to price adjustment by way of discount or any other right or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a written notice to the Seller, if: i) The Seller fails to comply with any material term of the Contract. ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within the stipulated Delivery Period or such inability otherwise becomes apparent. iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery Period and/or to replace/rectify any rejected or defective Material(s) promptly. iv) The Seller becomes bankrupt or goes into liquidation. v) The Seller makes a general assignment for the benefit of creditors. vi) A receiver is appointed for any substantial property owned by the Seller. vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has placed the Purchase Order on the Seller.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "4. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 5. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): Not applicable Post Receipt Inspection at consignee site before acceptance of stores: AMO, Katras area 6. Forms of EMD and PBG Bidders can also submit the EMD with Payment online through RTGS / internet banking in Beneficiary name Bharat Coking Coal Limited Account No. 10976596836 IFSC Code SBIN0000066 Bank Name State Bank of India Branch address Bank More, Dhanbad . Bidder to indicate bid number and name of bidding entity in the transaction details field at the time of on- line transfer. Bidder has to upload scanned copy / proof of the Online Payment Transfer along with bid. 7. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 8. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 9. Certificates To be eligible for award of contract, Bidder / OEM must possess following Certificates / Test Reports on the date of bid opening (to be uploaded with bid): ISO/EU-CE/USFDA. . 10. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 11. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "(whichever is lower), subject to the maximum of quoted GST %. 12. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Annexure-A Additional terms of Bid 1. Security Deposit, The Security Deposit shall be for 5% of total contract value.Security Deposit is to be submitted by bidders in e-PBG format of GeM as Security Deposit. The S D shall remain valid till 2 months after the completion of delivery period (30 d ays) from the date of issue of GeM Contract. a. The successful tenderers will have to submit Security Deposit for the 5% value of the total landed value of the contract including all taxes, duties and other cost s and charges. In case of Rate / Running Contracts the Security Deposit shall be f or an amount of 5% of average annual offtake contractual value; and in case RC period is longer than 1 year, SD amount shall be 5% of average annual offtake. I n case of Contracts for procurement of Capital Goods along with Warranty Spare s & Consumables (if applicable) and additional Spares & Consumables / AMC / C MC for more than one year, the Security Deposit shall be for 5% of equipment la nded value along with maximum annual landed value of Spares & Consumables. b. The Security Deposit shall be deposited through RTGS / NEFT / IMPS /e-BG/ oth er digital modes or in the form of a Bank Guarantee in the prescribed format fro m a RBI Scheduled Bank in purchaser’s country (on a non-judicial stamp paper) within 15 days from date of notification of award or placement of order. c. The Security Deposit shall be in the same currency(ies) in which contract is to be signed/ issued. In case of multi-currency contract, separate Security Deposit Bank Guarantee (SDBG) in respective currency for required value as above shall be submitted. d. In case of equipment, SDBG shall not be individual equipment wise. However, multiple Bank Guaranteesfor Security Deposit shall be permissible provided valu e of all the SDBGs totals to 5% of the contractvalue, and all are submitted simult aneously within the specified time schedule and all of them are in thesame pres cribed format of SDBG without linking to any particular equipment. e. The SDBG shall remain valid up to 2 months after completion of supplies and a cceptance of materialsby the consignee in case of supply contracts and in case of contracts for equipment involving installationand commissioning, 2 months af ter the supply and commissioning of all the equipment covered in thecontract. f. If the successful tenderer fails to deposit the security deposit within 15 (fifteen ) days from date of notification of award/ placement of order, another opportunit y may be given to them for submission ofSecurity Deposit within next 15 days. If the successful tenderer still fails to deposit the security depositwithin the extend ed period but executes the supplies within scheduled delivery period, the submission ofSecurity Deposit may be waived, as the purpose of submission of S D is fulfilled.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 11,
+      "quote": "g. In cases where the successful tenderer did not submit the security deposit ev en within the extended periodfor SD submission but has supplied the materials e ither in full or in part after the extended period for SDsubmission, a penalty equi valent to 0.5% (half percent) of SD amount for delay of each week or partthereof (period of delay is to be calculated from the 31st day from the date of notificatio n ofaward/placement of order to the date of receipt of full SD) shall be levied sub ject to a maximum of 5%of the contract value. h. Security Deposit will be released with the approval of HOD of MM Department/ Area GM within 30days after completion of supplies and acceptance of material by the consignee in case of supply contractor after successful commissioning an d on receipt of confirmation of Performance Bank Guarantee(s) for all the equip ment covered in the contract in case of contracts for equipment and all those ite ms/ goods involving installation and commissioning and PBG. i. All Central/State Government Organization/PSUs, Govt. Ministries, Departme nts, Attached and Subordinate Offices, Autonomous bodies formed by the gov ernment shall be exempted from submission of Security Deposit. j. OEM/OES shall also be exempted from submission of Security Deposit in cas e of procurement of Spare Parts for equipment against Single / Open / Limited Tender Enquiries. k. The SDBG will be submitted Through Structured Financial Management Syst em (SFMS). l. The Bank Guarantee issued by Issuing bank on behalf of the bidder in favou r of “Bharat Coking Coal Limited” shall be in paper form (Stamp Paper) as well as issued under “Structured Financial Messaging System. In case, the beneficiary bank for SFMS confirmation is State Bank of India, Delhi, then the remittance of ₹1,000 plus GST for each inward SFMS confir mation in respect of Bank Guarantees issued by non-SBI banks and ₹500 plus GST for each inward SFMS confirmation for Bank Guarantees issued b y SBI, towards confirmation charges, if any, levied by State Bank of India, Delhi, shall be borne by the supplier. In addition to State Bank of India, Delhi, the supplier shall have the option to designate either State Bank of India, Dhanbad or ICICI Bank, Dhanbad, as the beneficiary bank for issuance of the Bank Guarantee (BG) through t he SFMS platform. The Issuing Bank shall transmit the underlying SFMS co nfirmation message to any one of the following beneficiary banks, whose details are furnished below: Name of bene Bharat Coking Coal ficiary Name Limited & its details Area HQ,BCCL Bank Accou nt no. 35160317947 Deptt. MM Department",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 12,
+      "quote": "Beneficiary B State Bank of India ank, Branch & Ad dress Main Branch Dhanbad IFSC code SBIN0000066 OR Name of ben Bharat Coking Coal eficiary Name Limited & its details Area HQ,BCCL Bank Accou nt no. 019605001057 Deptt. MM Department Beneficiary B ICICI Bank ank, Branch & Ad dress ICICI Bank, Dhanbad IFSC code ICIC0000196 2. Performance Bank Guarantee for 5 years Warranty period: The successful bidder shall be required to furnish performance bank Guaran tee for 5 years Warrantee, PBG (s) as per following, 1. The successful bidder shall be required to furnish a Performance Gua rantee equivalent to 10% value of the contract to cover the 63(60+3) months for 5 years warranty. 2. The Performance Guarantee shall be in the form of a Bank Guarante e issued by a RBI scheduled bank in India in the prescribed format as b elow on a non-judicial stamp paper. 3. The Performance Bank Guarantee (PBG) shall be in the same curren cy in which contract has been signed. 4. The PBG (s) shall remain valid till 3 months after the completion of 6 0 months warranty period (Date calculated from date of installation & commissioning). 5. The PBG shall be submitted sufficiently in advance (say 3-4 weeks) t o enable its verification from the issuing bank, before submission of th e invoice. 6. The release of the Performance Bank guarantee after above indicate d period, shall be subject to satisfactory performance of the equipment / items during the warranty period and fulfilment of contractual obligati ons failing which, action for further extension or encashment of PBG, as deemed suitable shall be taken. The Performance Bank Guarantee shall be released after expiry of valid ity period if no claim is pending, with the approval of the concerned HO D (MM)/ Area GM after expiry of validity period after obtaining the follo wing: i. ‘No Claim Certificate’ from the concerned HOD (User Dept.) indi cating that there is no claim pending. ii. ‘No Claim Certificate’ from the contractor indicating that there is no claim pending and that there is no dispute pending as per Anne",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 13,
+      "quote": "xure-D. 7. The PBG(Annexure C) will be submitted through Structured Financial Management System (SFMS). 8. The PBG issued by Issuing bank on behalf of the bidder in favour of “ Bharat Coking Coal Limited” shall be in paper form (Stamp Paper) as w ell as issued under “Structured Financial Messaging System”. The detai ls of beneficiary Bank for issue of BG through SFMS Platform shall be as under,Issuing Bank should send the underlying confirmation to either o f following banks: Name of beneficiary & its details Name Bharat Coking Coal Limited Area HQ,BCCL Bank Account n o. 35160317947 Deptt. MM Department State Bank of India Beneficiary Bank, Main Branch Dhanbad Branch & Address IFSC code SBIN0000066 Or Name of beneficiary & its details Name Bharat Coking Coal Limited Area HQ,BCCL Bank Account no. 019605001057 Deptt. MM Department ICICI Bank Beneficiary Bank, ICICI Bank, Dhanbad Branch & Address IFSC code ICIC0000196 9. Original copy of the Bank Guarantee issued by the Issuing Bank along with SFMS confirmation sh all be sent by the issuing bank to MM department, BCCL. 10. In cases where the supplier does not submit the PBG in time or as per t he prescribed format in line with the contract stipulations, the PBG amou nt may be deducted from the first bill or in case of insufficient amount, fr om subsequent bill(s) of the supplier till the full PBG amount is deducted. This amount shall be refunded to the supplier upon acceptance of PBG su bmitted by them. 11. PBG for the equipment will be released only after the receipt of the PBG for the CAMC. 3. Relaxation for MSEs andStart-ups if the bidders in their offer will submit documents to prove the Startup/MSE statu s for the tendered itemwithout certificate towards quality, assurance and capabil ity from some authority like MSME, NSIC, etc., the TIA, if needed, may assess the techno-commercial capability of the vendors to manufacture and deliver goods a",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 14,
+      "quote": "s per the prescribed quality and technical specification before awarding contract to them. For this purpose, a ‘Proforma for Equipment and Quality Control’ (as pe r Annexure-E) has to be enclosed in the tender documents and such MSEs/ Start ups should be asked to submit the details of plant & machinery, quality control a rrangements, etc., in the above proforma along with their bids for verification of their technical capability. After opening of bids, the verification of technical capa bility may be done by the concerned Technical Department immediately without any undue delay so that it is available for consideration at the time of evaluation / processing of offers. It should be ensured that the designated technical authority from whom the tech nical capability report is being called, is furnished with copy of the enquiry, the d etails of equipment, quality control, man-power availability, compliance/ deviatio n statements and any other relevant particulars related to manufacturing/supply of the item as furnished by the firm(s) along with their tender. If required, a techno-commercial team of the organization may visit the manufac turing unit of the vendor without any undue delay for quick finalization of tender s. In case there is deficiency in technical capability of the firm, the same is to be c ommunicated to them by TIA for improvement in the quality of their product for future tenders and clearly indicating that their offer cannot be considered for rel axation against the tender in question in order to avoid any future complications . The issues relating to Technical capability may be decided by the Head of the T echnical Department. If favourable technical capability reports obtained earlier on such firms for suppl y of the item in question as per the required specification is available, these may be considered for granting relaxation to the criteria of prior experience and prior turnover provided date of such reports are not more than one year from the dat e of opening of bids. If bidders have submitted documents to prove the Startup/MSE status for the ten dered itemsand their products are ISI marked/DGMS approved/Proven in CIL or it s Subsidiary companies/Proven product of the ancillary unit of a Subsidiary Com pany of CIL, they will be required to submit the following applicable related docu ments, digitally signed (for documents submitted on e-procurement portal) / self -certified (for documents submitted in modes other than e-procurement portal), for relaxation from the criteria of prior experience and prior turnover: · a valid BIS Marking License for the quoted items or · Rate contract issued by CIL/its Subsidiary Companies for the quoteditems or · a valid DGMS Approval certificate for the quoted items or",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 15,
+      "quote": "· Proven Ancillary certificate issued by the Subsidiary Companies forthe qu oted items. The document(s)/certificate(s) furnished by the bidders for ISI markings or DGMS approval for any relaxation should be valid on the date of tender opening and a s elf-certified copy of such document(s)/certificate(s) valid on the date of supply, must accompany their bill(s). 4. Payment of Invoices of MSME Vendors through TReDS Platform: The Ministry of Micro, Small and Medium Enterprises (MSME), Government of India, vi de Gazette Notification S.O. 3507(E) dated 30.06.2026, has mandated that all op erating Central Public Sector Enterprises (CPSEs) shall settle invoices for goods a nd services procured from Micro and Small Enterprise (MSE) suppliers through Tr ade Receivables Discounting System (TReDS) platforms authorised by the Reser ve Bank of India (RBI). Coal India Limited and its Subsidiaries have onboarded on the following five (5) o perating TReDS platforms: 1. M/s Receivables Exchange of India Limited (RXIL) 2. M/s M1xchange 3. M/s Invoicemart 4. M/s KredX 5. M/s C2TReDS* (*The Reserve Bank of India (RBI) has accepted the voluntary surrender of the Ce rtificate of Authorisation (CoA) for C2treds (operated by C2FO Factoring Solution s Private Limited), and the platform will officially cease its Trade Receivables Dis counting System (TReDS) operations on October 30, 2026.) All eligible MSME vendors are advised to register themselves on any of the TReD S platforms authorised by the Reserve Bank of India (RBI) and submit their eligible invoices through the TReDS platform.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 16,
+      "quote": "The Purchaser/Company shall, upon receipt and acceptance of the invoice/claim and subject to the applicable contractual terms and conditions, facilitate confirm ation/acceptance of the invoice on the TReDS platform. Upon confirmation/accep tance of the invoice, payment to the MSME vendor shall be processed through th e TReDS platform in accordance with the applicable terms and conditions. The submission, confirmation, discounting and settlement of invoices through TR eDS shall be subject to the terms and conditions of the concerned TReDS platfor m and applicable statutory/regulatory provisions. The vendor shall be responsibl e for registration with the TReDS platform and for complying with all requiremen ts prescribed by the concerned platform. 5. Experience criteria: (i)The equipment offered by the tenderer shall be considered proven provided t he 01 no of quoted model or similar equipment, as defined below, or combinatio n thereof, must have been supplied by the bidder (or Manufacturer in case bidde r is not the manufacturer) in India to mining industry and/or to the other Industri es (Private or Government/ Public Sector Undertaking) and all of them performe d satisfactorily for a minimum period of 01 year from the date of commissioning. The performance of only those equipment would be considered for assessing pro neness which have been commissioned 1 year prior to the date of opening of ten der but not prior to 5 years from the date of opening of tender. (ii)“Satisfactory Performance” means the supplied equipment must have achiev ed the guaranteed annual availability, if any, as per the performance guarantee clause of the supply orders / contracts for a minimum period of one year from th e date of commissioning. In case supply orders / contracts do not have provision for guaranteed annual availability, the bidder will submit satisfactory performan ce report issued by end users as per benchmark regarding performance of equip ment, if any, incorporated in the supply orders / contracts against which these e quipment were supplied. In case, the Performance Report(s) of the End-User(s) is not available, the bidder shall submit self-certification claiming satisfactory perfo rmance of the equipment supplied. (iii)“Similar Equipment” shall be such equipment, which fulfills the following: a) Performs almost identical operations as the quoted model. b) Should be equal to or higher than the tendered capacity. c) Uses sub-components, sub-systems and major assemblies of substantiall y similar design &construction to the model quoted – only ratings/ specifica tions may differ (Lower or Higher).",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 17,
+      "quote": "In case, the bidder claims provenness of the quoted model based on simila r equipment, the similar equipment should have performed satisfactorily fo r a minimum period of one year from the date of commissioning and the q uoted model should have worked for a minimum period of six months from the date of commissioning within the window period of 5 years. (iv)Documents required for fulfilling the experience criteria are as under: a) The bidder must submit documentary evidence i.e. authenticated copy of such contracts/purchase orders received by them & their satisfactory perfo rmance as above. b) Considering the practical difficulties in obtaining the performance reports in cases where provenness of the offered product is being ascertained on t he basis of supply made in other subsidiaries of CIL or other PSUs/ Govt. D epartments, the bidder will submit a Self- Certificate in the following forma t, along with Proof of Payment against the Purchase Order(s)/ Rate Contrac t(s) and commissioning certificate (s) (in case of Equipment ,P&M etc. whe re installation & commissioning is required) : \"The items covered in the Purchase Order(s)/ Rate Contract(s) copies enclo sed with our offer have been fully executed and have performed satisfacto rily as per the provisions of respective Purchase Order(s)/ Rate Contract(s) and all the complaints/ claim (s) lodged by the purchaser, if any, have bee n attended to and no complaints/ claims(s) are pending.\" c) The authenticity of the self-certificate as well as other documents submitt ed/uploaded by the bidder will solely be their responsibility and appropriat e action will be taken by CIL / Subsidiary Company if it is subsequently fou nd to be misleading / false / forged. d) However, the Purchaser reserves the right to obtain the performance dire ctly from the end user of the item / product. e) In case, any specific Purcha se Order(s) has/ have not been fully executed and any complaint/ claim is pending, then details of such cases to be categorically mentioned with the reasons thereof so that decision making is in clear perspective without any hidden facts in the subject matter. Any of the following documents shall serve the purpose of “proof of paym ent” in case of non-availability of performance of upload supply orders for proven-ness , i. Self-attested copy (ies) of invoice (s) along with self-attested copy (ies) of Bank Statement(s) or relevant pages of the Passbook. In case of payment a mount being less than the invoice amount, a statement by the bidder (sup plier) explaining the reason(s) for deductions. ii. Self-attested copy (ies) of Payment certificate (s) issued by the Purchase r or its Paying Authority giving the details of invoices(s) and payment and deductions, if any. iii. Self-attested copy (ies) of GST TDS certificate (s) for the supply along with self attested copy(ies) of invoice (s), where applicable iv. Self-attested copy of the Certificate issued by practicing Chartered or Cost Accountant g iving the details of the invoice(s) and payment and deduction (s) if any",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 18,
+      "quote": "6.Clarification of Bids/ Shortfall/ Confirmatory Documents: After evaluation of the uploaded documents, shortfall documents, if required, shall be sought from the bidder. Only one opportunity shall be provided for submission of such documents. A time period of 7 × 24 hours will be given to the bidder to uplo ad the required clarifications/shortfall documents.The bidder must upload the re quested documents within the specified time. No additional time shall be allowe d for online submission of documents after the single opportunity of 7 × 24 hour s. If the bidder fails to comply or does not respond within the stipulated date and time, the bid is liable to be rejected. Shortfall information/documents shall be so ught only in respect of historical documents, as per GeM provisions/rules. 7.No shortfall documents submitted during the 48-hour challenge/representat ion on period will be accepted. 8. Paying authority-HoD (Pay) email- hodpay.bccl@coalindia.in 9.DOCUMENTS TO BE SUBMITTED BY BIDDERS WHO HAVE SUBMITTED EMD I N FORM OF RTGS / INTERNET BANKING. Bidders submitting EMD in the form of RTGS / internet banking shall also s ubmit the following document s along with their bid for Vendor Code Creati on to return the EMD amount post finalization of tender: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 10 Certification : ISO/EU-CE/USFDA. 11.Authority to issue installation certificate : AMO, Katras area. 12. Other parameter (a). Service center should be within 300 km from place of installation and commi ssioning. (b). Satisfactory report from any reputed organization as per purchase manual of coal India limited latest amendment. 13. Following document will the part of GeM Bid to be provided by supplier at th e time of supply, i. Supplier's invoice showing Contract Number, Goods description, quantity, unit price, total amount. ii. Railway receipt/ Transporter’s consignment note /acknowledgement of receipt of Goods from the consignee(s); iii. Manufacturer's/Supplier's warranty / guarantee certificate;",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 19,
+      "quote": "iv. Manufacturer’s Test & Inspection certificate (if any). 14. Submit MII(Make in Certificate ) in the format given below Certificate of Local Content as per Public Procurement (Preference to Make in India) Order, 201 7 (as amended from time to time) for tender value less than 10 Cr. Ref. No: ………..………………………. Date: ……………………. Tender No.: ………..………………………. dated ……………………. We, M/s …………………, having registered office at ……………………, being OEM of the offered product/servic es do hereby confirm that the percentage of local content in the offered product / service is _____ % and m eets the local content requirement for ‘Class – I local supplier/ Class – II local supplier’ (Strike off which is no t applicable) as prescribed under Public Procurement (Preference to Make in India) Order, 2017 (as amende d from time to time). The complete address of the location(s) at which the local value addition is made, is / are as under: 1. 2. (Signature of the authorised signatory) Name: Designation: Email id: Mobile No: Place: Date:",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 20,
+      "quote": "Note: Percentage of local content is to be mentioned as per the formula given in Annexure 28 (page no 285 ) of Manual for Procurement of Goods, Second Edition, 2024 issued by Department of Expenditure, MoF, GoI .(https://doe.gov.in/circulars/manual-procurement-goods-second-edition-2024) 15. Annexure-B is to be filled by all bidders& to be uploaded in pdf format in of fer documents. Annexure-B (Bidder Details) Sl Details required Bidder Details 1 Offer no. and Date 2 Name of the Tenderer 3 Address of the Tenderer 4 Phone no. of office 5 Fax No of office 6 E-mail id of office 7 Contact person name & designation 8 Contact person Mobile no. 9 Contact person e-mail id 10 If the tenderer is a Dealer 11 Name of manufacturer (If the tenderer is not Manufacture) 12 Address of the manufacturer 13 Phone /fax/email id of manufacturer 14 Nature of company (Govt/PSU/Pvt Ltd /Public Ltd/Other (please specify) 15 Ownership (Proprietorship/partnershi p/other) 16 Name of the Chief Executive of tende rer / Proprietor 17 Email id of the Chief Executive of Ten derer / Proprietor",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 21,
+      "quote": "18 Supply address (from which place an d state the materials will be supplied) to be mentioned for equipment items . 19 Billing address from where billing to b e done for tender items. 20 Type of local supplier (Class-I/Clas s-II) 21 % of Local Content for each schedule as a whole as per auditor’ certificate 22 Place of value addition for each sche dule as per auditor’ certificate This annexure is to be filled by all bidders & to be uploaded in pdf form at in offer documents. Annexure-C (Performance Bank Guarantee Format) M/s. Bharat Coking Coal Ltd. KoylaBhawan KoylaNagar Dhanbad – 826005 Re : Bank Guarantee in respect of Notification of Award/Purchase order vide no… …dated… between . . . . . . . . . . . . . . . . . . . . . . . . . (Name of Purchaser Company ) and (Name of Supplier Company) Messers ………………… a Company Firm having its office at No. . . . . . . . . . . . . . . . . . . (hereinafter called the Contractor) has received the Notification of Award/Pu rchase order vide no……dated .................... (hereinafter called 'the said agreem ent') with Coal India Limited , Kolkata on behalf of Bharat Coking Coal Limited /P urchaser Company (hereinafter called 'the Company') to supply …………………… …...stores/materials amounting to Rs . . . . . . . . . . . . . on the terms and condition s contained in the said agreement.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 22,
+      "quote": "The ………………..(Name of the Bank) having its Office at………………………. has a t the request of the Contractor agreed to give the guarantee as hereinafter conta ined. We …………………………(Name of the Bank) do hereby unconditionally agree wit h the Company that if the Contractor shall in any way fail to observe or perform t he terms and condition of the said agreement or shall commit any breach of its o bligations thereunder, the Bank shall on demand and without any objection or de mur pay to the Company the said sum of Rs ………………….. or any portion there of without requiring the company to have recourse to any legal remedy that ma y be available to it to compel the Bank to pay the same or calling on the compan y to compel such payment by the contractor. Any such demand shall be conclusive as regards the liability of the Contractor to the company and as regards the amount payable by the Bank under this guaran tee. The Bank shall not be entitled to withhold, payment on the ground that the contractor has disputed its liability to pay or has disputed the quantum of the a mount or that any arbitration proceeding or legal proceeding is pending between the Company and the contractor regarding the claim. We, the Bank- further agree that the guarantee shall come into force from the d ate hereof and shall remain in full force and effect till the period that will be take n for the performance of the said agreement which is likely to be the ....day of . . . …. but if the period of agreement is extended either pursuant to the provisions in the said agreement or by mutual agreement between the contractor and the Company the Bank shall renew the period of the guarantee failing which it shall pay to the Company the said sum of Rs………. or such lesser amount out of the s aid sum of Rs…………… as may be due to the Company and as the Company ma y demand. This guarantee shall remain in force until the dues of the Company in respect of the said sum of Rs……………. are fully satisfied and the company certi fies that the agreement has been fully carried out by the contractor and discharg es the guarantee. The Bank further agrees with the Company that the Company shall have the full est liberty without the consent of the Bank and without affecting in any way the obligations hereunder to vary any of the terms and conditions of the said agree ment or to extend the time for performance of the said agreement from time to t ime or to postpone for any time or from time to time any of the powers exercisab le by the Company against the contractor and to forbear to enforce any of the te rms and conditions relating to the said agreement and the Bank shall not be relie ved from its liability by reason of such failure or extension being granted to the c ontractor or through any forbearance, act or omission on the part of the Compan",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 23,
+      "quote": "y or any indulgence by the Company to the contractor or any other matter or thi ng whatsoever which under the law relating to sureties would but for this provisi ons have the effect of relieving or discharging the Guarantor. The Bank further agrees that in case this guarantee is required for a longer peri od and it is not extended by the Bank beyond the period specified above, the Ba nk shall pay to the Company the said sum of Rs ………… or such lesser sum as m ay then be due to the Company and as the Company may require. Notwithstanding anything herein contained the liability of the Bank under this gu arantee is restricted to Rs........ only. The guarantee shall remain in force till the …………….. day of ………20… and unless the guarantee is renewed or a claim is preferred against the Bank within the validity period and/or the claim period fro m the said date ,all rights of the company under this guarantee shall cease and t he Bank shall be released and discharged from all liability hereunder except as p rovided in the preceding clause. The Bank has under its constitution power to give this guarantee and …………… (Name of the person) who has signed it on behalf of the Bank has authority to do so. Dated this………….Day of……………..20….. Place………………………………………….. Signature of the authorized person For and on behalf of the Bank Annexure-D (No Claim Certificate) (On company letterhead) To, (Contract Executing Officer)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 24,
+      "quote": "Procuring Entity_______________________ NO CLAIM CERTIFICATE Sub: Contract Agreement no. ---------------- dated --------------for the s upply of ------------- We have received the sum of Rs. (Rupees _______________________ only) in full an d final settlement of all the payments due to us for the supply of ________________ __________under the above mentioned contract agreement, between us and (CIL or Subsidiary). We hereby unconditionally and without any reservation whatsoev er, certify that we have no claim whatsoever, of any description, on any account, against Procuring Entity, against aforesaid contract agreement executed by us. We further declare unequivocally, that we have received all the amounts payabl e to us, and have no dispute of any description whatsoever, regarding the amou nts worked out as payable to us and __________________________________________ received by us, and that we shall continue to be bound by the terms and conditi ons of the contract agreement, as regards performance of the contract. Yours faithfully, Signatures of contractor or officer authorized to sign the contract documents on behalf of the contractor (company stamp) Date:__________ Place:_________",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 25,
+      "quote": "ANNEXURE-E (PROFORMA FOR EQUIPMENT AND QUALITY CONTROL FOR MSE BIDDER) Reference: CIL/Subsidiary Co.__________________ Tender No.______________ Date ____________________ for supply of ___________________________________ 1. Name and Address of the Firm 2. (a) Telephone No. office/factory/works (b) Fax No. / E-mail ID 3. Location of manufacturing works/factories owned by the firm (documenta ry evidence of ownership must be produced). 4. Brief description of the factory (i.e. area covered accommodation, Depart ment into which it is divided, laboratory etc.) 5. Details of plant and machinery erected and functioning in each departme nt (monographs and description pamphlets) be supplied if available. 6. Whether the process of manufacture in the factory is carried out with the aid of power or without it. 7. Process Flow Chart for the whole manufacturing process of the tendered i tem. 8. Details and stocks of raw materials held. 9. Production capacity of items quoted for with the existing plants and mach inery (a) Normal (b) Maximum 10. Details of Quality Assurance Plan and Quality Control infrastructure such as laboratories etc. 11. (a) Details of technical supervisory staff in-charge of production and qua lity control. (b) Skilled labour employed. (c) Unskilled labour employed (d) Maximum number of workers (skilled and unskilled) employed on any da y during 18 months preceding the date of application. 12. Whether stores were tested to any standard specification, if so, copies o f original test certificate should be submitted in duplicate. ……………………………………………………………………………………………… (Signature of Tenderer) NB: Details against Sl. no. 5 to 12 need be restricted to the extent they pert ain to the items This annexure is to be filled by MSE bidders & to be uploaded in pdf for mat in offer documents.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 26,
+      "quote": ". 13. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 14. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10121457"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8252717",
   "title": "Submersible Pumpsets (Three Phase) Conforming To IS 8034 (V2)",
   "description": "Submersible Pumpsets (Three Phase) Conforming To IS 8034 (V2)",
-  "organisation": "Panchayats and Rural Housing Department Gujarat",
-  "ministry": "",
-  "department": "Panchayats and Rural Housing Department Gujarat",
+  "organisation": "Bharuch District Panchayat",
+  "ministry": "Gujarat",
+  "department": "Panchayats And Rural Housing Department Gujarat",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Submersible Pumpsets (Three Phase) Conforming To IS 8034 (V2)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-07T11:41:45+05:30",
   "closing_at": "2026-11-21T12:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10141080"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/hsRwCvfbKu2zMt_h_MjiIbc40Gspc-tN3PoUEXAJfmg",
+      "page": 4
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8252717/CLM0010/ATC_1_fd9413c8-8b1a-4022-9c1d1794031533878_gp-bolav.docx",
+      "page": 5
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261107",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +54,227 @@
   ],
   "source_fetched_at": "2026-11-08T08:54:19.035Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-22T12:00:00+05:30",
+  "office": "Taluka Panchayat Hansot",
+  "buyer_email": "buycon187.bdp.gj@gembuyer.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-08T13:59:29.579743+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "d1ff518f2c0f377ba5a5bfe4fd453b9f2c93af2f1bc19216b5db5398e73e655d",
+  "document_pages": 7,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Gamit Ankitaben Arunbhai",
+      "address": "393030,GramPanchayat Utraj Ta-Hansot Dist -Bharuch",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "GENRIC",
+          "parameter": "BEE Star Rating (Hint: In case star rating is not applicable please select \"0\")",
+          "value": "3, 4, 5 Or higher"
+        },
+        {
+          "group": "GENRIC",
+          "parameter": "Number of Pump Stages",
+          "value": "Multistage"
+        },
+        {
+          "group": "PERFORMANCE PARAMETERS",
+          "parameter": "Discharge Capacity (in Litres Per Hour)",
+          "value": "3.33"
+        },
+        {
+          "group": "PERFORMANCE PARAMETERS",
+          "parameter": "Discharge Head",
+          "value": "50.0 (meter)"
+        },
+        {
+          "group": "CONSTRUCTION",
+          "parameter": "Motor Type and Duty",
+          "value": "ISI Marked to IS:9283 latest of wet type for continuous rating synchronous ,Type B,Duty Type-S1"
+        },
+        {
+          "group": "CONSTRUCTION",
+          "parameter": "Number of Motor Poles",
+          "value": "2 pole"
+        },
+        {
+          "group": "CONSTRUCTION",
+          "parameter": "Motor Power Rating",
+          "value": "7.5 (kiloWatt)"
+        },
+        {
+          "group": "CONSTRUCTION",
+          "parameter": "Maximum Rated Current",
+          "value": "19.5 (Ampère)"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Control Panel with Starter, ISI Marked MCB/Main Switch, Ammeter, Voltmeter, Water Level Indicator and Single Phase Preventer Provided",
+          "value": "No"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8252717",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10141080"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 21-11-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10141080"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 22-11-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10141080"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10141080"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Gujarat",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10141080"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Panchayats And Rural Housing Department Gujarat",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10141080"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Bharuch District Panchayat",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10141080"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Taluka Panchayat Hansot",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10141080"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :tdo-hansot@gujarat.gov.in Buyer Email id: buycon187.bdp.gj@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10141080"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10141080"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Submersible Pumpsets (Three Phase) Conforming To IS 8034 (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10141080"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10141080"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10141080"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10141080"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10141080"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10141080"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10141080"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "BEE Star Rating (Hint: In case star rating is not applicable please select \"0\"): 3, 4, 5 Or higher | Number of Pump Stages: Multistage | Discharge Capacity (in Litres Per Hour): 3.33 | Discharge Head: 50.0 (meter) | Motor Type and Duty: ISI Marked to IS:9283 latest of wet type for continuous rating synchronous ,Type B,Duty Type-S1 | Number of Motor Poles: 2 pole | Motor Power Rating: 7.5 (kiloWatt) | Maximum Rated Current: 19.5 (Ampère)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10141080"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Control Panel with Starter, ISI Marked MCB/Main Switch, Ammeter, Voltmeter, Water Level Indicator and Single Phase Preventer Provided: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10141080"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Gamit Ankitaben Arunbhai | 393030,GramPanchayat Utraj Ta-Hansot Dist -Bharuch | 1 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10141080"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10141080"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

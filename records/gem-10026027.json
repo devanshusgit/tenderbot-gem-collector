@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8152671",
   "title": "Gas Analyser",
   "description": "Gas Analyser",
-  "organisation": "Department of Atomic Energy",
-  "ministry": "PMO",
-  "department": "Department of Atomic Energy",
+  "organisation": "Directorate Of Purchase And Stores",
+  "ministry": "Pmo",
+  "department": "Department Of Atomic Energy",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Gas Analyser",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-05T10:13:52+05:30",
   "closing_at": "2026-11-26T14:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10026027"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/uSmJPN3qzmK-vE_oOnwSHd0qYBHXeX3CfcBzSMIxY6A",
+      "page": 3
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8152671/CLM0010/COMPLIANCE_4caddc23-92f6-4e56-bce61792062220191_indarpatel@rrcat.gov.in.pdf",
+      "page": 7
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261105",
+      "page": 9
     }
   ],
   "tags": [
@@ -34,5 +54,443 @@
   ],
   "source_fetched_at": "2026-11-08T09:06:09.270Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-27T14:00:00+05:30",
+  "office": "Directorate Of Purchase And Stores",
+  "buyer_email": "apofive@rrcat.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "90 (Days)",
+  "source_document_fetched_at": "2026-11-08T22:06:59.384572+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "97c6a53e8f9fb568d3d9cc5c5edd22db0fbb35fe5a82928f1733c91ac6bc03e0",
+  "document_pages": 9,
+  "eligibility": [
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Jayachandran M I",
+      "address": "452013,Indore Regional Purchase & Stores Unit (DPS/DAE) Raja Ramana Centre for Advanced Technology P.O. CAT, Indore 452013",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Gases Measurements",
+          "parameter": "Leak Test",
+          "value": "Manual"
+        },
+        {
+          "group": "Technical Parameter",
+          "parameter": "Technology Used to check the parameters",
+          "value": "Battery Based"
+        },
+        {
+          "group": "Technical Parameter",
+          "parameter": "Optional Sensors",
+          "value": "Temperature"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Body Material",
+          "value": "Fibre Plastic"
+        },
+        {
+          "group": null,
+          "parameter": "Low Battery Voltage Cut off",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Sample train",
+          "value": "Borosilicate Glass Impringer"
+        },
+        {
+          "group": null,
+          "parameter": "Number of Impringer",
+          "value": "4"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "Parameters to check - CO,CO2,HC,O2",
+          "value": "Yes"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "CO (Carbon Monoxide)",
+          "value": "0 – 15.5%"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "Accuracy of CO in %",
+          "value": "1"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "Resolution of CO in %",
+          "value": "0.001"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "CO2 (Carbon Dioxide)",
+          "value": "0 – 21.0%"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "Accuracy of CO2%",
+          "value": "1"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "HC (Hydro Carbon)",
+          "value": "0 – 20000 PPM"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "Accuracy of HC in %",
+          "value": "1"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "22",
+          "value": "1"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "O2 (Oxygen)",
+          "value": "0 – 25%"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "Accuracy of O2 in %",
+          "value": "1"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "Resolution of O2 IN %",
+          "value": "0.01"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "Parameters to check - Nox, Sox",
+          "value": "Yes"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "NOx",
+          "value": "0 – 5000 PPM"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "Accuracy of NOx in %",
+          "value": "1"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "Resolution of Nox in PPM",
+          "value": "1"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "Sox",
+          "value": "0-5000 PPM"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "Accuracy of SOx in %",
+          "value": "1"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "Resolution of Sox in PPM",
+          "value": "1"
+        },
+        {
+          "group": "Features",
+          "parameter": "Optional Test Parameters",
+          "value": "Leak"
+        },
+        {
+          "group": "Features",
+          "parameter": "Warm up time at 0?C in Minutes",
+          "value": "0-4"
+        },
+        {
+          "group": "Features",
+          "parameter": "Standard Accessories",
+          "value": "Sampling tube"
+        },
+        {
+          "group": "Features",
+          "parameter": "Inbuilt Printer",
+          "value": "Yes"
+        },
+        {
+          "group": "Features",
+          "parameter": "Buttons",
+          "value": "Soft Touch Keys"
+        },
+        {
+          "group": "Features",
+          "parameter": "Display Type",
+          "value": "LED"
+        },
+        {
+          "group": "Features",
+          "parameter": "Separate window for displaying PEF/RPM/?/AFR/NOx & Oil temperature values",
+          "value": "Yes"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Confirms to ISO 3930 Standards",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Display Optional Parameters",
+          "value": "AFR"
+        },
+        {
+          "group": null,
+          "parameter": "Gas scrubber for cleaning of impure particles",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "HC residue test",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Digital span calibrationDigital span calibration",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Power supply",
+          "value": "12V DC ± 2V battery"
+        },
+        {
+          "group": null,
+          "parameter": "Operating temperature Min Range Display in deg celsius",
+          "value": "0-10"
+        },
+        {
+          "group": null,
+          "parameter": "Operating temperature Max Range Display in deg celsius",
+          "value": "30-40"
+        },
+        {
+          "group": null,
+          "parameter": "Handheld",
+          "value": "Yes"
+        },
+        {
+          "group": "Product Dimensions",
+          "parameter": "Product Overall Dimension (Length) in cm",
+          "value": "50-100"
+        },
+        {
+          "group": "Product Dimensions",
+          "parameter": "Product Overall Dimension (Width) in cm",
+          "value": "50-100"
+        },
+        {
+          "group": "Product Dimensions",
+          "parameter": "Product Overall Dimension(Height) in cm",
+          "value": "50-100"
+        },
+        {
+          "group": "Purchase Guidelines",
+          "parameter": "Warranty in years",
+          "value": "1.0 (year)"
+        },
+        {
+          "group": "Purchase Guidelines",
+          "parameter": "Demonstration of equipment and training to be provided to buyer on demand",
+          "value": "Yes"
+        },
+        {
+          "group": "Purchase Guidelines",
+          "parameter": "Calibration tests Certificate",
+          "value": "Yes"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 2. Generic Scope of supply includes Training: Number of employees to be trained 1 , Place for Training RRCAT and Duration of training 1 days. 3. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 4. Warranty Warranty period of the supplied products shall be 1 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 5. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1) All items, terms & conditions, specifications are as per Bid document/attached annexure. 2) Packing/Delivery Note: In case of an order, all the packages invariably will have details (Super scribed) li ke GeM Contract No., Consignee Name, Consignor name, Phone No., etc to avoid refusal of the consignm ent at the time of delivery. 3) OTP based delivery is not acceptable at receipt section. 4) Invoice Note: In the event of award of Contractor supplier should upload physically signed Invoice Cop y on Gem Portal well before expiry of contractual delivery period for Payment purpose and Hard Copy of th e Invoices should be forwarded to Pay and Accounts Officer, RRCAT, PO CAT, Indore, MP-452013 on priorit y. 5) GST registration certificate consisting of A & B forms shall be furnished along with your offer. 6) End Use Certificate: No End Use Certificate will be issued against offers received through GeM. 7) Bidders while participating in a bid should submit price element(s) in Financial bid only. Accordingly, all bidders are advised not to mention any price element(s) in the technical bid, else the offer shall be rejecte d as non responsive. 8) Drivers should carry Original Transport Driving License and Vehicles should posses all the Required Vali d Original Road documents such as Registration Certificate Insurance, Fitness an d etc., otherwise the vehi cles will not be per mitted in RRCAT for Delivery. 9) Procuring Entity’s right without assigning any reason to:"
+    },
+    {
+      "page": 7,
+      "text": "a) Reject any or all of the Bids or b) Cancel the tender process, or c) Abandon the procurement of the goods, or d) Issue another tender for identical or similar goods. 10) IMP. NOTE FOR Bidder Qualification Criteria & Bid Evaluation Criteria: Details of Bidder Qualification Criteria & Bid Evaluation Criteria are provided in the attached technical spec ifications of the bid document and shall be complied with by the bidder while submitting the offer. 11) Supply shall be made in single lot. 12. Bidder qualification: Bidder should be OEM or authorized dealer. Vendor must provide at least two references with contact detail of similar item supplied in the last 5 years. 13. Bid evaluation criteria: 1. Stamped Compliance statement should be filled and attached with offer, clearly m entioning all the parameters with deviations, if any. Merely writing “complied/confirm ed” for technical specifications in the compliance sheet will not be accepted. 2. Item should be a standard catalogue product and should be possible to verify from their manufacturer’s website. 14. Acceptance criteria: Demonstration of Hydrogen concentration measurement i n air mixture at different H concentrations. 2 PG-V/73355 . 6. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8152671",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10026027"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 26-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10026027"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 27-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10026027"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10026027"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Pmo",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10026027"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Atomic Energy",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10026027"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Directorate Of Purchase And Stores",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10026027"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Directorate Of Purchase And Stores",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10026027"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :hod_dps_gem@dpsdae.gov.in Buyer Email id: apofive@rrcat.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10026027"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10026027"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Gas Analyser (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10026027"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10026027"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10026027"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10026027"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10026027"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10026027"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10026027"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Leak Test: Manual | Technology Used to check the parameters: Battery Based | Optional Sensors: Temperature",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10026027"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Body Material: Fibre Plastic | Low Battery Voltage Cut off: Yes | Sample train: Borosilicate Glass Impringer | Number of Impringer: 4 | Parameters to check - CO,CO2,HC,O2: Yes | CO (Carbon Monoxide): 0 – 15.5% | Accuracy of CO in %: 1 | Resolution of CO in %: 0.001 | CO2 (Carbon Dioxide): 0 – 21.0% | Accuracy of CO2%: 1 | HC (Hydro Carbon): 0 – 20000 PPM | Accuracy of HC in %: 1 | 22: 1 | O2 (Oxygen): 0 – 25% | Accuracy of O2 in %: 1 | Resolution of O2 IN %: 0.01 | Parameters to check - Nox, Sox: Yes | NOx: 0 – 5000 PPM | Accuracy of NOx in %: 1 | Resolution of Nox in PPM: 1 | Sox: 0-5000 PPM | Accuracy of SOx in %: 1 | Resolution of Sox in PPM: 1 | Optional Test Parameters: Leak | Warm up time at 0?C in Minutes: 0-4 | Standard Accessories: Sampling tube | Inbuilt Printer: Yes | Buttons: Soft Touch Keys | Display Type: LED | Separate window for displaying PEF/RPM/?/AFR/NOx & Oil temperature values: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10026027"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Confirms to ISO 3930 Standards: Yes | Display Optional Parameters: AFR | Gas scrubber for cleaning of impure particles: Yes | HC residue test: Yes | Digital span calibrationDigital span calibration: Yes | Power supply: 12V DC ± 2V battery | Operating temperature Min Range Display in deg celsius: 0-10 | Operating temperature Max Range Display in deg celsius: 30-40 | Handheld: Yes | Product Overall Dimension (Length) in cm: 50-100 | Product Overall Dimension (Width) in cm: 50-100 | Product Overall Dimension(Height) in cm: 50-100 | Warranty in years: 1.0 (year) | Demonstration of equipment and training to be provided to buyer on demand: Yes | Calibration tests Certificate: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10026027"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Jayachandran M I | 452013,Indore Regional Purchase & Stores Unit (DPS/DAE) Raja Ramana Centre for Advanced Technology P.O. CAT, Indore 452013 | 1 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10026027"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 2. Generic Scope of supply includes Training: Number of employees to be trained 1 , Place for Training RRCAT and Duration of training 1 days. 3. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 4. Warranty Warranty period of the supplied products shall be 1 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 5. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1) All items, terms & conditions, specifications are as per Bid document/attached annexure. 2) Packing/Delivery Note: In case of an order, all the packages invariably will have details (Super scribed) li ke GeM Contract No., Consignee Name, Consignor name, Phone No., etc to avoid refusal of the consignm ent at the time of delivery. 3) OTP based delivery is not acceptable at receipt section. 4) Invoice Note: In the event of award of Contractor supplier should upload physically signed Invoice Cop y on Gem Portal well before expiry of contractual delivery period for Payment purpose and Hard Copy of th e Invoices should be forwarded to Pay and Accounts Officer, RRCAT, PO CAT, Indore, MP-452013 on priorit y. 5) GST registration certificate consisting of A & B forms shall be furnished along with your offer. 6) End Use Certificate: No End Use Certificate will be issued against offers received through GeM. 7) Bidders while participating in a bid should submit price element(s) in Financial bid only. Accordingly, all bidders are advised not to mention any price element(s) in the technical bid, else the offer shall be rejecte d as non responsive. 8) Drivers should carry Original Transport Driving License and Vehicles should posses all the Required Vali d Original Road documents such as Registration Certificate Insurance, Fitness an d etc., otherwise the vehi cles will not be per mitted in RRCAT for Delivery. 9) Procuring Entity’s right without assigning any reason to:",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10026027"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "a) Reject any or all of the Bids or b) Cancel the tender process, or c) Abandon the procurement of the goods, or d) Issue another tender for identical or similar goods. 10) IMP. NOTE FOR Bidder Qualification Criteria & Bid Evaluation Criteria: Details of Bidder Qualification Criteria & Bid Evaluation Criteria are provided in the attached technical spec ifications of the bid document and shall be complied with by the bidder while submitting the offer. 11) Supply shall be made in single lot. 12. Bidder qualification: Bidder should be OEM or authorized dealer. Vendor must provide at least two references with contact detail of similar item supplied in the last 5 years. 13. Bid evaluation criteria: 1. Stamped Compliance statement should be filled and attached with offer, clearly m entioning all the parameters with deviations, if any. Merely writing “complied/confirm ed” for technical specifications in the compliance sheet will not be accepted. 2. Item should be a standard catalogue product and should be possible to verify from their manufacturer’s website. 14. Acceptance criteria: Demonstration of Hydrogen concentration measurement i n air mixture at different H concentrations. 2 PG-V/73355 . 6. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10026027"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

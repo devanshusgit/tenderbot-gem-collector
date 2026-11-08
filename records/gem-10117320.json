@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8231683",
   "title": "Axle Oil (V2) Conforming to IS 1628",
   "description": "Axle Oil (V2) Conforming to IS 1628",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "East Coast Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Axle Oil (V2) Conforming to IS 1628",
   "quantity": 3780,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-03T09:46:24+05:30",
   "closing_at": "2026-11-09T11:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10117320"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/1o4_aIdPGg-WOYDmCxggOdycgxy7_Befxki0Ur98qZY",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261103",
+      "page": 5
     }
   ],
   "tags": [
@@ -34,5 +49,209 @@
   ],
   "source_fetched_at": "2026-11-08T09:36:56.708Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "office": "Office Of Pcmm",
+  "buyer_email": "vaibhav.9592@gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-08T23:17:09.000706+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "8e4c65b50a8fe2c0df4d716742677f6538a99be11dd047b2d45c524a51395e89",
+  "document_pages": 5,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 3,
+      "consignee": "Harihar Mohanty",
+      "address": "751017,Office of the Sr. Materials Manager, General Stores Depot, East Coast Railway, Near Carriage Repair Workshop, Mancheswar, Bhubaneswar. Pin- 751017. Ph No-8455885757",
+      "quantity": 3780,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Generic",
+          "parameter": "Grade",
+          "value": "Medium"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Requirements for Axle Oil",
+          "value": "As per Table 1 of IS 1628"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Type of Supply",
+          "value": "Packaged Shipment, Bulk Supply (Per-Liter Price)"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Pack Size",
+          "value": "210 Liter, Bulk Supply (Per-Liter Price)"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Unit",
+          "value": "Container, Liter"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Packing and Marking",
+          "value": "As per Clause 4 of IS 1628"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Packing Type",
+          "value": "Mild Steel Drum"
+        },
+        {
+          "group": "Certification and Testing",
+          "parameter": "Conformity of the Specification to IS : 1628 - 1986",
+          "value": "Yes"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods"
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8231683",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117320"
+    },
+    {
+      "field": "document_closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 06-11-2026 10:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117320"
+    },
+    {
+      "field": "document_opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 07-11-2026 10:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117320"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117320"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117320"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117320"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: East Coast Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117320"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Office Of Pcmm",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117320"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :secy_cos@ecor.railnet.gov.in Buyer Email id: vaibhav.9592@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117320"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 3780",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117320"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Axle Oil (V2) Conforming to IS 1628 (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117320"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117320"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117320"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117320"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117320"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117320"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Grade: Medium | Requirements for Axle Oil: As per Table 1 of IS 1628 | Type of Supply: Packaged Shipment, Bulk Supply (Per-Liter Price) | Pack Size: 210 Liter, Bulk Supply (Per-Liter Price) | Unit: Container, Liter | Packing and Marking: As per Clause 4 of IS 1628 | Packing Type: Mild Steel Drum | Conformity of the Specification to IS : 1628 - 1986: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117320"
+    },
+    {
+      "field": "consignees",
+      "page": 3,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Harihar Mohanty | 751017,Office of the Sr. Materials Manager, General Stores Depot, East Coast Railway, Near Carriage Repair Workshop, Mancheswar, Bhubaneswar. Pin- 751017. Ph No-8455885757 | 3780 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117320"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10117320"
+    }
+  ],
+  "detail_warning": "The original PDF dates differ from the current public GeM listing. The listing closing date is retained. Confirm the latest opening date and any corrigenda on GeM; the original PDF opening date is not presented as current.",
+  "document_closing_at": "2026-11-06T10:00:00+05:30",
+  "document_opening_at": "2026-11-07T10:00:00+05:30",
+  "date_discrepancy": {
+    "listing_closing_at": "2026-11-09T11:00:00+05:30",
+    "document_closing_at": "2026-11-06T10:00:00+05:30",
+    "document_opening_at": "2026-11-07T10:00:00+05:30"
+  }
 }

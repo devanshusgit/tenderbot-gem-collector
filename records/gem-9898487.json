@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8041288",
   "title": "Entry and Mid Level Desktop Computer",
   "description": "Entry and Mid Level Desktop Computer",
-  "organisation": "Department of Defence Production",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Defence Production",
+  "organisation": "Directorate General Of Quality Assurance ( Dgqa)",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Defence Production",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Entry and Mid Level Desktop Computer",
   "quantity": 3,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-10-30T23:31:33+05:30",
   "closing_at": "2026-11-16T10:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/9898487"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/w2Z0Qj1j0FIPvwwEKOMhdrUySBeFQ3bmZrQBzY8SUsc",
+      "page": 5
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261030",
+      "page": 10
     }
   ],
   "tags": [
@@ -34,5 +49,327 @@
   ],
   "source_fetched_at": "2026-11-08T04:54:06.856Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "buyer_email": "storescqabeml-dgqa@gov.in",
+  "emd_required": false,
+  "bidder_turnover_lakhs": 1,
+  "oem_turnover_lakhs": 1,
+  "experience_years": 2,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 0.01,
+  "epbg_duration_months": 36,
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-09T07:30:12.523882+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "b62b5a7e5a946bf009f8d6d807ce292a470da7a00f48cc10136dd50490a1adc4",
+  "document_pages": 10,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 1 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 1 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 2 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 10 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "***********",
+      "address": "***********BANGALORE CITY",
+      "quantity": 3,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "PROCESSOR",
+          "parameter": "Description of Stores",
+          "value": "Desktop Computer with Table Mount Monitor System with Compatible Chipset as per Processor Make with Minimum 6 USB Port"
+        },
+        {
+          "group": "PROCESSOR",
+          "parameter": "Computer Type",
+          "value": "Mid Level"
+        },
+        {
+          "group": "PROCESSOR",
+          "parameter": "Processor Number",
+          "value": "AMD Ryzen 5 5600G, Intel Core i5 12400 Or higher"
+        },
+        {
+          "group": "OPERATING SYSTEM",
+          "parameter": "Factory Pre-loaded Operating System by Desktop OEM",
+          "value": "Window 11 Professional"
+        },
+        {
+          "group": "MEMORY (RAM)",
+          "parameter": "RAM Size (Memory Card/Module) (in GB) (Capacity to be installed in the System)",
+          "value": "16, 32 Or higher"
+        },
+        {
+          "group": "MEMORY (RAM)",
+          "parameter": "Memory Expandable Up To (in GB)",
+          "value": "32, 64, 128 Or higher"
+        },
+        {
+          "group": "STORAGE",
+          "parameter": "Type of Storage Installed with the System",
+          "value": "NVMe-SSD Plus HDD@7200 RPM"
+        },
+        {
+          "group": "STORAGE",
+          "parameter": "SSD - Storage Capacity (in GB)",
+          "value": "500, 512, 1024, 2048 Or higher"
+        },
+        {
+          "group": "STORAGE",
+          "parameter": "HDD - Storage Capacity (in GB)",
+          "value": "500, 1000, 2000 Or higher"
+        },
+        {
+          "group": "CABINET",
+          "parameter": "Optical Drive",
+          "value": "No Optical Drive, DVD R/W"
+        },
+        {
+          "group": "PORTS",
+          "parameter": "Number of USB Type A Port (Version 2 Point 0)",
+          "value": "4 Or higher"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Availibility of Monitor",
+          "value": "Yes as per IS 13252 (Part 1)"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Display Technology",
+          "value": "LED Backlit LCD (Liquid Crystal Display)"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Screen Size (in CMs)",
+          "value": "53.1 - 58 (20.91\" - 22.83\")"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Monitor Port",
+          "value": "HDMI, VGA"
+        },
+        {
+          "group": "INPUT DEVICES",
+          "parameter": "Keyboard Connectivity",
+          "value": "USB Wired, Wireless Or higher"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "On Site OEM Warranty (in Year)",
+          "value": "3, 4, 5 Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 7,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at"
+    },
+    {
+      "page": 8,
+      "text": "the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller. 3. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 4. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 5. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses SCOPE OF WORK : PROCUREMENT OF DESKTOP COMPUTERS Project : Supply, Installation, Testing and Commissioning of Desktop Computers Purpose: The purpose of this bid is to procure branded desktop computers with latest generation Intel Cor e i5 processors, Windows 11 Pro operating system, and related accessories for official use through the Gov ernment e-Marketplace (GeM) platform. 1. Scope of Supply. The successful bidder shall supply, install, configure, and commission desktop comp uter systems with the following minimum specifications. A. Desktop Computer Specifications Sl. No. Item Description Minimum Technical Specification 1 Processor Intel Core i5 Processor, 11th Gen or higher/AMD Ryzen5 2 Make OEM branded desktop (HP / Dell / Lenovo / Acer or equivalent) 3 Operating System Windows 11 Professional, preloaded and licensed 4 RAM Minimum 16 GB DDR4 expandable 5 Storage Minimum 500 GB SSD/500GB HD 6 Monitor 21.5” or higher Full HD LED Monitor 7 Graphics Integrated Graphics. 8 Keyboard USB Keyboard. 9 Mouse USB Optical Mouse 10 Network Integrated Gigabit Ethernet 11 Ports Minimum 4 USB ports, HDMI/VGA 12 Audio Integrated Audio 13 Power Supply Standard OEM Supply with Energy Efficient Rating 14 Warranty Minimum 3 Years Onsite OEM Warranty 2. Scope of Services The bidder shall: 1. Supply the desktop computers and accessories as per specifications. 2. Deliver the items at the consignee location. 3. Install and configure all systems. 4. Activate and verify licensed Windows 11 Pro OS. 5. Ensure all systems are tested and operational before handover. 6. Provide warranty support during the warranty period. 7. Replace defective components without additional cost during warranty. 3. Delivery Schedule \u0000 Delivery shall be completed within stipulated time as mentioned in the contract . \u0000 Installation and commissioning shall be completed as per the contract. 4. Eligibility Criteria for Bidder"
+    },
+    {
+      "page": 9,
+      "text": "The bidder should: 1. Be an authorized OEM partner/reseller. 2. Have valid GST registration. 3. Have PAN registration. 4. Submit OEM authorization certificate. 5. Not be blacklisted by any Government department/PSU. 6. Warranty & Support \u0000 Minimum 3 Years Comprehensive Onsite Warranty from OEM. \u0000 Support response time shall be within 48 hours. \u0000 Faulty hardware shall be replaced without additional cost 5. must have registered Office in Bangalore ,documemtary evedience to be given. 6. The firm should not be blacklisted by any of the organisation is so they will be rejected. Un dertaking for the same to be uploaded . 6. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8041288",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9898487"
+    },
+    {
+      "field": "document_closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 11-11-2026 10:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9898487"
+    },
+    {
+      "field": "document_opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 12-11-2026 10:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9898487"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9898487"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9898487"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Defence Production",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9898487"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Directorate General Of Quality Assurance ( Dgqa)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9898487"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :cqabeml-dgqa@nic.in Buyer Email id: storescqabeml-dgqa@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9898487"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 3",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9898487"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Entry and Mid Level Desktop Computer (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9898487"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 1 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9898487"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 1 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9898487"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 2 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9898487"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9898487"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9898487"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9898487"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9898487"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 10 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9898487"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9898487"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9898487"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9898487"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 0.01",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9898487"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 36",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9898487"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Description of Stores: Desktop Computer with Table Mount Monitor System with Compatible Chipset as per Processor Make with Minimum 6 USB Port | Computer Type: Mid Level | Processor Number: AMD Ryzen 5 5600G, Intel Core i5 12400 Or higher | Factory Pre-loaded Operating System by Desktop OEM: Window 11 Professional | RAM Size (Memory Card/Module) (in GB) (Capacity to be installed in the System): 16, 32 Or higher | Memory Expandable Up To (in GB): 32, 64, 128 Or higher | Type of Storage Installed with the System: NVMe-SSD Plus HDD@7200 RPM | SSD - Storage Capacity (in GB): 500, 512, 1024, 2048 Or higher | HDD - Storage Capacity (in GB): 500, 1000, 2000 Or higher | Optical Drive: No Optical Drive, DVD R/W | Number of USB Type A Port (Version 2 Point 0): 4 Or higher | Availibility of Monitor: Yes as per IS 13252 (Part 1) | Display Technology: LED Backlit LCD (Liquid Crystal Display) | Screen Size (in CMs): 53.1 - 58 (20.91\" - 22.83\") | Monitor Port: HDMI, VGA | Keyboard Connectivity: USB Wired, Wireless Or higher | On Site OEM Warranty (in Year): 3, 4, 5 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9898487"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********BANGALORE CITY | 3 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9898487"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9898487"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller. 3. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 4. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 5. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses SCOPE OF WORK : PROCUREMENT OF DESKTOP COMPUTERS Project : Supply, Installation, Testing and Commissioning of Desktop Computers Purpose: The purpose of this bid is to procure branded desktop computers with latest generation Intel Cor e i5 processors, Windows 11 Pro operating system, and related accessories for official use through the Gov ernment e-Marketplace (GeM) platform. 1. Scope of Supply. The successful bidder shall supply, install, configure, and commission desktop comp uter systems with the following minimum specifications. A. Desktop Computer Specifications Sl. No. Item Description Minimum Technical Specification 1 Processor Intel Core i5 Processor, 11th Gen or higher/AMD Ryzen5 2 Make OEM branded desktop (HP / Dell / Lenovo / Acer or equivalent) 3 Operating System Windows 11 Professional, preloaded and licensed 4 RAM Minimum 16 GB DDR4 expandable 5 Storage Minimum 500 GB SSD/500GB HD 6 Monitor 21.5” or higher Full HD LED Monitor 7 Graphics Integrated Graphics. 8 Keyboard USB Keyboard. 9 Mouse USB Optical Mouse 10 Network Integrated Gigabit Ethernet 11 Ports Minimum 4 USB ports, HDMI/VGA 12 Audio Integrated Audio 13 Power Supply Standard OEM Supply with Energy Efficient Rating 14 Warranty Minimum 3 Years Onsite OEM Warranty 2. Scope of Services The bidder shall: 1. Supply the desktop computers and accessories as per specifications. 2. Deliver the items at the consignee location. 3. Install and configure all systems. 4. Activate and verify licensed Windows 11 Pro OS. 5. Ensure all systems are tested and operational before handover. 6. Provide warranty support during the warranty period. 7. Replace defective components without additional cost during warranty. 3. Delivery Schedule \u0000 Delivery shall be completed within stipulated time as mentioned in the contract . \u0000 Installation and commissioning shall be completed as per the contract. 4. Eligibility Criteria for Bidder",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9898487"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "The bidder should: 1. Be an authorized OEM partner/reseller. 2. Have valid GST registration. 3. Have PAN registration. 4. Submit OEM authorization certificate. 5. Not be blacklisted by any Government department/PSU. 6. Warranty & Support \u0000 Minimum 3 Years Comprehensive Onsite Warranty from OEM. \u0000 Support response time shall be within 48 hours. \u0000 Faulty hardware shall be replaced without additional cost 5. must have registered Office in Bangalore ,documemtary evedience to be given. 6. The firm should not be blacklisted by any of the organisation is so they will be rejected. Un dertaking for the same to be uploaded . 6. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9898487"
+    }
+  ],
+  "detail_warning": "The original PDF dates differ from the current public GeM listing. The listing closing date is retained. Confirm the latest opening date and any corrigenda on GeM; the original PDF opening date is not presented as current.",
+  "document_closing_at": "2026-11-11T10:00:00+05:30",
+  "document_opening_at": "2026-11-12T10:00:00+05:30",
+  "date_discrepancy": {
+    "listing_closing_at": "2026-11-16T10:00:00+05:30",
+    "document_closing_at": "2026-11-11T10:00:00+05:30",
+    "document_opening_at": "2026-11-12T10:00:00+05:30"
+  }
 }

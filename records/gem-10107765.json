@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8223644",
   "title": "Digital Signature Certificate (DSC) (V3)",
   "description": "Digital Signature Certificate (DSC) (V3)",
-  "organisation": "Department of Food and Public Distribution",
-  "ministry": "Ministry of Consumer Affairs Food and Public Distribution",
-  "department": "Department of Food and Public Distribution",
+  "organisation": "Food Corporation Of India (fci)",
+  "ministry": "Ministry Of Consumer Affairs Food And Public Distribution",
+  "department": "Department Of Food And Public Distribution",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Digital Signature Certificate (DSC) (V3)",
   "quantity": 30,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-10-31T10:57:27+05:30",
   "closing_at": "2026-11-11T11:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10107765"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/XxaCLVsyF3RrZ3Z0z62zUwsSiuEVZF7PWR4doU-z2j0",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261031",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +49,208 @@
   ],
   "source_fetched_at": "2026-11-08T13:12:09.863Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-12T11:00:00+05:30",
+  "office": "Fci, Do, Udaipur",
+  "buyer_email": "devendrakc@fci.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Past Performance,OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "60 (Days)",
+  "source_document_fetched_at": "2026-11-09T06:52:32.171479+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "abc73d611b5df02831b6edb4e81b35bd0ce70a57616501d3d948a9d6bc6bc415",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Past Performance,OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 10 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Devendra Kumar Choudhary",
+      "address": "313001,KESHAV TOWER,FIRST FLOOR,HIRAN MAGRI,SECTOR 8,UDAIPUR",
+      "quantity": 30,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Generic",
+          "parameter": "Certificate Type",
+          "value": "Signing Certificate"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Encryption Certificate Assurance Level",
+          "value": "Class 3 Certificate"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Public Key Algorithm",
+          "value": "RSA 2048-bit, ECC NIST P-256"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Validity of Certificate",
+          "value": "2 Years, 3 Years Or higher"
+        },
+        {
+          "group": "Features",
+          "parameter": "Signing Private Key Storage Medium",
+          "value": "USB Crypto Token Supplied with DSC"
+        },
+        {
+          "group": "Features",
+          "parameter": "Applicant eKYC/Identity Verification Mode Supported",
+          "value": "Aadhaar Online eKYC-OTP, Aadhaar Online eKYC- Biometric, Aadhaar Offline eKYC, Banking eKYC, eKYC for Foreign Applicants, CA-Assisted Enrollment Mode"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8223644",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10107765"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 11-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10107765"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 12-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10107765"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 60 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10107765"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Consumer Affairs Food And Public Distribution",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10107765"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Food And Public Distribution",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10107765"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Food Corporation Of India (fci)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10107765"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Fci, Do, Udaipur",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10107765"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :udairj@fci.gov.in Buyer Email id: devendrakc@fci.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10107765"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10107765"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Digital Signature Certificate (DSC) (V3) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10107765"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10107765"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10107765"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Past Performance,OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10107765"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 10 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10107765"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10107765"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10107765"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10107765"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Certificate Type: Signing Certificate | Encryption Certificate Assurance Level: Class 3 Certificate | Public Key Algorithm: RSA 2048-bit, ECC NIST P-256 | Validity of Certificate: 2 Years, 3 Years Or higher | Signing Private Key Storage Medium: USB Crypto Token Supplied with DSC | Applicant eKYC/Identity Verification Mode Supported: Aadhaar Online eKYC-OTP, Aadhaar Online eKYC- Biometric, Aadhaar Offline eKYC, Banking eKYC, eKYC for Foreign Applicants, CA-Assisted Enrollment Mode",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10107765"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Devendra Kumar Choudhary | 313001,KESHAV TOWER,FIRST FLOOR,HIRAN MAGRI,SECTOR 8,UDAIPUR | 30 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10107765"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10107765"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

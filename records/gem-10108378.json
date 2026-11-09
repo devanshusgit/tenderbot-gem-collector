@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8224174",
   "title": "Entry and Mid Level Desktop Computer",
   "description": "Entry and Mid Level Desktop Computer",
-  "organisation": "Local Self Government Department Kerala",
-  "ministry": "",
+  "organisation": "Pulpatta Gramapanchayath",
+  "ministry": "Kerala",
   "department": "Local Self Government Department Kerala",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Entry and Mid Level Desktop Computer",
   "quantity": 4,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-10-31T13:20:13+05:30",
   "closing_at": "2026-11-10T14:00:00+05:30",
   "status": "active",
@@ -27,6 +27,16 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10108378"
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/ui9pxZaPMpT-IqzlzRV_NR3IfT1dkP_BPW4h5WebD8M",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261031",
+      "page": 9
     }
   ],
   "tags": [
@@ -34,5 +44,262 @@
   ],
   "source_fetched_at": "2026-11-08T13:07:10.269Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-11T14:00:00+05:30",
+  "office": "Pookolathur",
+  "buyer_email": "sc1plptgp.lsgd@kerala.gov.in",
+  "emd_required": false,
+  "bidder_turnover_lakhs": 1.4,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-09T05:40:06.793425+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "279ed3a2cb0ff8a55a26d272ea8b8525a5e1a1100c10a722036ef907b7892fa2",
+  "document_pages": 9,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 1.4 Lakh (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Soumia.c",
+      "address": "676123,Pookolathur Pulpatta PO",
+      "quantity": 4,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "PROCESSOR",
+          "parameter": "Description of Stores",
+          "value": "Desktop Computer with Table Mount Monitor System with Compatible Chipset as per Processor Make with Minimum 6 USB Port"
+        },
+        {
+          "group": "PROCESSOR",
+          "parameter": "Computer Type",
+          "value": "Mid Level"
+        },
+        {
+          "group": "PROCESSOR",
+          "parameter": "Processor Number",
+          "value": "AMD Ryzen 5 5600G, Intel Core i5 12400 Or higher"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "OPERATING SYSTEM",
+          "parameter": "Factory Pre-loaded Operating System by Desktop OEM",
+          "value": "Window 11 Professional"
+        },
+        {
+          "group": "MEMORY (RAM)",
+          "parameter": "RAM Size (Memory Card/Module) (in GB) (Capacity to be installed in the System)",
+          "value": "16, 32 Or higher"
+        },
+        {
+          "group": "STORAGE",
+          "parameter": "Type of Storage Installed with the System",
+          "value": "NVMe-SSD"
+        },
+        {
+          "group": "STORAGE",
+          "parameter": "SSD - Storage Capacity (in GB)",
+          "value": "512, 1024, 2048 Or higher"
+        },
+        {
+          "group": "STORAGE",
+          "parameter": "HDD - Storage Capacity (in GB)",
+          "value": "0 as SSD only Installed Or higher"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Availibility of Monitor",
+          "value": "Yes as per IS 13252 (Part 1)"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Screen Size (in CMs)",
+          "value": "48.26 - 53 (19.0\" - 20.87\"), 53.1 - 58 (20.91\" - 22.83\"), 58.1 - 63 (22.87\" - 24.8\"), 63.1 - 68 (24.84\" - 26.77\"), 68.1 - 73 (26.81\" - 28.74\"), 73.1 - 78 (28.78\" - 30.71\"), 78.1 - 83 (30.75\" - 32.68\"), 83.1 - 88 (32.72\" - 34.65\")"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "On Site OEM Warranty (in Year)",
+          "value": "5 Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 3. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 4. Purchase Preference (Centre) Indian suppliers of this item are not allowed to participate and/ or compete in procurement by some foreign governments. Bidders / products from such countries are not eligible / not allowed to participate in this bid in terms of clause 1 (d) of Public Procurement (Preference to Make in India) Order, 2017 5. Certificates"
+    },
+    {
+      "page": 7,
+      "text": "Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 6. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 7. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address Secretary Pulpatta Gramapanchayat Pookolathur Pulpatta PO Malappuram (Dis) 676123 . 8. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Biders who are blacklisted by state or central gov department a nd organisation are not eligible to particip ate in this tender and such bids will be summarily rejected Bids containing goods from organisation on a blacklist will also be denied All equipments should be from a reputed OEM of non Chinese Origin as per MHA guide. The bidder should have registered office in Kerala. The bidder should be an OEM or OEM Authorized partner and firm should produce OEM Authorization, men tionening warranty and service assurance. The bidder should clearly mention the make and model number with deviation. The firm should Clearly satisfy the warranty terms and the quoted items should meet the all the technical specification. Bidder Must have 4 star or higer rating in GEM(Attach Proof) Quoted Price should be inclusive of all taxes , installation, freight loading and unloading The amount will be sanctioned/released only after the warranty information is up dated on the website. The firms who fails to submit the above details(with Proof) will be rejected Buyer reserves the right to reject/accept the items based on the market survey ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8224174",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108378"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 10-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108378"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 11-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108378"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108378"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Kerala",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108378"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Local Self Government Department Kerala",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108378"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Pulpatta Gramapanchayath",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108378"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Pookolathur",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108378"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :secplptgp.lsgd@kerala.gov.in Buyer Email id: sc1plptgp.lsgd@kerala.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108378"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 4",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108378"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Entry and Mid Level Desktop Computer (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108378"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 1.4 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108378"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108378"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108378"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108378"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108378"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108378"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108378"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108378"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Description of Stores: Desktop Computer with Table Mount Monitor System with Compatible Chipset as per Processor Make with Minimum 6 USB Port | Computer Type: Mid Level | Processor Number: AMD Ryzen 5 5600G, Intel Core i5 12400 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108378"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Factory Pre-loaded Operating System by Desktop OEM: Window 11 Professional | RAM Size (Memory Card/Module) (in GB) (Capacity to be installed in the System): 16, 32 Or higher | Type of Storage Installed with the System: NVMe-SSD | SSD - Storage Capacity (in GB): 512, 1024, 2048 Or higher | HDD - Storage Capacity (in GB): 0 as SSD only Installed Or higher | Availibility of Monitor: Yes as per IS 13252 (Part 1) | Screen Size (in CMs): 48.26 - 53 (19.0\" - 20.87\"), 53.1 - 58 (20.91\" - 22.83\"), 58.1 - 63 (22.87\" - 24.8\"), 63.1 - 68 (24.84\" - 26.77\"), 68.1 - 73 (26.81\" - 28.74\"), 73.1 - 78 (28.78\" - 30.71\"), 78.1 - 83 (30.75\" - 32.68\"), 83.1 - 88 (32.72\" - 34.65\") | On Site OEM Warranty (in Year): 5 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108378"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Soumia.c | 676123,Pookolathur Pulpatta PO | 4 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108378"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 3. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 4. Purchase Preference (Centre) Indian suppliers of this item are not allowed to participate and/ or compete in procurement by some foreign governments. Bidders / products from such countries are not eligible / not allowed to participate in this bid in terms of clause 1 (d) of Public Procurement (Preference to Make in India) Order, 2017 5. Certificates",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108378"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 6. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 7. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address Secretary Pulpatta Gramapanchayat Pookolathur Pulpatta PO Malappuram (Dis) 676123 . 8. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Biders who are blacklisted by state or central gov department a nd organisation are not eligible to particip ate in this tender and such bids will be summarily rejected Bids containing goods from organisation on a blacklist will also be denied All equipments should be from a reputed OEM of non Chinese Origin as per MHA guide. The bidder should have registered office in Kerala. The bidder should be an OEM or OEM Authorized partner and firm should produce OEM Authorization, men tionening warranty and service assurance. The bidder should clearly mention the make and model number with deviation. The firm should Clearly satisfy the warranty terms and the quoted items should meet the all the technical specification. Bidder Must have 4 star or higer rating in GEM(Attach Proof) Quoted Price should be inclusive of all taxes , installation, freight loading and unloading The amount will be sanctioned/released only after the warranty information is up dated on the website. The firms who fails to submit the above details(with Proof) will be rejected Buyer reserves the right to reject/accept the items based on the market survey .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108378"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

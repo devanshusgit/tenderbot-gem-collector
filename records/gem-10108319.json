@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8224121",
   "title": "Shoe Shining Machine",
   "description": "Shoe Shining Machine",
-  "organisation": "Department of Financial Services",
-  "ministry": "Ministry of Finance",
-  "department": "Department of Financial Services",
+  "organisation": "State Bank Of India (sbi)",
+  "ministry": "Ministry Of Finance",
+  "department": "Department Of Financial Services",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Shoe Shining Machine",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-10-31T12:11:12+05:30",
   "closing_at": "2026-11-10T17:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10108319"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/QQczdu5Y7eI9NSuCxhMYaBNE3TNxs0dHye04tacXXyk",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261031",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +49,214 @@
   ],
   "source_fetched_at": "2026-11-08T13:09:35.777Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-11T17:00:00+05:30",
+  "office": "Delhi",
+  "buyer_email": "vikas.jeesukh@sbi.co.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-09T06:14:30.760188+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "cb4a24cec85cdffbd08fc16debe034c2ba86109f94fb90092f680f71eb2cf1fd",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Akanksha Singh",
+      "address": "250004,SBI AO 8 MEERUT, GARH ROAD, MEERUT, UTTAR PRADESH",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Technical Specification and Properties",
+          "parameter": "Power Voltage",
+          "value": "220.0 (Volt)"
+        },
+        {
+          "group": "Technical Specification and Properties",
+          "parameter": "No. of Brushes",
+          "value": "2"
+        },
+        {
+          "group": "Technical Specification and Properties",
+          "parameter": "Type of Shoes Shining Machine",
+          "value": "Automatic Shoe Shining Machine"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Material of Brushes(Fibre)",
+          "value": "Bristle Filled"
+        },
+        {
+          "group": null,
+          "parameter": "Used For",
+          "value": "Black and Brown Both"
+        },
+        {
+          "group": null,
+          "parameter": "Sensor Technology",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Material",
+          "value": "Stainless Steel"
+        },
+        {
+          "group": "Warranty",
+          "parameter": "Warranty",
+          "value": "1, 2, 3, 4, 5 Or higher (year)"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8224121",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108319"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 10-11-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108319"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 11-11-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108319"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108319"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Finance",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108319"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Financial Services",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108319"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: State Bank Of India (sbi)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108319"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Delhi",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108319"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :cdo.lhodel@sbi.co.in Buyer Email id: vikas.jeesukh@sbi.co.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108319"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108319"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Shoe Shining Machine (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108319"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108319"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108319"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108319"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108319"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108319"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Power Voltage: 220.0 (Volt) | No. of Brushes: 2 | Type of Shoes Shining Machine: Automatic Shoe Shining Machine",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108319"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Material of Brushes(Fibre): Bristle Filled | Used For: Black and Brown Both | Sensor Technology: Yes | Material: Stainless Steel | Warranty: 1, 2, 3, 4, 5 Or higher (year)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108319"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Akanksha Singh | 250004,SBI AO 8 MEERUT, GARH ROAD, MEERUT, UTTAR PRADESH | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108319"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10108319"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

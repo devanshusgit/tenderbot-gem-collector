@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8214418",
   "title": "Goods Transport Service – Per Trip based  Service - Livestock; Open Body Taurus; 21 FT Truck",
   "description": "Goods Transport Service – Per Trip based  Service - Livestock; Open Body Taurus; 21 FT Truck",
-  "organisation": "Central Armed Police Forces",
-  "ministry": "Ministry of Home Affairs",
+  "organisation": "Border Security Force (bsf)",
+  "ministry": "Ministry Of Home Affairs",
   "department": "Central Armed Police Forces",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Goods Transport Service – Per Trip based  Service - Livestock; Open Body Taurus; 21 FT Truck",
   "quantity": 20,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 40000,
   "published_at": "2026-11-09T12:10:37+05:30",
   "closing_at": "2026-11-19T19:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10097170"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8214418/CLM0010/ATC_4818fa66-34ac-4752-88de1794059281629_2ICPROV.pdf",
+      "page": 10
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261109",
+      "page": 12
+    },
+    {
+      "name": "Service Level Agreement",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/bidsla/101952842008900",
+      "page": 12
     }
   ],
   "tags": [
@@ -34,5 +54,321 @@
   ],
   "source_fetched_at": "2026-11-09T08:23:45.972Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-20T19:00:00+05:30",
+  "office": "Stc Bsf Jodhpur",
+  "buyer_email": "birbal104@bsf.nic.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 4,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Bidder Turnover,Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 3,
+  "epbg_duration_months": 5,
+  "offer_validity": "90 (Days)",
+  "estimated_bid_value": 800000,
+  "contract_period": "3 Month(s) 29 Day(s)",
+  "source_document_fetched_at": "2026-11-09T16:29:25.737604+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "869b11499c1eb3f9051acb04b168f786a5ef64220f0dbbaaa1558102dcbafc1d",
+  "document_pages": 12,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 4 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Birbal Singh",
+      "address": "342026,INSPECTOR GENERAL STC BSF JODHPUR, BALSAMAND MANDORE ROAD JODHPUR",
+      "quantity": 20,
+      "quantity_label": "Number of trips(Pickup and drop to specified location)",
+      "delivery_days": null,
+      "additional_requirements": "Value of Goods for the entire contract period. : 3500000"
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Nature of Goods",
+          "value": "Livestock"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type of Truck",
+          "value": "Open Body Taurus"
+        },
+        {
+          "group": "Core",
+          "parameter": "Size / Weight of vehicle",
+          "value": "21 FT Truck"
+        },
+        {
+          "group": "Core",
+          "parameter": "Area of Operation",
+          "value": "Plains"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Loading",
+          "value": "NA"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Unloading",
+          "value": "NA"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Tracking System (GPS)",
+          "value": "NA"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Transit Insurance",
+          "value": "Yes"
+        },
+        {
+          "group": "Additional Details",
+          "parameter": "Start Location Zipcode",
+          "value": "342026"
+        },
+        {
+          "group": "Additional Details",
+          "parameter": "Drop Location Zipcode",
+          "value": "110071"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic OPTION CLAUSE 25% : The buyer can increase or decrease the contract quantity or contract duration up to 25 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 25 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 25 percent with the consent of the service provider 2. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 3. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 01- Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any respo nsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is l ower), subject to the maximum of quoted GST % 02- Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only . 03. Replacement of Vehicle :- In case of breakdown accident, mechanical defect or any other reason re ndering a vehicle unserviceable during the movement, the bidder shall arrange a suitable replacement veh icle without undue delay & without any extra cost, so that the movement is not adversely affected\". 04. Date of movement of trucks may be changed for which the successful bidder would be notified but no compensation shall be allowed for the same. 05. BSF will not be responsible for any incident/accident. No claim of any damage to men and material due to any mishap/accident will be entertained by BSF. 06. Buyer reserves the right to cancel the bid process at any stage without assigning any reason. 07 Dedicated toll-free telephone number :- Telephone number for service support: Bidder must have dedic ated toll free telephone number for service support. 08. Rate quoted by bidder will be inclusive of all charge like GST, Road Tax and Toll etc. 09. Bidder should ensure mentioning of bid No. and date in all the Undertaking/Declaration and certificate submitted along with the Bid. The document should not be signed/dated before bid publishing date or after bid opening date their bid shall be rejected. 10. 20 trucks will be proceed from STC BSF Jodhpur Pin code-342026 to 25 BN BSF, Chawala (New Delhi)"
+    },
+    {
+      "page": 7,
+      "text": "pin -110071. out of 20 trucks, 17 trucks will be filled 1.5 feet sand for comfort of camels and 03 trucks will be covered with tirpal (witout sand). specification of truck 21 feet long body width 7'3'', height 7'3''. 11- Fitness of trucks- trucks must be fit to travel from STC Jodhpur to 25 BN BSF, Chawala in plain area. Fit ness certificate of trucks must be deposit. 12- EMD Exemption :- The Bidder seeking EMD Exemption must submit the valid supporting documents for the revelent category as per GeM GTC with the bid. under MSE/startup category, only manufracturer/ servi ce provider of the product are the eligible for exemption from EMD. traders/resellers are excluded from the preview of this policy. EMD/BID security is required to be submitted by the non exempted categories the s eller will upload scanned copy of bank guarantee (EMD) alongwith technical bid documents and hardcopy o f the same will have to be submitted directly to buyer within 5 days of bid opening date. If bidder fail to su bmit hard copy of EMD within precribed date then the offer shall be rejected at initial stage and no represe ntation will be entertained. 13. Bid securing Declaration:- EMD expemted categories seller will be submit a bid securing declaration ce rtificate as per Appendix \"A\" alongwith the technical bid documents. Otherwise their offer will be rejected at the initial stage and no representation shall be entertained. 14- Consideration of bidder/OEM turnover criteria. The minimum average annual financial turnover of the b idder/OEM of the offered product during the last 3 years ending on 31st March of the previous Asseesmen t year, 2023-2024, 2024-2025, 2025-2026 will only be considered. In case the date of constitution/ inc orporation of the Bidder/OEM is less than 3 years old, the average turnover in respect of completed financi al assessment years after the date of constitution shall be taken into account for this criteria. If the firm do es not update the turnover details on the GEM portal duly verified from ITR for the last three assessment fi nancial years, the offer shall be rejected. 15. Conflict of interest. The bidder will submit their declaration in respect of conflict of interest as per appe ndix-C along with the bid document. 16. Undertaking certificate for cartel formation. Participating bidder is required to submit the undert aking certificate with the bid document regarding non -submission of bid through cartel formation as per appendi x-D. 17. Undertaking certificate :- The bidder will submit an undertaking that their firm has never submitted an y false/ fake/ adulterated or misleading documents in any government department in the last two years, a nd their documents have never been found fake/ false/ adulterated or misleading by any government dep artment in the last two years . If the undertaking is found false/ manipulative/ or misleading the firm shall b e blacklisted for two years from BSF as per appendix-E . 18. Undertaking for supply of any contract issued:- The bidder has to give an undertaking that firm has not defaulted in the supply of any contract issued by any government department in the last two years in any consignee. If the undertaking is found false/ manipulative or misleading the firm shall be blacklisted for tw o years from BSF as per appendix-F. 19. Self Declaration for not under watchlisted/banned suspend.:- Participating firm should submit a self-de claration that the bidder is not under watch list/ banned/ suspended or blacklisted by any government dep artment as per appendix-G. 20. Bidder’s financial standing: The bidder should not be under liquidation, cou rt receiving or similar proceedings and should not be bankrupt. The bidder must upload an undertaking to this effect with the bid as per appendix-H. 21. The Firm/Bidder is required to submit Copy of PAN card, GST registration certificate, Copy of Proprietor Aadhaar card. 22. Disclaimer and right of procuring entity. The issue of the bid document does not imply that the procurin g entity is bound to accept any bid and reserves the right without assigning any reason to: A. Reject any or all bids or B. Cancel the tender process or C. Abandon the procurement of services or D. Issue another tender of identical or similar services E. reserve the right to Accept or reject bids with any or all deviations. 23. Acceptance of ATC with bid number and date/signature :-Participating firms should also submit a certifi"
+    },
+    {
+      "page": 8,
+      "text": "cate on their letterhead along with the bid document stating that the firm has accepted all terms and condi tions mentioned in the instant bid as per appendix-I. 24. Land border sharing certificate :- Land border shar ing certificate regarding compliance of Ministry of Finance (DOE) (PPD) On dated 23 July 2020 as per appen dix J. 25. Liquidated damages: In case a firm does not complete the delivery within the laid down agreed delivery period as per contract, action will be taken against the firm as per clause 9.4.6, 9.4.7, 9.4.8 and 9. 4.9 of the Manual for Procurement Non-Consultancy Service 2025. 26. Right to rejection. Trucks (21 feet loading) will be accepted after inspection only if they are found to be in accordance with the standard specifications. The decision of the BSF shall be final as to the quantity of tr ucks and shall be binding upon the tenderer. In case any of the trucks supplied are not found as per specifi cations, the losses caused shall be borne by the supplier. The supplier shall ensure that the trucks supplie d are of the best service quality and free from all defects. 27. Arbitration. In the event of any conflict or dispute arising out of or in connection with the Contract plac ed through GeM, the Buyer and the Seller/Service Provider shall first endeavor to settle the dispute amicab ly in accordance with the applicable dispute resolution mechanism prescribed under the prevailing General Terms and Conditions (GTC) of GeM. (a) If the dispute remains unresolved after exhaustion of the dispute resolution mechanism prescribed und er the applicable GeM GTC, the matter shall be dealt with in accordance with the \"Guidelines for Arbitra tion and Mediation in Contracts of Domestic Public Procurement\" issued by the Department of Expenditure, Ministry of Finance Vide OM NO. F.1/2/2024-PPD dated 03.06.2024, as amended f rom time to time, and the applicable provisions of the Arbitration and Conciliation Act 1996, as amended from time to time. (b) The Seat/Venue and other procedural aspects of arbitration, wherever applicable, shall be gove rned by the applicable GeM GTC and the aforesaid DoE guidlines\" 28. Dispute resolution between buyer and seller/service provider. Clause No 16 of the General Terms and C onditions of GEM 4.0 (Version 1.21 dated 18 January 2025) shall be applicable. 29. Any delay in supply would attract penal action to include the LD @ 0.5% of the total quantity to be sup plied per day and any other penalty as deemed fit by the Purchaser like evoking risk purchase clause, acti on of debarring blacklisting the firm etc. 30. Risk Purchase In the event of failure of the Suppler to deliver the vehicles within the stipulated dates /p eriod of the supply order/AT, or in the event of breach of any of the terms and condition of the order/AT, th e Purchaser will have right to procure/arrange the vehicles from elsewhere at the risk and cost of the defau lting Supplier after serving a notice in this regard. The cost as per risk purchase exercise may be recovere d from the bills pending with the supplier even against any other supplies outside this contract or even fr o m the pending bills with any other Govt department/ministry. 31. Undertaking certificate :- The bidder should submit an undertaking on their letter head mentioning tha teach offered vehicle will be having vehicle registration certificate, driving license, vehicle insurance, vehi cle fitness certificate, Road tax certificate, PUC certificate, Vehicle permit state/All India permit, availability of first Aid Box and other required documents as applicable by RTO Act & Rule. Buyer added Bid specific ATC:- 1. Vehicle Documents:- All Vehicle deployed by the successful bidder shall have valid R egistration Certificate (RC), Fitness Certificate, Insurance, Pollution under Control (PUC) cert ificate and applicable permit/tax documents throughout the period of movement. The same shall be upload along with bid. 2. Driver: The bidder shall deploy drivers possessing a valid driving license appropriate for the vehicle category and having adequate experience in long-distance transportation. T he drivers shall comply with all applicable statutory requirements. 3. Safe Transpiration:- The bidder shall ensure sfe and secure transportation of the equi pment. Adequate tarpaulin, ropes, chains and other necessary securing arrangements shall"
+    },
+    {
+      "page": 9,
+      "text": "be provided by the Bidder for safe carriage of the livestock’s. 4. Statutory Compliance:- All applicable road tax, toll tax, permit charges insurance a nd other statutory requirements relating to the vehicle and driver shall be the responsibiliti y of the bidder. 5. No Sublitting:- The bidder shall not sublet or transfer the contracted transportation service to any other agency/person without prior approval of the competent BSF Authority. 6. Movement and Route:- The transportation shall be undertaken from STC BSF Jod hpur (Rajasthan) to 25 Bn BSF, Chhawala Camp (Delhi). The movement schedule and route, whever required for operational reasons, shall be as deirected by BSF Authority. 7. Payment: - Payment shall be made on satisfactory completion of the service and submission of requirement docuements, as per terms and conditions of GeM and the accept ed contract. 8. The repair and maintenance cost shall be borne by the Truck owner at this own cost . 9. The bidder/transport agency shall submit moble number and valid copy of driving lic ense and ID proof of drivers. 10. The permission for halting of vehicles will be accorded by the BSF Convey Comman der and no vehicle will halt without prior permission of the convoy Comdr. The drivers and c o-drivers will be under the Command and control of the Convey Comdr. 11. Shafting of store/livestock from one vehicle to another vehicle shall not be permitted Enroute. 12. The IG STC BSF Jodhpur reserves the right to reduce or enhance the numbers of vehi cle without assigning any reasons before finally placing demand for vehicles. 13. The rates once quoted by the firm and accepted by the competent BSF Authority wil l not be changed irrespective of hike in petrol or diesel price etc. 14. Any change in the date and time to move will be notified earlier but no compensati on shall be claimed for the same."
+    },
+    {
+      "page": 10,
+      "text": "15. The rransporter shall ensure availability of adequate mechanical support for immediat e repair of replacement of any defective vehicle during transit at no extra cost bto be buye r. 16. Cost of food and stay of drivers/co-driver & helpers will be norn by the bidder. 17. All vehicles shall comply with the provisions of the Motor Vehicles Act 1988 and oth er applicable Laws. 18. Drivers and helper shall carry valid photo identity proof and original driving license d uring the movement. 19. The Contractor shall indemnity BSF against all third paty claims arising out of negligen ce omission or acts attributable to the contractor. 20. The Vehicles one placed at boarding station will be surveyed for their mechanical c ondition and safety equipment. The drivers will also be checked as per the temrs and condi tion’s enumerated in the contract. Vehicles and drives that do not meet the prescribed tem rs and conditions will be rejected. In such cases, the the contractor shall keep replacement vehicles and drivers in readiness and provide the same immediately as required. 21. The drivers deployed by the contractor must maintain a high standard of discipline and moral conduct. They must be physically fit, well behaved and properly dressed while on dut y. Consumption of liquor or any intoxicating substance during the movement or while on du ty is strictly prohibited. Any driver found under the influence of liquor or indulging in indisci pline will be removed immediately and placed by the contractor without any delay. . 4. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8214418",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10097170"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 19-11-2026 19:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10097170"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 20-11-2026 19:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10097170"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10097170"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Home Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10097170"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Central Armed Police Forces",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10097170"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Border Security Force (bsf)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10097170"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Stc Bsf Jodhpur",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10097170"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :stcjdr@bsf.nic.in Buyer Email id: birbal104@bsf.nic.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10097170"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Goods Transport Service – Per Trip based Service - Livestock; Open Body Taurus; 21 FT Truck",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10097170"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 3 Month(s) 29 Day(s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10097170"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 4 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10097170"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10097170"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10097170"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10097170"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10097170"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10097170"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10097170"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "(( )) / Estimated Bid Value in INR (Inclusive of all taxes): 800000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10097170"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 40000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10097170"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 40000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10097170"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 3.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10097170"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 5",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10097170"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10097170"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Nature of Goods: Livestock | Type of Truck: Open Body Taurus | Size / Weight of vehicle: 21 FT Truck | Area of Operation: Plains | Loading: NA | Unloading: NA | Tracking System (GPS): NA | Transit Insurance: Yes | Start Location Zipcode: 342026 | Drop Location Zipcode: 110071",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10097170"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Number of trips(Pickup and drop to specified location) | Additional Requirement: 1 | Birbal Singh | 342026,INSPECTOR GENERAL STC BSF JODHPUR, BALSAMAND MANDORE ROAD JODHPUR | 20 | Value of Goods for the entire contract period. : 3500000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10097170"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic OPTION CLAUSE 25% : The buyer can increase or decrease the contract quantity or contract duration up to 25 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 25 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 25 percent with the consent of the service provider 2. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 3. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 01- Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any respo nsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is l ower), subject to the maximum of quoted GST % 02- Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only . 03. Replacement of Vehicle :- In case of breakdown accident, mechanical defect or any other reason re ndering a vehicle unserviceable during the movement, the bidder shall arrange a suitable replacement veh icle without undue delay & without any extra cost, so that the movement is not adversely affected\". 04. Date of movement of trucks may be changed for which the successful bidder would be notified but no compensation shall be allowed for the same. 05. BSF will not be responsible for any incident/accident. No claim of any damage to men and material due to any mishap/accident will be entertained by BSF. 06. Buyer reserves the right to cancel the bid process at any stage without assigning any reason. 07 Dedicated toll-free telephone number :- Telephone number for service support: Bidder must have dedic ated toll free telephone number for service support. 08. Rate quoted by bidder will be inclusive of all charge like GST, Road Tax and Toll etc. 09. Bidder should ensure mentioning of bid No. and date in all the Undertaking/Declaration and certificate submitted along with the Bid. The document should not be signed/dated before bid publishing date or after bid opening date their bid shall be rejected. 10. 20 trucks will be proceed from STC BSF Jodhpur Pin code-342026 to 25 BN BSF, Chawala (New Delhi)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10097170"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "pin -110071. out of 20 trucks, 17 trucks will be filled 1.5 feet sand for comfort of camels and 03 trucks will be covered with tirpal (witout sand). specification of truck 21 feet long body width 7'3'', height 7'3''. 11- Fitness of trucks- trucks must be fit to travel from STC Jodhpur to 25 BN BSF, Chawala in plain area. Fit ness certificate of trucks must be deposit. 12- EMD Exemption :- The Bidder seeking EMD Exemption must submit the valid supporting documents for the revelent category as per GeM GTC with the bid. under MSE/startup category, only manufracturer/ servi ce provider of the product are the eligible for exemption from EMD. traders/resellers are excluded from the preview of this policy. EMD/BID security is required to be submitted by the non exempted categories the s eller will upload scanned copy of bank guarantee (EMD) alongwith technical bid documents and hardcopy o f the same will have to be submitted directly to buyer within 5 days of bid opening date. If bidder fail to su bmit hard copy of EMD within precribed date then the offer shall be rejected at initial stage and no represe ntation will be entertained. 13. Bid securing Declaration:- EMD expemted categories seller will be submit a bid securing declaration ce rtificate as per Appendix \"A\" alongwith the technical bid documents. Otherwise their offer will be rejected at the initial stage and no representation shall be entertained. 14- Consideration of bidder/OEM turnover criteria. The minimum average annual financial turnover of the b idder/OEM of the offered product during the last 3 years ending on 31st March of the previous Asseesmen t year, 2023-2024, 2024-2025, 2025-2026 will only be considered. In case the date of constitution/ inc orporation of the Bidder/OEM is less than 3 years old, the average turnover in respect of completed financi al assessment years after the date of constitution shall be taken into account for this criteria. If the firm do es not update the turnover details on the GEM portal duly verified from ITR for the last three assessment fi nancial years, the offer shall be rejected. 15. Conflict of interest. The bidder will submit their declaration in respect of conflict of interest as per appe ndix-C along with the bid document. 16. Undertaking certificate for cartel formation. Participating bidder is required to submit the undert aking certificate with the bid document regarding non -submission of bid through cartel formation as per appendi x-D. 17. Undertaking certificate :- The bidder will submit an undertaking that their firm has never submitted an y false/ fake/ adulterated or misleading documents in any government department in the last two years, a nd their documents have never been found fake/ false/ adulterated or misleading by any government dep artment in the last two years . If the undertaking is found false/ manipulative/ or misleading the firm shall b e blacklisted for two years from BSF as per appendix-E . 18. Undertaking for supply of any contract issued:- The bidder has to give an undertaking that firm has not defaulted in the supply of any contract issued by any government department in the last two years in any consignee. If the undertaking is found false/ manipulative or misleading the firm shall be blacklisted for tw o years from BSF as per appendix-F. 19. Self Declaration for not under watchlisted/banned suspend.:- Participating firm should submit a self-de claration that the bidder is not under watch list/ banned/ suspended or blacklisted by any government dep artment as per appendix-G. 20. Bidder’s financial standing: The bidder should not be under liquidation, cou rt receiving or similar proceedings and should not be bankrupt. The bidder must upload an undertaking to this effect with the bid as per appendix-H. 21. The Firm/Bidder is required to submit Copy of PAN card, GST registration certificate, Copy of Proprietor Aadhaar card. 22. Disclaimer and right of procuring entity. The issue of the bid document does not imply that the procurin g entity is bound to accept any bid and reserves the right without assigning any reason to: A. Reject any or all bids or B. Cancel the tender process or C. Abandon the procurement of services or D. Issue another tender of identical or similar services E. reserve the right to Accept or reject bids with any or all deviations. 23. Acceptance of ATC with bid number and date/signature :-Participating firms should also submit a certifi",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10097170"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "cate on their letterhead along with the bid document stating that the firm has accepted all terms and condi tions mentioned in the instant bid as per appendix-I. 24. Land border sharing certificate :- Land border shar ing certificate regarding compliance of Ministry of Finance (DOE) (PPD) On dated 23 July 2020 as per appen dix J. 25. Liquidated damages: In case a firm does not complete the delivery within the laid down agreed delivery period as per contract, action will be taken against the firm as per clause 9.4.6, 9.4.7, 9.4.8 and 9. 4.9 of the Manual for Procurement Non-Consultancy Service 2025. 26. Right to rejection. Trucks (21 feet loading) will be accepted after inspection only if they are found to be in accordance with the standard specifications. The decision of the BSF shall be final as to the quantity of tr ucks and shall be binding upon the tenderer. In case any of the trucks supplied are not found as per specifi cations, the losses caused shall be borne by the supplier. The supplier shall ensure that the trucks supplie d are of the best service quality and free from all defects. 27. Arbitration. In the event of any conflict or dispute arising out of or in connection with the Contract plac ed through GeM, the Buyer and the Seller/Service Provider shall first endeavor to settle the dispute amicab ly in accordance with the applicable dispute resolution mechanism prescribed under the prevailing General Terms and Conditions (GTC) of GeM. (a) If the dispute remains unresolved after exhaustion of the dispute resolution mechanism prescribed und er the applicable GeM GTC, the matter shall be dealt with in accordance with the \"Guidelines for Arbitra tion and Mediation in Contracts of Domestic Public Procurement\" issued by the Department of Expenditure, Ministry of Finance Vide OM NO. F.1/2/2024-PPD dated 03.06.2024, as amended f rom time to time, and the applicable provisions of the Arbitration and Conciliation Act 1996, as amended from time to time. (b) The Seat/Venue and other procedural aspects of arbitration, wherever applicable, shall be gove rned by the applicable GeM GTC and the aforesaid DoE guidlines\" 28. Dispute resolution between buyer and seller/service provider. Clause No 16 of the General Terms and C onditions of GEM 4.0 (Version 1.21 dated 18 January 2025) shall be applicable. 29. Any delay in supply would attract penal action to include the LD @ 0.5% of the total quantity to be sup plied per day and any other penalty as deemed fit by the Purchaser like evoking risk purchase clause, acti on of debarring blacklisting the firm etc. 30. Risk Purchase In the event of failure of the Suppler to deliver the vehicles within the stipulated dates /p eriod of the supply order/AT, or in the event of breach of any of the terms and condition of the order/AT, th e Purchaser will have right to procure/arrange the vehicles from elsewhere at the risk and cost of the defau lting Supplier after serving a notice in this regard. The cost as per risk purchase exercise may be recovere d from the bills pending with the supplier even against any other supplies outside this contract or even fr o m the pending bills with any other Govt department/ministry. 31. Undertaking certificate :- The bidder should submit an undertaking on their letter head mentioning tha teach offered vehicle will be having vehicle registration certificate, driving license, vehicle insurance, vehi cle fitness certificate, Road tax certificate, PUC certificate, Vehicle permit state/All India permit, availability of first Aid Box and other required documents as applicable by RTO Act & Rule. Buyer added Bid specific ATC:- 1. Vehicle Documents:- All Vehicle deployed by the successful bidder shall have valid R egistration Certificate (RC), Fitness Certificate, Insurance, Pollution under Control (PUC) cert ificate and applicable permit/tax documents throughout the period of movement. The same shall be upload along with bid. 2. Driver: The bidder shall deploy drivers possessing a valid driving license appropriate for the vehicle category and having adequate experience in long-distance transportation. T he drivers shall comply with all applicable statutory requirements. 3. Safe Transpiration:- The bidder shall ensure sfe and secure transportation of the equi pment. Adequate tarpaulin, ropes, chains and other necessary securing arrangements shall",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10097170"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "be provided by the Bidder for safe carriage of the livestock’s. 4. Statutory Compliance:- All applicable road tax, toll tax, permit charges insurance a nd other statutory requirements relating to the vehicle and driver shall be the responsibiliti y of the bidder. 5. No Sublitting:- The bidder shall not sublet or transfer the contracted transportation service to any other agency/person without prior approval of the competent BSF Authority. 6. Movement and Route:- The transportation shall be undertaken from STC BSF Jod hpur (Rajasthan) to 25 Bn BSF, Chhawala Camp (Delhi). The movement schedule and route, whever required for operational reasons, shall be as deirected by BSF Authority. 7. Payment: - Payment shall be made on satisfactory completion of the service and submission of requirement docuements, as per terms and conditions of GeM and the accept ed contract. 8. The repair and maintenance cost shall be borne by the Truck owner at this own cost . 9. The bidder/transport agency shall submit moble number and valid copy of driving lic ense and ID proof of drivers. 10. The permission for halting of vehicles will be accorded by the BSF Convey Comman der and no vehicle will halt without prior permission of the convoy Comdr. The drivers and c o-drivers will be under the Command and control of the Convey Comdr. 11. Shafting of store/livestock from one vehicle to another vehicle shall not be permitted Enroute. 12. The IG STC BSF Jodhpur reserves the right to reduce or enhance the numbers of vehi cle without assigning any reasons before finally placing demand for vehicles. 13. The rates once quoted by the firm and accepted by the competent BSF Authority wil l not be changed irrespective of hike in petrol or diesel price etc. 14. Any change in the date and time to move will be notified earlier but no compensati on shall be claimed for the same.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10097170"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "15. The rransporter shall ensure availability of adequate mechanical support for immediat e repair of replacement of any defective vehicle during transit at no extra cost bto be buye r. 16. Cost of food and stay of drivers/co-driver & helpers will be norn by the bidder. 17. All vehicles shall comply with the provisions of the Motor Vehicles Act 1988 and oth er applicable Laws. 18. Drivers and helper shall carry valid photo identity proof and original driving license d uring the movement. 19. The Contractor shall indemnity BSF against all third paty claims arising out of negligen ce omission or acts attributable to the contractor. 20. The Vehicles one placed at boarding station will be surveyed for their mechanical c ondition and safety equipment. The drivers will also be checked as per the temrs and condi tion’s enumerated in the contract. Vehicles and drives that do not meet the prescribed tem rs and conditions will be rejected. In such cases, the the contractor shall keep replacement vehicles and drivers in readiness and provide the same immediately as required. 21. The drivers deployed by the contractor must maintain a high standard of discipline and moral conduct. They must be physically fit, well behaved and properly dressed while on dut y. Consumption of liquor or any intoxicating substance during the movement or while on du ty is strictly prohibited. Any driver found under the influence of liquor or indulging in indisci pline will be removed immediately and placed by the contractor without any delay. . 4. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10097170"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 20",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

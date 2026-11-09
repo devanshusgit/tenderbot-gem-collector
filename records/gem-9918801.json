@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8059211",
   "title": "Bus Hiring Service - Short Term - Local; 43-45; A.C. Deluxe (ACX); 80,Vehicle Hiring Service - Per ",
   "description": "Bus Hiring Service - Short Term - Local; 43-45; A.C. Deluxe (ACX); 80,Bus Hiring Service - Short Term - Local; 43-45; A.C. Deluxe (ACX); 80,Vehicle Hiring Service - Per Vehicle-Day basis - Premium Sedan; 2026, 2025, 2024, 2023; Local; Plain; 80Kms x 10Hrs; Round Trip,Vehicle Hiring Service - Per Vehicle-Day basis - Premium Sedan; 2026, 2025, 2024, 2023; Local; Plain; 80Kms x 10Hrs; Round Trip",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Air Force",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Bus Hiring Service - Short Term - Local; 43-45; A.C. Deluxe (ACX); 80,Vehicle Hiring Service - Per ",
   "quantity": 407,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 24000,
   "published_at": "2026-10-30T17:09:57+05:30",
   "closing_at": "2026-11-14T09:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261030",
+      "page": 11
+    },
+    {
+      "name": "Service Level Agreement",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/bidsla/98382613277601",
+      "page": 11
     }
   ],
   "tags": [
@@ -34,5 +49,438 @@
   ],
   "source_fetched_at": "2026-11-08T16:30:54.563Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "buyer_email": "buy.safe@gov.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 4,
+  "experience_years": 2,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Bidder Turnover,Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 2,
+  "offer_validity": "180 (Days)",
+  "contract_period": "3 Day(s)",
+  "source_document_fetched_at": "2026-11-09T17:38:51.547075+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "15e375a460ea3175601dd1c5899e9e006c968f7f8a26701820969e82f6e321a3",
+  "document_pages": 11,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 4 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 2 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: GeM verified turnover (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "***********",
+      "address": "***********Sirsa",
+      "quantity": 11,
+      "quantity_label": "Number of Buses Required",
+      "delivery_days": null,
+      "additional_requirements": "Number of Days during Contract Period for which service is required : 3"
+    },
+    {
+      "page": 6,
+      "consignee": "***********",
+      "address": "***********Sirsa",
+      "quantity": 396,
+      "quantity_label": "Number of Vehicle-Days Required within the Contract Period",
+      "delivery_days": null,
+      "additional_requirements": "Maximum No. of Vehicles required in a Day/Event : 198"
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Type of Service",
+          "value": "Local"
+        },
+        {
+          "group": "Core",
+          "parameter": "Vehicle Seating Capacity",
+          "value": "43-45"
+        },
+        {
+          "group": "Core",
+          "parameter": "Comfort Category",
+          "value": "A.C. Deluxe (ACX)"
+        },
+        {
+          "group": "Core",
+          "parameter": "Per Day KM(s) Usage",
+          "value": "80"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "4",
+          "parameter": "Per Day Hr(s) Usage",
+          "value": "10"
+        },
+        {
+          "group": "4",
+          "parameter": "Fuel Type",
+          "value": "Diesel"
+        },
+        {
+          "group": "4",
+          "parameter": "Year of Vehicle Model",
+          "value": "2024"
+        },
+        {
+          "group": "4",
+          "parameter": "Bio-Toilet Required",
+          "value": "No"
+        },
+        {
+          "group": "4",
+          "parameter": "Freezer System Required in bus",
+          "value": "Not Required"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "State",
+          "value": "NA"
+        },
+        {
+          "group": "Core",
+          "parameter": "District",
+          "value": "NA"
+        },
+        {
+          "group": "Core",
+          "parameter": "Zipcode",
+          "value": "NA"
+        },
+        {
+          "group": "Core",
+          "parameter": "Vehicle Type",
+          "value": "Premium Sedan"
+        },
+        {
+          "group": "Core",
+          "parameter": "Vehicle Model (Please select at least 3 similar options)",
+          "value": "Maruti Suzuki Dzire , Maruti Suzuki Ertiga , Maruti Suzuki Ciaz , Maruti Suzuki Eeco , Maruti Suzuki Victoris , Hyundai Venue , Hyundai Creta , Mahindra Scorpio Classic , Mahindra Scorpio-N , Kia Seltos"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": "5",
+          "parameter": "Year of Vehicle Model",
+          "value": "2026 , 2025 , 2024 , 2023"
+        },
+        {
+          "group": "5",
+          "parameter": "Type of Service",
+          "value": "Local"
+        },
+        {
+          "group": "5",
+          "parameter": "Type of Terrain",
+          "value": "Plain"
+        },
+        {
+          "group": "5",
+          "parameter": "Packages",
+          "value": "80Kms x 10Hrs"
+        },
+        {
+          "group": "5",
+          "parameter": "Trip Type",
+          "value": "Round Trip"
+        },
+        {
+          "group": "5",
+          "parameter": "Air Conditioning Required",
+          "value": "AC"
+        },
+        {
+          "group": "5",
+          "parameter": "KM Travelled",
+          "value": "0-25,000 kms , 25,000-50,000 kms"
+        },
+        {
+          "group": "5",
+          "parameter": "Fuel Type",
+          "value": "Diesel"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Outstation night charges applicable",
+          "value": "NA"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Vehicle Hiring(MoD) Agents / Agency Commission The Seller confirms and declares to the Buyer that the Seller is the original provider of the services"
+    },
+    {
+      "page": 7,
+      "text": "referred to in this contract and has not engaged any individual or firm, whether Indian or foreign whatsoever, to intercede, facilitate or in any way to recommend to the Government of India or any of its functionaries, whether officially or unofficially, to the award of the contract to the Seller. The Seller agrees that if it is established at any time to the satisfaction of the Buyer that the present declaration is in any way incorrect or if at a later stage it is discovered by the Buyer that the Seller has engaged any such individual/firm, and paid or intended to pay any amount, gift the Seller will be debarred from entering into any contract with the Government of India for a minimum period of five years. The Buyer will also have the right to recover any such amount from any contracts concluded earlier with the Government of India. 2. Vehicle Hiring(MoD) Access to Books of Accounts In case it is found to the satisfaction of the Buyer that the Seller has engaged an Agent or paid commission or influenced any person to obtain the contract as described in clauses relating to Agents/Agency Commission and penalty for use of undue influence, the Seller, on a specific request of the Buyer, shall provide necessary information/ inspection of the relevant financial documents/information. 3. Vehicle Hiring(MoD) Accident & Insurance 1.The Seller shall undertake to produce evidence to the satisfaction of the Buyer that the insurance company, with which insurance all vehicles being tendered under this contract has been affected, has received notice(s) that the Government is interested in the policy of insurance. 2.Seller agrees and will be responsible, for any untoward happening like accident / death of drivers during duties and Seller will not claim any compensation from the Government. 3.The Seller shall indemnify the Government against any claim action or demands relating to any accident or damage that may occur to any vehicles(s) and driver(s) employed by the Seller under this contract or to any person involved in such accident. 4.In the case of any accident, the Seller or his / her representative will inform the nearest Police Station. Court of Inquiry as in case of Army vehicle will be conducted and the decision of the Indian Army in this regard shall be binding and final. 5.In case of any accident during the performance of the duty, the cost of damage to the vehicle will be borne by the Seller. No compensation will be given by the Army authorities. 4. Vehicle Hiring(MoD) RISK & EXPENSE Extra expenditure, if any, on account of risk and expense purchase of the service made by the Government as above, will be deducted out of Seller’s payment of bills due to the Seller or from Performance Guarantee. 5. Vehicle Hiring(MoD) RISK & EXPENSE Rejection of Vehicles, as described above, or on account of Seller’s failing, declining, neglecting or delaying to comply with any requisition or otherwise not executing the same in accordance with the terms of the contract, the consignee or his / her successor in office shall be at liberty (without prejudice to any other remedy the Government may have on account of any claim for compensation against loss and inconvenience caused by such breach or non-performance of the contract) to hire from any other source, at Seller’s risk and expense, such services as may have been rejected or that Seller may have failed, declined, neglected or delayed to supply. 6. Vehicle Hiring(MoD) RISK & EXPENSE In the event of vehicle(s) arranged from other sources at risk & expense of the Seller in accordance with the terms of the contract, the amount of excess incidental expenditure, if any, involved in having to meet the complete demand out of Civil Hired Transport, will be in addition to the amount recoverable from Seller, for making such arrangement and be charged from Seller. 7. Vehicle Hiring(MoD) BUSES (AC)"
+    },
+    {
+      "page": 8,
+      "text": "Should have 2 x 2 cushioned seats on either side of the aisle. The seats will have good quality cushion material. 1. Good quality clean seat covers should be provided. 2. Seats will be reclining push back with at least two stages of adjustment. Head rest is mandatory with each seat. 3. Driver compartment should be separated from passengers with a sound proof partition. 4. Drinking water should be available in the bus, consisting of a 40 ltrs stainless steel container of good quality duly strapped with push button tap. 5. Clean side curtains will be provided which should be free sliding. 6. Overhead luggage carrier with waterproof covers should be provided on the roof. 7. Two emergency exits/break glass facility are mandatory. 8. Main entrance of the bus should have collapsible/sliding doors. 9. Music system in working condition with speakers, evenly distributed. 10. Outer appearance of the bus should be compatible to a standard deluxe bus. 8. Vehicle Hiring(MoD) Demand of Vehicles & Transport Indents The civil vehicles required under the contract include those for conveyance of stores, officials, personnel and civilians of Army, Navy, Air Force, Para Military Forces, Central/State Governments and Nationals of other countries for whose subsistence Government of India accepts responsibility and who happen to be or come into the area covered by the contract. 1. Sellers accredited representative will report to the consignee at the designated time and place for collecting the demand of transport required and the transport will be provided by the seller on the date and time specified. 2. In case Seller/or accredited representative does not report, the demand of transport dispatched by post/ through dispatch rider / message on the last known address / mobile number of the Seller / accredited agents of the Seller by the consignee will be taken as received by the Seller and normal procedure for hiring of transport at risk and expense of the Seller will be initiated in case of failure on part of the Seller. 3. Normally 24 hour notice will be given for provision of a vehicle. In cases of urgent military necessity, the transport may be demanded over the telephone. In such cases covering indents will be submitted by the consignee / indenting unit. 4. Seller shall have no objection to the increase/decrease of the demand of vehicle placed by the consignee, provided such changes are made within six hours in advance. However, a demand placed earlier may be cancelled at the last moment even on arrival of the vehicle for duty at reporting point / parking area. 5. Transport indented for by the consignee will be supplied at the time and place given in the order issued by consignee/ authorized representatives. All vehicles will report to nominated reporting place / vehicle parking area as specified by the consigneeor their authorized representatives. No vehicle driver will be permitted to leave the vehicle unattended. 6. Seller or accredited agent(s) will initial the Car Diary at the time of commencement of duty and obtain full signature of officer using the vehicles. 7. Time and Kilometer of duty will commence at the parking area / reporting point as specified by consignee. No extra Km / time will be given for vehicle to report from garage or return. 8. On completion of duty, signature of the consignee / his / her representative on the Car Diary and other relevant documents will be obtained. 9. Seller shall undertake to complete the service within the reasonable specified time as required by the consignee and Seller shall employ such transport as will be necessary to complete the service within the specified time. 9. Vehicle Hiring(MoD) Common Terms for All Types of Vehicles Required Under the Contract All Vehicles tendered will be registered/approved by the concerned RTO/RTA as commercial transport and all taxes paid on due date. 1. For operation of the contractual obligations in the protected areas / States, where & when required, all drivers and other staff employed will be in possession of inner line permit / validated card issued by the civil administrative authorities. 2. A valid route permit is held for each and every vehicle provided to the Government under this agreement. 3. ON MILITARY DUTY board will be displayed on the vehicles under the contract only when hired by the Buyer. 4. Vehicles will fumigate/disinfect against infectious diseases, if any, as desired by military authorities. All"
+    },
+    {
+      "page": 9,
+      "text": "expenses in this connection will be borne by the Seller. 5. Seller cannot claim to be issued with Petrol/ Diesel/ Fuel/ Oil/ Lubricants, either free or on payment for his vehicles, from military sources. 10. Vehicle Hiring(MoD) Common Terms for All Types of Vehicles Required Under the Contract All Vehicles tendered will be registered/approved by the concerned RTO/RTA as commercial transport and all taxes paid on due date. 1. For operation of the contractual obligations in the protected areas / States, where & when required, all drivers and other staff employed will be in possession of inner line permit / validated card issued by the civil administrative authorities. 2. A valid route permit is held for each and every vehicle provided to the Government under this agreement. 3. ON MILITARY DUTY board will be displayed on the vehicles under the contract only when hired by the Buyer. 4. Vehicles will fumigate/disinfect against infectious diseases, if any, as desired by military authorities. All expenses in this connection will be borne by the Seller. 5. Seller cannot claim to be issued with Petrol/ Diesel/ Fuel/ Oil/ Lubricants, either free or on payment for his vehicles, from military sources. 11. Vehicle Hiring(MoD) LIGHT VEHS Light Vehicle CHT supplied by Seller will have the following fitments at no extra cost to the Buyer:- (a) One Star Plate on the front end of the vehicle and one Star Plate at the rear end the vehicle. (b) Flag rod at the front end (nose) of the vehicle. (c) Siren and Dome light (flashing) on the roof, if and when required. (d) Fire extinguisher.(Buyer can add in Buyer Specified ATC) 12. Vehicle Hiring(MoD) Inspection / Rejection of Vehicles The vehicles provided under this contract shall be according to qualitative standards as the Buyer shall approve. 1. The consignee or his / her authorized representative(s) or any other officer acting on behalf of the Buyer may, at any time, inspect the CHTs tendered by the Seller under this contract, physically or mechanically and Seller shall comply, without unnecessary delay, with any reasonable instructions or suggestions issued by such Officer consequent to such inspection. 2. Seller shall neither claim nor be entitled to payment for any damage that rejected transport may suffer or any other harm incidental to a full and proper examination and test of such transport. 3. Any CHTs rejected by any of the authorities on inspection, before or during use of the vehicle, will be replaced by Seller at once. Time spent for replacement will not be calculated for payment. 4. The officer to whom CHT services are to be provided may reject the transport, if in his / her opinion the transport provided does not meet the requisite qualitative standards. 5. Seller shall not charge or be paid for transport rejected as per provisions contained herein, and such transport shall be removed by Seller at his / her own expense. 6. If not replaced within an hour the contract-operating officer concerned may arrange the vehicle from any other source(s) at Seller’s risk and expense. Any transport arranged from any source shall be charged at local market rate prevailing at the time. 13. Vehicle Hiring(MoD) Non- disclosure of Contract Documents Except with the written consent of the Buyer/ Seller, other party shall not disclose the contract or any provision, specification or information thereof to any third party. Declaration duly signed on official Letter Head of the Seller as per format given at Annexure-I. 14. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses The bidder must have prior experience in providing sedan car hiring/transportation services for even ts or similar requirements to Defence Departments."
+    },
+    {
+      "page": 10,
+      "text": "The bidder shall submit valid documentary evidence/certificates, such as work orders, completion cer tificates, experience certificates, or any other relevant documents issued by the concerned organization, i n support of the claimed experience. The experience documents submitted by the bidder shall be subject to verification and acceptance by the Buyer. Only experience found relevant and satisfactory upon verification shall be considered for fulfill ment of the eligibility criteria. . 15. Service & Support AVAILABILITY OF OFFICE OF SERVICE PROVIDER: An office of the Service Provider must be located in the state of Consignee. DOCUMENTARY EVIDENCE TO BE SUBMITTED."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8059211",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "document_closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 09-11-2026 09:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "document_opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 10-11-2026 09:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Air Force",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :flyboy65@nic.in Buyer Email id: buy.safe@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Bus Hiring Service - Short Term - Local; 43-45; A.C. Deluxe (ACX); 80 , Vehicle Hiring Service - Per Vehicle-Day basis - Premium Sedan; 2026, 2025, 2024, 2023; Local; Plain; 80Kms x 10Hrs; Round Trip",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 3 Day(s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 4 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 2 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: GeM verified turnover",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "Schedule 1 /EMD Amount (In INR): 6200",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "Schedule 1 /EMD Amount (In INR): 6200",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "Schedule 2 /EMD Amount (In INR): 24000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "Schedule 2 /EMD Amount (In INR): 24000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 2",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Type of Service: Local | Vehicle Seating Capacity: 43-45 | Comfort Category: A.C. Deluxe (ACX) | Per Day KM(s) Usage: 80",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Per Day Hr(s) Usage: 10 | Fuel Type: Diesel | Year of Vehicle Model: 2024 | Bio-Toilet Required: No | Freezer System Required in bus: Not Required",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Number of Buses Required | Additional Requirement: 1 | *********** | ***********Sirsa | 11 | Number of Days during Contract Period for which service is required : 3",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "State: NA | District: NA | Zipcode: NA | Vehicle Type: Premium Sedan | Vehicle Model (Please select at least 3 similar options): Maruti Suzuki Dzire , Maruti Suzuki Ertiga , Maruti Suzuki Ciaz , Maruti Suzuki Eeco , Maruti Suzuki Victoris , Hyundai Venue , Hyundai Creta , Mahindra Scorpio Classic , Mahindra Scorpio-N , Kia Seltos",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Year of Vehicle Model: 2026 , 2025 , 2024 , 2023 | Type of Service: Local | Type of Terrain: Plain | Packages: 80Kms x 10Hrs | Trip Type: Round Trip | Air Conditioning Required: AC | KM Travelled: 0-25,000 kms , 25,000-50,000 kms | Fuel Type: Diesel | Outstation night charges applicable: NA",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Number of Vehicle-Days Required within the Contract Period | Additional Requirement: 1 | *********** | ***********Sirsa | 396 | Maximum No. of Vehicles required in a Day/Event : 198",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Vehicle Hiring(MoD) Agents / Agency Commission The Seller confirms and declares to the Buyer that the Seller is the original provider of the services",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "referred to in this contract and has not engaged any individual or firm, whether Indian or foreign whatsoever, to intercede, facilitate or in any way to recommend to the Government of India or any of its functionaries, whether officially or unofficially, to the award of the contract to the Seller. The Seller agrees that if it is established at any time to the satisfaction of the Buyer that the present declaration is in any way incorrect or if at a later stage it is discovered by the Buyer that the Seller has engaged any such individual/firm, and paid or intended to pay any amount, gift the Seller will be debarred from entering into any contract with the Government of India for a minimum period of five years. The Buyer will also have the right to recover any such amount from any contracts concluded earlier with the Government of India. 2. Vehicle Hiring(MoD) Access to Books of Accounts In case it is found to the satisfaction of the Buyer that the Seller has engaged an Agent or paid commission or influenced any person to obtain the contract as described in clauses relating to Agents/Agency Commission and penalty for use of undue influence, the Seller, on a specific request of the Buyer, shall provide necessary information/ inspection of the relevant financial documents/information. 3. Vehicle Hiring(MoD) Accident & Insurance 1.The Seller shall undertake to produce evidence to the satisfaction of the Buyer that the insurance company, with which insurance all vehicles being tendered under this contract has been affected, has received notice(s) that the Government is interested in the policy of insurance. 2.Seller agrees and will be responsible, for any untoward happening like accident / death of drivers during duties and Seller will not claim any compensation from the Government. 3.The Seller shall indemnify the Government against any claim action or demands relating to any accident or damage that may occur to any vehicles(s) and driver(s) employed by the Seller under this contract or to any person involved in such accident. 4.In the case of any accident, the Seller or his / her representative will inform the nearest Police Station. Court of Inquiry as in case of Army vehicle will be conducted and the decision of the Indian Army in this regard shall be binding and final. 5.In case of any accident during the performance of the duty, the cost of damage to the vehicle will be borne by the Seller. No compensation will be given by the Army authorities. 4. Vehicle Hiring(MoD) RISK & EXPENSE Extra expenditure, if any, on account of risk and expense purchase of the service made by the Government as above, will be deducted out of Seller’s payment of bills due to the Seller or from Performance Guarantee. 5. Vehicle Hiring(MoD) RISK & EXPENSE Rejection of Vehicles, as described above, or on account of Seller’s failing, declining, neglecting or delaying to comply with any requisition or otherwise not executing the same in accordance with the terms of the contract, the consignee or his / her successor in office shall be at liberty (without prejudice to any other remedy the Government may have on account of any claim for compensation against loss and inconvenience caused by such breach or non-performance of the contract) to hire from any other source, at Seller’s risk and expense, such services as may have been rejected or that Seller may have failed, declined, neglected or delayed to supply. 6. Vehicle Hiring(MoD) RISK & EXPENSE In the event of vehicle(s) arranged from other sources at risk & expense of the Seller in accordance with the terms of the contract, the amount of excess incidental expenditure, if any, involved in having to meet the complete demand out of Civil Hired Transport, will be in addition to the amount recoverable from Seller, for making such arrangement and be charged from Seller. 7. Vehicle Hiring(MoD) BUSES (AC)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "Should have 2 x 2 cushioned seats on either side of the aisle. The seats will have good quality cushion material. 1. Good quality clean seat covers should be provided. 2. Seats will be reclining push back with at least two stages of adjustment. Head rest is mandatory with each seat. 3. Driver compartment should be separated from passengers with a sound proof partition. 4. Drinking water should be available in the bus, consisting of a 40 ltrs stainless steel container of good quality duly strapped with push button tap. 5. Clean side curtains will be provided which should be free sliding. 6. Overhead luggage carrier with waterproof covers should be provided on the roof. 7. Two emergency exits/break glass facility are mandatory. 8. Main entrance of the bus should have collapsible/sliding doors. 9. Music system in working condition with speakers, evenly distributed. 10. Outer appearance of the bus should be compatible to a standard deluxe bus. 8. Vehicle Hiring(MoD) Demand of Vehicles & Transport Indents The civil vehicles required under the contract include those for conveyance of stores, officials, personnel and civilians of Army, Navy, Air Force, Para Military Forces, Central/State Governments and Nationals of other countries for whose subsistence Government of India accepts responsibility and who happen to be or come into the area covered by the contract. 1. Sellers accredited representative will report to the consignee at the designated time and place for collecting the demand of transport required and the transport will be provided by the seller on the date and time specified. 2. In case Seller/or accredited representative does not report, the demand of transport dispatched by post/ through dispatch rider / message on the last known address / mobile number of the Seller / accredited agents of the Seller by the consignee will be taken as received by the Seller and normal procedure for hiring of transport at risk and expense of the Seller will be initiated in case of failure on part of the Seller. 3. Normally 24 hour notice will be given for provision of a vehicle. In cases of urgent military necessity, the transport may be demanded over the telephone. In such cases covering indents will be submitted by the consignee / indenting unit. 4. Seller shall have no objection to the increase/decrease of the demand of vehicle placed by the consignee, provided such changes are made within six hours in advance. However, a demand placed earlier may be cancelled at the last moment even on arrival of the vehicle for duty at reporting point / parking area. 5. Transport indented for by the consignee will be supplied at the time and place given in the order issued by consignee/ authorized representatives. All vehicles will report to nominated reporting place / vehicle parking area as specified by the consigneeor their authorized representatives. No vehicle driver will be permitted to leave the vehicle unattended. 6. Seller or accredited agent(s) will initial the Car Diary at the time of commencement of duty and obtain full signature of officer using the vehicles. 7. Time and Kilometer of duty will commence at the parking area / reporting point as specified by consignee. No extra Km / time will be given for vehicle to report from garage or return. 8. On completion of duty, signature of the consignee / his / her representative on the Car Diary and other relevant documents will be obtained. 9. Seller shall undertake to complete the service within the reasonable specified time as required by the consignee and Seller shall employ such transport as will be necessary to complete the service within the specified time. 9. Vehicle Hiring(MoD) Common Terms for All Types of Vehicles Required Under the Contract All Vehicles tendered will be registered/approved by the concerned RTO/RTA as commercial transport and all taxes paid on due date. 1. For operation of the contractual obligations in the protected areas / States, where & when required, all drivers and other staff employed will be in possession of inner line permit / validated card issued by the civil administrative authorities. 2. A valid route permit is held for each and every vehicle provided to the Government under this agreement. 3. ON MILITARY DUTY board will be displayed on the vehicles under the contract only when hired by the Buyer. 4. Vehicles will fumigate/disinfect against infectious diseases, if any, as desired by military authorities. All",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "expenses in this connection will be borne by the Seller. 5. Seller cannot claim to be issued with Petrol/ Diesel/ Fuel/ Oil/ Lubricants, either free or on payment for his vehicles, from military sources. 10. Vehicle Hiring(MoD) Common Terms for All Types of Vehicles Required Under the Contract All Vehicles tendered will be registered/approved by the concerned RTO/RTA as commercial transport and all taxes paid on due date. 1. For operation of the contractual obligations in the protected areas / States, where & when required, all drivers and other staff employed will be in possession of inner line permit / validated card issued by the civil administrative authorities. 2. A valid route permit is held for each and every vehicle provided to the Government under this agreement. 3. ON MILITARY DUTY board will be displayed on the vehicles under the contract only when hired by the Buyer. 4. Vehicles will fumigate/disinfect against infectious diseases, if any, as desired by military authorities. All expenses in this connection will be borne by the Seller. 5. Seller cannot claim to be issued with Petrol/ Diesel/ Fuel/ Oil/ Lubricants, either free or on payment for his vehicles, from military sources. 11. Vehicle Hiring(MoD) LIGHT VEHS Light Vehicle CHT supplied by Seller will have the following fitments at no extra cost to the Buyer:- (a) One Star Plate on the front end of the vehicle and one Star Plate at the rear end the vehicle. (b) Flag rod at the front end (nose) of the vehicle. (c) Siren and Dome light (flashing) on the roof, if and when required. (d) Fire extinguisher.(Buyer can add in Buyer Specified ATC) 12. Vehicle Hiring(MoD) Inspection / Rejection of Vehicles The vehicles provided under this contract shall be according to qualitative standards as the Buyer shall approve. 1. The consignee or his / her authorized representative(s) or any other officer acting on behalf of the Buyer may, at any time, inspect the CHTs tendered by the Seller under this contract, physically or mechanically and Seller shall comply, without unnecessary delay, with any reasonable instructions or suggestions issued by such Officer consequent to such inspection. 2. Seller shall neither claim nor be entitled to payment for any damage that rejected transport may suffer or any other harm incidental to a full and proper examination and test of such transport. 3. Any CHTs rejected by any of the authorities on inspection, before or during use of the vehicle, will be replaced by Seller at once. Time spent for replacement will not be calculated for payment. 4. The officer to whom CHT services are to be provided may reject the transport, if in his / her opinion the transport provided does not meet the requisite qualitative standards. 5. Seller shall not charge or be paid for transport rejected as per provisions contained herein, and such transport shall be removed by Seller at his / her own expense. 6. If not replaced within an hour the contract-operating officer concerned may arrange the vehicle from any other source(s) at Seller’s risk and expense. Any transport arranged from any source shall be charged at local market rate prevailing at the time. 13. Vehicle Hiring(MoD) Non- disclosure of Contract Documents Except with the written consent of the Buyer/ Seller, other party shall not disclose the contract or any provision, specification or information thereof to any third party. Declaration duly signed on official Letter Head of the Seller as per format given at Annexure-I. 14. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses The bidder must have prior experience in providing sedan car hiring/transportation services for even ts or similar requirements to Defence Departments.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "The bidder shall submit valid documentary evidence/certificates, such as work orders, completion cer tificates, experience certificates, or any other relevant documents issued by the concerned organization, i n support of the claimed experience. The experience documents submitted by the bidder shall be subject to verification and acceptance by the Buyer. Only experience found relevant and satisfactory upon verification shall be considered for fulfill ment of the eligibility criteria. . 15. Service & Support AVAILABILITY OF OFFICE OF SERVICE PROVIDER: An office of the Service Provider must be located in the state of Consignee. DOCUMENTARY EVIDENCE TO BE SUBMITTED.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9918801"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 407",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "The original PDF dates differ from the current public GeM listing. The listing closing date is retained. Confirm the latest opening date and any corrigenda on GeM; the original PDF opening date is not presented as current.",
+  "document_closing_at": "2026-11-09T09:00:00+05:30",
+  "document_opening_at": "2026-11-10T09:00:00+05:30",
+  "date_discrepancy": {
+    "listing_closing_at": "2026-11-14T09:00:00+05:30",
+    "document_closing_at": "2026-11-09T09:00:00+05:30",
+    "document_opening_at": "2026-11-10T09:00:00+05:30"
+  }
 }

@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8157879",
   "title": "Smart Rack (V2)",
   "description": "Smart Rack (V2)",
-  "organisation": "Department of Electronics and Information Technology",
-  "ministry": "Ministry of Electronics and Information Technology",
-  "department": "Department of Electronics and Information Technology",
+  "organisation": "Centre For Development Of Advanced Computing (c-dac)",
+  "ministry": "Ministry Of Electronics And Information Technology",
+  "department": "Department Of Electronics And Information Technology",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Smart Rack (V2)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 400000,
   "published_at": "2026-10-30T17:59:29+05:30",
   "closing_at": "2026-11-12T13:00:00+05:30",
   "status": "active",
@@ -27,6 +27,31 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10031810"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/XnCkg90TxYW0uzGqp_WHkBh_fCW5uZ2If7kPZBFyjgY",
+      "page": 5
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8157879/CL10360/IntegtPact_6319b33c-4dea-4cfb-980a1792650394507_aocdacm.pdf",
+      "page": 6
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8157879/CLM0010/Specs_501b6581-16e6-48ed-a24f1792651012641_aocdacm.pdf",
+      "page": 9
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261030",
+      "page": 11
     }
   ],
   "tags": [
@@ -34,5 +59,333 @@
   ],
   "source_fetched_at": "2026-11-08T13:22:29.587Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-13T13:00:00+05:30",
+  "office": "Mohali - Punjab",
+  "buyer_email": "gem-buy1-moh@cdac.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 100,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Bidder Turnover,OEM Authorization Certificate,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 62,
+  "offer_validity": "80 (Days)",
+  "estimated_bid_value": 20000000,
+  "source_document_fetched_at": "2026-11-09T17:19:27.850278+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "bbfb99a9357a3ecbba969b75e7987757cdc8082197aa128a1eb38302dc5c7cec",
+  "document_pages": 11,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 100 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: GeM verified turnover (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Bidder Turnover,OEM Authorization Certificate,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Pawan Kumar Gole",
+      "address": "160071,C-DAC , A-34, Phase VIII, Industrial Area, Mohali",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "SPECIFICATIONS",
+          "parameter": "Type of rack",
+          "value": "Smart Rack"
+        },
+        {
+          "group": "SPECIFICATIONS",
+          "parameter": "Size of Rack Enclosure",
+          "value": "42U"
+        },
+        {
+          "group": "SPECIFICATIONS",
+          "parameter": "If Seismic Racks, Earthquake zones (Not applicble for Smart Rack, Self contained cabinets)",
+          "value": "NA as Smart Rack / Self-Contained Cabinets"
+        },
+        {
+          "group": "SPECIFICATIONS",
+          "parameter": "Rear door thickness in mm",
+          "value": "2, 2.5, 3 Or higher"
+        },
+        {
+          "group": "SPECIFICATIONS",
+          "parameter": "Side Panels With Key Locks and Slam Latch",
+          "value": "No"
+        },
+        {
+          "group": "SPECIFICATIONS",
+          "parameter": "Dust or water resistant",
+          "value": "Yes"
+        },
+        {
+          "group": "SPECIFICATIONS",
+          "parameter": "Touch screen",
+          "value": "Yes"
+        },
+        {
+          "group": "SPECIFICATIONS",
+          "parameter": "Cable channel in rear side for cable management",
+          "value": "Yes"
+        },
+        {
+          "group": "SPECIFICATIONS",
+          "parameter": "Support cable entry from top or bottom",
+          "value": "Yes"
+        },
+        {
+          "group": "SPECIFICATIONS",
+          "parameter": "Vertical and Horizontal managers",
+          "value": "Yes"
+        },
+        {
+          "group": "SPECIFICATIONS",
+          "parameter": "Number of Rack trays",
+          "value": "1, 2 Or higher"
+        },
+        {
+          "group": "SPECIFICATIONS",
+          "parameter": "Number of cooling Fan For Heat dissipation",
+          "value": "0, 1, 2 Or higher"
+        },
+        {
+          "group": "SPECIFICATIONS",
+          "parameter": "Number of fan trays",
+          "value": "0, 1, 2 Or higher"
+        },
+        {
+          "group": "SPECIFICATIONS",
+          "parameter": "Rodent Control",
+          "value": "Yes"
+        },
+        {
+          "group": "SPECIFICATIONS",
+          "parameter": "If available ,UPS Back up time up to (in Mins) (In case No UPS select as 0)",
+          "value": "15, 20, 25, 30 Or higher"
+        },
+        {
+          "group": "SPECIFICATIONS",
+          "parameter": "On Site OEM Warranty (years)",
+          "value": "1, 3, 5 Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address Director, CSIR-National Physical Laboratory Phone (Reception) Room 131 Store / Data Centre, Time & Frequency Metrology, Main Building Dr. K.S. Krishnan Marg New Delhi – 110012 . 2. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 3. Generic Bidders shall quote only those products (Part of Service delivery) in the bid which are not obsolete in the market and has at least 3 years residual market life i.e. the offered product shall not be declared end-of- life by the OEM before this period. 4. Generic Buyer Organization specific Integrity Pact shall have to be complied by all bidders. Bidders shall have to upload scanned copy of signed integrity pact as per Buyer organizations policy along with bid. Click here to view the file 5. Generic Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of technical parameters, the bid is liable for rejection."
+    },
+    {
+      "page": 7,
+      "text": "6. Generic IT equipment shall be IPv6 ready from day one. 7. Generic Malicious Code Certificate: The seller should upload following certificate in the bid:- (a) This is to certify that the Hardware and the Software being offered, as part of the contract, does not contain Embedded Malicious code that would activate procedures to :- (i) Inhibit the desires and designed function of the equipment. (ii) Cause physical damage to the user or equipment during the exploitation. (iii) Tap information resident or transient in the equipment/network. (b) The firm will be considered to be in breach of the procurement contract, in case physical damage, loss of information or infringements related to copyright and Intellectual Property Right (IPRs) are caused due to activation of any such malicious code in embedded software. 8. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 9. Generic 1. The Seller shall not assign the Contract in whole or part without obtaining the prior written consent of buyer. 2. The Seller shall not sub-contract the Contract in whole or part to any entity without obtaining the prior written consent of buyer. 3. The Seller shall, notwithstanding the consent and assignment/sub-contract, remain jointly and severally liable and responsible to buyer together with the assignee/ sub-contractor, for and in respect of the due performance of the Contract and the Sellers obligations there under. 10. Generic Without prejudice to Buyer’s right to price adjustment by way of discount or any other right or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a written notice to the Seller, if: i) The Seller fails to comply with any material term of the Contract. ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within the stipulated Delivery Period or such inability otherwise becomes apparent. iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery Period and/or to replace/rectify any rejected or defective Material(s) promptly. iv) The Seller becomes bankrupt or goes into liquidation. v) The Seller makes a general assignment for the benefit of creditors. vi) A receiver is appointed for any substantial property owned by the Seller. vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has placed the Purchase Order on the Seller. 11. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Important Instructions for Bidders: (a) Bidder must submit attached specification’s document (Page 9 of bid Para 12) duly signed and stamped towards acceptance and compliance of Specifications. Please note Critical Component’s for Integrated Smart Racks Data Centre Solution i.e. Rack, Cooling System, Intelligent rack PDU, Smart Rack monitoring s ystem along with temperature & humidity sensor should be from same & single OEM for Seamless Integrat ion & better Service Supports. (b) All queries/representation are to be raised thorough GeM only. No other mode of communicatio n shall be entertained for seeking/providing clarifications to bidders."
+    },
+    {
+      "page": 8,
+      "text": "(c) The Smart rack OEM should have more than 05 years of experience in executing similar works (Similar works means – “SITC (Supply Installation Testing and Commissioning) of Integrated Smart Rack Infrastruct ure of minimum 05 rack configuration with In row cooling units”) in Central/State/PSU Organizations. Comp letion Certificate, as proof of experience, signed by the concerned authorities to be submitted along with t he bid. The experience must include SITC of an Integrated Smart Rack Data Centre solution of similar nature, com prising smart racks with integrated hot/cold aisle containment, in-row precision cooling, integrated fire det ection/suppression, access control and monitoring, in at least one (1) installation at a Defence/Space/Powe r /Telecom/Banking-Financial sector organisation or other Critical Information Infrastructure (CII) organisati on protected by the National Critical Information Infrastructure Protection Centre (NCIIPC) and must be run ning satisfactorily at such an installation for a continuous period of more than two (2) years as on the date of bid submission. The bidder shall submit documentary evidence, including the relevant purchase order/work order, installati on/commissioning report and a satisfactory performance certificate issued by the client, confirming the de ployment and continuous satisfactory operation of the solution for the specified period. Where client detail s are confidential, a self-declaration on company letterhead signed by an authorised signatory, along with a redacted PO/completion record, shall be accepted. Preference shall be given to installations at sites designated as CII by NCIIPC. (d) Delivery, Installation, Testing and Commissioning is to be done at CSIR-NPL, New Delhi. (e) All items must carry 5 years Warranty. (f) OEM Service Support for Major Equipment’s: Smart Rack OEM or Manufacturer should have its own servi ce centre in DELHI/NCR. (g) All the Electrical Panels must include MCCB, MCB and all other components must be of Certified brand. (h) OEM must provide Declaration of conformity for all passive components as per TIA/EIA 568-C.2, TIA/EIA 568-C.3, and ANSI/TIA 568.2-D. OEM must provide Lifetime performance warranty on complete passive sol ution. Technical Data Sheet for all quoted OEM items shall be submitted along with bid. (i) Integrity Pact :- The bidder is required to enter into an Integrity Pact with C-DAC. For this, the bidder s hall submit the scanned copy of signed, stamped and notarized Integrity Pact on Rs. 100/- stamp paper, as part of technical bid, failing which, the proposal/bid submitted by the concerned bidder will be summaril y rejected. The original document should be couriered to C-DAC. The format for the Integrity Pact is attached. I n this context, details of IEM (Independent External Monitor) is provided below: (1) M Peter Johnson - email: johnson.mp@nic.in (2) Vijay Kumar Singh - email: vijaysinghsls10@gmail.com (j) EMD : Amount of EMD and Validity is given at page 2 of bid document and forms in which EMD can be s ubmitted is as under : 1 Demand Draft (Account Payee) In favour of “Centre Head, C-DAC Mohali\" Payable at - Mohali, Punjab. Bid der has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hard copy to C-DAC Mohali within 5 days of Bid End date / Bid Opening date. 2 Fixed Deposit Receipt (made / pledged in the name of) Centre Head, C-DAC Mohali. Bidder has to upload scanned copy/ proof of the FDR along with bid and has to ensure delivery of hardcopy to C-DAC Mohali with in 5 days of Bid End date/ Bid Opening date. The bank should certify on it that the deposit can be with dra wn only on the demand or with the sanction of the pledgee. For release of EMD, the FDR will be released in the favour of the bidder by the Buyer after making endorsement on the back of the FDR duly signed and st amped along with covering letter. 3 Payment online through RTGS / internet banking Centre Head, C-DAC, Mohali. Account No. 55034442545 , IFSC Code - SBIN0050502, Bank Name - State Bank of India Address - SCO 36-37, Phase-VIII, Mohali (SAS Nagar), Punjab-140110 Bidder to indicate bid number and name of bidding entity in the transaction details field at the time of online transfer. Bidder has to upload scanned copy / proof of the Online Payment Transf er along with bid. (k) Exemption from Submission of EMD : Micro and Small Enterprises (MSEs) having MSE certificate, such as a Udyam Registration and who are manufacturer of goods are exempt for submission o"
+    },
+    {
+      "page": 9,
+      "text": "f EMD. The exemption is not for traders (quoting other brands). Also, bidders have start-up certificate issu ed by DPIIT are exempted for submission of EMD. However, such bidders (who are MSE & Manufacturer/sta rt-up) must submit Bid Security Declaration (on letter head). The format for Bid Security Declaration (BSD) is given below. The bids without valid EMD/MSE Certificate/BSD will be rejected and no correspondence in this regard shall be entertained. Bid Securing Declaration Form (on letter head) To: Centre for Development of Advanced Computing A-34, Industrial Area, Phase-VIII, Mohali, PUNJAB-160071. Subject : Bid Securing Declaration Form Bid No.……………………Name of Bid ………………………………………..…… Dear Sir, I/ we understand that, according to your conditions, bid must be supported by a Bid Securing, Declaration. I/we accept that I/we may be disqualified for any contract with you for a period of one year from the date o f submission if I am / we are in a breach of any obligation under the bid conditions, because I/we a. Have withdrawn /modified amended, impairs or derogates from the tender, my/ our Bid during the perio d of bid validity specified in the form of Bid : or b. Having been notified of the acceptance of our bid by the purchaser during the period of bid validity (i) fai l or refuse to execute the contract, if required or (ii) fail or refuse to furnish the performance Security, in a ccordance with the Instruction to bidders. I/we understand the Bid Securing Declaration shall cease to be a valid if I am / we are not the successful Bi dder, upon the earlier of (i) the receipt of your notification of the name of successful Bidder, (ii) thirty days after the expiration of the validity of my / our bid. Signed: (insert signature of person whose name and capacity are shown) (insert legal capacity of person signing the Bid Securing Declaration) Name: (insert complete name of person signing the Bid Securing Declaration) Duly authorized to sign the bid for an on behalf of (insert complete name of Bidder) Date on ______________day of ____________________ (insert date and sign) Corporate seal (where appropriate) (l) The bidder must quote all inclusive rate for the complete solution as per specifications atta ched (Page 9 of bid Para 12 Link ) complete in all respect. . 12. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8157879",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10031810"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 12-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10031810"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 13-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10031810"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 80 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10031810"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Electronics And Information Technology",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10031810"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Electronics And Information Technology",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10031810"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Centre For Development Of Advanced Computing (c-dac)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10031810"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Mohali - Punjab",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10031810"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :gem-hod-moh@cdac.in Buyer Email id: gem-buy1-moh@cdac.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10031810"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10031810"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Smart Rack (V2) (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10031810"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 100 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10031810"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10031810"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: GeM verified turnover",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10031810"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10031810"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10031810"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Bidder Turnover,OEM Authorization Certificate,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10031810"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10031810"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 20000000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10031810"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 400000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10031810"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 400000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10031810"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10031810"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 62",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10031810"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10031810"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Type of rack: Smart Rack | Size of Rack Enclosure: 42U | If Seismic Racks, Earthquake zones (Not applicble for Smart Rack, Self contained cabinets): NA as Smart Rack / Self-Contained Cabinets | Rear door thickness in mm: 2, 2.5, 3 Or higher | Side Panels With Key Locks and Slam Latch: No | Dust or water resistant: Yes | Touch screen: Yes | Cable channel in rear side for cable management: Yes | Support cable entry from top or bottom: Yes | Vertical and Horizontal managers: Yes | Number of Rack trays: 1, 2 Or higher | Number of cooling Fan For Heat dissipation: 0, 1, 2 Or higher | Number of fan trays: 0, 1, 2 Or higher | Rodent Control: Yes | If available ,UPS Back up time up to (in Mins) (In case No UPS select as 0): 15, 20, 25, 30 Or higher | On Site OEM Warranty (years): 1, 3, 5 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10031810"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Pawan Kumar Gole | 160071,C-DAC , A-34, Phase VIII, Industrial Area, Mohali | 1 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10031810"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address Director, CSIR-National Physical Laboratory Phone (Reception) Room 131 Store / Data Centre, Time & Frequency Metrology, Main Building Dr. K.S. Krishnan Marg New Delhi – 110012 . 2. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 3. Generic Bidders shall quote only those products (Part of Service delivery) in the bid which are not obsolete in the market and has at least 3 years residual market life i.e. the offered product shall not be declared end-of- life by the OEM before this period. 4. Generic Buyer Organization specific Integrity Pact shall have to be complied by all bidders. Bidders shall have to upload scanned copy of signed integrity pact as per Buyer organizations policy along with bid. Click here to view the file 5. Generic Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of technical parameters, the bid is liable for rejection.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10031810"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "6. Generic IT equipment shall be IPv6 ready from day one. 7. Generic Malicious Code Certificate: The seller should upload following certificate in the bid:- (a) This is to certify that the Hardware and the Software being offered, as part of the contract, does not contain Embedded Malicious code that would activate procedures to :- (i) Inhibit the desires and designed function of the equipment. (ii) Cause physical damage to the user or equipment during the exploitation. (iii) Tap information resident or transient in the equipment/network. (b) The firm will be considered to be in breach of the procurement contract, in case physical damage, loss of information or infringements related to copyright and Intellectual Property Right (IPRs) are caused due to activation of any such malicious code in embedded software. 8. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 9. Generic 1. The Seller shall not assign the Contract in whole or part without obtaining the prior written consent of buyer. 2. The Seller shall not sub-contract the Contract in whole or part to any entity without obtaining the prior written consent of buyer. 3. The Seller shall, notwithstanding the consent and assignment/sub-contract, remain jointly and severally liable and responsible to buyer together with the assignee/ sub-contractor, for and in respect of the due performance of the Contract and the Sellers obligations there under. 10. Generic Without prejudice to Buyer’s right to price adjustment by way of discount or any other right or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a written notice to the Seller, if: i) The Seller fails to comply with any material term of the Contract. ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within the stipulated Delivery Period or such inability otherwise becomes apparent. iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery Period and/or to replace/rectify any rejected or defective Material(s) promptly. iv) The Seller becomes bankrupt or goes into liquidation. v) The Seller makes a general assignment for the benefit of creditors. vi) A receiver is appointed for any substantial property owned by the Seller. vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has placed the Purchase Order on the Seller. 11. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Important Instructions for Bidders: (a) Bidder must submit attached specification’s document (Page 9 of bid Para 12) duly signed and stamped towards acceptance and compliance of Specifications. Please note Critical Component’s for Integrated Smart Racks Data Centre Solution i.e. Rack, Cooling System, Intelligent rack PDU, Smart Rack monitoring s ystem along with temperature & humidity sensor should be from same & single OEM for Seamless Integrat ion & better Service Supports. (b) All queries/representation are to be raised thorough GeM only. No other mode of communicatio n shall be entertained for seeking/providing clarifications to bidders.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10031810"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "(c) The Smart rack OEM should have more than 05 years of experience in executing similar works (Similar works means – “SITC (Supply Installation Testing and Commissioning) of Integrated Smart Rack Infrastruct ure of minimum 05 rack configuration with In row cooling units”) in Central/State/PSU Organizations. Comp letion Certificate, as proof of experience, signed by the concerned authorities to be submitted along with t he bid. The experience must include SITC of an Integrated Smart Rack Data Centre solution of similar nature, com prising smart racks with integrated hot/cold aisle containment, in-row precision cooling, integrated fire det ection/suppression, access control and monitoring, in at least one (1) installation at a Defence/Space/Powe r /Telecom/Banking-Financial sector organisation or other Critical Information Infrastructure (CII) organisati on protected by the National Critical Information Infrastructure Protection Centre (NCIIPC) and must be run ning satisfactorily at such an installation for a continuous period of more than two (2) years as on the date of bid submission. The bidder shall submit documentary evidence, including the relevant purchase order/work order, installati on/commissioning report and a satisfactory performance certificate issued by the client, confirming the de ployment and continuous satisfactory operation of the solution for the specified period. Where client detail s are confidential, a self-declaration on company letterhead signed by an authorised signatory, along with a redacted PO/completion record, shall be accepted. Preference shall be given to installations at sites designated as CII by NCIIPC. (d) Delivery, Installation, Testing and Commissioning is to be done at CSIR-NPL, New Delhi. (e) All items must carry 5 years Warranty. (f) OEM Service Support for Major Equipment’s: Smart Rack OEM or Manufacturer should have its own servi ce centre in DELHI/NCR. (g) All the Electrical Panels must include MCCB, MCB and all other components must be of Certified brand. (h) OEM must provide Declaration of conformity for all passive components as per TIA/EIA 568-C.2, TIA/EIA 568-C.3, and ANSI/TIA 568.2-D. OEM must provide Lifetime performance warranty on complete passive sol ution. Technical Data Sheet for all quoted OEM items shall be submitted along with bid. (i) Integrity Pact :- The bidder is required to enter into an Integrity Pact with C-DAC. For this, the bidder s hall submit the scanned copy of signed, stamped and notarized Integrity Pact on Rs. 100/- stamp paper, as part of technical bid, failing which, the proposal/bid submitted by the concerned bidder will be summaril y rejected. The original document should be couriered to C-DAC. The format for the Integrity Pact is attached. I n this context, details of IEM (Independent External Monitor) is provided below: (1) M Peter Johnson - email: johnson.mp@nic.in (2) Vijay Kumar Singh - email: vijaysinghsls10@gmail.com (j) EMD : Amount of EMD and Validity is given at page 2 of bid document and forms in which EMD can be s ubmitted is as under : 1 Demand Draft (Account Payee) In favour of “Centre Head, C-DAC Mohali\" Payable at - Mohali, Punjab. Bid der has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hard copy to C-DAC Mohali within 5 days of Bid End date / Bid Opening date. 2 Fixed Deposit Receipt (made / pledged in the name of) Centre Head, C-DAC Mohali. Bidder has to upload scanned copy/ proof of the FDR along with bid and has to ensure delivery of hardcopy to C-DAC Mohali with in 5 days of Bid End date/ Bid Opening date. The bank should certify on it that the deposit can be with dra wn only on the demand or with the sanction of the pledgee. For release of EMD, the FDR will be released in the favour of the bidder by the Buyer after making endorsement on the back of the FDR duly signed and st amped along with covering letter. 3 Payment online through RTGS / internet banking Centre Head, C-DAC, Mohali. Account No. 55034442545 , IFSC Code - SBIN0050502, Bank Name - State Bank of India Address - SCO 36-37, Phase-VIII, Mohali (SAS Nagar), Punjab-140110 Bidder to indicate bid number and name of bidding entity in the transaction details field at the time of online transfer. Bidder has to upload scanned copy / proof of the Online Payment Transf er along with bid. (k) Exemption from Submission of EMD : Micro and Small Enterprises (MSEs) having MSE certificate, such as a Udyam Registration and who are manufacturer of goods are exempt for submission o",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10031810"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "f EMD. The exemption is not for traders (quoting other brands). Also, bidders have start-up certificate issu ed by DPIIT are exempted for submission of EMD. However, such bidders (who are MSE & Manufacturer/sta rt-up) must submit Bid Security Declaration (on letter head). The format for Bid Security Declaration (BSD) is given below. The bids without valid EMD/MSE Certificate/BSD will be rejected and no correspondence in this regard shall be entertained. Bid Securing Declaration Form (on letter head) To: Centre for Development of Advanced Computing A-34, Industrial Area, Phase-VIII, Mohali, PUNJAB-160071. Subject : Bid Securing Declaration Form Bid No.……………………Name of Bid ………………………………………..…… Dear Sir, I/ we understand that, according to your conditions, bid must be supported by a Bid Securing, Declaration. I/we accept that I/we may be disqualified for any contract with you for a period of one year from the date o f submission if I am / we are in a breach of any obligation under the bid conditions, because I/we a. Have withdrawn /modified amended, impairs or derogates from the tender, my/ our Bid during the perio d of bid validity specified in the form of Bid : or b. Having been notified of the acceptance of our bid by the purchaser during the period of bid validity (i) fai l or refuse to execute the contract, if required or (ii) fail or refuse to furnish the performance Security, in a ccordance with the Instruction to bidders. I/we understand the Bid Securing Declaration shall cease to be a valid if I am / we are not the successful Bi dder, upon the earlier of (i) the receipt of your notification of the name of successful Bidder, (ii) thirty days after the expiration of the validity of my / our bid. Signed: (insert signature of person whose name and capacity are shown) (insert legal capacity of person signing the Bid Securing Declaration) Name: (insert complete name of person signing the Bid Securing Declaration) Duly authorized to sign the bid for an on behalf of (insert complete name of Bidder) Date on ______________day of ____________________ (insert date and sign) Corporate seal (where appropriate) (l) The bidder must quote all inclusive rate for the complete solution as per specifications atta ched (Page 9 of bid Para 12 Link ) complete in all respect. . 12. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10031810"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

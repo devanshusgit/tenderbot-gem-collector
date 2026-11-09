@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8221342",
   "title": "50110101100173,50110101150169,50110101150170,50110101150174,50110101151471,50110101152457,501101012",
   "description": "50110101100173,50110101100173,50110101100173,50110101100173,50110101100173,50110101100173,50110101100173,50110101100173,50110101150169,50110101150169,50110101150169,50110101150169,50110101150169,50110101150169,50110101150169,50110101150169,50110101150170,50110101150170,50110101150170,50110101150170,50110101150170,50110101150170,50110101150170,50110101150170,50110101150174,50110101150174,50110101150174,50110101150174,50110101150174,50110101150174,50110101150174,50110101150174,50110101151471,50110101151471,50110101151471,50110101151471,50110101151471,50110101151471,50110101151471,50110101151471,50110101152457,50110101152457,50110101152457,50110101152457,50110101152457,50110101152457,50110101152457,50110101152457,50110101200081,50110101200081,50110101200081,50110101200081,50110101200081,50110101200081,50110101200081,50110101200081,50110101200629,50110101200629,50110101200629,50110101200629,50110101200629,50110101200629,50110101200629,50110101200629",
-  "organisation": "Steel Authority of India Limited",
-  "ministry": "Ministry of Steel",
-  "department": "Steel Authority of India Limited",
+  "organisation": "Bhilai Steel Plant",
+  "ministry": "Ministry Of Steel",
+  "department": "Steel Authority Of India Limited",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "50110101100173,50110101150169,50110101150170,50110101150174,50110101151471,50110101152457,501101012",
   "quantity": 22,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-10-30T17:54:14+05:30",
   "closing_at": "2026-11-10T16:00:00+05:30",
   "status": "active",
@@ -27,6 +27,31 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10105075"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 5
+    },
+    {
+      "name": "Buyer technical specification",
+      "url": "https://mkp.gem.gov.in/uploaded_documents/51/16/877/OrderItem/BoqDocument/2026/10/30/item_specification_2026-10-30-15-32-16_d10019860a57a5b09de34e2145105971.pdf",
+      "page": 6
+    },
+    {
+      "name": "View File",
+      "url": "https://mkp.gem.gov.in/uploaded_documents/51/16/877/OrderItem/BoqLineItemsDocument/2026/10/30/boq_item_sample_file__2026-10-30-15-32-16_53f5764795af2e4af7355dbfb4e1bc70.csv",
+      "page": 6
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8221342/CLM0010/ATC_e68c606d-11e0-4c7d-b5341793355872492_G000759.pdf",
+      "page": 13
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261030",
+      "page": 15
     }
   ],
   "tags": [
@@ -34,5 +59,277 @@
   ],
   "source_fetched_at": "2026-11-08T13:08:12.301Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-11T16:00:00+05:30",
+  "office": "Materials Management",
+  "buyer_email": "ashish@sail.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "90 (Days)",
+  "source_document_fetched_at": "2026-11-09T17:22:40.567066+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "9ca99a80737dcb3518d8ed93963f4aa248b7db7f856bdd61702545ce8494d039",
+  "document_pages": 15,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 3)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 3)",
+    "Documents required from seller: Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 7,
+      "consignee": "Ravi Kumar",
+      "address": "490001,Room No. 302, 3rd Floor, Ispat Bhavan Bhilai Steel Plant Bhilai-490001",
+      "quantity": 2,
+      "quantity_label": "Quantity",
+      "delivery_days": 180
+    },
+    {
+      "page": 7,
+      "consignee": "Ravi Kumar",
+      "address": "490001,Room No. 302, 3rd Floor, Ispat Bhavan Bhilai Steel Plant Bhilai-490001",
+      "quantity": 12,
+      "quantity_label": "Quantity",
+      "delivery_days": 180
+    },
+    {
+      "page": 8,
+      "consignee": "Ravi Kumar",
+      "address": "490001,Room No. 302, 3rd Floor, Ispat Bhavan Bhilai Steel Plant Bhilai-490001",
+      "quantity": 2,
+      "quantity_label": "Quantity",
+      "delivery_days": 180
+    },
+    {
+      "page": 9,
+      "consignee": "Ravi Kumar",
+      "address": "490001,Room No. 302, 3rd Floor, Ispat Bhavan Bhilai Steel Plant Bhilai-490001",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 180
+    },
+    {
+      "page": 9,
+      "consignee": "Ravi Kumar",
+      "address": "490001,Room No. 302, 3rd Floor, Ispat Bhavan Bhilai Steel Plant Bhilai-490001",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 180
+    },
+    {
+      "page": 10,
+      "consignee": "Ravi Kumar",
+      "address": "490001,Room No. 302, 3rd Floor, Ispat Bhavan Bhilai Steel Plant Bhilai-490001",
+      "quantity": 2,
+      "quantity_label": "Quantity",
+      "delivery_days": 180
+    },
+    {
+      "page": 11,
+      "consignee": "Ravi Kumar",
+      "address": "490001,Room No. 302, 3rd Floor, Ispat Bhavan Bhilai Steel Plant Bhilai-490001",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 180
+    },
+    {
+      "page": 11,
+      "consignee": "Ravi Kumar",
+      "address": "490001,Room No. 302, 3rd Floor, Ispat Bhavan Bhilai Steel Plant Bhilai-490001",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 180
+    }
+  ],
+  "technical_specifications": [],
+  "buyer_added_terms": [
+    {
+      "page": 11,
+      "text": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses"
+    },
+    {
+      "page": 12,
+      "text": "1. Bids are invited from following BSP (Bhilai Steel Plant) Preferred Make Manufact urers: 1. ABB INDIA LTD 2. BHARAT BIJLEE LTD 3. CG POWER AND INDUSTRIAL SOLUTIONS LTD, 4. KIRLOSKAR ELECTRIC CO LTD 5. LAXMI HYDRAULICS PVT. LTD. 6. MARATHON ELECTRIC MOTORS (I) LTD 7. SIEMENS 8. NGEF LTD 9. HEM INDUSTRIES 10. HAVELLS 11. BHARAT HEAVY ELECTRICALS LTD OEM is requested to submit their offer directly. 2. In case of offer submission by authorized bidders (dealer, channel partner etc.) of respective Manufacturer, valid authorization (Duly signed, stamped by OEM authorised Person with name, contact Number and Ema il ID) duly mentioning GeM bid number is required to be submitted along with the offer. 3. Offer submission by dealer of OEM: Bidder shall provide back-up guarantee of OEM for quality & workmans hip of the ordered item(s) at the time of supply. The bids submitted by the Sellers to whom LTE has been issued, shall only be considered for valuation: bids from any other Seller shall be treated as unsolicited in the instant procurement case. H owever, the firm(s) interested to be registered as a Seller to SAIL, should fill up the vendor registration form, hosted on the SAIL Tender website and complete the due process of registration with SAI L Plants / Units 4. Items must be supplied in Manufacturer’s Original Packing only. 5. Guarantee/ Warranty Clause: The Supplier Shall Guarantee/ Warranty for a period of 18 months from the d ate of supply or 12 months from the date of commissioning whichever is earlier and in the event of Buyer fi nding, within the guarantee period, that the item accepted & supplied, is not performing as per the require ment in the Purchase Order, the Supplier shall be liable to replace the item free of cost on FOR BSP Stores basis, to the satisfaction of the Buyer. 6. Vendors are requested to confirm delivery as per GEM bid or to quote their best possible delivery period. 7. Payment Terms: 100% against receipt and acceptance at BSP Stores, Delivery & Inspection: at BSP Stores. 8. LD Clause- In event of supply not being effected within the contractual delivery schedule liquidated damag es @ 0.5%, not by way of penalty, of the value of the materials without taxes, duties & freight, per week or part thereof of delay, subject to maximum of 10%, (or as applicable in the case of MSE as per extant SAIL MSE guideline) is recoverable from the Supplier without prejudice to the rights of Purchaser to procure the balance material at the risk and cost of the Supplier. The payment or deduction of such damages shall not relieve the Supplier from the contractual obligations to complete the supply or balance portion thereof in ti me as stipulated in the Contract."
+    },
+    {
+      "page": 13,
+      "text": "9. Risk Purchase: Subject to the terms and conditions of this Agreement, if the Supplier neglect s or fails to pe rform the Agreement by the time or times agreed upon, for any reason other than Force Majeure, the Purc haser after having come to know of such negligence or non-performance, after giving 14 to 30 days’ notice or any such extended period that the Supplier and Purchaser may mutually agree, to the Supplier to rectify , shall take such action as it considers fit including but not limited to taking risk purchase action for supply of the material, mitigating any losses, at the risk and cost of the Supplier as far as the undelivered quantity in that Delivery Period is concerned. The Right of the Purchaser for Risk Purchase Action is in addition to th e Right of Purchaser to terminate the Contract due to the fault of the Supplier. The price differential in case of higher cost to SAIL, if any, shall have to be borne by the defaulting Supplier. Moreover, the defaulting S upplier shall have no claim over the quantity, which they failed to supply. 10. It may be noted that all post order activities (that is regularizing SAP order, material receipts & GRN, Bill pr ocessing and any other post order activity) shall be done outside GeM over SAIL BSP’s SAP. Vendor to Cre ate Tracking No. and enter their Invoice and Challan and other PO documents through Online Vendor Bill s ubmission Module through the Link https://eproc.sailbhilaisteel.com/irj/portal for smooth entry at Gate and subsequent Bill Payment. 11. BSP reserves the right to reject the offers based on documents submitted by bidder with/without seeking a dditional clarifications. Hence bidders are requested to submit the documents along with offers in totality. 12. Other relevant conditions not mentioned here shall be as per General Terms and Conditions of Contracts fo r Purchase (SAIL- P1) (October 2023) which can be viewed / downloaded from https://sailtenders.co.in/ Info rmation Standard Documents General Terms and Conditions of Contracts for Purchase (SAIL- P 1). here of i n time as stipulated in the Contract. 13. Bidders must submit the following with the Offer: a. Signed and Stamped ATC document b. Valid GeM Bid Specific OEM Authorisation, if applicable. c. Bidders shall submit scanned copy of completely filled up and signed CHECKLIST d. The vendor shall furnish the make and model of the offered item along with the complete technical data sh eet and General Arrangement Drawing (GAD) at the time of Enquiry, to enable evaluation of all parameters specified in the description. . 3. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8221342",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105075"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 10-11-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105075"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 11-11-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105075"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105075"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Steel",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105075"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Steel Authority Of India Limited",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105075"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Bhilai Steel Plant",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105075"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Materials Management",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105075"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :mkkulkarni@sail.in Buyer Email id: ashish@sail.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105075"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 22",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105075"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: 50110101100173 , 50110101150169 , 50110101150170 , 50110101150174 , 50110101151471 , 50110101152457 , 50110101200081 , 50110101200629",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105075"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 3,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105075"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 3,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105075"
+    },
+    {
+      "field": "seller_documents",
+      "page": 3,
+      "quote": "Document required from seller: Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105075"
+    },
+    {
+      "field": "tender_type",
+      "page": 3,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105075"
+    },
+    {
+      "field": "emd_required",
+      "page": 4,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105075"
+    },
+    {
+      "field": "emd_fee",
+      "page": 4,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105075"
+    },
+    {
+      "field": "consignees",
+      "page": 7,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Ravi Kumar | 490001,Room No. 302, 3rd Floor, Ispat Bhavan Bhilai Steel Plant Bhilai-490001 | 2 | 180",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105075"
+    },
+    {
+      "field": "consignees",
+      "page": 7,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Ravi Kumar | 490001,Room No. 302, 3rd Floor, Ispat Bhavan Bhilai Steel Plant Bhilai-490001 | 12 | 180",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105075"
+    },
+    {
+      "field": "consignees",
+      "page": 8,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Ravi Kumar | 490001,Room No. 302, 3rd Floor, Ispat Bhavan Bhilai Steel Plant Bhilai-490001 | 2 | 180",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105075"
+    },
+    {
+      "field": "consignees",
+      "page": 9,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Ravi Kumar | 490001,Room No. 302, 3rd Floor, Ispat Bhavan Bhilai Steel Plant Bhilai-490001 | 1 | 180",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105075"
+    },
+    {
+      "field": "consignees",
+      "page": 9,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Ravi Kumar | 490001,Room No. 302, 3rd Floor, Ispat Bhavan Bhilai Steel Plant Bhilai-490001 | 1 | 180",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105075"
+    },
+    {
+      "field": "consignees",
+      "page": 10,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Ravi Kumar | 490001,Room No. 302, 3rd Floor, Ispat Bhavan Bhilai Steel Plant Bhilai-490001 | 2 | 180",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105075"
+    },
+    {
+      "field": "consignees",
+      "page": 11,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Ravi Kumar | 490001,Room No. 302, 3rd Floor, Ispat Bhavan Bhilai Steel Plant Bhilai-490001 | 1 | 180",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105075"
+    },
+    {
+      "field": "consignees",
+      "page": 11,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Ravi Kumar | 490001,Room No. 302, 3rd Floor, Ispat Bhavan Bhilai Steel Plant Bhilai-490001 | 1 | 180",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105075"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 11,
+      "quote": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105075"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 12,
+      "quote": "1. Bids are invited from following BSP (Bhilai Steel Plant) Preferred Make Manufact urers: 1. ABB INDIA LTD 2. BHARAT BIJLEE LTD 3. CG POWER AND INDUSTRIAL SOLUTIONS LTD, 4. KIRLOSKAR ELECTRIC CO LTD 5. LAXMI HYDRAULICS PVT. LTD. 6. MARATHON ELECTRIC MOTORS (I) LTD 7. SIEMENS 8. NGEF LTD 9. HEM INDUSTRIES 10. HAVELLS 11. BHARAT HEAVY ELECTRICALS LTD OEM is requested to submit their offer directly. 2. In case of offer submission by authorized bidders (dealer, channel partner etc.) of respective Manufacturer, valid authorization (Duly signed, stamped by OEM authorised Person with name, contact Number and Ema il ID) duly mentioning GeM bid number is required to be submitted along with the offer. 3. Offer submission by dealer of OEM: Bidder shall provide back-up guarantee of OEM for quality & workmans hip of the ordered item(s) at the time of supply. The bids submitted by the Sellers to whom LTE has been issued, shall only be considered for valuation: bids from any other Seller shall be treated as unsolicited in the instant procurement case. H owever, the firm(s) interested to be registered as a Seller to SAIL, should fill up the vendor registration form, hosted on the SAIL Tender website and complete the due process of registration with SAI L Plants / Units 4. Items must be supplied in Manufacturer’s Original Packing only. 5. Guarantee/ Warranty Clause: The Supplier Shall Guarantee/ Warranty for a period of 18 months from the d ate of supply or 12 months from the date of commissioning whichever is earlier and in the event of Buyer fi nding, within the guarantee period, that the item accepted & supplied, is not performing as per the require ment in the Purchase Order, the Supplier shall be liable to replace the item free of cost on FOR BSP Stores basis, to the satisfaction of the Buyer. 6. Vendors are requested to confirm delivery as per GEM bid or to quote their best possible delivery period. 7. Payment Terms: 100% against receipt and acceptance at BSP Stores, Delivery & Inspection: at BSP Stores. 8. LD Clause- In event of supply not being effected within the contractual delivery schedule liquidated damag es @ 0.5%, not by way of penalty, of the value of the materials without taxes, duties & freight, per week or part thereof of delay, subject to maximum of 10%, (or as applicable in the case of MSE as per extant SAIL MSE guideline) is recoverable from the Supplier without prejudice to the rights of Purchaser to procure the balance material at the risk and cost of the Supplier. The payment or deduction of such damages shall not relieve the Supplier from the contractual obligations to complete the supply or balance portion thereof in ti me as stipulated in the Contract.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105075"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 13,
+      "quote": "9. Risk Purchase: Subject to the terms and conditions of this Agreement, if the Supplier neglect s or fails to pe rform the Agreement by the time or times agreed upon, for any reason other than Force Majeure, the Purc haser after having come to know of such negligence or non-performance, after giving 14 to 30 days’ notice or any such extended period that the Supplier and Purchaser may mutually agree, to the Supplier to rectify , shall take such action as it considers fit including but not limited to taking risk purchase action for supply of the material, mitigating any losses, at the risk and cost of the Supplier as far as the undelivered quantity in that Delivery Period is concerned. The Right of the Purchaser for Risk Purchase Action is in addition to th e Right of Purchaser to terminate the Contract due to the fault of the Supplier. The price differential in case of higher cost to SAIL, if any, shall have to be borne by the defaulting Supplier. Moreover, the defaulting S upplier shall have no claim over the quantity, which they failed to supply. 10. It may be noted that all post order activities (that is regularizing SAP order, material receipts & GRN, Bill pr ocessing and any other post order activity) shall be done outside GeM over SAIL BSP’s SAP. Vendor to Cre ate Tracking No. and enter their Invoice and Challan and other PO documents through Online Vendor Bill s ubmission Module through the Link https://eproc.sailbhilaisteel.com/irj/portal for smooth entry at Gate and subsequent Bill Payment. 11. BSP reserves the right to reject the offers based on documents submitted by bidder with/without seeking a dditional clarifications. Hence bidders are requested to submit the documents along with offers in totality. 12. Other relevant conditions not mentioned here shall be as per General Terms and Conditions of Contracts fo r Purchase (SAIL- P1) (October 2023) which can be viewed / downloaded from https://sailtenders.co.in/ Info rmation Standard Documents General Terms and Conditions of Contracts for Purchase (SAIL- P 1). here of i n time as stipulated in the Contract. 13. Bidders must submit the following with the Offer: a. Signed and Stamped ATC document b. Valid GeM Bid Specific OEM Authorisation, if applicable. c. Bidders shall submit scanned copy of completely filled up and signed CHECKLIST d. The vendor shall furnish the make and model of the offered item along with the complete technical data sh eet and General Arrangement Drawing (GAD) at the time of Enquiry, to enable evaluation of all parameters specified in the description. . 3. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105075"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

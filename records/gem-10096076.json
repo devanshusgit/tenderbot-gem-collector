@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8213493",
   "title": "Hiring of Vehicle Tracking Services - 1-3; 0-5; Yes; 12 Months; Less than 5 Sec",
   "description": "Hiring of Vehicle Tracking Services - 1-3; 0-5; Yes; 12 Months; Less than 5 Sec",
-  "organisation": "COAL INDIA LIMITED",
-  "ministry": "Ministry of Coal",
-  "department": "COAL INDIA LIMITED",
+  "organisation": "Coal India Limited",
+  "ministry": "Ministry Of Coal",
+  "department": "Coal India Limited",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Hiring of Vehicle Tracking Services - 1-3; 0-5; Yes; 12 Months; Less than 5 Sec",
   "quantity": 17,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-10-30T17:51:14+05:30",
   "closing_at": "2026-11-10T12:00:00+05:30",
   "status": "active",
@@ -27,6 +27,36 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "name": "1793246772.xlsx",
+      "url": "https://bidplus.gem.gov.in/resources/upload_nas/OctQ426/bidding/excel/bid-10096076/1793246772.xlsx",
+      "page": 3
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8213493/CLM0014/ITB_SLA_4b528a13-b920-48aa-99a01793331865239_system.nec.pdf",
+      "page": 6
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8213493/CLM0010/ATC_cf93ffd1-1faa-46c0-8acc1793331853163_system.nec.pdf",
+      "page": 6
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8213493/CLM0012/NIT_SOW_941b1cc2-f534-4907-81f81793331840862_system.nec.pdf",
+      "page": 6
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261030",
+      "page": 19
+    },
+    {
+      "name": "Service Level Agreement",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/bidsla/101930750597776",
+      "page": 19
     }
   ],
   "tags": [
@@ -34,5 +64,406 @@
   ],
   "source_fetched_at": "2026-11-08T13:05:35.758Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-11T12:00:00+05:30",
+  "office": "North Eastern Coalfields",
+  "buyer_email": "munnakumar.cil@coalindia.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Certificate (Requested in ATC),Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Single Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 14,
+  "offer_validity": "120 (Days)",
+  "estimated_bid_value": 74460,
+  "contract_period": "1 Year(s)",
+  "source_document_fetched_at": "2026-11-09T17:23:33.889929+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "d956594b8f529aea541757131c68ff9b0fe31cb81269a9439fa65a8d86585e86",
+  "document_pages": 20,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Certificate (Requested in ATC),Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Munna Kumar",
+      "address": "786181,Office of the General Manager, North Eastern Coalfields Coal India Limited, Margherita Assam",
+      "quantity": 17,
+      "quantity_label": "Number of Tracking Device required for the Contract Period",
+      "delivery_days": null,
+      "additional_requirements": "Duration in days during Contract Period : 365"
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Primary Dashboard",
+          "value": "1-3"
+        },
+        {
+          "group": "Core",
+          "parameter": "Secondary Dashboard",
+          "value": "0-5"
+        },
+        {
+          "group": "Core",
+          "parameter": "Availability of Map for Tracking",
+          "value": "Yes"
+        },
+        {
+          "group": "Core",
+          "parameter": "Availability of Data Backup",
+          "value": "12 Months"
+        },
+        {
+          "group": "Core",
+          "parameter": "Hot Start Time",
+          "value": "Less than 5 Sec"
+        },
+        {
+          "group": "Core",
+          "parameter": "Recording of Location information of Vehicles",
+          "value": "Yes"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "3 / 2",
+          "parameter": "Horizontal Positional Accuracy",
+          "value": "Less than 4 Meter"
+        },
+        {
+          "group": "3 / 2",
+          "parameter": "Provisioning of Activated SIM",
+          "value": "By Service Provider"
+        },
+        {
+          "group": "3 / 2",
+          "parameter": "Provisioning of Hosting Server",
+          "value": "By Service Provider"
+        },
+        {
+          "group": "3 / 2",
+          "parameter": "Alert/Notification Facility",
+          "value": "Yes"
+        },
+        {
+          "group": "3 / 2",
+          "parameter": "Alert/Notification Method",
+          "value": "Server Based and SMS Both"
+        },
+        {
+          "group": "3 / 2",
+          "parameter": "Alert Eventuality",
+          "value": "Overspeeding , GPS disconnection , GPS Tampering Alarm , Geofence Breaches , Undue Stoppage , Route Deviation from Authorized routes , Vehicle back to loading area without entering to unloading area , Maintenance due"
+        },
+        {
+          "group": "3 / 2",
+          "parameter": "Report Provision",
+          "value": "Reports in Map Live View , Reports in Map Historical View , Diagnostic History , Journey Report , Vehicle and Driver Profile , Reports in Map Live View consisting of Vehicle and Driver Profile"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE 25% : The buyer can increase or decrease the contract quantity or contract duration up to 25 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 25 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 25 percent with the consent of the service provider 2. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 3. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 4. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 5. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address OFFICE OF THE AGENT TIKAK COLLIERY NORTH EASTERN COALFIELDS COAL INDIA LIMITED MARGHERITA, ASSAM-786181 . 6. Payment PAYMENT OF SALARIES AND WAGES: Service Provider is required to pay Salaries / wages of contracted staff deployed at buyer location first i.e. on their own and then claim payment from Buyer alongwith all statutory documents like, PF, ESIC etc. as well as the bank statement of payment done to staff. 7. Forms of EMD and PBG"
+    },
+    {
+      "page": 6,
+      "text": "Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of COAL INDIA LIMITED A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract. 8. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Payment online through RTGS / internet banking also (besides PBG which is allowed as per GeM GTC). On-line payment shall be in Beneficiary name Coal India Limited Account No. 00000032887761865 IFSC Code SBIN0005787 Bank Name State Bank of India Branch address State Bank of India, Margherita, 786181 . Successful Bidder to indicate Contract number and name of Seller entity in the transaction details field at the time of on-line transfer. Bidder has to upload scanned copy / proof of the Online Payment Transfer in place of PBG within 15 days of award of contract. 9. Buyer Added Bid Specific SLA File Attachment Click here to view the file. 10. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 11. Buyer Added Bid Specific Scope Of Work(SOW) File Attachment Click here to view the file. 12. Buyer Added Bid Specific Scope Of Work(SOW) Text Clause(s) BUYER ADDED TENDER SPECIFIC TECHNICAL SPECIFICATIONS AND TERMS & CONDITIONS Description of Job: GPS-based Vehicle Tracking Service (GPS VTS) with virtual Geofencing for 17 vehicles 1. Scope of Service 1.1. The Service Provider shall provide GPS-based Vehicle Tracking Service (GPS VTS) with virtual Geofencing for 17 vehicles deployed at Tikak Colliery, NEC, for a period of 1 year. 1.2. The scope shall include GPS tracking devices, installation, commissioning, SIM connectivity, web-based d ashboard, software, map services, Geofencing, alerts, reports, data hosting, maintenance, technical support and integration with the existing ICCC platform of NEC/CIL. 1.3. The contract is for a complete vehicle tracking service and shall not be limited to the supply of standalon e GPS devices."
+    },
+    {
+      "page": 7,
+      "text": "2. GPS Tracking Devices and Installation 2.1. The Service Provider shall supply, install, configure, test and commission GPS/GNSS tracking devices in a ll 17 designated vehicles. 2.2. The GPS/GNSS tracking devices shall be rugged and suitable for operation in coal-mine environments, inc luding dust, vibration, temperature variations and exposure to rain and water splashes. The device enclosure shall have a minimum ingress protection rating of IP67 in accordance with IS/IEC 60529. Compliance shall be supported by the manufacturer's datasheet or a test certificate from a competent testing laboratory. 2.3. The Service Provider shall maintain a vehicle-wise register of GPS tracking devices, including device IDs, vehicle registration numbers, SIM details, installation, replacement and maintenance records. The system sh all also maintain a dated audit trail of device replacement, deactivation/restoration, vehicle-device mapping c hanges and configuration changes, wherever applicable to the supplied platform. Records of relevant user/ad ministrator activities shall also be maintained and made available to authorised NEC officials upon request. 2.4. Installation, removal, transfer and reinstallation of devices shall be carried out in coordination with the a uthorized NEC representative. 3. SIM Connectivity and Network Services 3.1. The Service Provider shall provide active 4G/5G-compatible SIM connectivity and available mobile networ k, for all 17 vehicles. 3.2. The SIM cards shall be capable of providing reliable mobile data connectivity for transmission of GPS loca tion, vehicle movement, speed, status and other required tracking information to the VTS platform. 3.3. The Service Provider shall ensure adequate network coverage and connectivity for reliable operation of t he tracking system in the operational area of Tikak Colliery. 3.4. All SIM charges, data charges, SMS charges, network subscription charges and other recurring connectivi ty expenses shall be included in the quoted contract price. No additional payment shall be made by NEC on t his account. 3.5. The Service Provider shall monitor connectivity and take necessary corrective action in case of SIM failur e, network-related issues or interruption in data transmission. 3.6. Where technically supported, the system shall provide a suitable fallback mechanism, such as store-and- forward or SMS-based transmission, during temporary unavailability of mobile data connectivity. 4. Web-Based Dashboard and Live Tracking 4.1. The Service Provider shall provide a centralized web-based dashboard for authorized NEC officials to mo nitor all 17 vehicles. 4.2. The system shall display the latest available vehicle location, vehicle identification, speed, movement st atus and time of the last location update. 4.3. The system shall provide near real-time tracking of vehicle movement, route travelled and stoppages. Fo r moving vehicles, location updates shall be provided at intervals of 5–10sec and at intervals of up to 3 minut es when parked. Upon resumption of movement, tracking updates shall resume within 5–10 seconds. Horizon tal positional accuracy shall be less than 4 metres."
+    },
+    {
+      "page": 8,
+      "text": "4.4. Authorized users shall be able to access the dashboard through commonly used web browsers. Mobile ac cess shall also be provided wherever supported by the offered solution. 5. Geofencing and Route Monitoring 5.1. The system shall support creation and configuration of virtual Geofences for the mine boundary, coal sto ckyards, weighbridges, loading/unloading points, workshops, parking areas and other locations as identified b y NEC. 5.2. The Service Provider shall configure the approved Geofence boundaries and routes in the VTS applicatio n based on the coordinates and instructions provided by the authorized NEC officials. 5.3. Any modification to approved Geofence boundaries or routes shall be carried out only on the instructions of the authorized NEC official and in accordance with the prescribed approval procedure. 5.4. The system shall generate alerts for Geofence entry/exit, unauthorized route deviation, overspeeding an d prolonged stoppage. 6. Alerts and Notifications 6.1. The system shall provide alerts for Geofence violations, route deviation, overspeeding, prolonged stoppa ge, device disconnection, GPS communication failure and tampering/power disconnection. 6.2. Alerts shall be available through the VTS dashboard and through SMS/e-mail or other supported notificati on mechanisms, as configured by NEC. 6.3. The system shall maintain event-wise records containing vehicle identification, date, time, event type an d available location details. 7. ICCC Integration 7.1. The GPS VTS shall be compatible and integrated with the existing ICCC platform of NEC/CIL. ICCC integrat ion shall be a mandatory deliverable under the contract. 7.2. The Service Provider shall coordinate with NEC and the authorized ICCC/system integrator to confirm the interface specifications, data fields, authentication requirements and integration procedure. 7.3. The Service Provider shall provide the necessary secure API/Web API or other interface approved by NEC for exchange of vehicle tracking data with the existing ICCC platform. 7.4. The integration shall provide vehicle identification, GPS coordinates, speed, direction, timestamp, vehicle status, Geofence events and route-deviation alerts. 7.5. Live vehicle locations shall be capable of display on the existing ICCC map/dashboard. Relevant alerts an d event data shall also be made available for display or processing in ICCC. 7.6. The Service Provider shall provide API documentation, data-field mapping, technical assistance and nece ssary support for integration testing and commissioning. Joint testing shall be carried out with the designated NEC/ICCC representatives to verify the agreed vehicle data, live location, vehicle status and alerts. Test resul ts and deficiencies, if any, shall be documented. The Service Provider shall rectify defects attributable to its GPS VTS solution or interface without additional cost and shall coordinate with the ICCC system integrator for resolution of integration issues involving the respective systems."
+    },
+    {
+      "page": 9,
+      "text": "7.7. The Service Provider shall cooperate with the authorized ICCC integrator and rectify integration-related is sues attributable to its VTS solution during the contract period. 7.8. All basic API access, integration configuration, testing, commissioning and necessary technical support s hall be included in the quoted contract price. No separate integration or API charges shall be payable by NEC . 8. Reports and Historical Data 8.1. The system shall provide vehicle-wise and consolidated reports, as applicable, covering vehicle moveme nt, journey history, historical map playback, stoppages, Geofence violations, route deviation, over speeding, device connectivity status and system diagnostics 8.2. Reports shall be viewable online and downloadable in commonly usable formats such as Excel/CSV and P DF, as supported by the application. 8.3. Historical tracking and event data shall be retained for a minimum period of 12 months. 8.4. The Service Provider shall provide the required tracking data and reports in a commonly usable electroni c format upon request and upon expiry/termination of the contract, without additional cost. 9. Hosting, Data Security and Confidentiality 9.1. The Service Provider shall provide and maintain reliable server hosting, database, map services, backup and recovery facilities throughout the contract period. The hosting infrastructure shall incorporate server red undancy and automatic failover arrangements to minimise service disruption. The Service Provider shall mai ntain regular data backups and suitable recovery arrangements to prevent loss of tracking data. The data ce ntre hosting the contract-related data shall be located in India, subject to applicable CIL/NEC information sec urity policies and contractual requirements. 10. Maintenance and Technical Support 10.1. The Service Provider shall provide comprehensive preventive and corrective maintenance of GPS devic es, SIM connectivity, software, hosting and ICCC integration throughout the contract period as per GEM contr act. 10.2. The Service Provider shall provide a designated helpdesk/contact person and an escalation mechanism for reporting and resolving complaints. 10.3. Faulty devices shall be repaired or replaced within the response and resolution timelines specified in th e NIT/GeM Contract. 10.4. The Service Provider shall maintain suitable spare devices and components to minimize downtime and ensure continuity of tracking services. 10.5. Preventive maintenance, software/firmware updates and necessary configuration corrections shall be c arried out as required to maintain satisfactory service performance. 10.6. The Service Provider shall submit service reports covering complaints, repairs/replacements, device av ailability, preventive maintenance and ICCC integration status as required by NEC. 11. Commissioning and Acceptance"
+    },
+    {
+      "page": 10,
+      "text": "11.1. Commissioning shall include installation and activation of all 17 GPS tracking devices, vehicle mapping, dashboard access, verification of device specifications and supporting documents, Geofence configuration, al ert testing, report verification and joint testing of the specified ICCC integration. The integration test shall verify the agreed vehicle data, live location, vehicle status and alerts. The Service Provider shall rectify defici encies attributable to its supplied system without additional cost before acceptance by the designated NEC a uthority. 11.2. The Service Provider shall demonstrate the agreed functions to the designated NEC/ICCC representativ es and rectify deficiencies identified during testing without additional cost. 11.3. The service shall be considered commissioned upon acceptance by the designated NEC authority in acc ordance with the contractual requirements. 12. Payment and Deductions 12.1. Payment shall be made in accordance with the billing cycle and payment terms specified in the NIT and GeM Contract, subject to satisfactory service certification and submission of a valid invoice. 12.2. Deductions / LD If Service Provider fails to deliver any or all of the Service(s) or fail to perform the services within the time per iod specified in the Contract, the Buyer shall, without prejudice to its other rights and remedies under and in accordance with the Contract Agreement, levy Liquidated Damages (LD) from payments which are due to the Service Provider. S l. NParticulars Penalty / Financial Implication o . ₹250 per affected GPS device per day shall be im 1 The Service Provider shall repair or replace faulty GPS dposed if the faulty GPS device is not restored withi n the stipulated 3 hours. The penalty shall continu . evices within 3 hours of reporting. e until restoration of service. The Service Provider shall remove, relocate or transfer 2 ₹500 per GPS device per day of delay beyond 24 GPS devices as directed by NEC within 24 hours of repo . hours. rting. The Service Provider shall ensure uninterrupted conne In case of failure of dashboard connectivity or ICC ctivity of the web-based dashboard and integration of 3 GPS VTS with NEC’s existing ICCC. Any failure attribut C integration attributable to the Service Provider, . able to the Service Provider affecting dashboard acce a penalty of ₹100 per day shall be imposed until r ss, vehicle tracking data or ICCC integration shall be r estoration of the affected service. ectified within 3 hours of reporting."
+    },
+    {
+      "page": 11,
+      "text": "Monthly Uptime Requirement: The Service Provider shal l maintain a minimum monthly uptime of 98% for each GPS device and its associated tracking service. Uptime shall be calculated separately for each GPS device on a calendar-month basis using the following formula: Upti me (%) = [(Total Scheduled Hours − Downtime Hours) / Total Scheduled Hours] × 100. Failure to maintain the prescribed minimum mont hly uptime of 98% shall be treated as non-complia Definitions: nce. Persistent or material failure may result in ac 4 tion, including forfeiture of Performance Security . (a) Total Scheduled Hours: 24 hours multiplied by the tor termination of contract, wherever applicable, in otal number of calendar days in the respective month. accordance with the contract, applicable GeM GTC and NIT/CIL provisions. (b) Downtime Hours: Total duration (in hours) during wh ich the GPS device or associated tracking service remai ns non-operational or fails to transmit vehicle tracking d ata due to reasons attributable to the Service Provider. Downtime shall be calculated from the time of reporting /detection of failure until actual restoration of service. The above deductions/LD provisions shall be applicable throughout the contract period. 13. Responsibilities of NEC 13.1. NEC shall provide the list and identification details of the 17 vehicles and nominate authorized officers f or coordination and service verification. 13.2. The concerned mine/area authority shall provide or approve the mine boundary, prescribed routes and Geofence coordinates. 13.3. Monitoring of Geofence violations and taking necessary operational/security action shall remain the res ponsibility of the designated NEC officials in accordance with the applicable CIL SOP. 14. General Conditions 14.1. The quoted price shall include all costs relating to GPS devices, installation, SIM/network connectivity, s oftware, hosting, map services, maintenance, technical support, reporting and ICCC integration for the contra cted period. 14.2. The Service Provider shall comply with the applicable GeM terms and conditions, contractual requireme nts and CIL-approved SOP for GPS-based vehicle tracking and Geofencing. 13. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Scanned copies of documents as per following table are to be uploaded by all bidders during submission of bid."
+    },
+    {
+      "page": 12,
+      "text": "Sl. N Eligibility Criteria Information to be furnis Scanned copy of documents, to be uploade d by in support of information/ declaration o. hed by bidder in Bid Su furnished by the bidders against Eligibility bmission Confirmation S Criteria as Confirmatory Document heet 1. Bid Submission Confir Bidders are required to sub The scanned copy of documents will be evaluate mation Sheet mit the duly filled Bid Sub d against the data furnished in the Bid Submissio mission Confirmation (BSC) n Confirmation Sheet. Sheet in .pdf format as per Any Bid not accompanied by a BSC Sheet or illeg instruction provided in the ible or not properly filled up or if BSC Sheet is fou GeM Bid Document. The bi nd to be tampered with regards to GTE and Work d submission confirmation Experience, Average Annual Financial Turnover, sheet shall be provided by the Bid shall be considered as non-responsive an buyer in secured .xls forma d shall be rejected. t. 2. EMD/Bid Security NIL. As the Estimated Cost put to tender is below 5 la khs; the GeM portal doesn’t allow submission of EMD. Therefore, the bidders are not required to s ubmit EMD; however, they are required to submi t Bid Securing Declaration on their letter head as given in Annexure - XXIII. A bid not accompanied by Bid Securing Declaration as per the format gi ven in Annexure - XXIII or it is not properly filled and signed, the bid shall be considered as non-re sponsive and shall be rejected."
+    },
+    {
+      "page": 13,
+      "text": "3. The work experience:i. Confirmation in the form o For work experience Bidders required to submit Satisfactory Work Completion Certificate issued f Yes/No regarding submiss The bidder must have su by the employer against the Experience of simila ccessfully completed sim ion of similar work experie r work containing all the information as submitte ilar Services, over the pe nce as defined in the NIT. d in BSC Sheet. riod of last 7 completedi if. Description of qualifying ex inancial years and includ perience (similar nature). ing current financial year (on or before the liaii. Start date & end date of Work order, BOQ, TDS or any other document as st day of the month prec each qualifying experience deemed fit by TC regarding genuineness of the s ubmitted work experience certificate may be sou eding the month in whic (similar nature). ght during clarification along with deficient docu h the tender has been iinv. Work Order Number/Agree ments, if felt necessary by the Tender Committe vited) ment Number of each expe e. rience. v. Name & address of Employ er/Work Order Issuing auth ority of each experience. vi. In case the experience has been earned by the Bidder as an individual or propriet or of a Proprietorship firm o r LLP or company or any le gal entity, then 100% value of the experience will be considered against eligi bility. But if the experience has been earned by the Bi dder as a member in a Join t Venture firm/partner in a Partnership firm then the p roportionate value of exper ience in proportion to the a ctual share of Bidder in tha t Joint Venture firm/Partner ship firm will be considere d against eligibility. vii. Executed Value of work ag ainst each experience."
+    },
+    {
+      "page": 14,
+      "text": "4 Financial Turnover: Av1. Average Annual financial t Average annual Financial Turnover certificate ha erage Annual financial tu ving a Unique Document Identification Number ( urnover of last 3 (three) fin rnover during the last thr UDIN) as per eligibility criteria as mentioned abo st ee years, ending 31st M ancial years ending 31 M ve shall issue by a Practicing Chartered Account arch of the previous fina arch of the previous financi ant/Practicing Cost Accountant having a member ncial year, should be at l ship number with Institute of Chartered Account al year. east 3 times to the annu ants/Cost Accountant of India. alized estimated cost pu2. Name of the Chartered Acc t to tender. ountant/Cost Accountant is suing the Turnover certifica Any additional document may be sought during c te. larification along with deficient documents to ver 3. Membership Number of the ify the details as mentioned in the average annu al Financial Turnover certificate, if felt necessary Chartered Accountant/Cost by the Tender Committee. Accountant. 4. Date of certificate issued b The qualifying criteria parameter e.g. financial re sources (Turnover) of the individual members of y Chartered Accountant/Co the J.V. will be added together, for the relevant fi st Accountant. nancial year, and the total should not be less tha n as spelt out above. The requirement of Turnov 5. UDIN no. of the issued certi er under this clause shall he met in the proportio ficate. n given below; a. The lead member shall have at least 50% share i n the required Average Financial Turnover, to qu alify in the tender, b. All other individual members shall have at least 25% share in the required Average Financial Tur nover, to qualify in the tender. (In case of JV, Turnover certificate for each indivi dual members of JV needs to be submitted) 5. Integrity Pact (As app Confirmation in the form of Bidders are required to accept the pre-contract i Yes/No regarding acceptan ntegrity pact (Annexure – I) as available in the licable) ce of Integrity Pact as per f Bid document through Bid Submission Confirmati ormat prescribed in Bid Do on Sheet. This will be signed by the authorized si cument. gnatory of the Bidder (s) with name, designation and seal of the Company/firm at time of executio n of formal agreement. In case of JV, all member s shall sign at the time of agreement. 6. Code of Integrity for Confirmation in the form of Bidders are required to accept the Code of Integ Yes/No. regarding accepta rity for Public Procurement (CIPP) (Annexure – Public Procurement (C nce of Code of Integrity for III) as available in the Bid document through Bid IPP) Public Procurement (CIPP) Submission Confirmation Sheet. This will be sign as mentioned above in Bid ed by the authorized signatory of the Bidder (s) Document. with name, designation and seal of the Company /firm at time of execution of formal agreement. I n case of JV, all members shall sign at the time o f agreement."
+    },
+    {
+      "page": 15,
+      "text": "7. Public Procurement (P Confirmation in the form of i) If the estimated value of Procurement is upto R Yes/No regarding possessin s. 10 crores, all the Bidders (excluding Joint Vent reference to Make in I g of required document ind ure) at the time of bidding shall submit self-certi ndia) for “Local suppli icating percentage of local fication indicating the percentage of local conten er”. content. t in the offered items. They shall also give details of the location(s) at which the local value addition is made, in the undertaking (Annexure – IX). ii) In cases of procurement for a value, i.e., Estim ate Cost Value put to tender, in excess of Rs. 10 crores, all the Bidders (excluding JV) at the time of bidding shall be required to provide a certifica te with UDIN (Annexure – IX) in the name of bid der from the statutory auditor or cost auditor of t he company (in the case of companies) or from a practicing cost accountant or practicing chartere d accountant (in respect of suppliers other than companies) giving the percentage of local conte nt. The bidder is to provide the self-certification r egarding the details of the Location(s) at which t he local value addition is made. In case of JV, refer to Clause 2.1(n) above regard ing submission of relevant documents. 8. An Undertaking on bidde Confirmation in the form of Bidders are required to submit a scanned copy o Yes/No regarding submissi f undertaking on their letter head as per the for r’s letter head regarding on of the undertaking as pe mat given in the bid document (Annexure – VIII relatives as employees o r format. ) regarding relatives as employees of Company, f company, EPF/CMPF, St etc. atus of Debarment, CIPP etc. as per the format gi ven in Annexure - VIII."
+    },
+    {
+      "page": 16,
+      "text": "9. Legal Status of the bi Confirmation in the form of Any one of the following documents: dder: The Bidder should Yes/No regarding possessin g of required document wit1. Affidavit or any other document to pro be Individual/ Proprietors h respect to Legal Status o ve Proprietorship/Individual status of the Bidder. hip firm/ Partnership fir f the Bidder. 2. Copy of the Certificate of Registration i m/ Limited Liability Part ssued by the Registrar of Firms along with a cop nership/ Company regist y of the registered Partnership deed containing n ered under Companies A ame of partners. ct/Joint Venture or any o 3. Memorandum & Article of Association ther legal entity. with certificate of incorporation containing name of Bidder. 4. LLP Agreement with certificate of incor poration containing name of Bidder. 5. Any other legal entity to submit the rel evant document as per their constitution of busi ness in the eye of law and are entitled to enter in to such contracts. 6. Board Resolution / Power of Attorney o r any sort of legally acceptable document for the authority to submit the bid on behalf of the Bidd er. In case of JV, all the members of JV must submit any one of the above listed documents against e ach members of JV. Further, the following docum ents in respect of Legal Status of a JV Bidder shal l be uploaded by the JV Bidder: 1. Scanned copy of JV Agreement contain ing name of members and lead member, Power of Attorney to the lead member and share of eac h member etc. (Annexure – II). 2. Board Resolution / Power of attorney o r any sort of legally acceptable document (As ap plicable) of the respective JV members from the Board of Directors of the concerned Company, or from the members of the entity, or from the proprietor, or from limited liability partnership or any legal entity authorizing the signatory of JV a greement on behalf of them. 10. Permanent Account N Confirmation in the form of Scanned copy of PAN card/e-PAN issued by Inco umber (PAN): Permane Yes/NO for possessing PAN me Tax department, Govt. of India and Verifiable nt Account Number (PAN Card. Tax Residency Certificate of respective country f ) issued by Income Tax or each foreign member, as applicable. (In case Department and of JV, each Indian member of JV should possess P Verifiable Tax Residency AN and Verifiable Tax Residency Certificate of re Certificate of respective spective country for each foreign member, as ap country for each foreign plicable). member, as applicable."
+    },
+    {
+      "page": 17,
+      "text": "11. Goods and Services Tax Confirmation in the form of The following documents depending upon the st (Not Applicable for Exem Yes/No regarding possessin atus w.r.to GST as declared by Bidder in the GeM pted Services) g of required document as enlisted in Bid Document portal: The Bidder should be eit with respect to GST status her GST Registered Bidd of the Bidder er under regular scheme a. Status: GST registered Bidder under regular sc . heme OR GST Registered Bidder u Document: GST Registration Certificate (i.e. GS nder composition schem e. T identification Number) issued by appropriate a uthority of India. OR GST unregistered Bidder b. Status: GST registered Bidder under compositio n scheme. Document: GST Registration Certificate (i.e. GS T identification Number) issued by appropriate a uthority of India. c. Status: GST unregistered Bidder: Document: A Certificate with UDIN from a pract icing Cost Accountant or practicing Chartered Ac countant having membership number with Instit ute of Chartered Accountants/ Institute of Cost A ccountants of India certifying that the Bidder is G ST unregistered Bidder in compliance with the re levant GST rules of India. Documents to be submitted in case of JV Bidders : 1. In case of JV, Bidder should submit scanned copy of GST status of Lead Member. 2. In case Lead Member is not a GST registered, A Certificate with UDIN from a practicing Chartered Accountant/Cost Accountant having membership number with Institute of Chartered Accountants of India/ Institute of Cost Accountants of India ce rtifying that the Bidder is GST unregistered Bidd er in compliance with the relevant GST rules of I ndia.]"
+    },
+    {
+      "page": 18,
+      "text": "12. Letter of Bid as per the f Confirmation in the form of NIL Yes/No regarding unconditi ormat given in Annexure onal acceptance of the Lett VII. er of Bid as per format give n in the Bid Document. 13. Acceptance of GPS Vehic Confirmation in the form of NIL le Tracking Service (GPS Yes/No regarding acceptan VTS) with Geo-fencing a ce of the technical require nd ICCC Integration as p ments and Scope of Work f er format given in Annex or GPS VTS, including integ ure - XXIV. ration with the existing Inte grated Command and Cont rol Centre (ICCC) of NEC, a s per the Bid Document. Note: Only one file in .pdf format can be uploaded against each eligibility criteria. Any additional/ other relevant d ocuments to support the information/declaration furnished by bidder in BSC/online against eligibility criteria may a lso be attached by the bidder in the same file to be uploaded against respective eligibility criteria. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8213493",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 10-11-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 11-11-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Coal",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Coal India Limited",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Coal India Limited",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: North Eastern Coalfields",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :gm.nec.cil@coalindia.in Buyer Email id: munnakumar.cil@coalindia.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Hiring of Vehicle Tracking Services - 1-3; 0-5; Yes; 12 Months; Less than 5 Sec",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 1 Year(s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Certificate (Requested in ATC),Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "(( )) / Estimated Bid Value in INR (Inclusive of all taxes): 74460",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 14",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Primary Dashboard: 1-3 | Secondary Dashboard: 0-5 | Availability of Map for Tracking: Yes | Availability of Data Backup: 12 Months | Hot Start Time: Less than 5 Sec | Recording of Location information of Vehicles: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Horizontal Positional Accuracy: Less than 4 Meter | Provisioning of Activated SIM: By Service Provider | Provisioning of Hosting Server: By Service Provider | Alert/Notification Facility: Yes | Alert/Notification Method: Server Based and SMS Both | Alert Eventuality: Overspeeding , GPS disconnection , GPS Tampering Alarm , Geofence Breaches , Undue Stoppage , Route Deviation from Authorized routes , Vehicle back to loading area without entering to unloading area , Maintenance due | Report Provision: Reports in Map Live View , Reports in Map Historical View , Diagnostic History , Journey Report , Vehicle and Driver Profile , Reports in Map Live View consisting of Vehicle and Driver Profile",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Number of Tracking Device required for the Contract Period | Additional Requirement: 1 | Munna Kumar | 786181,Office of the General Manager, North Eastern Coalfields Coal India Limited, Margherita Assam | 17 | Duration in days during Contract Period : 365",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE 25% : The buyer can increase or decrease the contract quantity or contract duration up to 25 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 25 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 25 percent with the consent of the service provider 2. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 3. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 4. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 5. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address OFFICE OF THE AGENT TIKAK COLLIERY NORTH EASTERN COALFIELDS COAL INDIA LIMITED MARGHERITA, ASSAM-786181 . 6. Payment PAYMENT OF SALARIES AND WAGES: Service Provider is required to pay Salaries / wages of contracted staff deployed at buyer location first i.e. on their own and then claim payment from Buyer alongwith all statutory documents like, PF, ESIC etc. as well as the bank statement of payment done to staff. 7. Forms of EMD and PBG",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of COAL INDIA LIMITED A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract. 8. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Payment online through RTGS / internet banking also (besides PBG which is allowed as per GeM GTC). On-line payment shall be in Beneficiary name Coal India Limited Account No. 00000032887761865 IFSC Code SBIN0005787 Bank Name State Bank of India Branch address State Bank of India, Margherita, 786181 . Successful Bidder to indicate Contract number and name of Seller entity in the transaction details field at the time of on-line transfer. Bidder has to upload scanned copy / proof of the Online Payment Transfer in place of PBG within 15 days of award of contract. 9. Buyer Added Bid Specific SLA File Attachment Click here to view the file. 10. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 11. Buyer Added Bid Specific Scope Of Work(SOW) File Attachment Click here to view the file. 12. Buyer Added Bid Specific Scope Of Work(SOW) Text Clause(s) BUYER ADDED TENDER SPECIFIC TECHNICAL SPECIFICATIONS AND TERMS & CONDITIONS Description of Job: GPS-based Vehicle Tracking Service (GPS VTS) with virtual Geofencing for 17 vehicles 1. Scope of Service 1.1. The Service Provider shall provide GPS-based Vehicle Tracking Service (GPS VTS) with virtual Geofencing for 17 vehicles deployed at Tikak Colliery, NEC, for a period of 1 year. 1.2. The scope shall include GPS tracking devices, installation, commissioning, SIM connectivity, web-based d ashboard, software, map services, Geofencing, alerts, reports, data hosting, maintenance, technical support and integration with the existing ICCC platform of NEC/CIL. 1.3. The contract is for a complete vehicle tracking service and shall not be limited to the supply of standalon e GPS devices.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "2. GPS Tracking Devices and Installation 2.1. The Service Provider shall supply, install, configure, test and commission GPS/GNSS tracking devices in a ll 17 designated vehicles. 2.2. The GPS/GNSS tracking devices shall be rugged and suitable for operation in coal-mine environments, inc luding dust, vibration, temperature variations and exposure to rain and water splashes. The device enclosure shall have a minimum ingress protection rating of IP67 in accordance with IS/IEC 60529. Compliance shall be supported by the manufacturer's datasheet or a test certificate from a competent testing laboratory. 2.3. The Service Provider shall maintain a vehicle-wise register of GPS tracking devices, including device IDs, vehicle registration numbers, SIM details, installation, replacement and maintenance records. The system sh all also maintain a dated audit trail of device replacement, deactivation/restoration, vehicle-device mapping c hanges and configuration changes, wherever applicable to the supplied platform. Records of relevant user/ad ministrator activities shall also be maintained and made available to authorised NEC officials upon request. 2.4. Installation, removal, transfer and reinstallation of devices shall be carried out in coordination with the a uthorized NEC representative. 3. SIM Connectivity and Network Services 3.1. The Service Provider shall provide active 4G/5G-compatible SIM connectivity and available mobile networ k, for all 17 vehicles. 3.2. The SIM cards shall be capable of providing reliable mobile data connectivity for transmission of GPS loca tion, vehicle movement, speed, status and other required tracking information to the VTS platform. 3.3. The Service Provider shall ensure adequate network coverage and connectivity for reliable operation of t he tracking system in the operational area of Tikak Colliery. 3.4. All SIM charges, data charges, SMS charges, network subscription charges and other recurring connectivi ty expenses shall be included in the quoted contract price. No additional payment shall be made by NEC on t his account. 3.5. The Service Provider shall monitor connectivity and take necessary corrective action in case of SIM failur e, network-related issues or interruption in data transmission. 3.6. Where technically supported, the system shall provide a suitable fallback mechanism, such as store-and- forward or SMS-based transmission, during temporary unavailability of mobile data connectivity. 4. Web-Based Dashboard and Live Tracking 4.1. The Service Provider shall provide a centralized web-based dashboard for authorized NEC officials to mo nitor all 17 vehicles. 4.2. The system shall display the latest available vehicle location, vehicle identification, speed, movement st atus and time of the last location update. 4.3. The system shall provide near real-time tracking of vehicle movement, route travelled and stoppages. Fo r moving vehicles, location updates shall be provided at intervals of 5–10sec and at intervals of up to 3 minut es when parked. Upon resumption of movement, tracking updates shall resume within 5–10 seconds. Horizon tal positional accuracy shall be less than 4 metres.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "4.4. Authorized users shall be able to access the dashboard through commonly used web browsers. Mobile ac cess shall also be provided wherever supported by the offered solution. 5. Geofencing and Route Monitoring 5.1. The system shall support creation and configuration of virtual Geofences for the mine boundary, coal sto ckyards, weighbridges, loading/unloading points, workshops, parking areas and other locations as identified b y NEC. 5.2. The Service Provider shall configure the approved Geofence boundaries and routes in the VTS applicatio n based on the coordinates and instructions provided by the authorized NEC officials. 5.3. Any modification to approved Geofence boundaries or routes shall be carried out only on the instructions of the authorized NEC official and in accordance with the prescribed approval procedure. 5.4. The system shall generate alerts for Geofence entry/exit, unauthorized route deviation, overspeeding an d prolonged stoppage. 6. Alerts and Notifications 6.1. The system shall provide alerts for Geofence violations, route deviation, overspeeding, prolonged stoppa ge, device disconnection, GPS communication failure and tampering/power disconnection. 6.2. Alerts shall be available through the VTS dashboard and through SMS/e-mail or other supported notificati on mechanisms, as configured by NEC. 6.3. The system shall maintain event-wise records containing vehicle identification, date, time, event type an d available location details. 7. ICCC Integration 7.1. The GPS VTS shall be compatible and integrated with the existing ICCC platform of NEC/CIL. ICCC integrat ion shall be a mandatory deliverable under the contract. 7.2. The Service Provider shall coordinate with NEC and the authorized ICCC/system integrator to confirm the interface specifications, data fields, authentication requirements and integration procedure. 7.3. The Service Provider shall provide the necessary secure API/Web API or other interface approved by NEC for exchange of vehicle tracking data with the existing ICCC platform. 7.4. The integration shall provide vehicle identification, GPS coordinates, speed, direction, timestamp, vehicle status, Geofence events and route-deviation alerts. 7.5. Live vehicle locations shall be capable of display on the existing ICCC map/dashboard. Relevant alerts an d event data shall also be made available for display or processing in ICCC. 7.6. The Service Provider shall provide API documentation, data-field mapping, technical assistance and nece ssary support for integration testing and commissioning. Joint testing shall be carried out with the designated NEC/ICCC representatives to verify the agreed vehicle data, live location, vehicle status and alerts. Test resul ts and deficiencies, if any, shall be documented. The Service Provider shall rectify defects attributable to its GPS VTS solution or interface without additional cost and shall coordinate with the ICCC system integrator for resolution of integration issues involving the respective systems.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "7.7. The Service Provider shall cooperate with the authorized ICCC integrator and rectify integration-related is sues attributable to its VTS solution during the contract period. 7.8. All basic API access, integration configuration, testing, commissioning and necessary technical support s hall be included in the quoted contract price. No separate integration or API charges shall be payable by NEC . 8. Reports and Historical Data 8.1. The system shall provide vehicle-wise and consolidated reports, as applicable, covering vehicle moveme nt, journey history, historical map playback, stoppages, Geofence violations, route deviation, over speeding, device connectivity status and system diagnostics 8.2. Reports shall be viewable online and downloadable in commonly usable formats such as Excel/CSV and P DF, as supported by the application. 8.3. Historical tracking and event data shall be retained for a minimum period of 12 months. 8.4. The Service Provider shall provide the required tracking data and reports in a commonly usable electroni c format upon request and upon expiry/termination of the contract, without additional cost. 9. Hosting, Data Security and Confidentiality 9.1. The Service Provider shall provide and maintain reliable server hosting, database, map services, backup and recovery facilities throughout the contract period. The hosting infrastructure shall incorporate server red undancy and automatic failover arrangements to minimise service disruption. The Service Provider shall mai ntain regular data backups and suitable recovery arrangements to prevent loss of tracking data. The data ce ntre hosting the contract-related data shall be located in India, subject to applicable CIL/NEC information sec urity policies and contractual requirements. 10. Maintenance and Technical Support 10.1. The Service Provider shall provide comprehensive preventive and corrective maintenance of GPS devic es, SIM connectivity, software, hosting and ICCC integration throughout the contract period as per GEM contr act. 10.2. The Service Provider shall provide a designated helpdesk/contact person and an escalation mechanism for reporting and resolving complaints. 10.3. Faulty devices shall be repaired or replaced within the response and resolution timelines specified in th e NIT/GeM Contract. 10.4. The Service Provider shall maintain suitable spare devices and components to minimize downtime and ensure continuity of tracking services. 10.5. Preventive maintenance, software/firmware updates and necessary configuration corrections shall be c arried out as required to maintain satisfactory service performance. 10.6. The Service Provider shall submit service reports covering complaints, repairs/replacements, device av ailability, preventive maintenance and ICCC integration status as required by NEC. 11. Commissioning and Acceptance",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "11.1. Commissioning shall include installation and activation of all 17 GPS tracking devices, vehicle mapping, dashboard access, verification of device specifications and supporting documents, Geofence configuration, al ert testing, report verification and joint testing of the specified ICCC integration. The integration test shall verify the agreed vehicle data, live location, vehicle status and alerts. The Service Provider shall rectify defici encies attributable to its supplied system without additional cost before acceptance by the designated NEC a uthority. 11.2. The Service Provider shall demonstrate the agreed functions to the designated NEC/ICCC representativ es and rectify deficiencies identified during testing without additional cost. 11.3. The service shall be considered commissioned upon acceptance by the designated NEC authority in acc ordance with the contractual requirements. 12. Payment and Deductions 12.1. Payment shall be made in accordance with the billing cycle and payment terms specified in the NIT and GeM Contract, subject to satisfactory service certification and submission of a valid invoice. 12.2. Deductions / LD If Service Provider fails to deliver any or all of the Service(s) or fail to perform the services within the time per iod specified in the Contract, the Buyer shall, without prejudice to its other rights and remedies under and in accordance with the Contract Agreement, levy Liquidated Damages (LD) from payments which are due to the Service Provider. S l. NParticulars Penalty / Financial Implication o . ₹250 per affected GPS device per day shall be im 1 The Service Provider shall repair or replace faulty GPS dposed if the faulty GPS device is not restored withi n the stipulated 3 hours. The penalty shall continu . evices within 3 hours of reporting. e until restoration of service. The Service Provider shall remove, relocate or transfer 2 ₹500 per GPS device per day of delay beyond 24 GPS devices as directed by NEC within 24 hours of repo . hours. rting. The Service Provider shall ensure uninterrupted conne In case of failure of dashboard connectivity or ICC ctivity of the web-based dashboard and integration of 3 GPS VTS with NEC’s existing ICCC. Any failure attribut C integration attributable to the Service Provider, . able to the Service Provider affecting dashboard acce a penalty of ₹100 per day shall be imposed until r ss, vehicle tracking data or ICCC integration shall be r estoration of the affected service. ectified within 3 hours of reporting.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 11,
+      "quote": "Monthly Uptime Requirement: The Service Provider shal l maintain a minimum monthly uptime of 98% for each GPS device and its associated tracking service. Uptime shall be calculated separately for each GPS device on a calendar-month basis using the following formula: Upti me (%) = [(Total Scheduled Hours − Downtime Hours) / Total Scheduled Hours] × 100. Failure to maintain the prescribed minimum mont hly uptime of 98% shall be treated as non-complia Definitions: nce. Persistent or material failure may result in ac 4 tion, including forfeiture of Performance Security . (a) Total Scheduled Hours: 24 hours multiplied by the tor termination of contract, wherever applicable, in otal number of calendar days in the respective month. accordance with the contract, applicable GeM GTC and NIT/CIL provisions. (b) Downtime Hours: Total duration (in hours) during wh ich the GPS device or associated tracking service remai ns non-operational or fails to transmit vehicle tracking d ata due to reasons attributable to the Service Provider. Downtime shall be calculated from the time of reporting /detection of failure until actual restoration of service. The above deductions/LD provisions shall be applicable throughout the contract period. 13. Responsibilities of NEC 13.1. NEC shall provide the list and identification details of the 17 vehicles and nominate authorized officers f or coordination and service verification. 13.2. The concerned mine/area authority shall provide or approve the mine boundary, prescribed routes and Geofence coordinates. 13.3. Monitoring of Geofence violations and taking necessary operational/security action shall remain the res ponsibility of the designated NEC officials in accordance with the applicable CIL SOP. 14. General Conditions 14.1. The quoted price shall include all costs relating to GPS devices, installation, SIM/network connectivity, s oftware, hosting, map services, maintenance, technical support, reporting and ICCC integration for the contra cted period. 14.2. The Service Provider shall comply with the applicable GeM terms and conditions, contractual requireme nts and CIL-approved SOP for GPS-based vehicle tracking and Geofencing. 13. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Scanned copies of documents as per following table are to be uploaded by all bidders during submission of bid.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 12,
+      "quote": "Sl. N Eligibility Criteria Information to be furnis Scanned copy of documents, to be uploade d by in support of information/ declaration o. hed by bidder in Bid Su furnished by the bidders against Eligibility bmission Confirmation S Criteria as Confirmatory Document heet 1. Bid Submission Confir Bidders are required to sub The scanned copy of documents will be evaluate mation Sheet mit the duly filled Bid Sub d against the data furnished in the Bid Submissio mission Confirmation (BSC) n Confirmation Sheet. Sheet in .pdf format as per Any Bid not accompanied by a BSC Sheet or illeg instruction provided in the ible or not properly filled up or if BSC Sheet is fou GeM Bid Document. The bi nd to be tampered with regards to GTE and Work d submission confirmation Experience, Average Annual Financial Turnover, sheet shall be provided by the Bid shall be considered as non-responsive an buyer in secured .xls forma d shall be rejected. t. 2. EMD/Bid Security NIL. As the Estimated Cost put to tender is below 5 la khs; the GeM portal doesn’t allow submission of EMD. Therefore, the bidders are not required to s ubmit EMD; however, they are required to submi t Bid Securing Declaration on their letter head as given in Annexure - XXIII. A bid not accompanied by Bid Securing Declaration as per the format gi ven in Annexure - XXIII or it is not properly filled and signed, the bid shall be considered as non-re sponsive and shall be rejected.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 13,
+      "quote": "3. The work experience:i. Confirmation in the form o For work experience Bidders required to submit Satisfactory Work Completion Certificate issued f Yes/No regarding submiss The bidder must have su by the employer against the Experience of simila ccessfully completed sim ion of similar work experie r work containing all the information as submitte ilar Services, over the pe nce as defined in the NIT. d in BSC Sheet. riod of last 7 completedi if. Description of qualifying ex inancial years and includ perience (similar nature). ing current financial year (on or before the liaii. Start date & end date of Work order, BOQ, TDS or any other document as st day of the month prec each qualifying experience deemed fit by TC regarding genuineness of the s ubmitted work experience certificate may be sou eding the month in whic (similar nature). ght during clarification along with deficient docu h the tender has been iinv. Work Order Number/Agree ments, if felt necessary by the Tender Committe vited) ment Number of each expe e. rience. v. Name & address of Employ er/Work Order Issuing auth ority of each experience. vi. In case the experience has been earned by the Bidder as an individual or propriet or of a Proprietorship firm o r LLP or company or any le gal entity, then 100% value of the experience will be considered against eligi bility. But if the experience has been earned by the Bi dder as a member in a Join t Venture firm/partner in a Partnership firm then the p roportionate value of exper ience in proportion to the a ctual share of Bidder in tha t Joint Venture firm/Partner ship firm will be considere d against eligibility. vii. Executed Value of work ag ainst each experience.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 14,
+      "quote": "4 Financial Turnover: Av1. Average Annual financial t Average annual Financial Turnover certificate ha erage Annual financial tu ving a Unique Document Identification Number ( urnover of last 3 (three) fin rnover during the last thr UDIN) as per eligibility criteria as mentioned abo st ee years, ending 31st M ancial years ending 31 M ve shall issue by a Practicing Chartered Account arch of the previous fina arch of the previous financi ant/Practicing Cost Accountant having a member ncial year, should be at l ship number with Institute of Chartered Account al year. east 3 times to the annu ants/Cost Accountant of India. alized estimated cost pu2. Name of the Chartered Acc t to tender. ountant/Cost Accountant is suing the Turnover certifica Any additional document may be sought during c te. larification along with deficient documents to ver 3. Membership Number of the ify the details as mentioned in the average annu al Financial Turnover certificate, if felt necessary Chartered Accountant/Cost by the Tender Committee. Accountant. 4. Date of certificate issued b The qualifying criteria parameter e.g. financial re sources (Turnover) of the individual members of y Chartered Accountant/Co the J.V. will be added together, for the relevant fi st Accountant. nancial year, and the total should not be less tha n as spelt out above. The requirement of Turnov 5. UDIN no. of the issued certi er under this clause shall he met in the proportio ficate. n given below; a. The lead member shall have at least 50% share i n the required Average Financial Turnover, to qu alify in the tender, b. All other individual members shall have at least 25% share in the required Average Financial Tur nover, to qualify in the tender. (In case of JV, Turnover certificate for each indivi dual members of JV needs to be submitted) 5. Integrity Pact (As app Confirmation in the form of Bidders are required to accept the pre-contract i Yes/No regarding acceptan ntegrity pact (Annexure – I) as available in the licable) ce of Integrity Pact as per f Bid document through Bid Submission Confirmati ormat prescribed in Bid Do on Sheet. This will be signed by the authorized si cument. gnatory of the Bidder (s) with name, designation and seal of the Company/firm at time of executio n of formal agreement. In case of JV, all member s shall sign at the time of agreement. 6. Code of Integrity for Confirmation in the form of Bidders are required to accept the Code of Integ Yes/No. regarding accepta rity for Public Procurement (CIPP) (Annexure – Public Procurement (C nce of Code of Integrity for III) as available in the Bid document through Bid IPP) Public Procurement (CIPP) Submission Confirmation Sheet. This will be sign as mentioned above in Bid ed by the authorized signatory of the Bidder (s) Document. with name, designation and seal of the Company /firm at time of execution of formal agreement. I n case of JV, all members shall sign at the time o f agreement.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 15,
+      "quote": "7. Public Procurement (P Confirmation in the form of i) If the estimated value of Procurement is upto R Yes/No regarding possessin s. 10 crores, all the Bidders (excluding Joint Vent reference to Make in I g of required document ind ure) at the time of bidding shall submit self-certi ndia) for “Local suppli icating percentage of local fication indicating the percentage of local conten er”. content. t in the offered items. They shall also give details of the location(s) at which the local value addition is made, in the undertaking (Annexure – IX). ii) In cases of procurement for a value, i.e., Estim ate Cost Value put to tender, in excess of Rs. 10 crores, all the Bidders (excluding JV) at the time of bidding shall be required to provide a certifica te with UDIN (Annexure – IX) in the name of bid der from the statutory auditor or cost auditor of t he company (in the case of companies) or from a practicing cost accountant or practicing chartere d accountant (in respect of suppliers other than companies) giving the percentage of local conte nt. The bidder is to provide the self-certification r egarding the details of the Location(s) at which t he local value addition is made. In case of JV, refer to Clause 2.1(n) above regard ing submission of relevant documents. 8. An Undertaking on bidde Confirmation in the form of Bidders are required to submit a scanned copy o Yes/No regarding submissi f undertaking on their letter head as per the for r’s letter head regarding on of the undertaking as pe mat given in the bid document (Annexure – VIII relatives as employees o r format. ) regarding relatives as employees of Company, f company, EPF/CMPF, St etc. atus of Debarment, CIPP etc. as per the format gi ven in Annexure - VIII.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 16,
+      "quote": "9. Legal Status of the bi Confirmation in the form of Any one of the following documents: dder: The Bidder should Yes/No regarding possessin g of required document wit1. Affidavit or any other document to pro be Individual/ Proprietors h respect to Legal Status o ve Proprietorship/Individual status of the Bidder. hip firm/ Partnership fir f the Bidder. 2. Copy of the Certificate of Registration i m/ Limited Liability Part ssued by the Registrar of Firms along with a cop nership/ Company regist y of the registered Partnership deed containing n ered under Companies A ame of partners. ct/Joint Venture or any o 3. Memorandum & Article of Association ther legal entity. with certificate of incorporation containing name of Bidder. 4. LLP Agreement with certificate of incor poration containing name of Bidder. 5. Any other legal entity to submit the rel evant document as per their constitution of busi ness in the eye of law and are entitled to enter in to such contracts. 6. Board Resolution / Power of Attorney o r any sort of legally acceptable document for the authority to submit the bid on behalf of the Bidd er. In case of JV, all the members of JV must submit any one of the above listed documents against e ach members of JV. Further, the following docum ents in respect of Legal Status of a JV Bidder shal l be uploaded by the JV Bidder: 1. Scanned copy of JV Agreement contain ing name of members and lead member, Power of Attorney to the lead member and share of eac h member etc. (Annexure – II). 2. Board Resolution / Power of attorney o r any sort of legally acceptable document (As ap plicable) of the respective JV members from the Board of Directors of the concerned Company, or from the members of the entity, or from the proprietor, or from limited liability partnership or any legal entity authorizing the signatory of JV a greement on behalf of them. 10. Permanent Account N Confirmation in the form of Scanned copy of PAN card/e-PAN issued by Inco umber (PAN): Permane Yes/NO for possessing PAN me Tax department, Govt. of India and Verifiable nt Account Number (PAN Card. Tax Residency Certificate of respective country f ) issued by Income Tax or each foreign member, as applicable. (In case Department and of JV, each Indian member of JV should possess P Verifiable Tax Residency AN and Verifiable Tax Residency Certificate of re Certificate of respective spective country for each foreign member, as ap country for each foreign plicable). member, as applicable.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 17,
+      "quote": "11. Goods and Services Tax Confirmation in the form of The following documents depending upon the st (Not Applicable for Exem Yes/No regarding possessin atus w.r.to GST as declared by Bidder in the GeM pted Services) g of required document as enlisted in Bid Document portal: The Bidder should be eit with respect to GST status her GST Registered Bidd of the Bidder er under regular scheme a. Status: GST registered Bidder under regular sc . heme OR GST Registered Bidder u Document: GST Registration Certificate (i.e. GS nder composition schem e. T identification Number) issued by appropriate a uthority of India. OR GST unregistered Bidder b. Status: GST registered Bidder under compositio n scheme. Document: GST Registration Certificate (i.e. GS T identification Number) issued by appropriate a uthority of India. c. Status: GST unregistered Bidder: Document: A Certificate with UDIN from a pract icing Cost Accountant or practicing Chartered Ac countant having membership number with Instit ute of Chartered Accountants/ Institute of Cost A ccountants of India certifying that the Bidder is G ST unregistered Bidder in compliance with the re levant GST rules of India. Documents to be submitted in case of JV Bidders : 1. In case of JV, Bidder should submit scanned copy of GST status of Lead Member. 2. In case Lead Member is not a GST registered, A Certificate with UDIN from a practicing Chartered Accountant/Cost Accountant having membership number with Institute of Chartered Accountants of India/ Institute of Cost Accountants of India ce rtifying that the Bidder is GST unregistered Bidd er in compliance with the relevant GST rules of I ndia.]",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 18,
+      "quote": "12. Letter of Bid as per the f Confirmation in the form of NIL Yes/No regarding unconditi ormat given in Annexure onal acceptance of the Lett VII. er of Bid as per format give n in the Bid Document. 13. Acceptance of GPS Vehic Confirmation in the form of NIL le Tracking Service (GPS Yes/No regarding acceptan VTS) with Geo-fencing a ce of the technical require nd ICCC Integration as p ments and Scope of Work f er format given in Annex or GPS VTS, including integ ure - XXIV. ration with the existing Inte grated Command and Cont rol Centre (ICCC) of NEC, a s per the Bid Document. Note: Only one file in .pdf format can be uploaded against each eligibility criteria. Any additional/ other relevant d ocuments to support the information/declaration furnished by bidder in BSC/online against eligibility criteria may a lso be attached by the bidder in the same file to be uploaded against respective eligibility criteria. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096076"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 17",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

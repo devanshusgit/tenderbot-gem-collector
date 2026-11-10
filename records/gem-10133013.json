@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8245651",
   "title": "Multipara Monitor - Low End (V2)",
   "description": "Multipara Monitor - Low End (V2)",
-  "organisation": "Health Department Andaman & Nicobar",
-  "ministry": "",
+  "organisation": "N/a",
+  "ministry": "Andaman & Nicobar",
   "department": "Health Department Andaman & Nicobar",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Multipara Monitor - Low End (V2)",
   "quantity": 3,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-09T15:49:57+05:30",
   "closing_at": "2026-11-19T16:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10133013"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/mq9DpdRY6TwM5ZZVCocZXkRQYIIbZpxcwhoy1fUeeCc",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261109",
+      "page": 12
     }
   ],
   "tags": [
@@ -34,5 +49,637 @@
   ],
   "source_fetched_at": "2026-11-10T03:37:07.364Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-20T16:00:00+05:30",
+  "office": "Aniims",
+  "buyer_email": "buyer2.hdan.an@gembuyer.in",
+  "emd_required": false,
+  "bidder_turnover_lakhs": 1,
+  "oem_turnover_lakhs": 1,
+  "experience_years": 2,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-10T15:54:50.218521+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "3083e5e1574765f1c7a9b60eca55b91834a70599d1eab70e30785a698f2de1af",
+  "document_pages": 12,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 1 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 1 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 2 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 30 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 8,
+      "consignee": "Mahasweta Goswami",
+      "address": "744104,DHS ANNEXE BUILDING, OLD RBD BUILDING, ATLANTA POINT, PORT BLAIR, SOUTH ANDAMAN",
+      "quantity": 3,
+      "quantity_label": "Quantity",
+      "delivery_days": 60
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Type of Monitor",
+          "value": "Preconfigured"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Monitoring Parameters",
+          "value": "ECG, HR, NIBP, PR, Respiratory rate, SpO2, Body temperature"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Noise level ( in dB )",
+          "value": "<=50"
+        },
+        {
+          "group": "ECG PARAMETERS",
+          "parameter": "Number of leads of ECG",
+          "value": "5"
+        },
+        {
+          "group": "ECG PARAMETERS",
+          "parameter": "12-lead interpretation for ECG",
+          "value": "No"
+        },
+        {
+          "group": "ECG PARAMETERS",
+          "parameter": "Arrhythmia detection and analysis",
+          "value": "Yes"
+        },
+        {
+          "group": "ECG PARAMETERS",
+          "parameter": "Number of leads analyzed for ECG in single time",
+          "value": "7"
+        },
+        {
+          "group": "ECG PARAMETERS",
+          "parameter": "Heart rate measurement range (atleast)",
+          "value": "30 - 250 BPM"
+        },
+        {
+          "group": "ECG PARAMETERS",
+          "parameter": "Accuracy",
+          "value": "± 3 BPM"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Minimum gradation",
+          "value": "1 BPM"
+        },
+        {
+          "group": "RESPIRATION PARAMETERS",
+          "parameter": "Respiration Method",
+          "value": "Impedance Pneumography"
+        },
+        {
+          "group": "RESPIRATION PARAMETERS",
+          "parameter": "Display waveform of respiration",
+          "value": "Yes"
+        },
+        {
+          "group": "RESPIRATION PARAMETERS",
+          "parameter": "Threshold control for respiration",
+          "value": "Yes"
+        },
+        {
+          "group": "RESPIRATION PARAMETERS",
+          "parameter": "Respiration rate measurement range (atleast)",
+          "value": "0-100 BPM"
+        },
+        {
+          "group": "RESPIRATION PARAMETERS",
+          "parameter": "Minimum gradation of respiratory measurement",
+          "value": "1 BPM"
+        },
+        {
+          "group": "PULSE OXIMETRY PARAMETERS",
+          "parameter": "Measurement technique (Declaration of the measurement technique by the seller at the time of bid submission / supply)",
+          "value": "Low Perfusion Technology with Motion artifact detection"
+        },
+        {
+          "group": "PULSE OXIMETRY PARAMETERS",
+          "parameter": "Probe type provided",
+          "value": "Adult"
+        },
+        {
+          "group": "PULSE OXIMETRY PARAMETERS",
+          "parameter": "Probe usage",
+          "value": "Reusable"
+        },
+        {
+          "group": "PULSE OXIMETRY PARAMETERS",
+          "parameter": "SPO2 measurement range",
+          "value": "1 - 100%"
+        },
+        {
+          "group": "PULSE OXIMETRY PARAMETERS",
+          "parameter": "Accuracy of SPO2 measurement",
+          "value": "± 2% or better"
+        },
+        {
+          "group": "PULSE OXIMETRY PARAMETERS",
+          "parameter": "Minimum Gradation",
+          "value": "1%"
+        },
+        {
+          "group": "NIBP PARAMETERS",
+          "parameter": "Measurement technique for NIBP",
+          "value": "Step-deflation Oscillometric / Linear Inflation"
+        },
+        {
+          "group": "NIBP PARAMETERS",
+          "parameter": "Blood pressure monitoring range",
+          "value": "30 - 300 mm/Hg"
+        },
+        {
+          "group": "NIBP PARAMETERS",
+          "parameter": "Gradation",
+          "value": "1 mm/Hg"
+        },
+        {
+          "group": "TEMPERATURE PARAMETERS",
+          "parameter": "Number of channels for temperature",
+          "value": "2"
+        },
+        {
+          "group": "TEMPERATURE PARAMETERS",
+          "parameter": "Probe type",
+          "value": "Skin"
+        },
+        {
+          "group": "TEMPERATURE PARAMETERS",
+          "parameter": "Temperature probe type",
+          "value": "Reusable"
+        },
+        {
+          "group": "TEMPERATURE PARAMETERS",
+          "parameter": "Temperature probe range (atleast)",
+          "value": "30 - 40 degree"
+        },
+        {
+          "group": "TEMPERATURE PARAMETERS",
+          "parameter": "Minimum gradation of temperature probe",
+          "value": "1 degree Celcius"
+        },
+        {
+          "group": "TEMPERATURE PARAMETERS",
+          "parameter": "Accuracy in %",
+          "value": "± 1%"
+        },
+        {
+          "group": "TEMPERATURE PARAMETERS",
+          "parameter": "Duration of time of full disclosure of patient data ( in hour )",
+          "value": "48 Or higher"
+        },
+        {
+          "group": "TEMPERATURE PARAMETERS",
+          "parameter": "Operating conditions",
+          "value": "Capable of operating continuously in ambient temperature of 0 to 50 degree celcius and relative humidity of 15 to 90% in ideal circumstances"
+        },
+        {
+          "group": "TEMPERATURE PARAMETERS",
+          "parameter": "Duration of time of trending ( in hour )",
+          "value": "48, 72 Or higher"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": "ALARMS",
+          "parameter": "Operator can set audio visual alarm levels for low or high levels of each parameter independently",
+          "value": "Yes"
+        },
+        {
+          "group": "ALARMS",
+          "parameter": "Systolic BP - low and high",
+          "value": "Yes"
+        },
+        {
+          "group": "ALARMS",
+          "parameter": "Diastolic BP - low and high",
+          "value": "Yes"
+        },
+        {
+          "group": "ALARMS",
+          "parameter": "Mean BP - low and high",
+          "value": "Yes"
+        },
+        {
+          "group": "ALARMS",
+          "parameter": "Heart rate - low and high",
+          "value": "Yes"
+        },
+        {
+          "group": "ALARMS",
+          "parameter": "SPO2 - low and high",
+          "value": "Yes"
+        },
+        {
+          "group": "ALARMS",
+          "parameter": "Respiratory rate - low and high",
+          "value": "Yes"
+        },
+        {
+          "group": "ALARMS",
+          "parameter": "Temperature - low and high",
+          "value": "Yes"
+        },
+        {
+          "group": "ALARMS",
+          "parameter": "Duration of alarm silence in seconds",
+          "value": "120"
+        },
+        {
+          "group": "ALARMS",
+          "parameter": "Alarm Volume should be adjustable",
+          "value": "Yes"
+        },
+        {
+          "group": "ALARMS",
+          "parameter": "Activating silence of alarm",
+          "value": "Yes"
+        },
+        {
+          "group": "ALARMS",
+          "parameter": "Type of alarms",
+          "value": "Suspension of all alarms, Cuff disconnect alarm, Alarm for inflation / deflation errors, Low battery voltage indication, Sensor / wire / probe disconnection alarm"
+        },
+        {
+          "group": "DISPLAY PARAMETERS",
+          "parameter": "Type of display",
+          "value": "LCD / LED / TFT"
+        },
+        {
+          "group": "DISPLAY PARAMETERS",
+          "parameter": "Display Size,inch with ±5% tolerance",
+          "value": "10, 12, 15, 17 Or higher"
+        },
+        {
+          "group": "DISPLAY PARAMETERS",
+          "parameter": "User Interface of display",
+          "value": "Rotary knob, Touchscreen, Rotary knob and Touchscreen Or higher"
+        },
+        {
+          "group": "DISPLAY PARAMETERS",
+          "parameter": "Inbuilt thermal Recorder (Printer)",
+          "value": "No"
+        },
+        {
+          "group": "DISPLAY PARAMETERS",
+          "parameter": "Display must allow easy viewing at all ambient light levels",
+          "value": "Yes"
+        },
+        {
+          "group": "NETWORKING PARAMETERS",
+          "parameter": "Ethernet port",
+          "value": "Yes"
+        },
+        {
+          "group": "NETWORKING PARAMETERS",
+          "parameter": "Wireless",
+          "value": "No"
+        },
+        {
+          "group": "NETWORKING PARAMETERS",
+          "parameter": "USB port",
+          "value": "Yes"
+        },
+        {
+          "group": "NETWORKING PARAMETERS",
+          "parameter": "Connectivity provision with Central Nursing Station",
+          "value": "Yes"
+        },
+        {
+          "group": "STANDARD ACCESSORIES",
+          "parameter": "Number of adult probe provided",
+          "value": "1"
+        },
+        {
+          "group": "STANDARD ACCESSORIES",
+          "parameter": "Number of paediatric probe provided",
+          "value": "Not provided"
+        },
+        {
+          "group": "STANDARD ACCESSORIES",
+          "parameter": "Number of neonatal probe provided",
+          "value": "Not provided"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Number of ECG cable provided",
+          "value": "1"
+        },
+        {
+          "group": null,
+          "parameter": "Number of Skin temperature probe provided",
+          "value": "1"
+        },
+        {
+          "group": null,
+          "parameter": "Number of Rectal temperature probe provided",
+          "value": "Not provided"
+        },
+        {
+          "group": null,
+          "parameter": "Number of Esophageal temperature probe provided",
+          "value": "Not provided"
+        },
+        {
+          "group": null,
+          "parameter": "Accessories to wall mount the monitor",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Provided with protective case for clean storage and safe transport",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Cuff provided",
+          "value": "Adult"
+        },
+        {
+          "group": null,
+          "parameter": "Cuff size provided",
+          "value": "Medium"
+        },
+        {
+          "group": null,
+          "parameter": "Number of Adult NIBP cuffs provided",
+          "value": "1"
+        },
+        {
+          "group": null,
+          "parameter": "Number of Paediatric NIBP cuffs provided",
+          "value": "Not provided"
+        },
+        {
+          "group": null,
+          "parameter": "Size of Disposable Neonate NIBP cuffs provided (in cm)",
+          "value": "Not provided"
+        },
+        {
+          "group": null,
+          "parameter": "Number of Disposable Neonate NIBP cuffs provided",
+          "value": "Not provided"
+        },
+        {
+          "group": "POWER REQUIREMENTS",
+          "parameter": "Power supply",
+          "value": "Single Phase 220 - 240, 50/60 Hz"
+        },
+        {
+          "group": "POWER REQUIREMENTS",
+          "parameter": "Mains cable to be atleast 3m length Indian type 3 pin",
+          "value": "Yes"
+        },
+        {
+          "group": "POWER REQUIREMENTS",
+          "parameter": "Backup time in minutes",
+          "value": ">=120"
+        },
+        {
+          "group": "CERTIFICATIONS",
+          "parameter": "Compliance to Drugs and Cosmetic Act 1940 and Rules including Medical Device Rules (MDR) 2017 as amended till date",
+          "value": "Yes"
+        },
+        {
+          "group": "CERTIFICATIONS",
+          "parameter": "Availability of valid Medical Device license or the product issued from the competent authority",
+          "value": "Yes"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "Warranty (in year)",
+          "value": "1, 2 Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 9,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address Department of Obsteritics and Gynaecology ( Obg & Gynae), G.B. Pant Hospital Atlanta Point, Sri Vijaya Puram South Andaman Andaman & Nicobar Islands Pin-744101"
+    },
+    {
+      "page": 10,
+      "text": ". 3. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 4. Generic Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller. 5. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 6. Generic OPTIONAL SITE VISIT: 1. The Bidder is advised to visit and examine the installation site and its surroundings and obtain for itself on its own responsibility all information that may be necessary for preparing the Bid. The costs of visiting the site shall be borne by the Bidder. Cost of Visiting the site shall be entirely borne by the bidder. 2. The Bidder representative shall be allowed entry upon consignee premises for such visits, only upon the express conditions that the Bidder will release and indemnify the Buyer and Consignee against all liabilities arising out of such visit including death or injury, loss or damage to property, and any other loss, damage, costs, and expenses incurred as a result of such visit. 3. The Bidder shall not be entitled to hold any claim against Buyer for noncompliance due to lack of any kind of pre-requisite information as it is the sole responsibility of the Bidder to obtain all the necessary information with regard to site, surrounding, working conditions, weather etc. on its own before submission of the bid. 7. Generic Scope of supply includes Training: Number of employees to be trained 2 , Place for Training Department of Obg and Gynae and Duration of training 2 days. 8. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 9. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 10. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support."
+    },
+    {
+      "page": 11,
+      "text": "11. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 12. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. ECG Cable : Minimum 02 is required. 2. NIBP Adult Cuff : 03 Numbers in different sizes. Medium Size (01 Number), Lar ge Size (01 Number), Xl Size (01 Number). 3.The bidder or its OEM must have supplied atleast 02 Nos same or similar categ ory product to any Central/ Govt. organization/ PSU in the last 02 financial years. Documentary evidence should be submitted along with the bid. 4. . The Successful bidder should provide 02 years of warranty. 5. The Bidder should submit valid Manufacturing/ Import Medical Device License Number. 6. The availability of test report for each supplied batch/product as per Medical D evice Rule (MDR) 2017 amendment till date. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8245651",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133013"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 19-11-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133013"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 20-11-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133013"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133013"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Andaman & Nicobar",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133013"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Health Department Andaman & Nicobar",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133013"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: N/a",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133013"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Aniims",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133013"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :diraniims.and@nic.in Buyer Email id: buyer2.hdan.an@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133013"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 3",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133013"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Multipara Monitor - Low End (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133013"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 1 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133013"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 1 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133013"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 2 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133013"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133013"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133013"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133013"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133013"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 30 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133013"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133013"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133013"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133013"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Type of Monitor: Preconfigured | Monitoring Parameters: ECG, HR, NIBP, PR, Respiratory rate, SpO2, Body temperature | Noise level ( in dB ): <=50 | Number of leads of ECG: 5 | 12-lead interpretation for ECG: No | Arrhythmia detection and analysis: Yes | Number of leads analyzed for ECG in single time: 7 | Heart rate measurement range (atleast): 30 - 250 BPM | Accuracy: ± 3 BPM",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133013"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Minimum gradation: 1 BPM | Respiration Method: Impedance Pneumography | Display waveform of respiration: Yes | Threshold control for respiration: Yes | Respiration rate measurement range (atleast): 0-100 BPM | Minimum gradation of respiratory measurement: 1 BPM | Measurement technique (Declaration of the measurement technique by the seller at the time of bid submission / supply): Low Perfusion Technology with Motion artifact detection | Probe type provided: Adult | Probe usage: Reusable | SPO2 measurement range: 1 - 100% | Accuracy of SPO2 measurement: ± 2% or better | Minimum Gradation: 1% | Measurement technique for NIBP: Step-deflation Oscillometric / Linear Inflation | Blood pressure monitoring range: 30 - 300 mm/Hg | Gradation: 1 mm/Hg | Number of channels for temperature: 2 | Probe type: Skin | Temperature probe type: Reusable | Temperature probe range (atleast): 30 - 40 degree | Minimum gradation of temperature probe: 1 degree Celcius | Accuracy in %: ± 1% | Duration of time of full disclosure of patient data ( in hour ): 48 Or higher | Operating conditions: Capable of operating continuously in ambient temperature of 0 to 50 degree celcius and relative humidity of 15 to 90% in ideal circumstances | Duration of time of trending ( in hour ): 48, 72 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133013"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Operator can set audio visual alarm levels for low or high levels of each parameter independently: Yes | Systolic BP - low and high: Yes | Diastolic BP - low and high: Yes | Mean BP - low and high: Yes | Heart rate - low and high: Yes | SPO2 - low and high: Yes | Respiratory rate - low and high: Yes | Temperature - low and high: Yes | Duration of alarm silence in seconds: 120 | Alarm Volume should be adjustable: Yes | Activating silence of alarm: Yes | Type of alarms: Suspension of all alarms, Cuff disconnect alarm, Alarm for inflation / deflation errors, Low battery voltage indication, Sensor / wire / probe disconnection alarm | Type of display: LCD / LED / TFT | Display Size,inch with ±5% tolerance: 10, 12, 15, 17 Or higher | User Interface of display: Rotary knob, Touchscreen, Rotary knob and Touchscreen Or higher | Inbuilt thermal Recorder (Printer): No | Display must allow easy viewing at all ambient light levels: Yes | Ethernet port: Yes | Wireless: No | USB port: Yes | Connectivity provision with Central Nursing Station: Yes | Number of adult probe provided: 1 | Number of paediatric probe provided: Not provided | Number of neonatal probe provided: Not provided",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133013"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 7,
+      "quote": "Number of ECG cable provided: 1 | Number of Skin temperature probe provided: 1 | Number of Rectal temperature probe provided: Not provided | Number of Esophageal temperature probe provided: Not provided | Accessories to wall mount the monitor: Yes | Provided with protective case for clean storage and safe transport: Yes | Cuff provided: Adult | Cuff size provided: Medium | Number of Adult NIBP cuffs provided: 1 | Number of Paediatric NIBP cuffs provided: Not provided | Size of Disposable Neonate NIBP cuffs provided (in cm): Not provided | Number of Disposable Neonate NIBP cuffs provided: Not provided | Power supply: Single Phase 220 - 240, 50/60 Hz | Mains cable to be atleast 3m length Indian type 3 pin: Yes | Backup time in minutes: >=120 | Compliance to Drugs and Cosmetic Act 1940 and Rules including Medical Device Rules (MDR) 2017 as amended till date: Yes | Availability of valid Medical Device license or the product issued from the competent authority: Yes | Warranty (in year): 1, 2 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133013"
+    },
+    {
+      "field": "consignees",
+      "page": 8,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Mahasweta Goswami | 744104,DHS ANNEXE BUILDING, OLD RBD BUILDING, ATLANTA POINT, PORT BLAIR, SOUTH ANDAMAN | 3 | 60",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133013"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address Department of Obsteritics and Gynaecology ( Obg & Gynae), G.B. Pant Hospital Atlanta Point, Sri Vijaya Puram South Andaman Andaman & Nicobar Islands Pin-744101",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133013"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": ". 3. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 4. Generic Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller. 5. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 6. Generic OPTIONAL SITE VISIT: 1. The Bidder is advised to visit and examine the installation site and its surroundings and obtain for itself on its own responsibility all information that may be necessary for preparing the Bid. The costs of visiting the site shall be borne by the Bidder. Cost of Visiting the site shall be entirely borne by the bidder. 2. The Bidder representative shall be allowed entry upon consignee premises for such visits, only upon the express conditions that the Bidder will release and indemnify the Buyer and Consignee against all liabilities arising out of such visit including death or injury, loss or damage to property, and any other loss, damage, costs, and expenses incurred as a result of such visit. 3. The Bidder shall not be entitled to hold any claim against Buyer for noncompliance due to lack of any kind of pre-requisite information as it is the sole responsibility of the Bidder to obtain all the necessary information with regard to site, surrounding, working conditions, weather etc. on its own before submission of the bid. 7. Generic Scope of supply includes Training: Number of employees to be trained 2 , Place for Training Department of Obg and Gynae and Duration of training 2 days. 8. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 9. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 10. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133013"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 11,
+      "quote": "11. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 12. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. ECG Cable : Minimum 02 is required. 2. NIBP Adult Cuff : 03 Numbers in different sizes. Medium Size (01 Number), Lar ge Size (01 Number), Xl Size (01 Number). 3.The bidder or its OEM must have supplied atleast 02 Nos same or similar categ ory product to any Central/ Govt. organization/ PSU in the last 02 financial years. Documentary evidence should be submitted along with the bid. 4. . The Successful bidder should provide 02 years of warranty. 5. The Bidder should submit valid Manufacturing/ Import Medical Device License Number. 6. The availability of test report for each supplied batch/product as per Medical D evice Rule (MDR) 2017 amendment till date. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133013"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

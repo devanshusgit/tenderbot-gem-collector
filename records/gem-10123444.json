@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8237120",
   "title": "Entry and Mid Level Desktop Computer",
   "description": "Entry and Mid Level Desktop Computer",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "East Central Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Entry and Mid Level Desktop Computer",
   "quantity": 20,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-09T16:52:27+05:30",
   "closing_at": "2026-11-19T17:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10123444"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/5Jv0D7V1QdlJ4lPvGp3eF8BotrqpJNALNXDREq_vwGM",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261109",
+      "page": 11
     }
   ],
   "tags": [
@@ -34,5 +49,366 @@
   ],
   "source_fetched_at": "2026-11-09T18:58:13.489Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-20T17:00:00+05:30",
+  "office": "Ecr Stores",
+  "buyer_email": "ajay.sonker@gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "120 (Days)",
+  "estimated_bid_value": 999000,
+  "source_document_fetched_at": "2026-11-10T02:32:34.229560+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "1ae9e35fb1b24bb3d289c669f4aa023827c15071966b9b6dd85a48a5624ae2ed",
+  "document_pages": 11,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Tapan Halder",
+      "address": "851126,O/o- Commanding officer, No. 11, BN/RPSF/GHZ, Garhara, Barauni (Bihar), Pin- 851126",
+      "quantity": 20,
+      "quantity_label": "Quantity",
+      "delivery_days": 45
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "PROCESSOR",
+          "parameter": "Description of Stores",
+          "value": "Desktop Computer with Table Mount Monitor System with Compatible Chipset as per Processor Make with Minimum 6 USB Port"
+        },
+        {
+          "group": "PROCESSOR",
+          "parameter": "Computer Type",
+          "value": "Entry Level"
+        },
+        {
+          "group": "PROCESSOR",
+          "parameter": "Processor Number",
+          "value": "AMD Ryzen 3 5300G, Intel Core i3 12100 Or higher"
+        },
+        {
+          "group": "MOTHERBOARD",
+          "parameter": "Expansion Slots (PCIe x 1)",
+          "value": "1, 2 Or higher"
+        },
+        {
+          "group": "MOTHERBOARD",
+          "parameter": "Expansion Slots (PCIe x 16)",
+          "value": "1, 2 Or higher"
+        },
+        {
+          "group": "MOTHERBOARD",
+          "parameter": "Expansion Slots (M Dot 2) for SSD",
+          "value": "1, 2 Or higher"
+        },
+        {
+          "group": "MOTHERBOARD",
+          "parameter": "Expansion Slots (M Dot 2) for WiFi",
+          "value": "1 Or higher"
+        },
+        {
+          "group": "MOTHERBOARD",
+          "parameter": "Trusted Platform Module",
+          "value": "Discrete TPM 2.0"
+        },
+        {
+          "group": "GRAPHICS",
+          "parameter": "Graphics Type",
+          "value": "Integrated"
+        },
+        {
+          "group": "OPERATING SYSTEM",
+          "parameter": "Factory Pre-loaded Operating System by Desktop OEM",
+          "value": "Window 11 Professional"
+        },
+        {
+          "group": "MEMORY (RAM)",
+          "parameter": "RAM Size (Memory Card/Module) (in GB) (Capacity to be installed in the System)",
+          "value": "16, 32 Or higher"
+        },
+        {
+          "group": "MEMORY (RAM)",
+          "parameter": "Memory Expandable Up To (in GB)",
+          "value": "64, 128 Or higher"
+        },
+        {
+          "group": "STORAGE",
+          "parameter": "Type of Storage Installed with the System",
+          "value": "NVMe-SSD Plus HDD@5400 RPM"
+        },
+        {
+          "group": "STORAGE",
+          "parameter": "SSD - Storage Capacity (in GB)",
+          "value": "512, 1024, 2048 Or higher"
+        },
+        {
+          "group": "STORAGE",
+          "parameter": "HDD - Storage Capacity (in GB)",
+          "value": "1000, 2000 Or higher"
+        },
+        {
+          "group": "BAYS AVAILABILITY",
+          "parameter": "Number of Internal Bays Available, Size 2 Point 5 Inch",
+          "value": "1, 2 Or higher"
+        },
+        {
+          "group": "CABINET",
+          "parameter": "Cabinet Form Factor",
+          "value": "Tower (More than 13 to 26 Liters)"
+        },
+        {
+          "group": "CABINET",
+          "parameter": "Audio Interface Type",
+          "value": "Universal 3.5 mm Audio Jack (Support for Audio-in and Audio out), Audio-in, Audio-out"
+        },
+        {
+          "group": "PORTS",
+          "parameter": "Number of USB Type A Port (Version 2 Point 0)",
+          "value": "4 Or higher"
+        },
+        {
+          "group": "PORTS",
+          "parameter": "Number of USB Type A Port (Version 3 point 2 Gen 1)",
+          "value": "3, 4, 5, 6 Or higher"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Number of VGA Ports",
+          "value": "1 Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Number of HDMI Ports",
+          "value": "1 Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Number of DP Ports",
+          "value": "1 Or higher"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Availibility of Monitor",
+          "value": "Yes as per IS 13252 (Part 1)"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Panel Type",
+          "value": "Vertical Alignment (VA), In Plane Switching (IPS)"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Display Technology",
+          "value": "LED Backlit LCD (Liquid Crystal Display)"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Screen Size (in CMs)",
+          "value": "48.26 - 53 (19.0\" - 20.87\"), 53.1 - 58 (20.91\" - 22.83\"), 58.1 - 63 (22.87\" - 24.8\"), 63.1 - 68 (24.84\" - 26.77\"), 68.1 - 73 (26.81\" - 28.74\"), 73.1 - 78 (28.78\" - 30.71\"), 78.1 - 83 (30.75\" - 32.68\"), 83.1 - 88 (32.72\" - 34.65\")"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Maximum Resolution (Pixels)",
+          "value": "1920 x 1080 (Full HD)"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Monitor Port",
+          "value": "HDMI, VGA"
+        },
+        {
+          "group": "INPUT DEVICES",
+          "parameter": "Mouse Connectivity",
+          "value": "USB Wired, Wireless Or higher"
+        },
+        {
+          "group": "INPUT DEVICES",
+          "parameter": "Keyboard Connectivity",
+          "value": "USB Wired, Wireless Or higher"
+        },
+        {
+          "group": "INPUT DEVICES",
+          "parameter": "Type of Keyboard",
+          "value": "Standard, Standard Bilingual with Rupee Symbol"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "On Site OEM Warranty (in Year)",
+          "value": "3, 4, 5 Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 7,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at"
+    },
+    {
+      "page": 8,
+      "text": "the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 3. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 4. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): NA Post Receipt Inspection at consignee site before acceptance of stores: CONSIGNEE 5. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses ELIGIBILITY CRITERIA: 1. The item is restricted to be procured only from GeM registered OEM/Manufacturer or their authorized Re seller available on GeM, against submission of a valid Bid Specific Authorization from the OEM/Manufacture r, along with their bid. It is mandatory to mention a valid Contact Number as well as Email ID on the Bid Sp ecific Authorization, in case of non-submission of valid Bid Specific Authorization as described above, the offer shall be summarily rejected. 2. Order will be placed on OEM/Manufacturer or their authorized Reseller, who should have supplied same or similar item to any Central/State Government Organization/PSU, a minimum of 20% of the total bid quan tity against a single PO placed during the last three completed FYs and the current FY till the bid opening d ate. In case, the bidder participates as an authorized Reseller, then the performance as required above must b e that of the OEM/Manufacturer authorizing the Reseller. It may so happen that the Reseller has credential s of past supply for a different OEM/Manufacturer, but this will not be considered as performance for placi ng order in the instant case. For proof of supply, bidders must submit copies of relevant contracts along with documentary proof of su pply, such as R. Note, Inspection Certificate, Delivery Challan, CRAC or any such receipt document, along with their bid. Similar item shall mean – Desktop Computers and All-In-One Computers of any specification. 3. Warranty: Comprehensive on-site warranty of 36 Months from the date of installation of Goods is require d. OEM Warranty Certificate must be submitted by the Successful Bidder at the time of delivery of Goods. B idders must submit bid specific ‘Comprehensive on-site warranty undertaking/declaration’ issued by the O"
+    },
+    {
+      "page": 9,
+      "text": "EM/Manufacturer on their letter head, alongwith their bid. 4. Bidders must submit following valid certificates i.r.o. the OEM, alongwith their bid: (i) ROHS Compliance ( ii) BEE/Energy Star Compliance (iii) BIS Registration (iv) EPR Registration Certificate issued by CPCB, GOI (v ) ISO 9001 Certificate (vi) ISO 14001 Certificate (viii) ISO 27001 Certificate. 5. Bidders must submit an undertaking from the OEM/Manufacturer on their letter head that their offered p roduct has following features (i) TPM 2.0, (ii) Hardware Drive Password Protection (Via BIOS) (iii) Intrusion a lert (Via BIOS). 6. Bidders must submit an undertaking from the OEM/Manufacturer on their letter head that they will suppl y Genuine factory Pre-loaded Windows. 7. Bidders must submit Non-Malicious Code Certificate issued by the OEM/Manufacturer on their letter head . 8. Bidder/OEM must have a functional service centre located in Patna or Hajipur to ensure better facilitation of after-sales support and service. The service centre must have been operational for a minimum period of three (03) years as on the date of bid opening. Bidders must submit detailed information regarding their se rvice centre including: a) Complete address and contact details of the service centre b) Documentary evide nce establishing that the service centre has been operational for at least three (03) years prior to the bid o pening date. 9. Bidder/OEM must have a dedicated toll-free number as well as an escalation matrix for the smooth runni ng of the call logging process. Documentary evidence in this regard must be submitted by the Bidders alon g with their bid. 10. Bidders must attach a declaration that (i) Monitor, Keyboard and Mouse shall be supplied of the same M ake/OEM. (ii) One No. of Mouse Pad to be supplied with each Desktop Computer. (iii) Monitor, Keyboard and Mouse should be embossed with OEM logo (and not a sticker). 11. Bidders must attach a declaration that no refurbished components will be used in the quoted/supplied products. 12. Bidders must upload a declaration/undertaking regarding acceptance of all the additional technical spe cification parameters mentioned in this Bid. 13. Bidder's offer will be summarily rejected if they don't upload any of the certificates/ declar ations/ documents sought in the Bid document, ATC and Corrigendum if any. OTHER CONDITIONS: Bidders may note that GeM is capturing and showing the IP addresses used by the Buyer and Bidder(s)/Se ller(s). Bids submitted from IP addresses that are identical to or shared with other Bidders/Sellers shall be deemed invalid and automatically disqualified from further evaluation and no communication/ representa tion in this regard will be considered in future. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8237120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123444"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 19-11-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123444"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 20-11-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123444"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123444"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123444"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123444"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: East Central Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123444"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Ecr Stores",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123444"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :sunil.gandhi07@gov.in Buyer Email id: ajay.sonker@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123444"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 20",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123444"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Entry and Mid Level Desktop Computer (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123444"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123444"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123444"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123444"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 999000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123444"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123444"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123444"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Description of Stores: Desktop Computer with Table Mount Monitor System with Compatible Chipset as per Processor Make with Minimum 6 USB Port | Computer Type: Entry Level | Processor Number: AMD Ryzen 3 5300G, Intel Core i3 12100 Or higher | Expansion Slots (PCIe x 1): 1, 2 Or higher | Expansion Slots (PCIe x 16): 1, 2 Or higher | Expansion Slots (M Dot 2) for SSD: 1, 2 Or higher | Expansion Slots (M Dot 2) for WiFi: 1 Or higher | Trusted Platform Module: Discrete TPM 2.0 | Graphics Type: Integrated | Factory Pre-loaded Operating System by Desktop OEM: Window 11 Professional | RAM Size (Memory Card/Module) (in GB) (Capacity to be installed in the System): 16, 32 Or higher | Memory Expandable Up To (in GB): 64, 128 Or higher | Type of Storage Installed with the System: NVMe-SSD Plus HDD@5400 RPM | SSD - Storage Capacity (in GB): 512, 1024, 2048 Or higher | HDD - Storage Capacity (in GB): 1000, 2000 Or higher | Number of Internal Bays Available, Size 2 Point 5 Inch: 1, 2 Or higher | Cabinet Form Factor: Tower (More than 13 to 26 Liters) | Audio Interface Type: Universal 3.5 mm Audio Jack (Support for Audio-in and Audio out), Audio-in, Audio-out | Number of USB Type A Port (Version 2 Point 0): 4 Or higher | Number of USB Type A Port (Version 3 point 2 Gen 1): 3, 4, 5, 6 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123444"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Number of VGA Ports: 1 Or higher | Number of HDMI Ports: 1 Or higher | Number of DP Ports: 1 Or higher | Availibility of Monitor: Yes as per IS 13252 (Part 1) | Panel Type: Vertical Alignment (VA), In Plane Switching (IPS) | Display Technology: LED Backlit LCD (Liquid Crystal Display) | Screen Size (in CMs): 48.26 - 53 (19.0\" - 20.87\"), 53.1 - 58 (20.91\" - 22.83\"), 58.1 - 63 (22.87\" - 24.8\"), 63.1 - 68 (24.84\" - 26.77\"), 68.1 - 73 (26.81\" - 28.74\"), 73.1 - 78 (28.78\" - 30.71\"), 78.1 - 83 (30.75\" - 32.68\"), 83.1 - 88 (32.72\" - 34.65\") | Maximum Resolution (Pixels): 1920 x 1080 (Full HD) | Monitor Port: HDMI, VGA | Mouse Connectivity: USB Wired, Wireless Or higher | Keyboard Connectivity: USB Wired, Wireless Or higher | Type of Keyboard: Standard, Standard Bilingual with Rupee Symbol | On Site OEM Warranty (in Year): 3, 4, 5 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123444"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Tapan Halder | 851126,O/o- Commanding officer, No. 11, BN/RPSF/GHZ, Garhara, Barauni (Bihar), Pin- 851126 | 20 | 45",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123444"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123444"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 3. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 4. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): NA Post Receipt Inspection at consignee site before acceptance of stores: CONSIGNEE 5. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses ELIGIBILITY CRITERIA: 1. The item is restricted to be procured only from GeM registered OEM/Manufacturer or their authorized Re seller available on GeM, against submission of a valid Bid Specific Authorization from the OEM/Manufacture r, along with their bid. It is mandatory to mention a valid Contact Number as well as Email ID on the Bid Sp ecific Authorization, in case of non-submission of valid Bid Specific Authorization as described above, the offer shall be summarily rejected. 2. Order will be placed on OEM/Manufacturer or their authorized Reseller, who should have supplied same or similar item to any Central/State Government Organization/PSU, a minimum of 20% of the total bid quan tity against a single PO placed during the last three completed FYs and the current FY till the bid opening d ate. In case, the bidder participates as an authorized Reseller, then the performance as required above must b e that of the OEM/Manufacturer authorizing the Reseller. It may so happen that the Reseller has credential s of past supply for a different OEM/Manufacturer, but this will not be considered as performance for placi ng order in the instant case. For proof of supply, bidders must submit copies of relevant contracts along with documentary proof of su pply, such as R. Note, Inspection Certificate, Delivery Challan, CRAC or any such receipt document, along with their bid. Similar item shall mean – Desktop Computers and All-In-One Computers of any specification. 3. Warranty: Comprehensive on-site warranty of 36 Months from the date of installation of Goods is require d. OEM Warranty Certificate must be submitted by the Successful Bidder at the time of delivery of Goods. B idders must submit bid specific ‘Comprehensive on-site warranty undertaking/declaration’ issued by the O",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123444"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "EM/Manufacturer on their letter head, alongwith their bid. 4. Bidders must submit following valid certificates i.r.o. the OEM, alongwith their bid: (i) ROHS Compliance ( ii) BEE/Energy Star Compliance (iii) BIS Registration (iv) EPR Registration Certificate issued by CPCB, GOI (v ) ISO 9001 Certificate (vi) ISO 14001 Certificate (viii) ISO 27001 Certificate. 5. Bidders must submit an undertaking from the OEM/Manufacturer on their letter head that their offered p roduct has following features (i) TPM 2.0, (ii) Hardware Drive Password Protection (Via BIOS) (iii) Intrusion a lert (Via BIOS). 6. Bidders must submit an undertaking from the OEM/Manufacturer on their letter head that they will suppl y Genuine factory Pre-loaded Windows. 7. Bidders must submit Non-Malicious Code Certificate issued by the OEM/Manufacturer on their letter head . 8. Bidder/OEM must have a functional service centre located in Patna or Hajipur to ensure better facilitation of after-sales support and service. The service centre must have been operational for a minimum period of three (03) years as on the date of bid opening. Bidders must submit detailed information regarding their se rvice centre including: a) Complete address and contact details of the service centre b) Documentary evide nce establishing that the service centre has been operational for at least three (03) years prior to the bid o pening date. 9. Bidder/OEM must have a dedicated toll-free number as well as an escalation matrix for the smooth runni ng of the call logging process. Documentary evidence in this regard must be submitted by the Bidders alon g with their bid. 10. Bidders must attach a declaration that (i) Monitor, Keyboard and Mouse shall be supplied of the same M ake/OEM. (ii) One No. of Mouse Pad to be supplied with each Desktop Computer. (iii) Monitor, Keyboard and Mouse should be embossed with OEM logo (and not a sticker). 11. Bidders must attach a declaration that no refurbished components will be used in the quoted/supplied products. 12. Bidders must upload a declaration/undertaking regarding acceptance of all the additional technical spe cification parameters mentioned in this Bid. 13. Bidder's offer will be summarily rejected if they don't upload any of the certificates/ declar ations/ documents sought in the Bid document, ATC and Corrigendum if any. OTHER CONDITIONS: Bidders may note that GeM is capturing and showing the IP addresses used by the Buyer and Bidder(s)/Se ller(s). Bids submitted from IP addresses that are identical to or shared with other Bidders/Sellers shall be deemed invalid and automatically disqualified from further evaluation and no communication/ representa tion in this regard will be considered in future. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123444"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

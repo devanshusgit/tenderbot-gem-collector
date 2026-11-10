@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8220332",
   "title": "Tractor Operated Rotavator (V2)",
   "description": "Tractor Operated Rotavator (V2)",
-  "organisation": "Co-operative Department Bihar",
-  "ministry": "",
+  "organisation": "Co-operative Department",
+  "ministry": "Bihar",
   "department": "Co-operative Department Bihar",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Tractor Operated Rotavator (V2)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-10-30T13:49:32+05:30",
   "closing_at": "2026-11-12T14:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10103934"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/qqnNbOyWNAZ-rjctEmkkMZaaGDaNmAjFb-LkLeDPwRE",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261030",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +49,249 @@
   ],
   "source_fetched_at": "2026-11-08T13:23:17.953Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-13T14:00:00+05:30",
+  "office": "Bceo Office Ziradei",
+  "buyer_email": "buycon2313.cd.bh@gembuyer.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-10T16:37:39.219850+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "dfa83dafb304bc8af92a7299a50e6b0a4145e3a9f4b811c7d8ca729434dfc207",
+  "document_pages": 7,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Mainejar Singh",
+      "address": "841245,Vill- HASUA, PO- Hasua, PS- Hasua, DIST- Siwan bihar 841245",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "General Parameters",
+          "parameter": "Power source",
+          "value": "Tractor Operated"
+        },
+        {
+          "group": "General Parameters",
+          "parameter": "Type of Mounting",
+          "value": "Centrally Mounted, Offset Mounted"
+        },
+        {
+          "group": "General Parameters",
+          "parameter": "Minimum Compatible Tractor Power Required",
+          "value": "20-30 HP, 31-40 HP, 41-50 HP, 51-60 HP, 61-70 HP, 71-80 HP, 81-90 HP, 91-100 HP, 101-120 HP"
+        },
+        {
+          "group": "Transmission and Drive System",
+          "parameter": "Type of Gearbox",
+          "value": "Single Speed, Multi Speed"
+        },
+        {
+          "group": "Rotor and Blade Parameters",
+          "parameter": "Shape of Cutting Blade",
+          "value": "C-Shape, L-Shape, J-Shape"
+        },
+        {
+          "group": "Rotor and Blade Parameters",
+          "parameter": "Hardness of Blade",
+          "value": "37 to 45 HRC, 46 to 55 HRC, 56 to 59 HRC"
+        },
+        {
+          "group": "Rotor and Blade Parameters",
+          "parameter": "Total Number of Blades on Rotor",
+          "value": "18, 24, 30, 36, 42, 48, 54, 60, 66, 72, 78"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Number of Flanges on Rotor Shaft",
+          "value": "4, 5, 6, 7, 8, 9, 10, 11, 12"
+        },
+        {
+          "group": "Material",
+          "parameter": "Material of Frame of Rotavator",
+          "value": "Mild Steel (MS)"
+        },
+        {
+          "group": "Material",
+          "parameter": "Material for Cutting Blade",
+          "value": "High Carbon Steel (HCS), Boron(28MnCrB5)"
+        },
+        {
+          "group": "Working Performance Parameters",
+          "parameter": "Working Width of Rotavator (In meter)",
+          "value": "? 0.5 ? 1, > 1 ? 1.5, > 1.5 ? 2, > 2 ? 2.5, > 2.5 ? 3, > 3 ? 3.5, > 3.5 ? 4, > 4 ? 4.5"
+        },
+        {
+          "group": "Working Performance Parameters",
+          "parameter": "Maximum Working depth of Rotavator (In inches)",
+          "value": "? 2 ? 3, > 3 ? 4, > 4 ? 5, > 5 ? 6"
+        },
+        {
+          "group": "Accessories and Training",
+          "parameter": "Accessories Provided with Rotavator",
+          "value": "Rotavator Stand, Spare Blades, Side Disc Assembly, NA"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 3. Turnover Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last"
+    },
+    {
+      "page": 5,
+      "text": "three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. 4. Turnover OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of CATEGORY RELATED TO primary product having highest bid value should meet this criterion. 5. Warranty Warranty period of the supplied products shall be 5 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 6. Warranty Successful bidder will have to ensure that adequate number of dedicated technical service personals / engineers are designated / deployed for attending to the Service Request in a time bound manner and for ensuring Timely Servicing / rectification of defects during warranty period, as per Service level agreement indicated in the relevant clause of the bid. 7. Warranty Timely Servicing / rectification of defects during warranty period: After having been notified of the defects / service requirement during warranty period, Seller has to complete the required Service / Rectification within 5 days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the Buyer."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8220332",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103934"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 12-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103934"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 13-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103934"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103934"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Bihar",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103934"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Co-operative Department Bihar",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103934"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Co-operative Department",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103934"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Bceo Office Ziradei",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103934"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :sw-jiradei-bceo@bihar.gov.in Buyer Email id: buycon2313.cd.bh@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103934"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103934"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Tractor Operated Rotavator (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103934"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103934"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103934"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103934"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103934"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103934"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Power source: Tractor Operated | Type of Mounting: Centrally Mounted, Offset Mounted | Minimum Compatible Tractor Power Required: 20-30 HP, 31-40 HP, 41-50 HP, 51-60 HP, 61-70 HP, 71-80 HP, 81-90 HP, 91-100 HP, 101-120 HP | Type of Gearbox: Single Speed, Multi Speed | Shape of Cutting Blade: C-Shape, L-Shape, J-Shape | Hardness of Blade: 37 to 45 HRC, 46 to 55 HRC, 56 to 59 HRC | Total Number of Blades on Rotor: 18, 24, 30, 36, 42, 48, 54, 60, 66, 72, 78",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103934"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Number of Flanges on Rotor Shaft: 4, 5, 6, 7, 8, 9, 10, 11, 12 | Material of Frame of Rotavator: Mild Steel (MS) | Material for Cutting Blade: High Carbon Steel (HCS), Boron(28MnCrB5) | Working Width of Rotavator (In meter): ? 0.5 ? 1, > 1 ? 1.5, > 1.5 ? 2, > 2 ? 2.5, > 2.5 ? 3, > 3 ? 3.5, > 3.5 ? 4, > 4 ? 4.5 | Maximum Working depth of Rotavator (In inches): ? 2 ? 3, > 3 ? 4, > 4 ? 5, > 5 ? 6 | Accessories Provided with Rotavator: Rotavator Stand, Spare Blades, Side Disc Assembly, NA",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103934"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Mainejar Singh | 841245,Vill- HASUA, PO- Hasua, PS- Hasua, DIST- Siwan bihar 841245 | 1 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103934"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 3. Turnover Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103934"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. 4. Turnover OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of CATEGORY RELATED TO primary product having highest bid value should meet this criterion. 5. Warranty Warranty period of the supplied products shall be 5 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 6. Warranty Successful bidder will have to ensure that adequate number of dedicated technical service personals / engineers are designated / deployed for attending to the Service Request in a time bound manner and for ensuring Timely Servicing / rectification of defects during warranty period, as per Service level agreement indicated in the relevant clause of the bid. 7. Warranty Timely Servicing / rectification of defects during warranty period: After having been notified of the defects / service requirement during warranty period, Seller has to complete the required Service / Rectification within 5 days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the Buyer.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10103934"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

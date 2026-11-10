@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8260673",
   "title": "Optical Time Domain Reflectometer (OTDR)",
   "description": "Optical Time Domain Reflectometer (OTDR)",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Air Force",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Optical Time Domain Reflectometer (OTDR)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-10T16:50:33+05:30",
   "closing_at": "2026-12-01T09:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10150465"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/esf77IUIjJFDKepXpx26_rz5ewL4V_-ZYI1EvLiG7c4",
+      "page": 3
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8260673/CLM0010/LPP1334_a4e6fdd8-ef17-4de2-bb1f1794309247377_Lgs-Alpha.pdf",
+      "page": 5
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261110",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +54,295 @@
   ],
   "source_fetched_at": "2026-11-10T17:59:19.568Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-02T09:00:00+05:30",
+  "buyer_email": "buy.safe@gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,OEM Authorization Certificate,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-10T23:40:37.795317+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "35285490be00a94719b29206bae7598233b42601848a9f500b8a1aa2e2408d7f",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,OEM Authorization Certificate,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "***********",
+      "address": "***********Sirsa",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "PERFORMANCE",
+          "parameter": "Fiber Compatibility",
+          "value": "Both Single Mode & Multi Mode"
+        },
+        {
+          "group": "PERFORMANCE",
+          "parameter": "Central Wavelength (nm)",
+          "value": "1310 & 1550 and 1625 / 1650 for for Single Mode & live Fiber testing"
+        },
+        {
+          "group": "PERFORMANCE",
+          "parameter": "Wavelength Tolerance (±)",
+          "value": "20.0 Or lower (nanometer)"
+        },
+        {
+          "group": "PERFORMANCE",
+          "parameter": "Dynamic range@ Max Wavelength",
+          "value": "46.0 - 50.0 Or higher (decibel)"
+        },
+        {
+          "group": "PERFORMANCE",
+          "parameter": "Event dead zone - Maximum",
+          "value": "0.75 Or lower (meter)"
+        },
+        {
+          "group": "PERFORMANCE",
+          "parameter": "Attenuation dead zone - Maximum",
+          "value": "4.0 Or lower (meter)"
+        },
+        {
+          "group": "PERFORMANCE",
+          "parameter": "Distance Measurement Accuracy (±)",
+          "value": "0.75 Or lower (meter)"
+        },
+        {
+          "group": "PERFORMANCE",
+          "parameter": "Sampling points",
+          "value": "256000.0 - 256000.0 Or higher"
+        },
+        {
+          "group": "DISPLAY / STORAGE",
+          "parameter": "Display Size",
+          "value": "8.0 - 12.0 Or higher (inch)"
+        },
+        {
+          "group": "DISPLAY / STORAGE",
+          "parameter": "Internal Storage OTDR traces",
+          "value": "10000"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "External Storage Capacity inclusive in the scope of supply",
+          "value": "32 Or higher (gigabyte)"
+        },
+        {
+          "group": "VISUAL FAULT LOCATOR (VFL) / VISUAL LIGHT SOURCE (VLS) FOR OTDR",
+          "parameter": "Built-in Visual Fault Locator (VFL) / Visual Light Source (VSL)",
+          "value": "Yes"
+        },
+        {
+          "group": "POWER METER FOR OTDR",
+          "parameter": "Built-in Power Meter",
+          "value": "Yes"
+        },
+        {
+          "group": "POWER METER FOR OTDR",
+          "parameter": "Power Meter input port",
+          "value": "Dedicated Port on OTDR"
+        },
+        {
+          "group": "POWER METER FOR OTDR",
+          "parameter": "Wavelength Range",
+          "value": "850 nm to 1650 nm"
+        },
+        {
+          "group": "POWER METER FOR OTDR",
+          "parameter": "Minimum Power measurement range (dBm)",
+          "value": "-70.0 - -70.0 Or lower"
+        },
+        {
+          "group": "POWER METER FOR OTDR",
+          "parameter": "Accuracy (Power Meter) (±)",
+          "value": "0.0 - 0.5 Or lower (percent)"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Connector Tip",
+          "value": "APC"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Aceesories inclusive in the Scope of Supply (Select included Accessories Only)",
+          "value": "DC vehicle battery-charging adaptor (12 V), Suitable VFL/VSL adapter, Carry Case"
+        },
+        {
+          "group": "OPERATING CONDITIONS",
+          "parameter": "Minimum Operating Temperature",
+          "value": "-10.0 Or lower (degree Celsius)"
+        },
+        {
+          "group": "OPERATING CONDITIONS",
+          "parameter": "Maximum Operating Temperature",
+          "value": "60.0 Or higher (degree Celsius)"
+        },
+        {
+          "group": "OPERATING CONDITIONS",
+          "parameter": "Maximum Operating Humidity",
+          "value": "95.0 - 95.0 Or higher (percent)"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "WARRANTY",
+          "value": "1, 2, 3, 5 Or higher (year)"
+        },
+        {
+          "group": "CERTIFICATION",
+          "parameter": "Availability of Test Reports from Central Govt/ NABL/ ILAC acredited lab to prove confirmity to the Specifications",
+          "value": "Yes"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8260673",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150465"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 01-12-2026 09:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150465"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 02-12-2026 09:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150465"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150465"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150465"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150465"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Air Force",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150465"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :flyboy65@nic.in Buyer Email id: buy.safe@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150465"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150465"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Optical Time Domain Reflectometer (OTDR) (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150465"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150465"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150465"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,OEM Authorization Certificate,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150465"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150465"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150465"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150465"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Fiber Compatibility: Both Single Mode & Multi Mode | Central Wavelength (nm): 1310 & 1550 and 1625 / 1650 for for Single Mode & live Fiber testing | Wavelength Tolerance (±): 20.0 Or lower (nanometer) | Dynamic range@ Max Wavelength: 46.0 - 50.0 Or higher (decibel) | Event dead zone - Maximum: 0.75 Or lower (meter) | Attenuation dead zone - Maximum: 4.0 Or lower (meter) | Distance Measurement Accuracy (±): 0.75 Or lower (meter) | Sampling points: 256000.0 - 256000.0 Or higher | Display Size: 8.0 - 12.0 Or higher (inch) | Internal Storage OTDR traces: 10000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150465"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "External Storage Capacity inclusive in the scope of supply: 32 Or higher (gigabyte) | Built-in Visual Fault Locator (VFL) / Visual Light Source (VSL): Yes | Built-in Power Meter: Yes | Power Meter input port: Dedicated Port on OTDR | Wavelength Range: 850 nm to 1650 nm | Minimum Power measurement range (dBm): -70.0 - -70.0 Or lower | Accuracy (Power Meter) (±): 0.0 - 0.5 Or lower (percent) | Connector Tip: APC | Aceesories inclusive in the Scope of Supply (Select included Accessories Only): DC vehicle battery-charging adaptor (12 V), Suitable VFL/VSL adapter, Carry Case | Minimum Operating Temperature: -10.0 Or lower (degree Celsius) | Maximum Operating Temperature: 60.0 Or higher (degree Celsius) | Maximum Operating Humidity: 95.0 - 95.0 Or higher (percent) | WARRANTY: 1, 2, 3, 5 Or higher (year) | Availability of Test Reports from Central Govt/ NABL/ ILAC acredited lab to prove confirmity to the Specifications: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150465"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********Sirsa | 1 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150465"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150465"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

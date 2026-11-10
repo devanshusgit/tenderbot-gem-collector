@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8221506",
   "title": "Moulded Case Circuit Breakers (MCCB) Conforming To IS/IEC 60947 (Part 2)",
   "description": "Moulded Case Circuit Breakers (MCCB) Conforming To IS/IEC 60947 (Part 2)",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "Eastern Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Moulded Case Circuit Breakers (MCCB) Conforming To IS/IEC 60947 (Part 2)",
   "quantity": 3,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-10-30T15:53:35+05:30",
   "closing_at": "2026-11-12T11:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10105255"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/pDWG23ln7GU6RJmsEUi_VeoqkGRfyEYcnzGhnGTxyug",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261030",
+      "page": 5
     }
   ],
   "tags": [
@@ -34,5 +49,198 @@
   ],
   "source_fetched_at": "2026-11-08T13:21:05.821Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-13T11:00:00+05:30",
+  "office": "Eastern Railway Hq",
+  "buyer_email": "rajesh.kanojia18@gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-10T03:05:16.300375+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "f5faf5fe66b3ba9095bb124671d253743d1543ddebce68b6437f491da13b808c",
+  "document_pages": 5,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 3,
+      "consignee": "SANDIP KUMAR CHATTERJEE",
+      "address": "711101,DRM Building Eastern Railway Howrah",
+      "quantity": 3,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "GENERIC",
+          "parameter": "Rated Current (in Ampere)",
+          "value": "250A"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Number of Poles",
+          "value": "4 Pole"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Rated Breaking Current (in KA)",
+          "value": "35 KA"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Rated Short Circuit Capacity (in KA)",
+          "value": "MCCB with RSCB capacity 10/16 KA tripping range"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Rated Voltage",
+          "value": "415 volt 50 Hz"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 3,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original"
+    },
+    {
+      "page": 4,
+      "text": "delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Warranty Warranty period of the supplied products shall be as given in specifications from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8221506",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105255"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 12-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105255"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 13-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105255"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105255"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105255"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105255"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Eastern Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105255"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Eastern Railway Hq",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105255"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :alok.shakti@gov.in Buyer Email id: rajesh.kanojia18@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105255"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 3",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105255"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Moulded Case Circuit Breakers (MCCB) Conforming To IS/IEC 60947 (Part 2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105255"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105255"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105255"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105255"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105255"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105255"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Rated Current (in Ampere): 250A | Number of Poles: 4 Pole | Rated Breaking Current (in KA): 35 KA | Rated Short Circuit Capacity (in KA): MCCB with RSCB capacity 10/16 KA tripping range | Rated Voltage: 415 volt 50 Hz",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105255"
+    },
+    {
+      "field": "consignees",
+      "page": 3,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | SANDIP KUMAR CHATTERJEE | 711101,DRM Building Eastern Railway Howrah | 3 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105255"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 3,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105255"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Warranty Warranty period of the supplied products shall be as given in specifications from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105255"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/R/767795",
   "title": "Spirometer (V2)",
   "description": "Spirometer (V2)",
-  "organisation": "Medical Education Department Uttar Pradesh",
-  "ministry": "",
+  "organisation": "N/a",
+  "ministry": "Uttar Pradesh",
   "department": "Medical Education Department Uttar Pradesh",
   "portal_name": "GeM",
   "state": [],
@@ -25,8 +25,18 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10147647"
+    },
+    {
+      "name": "GEM/2026/B/8174966",
+      "url": "https://bidplus.gem.gov.in/showbidDocument/10051149",
+      "page": 1
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261110",
+      "page": 2
     }
   ],
   "tags": [
@@ -34,5 +44,105 @@
   ],
   "source_fetched_at": "2026-11-10T09:56:15.841Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "office": "Government Institute Of Medical Sciences Greater Noida",
+  "ra_start_at": "2026-11-11T11:00:00+05:30",
+  "auto_extension": "If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+  "mse_exemption": "MSE Exemption for Turnover: Yes | Complete",
+  "startup_exemption": "Startup Exemption for Turnover: Yes | Complete",
+  "originating_bid_reference": "GEM/2026/B/8174966",
+  "source_document_fetched_at": "2026-11-10T14:54:22.770668+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "5b188c351d39034e60606a62a0a2a51912fce627e21afad6794c25fd6d75f50e",
+  "document_pages": 2,
+  "eligibility": [
+    "MSE Exemption for Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Exemption for Turnover: Yes | Complete (GeM PDF, p. 1)"
+  ],
+  "consignees": [],
+  "technical_specifications": [],
+  "buyer_added_terms": [],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/767795",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10147647"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 1,
+      "quote": "Please refer to Bid document of GEM/2026/B/8174966",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10147647"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 11-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10147647"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 12-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10147647"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Uttar Pradesh",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10147647"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Medical Education Department Uttar Pradesh",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10147647"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: N/a",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10147647"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Government Institute Of Medical Sciences Greater Noida",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10147647"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10147647"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Spirometer (V2)",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10147647"
+    },
+    {
+      "field": "auto_extension",
+      "page": 1,
+      "quote": "Auto Extension: If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10147647"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 1,
+      "quote": "MSE Exemption for Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10147647"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 1,
+      "quote": "Startup Exemption for Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10147647"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda."
 }

@@ -5,9 +5,9 @@
   "tender_id": "GEM/2026/R/767728",
   "title": "LV7 MARUTI 09481M10102,LV7 MARUTI 41781M52030,LV7 STLN X 2703400,LV7 MARUTI 09816M00083,LV7 STLN VF",
   "description": "LV7 MARUTI 09481M10102,LV7 MARUTI 41781M52030,LV7 STLN X 2703400,LV7 MARUTI 09816M00083,LV7 STLN VF 2540 72 015 1433 X 4115800,LV7 STLN VF 2520 012985,LV7 STLN VF 2520 72 0000521,LV7 STLN 4720 016005,LV7 STLN VF F 7446400,LV7 STLN 6240 013633,LV7 MARUTI 5340 135143,LV7 MARUTI 2540-006507,LV7 MARUTI 09305M13002,LV7 STLN 6220 004485,LV7 STLN VF 2940-003887 F 4033800,LV7 MARUTI 14140M73040,LV7 MPVY F 1978550,LV7 MARUTI 84703M73M00 V12,LV7 STLN VF B 7008903,LV7 MARUTI 5945 905916,LV7 MARUT 35612M80110,LV7 STLN 6240 013624,LV7 MARUTI 35662M80000,LV7 MARUTI 38860M76M00,LV7 STLN 5945 007625,LV7 STLN VF 2520 012810,LV7 MARUTI 36272M80000,LV7 STLN B 3717103F,LV7 MARUTI 75130M83010,LV7 STLN 6240 013631,LV7 STLN F 0836610,LV7 MARUTI 36252M80000,LV7 MARUTI 09407M10402,LV7 MARUTI 09813M00006,LV7 STLN VF P 1303727,LV7 MARUTI 5330 025887,LV7 MARUTI 55100 M 78812,LV7 MARUTI 13121 83010,LV7 STLN 5930 001314,LV7 MARUTI 09250M20002,LV7 STLN VF 4720 72 0260861,LV7 MARUTI 08321M31106,LV7 STLN VF 4720-016124,LV7 MARUTI 11396M71800",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Army",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
@@ -25,8 +25,18 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10147347"
+    },
+    {
+      "name": "GEM/2026/B/8120506",
+      "url": "https://bidplus.gem.gov.in/showbidDocument/9989434",
+      "page": 2
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261110",
+      "page": 2
     }
   ],
   "tags": [
@@ -34,5 +44,98 @@
   ],
   "source_fetched_at": "2026-11-10T09:56:02.456Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "bidder_turnover_lakhs": 10,
+  "ra_start_at": "2026-11-11T11:00:00+05:30",
+  "auto_extension": "If any seller submits the offer price during last 30 minutes of RA end time, then RA will be automatically extended for next 30 minutes from the last participation time. There is no limit on such RA extension cycle.",
+  "startup_exemption": "Startup Exemption for Turnover: Yes | Complete",
+  "originating_bid_reference": "GEM/2026/B/8120506",
+  "source_document_fetched_at": "2026-11-10T14:55:01.634565+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "8810094c35739026c42718d7c53441c5d310a245fc33c2f8538a52abc07ee6e8",
+  "document_pages": 2,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 10 Lakh (s) (GeM PDF, p. 1)",
+    "Startup Exemption for Turnover: Yes | Complete (GeM PDF, p. 2)"
+  ],
+  "consignees": [],
+  "technical_specifications": [],
+  "buyer_added_terms": [],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/767728",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10147347"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 2,
+      "quote": "Please refer to Bid document of GEM/2026/B/8120506",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10147347"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 11-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10147347"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 12-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10147347"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10147347"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10147347"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Army",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10147347"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 3515",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10147347"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: LV7 MARUTI 09481M10102 , LV7 MARUTI 41781M52030 , LV7 STLN X 2703400 , LV7 MARUTI 09816M00083 , LV7 STLN VF 2540 72 015 1433 X 4115800 , LV7 STLN VF 2520 012985 , LV7 STLN VF 2520 72 0000521 , LV7 STLN 4720 016005 , LV7 STLN VF F 7446400 , LV7 STLN 6240 013633 , LV7 MARUTI 5340 135143 , LV7 MARUTI 2540-006507 , LV7 MARUTI 09305M13002 , LV7 STLN 6220 004485 , LV7 STLN VF 2940-003887 F 4033800 , LV7 MARUTI 14140M73040 , LV7 MPVY F 1978550 , LV7 MARUTI 84703M73M00 V12 , LV7 STLN VF B 7008903 , LV7 MARUTI 5945 905916 , LV7 MARUT 35612M80110 , LV7 STLN 6240 013624 , LV7 MARUTI 35662M80000 , LV7 MARUTI 38860M76M00 , LV7 STLN 5945 007625 , LV7 STLN VF 2520 012810 , LV7 MARUTI 36272M80000 , LV7 STLN B 3717103F , LV7 MARUTI 75130M83010 , LV7 STLN 6240 013631 , LV7 STLN F 0836610 , LV7 MARUTI 36252M80000 , LV7 MARUTI 09407M10402 , LV7 MARUTI 09813M00006 , LV7 STLN VF P 1303727 , LV7 MARUTI 5330 025887 , LV7 MARUTI 55100 M 78812 , LV7 MARUTI 13121 83010 , LV7 STLN 5930 001314 , LV7 MARUTI 09250M20002 , LV7 STLN VF 4720 72 0260861 , LV7 MARUTI 08321M31106 , LV7 STLN VF 4720-016124 , LV7 MARUTI 11396M71800 , LV7 STLN VF 2540 72 0151487 , LV7 STLN 6220 004506 F 7490900 , LV7 MARUTI 13840-83011 , LV7 STLN F 7491100 , LV7 MARUTI 17852M81A00 , LV7 MARUTI 55810M70A00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10147347"
+    },
+    {
+      "field": "auto_extension",
+      "page": 1,
+      "quote": "Auto Extension: If any seller submits the offer price during last 30 minutes of RA end time, then RA will be automatically extended for next 30 minutes from the last participation time. There is no limit on such RA extension cycle.",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10147347"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 10 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10147347"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 2,
+      "quote": "Startup Exemption for Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10147347"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda."
 }

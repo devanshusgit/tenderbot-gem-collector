@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8259619",
   "title": "Functional Trainer",
   "description": "Functional Trainer",
-  "organisation": "Home Department Chhattisgarh",
-  "ministry": "",
+  "organisation": "Chhattisgarh Police",
+  "ministry": "Chhattisgarh",
   "department": "Home Department Chhattisgarh",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Functional Trainer",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-10T14:14:42+05:30",
   "closing_at": "2026-11-20T15:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10149303"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/MukSKF4x4ddEhJLJGGUoyMMSGrUBcFcuBLtLhHzvVC4",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261110",
+      "page": 5
     }
   ],
   "tags": [
@@ -34,5 +49,198 @@
   ],
   "source_fetched_at": "2026-11-10T09:57:57.091Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-21T15:00:00+05:30",
+  "office": "Commandant 18th Sir Bn Caf Manenendragarh Koriya",
+  "buyer_email": "control.18thbn@cg.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-10T15:22:55.261968+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "69bdb5ea0653ec84f72363f7dab13f17b1e45daa726c11fb391cbdde04eeeb4f",
+  "document_pages": 5,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 3,
+      "consignee": "Kulchandra Minj",
+      "address": "497442,18th sir bn caf chainpur, manendragarh c.g.",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Generic",
+          "parameter": "Material",
+          "value": "MS, SS, Iron"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Surface Finish",
+          "value": "Powder Coated, Polished, Colour Coated, electrostatically applied, heat-cured powder coat"
+        },
+        {
+          "group": "Warranty/Service",
+          "parameter": "Warranty",
+          "value": "6, 12, 18, 24 Or higher (month)"
+        },
+        {
+          "group": "Certifications and Standards",
+          "parameter": "ISO 9001 Certification of Manufacturer",
+          "value": "Yes, No Or higher"
+        },
+        {
+          "group": "Certifications and Standards",
+          "parameter": "Certification of product",
+          "value": "Quality Test, Durability Test"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 3,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original"
+    },
+    {
+      "page": 4,
+      "text": "delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8259619",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149303"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 20-11-2026 15:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149303"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 21-11-2026 15:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149303"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149303"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Chhattisgarh",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149303"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Home Department Chhattisgarh",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149303"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Chhattisgarh Police",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149303"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Commandant 18th Sir Bn Caf Manenendragarh Koriya",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149303"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :co18thbn-koriya.cg@gov.in Buyer Email id: control.18thbn@cg.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149303"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149303"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Functional Trainer (Q4)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149303"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149303"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149303"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149303"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149303"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149303"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Material: MS, SS, Iron | Surface Finish: Powder Coated, Polished, Colour Coated, electrostatically applied, heat-cured powder coat | Warranty: 6, 12, 18, 24 Or higher (month) | ISO 9001 Certification of Manufacturer: Yes, No Or higher | Certification of product: Quality Test, Durability Test",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149303"
+    },
+    {
+      "field": "consignees",
+      "page": 3,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Kulchandra Minj | 497442,18th sir bn caf chainpur, manendragarh c.g. | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149303"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 3,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149303"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149303"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

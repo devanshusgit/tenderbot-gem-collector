@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8239357",
   "title": "Data Catalog and Governance Software (V2)",
   "description": "Data Catalog and Governance Software (V2)",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Army",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Data Catalog and Governance Software (V2)",
   "quantity": 18,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-10T14:19:13+05:30",
   "closing_at": "2026-11-20T15:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10125940"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/miJ0e-bwI4QwaoWRYhKRkT66T-vDQKGhSOMefESD7ow",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261110",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +49,272 @@
   ],
   "source_fetched_at": "2026-11-10T09:57:56.016Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-21T15:00:00+05:30",
+  "buyer_email": "parshotam.510761-cgo@gov.in",
+  "emd_required": false,
+  "oem_turnover_lakhs": 3,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-10T15:22:08.264767+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "f1defc9035f2e8f11693c60f2e3b76177f22f38e19667af7bc2e4cb6156dc00a",
+  "document_pages": 8,
+  "eligibility": [
+    "OEM average turnover (last 3 years): 3 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 50 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "***********",
+      "address": "***********UDHAMPUR",
+      "quantity": 18,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Generic",
+          "parameter": "Licence Duration",
+          "value": "1 Year Subscription"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Deployment Model",
+          "value": "Private Cloud"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Licencing Metric",
+          "value": "Per Enterprise"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Managed Data Asset Capacity",
+          "value": "1,001-5,000, 5,001-10,000, 10,001–30,000, 30,001– 50,000, 50,001–100,000, 1,000,01–5,000,00, 5,000,01–10,00,000, 1,000,001–5,000,000, 5,000,001–10,000,000 Or higher"
+        },
+        {
+          "group": "Software Features",
+          "parameter": "Data Source Coverage",
+          "value": "Relational Databases"
+        },
+        {
+          "group": "Software Features",
+          "parameter": "Metadata Acquisition",
+          "value": "Automated Scanning"
+        },
+        {
+          "group": "Software Features",
+          "parameter": "Catalogue and Discovery Features",
+          "value": "Technical Metadata"
+        },
+        {
+          "group": "Software Features",
+          "parameter": "Lineage and Impact Analysis",
+          "value": "Table-Level Lineage"
+        },
+        {
+          "group": "Software Features",
+          "parameter": "Classification and Sensitive Data Discovery",
+          "value": "Rule-Based Classification"
+        },
+        {
+          "group": "Software Features",
+          "parameter": "Governance Workflow",
+          "value": "Issue Management"
+        },
+        {
+          "group": "Software Features",
+          "parameter": "Data Quality Management",
+          "value": "Data Profiling"
+        },
+        {
+          "group": "Software Features",
+          "parameter": "Privacy and Access Governance",
+          "value": "Role-Based Access"
+        },
+        {
+          "group": "Integration and Support",
+          "parameter": "Integration and Extensibility",
+          "value": "Ticketing Integration"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to"
+    },
+    {
+      "page": 5,
+      "text": "increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address GE (SOUTH) UDHAMPUR NEAR CHAK MORH TEHSIL & DISTT- UDHAMPUR PO-GARHI PIN-182121 . 3. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 4. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 5. Generic NON DISCLOSURE DECLARATION CERTIFICATE (On Bidder Letter Head) to be uploaded with bid: 1. I M/s. M/s hereby declare that I shall not disclose the contract or any provision, specification, plan, design, pattern, sample or information thereof to any third party during and after expiry of Contract. 2. If defying the norms as per the Contract a legal action may be taken against me as per the existing Rules. 6. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 7. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre."
+    },
+    {
+      "page": 6,
+      "text": "8. Past Project Experience Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc.Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc. 9. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Bidder must upload Past experience of similar nature of works/Goods. 2. Undertaking of All GeM terms and conditions shall be applicable to the contract. 3. Bidder must upload GST certificate of last three years/ PAN and NEFT/ Cancelled Cheque. 4. Bidder must upload undertaking/ certificate regarding Non black list/ legal proceedings certificate/ under takings and other relevant certificates. 5. Bidder must upload bidder turn over certificate of last three years. 6. Bidder must upload MSME/MII certificate. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8239357",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10125940"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 20-11-2026 15:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10125940"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 21-11-2026 15:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10125940"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10125940"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10125940"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10125940"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Army",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10125940"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :umpr3-mes@nic.in Buyer Email id: parshotam.510761-cgo@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10125940"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 18",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10125940"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Data Catalog and Governance Software (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10125940"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 3 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10125940"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10125940"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10125940"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10125940"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10125940"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 50 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10125940"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10125940"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10125940"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10125940"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Licence Duration: 1 Year Subscription | Deployment Model: Private Cloud | Licencing Metric: Per Enterprise | Managed Data Asset Capacity: 1,001-5,000, 5,001-10,000, 10,001–30,000, 30,001– 50,000, 50,001–100,000, 1,000,01–5,000,00, 5,000,01–10,00,000, 1,000,001–5,000,000, 5,000,001–10,000,000 Or higher | Data Source Coverage: Relational Databases | Metadata Acquisition: Automated Scanning | Catalogue and Discovery Features: Technical Metadata | Lineage and Impact Analysis: Table-Level Lineage | Classification and Sensitive Data Discovery: Rule-Based Classification | Governance Workflow: Issue Management | Data Quality Management: Data Profiling | Privacy and Access Governance: Role-Based Access | Integration and Extensibility: Ticketing Integration",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10125940"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********UDHAMPUR | 18 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10125940"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10125940"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address GE (SOUTH) UDHAMPUR NEAR CHAK MORH TEHSIL & DISTT- UDHAMPUR PO-GARHI PIN-182121 . 3. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 4. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 5. Generic NON DISCLOSURE DECLARATION CERTIFICATE (On Bidder Letter Head) to be uploaded with bid: 1. I M/s. M/s hereby declare that I shall not disclose the contract or any provision, specification, plan, design, pattern, sample or information thereof to any third party during and after expiry of Contract. 2. If defying the norms as per the Contract a legal action may be taken against me as per the existing Rules. 6. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 7. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10125940"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "8. Past Project Experience Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc.Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc. 9. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Bidder must upload Past experience of similar nature of works/Goods. 2. Undertaking of All GeM terms and conditions shall be applicable to the contract. 3. Bidder must upload GST certificate of last three years/ PAN and NEFT/ Cancelled Cheque. 4. Bidder must upload undertaking/ certificate regarding Non black list/ legal proceedings certificate/ under takings and other relevant certificates. 5. Bidder must upload bidder turn over certificate of last three years. 6. Bidder must upload MSME/MII certificate. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10125940"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

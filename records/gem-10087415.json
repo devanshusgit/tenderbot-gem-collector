@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8205907",
   "title": "Flow Cytometer",
   "description": "Flow Cytometer",
-  "organisation": "Department of Agricultural Research and Education (DARE)",
-  "ministry": "Ministry of Agriculture and Farmers Welfare",
-  "department": "Department of Agricultural Research and Education (DARE)",
+  "organisation": "Indian Council Of Agricultural Research (icar)",
+  "ministry": "Ministry Of Agriculture And Farmers Welfare",
+  "department": "Department Of Agricultural Research And Education (dare)",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Flow Cytometer",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 325000,
   "published_at": "2026-10-30T10:11:20+05:30",
   "closing_at": "2026-11-18T16:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10087415"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/jS097J0fH8oKYunz18wf20I0RL_y3WQiRMSpjnjRlcA",
+      "page": 4
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8205907/CLM0010/Speciflow_b7492fd2-d0d4-4e44-8bea1793183771625_37186578.pdf",
+      "page": 10
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261030",
+      "page": 11
     }
   ],
   "tags": [
@@ -34,5 +54,304 @@
   ],
   "source_fetched_at": "2026-11-09T08:08:54.684Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-19T16:00:00+05:30",
+  "office": "National Research Centre On Camel, Bikaner",
+  "buyer_email": "consignee1.icar.bknr@gembuyer.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and 2 / 12",
+  "experience_years": 2,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Past Performance,Certificate (Requested in ATC),OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 3,
+  "epbg_duration_months": 6,
+  "offer_validity": "120 (Days)",
+  "source_document_fetched_at": "2026-11-11T00:18:40.843255+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "c8257c2cdd36028e5008a523687b130d35a0386f37e104970d332052c2c0ded5",
+  "document_pages": 12,
+  "eligibility": [
+    "Past experience required for same/similar service: 2 Year (s) (GeM PDF, p. 1)",
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Certificate (Requested in ATC),OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 50 % (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and 2 / 12 (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Rajesh Daiya",
+      "address": "334001,ICAR-National Research Centre on Camel, Jorbeer, Post Bag No.07",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "PERFORMANCE PARAMETERS",
+          "parameter": "Measurement of parameters those can be tested for cell sorting",
+          "value": "Upto 3 parameters (2 Fluorescence prameters and 1 Scatter parameter), Upto 8 parameters (6 Fluorescence parameters and 2 Scatter parameters), NA for Cell Analyzer"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Sample sorting rate (events per second)",
+          "value": "Upto 25000, Upto 30000, Upto 35000"
+        },
+        {
+          "group": "USER INTERFACE",
+          "parameter": "Type of monitor (Min 18 inches size)",
+          "value": "LCD, LED, TFT"
+        },
+        {
+          "group": "USER INTERFACE",
+          "parameter": "Type of processor",
+          "value": "Pentium-IV @2.8 GHz, Core i3, Core i5, core i7, core i9"
+        },
+        {
+          "group": "USER INTERFACE",
+          "parameter": "Hard disc drive",
+          "value": "500 GB, 1TB"
+        },
+        {
+          "group": "USER INTERFACE",
+          "parameter": "Printer",
+          "value": "Built-in, External"
+        },
+        {
+          "group": "USER INTERFACE",
+          "parameter": "Printer type",
+          "value": "Colour, ink-jet printer, other"
+        },
+        {
+          "group": "USER INTERFACE",
+          "parameter": "Compatible UPS with back up of at-least 30 minutes",
+          "value": "Yes, No"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Automated pipettes with valid calibration certificate",
+          "value": "1, NA"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Vortex mixture",
+          "value": "1, NA"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "Warranty in Years (Option of comprehensive warranty is available through bidding only, which if opted will supersede normal warranty in the catalogue)",
+          "value": "2, 5 Or higher (year)"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 7,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 3. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 4. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses The technical specifications mentioned on Pages 4 and 5 should replace with detailed specific ation given below* and i.e. .Flow cytometer minimum of 13 fluorescence channels plus FSC a nd SSC, expandable up to 15 parameters supplied with a monitor of 27 inches or higher a com prehensive warranty of 3 years or longer and accesories (Class II A2 biosafety cabinet and CO ₂ incubators) *​Detailed Specifications for a Bench Top Flow Cytometer with Accessories 1. Laser and Configuration: · The instrument should have minimum 3 (three) spatially separated solid-state lasers: Blue (488 nm, ≥50 mW or higher), Red (633–640 nm, ≥40 mW or higher), Violet (405 nm, ≥50 mW or higher)."
+    },
+    {
+      "page": 8,
+      "text": "2. Optical Parameters & Sensitivity: · The system should be able to detect at least 15 parameters simultaneously including 13 fl uorescent channels and FSC, SSC for maximum coverage in a single tube. · Superior sensitivity: FITC<30 MESF, PE<20 MESF to measure of events with low staining i ndex for rare detection and application with dim fluorescence staining which is achievable by high efficiency, low-noise. · Particle resolution: FSC/SSC resolution at sub-micron level or 300 nm particles. 3. Fluidics and Acquisition Speed: · The system should have minimum 28,000 events per second speed for fast acquisition. 4. Sample flow rate: · Adjustable sample flow rate from 10 µL/min to at least 200 µL/min or higher for providing high sensitivity and adjustable flow rates, sample sizes as low as 25 µL for low volume prec ious samples 5. Focusing/fluidics mechanism: · Fluidics based on hydrodynamic focusing or acoustic-assisted hydrodynamic focusing with precise volumetric sample delivery. · Accepts any company 5 mL (12 x 75 mm) polystyrene and polypropylene and microcentrif uge 1.5 mL and 2.0 mL. · Provision for an automated high-throughput sample loader (24-40 tube carousel or micro plate autosampler or 96 well plate autosampler) with active sample agitation/mixing to pre vent sedimentation. 6. Electronics and Carry overs: Detectors and dynamics: · The system should have PMT/ APD/ Silicon Photomultipliers or any latest detectors for bes t levels of Sensitivity & resolution providing at least 6 to 7 decades of dynamic range. · Electronic Bit data should be minimum 24 bit or higher with CV less than 3%. · Sample carryover: <1% using automated wash/flush sequences between tubes. · Should have inbuilt at least 30 tubes carousal autoloader or better with capability to indivi dually vortex each tube before acquisition. Software and Maintenance: · Fully featured analysis software with automated multi-color compensation matrix generat ion, real-time linear gain adjustment, and automatic spillover correction. Extra copy of soft ware in USB dongle may be provided in addition to installed in the computer system provi ded with the machine. · Automated Maintenance: System should be capable of doing automated maintenance by doing individual tube vortex, daily clean, deep cleaning procedures including startup/shutd own cycles, automated fluidic decontamination, bubble removal, and clenching/flush cycle s to minimize carryover. · The analysis software should be advanced, intuitive analysis supporting high-dimensional gating, multiparametric display (e.g., density plots, contour plots, radar plot, customizing p lot size, multi-file overlay, longitudinal study analysis, and automated thresholding. · Data compatibility: Output file of the data should be Flow Cytometry Standard (FCS) 3.0 / 3.1 compliant 7. Regulatory, Footprint & Accessories:"
+    },
+    {
+      "page": 9,
+      "text": "· Regulatory Approvals: European CE Certified/ CE-IVD / US-FDA certified/ CDSCO Certifie d · Footprint: Compact benchtop footprint capable of fitting inside a standard 4-foot Class II Biosafety Cabinet (BSC-II). Mandatory Accessories (including set up) · One biosafety Cabinet NSF certified 4x2x2 to kept the system in the BSC-II (Biosafety Clas s II A2) for sample and user safety with a branded sitting stool to work with. · One CE-UL certified CO2 incubator of >160 L (with two CO2 gas cylinders, 2 gas cylinder r egulators and a voltage stabilizer) to maintain the culture of cells before use in Flow cytom eter for the analysis. · System to be supplied with Compatible PC with at least 1 TB SSD, 16GB RAM or higher of l atest window, graphic card and other software like MS Office with dual monitors with onlin e 3 KVA UPS system. · Initial startup consumables: QC beads, calibration kit, 20 L sheath fluid, and cleaning reag ents sufficient for 6 months, plus 500 acquisition tube, Sterile cell strainers (40 µm)- 50 pc s. 8. Standard warranty and service: · Warranty and CMC: Comprehensive Annual Maintenance Contract (CAMC) for the complete sy stem, including the main flow cytometer unit, all lasers, detectors, fluidics, automated loader, Calibration, bundled with Biosafety Cabinet, CO2 incubator, PC workstation, shall carry a comp rehensive on-site warranty of minimum 3 (three) years from the date of successful installation. The warranty shall include all spare parts, lasers, electronic boards, preventive maintenance vi sits (minimum 3 visits per year), unlimited breakdown calls, and software updates without any additional cost to the institute. · Preventive Maintenance kits: Vendor must supply standard O-rings, fluidic filters (sheath filter s, waste line filters), and tubing replacement kits for the entire warranty period. · Response Time: Maximum engineer response time within 24 to 48 hours of lodging a complai nt. · Free training on use of flow cytometers to the scientists/staffs/students on demand up to 3 ye ars (minimum 4 trainings). 9. Tender Eligibility Criteria: i. The firms are required to upload copies of the following valid documents. If the firm(s) fail to upload any of the listed valid documents, the bid(s) will be rejected straightaway: - a. Bid Acceptance letter as per format attached. b. Scanned copy of PAN Card. c. Scanned copy of GST registration. d. The bidder should submit the Certificate/undertaking of Non- Blacklisting/Not B anned/Temporarily suspended by any Govt./ Deptt./Organizations as per format attached below. e. Bid Security Declaration as per proforma attached below. f. If claiming MSME/Startup, bidder will have to submit certificate of relevant cat egory. g. OEM authorization as per proforma enclosed. The bidder should be an Original Equipment Manufacturer (OEM) of the tendered item (s) / equipment OR the bidder should be a sole selling agent/authorized distributor/ authorized dealer/authorized supply house of an Original Equipment Manufacturer (OEM) of the tender ed item (s). In case the bidder is not OEM, the bidder must submit OEM authorization on th e official letter head of OEM clearly mentioning the status of Bidder i.e., whether sole sellin g agent / authorized distributor / authorized dealer / authorized supply house of Original E quipment Manufacturer (OEM), failing which the bid shall not be considered for evaluation"
+    },
+    {
+      "page": 10,
+      "text": "and in that case the offer shall be rejected straightway. Such certificates/authority letter is sued by a party other than the OEM shall not be considered as valid authorization letter an d in such as the bid shall be rejected without any further reference. OEM authorization mus t be bid specific and not a general authorization failing which the bid shall not be conside red for evaluation. Authorization letter issued by the OEM in any other form such as Direct Chanel Partner /Indirect Chanel Partner/Chanel Partner/ seller/ Reseller/Sub Dealer / Sub Di stributor/Sister Concern shall not be considered for bid evaluation and the offer shall be rej ected. ii. Bidder/Dealer Experience: The participating bidder, firm, or authorized dealer should h ave prior experience in supplying at least two (2) Flow Cytometer systems. Copies of the relev ant Purchase Orders (POs) must be enclosed with the technical bid as documentary evidence. iii. Previous Installation: Should have installed at least 50 installations of Flow Cytometer sy stems in India with a list of names of the user institutions as documentary evidence to substan tiate the claim. iv. Accessories and Supporting Documentation: The supplier must provide all required a ccessories from reputed and established brands, ensuring compatibility with the quoted Flow C ytometer system. The supplier shall submit the product catalogues/brochures of all quoted acc essories along with the technical bid for verification. Failure to submit the required catalogues/ brochures shall render the technical bid non-response. . 5. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8205907",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087415"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 18-11-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087415"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 19-11-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087415"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087415"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Agriculture And Farmers Welfare",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087415"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Agricultural Research And Education (dare)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087415"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Council Of Agricultural Research (icar)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087415"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: National Research Centre On Camel, Bikaner",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087415"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :nrccamel@nic.in Buyer Email id: consignee1.icar.bknr@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087415"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087415"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Flow Cytometer (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087415"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 2 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087415"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087415"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087415"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Certificate (Requested in ATC),OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087415"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 50 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087415"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087415"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 325000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087415"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 325000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087415"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 3.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087415"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 6",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087415"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 2,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and 2 / 12",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087415"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Measurement of parameters those can be tested for cell sorting: Upto 3 parameters (2 Fluorescence prameters and 1 Scatter parameter), Upto 8 parameters (6 Fluorescence parameters and 2 Scatter parameters), NA for Cell Analyzer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087415"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Sample sorting rate (events per second): Upto 25000, Upto 30000, Upto 35000 | Type of monitor (Min 18 inches size): LCD, LED, TFT | Type of processor: Pentium-IV @2.8 GHz, Core i3, Core i5, core i7, core i9 | Hard disc drive: 500 GB, 1TB | Printer: Built-in, External | Printer type: Colour, ink-jet printer, other | Compatible UPS with back up of at-least 30 minutes: Yes, No | Automated pipettes with valid calibration certificate: 1, NA | Vortex mixture: 1, NA | Warranty in Years (Option of comprehensive warranty is available through bidding only, which if opted will supersede normal warranty in the catalogue): 2, 5 Or higher (year)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087415"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Rajesh Daiya | 334001,ICAR-National Research Centre on Camel, Jorbeer, Post Bag No.07 | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087415"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 3. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 4. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses The technical specifications mentioned on Pages 4 and 5 should replace with detailed specific ation given below* and i.e. .Flow cytometer minimum of 13 fluorescence channels plus FSC a nd SSC, expandable up to 15 parameters supplied with a monitor of 27 inches or higher a com prehensive warranty of 3 years or longer and accesories (Class II A2 biosafety cabinet and CO ₂ incubators) *​Detailed Specifications for a Bench Top Flow Cytometer with Accessories 1. Laser and Configuration: · The instrument should have minimum 3 (three) spatially separated solid-state lasers: Blue (488 nm, ≥50 mW or higher), Red (633–640 nm, ≥40 mW or higher), Violet (405 nm, ≥50 mW or higher).",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087415"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "2. Optical Parameters & Sensitivity: · The system should be able to detect at least 15 parameters simultaneously including 13 fl uorescent channels and FSC, SSC for maximum coverage in a single tube. · Superior sensitivity: FITC<30 MESF, PE<20 MESF to measure of events with low staining i ndex for rare detection and application with dim fluorescence staining which is achievable by high efficiency, low-noise. · Particle resolution: FSC/SSC resolution at sub-micron level or 300 nm particles. 3. Fluidics and Acquisition Speed: · The system should have minimum 28,000 events per second speed for fast acquisition. 4. Sample flow rate: · Adjustable sample flow rate from 10 µL/min to at least 200 µL/min or higher for providing high sensitivity and adjustable flow rates, sample sizes as low as 25 µL for low volume prec ious samples 5. Focusing/fluidics mechanism: · Fluidics based on hydrodynamic focusing or acoustic-assisted hydrodynamic focusing with precise volumetric sample delivery. · Accepts any company 5 mL (12 x 75 mm) polystyrene and polypropylene and microcentrif uge 1.5 mL and 2.0 mL. · Provision for an automated high-throughput sample loader (24-40 tube carousel or micro plate autosampler or 96 well plate autosampler) with active sample agitation/mixing to pre vent sedimentation. 6. Electronics and Carry overs: Detectors and dynamics: · The system should have PMT/ APD/ Silicon Photomultipliers or any latest detectors for bes t levels of Sensitivity & resolution providing at least 6 to 7 decades of dynamic range. · Electronic Bit data should be minimum 24 bit or higher with CV less than 3%. · Sample carryover: <1% using automated wash/flush sequences between tubes. · Should have inbuilt at least 30 tubes carousal autoloader or better with capability to indivi dually vortex each tube before acquisition. Software and Maintenance: · Fully featured analysis software with automated multi-color compensation matrix generat ion, real-time linear gain adjustment, and automatic spillover correction. Extra copy of soft ware in USB dongle may be provided in addition to installed in the computer system provi ded with the machine. · Automated Maintenance: System should be capable of doing automated maintenance by doing individual tube vortex, daily clean, deep cleaning procedures including startup/shutd own cycles, automated fluidic decontamination, bubble removal, and clenching/flush cycle s to minimize carryover. · The analysis software should be advanced, intuitive analysis supporting high-dimensional gating, multiparametric display (e.g., density plots, contour plots, radar plot, customizing p lot size, multi-file overlay, longitudinal study analysis, and automated thresholding. · Data compatibility: Output file of the data should be Flow Cytometry Standard (FCS) 3.0 / 3.1 compliant 7. Regulatory, Footprint & Accessories:",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087415"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "· Regulatory Approvals: European CE Certified/ CE-IVD / US-FDA certified/ CDSCO Certifie d · Footprint: Compact benchtop footprint capable of fitting inside a standard 4-foot Class II Biosafety Cabinet (BSC-II). Mandatory Accessories (including set up) · One biosafety Cabinet NSF certified 4x2x2 to kept the system in the BSC-II (Biosafety Clas s II A2) for sample and user safety with a branded sitting stool to work with. · One CE-UL certified CO2 incubator of >160 L (with two CO2 gas cylinders, 2 gas cylinder r egulators and a voltage stabilizer) to maintain the culture of cells before use in Flow cytom eter for the analysis. · System to be supplied with Compatible PC with at least 1 TB SSD, 16GB RAM or higher of l atest window, graphic card and other software like MS Office with dual monitors with onlin e 3 KVA UPS system. · Initial startup consumables: QC beads, calibration kit, 20 L sheath fluid, and cleaning reag ents sufficient for 6 months, plus 500 acquisition tube, Sterile cell strainers (40 µm)- 50 pc s. 8. Standard warranty and service: · Warranty and CMC: Comprehensive Annual Maintenance Contract (CAMC) for the complete sy stem, including the main flow cytometer unit, all lasers, detectors, fluidics, automated loader, Calibration, bundled with Biosafety Cabinet, CO2 incubator, PC workstation, shall carry a comp rehensive on-site warranty of minimum 3 (three) years from the date of successful installation. The warranty shall include all spare parts, lasers, electronic boards, preventive maintenance vi sits (minimum 3 visits per year), unlimited breakdown calls, and software updates without any additional cost to the institute. · Preventive Maintenance kits: Vendor must supply standard O-rings, fluidic filters (sheath filter s, waste line filters), and tubing replacement kits for the entire warranty period. · Response Time: Maximum engineer response time within 24 to 48 hours of lodging a complai nt. · Free training on use of flow cytometers to the scientists/staffs/students on demand up to 3 ye ars (minimum 4 trainings). 9. Tender Eligibility Criteria: i. The firms are required to upload copies of the following valid documents. If the firm(s) fail to upload any of the listed valid documents, the bid(s) will be rejected straightaway: - a. Bid Acceptance letter as per format attached. b. Scanned copy of PAN Card. c. Scanned copy of GST registration. d. The bidder should submit the Certificate/undertaking of Non- Blacklisting/Not B anned/Temporarily suspended by any Govt./ Deptt./Organizations as per format attached below. e. Bid Security Declaration as per proforma attached below. f. If claiming MSME/Startup, bidder will have to submit certificate of relevant cat egory. g. OEM authorization as per proforma enclosed. The bidder should be an Original Equipment Manufacturer (OEM) of the tendered item (s) / equipment OR the bidder should be a sole selling agent/authorized distributor/ authorized dealer/authorized supply house of an Original Equipment Manufacturer (OEM) of the tender ed item (s). In case the bidder is not OEM, the bidder must submit OEM authorization on th e official letter head of OEM clearly mentioning the status of Bidder i.e., whether sole sellin g agent / authorized distributor / authorized dealer / authorized supply house of Original E quipment Manufacturer (OEM), failing which the bid shall not be considered for evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087415"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "and in that case the offer shall be rejected straightway. Such certificates/authority letter is sued by a party other than the OEM shall not be considered as valid authorization letter an d in such as the bid shall be rejected without any further reference. OEM authorization mus t be bid specific and not a general authorization failing which the bid shall not be conside red for evaluation. Authorization letter issued by the OEM in any other form such as Direct Chanel Partner /Indirect Chanel Partner/Chanel Partner/ seller/ Reseller/Sub Dealer / Sub Di stributor/Sister Concern shall not be considered for bid evaluation and the offer shall be rej ected. ii. Bidder/Dealer Experience: The participating bidder, firm, or authorized dealer should h ave prior experience in supplying at least two (2) Flow Cytometer systems. Copies of the relev ant Purchase Orders (POs) must be enclosed with the technical bid as documentary evidence. iii. Previous Installation: Should have installed at least 50 installations of Flow Cytometer sy stems in India with a list of names of the user institutions as documentary evidence to substan tiate the claim. iv. Accessories and Supporting Documentation: The supplier must provide all required a ccessories from reputed and established brands, ensuring compatibility with the quoted Flow C ytometer system. The supplier shall submit the product catalogues/brochures of all quoted acc essories along with the technical bid for verification. Failure to submit the required catalogues/ brochures shall render the technical bid non-response. . 5. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087415"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

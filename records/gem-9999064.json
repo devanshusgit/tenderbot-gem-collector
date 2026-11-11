@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8129212",
   "title": "Fixed Computer Workstation (V2)",
   "description": "Fixed Computer Workstation (V2)",
-  "organisation": "Department of Defence Research & Development",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Defence Research & Development",
+  "organisation": "Office Of Dg (ecs)",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Defence Research & Development",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Fixed Computer Workstation (V2)",
   "quantity": 3,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 99000,
   "published_at": "2026-10-29T11:34:29+05:30",
   "closing_at": "2026-11-19T11:00:00+05:30",
   "status": "active",
@@ -27,6 +27,31 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/9999064"
+    },
+    {
+      "name": "View Document",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/downloadMseMiiDoc/9999064/1793165848.pdf",
+      "page": 3
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/lxyUWDCl1bL6PidcwiEhKFkjPNaGriqh1QOwLH-4DeE",
+      "page": 5
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8129212/CLM0010/281026ATC_467df9d4-5921-4705-85021793167096015_vk.lrde.pdf",
+      "page": 12
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261029",
+      "page": 13
     }
   ],
   "tags": [
@@ -34,5 +59,440 @@
   ],
   "source_fetched_at": "2026-11-09T08:19:49.213Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-20T11:00:00+05:30",
+  "buyer_email": "vk.lrde@gov.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 10,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 3,
+  "epbg_duration_months": 42,
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-11T15:37:55.458763+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "4c96039841548bed56f9e803bcdc148e3cdd76a791e32028d47a64e0e0bb9d5c",
+  "document_pages": 14,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 10 Lakh (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 10 % (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 8,
+      "consignee": "***********",
+      "address": "***********BANGALORE",
+      "quantity": 3,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Processor and Platform",
+          "parameter": "Processor Number",
+          "value": "Intel Xeon w7-3565X, Intel Xeon w9-3475X, Intel Xeon w9-3575X, Intel Xeon w9-3495X, Intel Xeon w9-3595X Or higher"
+        },
+        {
+          "group": "Remote Management",
+          "parameter": "Hardware-Based Out-of-Band Management",
+          "value": "Supported Or higher"
+        },
+        {
+          "group": "Remote Management",
+          "parameter": "TPM Implementation",
+          "value": "Firmware TPM 2.0"
+        },
+        {
+          "group": "Graphics",
+          "parameter": "Number of Factory-Fitted Discrete GPUs",
+          "value": "1 x Discrete GPU, 2 x Identical Discrete GPUs, 3 x Identical Discrete GPUs, 4 x Identical Discrete GPUs Or higher"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "GPU Model",
+          "value": "NVIDIA RTX PRO 2000 Blackwell 16GB, NVIDIA RTX 4000 SFF Ada Generation 20GB, NVIDIA RTX 4000 Ada Generation 20GB, NVIDIA RTX PRO 4000 Blackwell SFF Edition 24GB, NVIDIA RTX 4500 Ada Generation 24GB, NVIDIA RTX PRO 4000 Blackwell Workstation Edition 24GB, NVIDIA RTX 5000 Ada Generation 32GB, NVIDIA RTX 6000 Ada Generation 48GB, NVIDIA RTX PRO 4500 Blackwell Workstation Edition 32GB, NVIDIA RTX PRO 5000 Blackwell 48GB, NVIDIA RTX PRO 5000 Blackwell 72GB, NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition 96GB, NVIDIA RTX PRO 6000 Blackwell Workstation Edition 96GB Or higher"
+        },
+        {
+          "group": "Memory (RAM)",
+          "parameter": "System Memory (RAM) Type",
+          "value": "DDR5 Or higher"
+        },
+        {
+          "group": "Memory (RAM)",
+          "parameter": "ECC Memory Support",
+          "value": "ECC Memory Or higher"
+        },
+        {
+          "group": "Memory (RAM)",
+          "parameter": "Installed System Memory (RAM) (in GB)",
+          "value": "64, 96, 128, 192, 256, 384, 512, 768, 1024, 1536, 2048 Or higher"
+        },
+        {
+          "group": "Memory (RAM)",
+          "parameter": "Maximum System Memory Supported (in GB)",
+          "value": "512, 1024, 2048 Or higher"
+        },
+        {
+          "group": "Memory (RAM)",
+          "parameter": "Total DIMM Slots",
+          "value": "8, 16 Or higher"
+        },
+        {
+          "group": "Memory (RAM)",
+          "parameter": "DIMM Slots Populated",
+          "value": "2"
+        },
+        {
+          "group": "Storage",
+          "parameter": "Primary NVMe SSD Capacity (in GB)",
+          "value": "512, 1024, 2048, 4096, 8192 Or higher"
+        },
+        {
+          "group": "Storage",
+          "parameter": "Primary NVMe SSD Interface",
+          "value": "PCIe 3.0 x4 NVMe, PCIe 4.0 x4 NVMe, PCIe 5.0 x4 NVMe Or higher"
+        },
+        {
+          "group": "Storage",
+          "parameter": "Total Number of M dot 2 Storage Slots",
+          "value": "2.0 Or higher"
+        },
+        {
+          "group": "RAID",
+          "parameter": "RAID Controller Type",
+          "value": "Firmware/Software RAID"
+        },
+        {
+          "group": "RAID",
+          "parameter": "RAID Levels Supported",
+          "value": "RAID 0, RAID 1"
+        },
+        {
+          "group": "Expansion",
+          "parameter": "Total PCIe x16 Physical Slots",
+          "value": "3.0 Or higher"
+        },
+        {
+          "group": "Expansion",
+          "parameter": "Highest PCIe Generation Supported by x16 Slot",
+          "value": "PCIe 4.0, PCIe 5.0 Or higher"
+        },
+        {
+          "group": "Connectivity",
+          "parameter": "Wired Ethernet Capability",
+          "value": "1 x 1 GbE"
+        },
+        {
+          "group": "Connectivity",
+          "parameter": "Wireless LAN Standard",
+          "value": "Wi-Fi 6E / IEEE 802.11ax with 6 GHz Support, Wi-Fi 7 / IEEE 802.11be Or higher"
+        },
+        {
+          "group": "Connectivity",
+          "parameter": "Bluetooth Version",
+          "value": "Bluetooth 5.3, Bluetooth 5.4 Or higher"
+        },
+        {
+          "group": "Ports",
+          "parameter": "Number of USB Type A Version 2 Point 0 Ports",
+          "value": "2, 3 Or higher"
+        },
+        {
+          "group": "Ports",
+          "parameter": "Number of USB Type A Version 3 Point 2 Gen 1 Ports",
+          "value": "6, 7, 8, 9, 10 Or higher"
+        },
+        {
+          "group": "Ports",
+          "parameter": "Number of USB Type A 3 Point 2 Gen 2 Ports",
+          "value": "2, 3, 4, 5, 6 Or higher"
+        },
+        {
+          "group": "Ports",
+          "parameter": "Other I/O Ports",
+          "value": "3.5 mm Audio Combo"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "parameters": [
+        {
+          "group": "Monitor",
+          "parameter": "Availability of Monitor",
+          "value": "Yes"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Panel Type",
+          "value": "In Plane Switching (IPS)"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Minimum Screen Size (in CMs)",
+          "value": "68.1 to 73, 73.1 to 78, 78.1 to 83, 83.1 to 88, 88.1 to 93, 93.1 to 98, 98.1 to 108, 108.1 to 113, 113.1 to 118, 118.1 to 123, 123.1 to 128, 128.1 to 133 Or higher"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Maximum Resolution (Horizontal x Vertical Pixels)",
+          "value": "2560 × 1440"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Maximum Brightness (in Nits)",
+          "value": "351 to 400, 401 to 500, 501 to 600 Or higher"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Minimum Refresh Rate (in Hz)",
+          "value": "100 to 119, 120 to 143, 144 to 179, 180 to 240 Or higher"
+        },
+        {
+          "group": "Input Devices",
+          "parameter": "Mouse Connectivity",
+          "value": "Wired, Wireless Or higher"
+        },
+        {
+          "group": "Input Devices",
+          "parameter": "Keyboard Connectivity",
+          "value": "Wired, Wireless Or higher"
+        },
+        {
+          "group": "Power Supply & OS",
+          "parameter": "Power Supply Configuration",
+          "value": "Single Fixed Power Supply, Dual Power Supplies, Dual Redundant Power Supplies Or higher"
+        },
+        {
+          "group": "Power Supply & OS",
+          "parameter": "Factory Preloaded Operating System",
+          "value": "Windows 11 Professional"
+        },
+        {
+          "group": "Compliance",
+          "parameter": "On Site Warranty (in Year)",
+          "value": "1, 3, 5 Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 9,
+      "text": "1. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 2. Generic"
+    },
+    {
+      "page": 10,
+      "text": "Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of technical parameters, the bid is liable for rejection. 3. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 4. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 5. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 6. Warranty Warranty period of the supplied products shall be 3 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 7. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of The Director, LRDE A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract. 8. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 9. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 10. Generic"
+    },
+    {
+      "page": 11,
+      "text": "Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller. 11. Generic Malicious Code Certificate: The seller should upload following certificate in the bid:- (a) This is to certify that the Hardware and the Software being offered, as part of the contract, does not contain Embedded Malicious code that would activate procedures to :- (i) Inhibit the desires and designed function of the equipment. (ii) Cause physical damage to the user or equipment during the exploitation. (iii) Tap information resident or transient in the equipment/network. (b) The firm will be considered to be in breach of the procurement contract, in case physical damage, loss of information or infringements related to copyright and Intellectual Property Right (IPRs) are caused due to activation of any such malicious code in embedded software. 12. Generic Non return of Hard Disk: As per Buyer organization’s Security Policy,Faulty Hard Disk of Servers/Desktop Computers/ Laptops etc. will not be returned back to the OEM/supplier against warranty replacement. 13. Generic Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU for 3 years before the bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the primary product having highest value should meet this criterion. 14. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 50 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 50% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 15. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. List of deliverables, Acceptance criteria and Vendor Qualification Criteria is attached. 2. Risk and Expense Purchase: In case seller fails honour the contractual obligations within stipulated deliv ery period and as a mended, buyer may procure the said contracted goods/services through a fresh SO/con tract and the defaulting seller has to bare the excess cost incurred, if any. 3. Compliance to all the mentioned clauses is mandatory. 4.Item Nomenclature should be same as nomenclature in Bid doc (Item category) or as per item name in B uyer Uploaded ATC doc as mentioned 'Workstations for CAD Modelling, FE Analysis and Drawing Generatio n, Qty: 01 Lot This consists of the following:Work station for CAD modelling and FE Analysis, Qty: 3 Sets. . 16. Buyer Added Bid Specific ATC"
+    },
+    {
+      "page": 12,
+      "text": "Buyer uploaded ATC document Click here to view the file. 17. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 18. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 19. Forms of EMD and PBG Bidders can also submit the EMD with Fixed Deposit Receipt made out or pledged in the name of A/C The Director, LRDE . The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of EMD, the FDR will be released in the favour of the bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Bidder has to upload scanned copy/ proof of the FDR along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date/ Bid Opening date 20. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8129212",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9999064"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 19-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9999064"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 20-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9999064"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9999064"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9999064"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Defence Research & Development",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9999064"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Office Of Dg (ecs)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9999064"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :amala.lrde@gov.in Buyer Email id: vk.lrde@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9999064"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 3",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9999064"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Fixed Computer Workstation (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9999064"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 10 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9999064"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9999064"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9999064"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9999064"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9999064"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 10 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9999064"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9999064"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 99000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9999064"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 99000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9999064"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 3.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9999064"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 42",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9999064"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9999064"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Processor Number: Intel Xeon w7-3565X, Intel Xeon w9-3475X, Intel Xeon w9-3575X, Intel Xeon w9-3495X, Intel Xeon w9-3595X Or higher | Hardware-Based Out-of-Band Management: Supported Or higher | TPM Implementation: Firmware TPM 2.0 | Number of Factory-Fitted Discrete GPUs: 1 x Discrete GPU, 2 x Identical Discrete GPUs, 3 x Identical Discrete GPUs, 4 x Identical Discrete GPUs Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9999064"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "GPU Model: NVIDIA RTX PRO 2000 Blackwell 16GB, NVIDIA RTX 4000 SFF Ada Generation 20GB, NVIDIA RTX 4000 Ada Generation 20GB, NVIDIA RTX PRO 4000 Blackwell SFF Edition 24GB, NVIDIA RTX 4500 Ada Generation 24GB, NVIDIA RTX PRO 4000 Blackwell Workstation Edition 24GB, NVIDIA RTX 5000 Ada Generation 32GB, NVIDIA RTX 6000 Ada Generation 48GB, NVIDIA RTX PRO 4500 Blackwell Workstation Edition 32GB, NVIDIA RTX PRO 5000 Blackwell 48GB, NVIDIA RTX PRO 5000 Blackwell 72GB, NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition 96GB, NVIDIA RTX PRO 6000 Blackwell Workstation Edition 96GB Or higher | System Memory (RAM) Type: DDR5 Or higher | ECC Memory Support: ECC Memory Or higher | Installed System Memory (RAM) (in GB): 64, 96, 128, 192, 256, 384, 512, 768, 1024, 1536, 2048 Or higher | Maximum System Memory Supported (in GB): 512, 1024, 2048 Or higher | Total DIMM Slots: 8, 16 Or higher | DIMM Slots Populated: 2 | Primary NVMe SSD Capacity (in GB): 512, 1024, 2048, 4096, 8192 Or higher | Primary NVMe SSD Interface: PCIe 3.0 x4 NVMe, PCIe 4.0 x4 NVMe, PCIe 5.0 x4 NVMe Or higher | Total Number of M dot 2 Storage Slots: 2.0 Or higher | RAID Controller Type: Firmware/Software RAID | RAID Levels Supported: RAID 0, RAID 1 | Total PCIe x16 Physical Slots: 3.0 Or higher | Highest PCIe Generation Supported by x16 Slot: PCIe 4.0, PCIe 5.0 Or higher | Wired Ethernet Capability: 1 x 1 GbE | Wireless LAN Standard: Wi-Fi 6E / IEEE 802.11ax with 6 GHz Support, Wi-Fi 7 / IEEE 802.11be Or higher | Bluetooth Version: Bluetooth 5.3, Bluetooth 5.4 Or higher | Number of USB Type A Version 2 Point 0 Ports: 2, 3 Or higher | Number of USB Type A Version 3 Point 2 Gen 1 Ports: 6, 7, 8, 9, 10 Or higher | Number of USB Type A 3 Point 2 Gen 2 Ports: 2, 3, 4, 5, 6 Or higher | Other I/O Ports: 3.5 mm Audio Combo",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9999064"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 7,
+      "quote": "Availability of Monitor: Yes | Panel Type: In Plane Switching (IPS) | Minimum Screen Size (in CMs): 68.1 to 73, 73.1 to 78, 78.1 to 83, 83.1 to 88, 88.1 to 93, 93.1 to 98, 98.1 to 108, 108.1 to 113, 113.1 to 118, 118.1 to 123, 123.1 to 128, 128.1 to 133 Or higher | Maximum Resolution (Horizontal x Vertical Pixels): 2560 × 1440 | Maximum Brightness (in Nits): 351 to 400, 401 to 500, 501 to 600 Or higher | Minimum Refresh Rate (in Hz): 100 to 119, 120 to 143, 144 to 179, 180 to 240 Or higher | Mouse Connectivity: Wired, Wireless Or higher | Keyboard Connectivity: Wired, Wireless Or higher | Power Supply Configuration: Single Fixed Power Supply, Dual Power Supplies, Dual Redundant Power Supplies Or higher | Factory Preloaded Operating System: Windows 11 Professional | On Site Warranty (in Year): 1, 3, 5 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9999064"
+    },
+    {
+      "field": "consignees",
+      "page": 8,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********BANGALORE | 3 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9999064"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "1. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 2. Generic",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9999064"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of technical parameters, the bid is liable for rejection. 3. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 4. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 5. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 6. Warranty Warranty period of the supplied products shall be 3 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 7. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of The Director, LRDE A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract. 8. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 9. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 10. Generic",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9999064"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 11,
+      "quote": "Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller. 11. Generic Malicious Code Certificate: The seller should upload following certificate in the bid:- (a) This is to certify that the Hardware and the Software being offered, as part of the contract, does not contain Embedded Malicious code that would activate procedures to :- (i) Inhibit the desires and designed function of the equipment. (ii) Cause physical damage to the user or equipment during the exploitation. (iii) Tap information resident or transient in the equipment/network. (b) The firm will be considered to be in breach of the procurement contract, in case physical damage, loss of information or infringements related to copyright and Intellectual Property Right (IPRs) are caused due to activation of any such malicious code in embedded software. 12. Generic Non return of Hard Disk: As per Buyer organization’s Security Policy,Faulty Hard Disk of Servers/Desktop Computers/ Laptops etc. will not be returned back to the OEM/supplier against warranty replacement. 13. Generic Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU for 3 years before the bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the primary product having highest value should meet this criterion. 14. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 50 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 50% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 15. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. List of deliverables, Acceptance criteria and Vendor Qualification Criteria is attached. 2. Risk and Expense Purchase: In case seller fails honour the contractual obligations within stipulated deliv ery period and as a mended, buyer may procure the said contracted goods/services through a fresh SO/con tract and the defaulting seller has to bare the excess cost incurred, if any. 3. Compliance to all the mentioned clauses is mandatory. 4.Item Nomenclature should be same as nomenclature in Bid doc (Item category) or as per item name in B uyer Uploaded ATC doc as mentioned 'Workstations for CAD Modelling, FE Analysis and Drawing Generatio n, Qty: 01 Lot This consists of the following:Work station for CAD modelling and FE Analysis, Qty: 3 Sets. . 16. Buyer Added Bid Specific ATC",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9999064"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 12,
+      "quote": "Buyer uploaded ATC document Click here to view the file. 17. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 18. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 19. Forms of EMD and PBG Bidders can also submit the EMD with Fixed Deposit Receipt made out or pledged in the name of A/C The Director, LRDE . The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of EMD, the FDR will be released in the favour of the bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Bidder has to upload scanned copy/ proof of the FDR along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date/ Bid Opening date 20. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9999064"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

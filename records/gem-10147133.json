@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8257806",
   "title": "Utility Vehicle",
   "description": "Utility Vehicle",
-  "organisation": "INDIAN OIL CORPORATION LIMITED",
-  "ministry": "Ministry of Petroleum and Natural Gas",
-  "department": "INDIAN OIL CORPORATION LIMITED",
+  "organisation": "Marketing Division",
+  "ministry": "Ministry Of Petroleum And Natural Gas",
+  "department": "Indian Oil Corporation Limited",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Utility Vehicle",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-10T09:37:27+05:30",
   "closing_at": "2026-11-20T10:00:00+05:30",
   "status": "active",
@@ -27,6 +27,31 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10147133"
+    },
+    {
+      "name": "View Document",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/downloadMseMiiDoc/10147133/1794283183.pdf",
+      "page": 3
+    },
+    {
+      "name": "View Document",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/downloadMseMiiDoc/10147133/1794283101.pdf",
+      "page": 3
+    },
+    {
+      "name": "View Document",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/documentdownload/10147133/1794281940.pdf",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/G6ULehZ_a-cKH735XX81cH6pOskr90ivZOmmzY5pUuE",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261110",
+      "page": 9
     }
   ],
   "tags": [
@@ -34,5 +59,250 @@
   ],
   "source_fetched_at": "2026-11-11T03:08:29.902Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-21T10:00:00+05:30",
+  "office": "Iocl Marketing Sro Rcc",
+  "buyer_email": "krishnanvv@indianoil.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "180 (Days)",
+  "estimated_bid_value": 926420,
+  "source_document_fetched_at": "2026-11-11T07:26:36.893431+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "07ff9f25ff761df5702eaa43414b76ea236b3eca0a4f7a11a41b365b0425d7cf",
+  "document_pages": 9,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Vijaya Krishnan V",
+      "address": "682029,COCHIN AFS INDIAN OIL CORPORATION LTD., AVIATION FUEL STATION, NAVAL BASE, MATSYAPURI PO, COCHIN-682029.",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 90
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Engine and Transmission Parameters",
+          "parameter": "Displacement / Cubic Capacity (cc) of Engine",
+          "value": ">=2000 cc"
+        },
+        {
+          "group": "Engine and Transmission Parameters",
+          "parameter": "Vehicle Air Intake System",
+          "value": "Turbocharged Or higher"
+        },
+        {
+          "group": "Engine and Transmission Parameters",
+          "parameter": "Vehicle Transmission System",
+          "value": "Manual Transmission (MT)"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Category of the Vehicle",
+          "value": "N1 (For Goods + passengers, Number of seats including driver <= 7, GVW <=3.5 tonnes), N2 (For Goods + passengers, Number of seats including driver <= 7, GVW >3.5<=12 tonnes)"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Type of Body",
+          "value": "Pick-up"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Type of Fuel",
+          "value": "Diesel"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Seating Capacity (Including Driver)",
+          "value": "5.0"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Drive Axle",
+          "value": "Rear wheel drive"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Type Of Chassis",
+          "value": "Chassis Frame"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Type of Steering",
+          "value": "Power Steering Or higher"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Type of Service Brake (Front)",
+          "value": "Disc Brake Or higher"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Type of Service Brake (Rear)",
+          "value": "Drum Brake, Disc Brake Or higher"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Type of Wheel Rim",
+          "value": "Sheet metal / Steel wheel rim, Alloy wheel rim Or higher"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Tyre Type",
+          "value": "Tube-type, Tubeless Or higher"
+        },
+        {
+          "group": "Accessories/Features",
+          "parameter": "Air Conditioning",
+          "value": "Yes"
+        },
+        {
+          "group": "Accessories/Features",
+          "parameter": "Vehicle fitted with ABS",
+          "value": "Yes, No"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 7,
+      "text": "1. Rate Contract Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8257806",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147133"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 20-11-2026 10:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147133"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 21-11-2026 10:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147133"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147133"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Petroleum And Natural Gas",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147133"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Oil Corporation Limited",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147133"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Marketing Division",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147133"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Iocl Marketing Sro Rcc",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147133"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :kishorebabu@indianoil.in Buyer Email id: krishnanvv@indianoil.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147133"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147133"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Utility Vehicle (Q1) ( PAC Only )",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147133"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147133"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147133"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147133"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 926420",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147133"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147133"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147133"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Displacement / Cubic Capacity (cc) of Engine: >=2000 cc | Vehicle Air Intake System: Turbocharged Or higher | Vehicle Transmission System: Manual Transmission (MT) | Category of the Vehicle: N1 (For Goods + passengers, Number of seats including driver <= 7, GVW <=3.5 tonnes), N2 (For Goods + passengers, Number of seats including driver <= 7, GVW >3.5<=12 tonnes) | Type of Body: Pick-up | Type of Fuel: Diesel | Seating Capacity (Including Driver): 5.0 | Drive Axle: Rear wheel drive | Type Of Chassis: Chassis Frame | Type of Steering: Power Steering Or higher | Type of Service Brake (Front): Disc Brake Or higher | Type of Service Brake (Rear): Drum Brake, Disc Brake Or higher | Type of Wheel Rim: Sheet metal / Steel wheel rim, Alloy wheel rim Or higher | Tyre Type: Tube-type, Tubeless Or higher | Air Conditioning: Yes | Vehicle fitted with ABS: Yes, No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147133"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Vijaya Krishnan V | 682029,COCHIN AFS INDIAN OIL CORPORATION LTD., AVIATION FUEL STATION, NAVAL BASE, MATSYAPURI PO, COCHIN-682029. | 1 | 90",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147133"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "1. Rate Contract Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147133"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

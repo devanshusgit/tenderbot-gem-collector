@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8244483",
   "title": "Digital Multimeter (V2)",
   "description": "Digital Multimeter (V2)",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "North Western Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Digital Multimeter (V2)",
   "quantity": 15,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-10T13:10:29+05:30",
   "closing_at": "2026-11-21T14:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10131726"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/dDhptFirmPxbacRSliofdXkpq_oikocn5-6zaGUhwnY",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261110",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +49,334 @@
   ],
   "source_fetched_at": "2026-11-11T01:12:53.682Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-22T14:00:00+05:30",
+  "office": "North Western Railway",
+  "buyer_email": "admm@bkn.railnet.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "90 (Days)",
+  "source_document_fetched_at": "2026-11-11T06:15:08.203714+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "7d87a39d126d0bd9a2aa39c31005f81f8fe2d2094069d651d53ebfc69121e147",
+  "document_pages": 7,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 20 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Amit Kumar",
+      "address": "335512,RAILWAY STATION HANUMANGARH 335512",
+      "quantity": 15,
+      "quantity_label": "Quantity",
+      "delivery_days": 45
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "General Specification",
+          "parameter": "Type",
+          "value": "Handheld"
+        },
+        {
+          "group": "General Specification",
+          "parameter": "Display (Digits)",
+          "value": "3.5"
+        },
+        {
+          "group": "General Specification",
+          "parameter": "Measurement Type",
+          "value": "True RMS"
+        },
+        {
+          "group": "General Specification",
+          "parameter": "Display Count",
+          "value": "6000"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "DC Voltage",
+          "value": "1000 V"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "DC Voltage Accuracy",
+          "value": "0.5 %"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "DC Voltage Resolution",
+          "value": "100 mV"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "AC Voltage",
+          "value": "1000 V"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "AC Voltage Accuracy",
+          "value": "1 %"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "AC Voltage Resolution",
+          "value": "1 mV"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "DC Current",
+          "value": "10 A"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "DC Current Accuracy",
+          "value": "1.5 %"
+        },
+        {
+          "group": null,
+          "parameter": "DC Current Resolution",
+          "value": "10 mA"
+        },
+        {
+          "group": null,
+          "parameter": "AC Current",
+          "value": "10 A"
+        },
+        {
+          "group": null,
+          "parameter": "AC Current Accuracy",
+          "value": "1.5 %"
+        },
+        {
+          "group": null,
+          "parameter": "AC Current Resolution",
+          "value": "100 mA"
+        },
+        {
+          "group": null,
+          "parameter": "Resistance",
+          "value": "60 M?"
+        },
+        {
+          "group": null,
+          "parameter": "Resistance Accuracy",
+          "value": "2 %"
+        },
+        {
+          "group": null,
+          "parameter": "Resistance Resolution",
+          "value": "100 ?"
+        },
+        {
+          "group": null,
+          "parameter": "Capacitance Range (Micro farad)",
+          "value": "1 to 100"
+        },
+        {
+          "group": null,
+          "parameter": "Capacitance Accuracy",
+          "value": "5 %"
+        },
+        {
+          "group": null,
+          "parameter": "Capacitance Resolution",
+          "value": "1 nF"
+        },
+        {
+          "group": null,
+          "parameter": "Frequency",
+          "value": "10000 kHz"
+        },
+        {
+          "group": null,
+          "parameter": "Frequency Accuracy",
+          "value": "0.1 %"
+        },
+        {
+          "group": null,
+          "parameter": "Frequency Resolution",
+          "value": "10 Hz"
+        },
+        {
+          "group": null,
+          "parameter": "Temperature Range",
+          "value": "-50 to 1000 °C"
+        },
+        {
+          "group": null,
+          "parameter": "Temperature Accuracy",
+          "value": "2 %"
+        },
+        {
+          "group": null,
+          "parameter": "Temperature Resolution",
+          "value": "1 °C"
+        },
+        {
+          "group": "Power Supply",
+          "parameter": "Power Supply",
+          "value": "AA Battery"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): na Post Receipt Inspection at consignee site before acceptance of stores: Consignee 3. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 4. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Firm to attach authorization from OEM, otherwise offer will be rejected summarily. 2. Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 3. For past performance firm should attach proof of supply signed by either purchaser, consignee, inspect mor nominated by purchaser (should not be firm representative). For this purpose receipt note, inspection certificate, CRAC, receipted challan, work completion certificate etc should be attached. Proof of supply sh ould clearly indicate quantity supplied and date of supply. Only copy of PO, self signed tax invoice, self ma de performance statement does not establish that supply has been completed. 4. Only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD/ tu rnover / experience. Traders/ Resellers will not get any exemption. 5. The past performance of last three FY and current FY will be accepted. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8244483",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10131726"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 21-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10131726"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 22-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10131726"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10131726"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10131726"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10131726"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: North Western Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10131726"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: North Western Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10131726"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :cio@nwr.railnet.gov.in Buyer Email id: admm@bkn.railnet.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10131726"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10131726"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Digital Multimeter (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10131726"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10131726"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10131726"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10131726"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 20 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10131726"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10131726"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10131726"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10131726"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Type: Handheld | Display (Digits): 3.5 | Measurement Type: True RMS | Display Count: 6000 | DC Voltage: 1000 V | DC Voltage Accuracy: 0.5 % | DC Voltage Resolution: 100 mV | AC Voltage: 1000 V | AC Voltage Accuracy: 1 % | AC Voltage Resolution: 1 mV | DC Current: 10 A",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10131726"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "DC Current Accuracy: 1.5 % | DC Current Resolution: 10 mA | AC Current: 10 A | AC Current Accuracy: 1.5 % | AC Current Resolution: 100 mA | Resistance: 60 M? | Resistance Accuracy: 2 % | Resistance Resolution: 100 ? | Capacitance Range (Micro farad): 1 to 100 | Capacitance Accuracy: 5 % | Capacitance Resolution: 1 nF | Frequency: 10000 kHz | Frequency Accuracy: 0.1 % | Frequency Resolution: 10 Hz | Temperature Range: -50 to 1000 °C | Temperature Accuracy: 2 % | Temperature Resolution: 1 °C | Power Supply: AA Battery",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10131726"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Amit Kumar | 335512,RAILWAY STATION HANUMANGARH 335512 | 15 | 45",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10131726"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): na Post Receipt Inspection at consignee site before acceptance of stores: Consignee 3. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 4. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Firm to attach authorization from OEM, otherwise offer will be rejected summarily. 2. Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 3. For past performance firm should attach proof of supply signed by either purchaser, consignee, inspect mor nominated by purchaser (should not be firm representative). For this purpose receipt note, inspection certificate, CRAC, receipted challan, work completion certificate etc should be attached. Proof of supply sh ould clearly indicate quantity supplied and date of supply. Only copy of PO, self signed tax invoice, self ma de performance statement does not establish that supply has been completed. 4. Only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD/ tu rnover / experience. Traders/ Resellers will not get any exemption. 5. The past performance of last three FY and current FY will be accepted. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10131726"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

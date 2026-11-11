@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8259044",
   "title": "Sharping Stone",
   "description": "Sharping Stone",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Army",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Sharping Stone",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-10T12:44:37+05:30",
   "closing_at": "2026-11-17T13:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10148637"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/pX06KMg3B9pkl21CeZyUMjmsOiBTUV4EkqG55A_bRYs",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261110",
+      "page": 5
     }
   ],
   "tags": [
@@ -34,5 +49,176 @@
   ],
   "source_fetched_at": "2026-11-11T03:05:18.605Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-18T13:00:00+05:30",
+  "buyer_email": "buycon169.cgda.rj@gembuyer.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-11T06:25:03.108854+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "f216d913e5a0ace454fb395790eb8f3afd421f0c9ab9b5c8da257a07c8c9392a",
+  "document_pages": 5,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "***********",
+      "address": "***********Jodhpur",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Specification",
+          "parameter": "Grit",
+          "value": "150, 180, 200, 220, 240, 350, 400, 500, 600, 800, 1000, 1500, 2000, 3000, 3800, 4000, 5000, 6000, 8000"
+        },
+        {
+          "group": "Dimensions",
+          "parameter": "Width",
+          "value": "2, 3, 4, 5 (inch)"
+        },
+        {
+          "group": "Dimensions",
+          "parameter": "Length",
+          "value": "4, 5, 6, 7, 8, 9, 10 (inch)"
+        },
+        {
+          "group": "Dimensions",
+          "parameter": "Height",
+          "value": "1, 1.5, 2, 2.5, 3, 4 (inch)"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses SELLER PROVIDED SAMPLE DISPLAY BEFORE TECH BID OPENING, IF SELLER HAS BEEN NOT PROVIDED DIS PLAY PIC HE WILL BE DISQUALIFY ADD- 942 LT AD WKSP SHIKARGARH, JODHPUR ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8259044",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148637"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 17-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148637"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 18-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148637"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148637"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148637"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148637"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Army",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148637"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :ajayberwal.200m@gov.in Buyer Email id: buycon169.cgda.rj@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148637"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148637"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Sharping Stone (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148637"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148637"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148637"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148637"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148637"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148637"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Grit: 150, 180, 200, 220, 240, 350, 400, 500, 600, 800, 1000, 1500, 2000, 3000, 3800, 4000, 5000, 6000, 8000 | Width: 2, 3, 4, 5 (inch) | Length: 4, 5, 6, 7, 8, 9, 10 (inch) | Height: 1, 1.5, 2, 2.5, 3, 4 (inch)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148637"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********Jodhpur | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148637"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses SELLER PROVIDED SAMPLE DISPLAY BEFORE TECH BID OPENING, IF SELLER HAS BEEN NOT PROVIDED DIS PLAY PIC HE WILL BE DISQUALIFY ADD- 942 LT AD WKSP SHIKARGARH, JODHPUR .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148637"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

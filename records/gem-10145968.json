@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8256819",
   "title": "True RMS Clamp Meter (V2)",
   "description": "True RMS Clamp Meter (V2)",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "Central Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "True RMS Clamp Meter (V2)",
   "quantity": 6,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-10T12:57:08+05:30",
   "closing_at": "2026-11-20T13:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10145968"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/JwwW2biZJ0qILpUipP5ro7njujuIK7asthyF0gocdgo",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261110",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +49,269 @@
   ],
   "source_fetched_at": "2026-11-11T01:13:18.870Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-21T13:00:00+05:30",
+  "office": "Central Railway Stores Deptt",
+  "buyer_email": "amm.snpd@cr.railnet.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-11T06:21:28.763527+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "91e9091b36746937ef93a02360365dad0e89b8c70bf422e72ac13ace1828736d",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Rajesh Kumar Meena",
+      "address": "400705,OFFICE OF CHIEF WORKSHOP MANAGER EMU POH WORKSHOP, SANPADA, MUMBAI",
+      "quantity": 6,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Genreric",
+          "parameter": "Type",
+          "value": "Handheld Clamp Meter"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "Measurement Type",
+          "value": "True RMS"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "Display",
+          "value": "4 Digit LCD"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "Display Count",
+          "value": "2000 to 10000 counts"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "Jaw Opening",
+          "value": "34 mm, 40 mm"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "AC Current Measurement Range",
+          "value": "0 A to 1000 A"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "AC Current Accuracy",
+          "value": "±1% to ±2.5%"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "AC Voltage Measurement Range",
+          "value": "0 V to 1000 V"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "AC Voltage Accuracy",
+          "value": "±0.8% to ±2%"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "DC Current Measurement Range",
+          "value": "0 A to 1000 A"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "DC Current Accuracy",
+          "value": "±1% to ±2%"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "DC Voltage Measurement Range",
+          "value": "0 mV to 1000 V"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "DC Voltage Accuracy",
+          "value": "±0.5% to ±1.5%"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "Resistance Measurement Range",
+          "value": "0 ? to 1000 M?"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "Resistance Accuracy",
+          "value": "±1% to ±2%"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "Frequency Measurement Range",
+          "value": "10 Hz to 100 kHz"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Frequency Accuracy",
+          "value": "±0.1% to ±0.5%"
+        },
+        {
+          "group": "Power Source",
+          "parameter": "Power Source",
+          "value": "Battery Operated"
+        },
+        {
+          "group": "Warranty",
+          "parameter": "Warranty (Year)",
+          "value": "1"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8256819",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10145968"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 20-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10145968"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 21-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10145968"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10145968"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10145968"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10145968"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Central Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10145968"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Central Railway Stores Deptt",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10145968"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :dycmmadmin@cr.railnet.gov.in Buyer Email id: amm.snpd@cr.railnet.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10145968"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 6",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10145968"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: True RMS Clamp Meter (V2) (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10145968"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10145968"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10145968"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10145968"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10145968"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10145968"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Type: Handheld Clamp Meter | Measurement Type: True RMS | Display: 4 Digit LCD | Display Count: 2000 to 10000 counts | Jaw Opening: 34 mm, 40 mm | AC Current Measurement Range: 0 A to 1000 A | AC Current Accuracy: ±1% to ±2.5% | AC Voltage Measurement Range: 0 V to 1000 V | AC Voltage Accuracy: ±0.8% to ±2% | DC Current Measurement Range: 0 A to 1000 A | DC Current Accuracy: ±1% to ±2% | DC Voltage Measurement Range: 0 mV to 1000 V | DC Voltage Accuracy: ±0.5% to ±1.5% | Resistance Measurement Range: 0 ? to 1000 M? | Resistance Accuracy: ±1% to ±2% | Frequency Measurement Range: 10 Hz to 100 kHz",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10145968"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Frequency Accuracy: ±0.1% to ±0.5% | Power Source: Battery Operated | Warranty (Year): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10145968"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Rajesh Kumar Meena | 400705,OFFICE OF CHIEF WORKSHOP MANAGER EMU POH WORKSHOP, SANPADA, MUMBAI | 6 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10145968"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10145968"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

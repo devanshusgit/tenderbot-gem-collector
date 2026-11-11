@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8258675",
   "title": "Monthly Basis Cab & Taxi Hiring Services - SUV; 2000 km x 320 hours; Outstation 24*7",
   "description": "Monthly Basis Cab & Taxi Hiring Services - SUV; 2000 km x 320 hours; Outstation 24*7",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "Central Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Monthly Basis Cab & Taxi Hiring Services - SUV; 2000 km x 320 hours; Outstation 24*7",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-10T16:02:27+05:30",
   "closing_at": "2026-11-25T12:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8258675/CLM0010/DGM_Policy_7653c516-248c-4b74-a1a01794298297959_dycecrsp.cr.pdf",
+      "page": 15
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261110",
+      "page": 16
+    },
+    {
+      "name": "Service Level Agreement",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/bidsla/102986653318756",
+      "page": 16
     }
   ],
   "tags": [
@@ -34,5 +54,363 @@
   ],
   "source_fetched_at": "2026-11-10T17:59:54.231Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-26T12:00:00+05:30",
+  "office": "Central Railway Stores Deptt",
+  "buyer_email": "dycecrsp@cr.railnet.gov.in",
+  "emd_required": false,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Single Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 30,
+  "offer_validity": "90 (Days)",
+  "estimated_bid_value": 1587024,
+  "contract_period": "2 Year(s)",
+  "source_document_fetched_at": "2026-11-11T00:00:19.950605+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "8c0344439e5175fedb71753f208f1924409ff4b6c06da92cb72cf4e2e507069a",
+  "document_pages": 16,
+  "eligibility": [
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Reeta Kumari",
+      "address": "400001,Central Railway CAO (System) office, 5th Floor, New Administrative Building, Dr.D.N. Road, Mumbai.",
+      "quantity": 1,
+      "quantity_label": "Number of Vehicles Required",
+      "delivery_days": null,
+      "additional_requirements": "Duration in Months for which service is required : 24"
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Vehicle Type",
+          "value": "SUV"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type of car (Please select at least 3 options)",
+          "value": "Maruti Suzuki Ertiga , Maruti Suzuki XL6 , Mahindra Scorpio-N"
+        },
+        {
+          "group": "Core",
+          "parameter": "Usage Variant",
+          "value": "2000 km x 320 hours"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type of Service",
+          "value": "Outstation 24*7"
+        },
+        {
+          "group": "Core",
+          "parameter": "Year of Vehicle Model",
+          "value": "2024 , 2025 , 2026"
+        },
+        {
+          "group": "Core",
+          "parameter": "Km Travelled",
+          "value": "Upto 25,000 Kms"
+        },
+        {
+          "group": "Core",
+          "parameter": "Air Conditioning Requirement",
+          "value": "A/C"
+        },
+        {
+          "group": "Core",
+          "parameter": "Area of Operation",
+          "value": "Hilly + Plain Area"
+        },
+        {
+          "group": "Core",
+          "parameter": "Fuel Type",
+          "value": "Any"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE 25% : The buyer can increase or decrease the contract quantity or contract duration up to 25 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 25 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 25 percent with the consent of the service provider 2. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 3. Service & Support"
+    },
+    {
+      "page": 5,
+      "text": "AVAILABILITY OF OFFICE OF SERVICE PROVIDER: An office of the Service Provider must be located in the state of Consignee. DOCUMENTARY EVIDENCE TO BE SUBMITTED. 4. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 5. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 6. Service & Support In the event where the distance travelled exceeds the monthly usage variant, amount will be paid for additional Kms as per schedule. Similarly, the unused Kms in a particular month as against the minimum guaranteed usage variant will be carried forward to the next month and additional Km if any in the next month shall be adjusted against this. However, the payment for the selected usage variant in a month will be paid every month.” Further, the unused Kms in a particular month shall not be carried forward or adjusted beyond 6 months 7. Payment PAYMENT OF SALARIES AND WAGES: Service Provider is required to pay Salaries / wages of contracted staff deployed at buyer location first i.e. on their own and then claim payment from Buyer alongwith all statutory documents like, PF, ESIC etc. as well as the bank statement of payment done to staff. 8. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 9. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of PFA, Central Railway A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract. 10. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses ANNEXURE - A SPECIAL CONDITIONS OF CONTRACT FOR HIRING OF VEHICLE 1. Scope of Service The Contractor shall provide one vehicle (Maruti Suzuki Ertiga/ Mahindra XUV 500/ Maruti Suzuki XL6/ ) along with a qu alified driver for official use. 2. Working Hours The vehicle shall be available for duty on a 24 × 7 basis. The Contractor shall deploy an adequate number of qualified drivers to ensure uninterrupted operation of the vehicle during the prescribed duty hours, while ensuring that the worki ng hours, rest intervals, weekly off, overtime, and other service conditions of each driver are in full compliance with the applicable Labour Laws and other statutory provisions in force. Additional payment at accepted hourly rates shall be made for numbers of hours beyond 360 /372 hrs. in month of 30 /"
+    },
+    {
+      "page": 6,
+      "text": "31 days. 3. Driver Requirements The Contractor shall deploy licensed, experienced and medically fit driver possessing a valid driving licence and all stat utory documents. The driver shall: a) Be punctual and report on duty as instructed. b) Be courteous, obedient, disciplined and maintain a polite behaviour with officers, staff and visitors. c) Be dressed in white chauffeur uniform provided by the service provider in neat and clean condition while on duty. d) Maintain personal hygiene and professional conduct at all times. e) Not consume or remain under the influence of alcohol, intoxicants, narcotic substances, tobacco, gutkha, pan masal a, smoking products or any other prohibited substance during duty hours. f) Not use mobile phone while driving except through legally permitted hands-free arrangements in emergency situatio ns. g) Maintain confidentiality of official discussions and movements. h) Follow all traffic rules and safety regulations. 4. Compliance with Labour Laws The Contractor shall comply with all provisions of the Minimum Wages Act, Payment of Wages Act, EPF, ESI, Bonus, Lea ve and other applicable labour laws and statutory requirements. Any liability arising due to non-compliance of labour laws shall be solely borne by the Contractor. 5. Registration on Shramik Kalyan Portal and Labour Law Compliance a) The Contractor shall mandatorily be registered on the Railway Shramik Kalyan Portal (RSKP) / Shramik Kalyan Portal and shall maintain such registration valid throughout the currency of the contract. b) Before commencement of work, the Contractor shall submit documentary evidence of registration on the Shramik K alyan Portal to the Employer. c) The Contractor shall ensure registration of all drivers and other manpower deployed under this contract on the Shra mik Kalyan Portal as per prevailing Railway Board instructions and Labour Laws. d) Monthly wage payment details, statutory compliance records, EPF, ESI and other labour-related information shall be uploaded and maintained on the Shramik Kalyan Portal as required by applicable Railway Board guidelines. e) The Contractor shall ensure payment of wages not less than the prescribed Minimum Wages and compliance with all prevailing Labour Laws, including provisions relating to EPF, ESI, Bonus, Leave, Working Hours and Occupational Safety . f) Failure to obtain or maintain valid registration on the Shramik Kalyan Portal, or failure to update mandatory records on the Portal, shall be treated as a breach of contract and may attract withholding of bills, imposition of penalties and/o r termination of contract as decided by the Employer. g) The Contractor shall indemnify the Railway Administration against any claims, liabilities, penalties or legal conseque nces arising out of non-compliance with labour laws or Shramik Kalyan Portal requirements. 6. Vehicle Condition The vehicle shall be maintained in excellent roadworthy condition with functioning AC, clean interiors, clean seat cover s, proper floor mats and all accessories in working order. 7. Replacement of Vehicle/Driver In case of breakdown, accident, prolonged maintenance or unsatisfactory performance of the driver, immediate replace ment vehicle/driver shall be provided without any extra cost. 8. Inspection, Deficiency and Penalty Clause"
+    },
+    {
+      "page": 7,
+      "text": "The vehicle and services provided under this contract shall be subject to daily inspection as per the prescribed e Inspection Checklist at Annexure - B. a) The Checklist is attached and the Contractor shall ensure that all checklist items are complied with at all times. b) In case any deficiency, defect, non-compliance or unsatisfactory condition is observed against any item of the check list during inspection, a penalty of Rs. 500/- (Rupees Five Hundred only) shall be imposed for each deficiency per occas ion. c) The penalty shall be recovered from the Contractor's monthly bill(s). d) Repeated deficiencies shall be treated as separate instances and shall attract separate penalties. e) If the cumulative penalty imposed during the currency of the contract exceeds Rs. 25,000/- (Rupees Twenty-Five Th ousand only), the Employer shall have the right to terminate the contract forthwith without any further notice and mak e alternative arrangements at the risk and cost of the Contractor. f) The decision of the Employer regarding assessment of deficiencies and imposition of penalties shall be final and bind ing on the Contractor. 9. All vehicles provided shall have all the necessary permits/licenses/clearances such as, but n ot limited to fitness certificate, PUC, full comprehensive insurance, road permit, registration cert ificate, as per the motor vehicles act, RTO and other applicable laws and statutory bodies. 10. Firm must provide commercial (tourist) vehicles for this service. 11. Contractors must read the new hiring policy conditions carefully before quoting the tender 12. Night charges will not be applicable. 13. Contractors located in Maharashtra state will only be eligible to quote the tender. 14. Offers of contractors locating outside Maharashtra will be passed over. 15. Firms to attach completion certificate in support of past performance/ experience. 16. The firm must mandatorily upload the annual turnover certificate, in the format prescribed by the GST directorate, on the gem portal at the time of bill submission. 17. Performance guarantee at a rate of 5% of the contractual value shall be deposited by the s uccessful bidder within 30 (thirty) days from the date of issue of letter of acceptance (loa). exte nsion of time for submission of PG beyond 30 (thirty) days and up to the date of submission of PG from the date of issue of LOA may be given by the authority who is competent to sign the co ntract agreement. However, a penal interest of 15% per annum shall be charged for the delay beyond 30 (thirty) days, i.e. from 31st day after the date of issue of LOA. In case the contractor fa ils to submit the requisite PG after 60 days from the date of issue of LOA, a notice shall be serve d to the contractor to deposit the PG immediately however not exceeding 90 days from the dat e of issue of LOA. In case the contractor fails to submit the requisite PG even after 90 days from the date of issue of LOA, the contract shall be terminated duly forfeiting EMD and other dues, if any payable against that contract. The failed contractor shall be debarred from participating in retender for that work. In case 60th day is a bank holiday or office closure next working day sh ould be considered as the last day for submission of the PGs. Decision of authority competent to sign the contract agreement would be final in case of any dispute. 18. By making a bid pursuant to the Tender Documents, the bidder / tenderer shall be deemed to have declared that t he bidder’s / tenderer’s service contract related to vehicle has not been terminated due to bad performance in Mumbai /Navi Mumbai region in last 6(six) months. If above mentioned adverse performance comes in the notice of the buyer, he may disqualify the offer during evaluation stage. 19. Performance Guarantee: The value of performance guarantee is 5% of the value of contract, with validity of 6 mon"
+    },
+    {
+      "page": 8,
+      "text": "ths above the contract period. The performance guarantee should be submitted within 30 days from contract generati on date to user department which shall stand refundable after successful completion of the contract subject to certifica te from us er department that there are no pending dues whatsoever against the contractor. Special Conditions for Circle-1 (Mumbai Region upto Thane) are as below 1. The hiring of vehicle service will be in 2 parts (of the same Work) as below: a. Deployment and operations of the vehicle service: i. i) Contractor shall provide Vehicles inclusive of fuel requirements, on a monthly basis. ii ii) The Service Provider shall ensure that all maintenance works related to the assigned vehicle will be carried out in off -duty hours and shall be periodically checked and maintained by the Service Provider to avoid any inconvenience to th e buyer along with other necessary requirements for regular washing/cleaning and all the necessary permits/licenses/cl earances such as, but not limited to fitness certificate, PUC, full comprehensive insurance, road permit, registration cer tificate, as per the Motor Vehicles Act, RTO and other applicable laws and statutory bodies, for providing commercial ve hicles for t 15 / 21his service, and all other conditions as per the GeM model contract w.r.t. the deployment and operati ons of the vehicle ser vice (except w.r.t. excluding driver’s payment, which is cover ed separately in part ‘b’ below). ii iii) Deductions for non-compliance of standards of the serv ices as per Contract as applicable to the vehicle service (exce pt traffic violations pertaining to driver’s responsibility) shall be made from the payment made to Service Provider (Con tractor). i iv) . Price Variation Clause (PVC) will be applicable as per the Contract. v. v) ‘Extra per Kms charges’ will be applicable as per the Contract. However, ‘extra Kms’ will be calculated as the total Km s run by all the vehicles included in the contract in that month beyond the ‘Pooled’ Kms of respective ‘bundled Km/hou r package’ of all the vehicles within that contract. For example, if there are 3 vehicles with 1500 km x 320 hours packa ge each in the contract, with run of 1200 Kms, 1700 Kms and 18 00 Kms, respectively, in that month, then ‘Extra per K ms charges’ will be paid on the Kms run beyond pooled Km i.e. (120 0+1700+1800)- (1500+1500+1500) = 4700 - 450 0 = 200 Km only. vi) 'No Extra hours charges' will be applicableon vehicles as the vehicles are hired for the full period of contract. v vii) All other conditions as per GeM model contract. b. Deployment of Driver: i. i) The Driver deployed should possess the requisite valid Driving License. ii. ii) The criminal antecedents of the Driver should be verified with the Police Authority and the certificate to this effect sho uld be furnished by the Service Provider. iii. iii) The suitability of the Driver will be assessed and approved by the Officer for whom the vehicle person is being provid e d, prior to such engagement. iv. iv) It is the responsibility of the service provider to always provide one driver per vehicle as per the requirement, while c omplying with the Labour Laws. v. v) The service provider shall provide at his own cost proper uniform and badges and photo identity cards to the drivers in compliance with the Motor Transport Workers Act. vi. vi) Extra hour charges will be paid to the Driver as per the Contract. viivii) Deductions for non-compliance of standards of the services as per Contract as applicable pertaining to driver’s respo nsibility shall be made from the salary of the Driver paid by the Service Provider (Contractor). vii viii) The Salary to be paid to the Driver shall be according to minimum wages at the bottom of the pay matrix level 1 decl ared by the Railway Ministry+ DA as applicable, subject to Mini mum Wage applicable as per below: 2. 1. Salary to be paid: The Drivers Salary will be calculated as"
+    },
+    {
+      "page": 9,
+      "text": "Basic Salary pro DA@46% curren Gross Salary as Highest Minimu Final Salar y'(3) posed (A) tly (B) per (A)+(B) m wage in Categ =Higher of ory # (2) nd (2) (1) ₹18,000. 00 ₹8,280.00 ₹26,280.00 ₹12,892.0 ₹26,280.00 # Issued by Office of Labor Commissioner . ा. व/ क व ेअ/ व भा/2023(1)काया- dtd. 01.08.2023 (item no 39) Note: a. a) The Circle will be defined as per the address of the Consignee for whom the vehicle service has been hired, for exam ple, Kalyan will NOT fall in Circle-1. b. b) The Gross salary will vary with change in DA or Minimum Wages by the Govt. of India as per the table above. c. c) Service Provider (Contractor) shall submit the proof of any amount paid to the Government for the Driver(s) deployed against Statutory Employer Contributions viz. PF etc., which shall be paid by the Rail way to the Service Provider again st the invoice rais ed by the Service Provider. d. 2) Deductions-Statutory Employee contribution of PF, ESIC et c. (With basic as Rs. 18,000) e. 3) Total salary = (a) + (b) above less Statutory Deductions viz. Driver’s contribution of PF, ESIC etc. as applicable. f. 4) Net payment = Total Salary + Extra hour charges as per (vi) above- Deductions as per (vii) above. ix. ix) The wages of the Driver Date of payment for drivers Salary shall be paid by the Contractor on the last date of month. x. x) The drivers/staff provided by the service provider shall not be deemed employees of the buyer hence the compliance of the applicable Labour Laws and Acts, Transport Motor work 17 / 21ers Act and other relevant laws will be the sole re sponsibility of the service provider. xi. xi) The service provider shall be responsible for ensuring compliance with the provisions related to Labour Law [Central/ State] and especially Minimum Wages Act, Payment of Wages Act, PF, ESI Act, Payment of Bonus Act, Contract Labour [ R&A] Act, Workmen Compensation Act, Motor Vehicle Act, Motor Transport Workers Act, 1961 etc. and any other releva nt acts as applicable at present or in future during the tenure of the contract and as may been forced from time to time . Onus of compliance of all the applicable Laws/Acts/Rules/Guidelines/ Notifications/ Regulations/ Orders shall rest with the service provider only and the buyer will not be liable in any manner. xiixii) The Service Provider shall not deploy or shall discontinue deploying the driver(s), if desired by the Buyer and must en sure prompt replacement of the driver(s) without any addition al cost to the Buyer. The drivers being deployed shall or dinarily be continued and should not be changed without written intimation and consultation with Buyer. xiii. xiii) Price Variation Clause (PVC) will NOT be applicable to D river’s salary. However, the DA increase notified for the peri od of the contract and as applicable would be applied to the emoluments of the driver as mentioned above at viii (1) ab ove. xiv. xiv) All other conditions as per GeM model contract. 1) Working of Railways is 24 x 7, hence drivers may be called at any time in emergent situation. Contractor must ensur e availability of drivers whenever they are called. Necessary charges like night running, extra KM running, extra hours running will be paid additionally as per GeM SLA. The Contractor shall be responsible for keeping the necessary spare pool of drivers for emergent situations when the re gular driver is not available. Deployed Vehicles and Drivers shall be solely in control of the Officer for whom they have been hired and Service Provi der (Contractor) shall not have the right to deploy the deployed Vehicles or Drivers for any work at his discretion. Tender Bid invited shall be selected based on the Bidders’ quotes for the Cost Deployment and operations of the vehicl e including profit of the contractor, as the Salary of Diver will be fixed as above. 3. 2) Invoicing by Service Provider (Contractor): Single Payment GST Invoice shall be raised by the Contractor on a mont hly basis, stating in 2 parts as below:"
+    },
+    {
+      "page": 10,
+      "text": "a. a) Charges of Deployment and operations of the vehicle service (for 1(a) above), and b. b) Emoluments paid to Driver(s) (for 1(b) above): Contractor shall submit Documentary proof before processing the bills of the Contractors by the Railway i.e. Attendance Sheet and Bank statement of having paid the Salary, Statutory D eductions viz. Driver’s contribution of PF, E 18 / 21SIC etc., plus Extra hour charges and minus Deductions for non-com pliance of standards of the services as per Contract pertaining to the Driver, and Statutory Employer Contributions viz P F etc. The GST applicable on respective items of the invoice shall be shown explicitly by the Service Provider on the GST Invoi ce raised. The expense shall be booked to PU 32. 4. 3. Interim arrangement between 2 successive vehicle Contracts: Interim hiring of vehicle service (with driver) u ntil the new contract commences shall be done on quotation basis considering the urgency. The expense on such interi m hiring of vehicle service (with driver) shall be charged to the same Work sanctioned for hiring of the vehicle with driv er under which the contract was terminated. NOTE: All other terms and conditions of the contract for Hiring of Vehicle Service, which is not specified above, will be govern ed by Service Level Agreement (SLA) for monthly basis cab & ta xi hiring services of GeM Portal. ANNEXURE - B DAILY VEHICLE INSPECTION CHECKLIST Vehicle No.: _______________________ Date: ____________________________ Driver Name: ______________________ Penalty due to def Penalty due to default o Description of Inspection Checklist ault of Driver f Service Provider A. CLEANLINESS □ Vehicle washed and cleaned externally. Yes No □ Vehicle body free from dust, mud and stains. Yes No □ Interior cleaned properly. Yes No □ Floor mats clean and dust free. Yes No □ Seat covers clean and stain free. Yes No □ Dashboard, doors and windows cleaned. Yes No □ No unpleasant smell inside vehicle. Yes No B. AMBIANCE & COMFORT □ Good ambiance maintained inside vehicle. Yes No □ Pleasant room freshener/perfume available in ve No Yes hicle at all times. □ Interior environment comfortable for officers. Yes No"
+    },
+    {
+      "page": 11,
+      "text": "□ No tobacco, cigarette, gutkha or pan masala sm Yes No ell inside vehicle. C. AIR CONDITIONING □ AC functioning properly. No Yes □ Adequate cooling available. No Yes □ AC vents clean and operational. No Yes D. ELECTRICAL & ACCESSORIES □ LCD/Infotainment system functioning properly. No Yes □ Interior lights functioning. No Yes □ Horn functioning. No Yes □ Wipers functioning. No Yes □ Power windows functioning. No Yes □ Mobile charging port functioning. No Yes E. VEHICLE CONDITION □ Vehicle mechanically fit and roadworthy. No Yes □ Tyres in good condition. No Yes □ Spare wheel available. No Yes □ Brakes functioning properly. No Yes □ Engine performance satisfactory. No Yes □ No abnormal noise or vibration. No Yes □ Fuel level adequate. No Yes F. SAFETY ITEMS □ Valid Registration Certificate (RC) available. No Yes □ Insurance valid. No Yes □ Pollution Under Control (PUC) Certificate valid. No Yes □ First Aid Box available. No Yes □ Fire Extinguisher available. No Yes □ Tool Kit and Jack available. No Yes G. SERVICING & MAINTENANCE □ Vehicle serviced as per manufacturer's schedule. No Yes □ Service records available for inspection. No Yes □ No overdue maintenance. No Yes □ Defects, if any, rectified promptly. No Yes H.MISC. ITEMS No Yes"
+    },
+    {
+      "page": 12,
+      "text": "□ Uniform of driver No Yes □ White towel cover on all Seat No Yes □ Big Size Umbrella No Yes □Window Sun Shed Protection No Yes I. DRIVER CONDUCT □ Driver properly dressed and groomed. Yes No □ Driver punctual on duty. Yes No □ Driver polite, obedient and courteous. Yes No □ Driver shall not consume tobacco, gutkha, pan m Yes No asala, cigarettes, alcohol or any intoxicating substa nce while on duty. □ Driver carrying valid Driving Licence. Yes No □ Driver shall maintain professional conduct and c Yes No onfidentiality during official movements. Inspection Record Date of Inspection: ___________________ Vehicle No.: _________________________ No. of Deficiencies Observed: __________ Penalty Applicable @ Rs.500/- per deficiency: Rs. __________ Shift: Name & Attendance of Main Driver Shift: Name & Attendance of Rest giver Driver Remarks: 1) Shift: Signature of Main Driver: ___________________ Signature of Railway/GC Representative: ___________________ Signature of Controlling Officer: ___________________ 2) Shift: Signature of Rest giver Driver: ___________________ Signature of Railway/GC Representative: ___________________ Signature of Controlling Officer: ___________________ Note: Roster may be split to suit the movement of officer."
+    },
+    {
+      "page": 13,
+      "text": "ANNEXURE -C VEHICLE BILLING FORMAT Contractor/Service Provider: _____________________________________________ GeM Bid/Contract No.: _____________________________________________ Name of Work/Service: _____________________________________________ Month: _______________ Bill No.: ____________ Bill Date: ____________ A. Vehicle, Driver & KM Summary Principal Driv Vehicle N Duty Peri er / Sr. N o. od Total KM Driver Name Remarks o. Run Rest Giver dri / Model (Days) ver 1 2 3 B. Monthly Billing Summary Sr. N Particulars Unit / Qty Rate (₹) Amount (₹) o. 1 Monthly fixed charges for vehicle Additional kilometre charges, if applic 2 able Other admissible charges as per contr 3 act 4 Deduction for Penalty, if applicable Gross Amount Less: Deductions, if any Net Amount Payable"
+    },
+    {
+      "page": 14,
+      "text": "C. Acknowledgement of Salary Payment by Driver. (1) I, ______________________ certify that I have received sum of ₹ ___________/- in bank A/C No. ____________________ of ___________________ Bank against salary payment of ___ workin g days after deduction of penalty of ₹ _________/- against driver fault as given below: i. _______________________ ii. _______________________ iii. _______________________ Signature of Driver: _______________ (2) I, ______________________ certify that I have received sum of ₹ ___________/- in bank A/C No. ____________________ of ___________________ Bank against salary payment of ___ workin g days after deduction of penalty of ₹ _________/- against driver fault as given below: i. _______________________ ii. _______________________ iii. _______________________ Signature of Driver: _______________ D. Certificate I/We certify that the above particulars are true and correct, and that the charges claimed are st rictly in accordance with the terms of the GeM Contract. Signature of Contractor/Authorized Representative Name & Designation: ______________________________ Date: ____________________ Signature: ____________________ Checked & Recommended for Payment (Railway Official) Name & Designation: ______________________________ Date: ____________________ Signature: ____________________ Approved/Passed for Payment"
+    },
+    {
+      "page": 15,
+      "text": "Name & Designation: ______________________________ Date: ____________________ Signature: ____________________ . 11. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8258675",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 25-11-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 26-11-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Central Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Central Railway Stores Deptt",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :dycmmadmin@cr.railnet.gov.in Buyer Email id: dycecrsp@cr.railnet.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Monthly Basis Cab & Taxi Hiring Services - SUV; 2000 km x 320 hours; Outstation 24*7",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 2 Year(s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "(( )) / Estimated Bid Value in INR (Inclusive of all taxes): 1587024",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Vehicle Type: SUV | Type of car (Please select at least 3 options): Maruti Suzuki Ertiga , Maruti Suzuki XL6 , Mahindra Scorpio-N | Usage Variant: 2000 km x 320 hours | Type of Service: Outstation 24*7 | Year of Vehicle Model: 2024 , 2025 , 2026 | Km Travelled: Upto 25,000 Kms | Air Conditioning Requirement: A/C | Area of Operation: Hilly + Plain Area | Fuel Type: Any",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.No . | Consignee Reporting/Officer | Address | Number of Vehicles Required | Additional Requirement: 1 | Reeta Kumari | 400001,Central Railway CAO (System) office, 5th Floor, New Administrative Building, Dr.D.N. Road, Mumbai. | 1 | Duration in Months for which service is required : 24",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE 25% : The buyer can increase or decrease the contract quantity or contract duration up to 25 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 25 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 25 percent with the consent of the service provider 2. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 3. Service & Support",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "AVAILABILITY OF OFFICE OF SERVICE PROVIDER: An office of the Service Provider must be located in the state of Consignee. DOCUMENTARY EVIDENCE TO BE SUBMITTED. 4. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 5. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 6. Service & Support In the event where the distance travelled exceeds the monthly usage variant, amount will be paid for additional Kms as per schedule. Similarly, the unused Kms in a particular month as against the minimum guaranteed usage variant will be carried forward to the next month and additional Km if any in the next month shall be adjusted against this. However, the payment for the selected usage variant in a month will be paid every month.” Further, the unused Kms in a particular month shall not be carried forward or adjusted beyond 6 months 7. Payment PAYMENT OF SALARIES AND WAGES: Service Provider is required to pay Salaries / wages of contracted staff deployed at buyer location first i.e. on their own and then claim payment from Buyer alongwith all statutory documents like, PF, ESIC etc. as well as the bank statement of payment done to staff. 8. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 9. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of PFA, Central Railway A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract. 10. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses ANNEXURE - A SPECIAL CONDITIONS OF CONTRACT FOR HIRING OF VEHICLE 1. Scope of Service The Contractor shall provide one vehicle (Maruti Suzuki Ertiga/ Mahindra XUV 500/ Maruti Suzuki XL6/ ) along with a qu alified driver for official use. 2. Working Hours The vehicle shall be available for duty on a 24 × 7 basis. The Contractor shall deploy an adequate number of qualified drivers to ensure uninterrupted operation of the vehicle during the prescribed duty hours, while ensuring that the worki ng hours, rest intervals, weekly off, overtime, and other service conditions of each driver are in full compliance with the applicable Labour Laws and other statutory provisions in force. Additional payment at accepted hourly rates shall be made for numbers of hours beyond 360 /372 hrs. in month of 30 /",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "31 days. 3. Driver Requirements The Contractor shall deploy licensed, experienced and medically fit driver possessing a valid driving licence and all stat utory documents. The driver shall: a) Be punctual and report on duty as instructed. b) Be courteous, obedient, disciplined and maintain a polite behaviour with officers, staff and visitors. c) Be dressed in white chauffeur uniform provided by the service provider in neat and clean condition while on duty. d) Maintain personal hygiene and professional conduct at all times. e) Not consume or remain under the influence of alcohol, intoxicants, narcotic substances, tobacco, gutkha, pan masal a, smoking products or any other prohibited substance during duty hours. f) Not use mobile phone while driving except through legally permitted hands-free arrangements in emergency situatio ns. g) Maintain confidentiality of official discussions and movements. h) Follow all traffic rules and safety regulations. 4. Compliance with Labour Laws The Contractor shall comply with all provisions of the Minimum Wages Act, Payment of Wages Act, EPF, ESI, Bonus, Lea ve and other applicable labour laws and statutory requirements. Any liability arising due to non-compliance of labour laws shall be solely borne by the Contractor. 5. Registration on Shramik Kalyan Portal and Labour Law Compliance a) The Contractor shall mandatorily be registered on the Railway Shramik Kalyan Portal (RSKP) / Shramik Kalyan Portal and shall maintain such registration valid throughout the currency of the contract. b) Before commencement of work, the Contractor shall submit documentary evidence of registration on the Shramik K alyan Portal to the Employer. c) The Contractor shall ensure registration of all drivers and other manpower deployed under this contract on the Shra mik Kalyan Portal as per prevailing Railway Board instructions and Labour Laws. d) Monthly wage payment details, statutory compliance records, EPF, ESI and other labour-related information shall be uploaded and maintained on the Shramik Kalyan Portal as required by applicable Railway Board guidelines. e) The Contractor shall ensure payment of wages not less than the prescribed Minimum Wages and compliance with all prevailing Labour Laws, including provisions relating to EPF, ESI, Bonus, Leave, Working Hours and Occupational Safety . f) Failure to obtain or maintain valid registration on the Shramik Kalyan Portal, or failure to update mandatory records on the Portal, shall be treated as a breach of contract and may attract withholding of bills, imposition of penalties and/o r termination of contract as decided by the Employer. g) The Contractor shall indemnify the Railway Administration against any claims, liabilities, penalties or legal conseque nces arising out of non-compliance with labour laws or Shramik Kalyan Portal requirements. 6. Vehicle Condition The vehicle shall be maintained in excellent roadworthy condition with functioning AC, clean interiors, clean seat cover s, proper floor mats and all accessories in working order. 7. Replacement of Vehicle/Driver In case of breakdown, accident, prolonged maintenance or unsatisfactory performance of the driver, immediate replace ment vehicle/driver shall be provided without any extra cost. 8. Inspection, Deficiency and Penalty Clause",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "The vehicle and services provided under this contract shall be subject to daily inspection as per the prescribed e Inspection Checklist at Annexure - B. a) The Checklist is attached and the Contractor shall ensure that all checklist items are complied with at all times. b) In case any deficiency, defect, non-compliance or unsatisfactory condition is observed against any item of the check list during inspection, a penalty of Rs. 500/- (Rupees Five Hundred only) shall be imposed for each deficiency per occas ion. c) The penalty shall be recovered from the Contractor's monthly bill(s). d) Repeated deficiencies shall be treated as separate instances and shall attract separate penalties. e) If the cumulative penalty imposed during the currency of the contract exceeds Rs. 25,000/- (Rupees Twenty-Five Th ousand only), the Employer shall have the right to terminate the contract forthwith without any further notice and mak e alternative arrangements at the risk and cost of the Contractor. f) The decision of the Employer regarding assessment of deficiencies and imposition of penalties shall be final and bind ing on the Contractor. 9. All vehicles provided shall have all the necessary permits/licenses/clearances such as, but n ot limited to fitness certificate, PUC, full comprehensive insurance, road permit, registration cert ificate, as per the motor vehicles act, RTO and other applicable laws and statutory bodies. 10. Firm must provide commercial (tourist) vehicles for this service. 11. Contractors must read the new hiring policy conditions carefully before quoting the tender 12. Night charges will not be applicable. 13. Contractors located in Maharashtra state will only be eligible to quote the tender. 14. Offers of contractors locating outside Maharashtra will be passed over. 15. Firms to attach completion certificate in support of past performance/ experience. 16. The firm must mandatorily upload the annual turnover certificate, in the format prescribed by the GST directorate, on the gem portal at the time of bill submission. 17. Performance guarantee at a rate of 5% of the contractual value shall be deposited by the s uccessful bidder within 30 (thirty) days from the date of issue of letter of acceptance (loa). exte nsion of time for submission of PG beyond 30 (thirty) days and up to the date of submission of PG from the date of issue of LOA may be given by the authority who is competent to sign the co ntract agreement. However, a penal interest of 15% per annum shall be charged for the delay beyond 30 (thirty) days, i.e. from 31st day after the date of issue of LOA. In case the contractor fa ils to submit the requisite PG after 60 days from the date of issue of LOA, a notice shall be serve d to the contractor to deposit the PG immediately however not exceeding 90 days from the dat e of issue of LOA. In case the contractor fails to submit the requisite PG even after 90 days from the date of issue of LOA, the contract shall be terminated duly forfeiting EMD and other dues, if any payable against that contract. The failed contractor shall be debarred from participating in retender for that work. In case 60th day is a bank holiday or office closure next working day sh ould be considered as the last day for submission of the PGs. Decision of authority competent to sign the contract agreement would be final in case of any dispute. 18. By making a bid pursuant to the Tender Documents, the bidder / tenderer shall be deemed to have declared that t he bidder’s / tenderer’s service contract related to vehicle has not been terminated due to bad performance in Mumbai /Navi Mumbai region in last 6(six) months. If above mentioned adverse performance comes in the notice of the buyer, he may disqualify the offer during evaluation stage. 19. Performance Guarantee: The value of performance guarantee is 5% of the value of contract, with validity of 6 mon",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "ths above the contract period. The performance guarantee should be submitted within 30 days from contract generati on date to user department which shall stand refundable after successful completion of the contract subject to certifica te from us er department that there are no pending dues whatsoever against the contractor. Special Conditions for Circle-1 (Mumbai Region upto Thane) are as below 1. The hiring of vehicle service will be in 2 parts (of the same Work) as below: a. Deployment and operations of the vehicle service: i. i) Contractor shall provide Vehicles inclusive of fuel requirements, on a monthly basis. ii ii) The Service Provider shall ensure that all maintenance works related to the assigned vehicle will be carried out in off -duty hours and shall be periodically checked and maintained by the Service Provider to avoid any inconvenience to th e buyer along with other necessary requirements for regular washing/cleaning and all the necessary permits/licenses/cl earances such as, but not limited to fitness certificate, PUC, full comprehensive insurance, road permit, registration cer tificate, as per the Motor Vehicles Act, RTO and other applicable laws and statutory bodies, for providing commercial ve hicles for t 15 / 21his service, and all other conditions as per the GeM model contract w.r.t. the deployment and operati ons of the vehicle ser vice (except w.r.t. excluding driver’s payment, which is cover ed separately in part ‘b’ below). ii iii) Deductions for non-compliance of standards of the serv ices as per Contract as applicable to the vehicle service (exce pt traffic violations pertaining to driver’s responsibility) shall be made from the payment made to Service Provider (Con tractor). i iv) . Price Variation Clause (PVC) will be applicable as per the Contract. v. v) ‘Extra per Kms charges’ will be applicable as per the Contract. However, ‘extra Kms’ will be calculated as the total Km s run by all the vehicles included in the contract in that month beyond the ‘Pooled’ Kms of respective ‘bundled Km/hou r package’ of all the vehicles within that contract. For example, if there are 3 vehicles with 1500 km x 320 hours packa ge each in the contract, with run of 1200 Kms, 1700 Kms and 18 00 Kms, respectively, in that month, then ‘Extra per K ms charges’ will be paid on the Kms run beyond pooled Km i.e. (120 0+1700+1800)- (1500+1500+1500) = 4700 - 450 0 = 200 Km only. vi) 'No Extra hours charges' will be applicableon vehicles as the vehicles are hired for the full period of contract. v vii) All other conditions as per GeM model contract. b. Deployment of Driver: i. i) The Driver deployed should possess the requisite valid Driving License. ii. ii) The criminal antecedents of the Driver should be verified with the Police Authority and the certificate to this effect sho uld be furnished by the Service Provider. iii. iii) The suitability of the Driver will be assessed and approved by the Officer for whom the vehicle person is being provid e d, prior to such engagement. iv. iv) It is the responsibility of the service provider to always provide one driver per vehicle as per the requirement, while c omplying with the Labour Laws. v. v) The service provider shall provide at his own cost proper uniform and badges and photo identity cards to the drivers in compliance with the Motor Transport Workers Act. vi. vi) Extra hour charges will be paid to the Driver as per the Contract. viivii) Deductions for non-compliance of standards of the services as per Contract as applicable pertaining to driver’s respo nsibility shall be made from the salary of the Driver paid by the Service Provider (Contractor). vii viii) The Salary to be paid to the Driver shall be according to minimum wages at the bottom of the pay matrix level 1 decl ared by the Railway Ministry+ DA as applicable, subject to Mini mum Wage applicable as per below: 2. 1. Salary to be paid: The Drivers Salary will be calculated as",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "Basic Salary pro DA@46% curren Gross Salary as Highest Minimu Final Salar y'(3) posed (A) tly (B) per (A)+(B) m wage in Categ =Higher of ory # (2) nd (2) (1) ₹18,000. 00 ₹8,280.00 ₹26,280.00 ₹12,892.0 ₹26,280.00 # Issued by Office of Labor Commissioner . ा. व/ क व ेअ/ व भा/2023(1)काया- dtd. 01.08.2023 (item no 39) Note: a. a) The Circle will be defined as per the address of the Consignee for whom the vehicle service has been hired, for exam ple, Kalyan will NOT fall in Circle-1. b. b) The Gross salary will vary with change in DA or Minimum Wages by the Govt. of India as per the table above. c. c) Service Provider (Contractor) shall submit the proof of any amount paid to the Government for the Driver(s) deployed against Statutory Employer Contributions viz. PF etc., which shall be paid by the Rail way to the Service Provider again st the invoice rais ed by the Service Provider. d. 2) Deductions-Statutory Employee contribution of PF, ESIC et c. (With basic as Rs. 18,000) e. 3) Total salary = (a) + (b) above less Statutory Deductions viz. Driver’s contribution of PF, ESIC etc. as applicable. f. 4) Net payment = Total Salary + Extra hour charges as per (vi) above- Deductions as per (vii) above. ix. ix) The wages of the Driver Date of payment for drivers Salary shall be paid by the Contractor on the last date of month. x. x) The drivers/staff provided by the service provider shall not be deemed employees of the buyer hence the compliance of the applicable Labour Laws and Acts, Transport Motor work 17 / 21ers Act and other relevant laws will be the sole re sponsibility of the service provider. xi. xi) The service provider shall be responsible for ensuring compliance with the provisions related to Labour Law [Central/ State] and especially Minimum Wages Act, Payment of Wages Act, PF, ESI Act, Payment of Bonus Act, Contract Labour [ R&A] Act, Workmen Compensation Act, Motor Vehicle Act, Motor Transport Workers Act, 1961 etc. and any other releva nt acts as applicable at present or in future during the tenure of the contract and as may been forced from time to time . Onus of compliance of all the applicable Laws/Acts/Rules/Guidelines/ Notifications/ Regulations/ Orders shall rest with the service provider only and the buyer will not be liable in any manner. xiixii) The Service Provider shall not deploy or shall discontinue deploying the driver(s), if desired by the Buyer and must en sure prompt replacement of the driver(s) without any addition al cost to the Buyer. The drivers being deployed shall or dinarily be continued and should not be changed without written intimation and consultation with Buyer. xiii. xiii) Price Variation Clause (PVC) will NOT be applicable to D river’s salary. However, the DA increase notified for the peri od of the contract and as applicable would be applied to the emoluments of the driver as mentioned above at viii (1) ab ove. xiv. xiv) All other conditions as per GeM model contract. 1) Working of Railways is 24 x 7, hence drivers may be called at any time in emergent situation. Contractor must ensur e availability of drivers whenever they are called. Necessary charges like night running, extra KM running, extra hours running will be paid additionally as per GeM SLA. The Contractor shall be responsible for keeping the necessary spare pool of drivers for emergent situations when the re gular driver is not available. Deployed Vehicles and Drivers shall be solely in control of the Officer for whom they have been hired and Service Provi der (Contractor) shall not have the right to deploy the deployed Vehicles or Drivers for any work at his discretion. Tender Bid invited shall be selected based on the Bidders’ quotes for the Cost Deployment and operations of the vehicl e including profit of the contractor, as the Salary of Diver will be fixed as above. 3. 2) Invoicing by Service Provider (Contractor): Single Payment GST Invoice shall be raised by the Contractor on a mont hly basis, stating in 2 parts as below:",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "a. a) Charges of Deployment and operations of the vehicle service (for 1(a) above), and b. b) Emoluments paid to Driver(s) (for 1(b) above): Contractor shall submit Documentary proof before processing the bills of the Contractors by the Railway i.e. Attendance Sheet and Bank statement of having paid the Salary, Statutory D eductions viz. Driver’s contribution of PF, E 18 / 21SIC etc., plus Extra hour charges and minus Deductions for non-com pliance of standards of the services as per Contract pertaining to the Driver, and Statutory Employer Contributions viz P F etc. The GST applicable on respective items of the invoice shall be shown explicitly by the Service Provider on the GST Invoi ce raised. The expense shall be booked to PU 32. 4. 3. Interim arrangement between 2 successive vehicle Contracts: Interim hiring of vehicle service (with driver) u ntil the new contract commences shall be done on quotation basis considering the urgency. The expense on such interi m hiring of vehicle service (with driver) shall be charged to the same Work sanctioned for hiring of the vehicle with driv er under which the contract was terminated. NOTE: All other terms and conditions of the contract for Hiring of Vehicle Service, which is not specified above, will be govern ed by Service Level Agreement (SLA) for monthly basis cab & ta xi hiring services of GeM Portal. ANNEXURE - B DAILY VEHICLE INSPECTION CHECKLIST Vehicle No.: _______________________ Date: ____________________________ Driver Name: ______________________ Penalty due to def Penalty due to default o Description of Inspection Checklist ault of Driver f Service Provider A. CLEANLINESS □ Vehicle washed and cleaned externally. Yes No □ Vehicle body free from dust, mud and stains. Yes No □ Interior cleaned properly. Yes No □ Floor mats clean and dust free. Yes No □ Seat covers clean and stain free. Yes No □ Dashboard, doors and windows cleaned. Yes No □ No unpleasant smell inside vehicle. Yes No B. AMBIANCE & COMFORT □ Good ambiance maintained inside vehicle. Yes No □ Pleasant room freshener/perfume available in ve No Yes hicle at all times. □ Interior environment comfortable for officers. Yes No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 11,
+      "quote": "□ No tobacco, cigarette, gutkha or pan masala sm Yes No ell inside vehicle. C. AIR CONDITIONING □ AC functioning properly. No Yes □ Adequate cooling available. No Yes □ AC vents clean and operational. No Yes D. ELECTRICAL & ACCESSORIES □ LCD/Infotainment system functioning properly. No Yes □ Interior lights functioning. No Yes □ Horn functioning. No Yes □ Wipers functioning. No Yes □ Power windows functioning. No Yes □ Mobile charging port functioning. No Yes E. VEHICLE CONDITION □ Vehicle mechanically fit and roadworthy. No Yes □ Tyres in good condition. No Yes □ Spare wheel available. No Yes □ Brakes functioning properly. No Yes □ Engine performance satisfactory. No Yes □ No abnormal noise or vibration. No Yes □ Fuel level adequate. No Yes F. SAFETY ITEMS □ Valid Registration Certificate (RC) available. No Yes □ Insurance valid. No Yes □ Pollution Under Control (PUC) Certificate valid. No Yes □ First Aid Box available. No Yes □ Fire Extinguisher available. No Yes □ Tool Kit and Jack available. No Yes G. SERVICING & MAINTENANCE □ Vehicle serviced as per manufacturer's schedule. No Yes □ Service records available for inspection. No Yes □ No overdue maintenance. No Yes □ Defects, if any, rectified promptly. No Yes H.MISC. ITEMS No Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 12,
+      "quote": "□ Uniform of driver No Yes □ White towel cover on all Seat No Yes □ Big Size Umbrella No Yes □Window Sun Shed Protection No Yes I. DRIVER CONDUCT □ Driver properly dressed and groomed. Yes No □ Driver punctual on duty. Yes No □ Driver polite, obedient and courteous. Yes No □ Driver shall not consume tobacco, gutkha, pan m Yes No asala, cigarettes, alcohol or any intoxicating substa nce while on duty. □ Driver carrying valid Driving Licence. Yes No □ Driver shall maintain professional conduct and c Yes No onfidentiality during official movements. Inspection Record Date of Inspection: ___________________ Vehicle No.: _________________________ No. of Deficiencies Observed: __________ Penalty Applicable @ Rs.500/- per deficiency: Rs. __________ Shift: Name & Attendance of Main Driver Shift: Name & Attendance of Rest giver Driver Remarks: 1) Shift: Signature of Main Driver: ___________________ Signature of Railway/GC Representative: ___________________ Signature of Controlling Officer: ___________________ 2) Shift: Signature of Rest giver Driver: ___________________ Signature of Railway/GC Representative: ___________________ Signature of Controlling Officer: ___________________ Note: Roster may be split to suit the movement of officer.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 13,
+      "quote": "ANNEXURE -C VEHICLE BILLING FORMAT Contractor/Service Provider: _____________________________________________ GeM Bid/Contract No.: _____________________________________________ Name of Work/Service: _____________________________________________ Month: _______________ Bill No.: ____________ Bill Date: ____________ A. Vehicle, Driver & KM Summary Principal Driv Vehicle N Duty Peri er / Sr. N o. od Total KM Driver Name Remarks o. Run Rest Giver dri / Model (Days) ver 1 2 3 B. Monthly Billing Summary Sr. N Particulars Unit / Qty Rate (₹) Amount (₹) o. 1 Monthly fixed charges for vehicle Additional kilometre charges, if applic 2 able Other admissible charges as per contr 3 act 4 Deduction for Penalty, if applicable Gross Amount Less: Deductions, if any Net Amount Payable",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 14,
+      "quote": "C. Acknowledgement of Salary Payment by Driver. (1) I, ______________________ certify that I have received sum of ₹ ___________/- in bank A/C No. ____________________ of ___________________ Bank against salary payment of ___ workin g days after deduction of penalty of ₹ _________/- against driver fault as given below: i. _______________________ ii. _______________________ iii. _______________________ Signature of Driver: _______________ (2) I, ______________________ certify that I have received sum of ₹ ___________/- in bank A/C No. ____________________ of ___________________ Bank against salary payment of ___ workin g days after deduction of penalty of ₹ _________/- against driver fault as given below: i. _______________________ ii. _______________________ iii. _______________________ Signature of Driver: _______________ D. Certificate I/We certify that the above particulars are true and correct, and that the charges claimed are st rictly in accordance with the terms of the GeM Contract. Signature of Contractor/Authorized Representative Name & Designation: ______________________________ Date: ____________________ Signature: ____________________ Checked & Recommended for Payment (Railway Official) Name & Designation: ______________________________ Date: ____________________ Signature: ____________________ Approved/Passed for Payment",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 15,
+      "quote": "Name & Designation: ______________________________ Date: ____________________ Signature: ____________________ . 11. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148234"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

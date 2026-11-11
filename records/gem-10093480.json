@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8211233",
   "title": "Handheld Digital Infrared Thermometer",
   "description": "Handheld Digital Infrared Thermometer",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "Central Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Handheld Digital Infrared Thermometer",
   "quantity": 10,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-10-29T12:04:24+05:30",
   "closing_at": "2026-11-19T11:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10093480"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/DblikSsCnJkxeCtRSy0ERCDhCwjlNlt1XN9U9sP41Jc",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261029",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +49,354 @@
   ],
   "source_fetched_at": "2026-11-09T08:19:46.198Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-20T11:00:00+05:30",
+  "office": "Central Railway Stores Deptt",
+  "buyer_email": "amd.kyn@cr.railnet.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "60 (Days)",
+  "source_document_fetched_at": "2026-11-11T15:28:13.614646+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "f6b91880f2e13a03dac2fee81b243c52820080a37e0f2e23e23b235f3e5a8dc8",
+  "document_pages": 7,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Umesh Kumar Sharma",
+      "address": "421301,ASSISTANT MATERIAL MANAGER/DIESEL CENTRAL RAILWAY DIESEL LOCO SHED, KALYAN EAST",
+      "quantity": 10,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "PERFORMANCE (INFRARED / NON- CONTACT)",
+          "parameter": "Lowest Measurable Temperature (Infrared Non- contact)",
+          "value": "-70 Or lower (degree Celsius)"
+        },
+        {
+          "group": "PERFORMANCE (INFRARED / NON- CONTACT)",
+          "parameter": "Highest Measurable Temperature (Infrared Non- contact)",
+          "value": "900, 950, 1000, 1050, 1100, 1200, 1300, 1370, 1400, 1470, 1500, 1600, 1700, 1800, 1850, 1900, 2000, 2100, 2200, 2300, 2400, 2500, 2600, 2700, 2800, 2900, 3000 Or higher (degree Celsius)"
+        },
+        {
+          "group": "PERFORMANCE (INFRARED / NON- CONTACT)",
+          "parameter": "Display Resolution",
+          "value": "0.1 Or lower (degree Celsius)"
+        },
+        {
+          "group": "PERFORMANCE (INFRARED / NON- CONTACT)",
+          "parameter": "Basic Accuracy (±)",
+          "value": "0.5 Or lower (degree Celsius)"
+        },
+        {
+          "group": "PERFORMANCE (INFRARED / NON- CONTACT)",
+          "parameter": "Spectral Range (in micrometer)",
+          "value": "8 TO 14"
+        },
+        {
+          "group": "PERFORMANCE (INFRARED / NON- CONTACT)",
+          "parameter": "Optical Resolution-Far field (Distance to spot ratio) (calculated at 90% energy)",
+          "value": "60:1, 70:1, 75:1, 100:1, 150:1, 200:1, 250:1 Or higher"
+        },
+        {
+          "group": "PERFORMANCE (INFRARED / NON- CONTACT)",
+          "parameter": "Emissivity (W/m2)",
+          "value": "Continuously Adjustable from 0.1 to 1.00"
+        },
+        {
+          "group": "DISPLAY / DATA OUTPUT",
+          "parameter": "Type of Display",
+          "value": "LCD"
+        },
+        {
+          "group": "DISPLAY / DATA OUTPUT",
+          "parameter": "Back-light display",
+          "value": "Yes"
+        },
+        {
+          "group": "DISPLAY / DATA OUTPUT",
+          "parameter": "Display Size(in inch)",
+          "value": "2.0 to 2.4, 2.5 to 2.9, 3.0 to 3.4, 3.5 to 3.9, 4.0 to 4.4, 4.5 to 4.9, 5.0 to 5.4, 5.5 to 5.9, 6.0 to 6.4, 6.5 to 6.9 Or higher"
+        },
+        {
+          "group": "DISPLAY / DATA OUTPUT",
+          "parameter": "Data Output to other devices",
+          "value": "No"
+        },
+        {
+          "group": "DISPLAY / DATA OUTPUT",
+          "parameter": "Connectivity / interface",
+          "value": "NA"
+        },
+        {
+          "group": "DISPLAY / DATA OUTPUT",
+          "parameter": "Data point logging capability (on board memory)",
+          "value": "100, 200, 500, 1000, 2000, 3000, 4000, 4999 Or higher"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "Power Source",
+          "value": "Alkaline Batteries (Non-Rechargeable)"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "Battery Size, if Non Rechargeable Battery",
+          "value": "AA"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Battery Chemistry",
+          "value": "Alkaline"
+        },
+        {
+          "group": null,
+          "parameter": "Battery Chargers for Rechargeable Batteries - inclusive in the scope of supply",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Number of Batteries required for operation",
+          "value": "2"
+        },
+        {
+          "group": null,
+          "parameter": "Number of Batteries supplied (Inclusive in the Scope of Supply)",
+          "value": "2"
+        },
+        {
+          "group": null,
+          "parameter": "Battery back-up time under continuous use",
+          "value": "8, 10, 12, 16, 20, 24, 30, 36, 48 Or higher (hour)"
+        },
+        {
+          "group": "SALIENT FEATURES / FUNCTIONS",
+          "parameter": "Salient Features / Functions",
+          "value": "Datahold"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Standard accessories inclusive in the scope of supply",
+          "value": "Data output cabkle"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Built-in laser for precisely aiming the target",
+          "value": "Yes"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Laser Class",
+          "value": "Class II"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Laser sighting",
+          "value": "Dual laser"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Optional/User Guide/Manual",
+          "value": "Yes"
+        },
+        {
+          "group": "OPERATING CONDITIONS / INGRESS PROTECTION",
+          "parameter": "Minimum Operating Temperature",
+          "value": "0, -5, -10, -15, -20, -25, -30 Or lower (degree Celsius)"
+        },
+        {
+          "group": "OPERATING CONDITIONS / INGRESS PROTECTION",
+          "parameter": "Maximum Operating Temperature",
+          "value": "50, 55, 60, 65, 70 Or higher (degree Celsius)"
+        },
+        {
+          "group": "OPERATING CONDITIONS / INGRESS PROTECTION",
+          "parameter": "Maximum Operating Humidity at 40 deg C - Non- condensing (Rh)",
+          "value": "90, 95 Or higher (percent)"
+        },
+        {
+          "group": "OPERATING CONDITIONS / INGRESS PROTECTION",
+          "parameter": "Maximum Operating Altitude (meters above MSL)",
+          "value": "501 to 2000, 2001 to 3000 Or higher"
+        },
+        {
+          "group": "OPERATING CONDITIONS / INGRESS PROTECTION",
+          "parameter": "Ingress Protection",
+          "value": "NA, IP 40, IP 54, IP 65, IP 66, IP 67 Or higher"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "Warranty",
+          "value": "2.0 (year)"
+        },
+        {
+          "group": "CERTIFICATION / TEST REPORTS",
+          "parameter": "Compliance to Standards",
+          "value": "EN 61326-1, EN 61326-2 Electromagnetic Compatibility"
+        },
+        {
+          "group": "CERTIFICATION / TEST REPORTS",
+          "parameter": "Hazardous location (Intrinsically Safe / non- incendive) approval",
+          "value": "No"
+        },
+        {
+          "group": "CERTIFICATION / TEST REPORTS",
+          "parameter": "Availability of Test Reports from Central Govt / NABL approved / ILAC accredited Lab to prove conformity to the specification",
+          "value": "No"
+        },
+        {
+          "group": "CALIBRATION",
+          "parameter": "Calibration Certificate issuing authority",
+          "value": "OEM Certificate"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 3. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 4. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): NIL Post Receipt Inspection at consignee site before acceptance of stores: CONSIGNEE"
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8211233",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10093480"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 19-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10093480"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 20-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10093480"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 60 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10093480"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10093480"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10093480"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Central Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10093480"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Central Railway Stores Deptt",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10093480"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :dycmmadmin@cr.railnet.gov.in Buyer Email id: amd.kyn@cr.railnet.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10093480"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 10",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10093480"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Handheld Digital Infrared Thermometer (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10093480"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10093480"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10093480"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10093480"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10093480"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10093480"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Lowest Measurable Temperature (Infrared Non- contact): -70 Or lower (degree Celsius) | Highest Measurable Temperature (Infrared Non- contact): 900, 950, 1000, 1050, 1100, 1200, 1300, 1370, 1400, 1470, 1500, 1600, 1700, 1800, 1850, 1900, 2000, 2100, 2200, 2300, 2400, 2500, 2600, 2700, 2800, 2900, 3000 Or higher (degree Celsius) | Display Resolution: 0.1 Or lower (degree Celsius) | Basic Accuracy (±): 0.5 Or lower (degree Celsius) | Spectral Range (in micrometer): 8 TO 14 | Optical Resolution-Far field (Distance to spot ratio) (calculated at 90% energy): 60:1, 70:1, 75:1, 100:1, 150:1, 200:1, 250:1 Or higher | Emissivity (W/m2): Continuously Adjustable from 0.1 to 1.00 | Type of Display: LCD | Back-light display: Yes | Display Size(in inch): 2.0 to 2.4, 2.5 to 2.9, 3.0 to 3.4, 3.5 to 3.9, 4.0 to 4.4, 4.5 to 4.9, 5.0 to 5.4, 5.5 to 5.9, 6.0 to 6.4, 6.5 to 6.9 Or higher | Data Output to other devices: No | Connectivity / interface: NA | Data point logging capability (on board memory): 100, 200, 500, 1000, 2000, 3000, 4000, 4999 Or higher | Power Source: Alkaline Batteries (Non-Rechargeable) | Battery Size, if Non Rechargeable Battery: AA",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10093480"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Battery Chemistry: Alkaline | Battery Chargers for Rechargeable Batteries - inclusive in the scope of supply: Yes | Number of Batteries required for operation: 2 | Number of Batteries supplied (Inclusive in the Scope of Supply): 2 | Battery back-up time under continuous use: 8, 10, 12, 16, 20, 24, 30, 36, 48 Or higher (hour) | Salient Features / Functions: Datahold | Standard accessories inclusive in the scope of supply: Data output cabkle | Built-in laser for precisely aiming the target: Yes | Laser Class: Class II | Laser sighting: Dual laser | Optional/User Guide/Manual: Yes | Minimum Operating Temperature: 0, -5, -10, -15, -20, -25, -30 Or lower (degree Celsius) | Maximum Operating Temperature: 50, 55, 60, 65, 70 Or higher (degree Celsius) | Maximum Operating Humidity at 40 deg C - Non- condensing (Rh): 90, 95 Or higher (percent) | Maximum Operating Altitude (meters above MSL): 501 to 2000, 2001 to 3000 Or higher | Ingress Protection: NA, IP 40, IP 54, IP 65, IP 66, IP 67 Or higher | Warranty: 2.0 (year) | Compliance to Standards: EN 61326-1, EN 61326-2 Electromagnetic Compatibility | Hazardous location (Intrinsically Safe / non- incendive) approval: No | Availability of Test Reports from Central Govt / NABL approved / ILAC accredited Lab to prove conformity to the specification: No | Calibration Certificate issuing authority: OEM Certificate",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10093480"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Umesh Kumar Sharma | 421301,ASSISTANT MATERIAL MANAGER/DIESEL CENTRAL RAILWAY DIESEL LOCO SHED, KALYAN EAST | 10 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10093480"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 3. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 4. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): NIL Post Receipt Inspection at consignee site before acceptance of stores: CONSIGNEE",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10093480"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

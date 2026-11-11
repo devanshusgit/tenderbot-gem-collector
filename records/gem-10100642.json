@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8217508",
   "title": "Monthly Basis Cab & Taxi Hiring Services - SUV; 1500 km x 624 hours; Local",
   "description": "Monthly Basis Cab & Taxi Hiring Services - SUV; 1500 km x 624 hours; Local",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "South Eastern Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Monthly Basis Cab & Taxi Hiring Services - SUV; 1500 km x 624 hours; Local",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 21336,
   "published_at": "2026-10-29T17:59:13+05:30",
   "closing_at": "2026-11-19T18:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10100642"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261029",
+      "page": 9
+    },
+    {
+      "name": "Service Level Agreement",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/bidsla/102022968812164",
+      "page": 9
     }
   ],
   "tags": [
@@ -34,5 +49,306 @@
   ],
   "source_fetched_at": "2026-11-09T08:23:31.946Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-20T18:00:00+05:30",
+  "office": "Ser Hq",
+  "buyer_email": "nikhil.guha@gov.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 6,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Bidder Turnover,Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 27,
+  "offer_validity": "90 (Days)",
+  "estimated_bid_value": 1066776,
+  "contract_period": "2 Year(s)",
+  "source_document_fetched_at": "2026-11-11T00:43:32.992415+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "af30b4d2f88a7e833102bf4d29e6afb4c83f3341db817c9ccde4ecba3a63533a",
+  "document_pages": 10,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 6 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Rupashi Nag",
+      "address": "700043,11, Garden reach Road",
+      "quantity": 1,
+      "quantity_label": "Number of Vehicles Required",
+      "delivery_days": null,
+      "additional_requirements": "Duration in Months for which service is required : 24"
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Vehicle Type",
+          "value": "SUV"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type of car (Please select at least 3 options)",
+          "value": "Maruti Suzuki Ertiga , Toyota Innova Crysta , Mahindra Scorpio Classic"
+        },
+        {
+          "group": "Core",
+          "parameter": "Usage Variant",
+          "value": "1500 km x 624 hours"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type of Service",
+          "value": "Local"
+        },
+        {
+          "group": "Core",
+          "parameter": "Year of Vehicle Model",
+          "value": "2026 , 2025 , 2024"
+        },
+        {
+          "group": "Core",
+          "parameter": "Km Travelled",
+          "value": "Upto 25,000 Kms"
+        },
+        {
+          "group": "Core",
+          "parameter": "Air Conditioning Requirement",
+          "value": "A/C"
+        },
+        {
+          "group": "Core",
+          "parameter": "Area of Operation",
+          "value": "Plains"
+        },
+        {
+          "group": "Core",
+          "parameter": "Fuel Type",
+          "value": "Any"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE 25% : The buyer can increase or decrease the contract quantity or contract duration up to 25 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 25 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 25 percent with the consent of the service provider 2. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 3. Payment PAYMENT OF SALARIES AND WAGES: Service Provider is required to pay Salaries / wages of contracted staff deployed at buyer location first i.e. on their own and then claim payment from Buyer alongwith all statutory documents like, PF, ESIC etc. as well as the bank statement of payment done to staff. 4. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 5. Past Project Experience Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc.Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be"
+    },
+    {
+      "page": 6,
+      "text": "considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc. 6. Buyer Added Bid Specific Scope Of Work(SOW) Text Clause(s) 1 Service & Support AVAILABILITY OF OFFICE OF SERVICE PROVIDER: An office of the Service Provider must be located in the s tate of Consignee. DOCUMENTARY EVIDENCE TO BE SUBMITTED. 2 Service & Support Dedicated/toll Free Telephone No. for Service Support: BIDDER/OEM MUST HAVE Dedicated/toll Free Telep hone No. for Service Support. 3 Buyer Added Bid Specific ATC Buyer Added text-based ATC clauses 1. The vehicle shall have valid registration under commercial category. 2. The toll charges, parking feed, night allowance charges to driver if any will be paid by service provider ; it will not be reimbursed by Railway. 3. No accommodation & Garage facilities will be provided by Railway to the driver and for the vehicle. 4. The driver should be proper uniform, identity card and carry mobile phone. 5. The seats of the vehicle should have good clean cloth covers (preferably with towel), which must be ch anged weekly. Special Condition 1 The contractor shall within the accepted rate make available vehicles in good condition. The vehicle shal l be provided by the Contractor after receiving the letter for providing the vehicle. The offered vehicle shou ld have the valid papers like Commercial permit, road tax, insurance, pollution free certificate, fitness certi ficate etc. and should be free from all encumbrances. All the drivers should have valid and current license. The vehicle should report for duty every day without fail at the nominated place and as per order of the us er. 2 The Driver should maintain a Log Book of the movement of the vehicle under his control indicating daily KM and hours of deployment which should be got signed by the officer using the vehicle. At the end of the month, he should prepare a summary of the Kms run and hours used, which shall make the basis of the pa yment to the Contractor. 3 The vehicle should be made readily available from 09 AM to 09 PM normally. However, railway can ask f or any hours to any hours covering 24 hours as per its requirement with the Driver, fuel and all necessities etc. The maximum permissible Kms run in a month would be 1500 KMs per month, However, no claim shal l be entertained for any extra or lesser running of the vehicle and the payment of the running charges shall be made on the basis of the actual running and hiring for 624 hrs If required vehicle can be called on Sund ays & holidays too. 4 Any less utilization on hourly basis in any day will be carried forward to next month. Similarly, any extra hour's utilization will be adjusted in next month. 5 a) The contractor has to supply 01 (one) No. AC SUV (Ertiga or similar sedan) 4-wheeler vehicle within th e accepted rate and terms and conditions. Garage facility will have to be provided by contractor and the s ame will be duly intimated by him to S. E. Railway. However, the payment will be made from the place of r eporting of the vehicle to the user to the place of release by the user as per day-to-day requirement. The c ontractor may take the vehicle to his garage/shed during off hour/off days for which no payment shall be"
+    },
+    {
+      "page": 7,
+      "text": "made for running of vehicles from the garage/shed to the reporting place or place of release by the user. b ) The vehicle should have required permit like commercial permit. 6 Pay, Tiffin or allowance of any kind payable to the driver of the vehicle shall be borne by contractor. 7 Railway shall not be responsible for any i) Damage to the vehicle for any accident. ii) Court cases or com pensation payable and arising out of the vehicle or its driver iii) Any charges or taxes or surcharges etc. th at may be levied by the State or central Government including road taxes. The contractor must pay all sta tutory liabilities, road taxes, service taxes, GST, insurance charges, pollution free fees etc. within stipulate d time and relevant papers in respect of the above may be furnished to the user as and when demanded. 8 If the vehicle is observed to have developed any disorder during its use, the contractor shall have to pro vide alternate vehicle of the specified type within 60 minutes till the vehicle is repaired and put back to ser vice. 9 In case of breakdown of nominated vehicle, the contractor shall provide an alternative vehicle in this cas e otherwise the contractor should be liable to pay a penalty of Rs.1500/- per vehicle per day in addition to non-payment of hiring charges. 10 The contractor shall maintain proper communication with the vehicle users regularly. He shall also advi se them some contact phone numbers where they can contact the contractor or his responsible represent ative within 24 hours to pass on any message or information during as well as outside office hours. The dri ver should be provided with mobile phone to call at any time even at night in case of urgency. No addition al charges will be paid for the same. 12 The contractor must follow all statutory laws and guidelines in connection with the running/hiring of veh icles as applicable. The Railway shall not be held responsible for any non-compliance of such statutory law s. The contractor shall also follow the provision of \"Contract labour Regulation and Abolition Act\" and Mini mum Wages Act for payment to the driver as per extent rules. 13 The contractor shall have all the infrastructures as per conditions applicable as per State Govt. rules. Th e running vehicle under the contract must have proper permission/commercial permit for running through contract system under Central Govt. if applicable. 14 The contractor shall nominate the vehicle and driver and the same will be run throughout the contract period except for the time the vehicle is under maintenance (prior intimation to this effect must be given t o the concerned officers well in advance). However, any permanent change in the vehicle or the driver sha ll have to be got approved from Railway. In any case the same vehicle shall not be used in other purpose i n off time i.e. beyond duty hours. 15 Contractor should provide uniform to driver i.e. white shirt, white trouser and black shoe. No extra pay ment shall be made to contractor on account of uniform. The driver deployed should be well familiar with t he road network, land marks, traffic regulations etc. Driver should not consume alcoholic drinks /drugs whi le on railway duty and should be polite. 16 The Railway reserves the right to terminate the contract after giving notice as per GeM/GCC rules. 17 Safety and security of the vehicle shall be the sole responsibility of the contractor. 18 The payment to the contractor will be made as per schedule every month after submission of necessar y bill (plus log books) by the contractor. Subsequent there to the said bill (plus log book) will be checked at GM's Office and then processed for payment. After completion of the work no un-account bill will be entert ained. 19 The contractor shall not sublet, assign or transfer this contract or any rights or benefits hereunder to an y other person or persons, nor shall the contractor take any partners without the prior written consent of D y. Secretary to GM or his authorized representative. 20 One weekly off is permitted to the Driver normally on Sundays. However, it may be deferred to some ot her day at the discretion of officer in charge to whom the vehicle is attached when vehicle is required on w eekly rest day, another suitable driver may be deputed by contractor. 21 The contractor shall ensure that all the meters particularly the Milometer/Speedometer and other devic es of vehicle are always in working condition. In case of any defect, the contractor at his own cost may rec tify the same. For the interim period the contractor shall arrange another vehicle so that the Railway's wor k does not get hampered."
+    },
+    {
+      "page": 8,
+      "text": "22 The contractor shall provide a spare wheel and necessary tools in good working condition 23 In the event of the breakdown of the vehicle en-route responsibility of transporting the incumbent of the vehicle to his destination shall be borne by the contractor. 24 The contractor shall be required to submit papers, certificate (i.e. registration certificate, fitness certific ate, and insurance policy etc.) of the vehicles for verification by this office. 25 First Aid Box with all necessary consumable items should be made available all the time by the Contrac tor and periodically he/they should inspect and recoup the same and necessary entry should also made in Log Book. The drivers and passengers’ safety belts should also be provided by the contractors. Damaged, broken and over aged belt should also be replaced by the contractor. 26 The tenderer / contractor should submit the certificate regarding the calibration of Speedo meter, as an d when demanded by the concerned officer using the vehicle. 27 Oil, fuel, etc. required for the vehicle should be made available before starting of duty hours. Absence o f vehicle at the stand during working hours on these accounts or otherwise will be treated as absent and li able for penalty. 28 Availability of mobile phones with the vehicle drivers is compulsory. Mobile should be complete with live SIM Card & Driver must respond the phone as and when called by the controlling officer. 29 No extra payment shall be made on account of increase/decrease in the rate of Fuel, lubricants, labour wages or any other taxes etc."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8217508",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100642"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 19-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100642"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 20-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100642"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100642"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100642"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100642"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: South Eastern Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100642"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Ser Hq",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100642"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :dgmg@ser.railnet.gov.in Buyer Email id: nikhil.guha@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100642"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Monthly Basis Cab & Taxi Hiring Services - SUV; 1500 km x 624 hours; Local",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100642"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 2 Year(s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100642"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 6 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100642"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100642"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100642"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100642"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100642"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100642"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100642"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "(( )) / Estimated Bid Value in INR (Inclusive of all taxes): 1066776",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100642"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 21336",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100642"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 21336",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100642"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100642"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 27",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100642"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100642"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Vehicle Type: SUV | Type of car (Please select at least 3 options): Maruti Suzuki Ertiga , Toyota Innova Crysta , Mahindra Scorpio Classic | Usage Variant: 1500 km x 624 hours | Type of Service: Local | Year of Vehicle Model: 2026 , 2025 , 2024 | Km Travelled: Upto 25,000 Kms | Air Conditioning Requirement: A/C | Area of Operation: Plains | Fuel Type: Any",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100642"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Number of Vehicles Required | Additional Requirement: 1 | Rupashi Nag | 700043,11, Garden reach Road | 1 | Duration in Months for which service is required : 24",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100642"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE 25% : The buyer can increase or decrease the contract quantity or contract duration up to 25 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 25 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 25 percent with the consent of the service provider 2. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 3. Payment PAYMENT OF SALARIES AND WAGES: Service Provider is required to pay Salaries / wages of contracted staff deployed at buyer location first i.e. on their own and then claim payment from Buyer alongwith all statutory documents like, PF, ESIC etc. as well as the bank statement of payment done to staff. 4. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 5. Past Project Experience Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc.Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100642"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc. 6. Buyer Added Bid Specific Scope Of Work(SOW) Text Clause(s) 1 Service & Support AVAILABILITY OF OFFICE OF SERVICE PROVIDER: An office of the Service Provider must be located in the s tate of Consignee. DOCUMENTARY EVIDENCE TO BE SUBMITTED. 2 Service & Support Dedicated/toll Free Telephone No. for Service Support: BIDDER/OEM MUST HAVE Dedicated/toll Free Telep hone No. for Service Support. 3 Buyer Added Bid Specific ATC Buyer Added text-based ATC clauses 1. The vehicle shall have valid registration under commercial category. 2. The toll charges, parking feed, night allowance charges to driver if any will be paid by service provider ; it will not be reimbursed by Railway. 3. No accommodation & Garage facilities will be provided by Railway to the driver and for the vehicle. 4. The driver should be proper uniform, identity card and carry mobile phone. 5. The seats of the vehicle should have good clean cloth covers (preferably with towel), which must be ch anged weekly. Special Condition 1 The contractor shall within the accepted rate make available vehicles in good condition. The vehicle shal l be provided by the Contractor after receiving the letter for providing the vehicle. The offered vehicle shou ld have the valid papers like Commercial permit, road tax, insurance, pollution free certificate, fitness certi ficate etc. and should be free from all encumbrances. All the drivers should have valid and current license. The vehicle should report for duty every day without fail at the nominated place and as per order of the us er. 2 The Driver should maintain a Log Book of the movement of the vehicle under his control indicating daily KM and hours of deployment which should be got signed by the officer using the vehicle. At the end of the month, he should prepare a summary of the Kms run and hours used, which shall make the basis of the pa yment to the Contractor. 3 The vehicle should be made readily available from 09 AM to 09 PM normally. However, railway can ask f or any hours to any hours covering 24 hours as per its requirement with the Driver, fuel and all necessities etc. The maximum permissible Kms run in a month would be 1500 KMs per month, However, no claim shal l be entertained for any extra or lesser running of the vehicle and the payment of the running charges shall be made on the basis of the actual running and hiring for 624 hrs If required vehicle can be called on Sund ays & holidays too. 4 Any less utilization on hourly basis in any day will be carried forward to next month. Similarly, any extra hour's utilization will be adjusted in next month. 5 a) The contractor has to supply 01 (one) No. AC SUV (Ertiga or similar sedan) 4-wheeler vehicle within th e accepted rate and terms and conditions. Garage facility will have to be provided by contractor and the s ame will be duly intimated by him to S. E. Railway. However, the payment will be made from the place of r eporting of the vehicle to the user to the place of release by the user as per day-to-day requirement. The c ontractor may take the vehicle to his garage/shed during off hour/off days for which no payment shall be",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100642"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "made for running of vehicles from the garage/shed to the reporting place or place of release by the user. b ) The vehicle should have required permit like commercial permit. 6 Pay, Tiffin or allowance of any kind payable to the driver of the vehicle shall be borne by contractor. 7 Railway shall not be responsible for any i) Damage to the vehicle for any accident. ii) Court cases or com pensation payable and arising out of the vehicle or its driver iii) Any charges or taxes or surcharges etc. th at may be levied by the State or central Government including road taxes. The contractor must pay all sta tutory liabilities, road taxes, service taxes, GST, insurance charges, pollution free fees etc. within stipulate d time and relevant papers in respect of the above may be furnished to the user as and when demanded. 8 If the vehicle is observed to have developed any disorder during its use, the contractor shall have to pro vide alternate vehicle of the specified type within 60 minutes till the vehicle is repaired and put back to ser vice. 9 In case of breakdown of nominated vehicle, the contractor shall provide an alternative vehicle in this cas e otherwise the contractor should be liable to pay a penalty of Rs.1500/- per vehicle per day in addition to non-payment of hiring charges. 10 The contractor shall maintain proper communication with the vehicle users regularly. He shall also advi se them some contact phone numbers where they can contact the contractor or his responsible represent ative within 24 hours to pass on any message or information during as well as outside office hours. The dri ver should be provided with mobile phone to call at any time even at night in case of urgency. No addition al charges will be paid for the same. 12 The contractor must follow all statutory laws and guidelines in connection with the running/hiring of veh icles as applicable. The Railway shall not be held responsible for any non-compliance of such statutory law s. The contractor shall also follow the provision of \"Contract labour Regulation and Abolition Act\" and Mini mum Wages Act for payment to the driver as per extent rules. 13 The contractor shall have all the infrastructures as per conditions applicable as per State Govt. rules. Th e running vehicle under the contract must have proper permission/commercial permit for running through contract system under Central Govt. if applicable. 14 The contractor shall nominate the vehicle and driver and the same will be run throughout the contract period except for the time the vehicle is under maintenance (prior intimation to this effect must be given t o the concerned officers well in advance). However, any permanent change in the vehicle or the driver sha ll have to be got approved from Railway. In any case the same vehicle shall not be used in other purpose i n off time i.e. beyond duty hours. 15 Contractor should provide uniform to driver i.e. white shirt, white trouser and black shoe. No extra pay ment shall be made to contractor on account of uniform. The driver deployed should be well familiar with t he road network, land marks, traffic regulations etc. Driver should not consume alcoholic drinks /drugs whi le on railway duty and should be polite. 16 The Railway reserves the right to terminate the contract after giving notice as per GeM/GCC rules. 17 Safety and security of the vehicle shall be the sole responsibility of the contractor. 18 The payment to the contractor will be made as per schedule every month after submission of necessar y bill (plus log books) by the contractor. Subsequent there to the said bill (plus log book) will be checked at GM's Office and then processed for payment. After completion of the work no un-account bill will be entert ained. 19 The contractor shall not sublet, assign or transfer this contract or any rights or benefits hereunder to an y other person or persons, nor shall the contractor take any partners without the prior written consent of D y. Secretary to GM or his authorized representative. 20 One weekly off is permitted to the Driver normally on Sundays. However, it may be deferred to some ot her day at the discretion of officer in charge to whom the vehicle is attached when vehicle is required on w eekly rest day, another suitable driver may be deputed by contractor. 21 The contractor shall ensure that all the meters particularly the Milometer/Speedometer and other devic es of vehicle are always in working condition. In case of any defect, the contractor at his own cost may rec tify the same. For the interim period the contractor shall arrange another vehicle so that the Railway's wor k does not get hampered.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100642"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "22 The contractor shall provide a spare wheel and necessary tools in good working condition 23 In the event of the breakdown of the vehicle en-route responsibility of transporting the incumbent of the vehicle to his destination shall be borne by the contractor. 24 The contractor shall be required to submit papers, certificate (i.e. registration certificate, fitness certific ate, and insurance policy etc.) of the vehicles for verification by this office. 25 First Aid Box with all necessary consumable items should be made available all the time by the Contrac tor and periodically he/they should inspect and recoup the same and necessary entry should also made in Log Book. The drivers and passengers’ safety belts should also be provided by the contractors. Damaged, broken and over aged belt should also be replaced by the contractor. 26 The tenderer / contractor should submit the certificate regarding the calibration of Speedo meter, as an d when demanded by the concerned officer using the vehicle. 27 Oil, fuel, etc. required for the vehicle should be made available before starting of duty hours. Absence o f vehicle at the stand during working hours on these accounts or otherwise will be treated as absent and li able for penalty. 28 Availability of mobile phones with the vehicle drivers is compulsory. Mobile should be complete with live SIM Card & Driver must respond the phone as and when called by the controlling officer. 29 No extra payment shall be made on account of increase/decrease in the rate of Fuel, lubricants, labour wages or any other taxes etc.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100642"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

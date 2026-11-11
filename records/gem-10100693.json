@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8217545",
   "title": "AS PER BOM DESCRIPTION SL.No.1,AS PER BOM DESCRIPTION SL.No.2,AS PER BOM DESCRIPTION SL.No.3,AS PER",
   "description": "AS PER BOM DESCRIPTION SL.No.1,AS PER BOM DESCRIPTION SL.No.2,AS PER BOM DESCRIPTION SL.No.3,AS PER BOM DESCRIPTION SL.No.4,AS PER BOM DESCRIPTION SL.No.5,AS PER BOM DESCRIPTION SL.No.6,AS PER BOM DESCRIPTION SL.No.7,AS PER BOM DESCRIPTION SL.No.8,AS PER BOM DESCRIPTION SL.No.9,AS PER BOM DESCRIPTION SL.No.10,AS PER BOM DESCRIPTION SL.No.11,AS PER BOM DESCRIPTION SL.No.12,AS PER BOM DESCRIPTION SL.No.13,AS PER BOM DESCRIPTION SL.No.14,AS PER BOM DESCRIPTION SL.No.15,AS PER BOM DESCRIPTION SL.No.16,AS PER BOM DESCRIPTION SL.No.17,AS PER BOM DESCRIPTION SL.No.18,AS PER BOM DESCRIPTION SL.No.19,AS PER BOM DESCRIPTION SL.No.20,AS PER BOM DESCRIPTION SL.No.21,AS PER BOM DESCRIPTION SL.No.22,AS PER BOM DESCRIPTION SL.No.23,AS PER BOM DESCRIPTION SL.No.24,AS PER BOM DESCRIPTION SL.No.25",
-  "organisation": "Department of Defence Production",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Defence Production",
+  "organisation": "Hindustan Aeronautics Limited (hal)",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Defence Production",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "AS PER BOM DESCRIPTION SL.No.1,AS PER BOM DESCRIPTION SL.No.2,AS PER BOM DESCRIPTION SL.No.3,AS PER",
   "quantity": 5183,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-10-29T17:45:38+05:30",
   "closing_at": "2026-11-19T18:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "View File",
+      "url": "https://mkp.gem.gov.in/uploaded_documents/51/16/877/OrderItem/BoqDocument/2026/10/29/bid_document_2026-10-29-17-18-01_c99a82a074e3a2352de93917370ed97d.pdf",
+      "page": 5
+    },
+    {
+      "name": "View File",
+      "url": "https://mkp.gem.gov.in/uploaded_documents/51/16/877/OrderItem/BoqLineItemsDocument/2026/10/29/boq_item_sample_file1_2026-10-29-17-18-01_577fadb34ffab0d6727057fed7cf1a44.csv",
+      "page": 5
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261029",
+      "page": 24
     }
   ],
   "tags": [
@@ -34,5 +54,508 @@
   ],
   "source_fetched_at": "2026-11-09T08:23:31.946Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-20T18:00:00+05:30",
+  "buyer_email": "buyer14.hal.blr@gembuyer.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "120 (Days)",
+  "source_document_fetched_at": "2026-11-11T00:46:13.644940+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "b44d73c4bd08c4f4a682304fc75232fb354eba95a98f6c88829822ede3e7852d",
+  "document_pages": 24,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 2)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 2)",
+    "Documents required from seller: Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "***********",
+      "address": "***********BANGALORE CITY",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 6,
+      "consignee": "***********",
+      "address": "***********BANGALORE CITY",
+      "quantity": 7,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 6,
+      "consignee": "***********",
+      "address": "***********BANGALORE CITY",
+      "quantity": 12,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 7,
+      "consignee": "***********",
+      "address": "***********BANGALORE CITY",
+      "quantity": 40,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 8,
+      "consignee": "***********",
+      "address": "***********BANGALORE CITY",
+      "quantity": 59,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 8,
+      "consignee": "***********",
+      "address": "***********BANGALORE CITY",
+      "quantity": 12,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 9,
+      "consignee": "***********",
+      "address": "***********BANGALORE CITY",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 10,
+      "consignee": "***********",
+      "address": "***********BANGALORE CITY",
+      "quantity": 64,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 10,
+      "consignee": "***********",
+      "address": "***********BANGALORE CITY",
+      "quantity": 2,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 11,
+      "consignee": "***********",
+      "address": "***********BANGALORE CITY",
+      "quantity": 6,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 11,
+      "consignee": "***********",
+      "address": "***********BANGALORE CITY",
+      "quantity": 35,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 12,
+      "consignee": "***********",
+      "address": "***********BANGALORE CITY",
+      "quantity": 20,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 13,
+      "consignee": "***********",
+      "address": "***********BANGALORE CITY",
+      "quantity": 15,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 13,
+      "consignee": "***********",
+      "address": "***********BANGALORE CITY",
+      "quantity": 32,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 14,
+      "consignee": "***********",
+      "address": "***********BANGALORE CITY",
+      "quantity": 100,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 14,
+      "consignee": "***********",
+      "address": "***********BANGALORE CITY",
+      "quantity": 1200,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 15,
+      "consignee": "***********",
+      "address": "***********BANGALORE CITY",
+      "quantity": 300,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 16,
+      "consignee": "***********",
+      "address": "***********BANGALORE CITY",
+      "quantity": 100,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 16,
+      "consignee": "***********",
+      "address": "***********BANGALORE CITY",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 17,
+      "consignee": "***********",
+      "address": "***********BANGALORE CITY",
+      "quantity": 3050,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 18,
+      "consignee": "***********",
+      "address": "***********BANGALORE CITY",
+      "quantity": 71,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 18,
+      "consignee": "***********",
+      "address": "***********BANGALORE CITY",
+      "quantity": 52,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 19,
+      "consignee": "***********",
+      "address": "***********BANGALORE CITY",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 19,
+      "consignee": "***********",
+      "address": "***********BANGALORE CITY",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 20,
+      "consignee": "***********",
+      "address": "***********BANGALORE CITY",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    }
+  ],
+  "technical_specifications": [],
+  "buyer_added_terms": [
+    {
+      "page": 20,
+      "text": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. All the bidders need to upload Minimum Local Content Certificate for MII compliance, Malicious Code cer tificate, Land Border sharing declaration as per the standard format attached. 2. For any clarification related to tender participating bidders may contact us at 080-2232-4140/4290 or e mail us at imm.ardc@hal-india.co.in. 3.In case of placement of contract, items to be delivered at ARDC STORES DEPT between 07:00am to 02:0 0pm on working days. Accordingly, delivery person/ courier agent to be instructed to avoid any return of c onsignment. ARDC STORES contact no. 080-2232-4169/4202. 4. Bidders to ensure that no pricing aspect is indicated in the technical bid even in the form of PDF, else th e offer will get summarily rejected. 5. IP Address: GeM is capturing and displaying the IP address used by the buyer and the seller(s) for all the bids. If IP address of bidders are found to be same, then offers of such bidders are liable for disqualification. Buyer's decision in this regard shall be final and no communication from seller will be ent ertained. 6. In the case of a GeM contract, the responsibility for unloading the supplied items shall in the vendor’s sc ope. . 2. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at"
+    },
+    {
+      "page": 21,
+      "text": "following address AIRCRAFT RESEARCH AND DESIGN CENTRE HINDUSTAN AERONAUTICS LIMITED MARATHAHALLI POST BANGALORE ,560037 . 3. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 4. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 5. Generic Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of technical parameters, the bid is liable for rejection. 6. Generic Malicious Code Certificate: The seller should upload following certificate in the bid:- (a) This is to certify that the Hardware and the Software being offered, as part of the contract, does not contain Embedded Malicious code that would activate procedures to :- (i) Inhibit the desires and designed function of the equipment. (ii) Cause physical damage to the user or equipment during the exploitation. (iii) Tap information resident or transient in the equipment/network. (b) The firm will be considered to be in breach of the procurement contract, in case physical damage, loss of information or infringements related to copyright and Intellectual Property Right (IPRs) are caused due to activation of any such malicious code in embedded software. 7. Generic Non return of Hard Disk: As per Buyer organization’s Security Policy,Faulty Hard Disk of Servers/Desktop Computers/ Laptops etc. will not be returned back to the OEM/supplier against warranty replacement. 8. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 50 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 50% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the"
+    },
+    {
+      "page": 22,
+      "text": "original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 9. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 10. Generic 1. The Seller shall not assign the Contract in whole or part without obtaining the prior written consent of buyer. 2. The Seller shall not sub-contract the Contract in whole or part to any entity without obtaining the prior written consent of buyer. 3. The Seller shall, notwithstanding the consent and assignment/sub-contract, remain jointly and severally liable and responsible to buyer together with the assignee/ sub-contractor, for and in respect of the due performance of the Contract and the Sellers obligations there under. 11. Generic Without prejudice to Buyer’s right to price adjustment by way of discount or any other right or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a written notice to the Seller, if: i) The Seller fails to comply with any material term of the Contract. ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within the stipulated Delivery Period or such inability otherwise becomes apparent. iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery Period and/or to replace/rectify any rejected or defective Material(s) promptly. iv) The Seller becomes bankrupt or goes into liquidation. v) The Seller makes a general assignment for the benefit of creditors. vi) A receiver is appointed for any substantial property owned by the Seller. vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has placed the Purchase Order on the Seller. 12. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 13. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 14. Warranty Warranty period of the supplied products shall be as given in specifications from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8217545",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 19-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 20-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Defence Production",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Hindustan Aeronautics Limited (hal)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :imm.ardc@hal-india.co.in Buyer Email id: buyer14.hal.blr@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 5183",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: AS PER BOM DESCRIPTION SL.No.1 , AS PER BOM DESCRIPTION SL.No.2 , AS PER BOM DESCRIPTION SL.No.3 , AS PER BOM DESCRIPTION SL.No.4 , AS PER BOM DESCRIPTION SL.No.5 , AS PER BOM DESCRIPTION SL.No.6 , AS PER BOM DESCRIPTION SL.No.7 , AS PER BOM DESCRIPTION SL.No.8 , AS PER BOM DESCRIPTION SL.No.9 , AS PER BOM DESCRIPTION SL.No.10 , AS PER BOM DESCRIPTION SL.No.11 , AS PER BOM DESCRIPTION SL.No.12 , AS PER BOM DESCRIPTION SL.No.13 , AS PER BOM DESCRIPTION SL.No.14 , AS PER BOM DESCRIPTION SL.No.15 , AS PER BOM DESCRIPTION SL.No.16 , AS PER BOM DESCRIPTION SL.No.17 , AS PER BOM DESCRIPTION SL.No.18 , AS PER BOM DESCRIPTION SL.No.19 , AS PER BOM DESCRIPTION SL.No.20 , AS PER BOM DESCRIPTION SL.No.21 , AS PER BOM DESCRIPTION SL.No.22 , AS PER BOM DESCRIPTION SL.No.23 , AS PER BOM DESCRIPTION SL.No.24 , AS PER BOM DESCRIPTION SL.No.25",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 2,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 2,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "emd_required",
+      "page": 3,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "emd_fee",
+      "page": 3,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********BANGALORE CITY | 1 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********BANGALORE CITY | 7 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********BANGALORE CITY | 12 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "consignees",
+      "page": 7,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********BANGALORE CITY | 40 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "consignees",
+      "page": 8,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********BANGALORE CITY | 59 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "consignees",
+      "page": 8,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********BANGALORE CITY | 12 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "consignees",
+      "page": 9,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********BANGALORE CITY | 1 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "consignees",
+      "page": 10,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********BANGALORE CITY | 64 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "consignees",
+      "page": 10,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********BANGALORE CITY | 2 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "consignees",
+      "page": 11,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********BANGALORE CITY | 6 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "consignees",
+      "page": 11,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********BANGALORE CITY | 35 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "consignees",
+      "page": 12,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********BANGALORE CITY | 20 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "consignees",
+      "page": 13,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********BANGALORE CITY | 15 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "consignees",
+      "page": 13,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********BANGALORE CITY | 32 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "consignees",
+      "page": 14,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********BANGALORE CITY | 100 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "consignees",
+      "page": 14,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********BANGALORE CITY | 1200 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "consignees",
+      "page": 15,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********BANGALORE CITY | 300 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "consignees",
+      "page": 16,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********BANGALORE CITY | 100 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "consignees",
+      "page": 16,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********BANGALORE CITY | 1 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "consignees",
+      "page": 17,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********BANGALORE CITY | 3050 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "consignees",
+      "page": 18,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********BANGALORE CITY | 71 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "consignees",
+      "page": 18,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********BANGALORE CITY | 52 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "consignees",
+      "page": 19,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********BANGALORE CITY | 1 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "consignees",
+      "page": 19,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********BANGALORE CITY | 1 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "consignees",
+      "page": 20,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********BANGALORE CITY | 1 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 20,
+      "quote": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. All the bidders need to upload Minimum Local Content Certificate for MII compliance, Malicious Code cer tificate, Land Border sharing declaration as per the standard format attached. 2. For any clarification related to tender participating bidders may contact us at 080-2232-4140/4290 or e mail us at imm.ardc@hal-india.co.in. 3.In case of placement of contract, items to be delivered at ARDC STORES DEPT between 07:00am to 02:0 0pm on working days. Accordingly, delivery person/ courier agent to be instructed to avoid any return of c onsignment. ARDC STORES contact no. 080-2232-4169/4202. 4. Bidders to ensure that no pricing aspect is indicated in the technical bid even in the form of PDF, else th e offer will get summarily rejected. 5. IP Address: GeM is capturing and displaying the IP address used by the buyer and the seller(s) for all the bids. If IP address of bidders are found to be same, then offers of such bidders are liable for disqualification. Buyer's decision in this regard shall be final and no communication from seller will be ent ertained. 6. In the case of a GeM contract, the responsibility for unloading the supplied items shall in the vendor’s sc ope. . 2. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 21,
+      "quote": "following address AIRCRAFT RESEARCH AND DESIGN CENTRE HINDUSTAN AERONAUTICS LIMITED MARATHAHALLI POST BANGALORE ,560037 . 3. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 4. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 5. Generic Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of technical parameters, the bid is liable for rejection. 6. Generic Malicious Code Certificate: The seller should upload following certificate in the bid:- (a) This is to certify that the Hardware and the Software being offered, as part of the contract, does not contain Embedded Malicious code that would activate procedures to :- (i) Inhibit the desires and designed function of the equipment. (ii) Cause physical damage to the user or equipment during the exploitation. (iii) Tap information resident or transient in the equipment/network. (b) The firm will be considered to be in breach of the procurement contract, in case physical damage, loss of information or infringements related to copyright and Intellectual Property Right (IPRs) are caused due to activation of any such malicious code in embedded software. 7. Generic Non return of Hard Disk: As per Buyer organization’s Security Policy,Faulty Hard Disk of Servers/Desktop Computers/ Laptops etc. will not be returned back to the OEM/supplier against warranty replacement. 8. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 50 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 50% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 22,
+      "quote": "original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 9. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 10. Generic 1. The Seller shall not assign the Contract in whole or part without obtaining the prior written consent of buyer. 2. The Seller shall not sub-contract the Contract in whole or part to any entity without obtaining the prior written consent of buyer. 3. The Seller shall, notwithstanding the consent and assignment/sub-contract, remain jointly and severally liable and responsible to buyer together with the assignee/ sub-contractor, for and in respect of the due performance of the Contract and the Sellers obligations there under. 11. Generic Without prejudice to Buyer’s right to price adjustment by way of discount or any other right or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a written notice to the Seller, if: i) The Seller fails to comply with any material term of the Contract. ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within the stipulated Delivery Period or such inability otherwise becomes apparent. iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery Period and/or to replace/rectify any rejected or defective Material(s) promptly. iv) The Seller becomes bankrupt or goes into liquidation. v) The Seller makes a general assignment for the benefit of creditors. vi) A receiver is appointed for any substantial property owned by the Seller. vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has placed the Purchase Order on the Seller. 12. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 13. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 14. Warranty Warranty period of the supplied products shall be as given in specifications from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100693"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

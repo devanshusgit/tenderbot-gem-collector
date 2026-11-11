@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8218083",
   "title": "Solar Power Plant (Roof Top) for ONGRID System, Single Phase",
   "description": "Solar Power Plant (Roof Top) for ONGRID System, Single Phase",
-  "organisation": "Department of Panchayati Raj",
-  "ministry": "",
-  "department": "Department of Panchayati Raj",
+  "organisation": "Gondia District Panchayats",
+  "ministry": "Maharashtra",
+  "department": "Department Of Panchayati Raj",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Solar Power Plant (Roof Top) for ONGRID System, Single Phase",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-10-29T19:09:35+05:30",
   "closing_at": "2026-11-12T20:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10101332"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/ilc7qgN-H-rcqMpn1xiNJ-w4Oxf9y5R6kr4DZjJzJB4",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261029",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +49,240 @@
   ],
   "source_fetched_at": "2026-11-11T03:14:57.986Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "office": "Na",
+  "buyer_email": "buycon159.mpr.mh@gembuyer.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "15 (Days)",
+  "source_document_fetched_at": "2026-11-11T14:11:04.946900+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "8d09df071359b71949048778e7f0abca83cc5f8b8b6d89ecd7c230e734dd9b83",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Indraraj Dasaram Basene",
+      "address": "441911,Gram Panchayat Atri P .s Tiroda Dist Gondia",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "GENERIC",
+          "parameter": "A Grid Tied Photo Voltaic (SPV) power plant consists of",
+          "value": "SPV array, Module Mounting Structure, Power Conditioning Unit (PCU) consisting of Maximum Power Point Tracker (MPPT), Inverter, and Controls and Protections, interconnect cables and switches"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "PV Array Mounting",
+          "value": "Mounted on a suitable structure"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Grid Tied SPV System",
+          "value": "Without battery and designed with necessary features to supplement the grid power during day time."
+        },
+        {
+          "group": "INVERTER",
+          "parameter": "Rated output power of inverter (in KW)",
+          "value": "5"
+        },
+        {
+          "group": "INVERTER",
+          "parameter": "Switching device",
+          "value": "IGBT, MOSFET"
+        },
+        {
+          "group": "INVERTER",
+          "parameter": "Number of Phase",
+          "value": "1"
+        },
+        {
+          "group": "INVERTER",
+          "parameter": "Number of MPPT per inverter",
+          "value": "2"
+        },
+        {
+          "group": "INVERTER",
+          "parameter": "Number of string at input side of inverter ( input port +ve and -ve) ( hint: 1 sets contains 1 +ve and 1 -ve port)",
+          "value": "2 set"
+        },
+        {
+          "group": "INVERTER",
+          "parameter": "Service condition",
+          "value": "Outdoor"
+        },
+        {
+          "group": "INVERTER",
+          "parameter": "Ingress protection rating of inverter",
+          "value": "IP 65 (for outdoor use)"
+        },
+        {
+          "group": "INVERTER OUTPUT",
+          "parameter": "Overall Efficiency (in %)",
+          "value": ">90, >93, >96, >98"
+        },
+        {
+          "group": "DISPLAY FEATURES ON INVERTER",
+          "parameter": "Type of display",
+          "value": "LCD"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8218083",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10101332"
+    },
+    {
+      "field": "document_closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 09-11-2026 20:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10101332"
+    },
+    {
+      "field": "document_opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 10-11-2026 20:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10101332"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 15 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10101332"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Maharashtra",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10101332"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Panchayati Raj",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10101332"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Gondia District Panchayats",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10101332"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Na",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10101332"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :chk-gpatri-mah@panchayat.gov.in Buyer Email id: buycon159.mpr.mh@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10101332"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10101332"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Solar Power Plant (Roof Top) for ONGRID System, Single Phase (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10101332"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10101332"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10101332"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10101332"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10101332"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10101332"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "A Grid Tied Photo Voltaic (SPV) power plant consists of: SPV array, Module Mounting Structure, Power Conditioning Unit (PCU) consisting of Maximum Power Point Tracker (MPPT), Inverter, and Controls and Protections, interconnect cables and switches | PV Array Mounting: Mounted on a suitable structure",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10101332"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Grid Tied SPV System: Without battery and designed with necessary features to supplement the grid power during day time. | Rated output power of inverter (in KW): 5 | Switching device: IGBT, MOSFET | Number of Phase: 1 | Number of MPPT per inverter: 2 | Number of string at input side of inverter ( input port +ve and -ve) ( hint: 1 sets contains 1 +ve and 1 -ve port): 2 set | Service condition: Outdoor | Ingress protection rating of inverter: IP 65 (for outdoor use) | Overall Efficiency (in %): >90, >93, >96, >98 | Type of display: LCD",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10101332"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Indraraj Dasaram Basene | 441911,Gram Panchayat Atri P .s Tiroda Dist Gondia | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10101332"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10101332"
+    }
+  ],
+  "detail_warning": "The original PDF dates differ from the current public GeM listing. The listing closing date is retained. Confirm the latest opening date and any corrigenda on GeM; the original PDF opening date is not presented as current.",
+  "document_closing_at": "2026-11-09T20:00:00+05:30",
+  "document_opening_at": "2026-11-10T20:00:00+05:30",
+  "date_discrepancy": {
+    "listing_closing_at": "2026-11-12T20:00:00+05:30",
+    "document_closing_at": "2026-11-09T20:00:00+05:30",
+    "document_opening_at": "2026-11-10T20:00:00+05:30"
+  }
 }

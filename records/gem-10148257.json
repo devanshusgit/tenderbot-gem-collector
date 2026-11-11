@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8258697",
   "title": "Shouldary Double Fly Tent",
   "description": "Shouldary Double Fly Tent",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Army",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Shouldary Double Fly Tent",
   "quantity": 2,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-10T12:03:41+05:30",
   "closing_at": "2026-11-17T13:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10148257"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/gswqtyw27UEns4sTQT5xikJV4pTBByDYPqWApj77fS0",
+      "page": 3
+    },
+    {
+      "name": "View",
+      "url": "https://mkp.gem.gov.in/uploaded_documents/cms/tp/home_spor_camp_camp_shou/51/16/877/CategorySchema/gem_dgsnd_drawing_document/2021/7/30/dimensions-other-requirements_2021-07-30-17-42-29_f517d8c2b88a29eb5af9decf5ec8cee0.pdf",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261110",
+      "page": 5
     }
   ],
   "tags": [
@@ -34,5 +54,181 @@
   ],
   "source_fetched_at": "2026-11-11T03:06:31.420Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-18T13:00:00+05:30",
+  "buyer_email": "buycon169.cgda.rj@gembuyer.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-11T06:39:23.872687+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "7561316c6a0b2d06ff661771fbc3901955ccf3ffe814329a613d3889c02f506f",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "***********",
+      "address": "***********Jodhpur",
+      "quantity": 2,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "CONSTRUCTION",
+          "parameter": "General Requirements for Tents",
+          "value": "As per BIS specification No IS 7609- 1988"
+        },
+        {
+          "group": "SIZE",
+          "parameter": "Size",
+          "value": "4.88 m X 4.88 m"
+        },
+        {
+          "group": "ADVANCE SAMPLE",
+          "parameter": "Agree to provide Advance Sample(s) ( swatches of basic fabrics ) for buyer's approval before commencement of supply",
+          "value": "Yes, Not Applicable"
+        },
+        {
+          "group": "TEST REPORT",
+          "parameter": "Availability of Test Report from Designated AHSP / NABL / ILAC accredited or Central Government Lab to prove conformity of products to the specification",
+          "value": "Yes, No"
+        },
+        {
+          "group": "TEST REPORT",
+          "parameter": "Test reports to be furnished to buyer on demand, if claimed to be available",
+          "value": "Yes, Not applicable"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. seller provided samples conmat cloth before tech bid opening, if seller have been not provided sample combat cloth he will be disqualify. 2. add 942 Lt AD Wksp Shikargarh, Jodhpur ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8258697",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148257"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 17-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148257"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 18-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148257"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148257"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148257"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148257"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Army",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148257"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :ajayberwal.200m@gov.in Buyer Email id: buycon169.cgda.rj@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148257"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 2",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148257"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Shouldary Double Fly Tent (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148257"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148257"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148257"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148257"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148257"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148257"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "General Requirements for Tents: As per BIS specification No IS 7609- 1988 | Size: 4.88 m X 4.88 m | Agree to provide Advance Sample(s) ( swatches of basic fabrics ) for buyer's approval before commencement of supply: Yes, Not Applicable | Availability of Test Report from Designated AHSP / NABL / ILAC accredited or Central Government Lab to prove conformity of products to the specification: Yes, No | Test reports to be furnished to buyer on demand, if claimed to be available: Yes, Not applicable",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148257"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********Jodhpur | 2 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148257"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. seller provided samples conmat cloth before tech bid opening, if seller have been not provided sample combat cloth he will be disqualify. 2. add 942 Lt AD Wksp Shikargarh, Jodhpur .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10148257"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

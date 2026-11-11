@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8255416",
   "title": "high performance power supplies",
   "description": "high performance power supplies",
-  "organisation": "Department of Atomic Energy",
-  "ministry": "Department of Atomic Energy",
-  "department": "Department of Atomic Energy",
+  "organisation": "Indira Gandhi Centre For Atomic Research",
+  "ministry": "Department Of Atomic Energy",
+  "department": "Department Of Atomic Energy",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "high performance power supplies",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-10T10:55:39+05:30",
   "closing_at": "2026-11-30T11:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10144334"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/H3jf2-Tj0Qx093MSW3KtQinIuFdAKQ02Y5e6KEj4J0k",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261110",
+      "page": 5
     }
   ],
   "tags": [
@@ -34,5 +49,188 @@
   ],
   "source_fetched_at": "2026-11-11T03:07:43.441Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-01T11:00:00+05:30",
+  "office": "Indira Gandhi Centre For Atomic Research",
+  "buyer_email": "sta@igcar.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience: Yes | Complete",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-11T07:03:53.754792+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "4592472f311f7e559b4a12fbe0734d399389518f05318fcd6d4605ca55dd644b",
+  "document_pages": 5,
+  "eligibility": [
+    "MSE Relaxation for Years Of Experience: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience: Yes | Complete (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 3,
+      "consignee": "Arjun V",
+      "address": "603102,Metallurgy & Materials Group, Non Destructive Evaluation Division, IGCAR, Kalpakkam, Chengalpattu District",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "GENERIC",
+          "parameter": "Power Supply Type",
+          "value": "Benchtop DC"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Number Of Outputs",
+          "value": "1"
+        },
+        {
+          "group": "AC",
+          "parameter": "Number of Output Phase for AC Power Supply",
+          "value": "NA"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 3,
+      "text": "ेेतताा ाारराा जजोोड़ड़ गगईई बबडड कक ववशशेषेष शशतत"
+    },
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8255416",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144334"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 30-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144334"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 01-12-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144334"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144334"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Department Of Atomic Energy",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144334"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Atomic Energy",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144334"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indira Gandhi Centre For Atomic Research",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144334"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Indira Gandhi Centre For Atomic Research",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144334"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :sindhod@igcar.gov.in Buyer Email id: sta@igcar.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144334"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144334"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: high performance power supplies (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144334"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144334"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144334"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144334"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144334"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144334"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Power Supply Type: Benchtop DC | Number Of Outputs: 1 | Number of Output Phase for AC Power Supply: NA",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144334"
+    },
+    {
+      "field": "consignees",
+      "page": 3,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Arjun V | 603102,Metallurgy & Materials Group, Non Destructive Evaluation Division, IGCAR, Kalpakkam, Chengalpattu District | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144334"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 3,
+      "quote": "ेेतताा ाारराा जजोोड़ड़ गगईई बबडड कक ववशशेषेष शशतत",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144334"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144334"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

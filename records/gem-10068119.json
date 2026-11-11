@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8189370",
   "title": "Custom Bid for Services - RELAY BANASKANTHA",
   "description": "Custom Bid for Services - RELAY BANASKANTHA",
-  "organisation": "POWER GRID Corporation OF INDIA Limited",
-  "ministry": "Ministry of Power",
-  "department": "POWER GRID Corporation OF INDIA Limited",
+  "organisation": "Power Grid Corporation Of India Limited",
+  "ministry": "Ministry Of Power",
+  "department": "Power Grid Corporation Of India Limited",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Custom Bid for Services - RELAY BANASKANTHA",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-10-30T16:55:44+05:30",
   "closing_at": "2026-11-12T18:00:00+05:30",
   "status": "active",
@@ -27,6 +27,41 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10068119"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": ":1792666549.pdf",
+      "url": "https://bidplus.gem.gov.in/resources/upload_nas/OctQ426/bidding/biddoc/bid-10068119/1792666549.pdf",
+      "page": 3
+    },
+    {
+      "name": "1792666559.pdf",
+      "url": "https://bidplus.gem.gov.in/resources/upload_nas/OctQ426/bidding/biddoc/bid-10068119/1792666559.pdf",
+      "page": 3
+    },
+    {
+      "name": ":1792666567.pdf",
+      "url": "https://bidplus.gem.gov.in/resources/upload_nas/OctQ426/bidding/biddoc/bid-10068119/1792666567.pdf",
+      "page": 4
+    },
+    {
+      "name": ":1792666574.pdf",
+      "url": "https://bidplus.gem.gov.in/resources/upload_nas/OctQ426/bidding/biddoc/bid-10068119/1792666574.pdf",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261030",
+      "page": 6
+    },
+    {
+      "name": "Service Level Agreement",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/bidsla/101367020198161",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +69,213 @@
   ],
   "source_fetched_at": "2026-11-11T03:13:34.336Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "office": "Corporate Office Gurgaon",
+  "buyer_email": "dhineshkumar.s@powergrid.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Single Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 18,
+  "offer_validity": "60 (Days)",
+  "estimated_bid_value": 1519207,
+  "contract_period": "4 Month(s) 20 Day(s)",
+  "source_document_fetched_at": "2026-11-11T07:39:12.054539+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "21d6ec44870b3e1b7644d13bd819d24093616383b56936ae9e501acae44c4514",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Gaurav Kumar Rathod",
+      "address": "385530,POWERGRID CORPORATION OF INDIA LIMITD, 765/400/220 KV SUBSTATION Village- Mudetha Arnivada road, Pin- 385530",
+      "quantity": null,
+      "quantity_label": "Quantity",
+      "delivery_days": null,
+      "additional_requirements": "N/A"
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Description /Nomenclature of Service Proposed for procurement using custom bid functionality",
+          "value": "RELAY BANASKANTHA"
+        },
+        {
+          "group": "Core",
+          "parameter": "Regulatory/ Statutory Compliance of Service",
+          "value": "YES"
+        },
+        {
+          "group": "Core",
+          "parameter": "Compliance of Service to SOW, STC, SLA etc",
+          "value": "YES"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE 25% : The buyer can increase or decrease the contract quantity or contract duration up to 25 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 25 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 25 percent with the consent of the service provider"
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8189370",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10068119"
+    },
+    {
+      "field": "document_closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 02-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10068119"
+    },
+    {
+      "field": "document_opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 03-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10068119"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 60 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10068119"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Power",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10068119"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Power Grid Corporation Of India Limited",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10068119"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Power Grid Corporation Of India Limited",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10068119"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Corporate Office Gurgaon",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10068119"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :saroj.mishra@powergrid.in Buyer Email id: dhineshkumar.s@powergrid.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10068119"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Custom Bid for Services - RELAY BANASKANTHA",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10068119"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 4 Month(s) 20 Day(s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10068119"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10068119"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10068119"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10068119"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "(( )) / Estimated Bid Value in INR (Inclusive of all taxes): 1519207",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10068119"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10068119"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 18",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10068119"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10068119"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10068119"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Description /Nomenclature of Service Proposed for procurement using custom bid functionality: RELAY BANASKANTHA | Regulatory/ Statutory Compliance of Service: YES | Compliance of Service to SOW, STC, SLA etc: YES",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10068119"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Additional Requirement: 1 | Gaurav Kumar Rathod | 385530,POWERGRID CORPORATION OF INDIA LIMITD, 765/400/220 KV SUBSTATION Village- Mudetha Arnivada road, Pin- 385530 | Project / Lumpsum Based | N/A",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10068119"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE 25% : The buyer can increase or decrease the contract quantity or contract duration up to 25 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 25 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 25 percent with the consent of the service provider",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10068119"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "The original PDF dates differ from the current public GeM listing. The listing closing date is retained. Confirm the latest opening date and any corrigenda on GeM; the original PDF opening date is not presented as current.",
+  "document_closing_at": "2026-11-02T18:00:00+05:30",
+  "document_opening_at": "2026-11-03T18:00:00+05:30",
+  "date_discrepancy": {
+    "listing_closing_at": "2026-11-12T18:00:00+05:30",
+    "document_closing_at": "2026-11-02T18:00:00+05:30",
+    "document_opening_at": "2026-11-03T18:00:00+05:30"
+  }
 }

@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8260032",
   "title": "Triple Purpose Nozzle as per IS 2871",
   "description": "Triple Purpose Nozzle as per IS 2871",
-  "organisation": "Energy Department Uttar Pradesh",
-  "ministry": "",
+  "organisation": "Uttar Pradesh Power Corporation Limited (uppcl)",
+  "ministry": "Uttar Pradesh",
   "department": "Energy Department Uttar Pradesh",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Triple Purpose Nozzle as per IS 2871",
   "quantity": 7,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-10T15:24:53+05:30",
   "closing_at": "2026-11-21T11:00:00+05:30",
   "status": "active",
@@ -27,6 +27,16 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10149763"
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/nx8tJqAGm9ey4ycUak-mIJSXXTj5ki4u1iI6jyH86rY",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261110",
+      "page": 5
     }
   ],
   "tags": [
@@ -34,5 +44,185 @@
   ],
   "source_fetched_at": "2026-11-11T01:11:03.442Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-22T11:00:00+05:30",
+  "office": "Electricity Civil Transmission Circle 132 Kv S/s Martinpurwa Lucknow",
+  "buyer_email": "eeetdmthra@upptcl.org",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "30 (Days)",
+  "estimated_bid_value": 9999,
+  "source_document_fetched_at": "2026-11-11T05:52:37.854550+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "0822449130ebdab1d4e133cced2c9916a1a70558f8a1651c8e34aa21ec6ed9a1",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Rajesh Kumar",
+      "address": "281001,ELECTRICITY TRANSMISSION DIVISION 132 KV SUB STATION AURANGABAD MATHURA",
+      "quantity": 7,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Standards",
+          "parameter": "Conformity To Indian Standard",
+          "value": "IS 2871"
+        },
+        {
+          "group": "Material Specifications",
+          "parameter": "Material",
+          "value": "Gunmetal, Aluminium, Stainless steel, G.M, Brass"
+        },
+        {
+          "group": "Specification",
+          "parameter": "Size",
+          "value": "1, 1.5, 2, 2.5, 3 (inch)"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8260032",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149763"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 21-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149763"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 22-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149763"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149763"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Uttar Pradesh",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149763"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Energy Department Uttar Pradesh",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149763"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Uttar Pradesh Power Corporation Limited (uppcl)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149763"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Electricity Civil Transmission Circle 132 Kv S/s Martinpurwa Lucknow",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149763"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :mohd.parvez@upptcl.org Buyer Email id: eeetdmthra@upptcl.org",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149763"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 7",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149763"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Triple Purpose Nozzle as per IS 2871 (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149763"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149763"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149763"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149763"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 9999",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149763"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149763"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149763"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Conformity To Indian Standard: IS 2871 | Material: Gunmetal, Aluminium, Stainless steel, G.M, Brass | Size: 1, 1.5, 2, 2.5, 3 (inch)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149763"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Rajesh Kumar | 281001,ELECTRICITY TRANSMISSION DIVISION 132 KV SUB STATION AURANGABAD MATHURA | 7 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149763"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10149763"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

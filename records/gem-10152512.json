@@ -5,9 +5,9 @@
   "tender_id": "GEM/2026/R/768399",
   "title": "1X2.5 SQMM STOCK NO N6145 020998,1 x 10 SQMM Stock No. N6145 021001,2 x 0.75 SQMM Stock No. N6145 0",
   "description": "1X2.5 SQMM STOCK NO N6145 020998,1 x 10 SQMM Stock No. N6145 021001,2 x 0.75 SQMM Stock No. N6145 021017,2 x 25 SQMM Stock No. N6145 021025,2 x 35 SQMM Stock No. N6145 021026,2 x 50 SQMM Stock No. N6145 021027,3 x 1.5 SQMM Stock No. N6145 021035,3 x 2.5 SQMM Stock No. N6145 021036,3 x 4 SQMM Stock No. N6145 021037,3 x 6 SQMM Stock No. N6145 021038,3 x 10 SQMM Stock No. N6145 021039,3 x 16 SQMM Stock No. N6145 021040,3 x 25 SQMM Stock No. N6145 021041,3 x 35 SQMM Stock No. N6145 021042,3 x 50 SQMM Stock No. N6145 021043,3 x 70 SQMM Stock No. N6145 021044,3 x 95 SQMM Stock No. N6145 021045,3 x 120 SQMM Stock No .N6145 021046,4 x 2.5 SQMM Stock No. N6145 021054,4 x 10 sq.mm SQMM Stock No. NEW ADDITION,5 x 1.5 sq.mm SQMM Stock No. NEW ADDITION,1X6 SQMM STOCK NO N6145 021000,1X16 SQMM STOCK NO N6145 021002,1X35 SQMM STOCK NO N6145 021004,2X1 SQMM STOCK NO N6145 021018,2X1.5 SQMM STOCK NO N6145 021019,2X2.5 SQMM STOCK NO N6145 021020,2X2.5 S SQMM STOCK NO N6145 021119,2X10 SQMM STOCK NO N6145 021023,2X16 SQMM STOCK",
-  "organisation": "Department of Defence Production",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Defence Production",
+  "organisation": "Goa Shipyard Limited",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Defence Production",
   "portal_name": "GeM",
   "state": [],
   "city": [],
@@ -25,8 +25,18 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10152512"
+    },
+    {
+      "name": "GEM/2026/B/8068273",
+      "url": "https://bidplus.gem.gov.in/showbidDocument/9929335",
+      "page": 2
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261111",
+      "page": 2
     }
   ],
   "tags": [
@@ -34,5 +44,100 @@
   ],
   "source_fetched_at": "2026-11-11T11:05:41.605Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "bidder_turnover_lakhs": 240,
+  "ra_start_at": "2026-11-12T12:00:00+05:30",
+  "auto_extension": "If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+  "mse_exemption": "MSE Exemption for Years of Experience and Turnover: No",
+  "startup_exemption": "Startup Exemption for Years of Experience and Turnover: No",
+  "originating_bid_reference": "GEM/2026/B/8068273",
+  "source_document_fetched_at": "2026-11-11T13:57:33.175704+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "a9328aed1ab02eee5c8d4964e6d50ba3c7cc1e794a4a0d45860fa26da8e009fe",
+  "document_pages": 2,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 240 Lakh (s) (GeM PDF, p. 2)",
+    "MSE Exemption for Years of Experience and Turnover: No (GeM PDF, p. 2)",
+    "Startup Exemption for Years of Experience and Turnover: No (GeM PDF, p. 2)"
+  ],
+  "consignees": [],
+  "technical_specifications": [],
+  "buyer_added_terms": [],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/768399",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10152512"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 2,
+      "quote": "Please refer to Bid document of GEM/2026/B/8068273",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10152512"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 12-11-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10152512"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 13-11-2026 15:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10152512"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10152512"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Defence Production",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10152512"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Goa Shipyard Limited",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10152512"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 189600",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10152512"
+    },
+    {
+      "field": "auto_extension",
+      "page": 2,
+      "quote": "Auto Extension: If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10152512"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 2,
+      "quote": "Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 240 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10152512"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 2,
+      "quote": "MSE Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10152512"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 2,
+      "quote": "Startup Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10152512"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda."
 }

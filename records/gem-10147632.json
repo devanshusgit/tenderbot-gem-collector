@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8258175",
   "title": "Drinking Water Coolers (V4) ISI Marked To IS 1475",
   "description": "Drinking Water Coolers (V4) ISI Marked To IS 1475",
-  "organisation": "School Education Department Haryana",
-  "ministry": "",
+  "organisation": "Haryana School Shiksha Pariyojna Parishad (hssp)",
+  "ministry": "Haryana",
   "department": "School Education Department Haryana",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Drinking Water Coolers (V4) ISI Marked To IS 1475",
   "quantity": 3,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 10000,
   "published_at": "2026-11-10T11:03:41+05:30",
   "closing_at": "2026-11-20T13:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10147632"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/4iBBOEX1oMfncd_5qUcaukcifKGXbr7ptywu-9iDtHw",
+      "page": 5
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261110",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +49,247 @@
   ],
   "source_fetched_at": "2026-11-11T03:07:23.793Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-21T13:00:00+05:30",
+  "office": "Sector 5 Panchkula",
+  "buyer_email": "pohsspp2@gmail.com",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 3,
+  "oem_turnover_lakhs": 24,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-11T06:58:56.270973+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "0fa822d778084ecc6f4604da86d32404586eba1984255a1f0b98ba1660cc3d5d",
+  "document_pages": 9,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 3 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 24 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 50 % (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Avtar Singh",
+      "address": "134109,State Project Director 3rd & 4th Floor Shiksha Sadan, Sector-5 Panchkula",
+      "quantity": 3,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Performance Parameter",
+          "parameter": "Type of Water Cooler [Hint: Pressure type - Instant water cooler, pressurized inlet, cold water outlet, and no storage tank and Storage Type - water cooler that cools and stores water in the same or separate containers, with or without plumbing]",
+          "value": "Storage Type"
+        },
+        {
+          "group": "Performance Parameter",
+          "parameter": "Cooling Capacity Rating (in litre/hour)",
+          "value": "150"
+        },
+        {
+          "group": "Performance Parameter",
+          "parameter": "Storage Capacity for Storage Type Water Coolers (in litres)",
+          "value": "400"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Number of Faucets",
+          "value": "4"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Specifications: - S# Particular Specifications 1 Type of water cooler Storage type 2 Cooling Capacity Rating (in litre/ 150 hour) 3 Storage Capacity for Storage Typ 400 e Water Coolers (in litres) 4 Number of Faucets Min 2 or higher 5 Copper Coil 100% Copper 6 Body Full Stainless Steel 7 Warranty on Cooling Coil 5 year 8 Standard Warranty 1 year Additional Terms & Conditions: -"
+    },
+    {
+      "page": 7,
+      "text": "1. The bidder shall submit the following documents along with the bid: - a. Self-attested copy of PAN Card. b. Self-attested copy of GST Registration Certificate (GSTIN). c. Copy of a cancelled cheque of the firm's bank account. 2. The bidder must have a functional office/service centre in Chandigarh, Panchkula, or Mohali to ensure pr ompt installation and efficient after-sales service. Documentary proof of the office/service centre shall be s ubmitted along with the bid. 3. The quoted rate shall be inclusive of one 5KW Voltage Stabilizer as per capacity of watercooler along wit h one 100 LPH RO+UV Water Purification on System. 4. The quoted rates shall be FOR (Free on Road/Destination) Haryana School Shiksha Pariyojna Parishad (H SSPP), Panchkula, and shall include packing, transportation, loading, unloading, installation, commissionin g, testing, and all other incidental charges. No additional payment on any account shall be admissible. 5. The successful bidder shall provide the installation and commission at the designated location and demo nstrate its satisfactory functioning to the satisfaction of the Department. 6. Bidder need to submit the bid specific MAF (Authorization Certificate on OEM letterhead) along with the technical bid. 7. Bidder should submit the Technical compliance on OEM letterhead along with the technical bid. 8. Certifications required: BIS, Toll free number. Service escalation matrix, ISO 9001, 14001, 45001, OEM T urnover, Make in India Certificate, OEM factory license, NABL Lab Test report, GMP Compliance on OEM lett erhead. 9. Bidder need to submit the EMD of amount Rs. 10000/- in shape of DD in favour of SPD, Haryana School S hiksha Pariyojna Parishad (HSSPP), Panchkula, Haryana on or before end date of the bid, in the procureme nt branch 4th floor, Shiksha Sadan, HSSPP, Panchkula, Haryana. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8258175",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147632"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 20-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147632"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 21-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147632"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147632"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Haryana",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147632"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: School Education Department Haryana",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147632"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Haryana School Shiksha Pariyojna Parishad (hssp)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147632"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Sector 5 Panchkula",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147632"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :hsspp.ssa-hry@gov.in Buyer Email id: pohsspp2@gmail.com",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147632"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 3",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147632"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Drinking Water Coolers (V4) ISI Marked To IS 1475 (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147632"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 3 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147632"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 24 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147632"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147632"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147632"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147632"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147632"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147632"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 50 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147632"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147632"
+    },
+    {
+      "field": "emd_fee",
+      "page": 3,
+      "quote": "EMD Amount: 10000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147632"
+    },
+    {
+      "field": "emd_required",
+      "page": 3,
+      "quote": "EMD Amount: 10000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147632"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147632"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Type of Water Cooler [Hint: Pressure type - Instant water cooler, pressurized inlet, cold water outlet, and no storage tank and Storage Type - water cooler that cools and stores water in the same or separate containers, with or without plumbing]: Storage Type | Cooling Capacity Rating (in litre/hour): 150 | Storage Capacity for Storage Type Water Coolers (in litres): 400 | Number of Faucets: 4",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147632"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Avtar Singh | 134109,State Project Director 3rd & 4th Floor Shiksha Sadan, Sector-5 Panchkula | 3 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147632"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Specifications: - S# Particular Specifications 1 Type of water cooler Storage type 2 Cooling Capacity Rating (in litre/ 150 hour) 3 Storage Capacity for Storage Typ 400 e Water Coolers (in litres) 4 Number of Faucets Min 2 or higher 5 Copper Coil 100% Copper 6 Body Full Stainless Steel 7 Warranty on Cooling Coil 5 year 8 Standard Warranty 1 year Additional Terms & Conditions: -",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147632"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "1. The bidder shall submit the following documents along with the bid: - a. Self-attested copy of PAN Card. b. Self-attested copy of GST Registration Certificate (GSTIN). c. Copy of a cancelled cheque of the firm's bank account. 2. The bidder must have a functional office/service centre in Chandigarh, Panchkula, or Mohali to ensure pr ompt installation and efficient after-sales service. Documentary proof of the office/service centre shall be s ubmitted along with the bid. 3. The quoted rate shall be inclusive of one 5KW Voltage Stabilizer as per capacity of watercooler along wit h one 100 LPH RO+UV Water Purification on System. 4. The quoted rates shall be FOR (Free on Road/Destination) Haryana School Shiksha Pariyojna Parishad (H SSPP), Panchkula, and shall include packing, transportation, loading, unloading, installation, commissionin g, testing, and all other incidental charges. No additional payment on any account shall be admissible. 5. The successful bidder shall provide the installation and commission at the designated location and demo nstrate its satisfactory functioning to the satisfaction of the Department. 6. Bidder need to submit the bid specific MAF (Authorization Certificate on OEM letterhead) along with the technical bid. 7. Bidder should submit the Technical compliance on OEM letterhead along with the technical bid. 8. Certifications required: BIS, Toll free number. Service escalation matrix, ISO 9001, 14001, 45001, OEM T urnover, Make in India Certificate, OEM factory license, NABL Lab Test report, GMP Compliance on OEM lett erhead. 9. Bidder need to submit the EMD of amount Rs. 10000/- in shape of DD in favour of SPD, Haryana School S hiksha Pariyojna Parishad (HSSPP), Panchkula, Haryana on or before end date of the bid, in the procureme nt branch 4th floor, Shiksha Sadan, HSSPP, Panchkula, Haryana. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147632"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

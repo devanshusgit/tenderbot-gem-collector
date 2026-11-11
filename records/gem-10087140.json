@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8205670",
   "title": "Diesel Power Generator (V2)",
   "description": "Diesel Power Generator (V2)",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "Southern Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Diesel Power Generator (V2)",
   "quantity": 3,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 59154,
   "published_at": "2026-10-29T17:17:02+05:30",
   "closing_at": "2026-11-17T18:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10087140"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/ugHUhzJV9eW-HZaaStG_9PFN0Fe4UbV6rVB3W60UNTU",
+      "page": 5
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8205670/CLM0010/worksdg_a07a1d78-6802-4a66-991b1793100456617_dmmmdusr.pdf",
+      "page": 10
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261029",
+      "page": 12
     }
   ],
   "tags": [
@@ -34,5 +54,315 @@
   ],
   "source_fetched_at": "2026-11-08T05:20:56.187Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-18T18:00:00+05:30",
+  "office": "Southern Railway",
+  "buyer_email": "dmm@mdu.railnet.gov.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Single Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 26,
+  "offer_validity": "90 (Days)",
+  "estimated_bid_value": 2957700,
+  "source_document_fetched_at": "2026-11-11T00:52:58.826476+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "01f798f36a1f12afc73333b634f822b9cdcbf2231b35e8b3fed4775812ad0675",
+  "document_pages": 12,
+  "eligibility": [
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 20 % (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 7,
+      "consignee": "Amal",
+      "address": "625016,Office of the Senior Divisional Electrical Engineer Divisional Railway Managers Office Madurai Division Madurai",
+      "quantity": 3,
+      "quantity_label": "Quantity",
+      "delivery_days": 60
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": "Installation Configuration",
+          "parameter": "Installation Type",
+          "value": "Skid Mounted"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Nominal Rated Capacity (in KVA)",
+          "value": "40.0"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Number of Phases",
+          "value": "Three Phase"
+        },
+        {
+          "group": "Engine",
+          "parameter": "Type of Engine Cooling",
+          "value": "Liquid Cooled"
+        },
+        {
+          "group": "Engine",
+          "parameter": "Type of Fuel System",
+          "value": "CRDi (common rail direct injection) Fuel System"
+        },
+        {
+          "group": "Engine",
+          "parameter": "Provision of Cold Start",
+          "value": "Yes (upto -20°C)"
+        },
+        {
+          "group": "Alternator",
+          "parameter": "Alternator Voltage Rating (in volts)",
+          "value": "415.0 (Volt)"
+        },
+        {
+          "group": "Alternator",
+          "parameter": "Voltage Regulation Grade",
+          "value": "VG 3 Or higher"
+        },
+        {
+          "group": "Alternator",
+          "parameter": "Availability of Salient Features of Alternator",
+          "value": "No"
+        },
+        {
+          "group": "Alternator",
+          "parameter": "Salient Features of Alternator [Hint: Products matching all selected values will be displayed; For example, if both 'space heater' and 'Bearing Temperature Detectors (BTD)' are selected, product that include both options will be shown]",
+          "value": "NA"
+        },
+        {
+          "group": "Governing Class",
+          "parameter": "Type of Governor",
+          "value": "Electronic Or higher"
+        },
+        {
+          "group": "Control Panel",
+          "parameter": "Type of Control Panel",
+          "value": "AMF (Automatic Mains Failure) Control Panel Or higher"
+        },
+        {
+          "group": "Control Panel",
+          "parameter": "Control Panel Location",
+          "value": "Inside the Canopy"
+        },
+        {
+          "group": "Control Panel",
+          "parameter": "IP (Ingress Protection) Rating of Control Panel",
+          "value": "IP55 Or higher"
+        },
+        {
+          "group": "Acoustic Enclosure",
+          "parameter": "Noise Level at 1 Meter (in dB)",
+          "value": "? 75 dB (A)"
+        },
+        {
+          "group": "Trailer",
+          "parameter": "Availability of Trailer",
+          "value": "NA (without trailer)"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 8,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): RITES Post Receipt Inspection at consignee site before acceptance of stores: CONSIGNEE 3. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 4. Forms of EMD and PBG Bidders can also submit the EMD with Account Payee Demand Draft in favour of SR DFM /MADURAI /SOUTHERN RAILWAY payable at MADURAI . Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 5. Certificates ISO 9001: The bidder or the OEM of the offered products must have ISO 9001 certification. 6. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 7. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of"
+    },
+    {
+      "page": 9,
+      "text": "documentary evidence of having Functional Service Centre. 8. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1.Scope of supply: 40KVA DG SET WITH AMF PANEL, 50Hz, 3 phase 2.Documentary evidence /compliance statement addressing each point shall be uploaded along with the offer for technical evaluation purposes. Failure to submit the required documents / compliance details shal l render the offer liable for rejection. 3.Bidders to provide product sheet and specification sheet of offered make and model along with the offer. Failing which offer may not be considered. 4.Warranty period : 2 years.- Warranty period preventive maintenance visits per year 2 times. 5.Functional Service Center:The Bidder / OEM must have a Functional Service Center in the State of Consig nee. The Functional Service Center shall be already established and fully operational at the respective loca tion at the time of bidding. Documentary evidence to be submitted at time of bidding Failing which offer m ay not be considered. 6.Dedicated /toll Free Telephone No. for Service Support BIDDER/OEM must have Dedicated/toll Free Telep hone No.for Service Support. 7.OEM Authorization: The bidder must be an Original Equipment Manufacturer (OEM) or a n authorized OE M partner/ dealer. In case the bidder is not the OEM, a valid Bid specific authorization certificate from the O EM must be uploaded along with the bid.The authorization must specifically mention the bid reference nu mber and confirm that the OEM will provide back to back warranty and support. 8.Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should h ave supplied sam e or similar Category Products for 20% (ONE number).,in at least one of the last three Financial years befor e the bid opening date to any Central / State Govt Organi zation / PSU. Copies of relevant contracts and CR N's (proving supply of cumulative order qu antity in any one financial year) to be submitted along with bid insupport of quantity supplied in the relevant Financial year. 9.For Make In India Preference Clause: Local content declaration along with percentage issued by OEM /ma nufacture has to be attached to be consider under MII clause. Local Content Declaration:The bidder shall d eclare the exact percentage of Local Content in clear numerical terms at the time of bid submission. The d eclaration shall be specific, unam biguous, and free from conditional or approximate expressions, and shall be supported by a valid self-certification and relevant documentary evidence as prescribed in the bid conditions. Any vague or non-specific declaration shall be treated as non-compliant. 10.Following Certifications of the OEM must be uploaded: i)Conformity of production (COP) certificate of en gine issued in name of Engine manufacturer ii)Type test report and Endurance test report for Engine a s p er IS: 10001 latest / IS: 10002 latest. HMSO Certificate issued in name of DG manufacturer. 11.Payment 100% Payment will be done after the Supply, Installation and Commissioning of the DG and su bjected to submission of Bank Guarantee to consignee @ 5% of contract value with validity up to 26 mont hs. 12.Payment Condition (CMC): Comprehensive Maintenance: Comprehensive Maintenance Duration (Post W arranty) is 5 Y ear. The basic cost of the equipment shall be paid upon succesful supply, installation, and a cceptance. The Comprehensive Maintenance Contract (CMC) charges shall be payable separately and only after completion of the warranty peroid, on a yearly basis, subject to s atisfactory performance of services. For bid evaluation purposes, CMC charges are considered along with the equipment cost; however, payme nt of CMC shall not be made up front nor included in the initial product payment. 13.Inspection by RITES (Firm to please mention the place of inspection with full address and pin code). 15.The PERFORMANCE SECURITY: e-PBG TO BE SUBMITTED WITHIN 21 DAYS FROM DATE OF ISSUE OF CO NTRACT.The Performance Guarantee to be handed over to CONSIGNEE within stipulated period and CONSI GNEE to follow up the e-PBG / FDR. 16.NOTE TO THE SUPPLIER: SUBMIT THE FOLLOWING DOCUMENTS ALONG WITH THE SUPPLY (1) TAX IN V OICE. (2) BANK MANDATE. (3) PAN CARD COPY. (4) GST REGISTRATION CERTIFICATE (5) ANNUAL TURNOVE"
+    },
+    {
+      "page": 10,
+      "text": "R DIGITALLY SIGNED CERTIFICATE (6) WARRANTY CERTIFICATE. (7) OTHER CERTIFICATES BID SPECIFICATI ON. DELIVERY LOCATION : ONE NUMBER EACH AT KUDALNAGAR MANAMADURAI and VADIPPATTI CONSIGNEE : Senior Section Engineer Works Madurai- 8056162314. . 9. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8205670",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087140"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 17-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087140"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 18-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087140"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087140"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087140"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087140"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Southern Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087140"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Southern Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087140"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :dycmmdsl@sr.railnet.gov.in Buyer Email id: dmm@mdu.railnet.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087140"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 3",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087140"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Diesel Power Generator (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087140"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087140"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087140"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087140"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087140"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 20 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087140"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087140"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 2957700",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087140"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 59154",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087140"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 59154",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087140"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087140"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 26",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087140"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087140"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Installation Type: Skid Mounted | Nominal Rated Capacity (in KVA): 40.0 | Number of Phases: Three Phase | Type of Engine Cooling: Liquid Cooled | Type of Fuel System: CRDi (common rail direct injection) Fuel System | Provision of Cold Start: Yes (upto -20°C) | Alternator Voltage Rating (in volts): 415.0 (Volt) | Voltage Regulation Grade: VG 3 Or higher | Availability of Salient Features of Alternator: No | Salient Features of Alternator [Hint: Products matching all selected values will be displayed; For example, if both 'space heater' and 'Bearing Temperature Detectors (BTD)' are selected, product that include both options will be shown]: NA | Type of Governor: Electronic Or higher | Type of Control Panel: AMF (Automatic Mains Failure) Control Panel Or higher | Control Panel Location: Inside the Canopy | IP (Ingress Protection) Rating of Control Panel: IP55 Or higher | Noise Level at 1 Meter (in dB): ? 75 dB (A) | Availability of Trailer: NA (without trailer)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087140"
+    },
+    {
+      "field": "consignees",
+      "page": 7,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Amal | 625016,Office of the Senior Divisional Electrical Engineer Divisional Railway Managers Office Madurai Division Madurai | 3 | 60",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087140"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): RITES Post Receipt Inspection at consignee site before acceptance of stores: CONSIGNEE 3. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 4. Forms of EMD and PBG Bidders can also submit the EMD with Account Payee Demand Draft in favour of SR DFM /MADURAI /SOUTHERN RAILWAY payable at MADURAI . Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 5. Certificates ISO 9001: The bidder or the OEM of the offered products must have ISO 9001 certification. 6. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 7. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087140"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "documentary evidence of having Functional Service Centre. 8. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1.Scope of supply: 40KVA DG SET WITH AMF PANEL, 50Hz, 3 phase 2.Documentary evidence /compliance statement addressing each point shall be uploaded along with the offer for technical evaluation purposes. Failure to submit the required documents / compliance details shal l render the offer liable for rejection. 3.Bidders to provide product sheet and specification sheet of offered make and model along with the offer. Failing which offer may not be considered. 4.Warranty period : 2 years.- Warranty period preventive maintenance visits per year 2 times. 5.Functional Service Center:The Bidder / OEM must have a Functional Service Center in the State of Consig nee. The Functional Service Center shall be already established and fully operational at the respective loca tion at the time of bidding. Documentary evidence to be submitted at time of bidding Failing which offer m ay not be considered. 6.Dedicated /toll Free Telephone No. for Service Support BIDDER/OEM must have Dedicated/toll Free Telep hone No.for Service Support. 7.OEM Authorization: The bidder must be an Original Equipment Manufacturer (OEM) or a n authorized OE M partner/ dealer. In case the bidder is not the OEM, a valid Bid specific authorization certificate from the O EM must be uploaded along with the bid.The authorization must specifically mention the bid reference nu mber and confirm that the OEM will provide back to back warranty and support. 8.Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should h ave supplied sam e or similar Category Products for 20% (ONE number).,in at least one of the last three Financial years befor e the bid opening date to any Central / State Govt Organi zation / PSU. Copies of relevant contracts and CR N's (proving supply of cumulative order qu antity in any one financial year) to be submitted along with bid insupport of quantity supplied in the relevant Financial year. 9.For Make In India Preference Clause: Local content declaration along with percentage issued by OEM /ma nufacture has to be attached to be consider under MII clause. Local Content Declaration:The bidder shall d eclare the exact percentage of Local Content in clear numerical terms at the time of bid submission. The d eclaration shall be specific, unam biguous, and free from conditional or approximate expressions, and shall be supported by a valid self-certification and relevant documentary evidence as prescribed in the bid conditions. Any vague or non-specific declaration shall be treated as non-compliant. 10.Following Certifications of the OEM must be uploaded: i)Conformity of production (COP) certificate of en gine issued in name of Engine manufacturer ii)Type test report and Endurance test report for Engine a s p er IS: 10001 latest / IS: 10002 latest. HMSO Certificate issued in name of DG manufacturer. 11.Payment 100% Payment will be done after the Supply, Installation and Commissioning of the DG and su bjected to submission of Bank Guarantee to consignee @ 5% of contract value with validity up to 26 mont hs. 12.Payment Condition (CMC): Comprehensive Maintenance: Comprehensive Maintenance Duration (Post W arranty) is 5 Y ear. The basic cost of the equipment shall be paid upon succesful supply, installation, and a cceptance. The Comprehensive Maintenance Contract (CMC) charges shall be payable separately and only after completion of the warranty peroid, on a yearly basis, subject to s atisfactory performance of services. For bid evaluation purposes, CMC charges are considered along with the equipment cost; however, payme nt of CMC shall not be made up front nor included in the initial product payment. 13.Inspection by RITES (Firm to please mention the place of inspection with full address and pin code). 15.The PERFORMANCE SECURITY: e-PBG TO BE SUBMITTED WITHIN 21 DAYS FROM DATE OF ISSUE OF CO NTRACT.The Performance Guarantee to be handed over to CONSIGNEE within stipulated period and CONSI GNEE to follow up the e-PBG / FDR. 16.NOTE TO THE SUPPLIER: SUBMIT THE FOLLOWING DOCUMENTS ALONG WITH THE SUPPLY (1) TAX IN V OICE. (2) BANK MANDATE. (3) PAN CARD COPY. (4) GST REGISTRATION CERTIFICATE (5) ANNUAL TURNOVE",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087140"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "R DIGITALLY SIGNED CERTIFICATE (6) WARRANTY CERTIFICATE. (7) OTHER CERTIFICATES BID SPECIFICATI ON. DELIVERY LOCATION : ONE NUMBER EACH AT KUDALNAGAR MANAMADURAI and VADIPPATTI CONSIGNEE : Senior Section Engineer Works Madurai- 8056162314. . 9. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087140"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

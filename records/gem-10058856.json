@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8181438",
   "title": "MODULE, 692.03. IA2AA, DAVR",
   "description": "MODULE, 692.03. IA2AA, DAVR",
-  "organisation": "Indraprastha Power Generation Co. Ltd.",
-  "ministry": "",
+  "organisation": "Indraprastha Power Generation Co. Ltd",
+  "ministry": "Delhi",
   "department": "Indraprastha Power Generation Co. Ltd.",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "MODULE, 692.03. IA2AA, DAVR",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-10-28T14:49:39+05:30",
   "closing_at": "2026-11-19T11:00:00+05:30",
   "status": "active",
@@ -27,6 +27,16 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10058856"
+    },
+    {
+      "name": "Buyer technical specification",
+      "url": "https://mkp.gem.gov.in/catalog_data/catalog_support_document/buyer_documents/9019843/54/78/703/CatalogAttrs/SpecificationDocument/2026/10/20/material_specifications_2026-10-20-17-38-02_75768f91d7d256d935eca3fd1720de86.pdf",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261028",
+      "page": 5
     }
   ],
   "tags": [
@@ -34,5 +44,151 @@
   ],
   "source_fetched_at": "2026-11-09T08:19:45.221Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-20T11:00:00+05:30",
+  "office": "New Delhi",
+  "buyer_email": "arvindsingh.ipgpp@nic.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "120 (Days)",
+  "source_document_fetched_at": "2026-11-12T01:54:58.740376+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "ea7db6e48262e938845d9ed56026b43045defe8d51868c8baa92ed52ac93e8e5",
+  "document_pages": 5,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 3,
+      "consignee": "Rajesh Kumar",
+      "address": "110002,GAS TURBINE POWER STATION, IP ESTATE, RING ROAD, NEW DELHI - 110002",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 300
+    }
+  ],
+  "technical_specifications": [],
+  "buyer_added_terms": [
+    {
+      "page": 3,
+      "text": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Delivery: Within 300 days from the date of PO. 2. Guarantee/warranty: The material quoted shall be guaranteed for a period of 18 months / 12 Months fro m the date of supply / use which ever is earlier against manufacturing defects / poor workmanship etc. 3. Interchangeability: It is certified that the quoted items are interchangeable with the items existing in IPG CL/PPCL and if fails to interchange, the same shall be replaced free of cost. 4. The bid will be considered only if it has been submitted by the Bharat Heavy Electricals Limited. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8181438",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058856"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 19-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058856"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 20-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058856"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058856"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Delhi",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058856"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indraprastha Power Generation Co. Ltd.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058856"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indraprastha Power Generation Co. Ltd",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058856"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: New Delhi",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058856"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :manojkr.nirala@ipgcl-ppcl.nic.in Buyer Email id: arvindsingh.ipgpp@nic.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058856"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058856"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: MODULE, 692.03. IA2AA, DAVR",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058856"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058856"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058856"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058856"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058856"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058856"
+    },
+    {
+      "field": "consignees",
+      "page": 3,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Rajesh Kumar | 110002,GAS TURBINE POWER STATION, IP ESTATE, RING ROAD, NEW DELHI - 110002 | 1 | 300",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058856"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 3,
+      "quote": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Delivery: Within 300 days from the date of PO. 2. Guarantee/warranty: The material quoted shall be guaranteed for a period of 18 months / 12 Months fro m the date of supply / use which ever is earlier against manufacturing defects / poor workmanship etc. 3. Interchangeability: It is certified that the quoted items are interchangeable with the items existing in IPG CL/PPCL and if fails to interchange, the same shall be replaced free of cost. 4. The bid will be considered only if it has been submitted by the Bharat Heavy Electricals Limited. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058856"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

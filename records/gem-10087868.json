@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8206311",
   "title": "Servers (V2)",
   "description": "Servers (V2)",
-  "organisation": "Department of space",
-  "ministry": "PMO",
-  "department": "Department of space",
+  "organisation": "N/a",
+  "ministry": "Pmo",
+  "department": "Department Of Space",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Servers (V2)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-10-28T15:16:20+05:30",
   "closing_at": "2026-11-18T14:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10087868"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/3k4Lrk-qL5EiPMQO1B6qi7YiCdaTUmo93LW2KJ-xNRU",
+      "page": 4
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8206311/CLM0010/2026_49_6c208753-babe-4772-88b41793096610937_buycon3.pmo.sc@gembuyer.in.pdf",
+      "page": 6
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261028",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +54,235 @@
   ],
   "source_fetched_at": "2026-11-09T08:07:56.440Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-19T14:00:00+05:30",
+  "office": "Adrin Secunderabad 500 009",
+  "buyer_email": "srpo@adrin.res.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 3,
+  "epbg_duration_months": 38,
+  "offer_validity": "65 (Days)",
+  "source_document_fetched_at": "2026-11-12T01:49:08.423804+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "c044b72f3e07ad66a7566aecde66a39e30d0faf9c0b3b8a217f946fc42fa0d9f",
+  "document_pages": 8,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Yadagiri",
+      "address": "500009,203 Akbar Road, Manovikasnagar PO, Tarbund, Secunderabad.",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 60
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Chassis",
+          "parameter": "Description of Stores",
+          "value": "Server with standard 1 year warranty"
+        },
+        {
+          "group": "Processor and Motherboard",
+          "parameter": "Processor Number",
+          "value": "Intel Xeon Platinum 8480+, Intel Xeon 6740E, Intel Xeon Platinum 8490H, Intel Xeon 6747P, Intel Xeon Platinum 8580, Intel Xeon 6756E, Intel Xeon Platinum 8593Q, Intel Xeon Platinum 8592+, Intel Xeon 6766E, Intel Xeon 6760P, Intel Xeon 6761P, Intel Xeon 6767P, Intel Xeon 6780E, Intel Xeon 6781P, Intel Xeon 6787P, Intel Xeon 6748P, Intel Xeon 6788P Or higher"
+        },
+        {
+          "group": "Graphic Processing Unit (GPU)",
+          "parameter": "Graphic Card Availability",
+          "value": "Yes Or higher"
+        },
+        {
+          "group": "Memory",
+          "parameter": "Type of RAM",
+          "value": "DDR5 with ECC Or higher"
+        },
+        {
+          "group": "Memory",
+          "parameter": "Total Memory (RAM) Size Installed (in GB)",
+          "value": "2048, 4096 Or higher"
+        },
+        {
+          "group": "SSD Storage",
+          "parameter": "Type of Interface for SSD",
+          "value": "M.2/NVMe-SSD"
+        },
+        {
+          "group": "HDD Storage",
+          "parameter": "Type of Interface for Hard Disk Drive (HDD)",
+          "value": "SATA-HDD"
+        },
+        {
+          "group": "Software",
+          "parameter": "Certifications Compliance (Operating System)",
+          "value": "Windows"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery"
+    },
+    {
+      "page": 6,
+      "text": "time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 3. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 4. Generic Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of technical parameters, the bid is liable for rejection. 5. Generic Malicious Code Certificate: The seller should upload following certificate in the bid:- (a) This is to certify that the Hardware and the Software being offered, as part of the contract, does not contain Embedded Malicious code that would activate procedures to :- (i) Inhibit the desires and designed function of the equipment. (ii) Cause physical damage to the user or equipment during the exploitation. (iii) Tap information resident or transient in the equipment/network. (b) The firm will be considered to be in breach of the procurement contract, in case physical damage, loss of information or infringements related to copyright and Intellectual Property Right (IPRs) are caused due to activation of any such malicious code in embedded software. 6. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 7. Generic Non return of Hard Disk: As per Buyer organization’s Security Policy,Faulty Hard Disk of Servers/Desktop Computers/ Laptops etc. will not be returned back to the OEM/supplier against warranty replacement. 8. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8206311",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087868"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 18-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087868"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 19-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087868"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 65 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087868"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Pmo",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087868"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Space",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087868"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: N/a",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087868"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Adrin Secunderabad 500 009",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087868"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :hod3.pmo.sc@gembuyer.in Buyer Email id: srpo@adrin.res.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087868"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087868"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Servers (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087868"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087868"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087868"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087868"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087868"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 3.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087868"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 38",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087868"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087868"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087868"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Description of Stores: Server with standard 1 year warranty | Processor Number: Intel Xeon Platinum 8480+, Intel Xeon 6740E, Intel Xeon Platinum 8490H, Intel Xeon 6747P, Intel Xeon Platinum 8580, Intel Xeon 6756E, Intel Xeon Platinum 8593Q, Intel Xeon Platinum 8592+, Intel Xeon 6766E, Intel Xeon 6760P, Intel Xeon 6761P, Intel Xeon 6767P, Intel Xeon 6780E, Intel Xeon 6781P, Intel Xeon 6787P, Intel Xeon 6748P, Intel Xeon 6788P Or higher | Graphic Card Availability: Yes Or higher | Type of RAM: DDR5 with ECC Or higher | Total Memory (RAM) Size Installed (in GB): 2048, 4096 Or higher | Type of Interface for SSD: M.2/NVMe-SSD | Type of Interface for Hard Disk Drive (HDD): SATA-HDD | Certifications Compliance (Operating System): Windows",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087868"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Yadagiri | 500009,203 Akbar Road, Manovikasnagar PO, Tarbund, Secunderabad. | 1 | 60",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087868"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087868"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 3. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 4. Generic Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of technical parameters, the bid is liable for rejection. 5. Generic Malicious Code Certificate: The seller should upload following certificate in the bid:- (a) This is to certify that the Hardware and the Software being offered, as part of the contract, does not contain Embedded Malicious code that would activate procedures to :- (i) Inhibit the desires and designed function of the equipment. (ii) Cause physical damage to the user or equipment during the exploitation. (iii) Tap information resident or transient in the equipment/network. (b) The firm will be considered to be in breach of the procurement contract, in case physical damage, loss of information or infringements related to copyright and Intellectual Property Right (IPRs) are caused due to activation of any such malicious code in embedded software. 6. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 7. Generic Non return of Hard Disk: As per Buyer organization’s Security Policy,Faulty Hard Disk of Servers/Desktop Computers/ Laptops etc. will not be returned back to the OEM/supplier against warranty replacement. 8. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10087868"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

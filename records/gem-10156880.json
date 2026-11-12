@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8266279",
   "title": "Interactive Panels with CPU",
   "description": "Interactive Panels with CPU",
-  "organisation": "Science & Technology Department Bihar",
-  "ministry": "",
+  "organisation": "N/a",
+  "ministry": "Bihar",
   "department": "Science & Technology Department Bihar",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Interactive Panels with CPU",
   "quantity": 5,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 107985,
   "published_at": "2026-11-12T12:15:04+05:30",
   "closing_at": "2026-11-23T12:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10156880"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 5
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/IruaQxIXHSbFSMoiCF2cSJojAwUVk3XVdxhNDRLbOWY",
+      "page": 5
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261112",
+      "page": 10
     }
   ],
   "tags": [
@@ -34,5 +49,404 @@
   ],
   "source_fetched_at": "2026-11-12T08:24:20.545Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-24T12:00:00+05:30",
+  "office": "842001",
+  "buyer_email": "buyer1.gp.mfp@gembuyer.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 17,
+  "oem_turnover_lakhs": 140,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-12T15:25:05.664314+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "c7cf59de3bcd4f20eaa67325dc9c288e906a4f811d1fcc2391186596db917ebe",
+  "document_pages": 10,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 17 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 140 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 40 % (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 7,
+      "consignee": "Md Seraj",
+      "address": "842001,Naya Tola, Technical Chawk, Chhata Chawk, Muzaffarpur.",
+      "quantity": 5,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "DISPLAY",
+          "parameter": "Display Type",
+          "value": "Anti-Glare LCD with Direct-lit LED"
+        },
+        {
+          "group": "DISPLAY",
+          "parameter": "Minimum Contrast Ratio",
+          "value": "1200 : 1, 1300 : 1, 1400 : 1, 1500 : 1, 1600 : 1, 1700 : 1, 1800 : 1, 1900 : 1, 2000 : 1 Or higher"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Minimum Display Panel Size, Diagonal (in Inches)",
+          "value": "86, 98, 100, 105, 110 Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Minimum Display Resolution (Horizontal x Vertical) (in Pixels)",
+          "value": "4K UHD - 3840 x 2160 Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Display Brightness (in Nits)",
+          "value": "400, 450, 500, 550, 600, 800, 1000 Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Minimum Panel Life (in Hours)",
+          "value": "50000 Or higher"
+        },
+        {
+          "group": "TOUCH SCREEN",
+          "parameter": "Touch Interface",
+          "value": "Touch Sensitive as well as Pen Driven"
+        },
+        {
+          "group": "TOUCH SCREEN",
+          "parameter": "Touch Technology",
+          "value": "Infrared (IR)"
+        },
+        {
+          "group": "TOUCH SCREEN",
+          "parameter": "Number of Touch Points (in Number)",
+          "value": "40 Or higher"
+        },
+        {
+          "group": "TOUCH SCREEN",
+          "parameter": "Additional Softwares",
+          "value": "Device Management Software"
+        },
+        {
+          "group": "TOUCH SCREEN",
+          "parameter": "On Site Warranty Support (in Years)",
+          "value": "3 Or higher"
+        },
+        {
+          "group": "CPU",
+          "parameter": "Type of CPU",
+          "value": "Inbuilt CPU with Slot Provision for Open pluggable Specification (OPS)"
+        },
+        {
+          "group": "CPU",
+          "parameter": "Number of Cores",
+          "value": "8 Or higher"
+        },
+        {
+          "group": "CPU",
+          "parameter": "Memory (in GB)",
+          "value": "8, 16 Or higher"
+        },
+        {
+          "group": "CPU",
+          "parameter": "SSD Storage Capacity (in GB)",
+          "value": "64 Or higher"
+        },
+        {
+          "group": "CPU",
+          "parameter": "Provision of Slot for Open pluggable Specification (OPS)",
+          "value": "Yes"
+        },
+        {
+          "group": "OPTIONAL ITEM",
+          "parameter": "Open pluggable Specification (OPS) included in scope of supply",
+          "value": "Yes"
+        },
+        {
+          "group": "OPTIONAL ITEM",
+          "parameter": "Pre-Install Software (OS) for Open pluggable Specification (OPS)",
+          "value": "Windows"
+        },
+        {
+          "group": "OPTIONAL ITEM",
+          "parameter": "Memory (in GB) for Open pluggable Specification (OPS)",
+          "value": "4"
+        },
+        {
+          "group": "PORTS",
+          "parameter": "Number of Input HDMI Ports",
+          "value": "2, 3, 4 Or higher"
+        },
+        {
+          "group": "PORTS",
+          "parameter": "Number of Output HDMI Ports",
+          "value": "1 Or higher"
+        },
+        {
+          "group": "PORTS",
+          "parameter": "In-built Speakers",
+          "value": "Yes"
+        },
+        {
+          "group": "PORTS",
+          "parameter": "Mounting",
+          "value": "Wall Mount"
+        },
+        {
+          "group": "CONNECTIVITY",
+          "parameter": "Availability of Bluetooth Connectivity",
+          "value": "Yes. Inbuilt"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Bluetooth Version",
+          "value": "5.0, 5.1, 5.2, 5.3 Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Availibility of Wi-Fi Connectivity",
+          "value": "Yes. Inbuilt"
+        },
+        {
+          "group": null,
+          "parameter": "Wi-Fi Connectivity",
+          "value": "802.11n (2.4 or 5 GHz) Or higher"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Number of Electronic Pen or Stylus Each Panel",
+          "value": "2 Or higher"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Additional HDMI Cable",
+          "value": "1"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 7,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Technical Specifications (86 Inch Interactive Flat Panel) Sr.No Parameter Technical Specifications Compliance (Yes/No) 1 Screen Size 86\" or Higher EDLA certified display 2 Native Resolution 3840 x 2160 (UHD)4K"
+    },
+    {
+      "page": 8,
+      "text": "3 Brightness Minimum 400 nits or above 4 Contrast Ratio 1,200:1 or better 5 Viewing Angle (H x V) 178 x 178 or better 6 Surface Treatment Hard coating, Anti-glare treatment/Haze of the front polarizer 7 Input ports HDMI-2 or more, USB (3.0)-2 or more USB(2.0) -2 or more, USB Type C-1 , OPS Slot-1 8 Output Ports Audio-1 or more, HDMI Out-1 or more 9 Built in Touch type IR / P-Cap 10 Backlight life 50000 hours or higher 11 Interface Dual band built in Wifi. 12 Haze Coating for lesser reflection 25% or higher 13 Operating System Support Windows12/Linux/Mac/Android/Tizen (Linux/Mac Support one point touch) 14 Multi touch point 40 Points touch or Higher 15 Embedded PC Less Interactive White Board mode feature for teaching Interactive White Board Software 16 Interactive Features Writing, Pen, Palm Eraser, Save, Screen Capture, Storage, Tool Bar etc 17 Built in OS Android 14.0 or higher/Windows /Tizen 18 Built is SOC Octacore (A73 X 4 + A53 X 4) or higher Processor, 8GB RAM or higher,64GB Storage or hig her 19 Media share Should be Compatible with all Devices likeScreen Share/Miracast to Connect TAB/Mobile, Web Browser/Laptop/Desktop/Screen Mirror 20 Power Supply 100-240V~, 50Hz 21 Built in Audio Power 15Wx 2 or Higher 22 STANDARD (CERTIFICATION) BIS, UL, FCC, ROHS, EDLA (Quoted model should be make in India minimum Level-II) 23 Accessory Remote Controller, Power Cord, Regulation Book, Touch Pen(2) 24 Warranty 3 Years Warranty 25 Installation Wall mount 26 Logo OEM should ensure the provision during initial startup (Booting) A customized welcome note, logo of purchaser department appearing on the screen. 27 Device Management Software Device management software to allow remote access for diagnostics Terms and conditions : 1) OEM of Interactive Panel should have owned registered office in Bihar State from last 10 years for onsite support 2) OEM should have average Turnover of Rs.500 crores from IFP/ display/Television in India in last five fina ncial years (2021-22, 2021-23, 2023-24, 2024-25 & 2025-26) 3) OEM should have own manufacturing of IFP in India from last more than 3 years. Document required- BI S license & Factory license. 4) OEM should have a minimum 15+ Authorized Service Centre in Bihar State since last 5 years along with trained technicians and executives for operating after sales services promptly. (Service centre list should b e submitted on the OEM letterhead for proof) 5) OEM should have 16x7 Toll-free number for logging calls and obtaining service docket/ticket."
+    },
+    {
+      "page": 9,
+      "text": "6) OEM should have experience of manufacturing/selling of IFPs in India since last five years. (Government customer PO copy should be submitted for proof) 7) OEM should have BIS License for manufacturing of Interactive Flat Panel. 8) OEM should have work order for supply of minimum 100 nos. of Interactive Panels & Professional Large Format Display to Central/ State Govt./ PSUs/ Govt. Institutions in a single order in last three financial year (2022-23, 2023-24 & 2024-25). 9) OEM should submit technical compliance and bid specific MAF on the letterhead (mandatory) 10) All the documents from OEM on their letterhead must be signed by authorized signatory with mentioni ng the email id. (in case of re-verification required) 11)Attendance at the pre-bid meeting organized by the concerned department is mandatory for all particip ating bidders. 12)All participating bidders are required to conduct a demonstration of their offered products before the c oncerned department for evaluation and approval. Pre Bidding Date Time-18-11-2026 Location-Goverment Polytechnic Muzaffarpur Bihar-842001 ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8266279",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10156880"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 23-11-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10156880"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 24-11-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10156880"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10156880"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Bihar",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10156880"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Science & Technology Department Bihar",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10156880"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: N/a",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10156880"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: 842001",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10156880"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :gpmuz@bihar.gov.in Buyer Email id: buyer1.gp.mfp@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10156880"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 5",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10156880"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Interactive Panels with CPU (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10156880"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 17 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10156880"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 140 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10156880"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10156880"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10156880"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10156880"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10156880"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10156880"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 40 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10156880"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10156880"
+    },
+    {
+      "field": "emd_fee",
+      "page": 3,
+      "quote": "EMD Amount: 107985",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10156880"
+    },
+    {
+      "field": "emd_required",
+      "page": 3,
+      "quote": "EMD Amount: 107985",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10156880"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10156880"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Display Type: Anti-Glare LCD with Direct-lit LED | Minimum Contrast Ratio: 1200 : 1, 1300 : 1, 1400 : 1, 1500 : 1, 1600 : 1, 1700 : 1, 1800 : 1, 1900 : 1, 2000 : 1 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10156880"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Minimum Display Panel Size, Diagonal (in Inches): 86, 98, 100, 105, 110 Or higher | Minimum Display Resolution (Horizontal x Vertical) (in Pixels): 4K UHD - 3840 x 2160 Or higher | Display Brightness (in Nits): 400, 450, 500, 550, 600, 800, 1000 Or higher | Minimum Panel Life (in Hours): 50000 Or higher | Touch Interface: Touch Sensitive as well as Pen Driven | Touch Technology: Infrared (IR) | Number of Touch Points (in Number): 40 Or higher | Additional Softwares: Device Management Software | On Site Warranty Support (in Years): 3 Or higher | Type of CPU: Inbuilt CPU with Slot Provision for Open pluggable Specification (OPS) | Number of Cores: 8 Or higher | Memory (in GB): 8, 16 Or higher | SSD Storage Capacity (in GB): 64 Or higher | Provision of Slot for Open pluggable Specification (OPS): Yes | Open pluggable Specification (OPS) included in scope of supply: Yes | Pre-Install Software (OS) for Open pluggable Specification (OPS): Windows | Memory (in GB) for Open pluggable Specification (OPS): 4 | Number of Input HDMI Ports: 2, 3, 4 Or higher | Number of Output HDMI Ports: 1 Or higher | In-built Speakers: Yes | Mounting: Wall Mount | Availability of Bluetooth Connectivity: Yes. Inbuilt",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10156880"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 7,
+      "quote": "Bluetooth Version: 5.0, 5.1, 5.2, 5.3 Or higher | Availibility of Wi-Fi Connectivity: Yes. Inbuilt | Wi-Fi Connectivity: 802.11n (2.4 or 5 GHz) Or higher | Number of Electronic Pen or Stylus Each Panel: 2 Or higher | Additional HDMI Cable: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10156880"
+    },
+    {
+      "field": "consignees",
+      "page": 7,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Md Seraj | 842001,Naya Tola, Technical Chawk, Chhata Chawk, Muzaffarpur. | 5 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10156880"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Technical Specifications (86 Inch Interactive Flat Panel) Sr.No Parameter Technical Specifications Compliance (Yes/No) 1 Screen Size 86\" or Higher EDLA certified display 2 Native Resolution 3840 x 2160 (UHD)4K",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10156880"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "3 Brightness Minimum 400 nits or above 4 Contrast Ratio 1,200:1 or better 5 Viewing Angle (H x V) 178 x 178 or better 6 Surface Treatment Hard coating, Anti-glare treatment/Haze of the front polarizer 7 Input ports HDMI-2 or more, USB (3.0)-2 or more USB(2.0) -2 or more, USB Type C-1 , OPS Slot-1 8 Output Ports Audio-1 or more, HDMI Out-1 or more 9 Built in Touch type IR / P-Cap 10 Backlight life 50000 hours or higher 11 Interface Dual band built in Wifi. 12 Haze Coating for lesser reflection 25% or higher 13 Operating System Support Windows12/Linux/Mac/Android/Tizen (Linux/Mac Support one point touch) 14 Multi touch point 40 Points touch or Higher 15 Embedded PC Less Interactive White Board mode feature for teaching Interactive White Board Software 16 Interactive Features Writing, Pen, Palm Eraser, Save, Screen Capture, Storage, Tool Bar etc 17 Built in OS Android 14.0 or higher/Windows /Tizen 18 Built is SOC Octacore (A73 X 4 + A53 X 4) or higher Processor, 8GB RAM or higher,64GB Storage or hig her 19 Media share Should be Compatible with all Devices likeScreen Share/Miracast to Connect TAB/Mobile, Web Browser/Laptop/Desktop/Screen Mirror 20 Power Supply 100-240V~, 50Hz 21 Built in Audio Power 15Wx 2 or Higher 22 STANDARD (CERTIFICATION) BIS, UL, FCC, ROHS, EDLA (Quoted model should be make in India minimum Level-II) 23 Accessory Remote Controller, Power Cord, Regulation Book, Touch Pen(2) 24 Warranty 3 Years Warranty 25 Installation Wall mount 26 Logo OEM should ensure the provision during initial startup (Booting) A customized welcome note, logo of purchaser department appearing on the screen. 27 Device Management Software Device management software to allow remote access for diagnostics Terms and conditions : 1) OEM of Interactive Panel should have owned registered office in Bihar State from last 10 years for onsite support 2) OEM should have average Turnover of Rs.500 crores from IFP/ display/Television in India in last five fina ncial years (2021-22, 2021-23, 2023-24, 2024-25 & 2025-26) 3) OEM should have own manufacturing of IFP in India from last more than 3 years. Document required- BI S license & Factory license. 4) OEM should have a minimum 15+ Authorized Service Centre in Bihar State since last 5 years along with trained technicians and executives for operating after sales services promptly. (Service centre list should b e submitted on the OEM letterhead for proof) 5) OEM should have 16x7 Toll-free number for logging calls and obtaining service docket/ticket.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10156880"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "6) OEM should have experience of manufacturing/selling of IFPs in India since last five years. (Government customer PO copy should be submitted for proof) 7) OEM should have BIS License for manufacturing of Interactive Flat Panel. 8) OEM should have work order for supply of minimum 100 nos. of Interactive Panels & Professional Large Format Display to Central/ State Govt./ PSUs/ Govt. Institutions in a single order in last three financial year (2022-23, 2023-24 & 2024-25). 9) OEM should submit technical compliance and bid specific MAF on the letterhead (mandatory) 10) All the documents from OEM on their letterhead must be signed by authorized signatory with mentioni ng the email id. (in case of re-verification required) 11)Attendance at the pre-bid meeting organized by the concerned department is mandatory for all particip ating bidders. 12)All participating bidders are required to conduct a demonstration of their offered products before the c oncerned department for evaluation and approval. Pre Bidding Date Time-18-11-2026 Location-Goverment Polytechnic Muzaffarpur Bihar-842001 .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10156880"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

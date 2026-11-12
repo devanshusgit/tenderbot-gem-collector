@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8255362",
   "title": "Stainless Steel Bain Marie",
   "description": "Stainless Steel Bain Marie",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "Central Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Stainless Steel Bain Marie",
   "quantity": 2,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-12T15:47:12+05:30",
   "closing_at": "2026-11-23T16:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10144268"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/qa2JQmzEauxf3PuYohWHsa2hllnh75RGSmNK01UZS3g",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261112",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +49,329 @@
   ],
   "source_fetched_at": "2026-11-12T17:09:06.681Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-24T16:00:00+05:30",
+  "office": "Central Railway Stores Deptt",
+  "buyer_email": "admmbb@bb.railnet.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "90 (Days)",
+  "source_document_fetched_at": "2026-11-12T23:50:54.591882+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "90b7f44d38433fe6ae1346fc891620a7a139dbf0c0c5e14d6acf6e63b377dece",
+  "document_pages": 7,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 20 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Binod Kumar",
+      "address": "421201,OFFICE OF SR.CO/12, BN RPSF THAKURLI, DIST : THANE - 421201",
+      "quantity": 2,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "ITEM",
+          "parameter": "Item",
+          "value": "Hot Bain Marie"
+        },
+        {
+          "group": "MATERIAL",
+          "parameter": "Bain Marie Body Material",
+          "value": "Stainless Steel (304)"
+        },
+        {
+          "group": "Shape, Design & Colour",
+          "parameter": "Top Table Shape",
+          "value": "Rectangular"
+        },
+        {
+          "group": "Shape, Design & Colour",
+          "parameter": "Bain Marie Body Mountain",
+          "value": "On Leg"
+        },
+        {
+          "group": "Shape, Design & Colour",
+          "parameter": "Pan Design",
+          "value": "Rectangular"
+        },
+        {
+          "group": "Shape, Design & Colour",
+          "parameter": "Pan Lid",
+          "value": "Yes"
+        },
+        {
+          "group": "Shape, Design & Colour",
+          "parameter": "Number of Legs",
+          "value": "NA"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Number of Wheel",
+          "value": "4"
+        },
+        {
+          "group": null,
+          "parameter": "Wheel Brake",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Cooling Arrangement",
+          "value": "No"
+        },
+        {
+          "group": null,
+          "parameter": "Heating Arrangement",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Drainage Provided",
+          "value": "No"
+        },
+        {
+          "group": "FUNCTION",
+          "parameter": "Energy Mode",
+          "value": "Electric"
+        },
+        {
+          "group": "FUNCTION",
+          "parameter": "Power Rating",
+          "value": "5"
+        },
+        {
+          "group": "FUNCTION",
+          "parameter": "Supply Voltage",
+          "value": "220-240, 50Hz"
+        },
+        {
+          "group": "FUNCTION",
+          "parameter": "Temparature Control",
+          "value": "Automatic"
+        },
+        {
+          "group": "FUNCTION",
+          "parameter": "Cut ON/OFF Temperature",
+          "value": "Yes"
+        },
+        {
+          "group": "DIMENSION",
+          "parameter": "Number Of pans",
+          "value": "5"
+        },
+        {
+          "group": "DIMENSION",
+          "parameter": "Individual Pan Capacity ( In Litre )",
+          "value": "10"
+        },
+        {
+          "group": "DIMENSION",
+          "parameter": "Bain Marie Length ( In MM )",
+          "value": "1000"
+        },
+        {
+          "group": "DIMENSION",
+          "parameter": "Bain Marie Width ( In MM )",
+          "value": "600"
+        },
+        {
+          "group": "DIMENSION",
+          "parameter": "Bain Marie Height (In mm )",
+          "value": "600"
+        },
+        {
+          "group": "DIMENSION",
+          "parameter": "Bain Marie leg height ( In MM )",
+          "value": "NA"
+        },
+        {
+          "group": "DIMENSION",
+          "parameter": "SS Sheet Body Thickness ( In MM )",
+          "value": "1.3"
+        },
+        {
+          "group": "DIMENSION",
+          "parameter": "SS Sheet Pan Thickness ( In MM )",
+          "value": "1.2"
+        },
+        {
+          "group": "DIMENSION",
+          "parameter": "SS Sheet Lid thickness ( In mm )",
+          "value": "1.2"
+        },
+        {
+          "group": "DIMENSION",
+          "parameter": "Wheel Diameter ( In MM )",
+          "value": "60"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "Unit Warranty (in years)",
+          "value": "1"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 3. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods"
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8255362",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144268"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 23-11-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144268"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 24-11-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144268"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144268"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144268"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144268"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Central Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144268"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Central Railway Stores Deptt",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144268"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :dycmmadmin@cr.railnet.gov.in Buyer Email id: admmbb@bb.railnet.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144268"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 2",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144268"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Stainless Steel Bain Marie (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144268"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144268"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144268"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144268"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 20 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144268"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144268"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144268"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144268"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Item: Hot Bain Marie | Bain Marie Body Material: Stainless Steel (304) | Top Table Shape: Rectangular | Bain Marie Body Mountain: On Leg | Pan Design: Rectangular | Pan Lid: Yes | Number of Legs: NA",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144268"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Number of Wheel: 4 | Wheel Brake: Yes | Cooling Arrangement: No | Heating Arrangement: Yes | Drainage Provided: No | Energy Mode: Electric | Power Rating: 5 | Supply Voltage: 220-240, 50Hz | Temparature Control: Automatic | Cut ON/OFF Temperature: Yes | Number Of pans: 5 | Individual Pan Capacity ( In Litre ): 10 | Bain Marie Length ( In MM ): 1000 | Bain Marie Width ( In MM ): 600 | Bain Marie Height (In mm ): 600 | Bain Marie leg height ( In MM ): NA | SS Sheet Body Thickness ( In MM ): 1.3 | SS Sheet Pan Thickness ( In MM ): 1.2 | SS Sheet Lid thickness ( In mm ): 1.2 | Wheel Diameter ( In MM ): 60 | Unit Warranty (in years): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144268"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Binod Kumar | 421201,OFFICE OF SR.CO/12, BN RPSF THAKURLI, DIST : THANE - 421201 | 2 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144268"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 3. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144268"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

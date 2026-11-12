@@ -4,9 +4,9 @@
   "status": "succeeded",
   "source_total": 44330,
   "note": "Imported actual source observations; cloud traversal starts from page1 for conservative coverage.",
-  "last_run_at": "2026-11-12T08:22:38.222490+00:00",
+  "last_run_at": "2026-11-12T14:55:32.115206+00:00",
   "error": null,
-  "source_checked_at": "2026-11-12T08:32:39.233496+00:00",
+  "source_checked_at": "2026-11-12T15:05:45.053603+00:00",
   "source_health": {
     "status": "reachable",
     "stage": "http",
@@ -25,13 +25,13 @@
   "last_success_at": "2026-11-12T08:34:32.009733+00:00",
   "newest_refresh_watermark": "2026-11-10T09:54:29.983079+00:00",
   "newest_refresh_last_complete_at": "2026-11-12T02:35:15.576970+00:00",
-  "mode": "collection",
-  "last_run_kind": "collection",
-  "last_documents_success_at": "2026-11-12T02:28:25.419335+00:00",
+  "mode": "documents",
+  "last_run_kind": "documents",
+  "last_documents_success_at": "2026-11-12T15:05:45.053589+00:00",
   "document_batch": {
-    "attempted": 90,
-    "downloaded": 90,
-    "failed": 0,
-    "source_failures": 0
+    "attempted": 197,
+    "downloaded": 188,
+    "failed": 9,
+    "source_failures": 9
   }
 }

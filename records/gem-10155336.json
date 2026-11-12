@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/R/768709",
   "title": "Revolving Chair (V5)",
   "description": "Revolving Chair (V5)",
-  "organisation": "Central Public Works Department",
-  "ministry": "Ministry of Housing & Urban Affairs (MoHUA)",
+  "organisation": "Cpwd",
+  "ministry": "Ministry Of Housing & Urban Affairs (mohua)",
   "department": "Central Public Works Department",
   "portal_name": "GeM",
   "state": [],
@@ -25,8 +25,18 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10155336"
+    },
+    {
+      "name": "GEM/2026/B/8202902",
+      "url": "https://bidplus.gem.gov.in/showbidDocument/10083822",
+      "page": 1
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261111",
+      "page": 1
     }
   ],
   "tags": [
@@ -34,5 +44,105 @@
   ],
   "source_fetched_at": "2026-11-12T02:47:05.260Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "office": "Chief Engineer Bhubaneswar Cpwd",
+  "ra_start_at": "2026-11-12T19:00:00+05:30",
+  "auto_extension": "If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+  "mse_exemption": "MSE Exemption for Years of Experience and Turnover: No",
+  "startup_exemption": "Startup Exemption for Years of Experience and Turnover: No",
+  "originating_bid_reference": "GEM/2026/B/8202902",
+  "source_document_fetched_at": "2026-11-12T14:57:20.208205+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "467af50f93cf320717702b41861ac640f7ca47ade1551c9734a4aa16941a7cf4",
+  "document_pages": 1,
+  "eligibility": [
+    "MSE Exemption for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Exemption for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [],
+  "technical_specifications": [],
+  "buyer_added_terms": [],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/768709",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10155336"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 1,
+      "quote": "Please refer to Bid document of GEM/2026/B/8202902",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10155336"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 12-11-2026 19:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10155336"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 13-11-2026 19:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10155336"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Housing & Urban Affairs (mohua)",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10155336"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Central Public Works Department",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10155336"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Cpwd",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10155336"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Chief Engineer Bhubaneswar Cpwd",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10155336"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10155336"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Revolving Chair (V5)",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10155336"
+    },
+    {
+      "field": "auto_extension",
+      "page": 1,
+      "quote": "Auto Extension: If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10155336"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 1,
+      "quote": "MSE Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10155336"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 1,
+      "quote": "Startup Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10155336"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda."
 }

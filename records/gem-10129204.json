@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8242297",
   "title": "Layer 3 Managed Network Switches (Core/Distribution Grade)",
   "description": "Layer 3 Managed Network Switches (Core/Distribution Grade)",
-  "organisation": "INDIAN OIL CORPORATION LIMITED",
-  "ministry": "Ministry of Petroleum and Natural Gas",
-  "department": "INDIAN OIL CORPORATION LIMITED",
+  "organisation": "Iocl- Serpl",
+  "ministry": "Ministry Of Petroleum And Natural Gas",
+  "department": "Indian Oil Corporation Limited",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Layer 3 Managed Network Switches (Core/Distribution Grade)",
   "quantity": 11,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-11T18:51:19+05:30",
   "closing_at": "2026-11-23T15:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10129204"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/26kJWVFEWB9-UHdF7AgtkAsCxCL8WjhXVlh7M2nB_Rk",
+      "page": 4
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8242297/CLM0010/9320M26A53_0dfdd003-d4ce-464d-9f7e1794403120283_buyer2.iocl.bbs.pdf",
+      "page": 6
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261111",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +54,250 @@
   ],
   "source_fetched_at": "2026-11-12T02:49:52.449Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-24T15:00:00+05:30",
+  "office": "Ioc Serpl",
+  "buyer_email": "debasish@indianoil.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 33,
+  "offer_validity": "120 (Days)",
+  "source_document_fetched_at": "2026-11-12T16:46:14.403058+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "d8e870b9c7cc691a92fa5312fc5993f410e8e55b8b46271ae2fbb78fe2322c25",
+  "document_pages": 8,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Prachee Chaudhari",
+      "address": "768005,Indian Oil Corporation Limited ( pipeline division) Naxapali, PO-Dhanupali, Sambalpur Pin-768005, Odisha GSTIN no.- 21AAACI1681G1Z1",
+      "quantity": 11,
+      "quantity_label": "Quantity",
+      "delivery_days": 60
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Generic",
+          "parameter": "Description of Store",
+          "value": "Core Switch, Distribution Switch"
+        },
+        {
+          "group": "Downlink Port",
+          "parameter": "Downlink Ports Type",
+          "value": "PoE, Non PoE, PoE+, PoE++"
+        },
+        {
+          "group": "Downlink Port",
+          "parameter": "Total Number of Ethernet Ports (Downlink)",
+          "value": "24, 48"
+        },
+        {
+          "group": "Downlink Port",
+          "parameter": "Number of PoE RJ45 Ports (Downlink)",
+          "value": "0, 24, 48"
+        },
+        {
+          "group": "Downlink Port",
+          "parameter": "Number of PoE+ RJ45 Ports (Downlink)",
+          "value": "0, 24, 48"
+        },
+        {
+          "group": "Downlink Port",
+          "parameter": "Number of PoE++ RJ45 Ports (Downlink)",
+          "value": "0, 24, 48"
+        },
+        {
+          "group": "Uplink Port",
+          "parameter": "Uplink Port Type",
+          "value": "SFP, SFP+, RJ45"
+        },
+        {
+          "group": "Uplink Port",
+          "parameter": "Number of SFP Port",
+          "value": "2, 4, 0"
+        },
+        {
+          "group": "Uplink Port",
+          "parameter": "Number of SFP+ Port",
+          "value": "0, 2, 4"
+        },
+        {
+          "group": "Uplink Port",
+          "parameter": "Number of RJ45 ports (Uplink)",
+          "value": "0, 2, 4"
+        },
+        {
+          "group": "Features",
+          "parameter": "Security Features",
+          "value": "DHCP Snooping, ARP Inspection, IP Source Guard, 802.1x Authentication"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 3. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses ATC Text: 1. Technical Specification has been attached separately. Kindly refer Technical Specification S ection of GEM bid Document. 2. Commercial loading shall not be applicable in this tender in accordance with Clause 4.0 of t he Instructions to Bidders (ITB) of the IOCL Tender Document."
+    },
+    {
+      "page": 6,
+      "text": "3. All bidders must furnish Bid Security Declaration (BSD) as per tender Format. Bid Security declaration (BSD) is also required to be submitted by MSE/ Start Up/ any exempted category b idders. Offers received without BSD as per tender requirement shall be liable for Rejection. 4. In the event of any irreconcilable conflict between the provision of tender document betwe en IOCL General Purchase Condition and GEM General Terms and Conditions, the provision in t he tender documents (Included as IOCL General purchase condition) shall supersede the confli cting Provision(s) of the GeM General Terms & Conditions. 5. Material shall be subjected to inspection by TPI. TPIA shall be in the scope of IOCL. Bidder s hould quote accordingly. 6. Technical data sheet to be mandatorily submitted along with BID. 7. Please refer tender document for item, technical specification & delivery locations. Tender document is uploaded in the buyer uploaded ATC. . 4. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 5. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address Please refer tender document attached in Buyer Added Bid specific ATC section in GeM Bid Document for a ctual delivery details , do not refer details of delivery from GeM Bid Document Please refer tender document attached in Buyer Added Bid specific ATC section in GeM Bid Document for a ctual delivery details , do not refer details of delivery from GeM Bid Document Please refer tender document attached in Buyer Added Bid specific ATC section in GeM Bid Document for a ctual delivery details , do not refer details of delivery from GeM Bid Document Please refer tender document attached in Buyer Added Bid specific ATC section in GeM Bid Document for a ctual delivery details , do not refer details of delivery from GeM Bid Document Please refer tender document attached in Buyer Added Bid specific ATC section in GeM Bid Document for a ctual delivery details , do not refer details of delivery from GeM Bid Document ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8242297",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10129204"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 23-11-2026 15:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10129204"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 24-11-2026 15:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10129204"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10129204"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Petroleum And Natural Gas",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10129204"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Oil Corporation Limited",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10129204"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Iocl- Serpl",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10129204"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Ioc Serpl",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10129204"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :kumarmahesh@indianoil.in Buyer Email id: debasish@indianoil.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10129204"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 11",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10129204"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Layer 3 Managed Network Switches (Core/Distribution Grade) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10129204"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10129204"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10129204"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10129204"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10129204"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10129204"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 33",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10129204"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10129204"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10129204"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Description of Store: Core Switch, Distribution Switch | Downlink Ports Type: PoE, Non PoE, PoE+, PoE++ | Total Number of Ethernet Ports (Downlink): 24, 48 | Number of PoE RJ45 Ports (Downlink): 0, 24, 48 | Number of PoE+ RJ45 Ports (Downlink): 0, 24, 48 | Number of PoE++ RJ45 Ports (Downlink): 0, 24, 48 | Uplink Port Type: SFP, SFP+, RJ45 | Number of SFP Port: 2, 4, 0 | Number of SFP+ Port: 0, 2, 4 | Number of RJ45 ports (Uplink): 0, 2, 4 | Security Features: DHCP Snooping, ARP Inspection, IP Source Guard, 802.1x Authentication",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10129204"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Prachee Chaudhari | 768005,Indian Oil Corporation Limited ( pipeline division) Naxapali, PO-Dhanupali, Sambalpur Pin-768005, Odisha GSTIN no.- 21AAACI1681G1Z1 | 11 | 60",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10129204"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 3. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses ATC Text: 1. Technical Specification has been attached separately. Kindly refer Technical Specification S ection of GEM bid Document. 2. Commercial loading shall not be applicable in this tender in accordance with Clause 4.0 of t he Instructions to Bidders (ITB) of the IOCL Tender Document.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10129204"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "3. All bidders must furnish Bid Security Declaration (BSD) as per tender Format. Bid Security declaration (BSD) is also required to be submitted by MSE/ Start Up/ any exempted category b idders. Offers received without BSD as per tender requirement shall be liable for Rejection. 4. In the event of any irreconcilable conflict between the provision of tender document betwe en IOCL General Purchase Condition and GEM General Terms and Conditions, the provision in t he tender documents (Included as IOCL General purchase condition) shall supersede the confli cting Provision(s) of the GeM General Terms & Conditions. 5. Material shall be subjected to inspection by TPI. TPIA shall be in the scope of IOCL. Bidder s hould quote accordingly. 6. Technical data sheet to be mandatorily submitted along with BID. 7. Please refer tender document for item, technical specification & delivery locations. Tender document is uploaded in the buyer uploaded ATC. . 4. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 5. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address Please refer tender document attached in Buyer Added Bid specific ATC section in GeM Bid Document for a ctual delivery details , do not refer details of delivery from GeM Bid Document Please refer tender document attached in Buyer Added Bid specific ATC section in GeM Bid Document for a ctual delivery details , do not refer details of delivery from GeM Bid Document Please refer tender document attached in Buyer Added Bid specific ATC section in GeM Bid Document for a ctual delivery details , do not refer details of delivery from GeM Bid Document Please refer tender document attached in Buyer Added Bid specific ATC section in GeM Bid Document for a ctual delivery details , do not refer details of delivery from GeM Bid Document Please refer tender document attached in Buyer Added Bid specific ATC section in GeM Bid Document for a ctual delivery details , do not refer details of delivery from GeM Bid Document .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10129204"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

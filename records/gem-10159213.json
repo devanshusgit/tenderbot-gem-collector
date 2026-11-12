@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8268344",
   "title": "ANU208IFINGS-MARK-IV-VM,SAI1445TGSP04-V2-VM",
   "description": "ANU208IFINGS-MARK-IV-VM,SAI1445TGSP04-V2-VM",
-  "organisation": "Department of Defence Production",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Defence Production",
+  "organisation": "Hindustan Aeronautics Limited (hal)",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Defence Production",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "ANU208IFINGS-MARK-IV-VM,SAI1445TGSP04-V2-VM",
   "quantity": 9,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-12T16:00:12+05:30",
   "closing_at": "2026-11-23T16:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10159213"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "Buyer technical specification",
+      "url": "https://mkp.gem.gov.in/catalog_data/catalog_support_document/buyer_documents/1273753/54/78/703/CatalogAttrs/SpecificationDocument/2026/11/12/123_2026-11-12-15-45-22_2f1132a6738f3061e220858a61958cb5.pdf",
+      "page": 4
+    },
+    {
+      "name": "Buyer technical specification",
+      "url": "https://mkp.gem.gov.in/catalog_data/catalog_support_document/buyer_documents/1273753/54/78/703/CatalogAttrs/SpecificationDocument/2026/11/12/123_2026-11-12-15-47-49_5b18a4397ad37b8bf278f61a83edd48c.pdf",
+      "page": 5
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261112",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +54,158 @@
   ],
   "source_fetched_at": "2026-11-12T17:08:25.841Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-24T16:00:00+05:30",
+  "buyer_email": "buycon31.halh.ts@gembuyer.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-12T23:41:09.137611+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "fb20834ed29617bc9662321639d5868c1db0623dc19cd03abbf2969ff0493b08",
+  "document_pages": 7,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "***********",
+      "address": "***********Rangareddi",
+      "quantity": 3,
+      "quantity_label": "Quantity",
+      "delivery_days": 365
+    },
+    {
+      "page": 5,
+      "consignee": "***********",
+      "address": "***********Rangareddi",
+      "quantity": 6,
+      "quantity_label": "Quantity",
+      "delivery_days": 365
+    }
+  ],
+  "technical_specifications": [],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8268344",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159213"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 23-11-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159213"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 24-11-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159213"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159213"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159213"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Defence Production",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159213"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Hindustan Aeronautics Limited (hal)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159213"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :rajaiah.k@hal-india.co.in Buyer Email id: buycon31.halh.ts@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159213"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 9",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159213"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: ANU208IFINGS-MARK-IV-VM , SAI1445TGSP04-V2-VM",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159213"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159213"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159213"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159213"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159213"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159213"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********Rangareddi | 3 | 365",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159213"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********Rangareddi | 6 | 365",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159213"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159213"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

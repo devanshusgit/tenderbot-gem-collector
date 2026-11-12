@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8265011",
   "title": "Safes (V3) ISI Marked to IS 550",
   "description": "Safes (V3) ISI Marked to IS 550,Safes (V3) ISI Marked to IS 550",
-  "organisation": "Department of Financial Services",
-  "ministry": "Ministry of Finance",
-  "department": "Department of Financial Services",
+  "organisation": "Bank Of Baroda",
+  "ministry": "Ministry Of Finance",
+  "department": "Department Of Financial Services",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Safes (V3) ISI Marked to IS 550",
   "quantity": 2,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-11T19:22:04+05:30",
   "closing_at": "2026-12-02T20:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10155390"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/rP_WEvI_Oaqo2TatoiJPQBCcp_bFqTsnDVf_aDze-RY",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261111",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +49,197 @@
   ],
   "source_fetched_at": "2026-11-12T02:49:25.730Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-03T20:00:00+05:30",
+  "office": "Nes",
+  "buyer_email": "manash.mili@bankofbaroda.com",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-12T16:39:02.128755+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "d91c39c2c3cebe207edb610516e9e32f161316f8021e91394399139f1e876fec",
+  "document_pages": 7,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Sempotenla Phom",
+      "address": "798625,Shauli Ward, Lonleng, Nagaland-798625",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    },
+    {
+      "page": 5,
+      "consignee": "Longnya Sumnyan",
+      "address": "792130,Opp. BJP District Office,Electric Colony,Khonsa, Tirap Dist",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "GENERAL REQUIREMENTS",
+          "parameter": "Classification of Safes (as per Table 1 of IS 550 | Format: Class / Classification Code)",
+          "value": "A / TRTL – 30 × 6"
+        },
+        {
+          "group": "GENERAL REQUIREMENTS",
+          "parameter": "Number of Doors in Safe",
+          "value": "Single Door"
+        },
+        {
+          "group": "PHYSICAL REQUIREMENTS",
+          "parameter": "Standard Size of Safe (Gross Internal Volume, in L) (As per Table 2 of IS 550)",
+          "value": "1340 (336 L)"
+        },
+        {
+          "group": "PHYSICAL REQUIREMENTS",
+          "parameter": "Gross Internal Volume (in L | As per table 2 of IS 550)",
+          "value": "336"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8265011",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155390"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 02-12-2026 20:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155390"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 03-12-2026 20:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155390"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155390"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Finance",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155390"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Financial Services",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155390"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Bank Of Baroda",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155390"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Nes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155390"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :hansdah.narendra@bankofbaroda.com Buyer Email id: manash.mili@bankofbaroda.com",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155390"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 2",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155390"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Safes (V3) ISI Marked to IS 550 (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155390"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155390"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155390"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155390"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155390"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155390"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Classification of Safes (as per Table 1 of IS 550 | Format: Class / Classification Code): A / TRTL – 30 × 6 | Number of Doors in Safe: Single Door | Standard Size of Safe (Gross Internal Volume, in L) (As per Table 2 of IS 550): 1340 (336 L) | Gross Internal Volume (in L | As per table 2 of IS 550): 336",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155390"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Sempotenla Phom | 798625,Shauli Ward, Lonleng, Nagaland-798625 | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155390"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 2 | Longnya Sumnyan | 792130,Opp. BJP District Office,Electric Colony,Khonsa, Tirap Dist | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155390"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155390"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

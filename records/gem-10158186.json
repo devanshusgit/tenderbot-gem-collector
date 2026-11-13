@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8267426",
   "title": "Monthly Basis Cab & Taxi Hiring Services - Sedan; 2000 km x 320 hours; Local",
   "description": "Monthly Basis Cab & Taxi Hiring Services - Sedan; 2000 km x 320 hours; Local",
-  "organisation": "Department of Expenditure",
-  "ministry": "Ministry of Finance",
-  "department": "Department of Expenditure",
+  "organisation": "Controller General Of Accounts (cga)",
+  "ministry": "Ministry Of Finance",
+  "department": "Department Of Expenditure",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Monthly Basis Cab & Taxi Hiring Services - Sedan; 2000 km x 320 hours; Local",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-12T14:33:38+05:30",
   "closing_at": "2026-12-02T14:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10158186"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8267426/CLM0010/ATC_9bc17872-0c0c-4778-b2bd1794473794282_spmumizorambuyer.docx",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261112",
+      "page": 5
+    },
+    {
+      "name": "Service Level Agreement",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/bidsla/103188742810596",
+      "page": 5
     }
   ],
   "tags": [
@@ -34,5 +54,216 @@
   ],
   "source_fetched_at": "2026-11-12T17:10:13.179Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-03T14:00:00+05:30",
+  "office": "Public Financial Management System",
+  "buyer_email": "kholum.j@gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "20 (Days)",
+  "contract_period": "1 Year(s)",
+  "source_document_fetched_at": "2026-11-13T00:32:41.960369+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "afa86979f614f714c7ce73ab04a9f7ca217db7da57f1f7b392126270f1140e78",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Joseph Vanronghak F Kholum",
+      "address": "796001,SPMU, PFMS, AIS (2)/GS/3, All india Service Transit, Accomodation, Mizoram Youth commissioner Building, near MPSC, Kotla, Aizwal, Mizoram",
+      "quantity": 1,
+      "quantity_label": "Number of Vehicles Required",
+      "delivery_days": null,
+      "additional_requirements": "Duration in Months for which service is required : 12"
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Vehicle Type",
+          "value": "Sedan"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type of car (Please select at least 3 options)",
+          "value": "Maruti Suzuki Swift , Maruti Suzuki Dzire , Maruti Suzuki Ciaz"
+        },
+        {
+          "group": "Core",
+          "parameter": "Usage Variant",
+          "value": "2000 km x 320 hours"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type of Service",
+          "value": "Local"
+        },
+        {
+          "group": "Core",
+          "parameter": "Year of Vehicle Model",
+          "value": "2023"
+        },
+        {
+          "group": "Core",
+          "parameter": "Km Travelled",
+          "value": "Upto 25,000 Kms"
+        },
+        {
+          "group": "Core",
+          "parameter": "Air Conditioning Requirement",
+          "value": "A/C"
+        },
+        {
+          "group": "Core",
+          "parameter": "Area of Operation",
+          "value": "Hilly Areas"
+        },
+        {
+          "group": "Core",
+          "parameter": "Fuel Type",
+          "value": "Petrol"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE 25% : The buyer can increase or decrease the contract quantity or contract duration up to 25 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 25 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 25 percent with the consent of the service provider 2. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 3. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8267426",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158186"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 02-12-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158186"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 03-12-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158186"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 20 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158186"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Finance",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158186"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Expenditure",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158186"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Controller General Of Accounts (cga)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158186"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Public Financial Management System",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158186"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :chandan.mittal@gov.in Buyer Email id: kholum.j@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158186"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Monthly Basis Cab & Taxi Hiring Services - Sedan; 2000 km x 320 hours; Local",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158186"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 1 Year(s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158186"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158186"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158186"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158186"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158186"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158186"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Vehicle Type: Sedan | Type of car (Please select at least 3 options): Maruti Suzuki Swift , Maruti Suzuki Dzire , Maruti Suzuki Ciaz | Usage Variant: 2000 km x 320 hours | Type of Service: Local | Year of Vehicle Model: 2023 | Km Travelled: Upto 25,000 Kms | Air Conditioning Requirement: A/C | Area of Operation: Hilly Areas | Fuel Type: Petrol",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158186"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Number of Vehicles Required | Additional Requirement: 1 | Joseph Vanronghak F Kholum | 796001,SPMU, PFMS, AIS (2)/GS/3, All india Service Transit, Accomodation, Mizoram Youth commissioner Building, near MPSC, Kotla, Aizwal, Mizoram | 1 | Duration in Months for which service is required : 12",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158186"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE 25% : The buyer can increase or decrease the contract quantity or contract duration up to 25 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 25 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 25 percent with the consent of the service provider 2. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 3. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158186"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

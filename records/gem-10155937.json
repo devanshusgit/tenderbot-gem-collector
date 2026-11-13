@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8265451",
   "title": "Road Delineator (V2)",
   "description": "Road Delineator (V2)",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Air Force",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Road Delineator (V2)",
   "quantity": 30,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-12T09:54:02+05:30",
   "closing_at": "2026-11-23T09:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10155937"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/WynvYdFmXW3lH-fIKZT8YEbbKNGsCE_PATMFj1hCxNw",
+      "page": 3
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8265451/CLM0010/R_d4f102e6-979a-45df-ac441794457406092_LPCELLPKT1.pdf",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261112",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +54,255 @@
   ],
   "source_fetched_at": "2026-11-13T03:07:43.036Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-24T09:00:00+05:30",
+  "buyer_email": "lotus1@nic.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Certificate (Requested in ATC),Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-13T06:09:39.097168+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "572e8b1243af1b65b722677855b3f29bba87f30f35e7d78335455e987d6389a9",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Certificate (Requested in ATC),Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "***********",
+      "address": "***********PATHANKOT",
+      "quantity": 30,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Item",
+          "parameter": "Type",
+          "value": "Fixed"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Material",
+          "parameter": "Material",
+          "value": "HDPE"
+        },
+        {
+          "group": "Shape, Colour and Design",
+          "parameter": "Shape",
+          "value": "Cylindrical"
+        },
+        {
+          "group": "Shape, Colour and Design",
+          "parameter": "Light Source",
+          "value": "NA"
+        },
+        {
+          "group": "Shape, Colour and Design",
+          "parameter": "Reflective Tape",
+          "value": "Yes"
+        },
+        {
+          "group": "Shape, Colour and Design",
+          "parameter": "Protective steel mesh",
+          "value": "No"
+        },
+        {
+          "group": "Shape, Colour and Design",
+          "parameter": "One top and one bottom cap for covering of tube",
+          "value": "Yes"
+        },
+        {
+          "group": "Shape, Colour and Design",
+          "parameter": "Availability of Hole/ Hook for Chain",
+          "value": "No"
+        },
+        {
+          "group": "Shape, Colour and Design",
+          "parameter": "Number of hole/ Hook",
+          "value": "NA"
+        },
+        {
+          "group": "Shape, Colour and Design",
+          "parameter": "Base Fixture Available",
+          "value": "No"
+        },
+        {
+          "group": "Shape, Colour and Design",
+          "parameter": "Detachable Base Fixture",
+          "value": "NA"
+        },
+        {
+          "group": "Shape, Colour and Design",
+          "parameter": "Base Fixture Shape",
+          "value": "NA"
+        },
+        {
+          "group": "Dimension",
+          "parameter": "Height (in MM)",
+          "value": "451-500"
+        },
+        {
+          "group": "Dimension",
+          "parameter": "Base Body Diameter(in MM)",
+          "value": "80"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Bidders are requested to quote the offered price inclusive of all applicable taxes Including Labour Charg es. No extra charges will be borne by the buyer. 2. The bidders must attached this bid documents duly signed and stamped and uploaded for technical eval uation."
+    },
+    {
+      "page": 5,
+      "text": "3. Non-submission of documents as sought in the ATC shall lead to disqualification of the bid during the tec hnical evaluation. 4. RICTRO REFLECTOR RED QTY-30 REQUIRED ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8265451",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155937"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 23-11-2026 09:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155937"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 24-11-2026 09:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155937"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155937"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155937"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155937"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Air Force",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155937"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :tiger81@nic.in Buyer Email id: lotus1@nic.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155937"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155937"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Road Delineator (V2) (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155937"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155937"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155937"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Certificate (Requested in ATC),Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155937"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155937"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155937"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155937"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Type: Fixed",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155937"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Material: HDPE | Shape: Cylindrical | Light Source: NA | Reflective Tape: Yes | Protective steel mesh: No | One top and one bottom cap for covering of tube: Yes | Availability of Hole/ Hook for Chain: No | Number of hole/ Hook: NA | Base Fixture Available: No | Detachable Base Fixture: NA | Base Fixture Shape: NA | Height (in MM): 451-500 | Base Body Diameter(in MM): 80",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155937"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********PATHANKOT | 30 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155937"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Bidders are requested to quote the offered price inclusive of all applicable taxes Including Labour Charg es. No extra charges will be borne by the buyer. 2. The bidders must attached this bid documents duly signed and stamped and uploaded for technical eval uation.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155937"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "3. Non-submission of documents as sought in the ATC shall lead to disqualification of the bid during the tec hnical evaluation. 4. RICTRO REFLECTOR RED QTY-30 REQUIRED .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155937"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

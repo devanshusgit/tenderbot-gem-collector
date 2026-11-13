@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8264639",
   "title": "E-cart for Goods",
   "description": "E-cart for Goods",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Air Force",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "E-cart for Goods",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-11T17:30:42+05:30",
   "closing_at": "2026-11-23T09:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10154989"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/NnSa7-TbJUzI-5wkaT0jx4GdbeMYwC20JHWoxnGW5Cc",
+      "page": 4
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8264639/CLM0010/ATC_1d1a1cc1-9216-4d59-a06b1794398387076_SLO_14FBSU.pdf",
+      "page": 7
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261111",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +54,338 @@
   ],
   "source_fetched_at": "2026-11-13T03:07:45.063Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-24T09:00:00+05:30",
+  "buyer_email": "galaxy856@nic.in",
+  "emd_required": false,
+  "bidder_turnover_lakhs": 0.8,
+  "oem_turnover_lakhs": 5,
+  "experience_years": 2,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-13T06:15:18.840323+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "7ebb345727ef8c2c464491db77510933a8e7b7e5d0537122c3d945de265ec27f",
+  "document_pages": 9,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 0.8 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 5 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 2 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 80 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "***********",
+      "address": "***********PURNEA",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 45
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Generic Parameters",
+          "parameter": "Vehicle Category",
+          "value": "E-cart"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Used for",
+          "value": "Goods Carrier"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Type of Body/Container",
+          "value": "Open Body"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Tipping",
+          "value": "Hydraulic Tipping, Manual Tipping, NA for Fixed Body Or higher"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Body/Container Volume (cubic metres)",
+          "value": "0.5 - 3 (cubic meter)"
+        },
+        {
+          "group": null,
+          "parameter": "Body/Container Material",
+          "value": "Mild Steel as per IS 2062, Stainless Steel Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Body/Container Plate Thickness (mm)",
+          "value": "2.0 - 3.0 Or higher (millimeter)"
+        },
+        {
+          "group": null,
+          "parameter": "Power Source",
+          "value": "Electric - Battery Operated"
+        },
+        {
+          "group": null,
+          "parameter": "Maximum Power Output (kW)",
+          "value": "1.0 - 2.0 Or higher (kiloWatt)"
+        },
+        {
+          "group": null,
+          "parameter": "Type of Traction Battery",
+          "value": "Lithium-ion Battery, Lead-acid Battery Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Traction Battery Capacity (in Ah)",
+          "value": "70 - 160"
+        },
+        {
+          "group": null,
+          "parameter": "Type of Motor",
+          "value": "BLDC, DC Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Type of Front Tyre",
+          "value": "Tube-type, Tubeless Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Type of Rear Tyres",
+          "value": "Tube-type, Tubeless Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Km Range as per AIS 040",
+          "value": "100.0 - 150.0 Or higher (kilometer)"
+        },
+        {
+          "group": null,
+          "parameter": "Windshield (Made of suitable safety glass provided with wiper and motor)",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Additional Accessories",
+          "value": "Fire Extinguisher"
+        },
+        {
+          "group": "Dimensions",
+          "parameter": "Maximum Gross Vehicle Weight (Kg)",
+          "value": "500.0 - 900.0 Or higher (kilogram)"
+        },
+        {
+          "group": "Certifications & Warranty",
+          "parameter": "Standard Vehicle Warranty (minimum)",
+          "value": "1 Year"
+        },
+        {
+          "group": "Certifications & Warranty",
+          "parameter": "Battery Warranty (minimum)",
+          "value": "1 Year, 3 Year"
+        },
+        {
+          "group": "Tests and Conformity",
+          "parameter": "Confirming to Constructional & Functional Safety of battery operated vehicle",
+          "value": "As per AIS-038 (Latest Version)"
+        },
+        {
+          "group": "Tests and Conformity",
+          "parameter": "Confirming to Installation and Functional Testing of Automobile Lamps",
+          "value": "As per AIS-034 (Latest Version)"
+        },
+        {
+          "group": "Tests and Conformity",
+          "parameter": "Traction Batteries used in Battery Operated Vehicles",
+          "value": "Confirming to AIS-048 (Latest Version)"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 3. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address AIRFORCE STATION PURNEA LOGISTC OFFICE PIN-854303 . 4. Generic Bidders shall quote only those products (Part of Service delivery) in the bid which are not obsolete in the market and has at least 2 years residual market life i.e. the offered product shall not be declared end-of- life by the OEM before this period. 5. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 6. Service & Support"
+    },
+    {
+      "page": 7,
+      "text": "Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 7. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 8. Past Project Experience Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc.Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc. 9. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses ADDITIONAL TERM AND CONDITION ATTACHED . BIDDER SHOULD COMPLIANCE CERTIFICATE PROVIDE FOR ATC. . 10. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8264639",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154989"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 23-11-2026 09:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154989"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 24-11-2026 09:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154989"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154989"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154989"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154989"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Air Force",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154989"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :tiger856@nic.in Buyer Email id: galaxy856@nic.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154989"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154989"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: E-cart for Goods (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154989"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 0.8 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154989"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 5 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154989"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 2 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154989"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154989"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154989"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154989"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154989"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 80 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154989"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154989"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154989"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154989"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Vehicle Category: E-cart | Used for: Goods Carrier | Type of Body/Container: Open Body | Tipping: Hydraulic Tipping, Manual Tipping, NA for Fixed Body Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154989"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Body/Container Volume (cubic metres): 0.5 - 3 (cubic meter) | Body/Container Material: Mild Steel as per IS 2062, Stainless Steel Or higher | Body/Container Plate Thickness (mm): 2.0 - 3.0 Or higher (millimeter) | Power Source: Electric - Battery Operated | Maximum Power Output (kW): 1.0 - 2.0 Or higher (kiloWatt) | Type of Traction Battery: Lithium-ion Battery, Lead-acid Battery Or higher | Traction Battery Capacity (in Ah): 70 - 160 | Type of Motor: BLDC, DC Or higher | Type of Front Tyre: Tube-type, Tubeless Or higher | Type of Rear Tyres: Tube-type, Tubeless Or higher | Km Range as per AIS 040: 100.0 - 150.0 Or higher (kilometer) | Windshield (Made of suitable safety glass provided with wiper and motor): Yes | Additional Accessories: Fire Extinguisher | Maximum Gross Vehicle Weight (Kg): 500.0 - 900.0 Or higher (kilogram) | Standard Vehicle Warranty (minimum): 1 Year | Battery Warranty (minimum): 1 Year, 3 Year | Confirming to Constructional & Functional Safety of battery operated vehicle: As per AIS-038 (Latest Version) | Confirming to Installation and Functional Testing of Automobile Lamps: As per AIS-034 (Latest Version) | Traction Batteries used in Battery Operated Vehicles: Confirming to AIS-048 (Latest Version)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154989"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********PURNEA | 1 | 45",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154989"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 3. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address AIRFORCE STATION PURNEA LOGISTC OFFICE PIN-854303 . 4. Generic Bidders shall quote only those products (Part of Service delivery) in the bid which are not obsolete in the market and has at least 2 years residual market life i.e. the offered product shall not be declared end-of- life by the OEM before this period. 5. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 6. Service & Support",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154989"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 7. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 8. Past Project Experience Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc.Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc. 9. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses ADDITIONAL TERM AND CONDITION ATTACHED . BIDDER SHOULD COMPLIANCE CERTIFICATE PROVIDE FOR ATC. . 10. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154989"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

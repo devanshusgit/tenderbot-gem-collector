@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8261754",
   "title": "Monthly Basis Cab & Taxi Hiring Services - SUV; 2500 km x 320 hours; Local",
   "description": "Monthly Basis Cab & Taxi Hiring Services - SUV; 2500 km x 320 hours; Local",
-  "organisation": "Andaman Public Works Department (APWD), Andaman & Nicobar",
-  "ministry": "",
-  "department": "Andaman Public Works Department (APWD), Andaman & Nicobar",
+  "organisation": "N/a",
+  "ministry": "Andaman & Nicobar",
+  "department": "Andaman Public Works Department (apwd), Andaman & Nicobar",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Monthly Basis Cab & Taxi Hiring Services - SUV; 2500 km x 320 hours; Local",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 22392,
   "published_at": "2026-11-11T10:55:46+05:30",
   "closing_at": "2026-11-21T15:00:00+05:30",
   "status": "active",
@@ -27,6 +27,16 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10151703"
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261111",
+      "page": 8
+    },
+    {
+      "name": "Service Level Agreement",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/bidsla/103057073800209",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +44,266 @@
   ],
   "source_fetched_at": "2026-11-13T03:05:51.434Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-22T15:00:00+05:30",
+  "office": "Chief Engineer Office Apwd",
+  "buyer_email": "ee-apwdcdcb@gov.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Certificate (Requested in ATC),Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 15,
+  "offer_validity": "30 (Days)",
+  "contract_period": "1 Year(s)",
+  "source_document_fetched_at": "2026-11-13T06:48:16.728766+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "2cc130ea1edf73560331c81b7c3efd85192e9cd20ba62ed019b1de4ef47796a5",
+  "document_pages": 8,
+  "eligibility": [
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Certificate (Requested in ATC),Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Madhuri Sharma",
+      "address": "744302,Executive Engineer, Construction Division, APWD, Campbell Bay",
+      "quantity": 1,
+      "quantity_label": "Number of Vehicles Required",
+      "delivery_days": null,
+      "additional_requirements": "Duration in Months for which service is required : 12"
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Vehicle Type",
+          "value": "SUV"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type of car (Please select at least 3 options)",
+          "value": "Maruti Suzuki XL6 , Mahindra XUV300 , Tata Harrier , Toyota Innova Crysta , Mahindra XUV 700 , Mahindra Thar Roxx , Mahindra Scorpio Classic , Mahindra Scorpio-N , Bolero Neo Plus"
+        },
+        {
+          "group": "Core",
+          "parameter": "Usage Variant",
+          "value": "2500 km x 320 hours"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type of Service",
+          "value": "Local"
+        },
+        {
+          "group": "Core",
+          "parameter": "Year of Vehicle Model",
+          "value": "2026 , 2025 , 2024 , 2023"
+        },
+        {
+          "group": "Core",
+          "parameter": "Km Travelled",
+          "value": "Upto 50,000 Kms"
+        },
+        {
+          "group": "Core",
+          "parameter": "Air Conditioning Requirement",
+          "value": "A/C"
+        },
+        {
+          "group": "Core",
+          "parameter": "Area of Operation",
+          "value": "Hilly + Plain Area"
+        },
+        {
+          "group": "Core",
+          "parameter": "Fuel Type",
+          "value": "Any"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic"
+    },
+    {
+      "page": 5,
+      "text": "OPTION CLAUSE 25% : The buyer can increase or decrease the contract quantity or contract duration up to 25 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 25 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 25 percent with the consent of the service provider 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses SPECIAL TERMS AND CONDITIONS FOR SUPPLY OF VEHICLE 1. Maintenance of Log Book: The supplier shall ensure that a Log Book is maintained by the driver d eployed with the vehicle. The Log Book shall contain details of daily duty, date, opening and closin g kilometre readings, duty hours and other relevant particulars. It shall be duly countersigned by t he officer to whom the vehicle is allotted. The supplier and driver shall be responsible for maintaini ng the Log Book properly and keeping it up to date. 2. Availability of Vehicle: The vehicle shall be made available as and when required by this office, a s per the prescribed duty schedule. The vehicle may also be requisitioned beyond normal working hours, on Sundays and on declared holidays, including for emergency official duties, as per the requirements of the Department. The applicable charges for such duties shall be governed by the accepted contract rates and conditions. 3. Expenses and Maintenance: All expenses relating to the vehicle, including driver's salary, fuel, lu bricants, repairs, servicing, maintenance, insurance, taxes, permits and other incidental expenses , shall be borne entirely by the supplier/vehicle owner. No additional payment shall be admissible on account of these expenses. 4. Driver's Qualification: The driver deployed shall possess a valid driving licence authorizing him to drive the concerned category of vehicle, in accordance with the applicable Motor Vehicle Rules an d regulations. 5. Driver's Conduct and Discipline: The driver shall be well-disciplined, courteous and well-behaved while dealing with the officers and officials of the Department. The driver shall maintain proper de corum and perform his duties responsibly. 6. Knowledge of Local Routes: The driver shall be well acquainted with the roads, routes and local c onditions of Campbell Bay, Great Nicobar Island. 7. Continuity of Driver: The driver deployed for the vehicle shall not be changed frequently during th e contract period without prior intimation and approval of this office, except under unavoidable cir cumstances. Any replacement driver shall fulfil the prescribed eligibility requirements. 8. Vehicle Specifications and Continuity: The supplier shall provide the vehicle of the make, model, c ategory and specifications prescribed in the Bid document throughout the contract period. The ve hicle shall not be changed or replaced without prior information to and approval from this office. A ny replacement vehicle shall meet the prescribed specifications. 9. Roadworthiness and Maintenance: The vehicle supplied shall be roadworthy, properly maintained , clean and in good running condition throughout the contract period. The Department reserves th e right to inspect the vehicle at any time and require the supplier to rectify any deficiencies notice d. 10. Accident, Insurance and Liability: The supplier shall be solely responsible for maintaining valid ins urance coverage and for all liabilities arising out of accidents, damage, injury or loss caused in con nection with the operation of the vehicle, in accordance with applicable laws. The Department sha ll not be responsible for the supplier's contractual or statutory obligations. 11. Failure to Supply Vehicle: In case the successful bidder fails to supply the vehicle as per the accepted terms and conditions after award of the contract, the Department reserves the right to c ancel the contract, invoke or forfeit the Performance Security wherever applicable, and take furthe r action in accordance with the applicable GeM rules and contractual provisions. 12. Breakdown and Replacement of Vehicle: In case the vehicle becomes defective, breaks down or i"
+    },
+    {
+      "page": 6,
+      "text": "s sent for repair, the supplier shall immediately arrange and provide a suitable substitute vehicle meeting the prescribed specifications, within the time stipulated by this office, without any additio nal cost. The substitute vehicle shall be provided under the same terms, conditions and accepted r ates of the contract. 13. Statutory Deductions: GST-TDS, wherever applicable, shall be deducted from the bills in accordan ce with the provisions of the GST Act and applicable rules. Income Tax/TDS shall also be deducted as per the prevailing Income Tax rules and regulations. 14. Performance Security: The successful bidder shall furnish Performance Security equivalent to 5% of the accepted contract value before commencement of the contract, subject to the applicable G eM General Terms and Conditions and Bid-specific provisions. 15. Vehicle Documents: The supplier shall submit valid copies of the following documents before depl oyment of the vehicle and ensure their validity throughout the contract period: a. Registration Certificate (RC) / Ownership Document of the vehicle. b. Valid Fitness Certificate. c. Valid insurance certificate, including third-party insurance. d. Valid permit authorizing operation of the vehicle in Campbell Bay, Great Nicobar Island, wherever applicable. e. Any other statutory documents required under applicable Motor Vehicle Rules. 16. Vehicle Inspection: The Department reserves the right to inspect the vehicle, verify its documents and assess its condition at any time during the contract period. If the vehicle is found unsuitable, p oorly maintained or not in conformity with the prescribed specifications, the supplier shall immedi ately rectify the deficiencies or provide a suitable replacement as directed by this office. 17. Deduction for Non-Supply of Vehicle: In case of non-availability or non-supply of the vehicle on an y scheduled duty day, the proportionate per-day charges calculated on the basis of the accepted monthly package rate shall be deducted from the monthly bill. The deduction shall be calculated w ith reference to the total scheduled duty days for the respective month. No payment shall be admi ssible for the period during which the vehicle remains unavailable for duty. 18. Submission and Payment of Bills: The supplier shall submit monthly bills along with the duly main tained Log Book and other supporting documents, as required by this office. Payment shall be rele ased after satisfactory certification of the services rendered by the officer concerned and subject t o applicable statutory deductions and contractual conditions. 19. Inclusive Contract Rate: The accepted monthly package rate shall be inclusive of all expenses rel ating to the operation and maintenance of the vehicle, including fuel, lubricants, driver's salary, all owances, repairs, maintenance, insurance, taxes and other incidental expenses. No additional cha rges shall be admissible unless specifically provided for in the Bid document. 20. Termination of Contract: The Department reserves the right to terminate the contract in case of u nsatisfactory performance, repeated failure to provide the vehicle, violation of contractual conditio ns or any other breach of the agreement, after following the applicable contractual procedure and GeM provisions. 21. Compliance with Rules and Regulations: The supplier shall comply with all applicable Central and State/Union Territory laws, Motor Vehicle Rules, labour laws, statutory requirements and the terms and conditions of the GeM contract throughout the contract period. Any liability arising from non-c ompliance shall be borne by the supplier. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8261754",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10151703"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 21-11-2026 15:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10151703"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 22-11-2026 15:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10151703"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10151703"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Andaman & Nicobar",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10151703"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Andaman Public Works Department (apwd), Andaman & Nicobar",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10151703"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: N/a",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10151703"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Chief Engineer Office Apwd",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10151703"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :foceapwd@and.nic.in Buyer Email id: ee-apwdcdcb@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10151703"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Monthly Basis Cab & Taxi Hiring Services - SUV; 2500 km x 320 hours; Local",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10151703"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 1 Year(s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10151703"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10151703"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10151703"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Certificate (Requested in ATC),Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10151703"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10151703"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 22392",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10151703"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 22392",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10151703"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10151703"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10151703"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 2,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10151703"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Vehicle Type: SUV | Type of car (Please select at least 3 options): Maruti Suzuki XL6 , Mahindra XUV300 , Tata Harrier , Toyota Innova Crysta , Mahindra XUV 700 , Mahindra Thar Roxx , Mahindra Scorpio Classic , Mahindra Scorpio-N , Bolero Neo Plus | Usage Variant: 2500 km x 320 hours | Type of Service: Local | Year of Vehicle Model: 2026 , 2025 , 2024 , 2023 | Km Travelled: Upto 50,000 Kms | Air Conditioning Requirement: A/C | Area of Operation: Hilly + Plain Area | Fuel Type: Any",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10151703"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Number of Vehicles Required | Additional Requirement: 1 | Madhuri Sharma | 744302,Executive Engineer, Construction Division, APWD, Campbell Bay | 1 | Duration in Months for which service is required : 12",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10151703"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10151703"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "OPTION CLAUSE 25% : The buyer can increase or decrease the contract quantity or contract duration up to 25 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 25 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 25 percent with the consent of the service provider 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses SPECIAL TERMS AND CONDITIONS FOR SUPPLY OF VEHICLE 1. Maintenance of Log Book: The supplier shall ensure that a Log Book is maintained by the driver d eployed with the vehicle. The Log Book shall contain details of daily duty, date, opening and closin g kilometre readings, duty hours and other relevant particulars. It shall be duly countersigned by t he officer to whom the vehicle is allotted. The supplier and driver shall be responsible for maintaini ng the Log Book properly and keeping it up to date. 2. Availability of Vehicle: The vehicle shall be made available as and when required by this office, a s per the prescribed duty schedule. The vehicle may also be requisitioned beyond normal working hours, on Sundays and on declared holidays, including for emergency official duties, as per the requirements of the Department. The applicable charges for such duties shall be governed by the accepted contract rates and conditions. 3. Expenses and Maintenance: All expenses relating to the vehicle, including driver's salary, fuel, lu bricants, repairs, servicing, maintenance, insurance, taxes, permits and other incidental expenses , shall be borne entirely by the supplier/vehicle owner. No additional payment shall be admissible on account of these expenses. 4. Driver's Qualification: The driver deployed shall possess a valid driving licence authorizing him to drive the concerned category of vehicle, in accordance with the applicable Motor Vehicle Rules an d regulations. 5. Driver's Conduct and Discipline: The driver shall be well-disciplined, courteous and well-behaved while dealing with the officers and officials of the Department. The driver shall maintain proper de corum and perform his duties responsibly. 6. Knowledge of Local Routes: The driver shall be well acquainted with the roads, routes and local c onditions of Campbell Bay, Great Nicobar Island. 7. Continuity of Driver: The driver deployed for the vehicle shall not be changed frequently during th e contract period without prior intimation and approval of this office, except under unavoidable cir cumstances. Any replacement driver shall fulfil the prescribed eligibility requirements. 8. Vehicle Specifications and Continuity: The supplier shall provide the vehicle of the make, model, c ategory and specifications prescribed in the Bid document throughout the contract period. The ve hicle shall not be changed or replaced without prior information to and approval from this office. A ny replacement vehicle shall meet the prescribed specifications. 9. Roadworthiness and Maintenance: The vehicle supplied shall be roadworthy, properly maintained , clean and in good running condition throughout the contract period. The Department reserves th e right to inspect the vehicle at any time and require the supplier to rectify any deficiencies notice d. 10. Accident, Insurance and Liability: The supplier shall be solely responsible for maintaining valid ins urance coverage and for all liabilities arising out of accidents, damage, injury or loss caused in con nection with the operation of the vehicle, in accordance with applicable laws. The Department sha ll not be responsible for the supplier's contractual or statutory obligations. 11. Failure to Supply Vehicle: In case the successful bidder fails to supply the vehicle as per the accepted terms and conditions after award of the contract, the Department reserves the right to c ancel the contract, invoke or forfeit the Performance Security wherever applicable, and take furthe r action in accordance with the applicable GeM rules and contractual provisions. 12. Breakdown and Replacement of Vehicle: In case the vehicle becomes defective, breaks down or i",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10151703"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "s sent for repair, the supplier shall immediately arrange and provide a suitable substitute vehicle meeting the prescribed specifications, within the time stipulated by this office, without any additio nal cost. The substitute vehicle shall be provided under the same terms, conditions and accepted r ates of the contract. 13. Statutory Deductions: GST-TDS, wherever applicable, shall be deducted from the bills in accordan ce with the provisions of the GST Act and applicable rules. Income Tax/TDS shall also be deducted as per the prevailing Income Tax rules and regulations. 14. Performance Security: The successful bidder shall furnish Performance Security equivalent to 5% of the accepted contract value before commencement of the contract, subject to the applicable G eM General Terms and Conditions and Bid-specific provisions. 15. Vehicle Documents: The supplier shall submit valid copies of the following documents before depl oyment of the vehicle and ensure their validity throughout the contract period: a. Registration Certificate (RC) / Ownership Document of the vehicle. b. Valid Fitness Certificate. c. Valid insurance certificate, including third-party insurance. d. Valid permit authorizing operation of the vehicle in Campbell Bay, Great Nicobar Island, wherever applicable. e. Any other statutory documents required under applicable Motor Vehicle Rules. 16. Vehicle Inspection: The Department reserves the right to inspect the vehicle, verify its documents and assess its condition at any time during the contract period. If the vehicle is found unsuitable, p oorly maintained or not in conformity with the prescribed specifications, the supplier shall immedi ately rectify the deficiencies or provide a suitable replacement as directed by this office. 17. Deduction for Non-Supply of Vehicle: In case of non-availability or non-supply of the vehicle on an y scheduled duty day, the proportionate per-day charges calculated on the basis of the accepted monthly package rate shall be deducted from the monthly bill. The deduction shall be calculated w ith reference to the total scheduled duty days for the respective month. No payment shall be admi ssible for the period during which the vehicle remains unavailable for duty. 18. Submission and Payment of Bills: The supplier shall submit monthly bills along with the duly main tained Log Book and other supporting documents, as required by this office. Payment shall be rele ased after satisfactory certification of the services rendered by the officer concerned and subject t o applicable statutory deductions and contractual conditions. 19. Inclusive Contract Rate: The accepted monthly package rate shall be inclusive of all expenses rel ating to the operation and maintenance of the vehicle, including fuel, lubricants, driver's salary, all owances, repairs, maintenance, insurance, taxes and other incidental expenses. No additional cha rges shall be admissible unless specifically provided for in the Bid document. 20. Termination of Contract: The Department reserves the right to terminate the contract in case of u nsatisfactory performance, repeated failure to provide the vehicle, violation of contractual conditio ns or any other breach of the agreement, after following the applicable contractual procedure and GeM provisions. 21. Compliance with Rules and Regulations: The supplier shall comply with all applicable Central and State/Union Territory laws, Motor Vehicle Rules, labour laws, statutory requirements and the terms and conditions of the GeM contract throughout the contract period. Any liability arising from non-c ompliance shall be borne by the supplier. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10151703"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

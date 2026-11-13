@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8267877",
   "title": "Annual Maintenance Contract for Networking Devices (Version 2) - Routers; CISCO",
   "description": "Annual Maintenance Contract for Networking Devices (Version 2) - Routers; CISCO",
-  "organisation": "Revenue and Forest Department Maharashtra",
-  "ministry": "",
-  "department": "Revenue and Forest Department Maharashtra",
+  "organisation": "Revenue And Forest Mantralaya",
+  "ministry": "Maharashtra",
+  "department": "Revenue And Forest Department Maharashtra",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Annual Maintenance Contract for Networking Devices (Version 2) - Routers; CISCO",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 70000,
   "published_at": "2026-11-12T15:21:48+05:30",
   "closing_at": "2026-11-23T16:00:00+05:30",
   "status": "active",
@@ -27,6 +27,31 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10158696"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": ":1794476530.pdf",
+      "url": "https://bidplus.gem.gov.in/resources/upload_nas/NovQ426/bidding/biddoc/bid-10158696/1794476530.pdf",
+      "page": 4
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8267877/CLM0010/TC_a70ceb86-931d-493a-910e1794476898037_buyer.setu.buldana.pdf",
+      "page": 5
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261112",
+      "page": 7
+    },
+    {
+      "name": "Service Level Agreement",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/bidsla/103199104420416",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +59,265 @@
   ],
   "source_fetched_at": "2026-11-12T17:09:39.763Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-24T16:00:00+05:30",
+  "office": "Collector Office Buldhana",
+  "buyer_email": "buycon2.rev.buldana@gembuyer.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 140,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "30 (Days)",
+  "contract_period": "1 Year(s) 4 Day(s)",
+  "source_document_fetched_at": "2026-11-13T00:09:47.584381+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "86d64fb074591f2787f8271fc33a0dc5657dff86407c69efb0b67d5079c11963",
+  "document_pages": 7,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 140 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Sanjaygir Shivgir Giri",
+      "address": "443001,Collector office, Buldhana - 443001",
+      "quantity": 1,
+      "quantity_label": "Number of Devices",
+      "delivery_days": null,
+      "additional_requirements": "Number of month for resident engineers : 1 Number of months for technician : 1 Number of Resident engineers : 1 Number of technicians : 1"
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Type of Networking Device for AMC",
+          "value": "Routers"
+        },
+        {
+          "group": "Core",
+          "parameter": "OEM of Networking Devices",
+          "value": "CISCO"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type of AMC",
+          "value": "Hardware"
+        },
+        {
+          "group": "Core",
+          "parameter": "Dedicated/ toll Free Telephone No for Service Support",
+          "value": "No"
+        },
+        {
+          "group": "Core",
+          "parameter": "Requirement of Preventive Maintenance",
+          "value": "Quarterly"
+        },
+        {
+          "group": "Core",
+          "parameter": "Nature of Annual Maintenance Service Provider",
+          "value": "Neither of the above"
+        },
+        {
+          "group": "Core",
+          "parameter": "Whether passive components(like cable) need to be included in AMC",
+          "value": "Yes"
+        },
+        {
+          "group": "Core",
+          "parameter": "ISO certification",
+          "value": "Not required"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Requirement of resident engineer",
+          "value": "Yes"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Requirement of Technicians",
+          "value": "Yes"
+        },
+        {
+          "group": "Additional Details",
+          "parameter": "Model Number/Part number of networking device(In case of bid mode, buyer may upload the same in scope of work)",
+          "value": "12"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 2. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 3. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address District Collector Buldhana District Collector Buldhana District Collector Buldhana District Collector Buldhana District Collector Buldhana . 4. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8267877",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158696"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 23-11-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158696"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 24-11-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158696"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158696"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Maharashtra",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158696"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Revenue And Forest Department Maharashtra",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158696"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Revenue And Forest Mantralaya",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158696"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Collector Office Buldhana",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158696"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :rdc.buldhana@maharashtra.gov.in Buyer Email id: buycon2.rev.buldana@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158696"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Annual Maintenance Contract for Networking Devices (Version 2) - Routers; CISCO",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158696"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 1 Year(s) 4 Day(s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158696"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 140 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158696"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158696"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158696"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158696"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158696"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158696"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158696"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 70000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158696"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 70000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158696"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158696"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Type of Networking Device for AMC: Routers | OEM of Networking Devices: CISCO | Type of AMC: Hardware | Dedicated/ toll Free Telephone No for Service Support: No | Requirement of Preventive Maintenance: Quarterly | Nature of Annual Maintenance Service Provider: Neither of the above | Whether passive components(like cable) need to be included in AMC: Yes | ISO certification: Not required | Requirement of resident engineer: Yes | Requirement of Technicians: Yes | Model Number/Part number of networking device(In case of bid mode, buyer may upload the same in scope of work): 12",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158696"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Number of Devices | Additional Requirement: 1 | Sanjaygir Shivgir Giri | 443001,Collector office, Buldhana - 443001 | 1 | Number of month for resident engineers : 1 Number of months for technician : 1 Number of Resident engineers : 1 Number of technicians : 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158696"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 2. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 3. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address District Collector Buldhana District Collector Buldhana District Collector Buldhana District Collector Buldhana District Collector Buldhana . 4. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10158696"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

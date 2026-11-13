@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8209340",
   "title": "Electric Motorized Treadmill (V3)",
   "description": "Electric Motorized Treadmill (V3)",
-  "organisation": "Central Police Organisation",
-  "ministry": "Ministry of Home Affairs",
+  "organisation": "National Investigation Agency (nia)",
+  "ministry": "Ministry Of Home Affairs",
   "department": "Central Police Organisation",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Electric Motorized Treadmill (V3)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-10-28T12:02:57+05:30",
   "closing_at": "2026-11-18T13:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10091326"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/gsNFa1V-bsm7ftDwesKYf1DeHonqNjzH4WY9NMa5YcY",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261028",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +49,315 @@
   ],
   "source_fetched_at": "2026-11-09T08:07:35.915Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-19T13:00:00+05:30",
+  "office": "Dehradun",
+  "buyer_email": "manjeet.nia@gov.in",
+  "emd_required": false,
+  "bidder_turnover_lakhs": 0.5,
+  "oem_turnover_lakhs": 5,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "100 (Days)",
+  "source_document_fetched_at": "2026-11-13T07:27:53.487270+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "2026c12e389311db9d4de9aa33de84f9d3da2725652c8385479f7cb3a7608ebe",
+  "document_pages": 8,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 0.5 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 5 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: GeM verified turnover (GeM PDF, p. 1)",
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 50 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Manjeet",
+      "address": "248001,NATIONAL INVESTIGATION AGENCY Ministry of Home Affairs, Govt of India Building No.61 (1st & 2nd Floor), GBO Campus, 17EC Road, Survey Chowk, Dehradun",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Certification",
+          "parameter": "Treadmill complying with IS 17801 (Part 3)/ISO 20957-6 safety standard",
+          "value": "Yes"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Type of Usage Class as per Clause 4.3 of IS 17801 (Part 1)",
+          "value": "Class S"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Type of Motor",
+          "value": "AC Motor"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Motor Power",
+          "value": "4 hp"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Motor Peak Power",
+          "value": "8 hp"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Console/Display Type",
+          "value": "LED Non-Touch (Keypad) Display"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Maximum User Weight Capacity (in kg)",
+          "value": "180.0 (kilogram)"
+        },
+        {
+          "group": "Material and Dimension",
+          "parameter": "Material for frame (Chassis)",
+          "value": "Mild Steel"
+        },
+        {
+          "group": "Material and Dimension",
+          "parameter": "Material for side foot rail",
+          "value": "Mild Steel"
+        },
+        {
+          "group": "Material and Dimension",
+          "parameter": "Material for roller",
+          "value": "Mild Steel"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Running Surface Length (In inches)",
+          "value": "60 to 62"
+        },
+        {
+          "group": null,
+          "parameter": "Running Surface Width (In inches)",
+          "value": "22"
+        },
+        {
+          "group": "Features",
+          "parameter": "Cushioning Technology",
+          "value": "Hydraulic Spring Shock Absorbent"
+        },
+        {
+          "group": "Warranty and Installation",
+          "parameter": "Warranty on Complete Unit (in Years)",
+          "value": "1, 2, 3, 4, 5 Or higher (year)"
+        },
+        {
+          "group": "Warranty and Installation",
+          "parameter": "Motor Warranty (in Years)",
+          "value": "1, 2, 3, 4, 5 Or higher (year)"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 3. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site"
+    },
+    {
+      "page": 6,
+      "text": "warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 4. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 5. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Specification Treadmill complying with IS 17801 (Part 3)/ISO 2 Yes 0957-6 safety standard Power Source AC (230 V, 50 Hz, Single phase Type of Motor AC Motor Motor Power 4 hp Motor Peak Power 8 hp Max Speed Capability (in kmph) 22 Console/Display Type LED Non-Touch (Keypad) Display Maximum User Weight Capacity (in kg) 180 Material for frame (Chassis Mild Steel Material for side foot rail Mild Steel Material for roller Mild Steel Overall Length of Treadmill (In inch) 82 inch Overall Width of Treadmill (In inch) 35 inch Overall Height of Treadmill (In inch) 62 inch Features Provision to Control/Set speed,Castor Wheels for easy transportation,Reversible Deck,Pulse Sensor on Hand Rails Cushioning Technology Hydraulic Spring Shock Absorbent Warranty on Complete Unit (in Years) 1 Training to be provided to Technical staff Yes Installation to be carried out at user premises Yes Additional Terms and Conditions for Treadmill: DOCUMENTS REQUIRED 1. Manufacturer should have active business in India from at least last 10 years 2. Manufacturer should have valid GST registration certificate. 3. Manufacturer should have registered Service Centre in State or nearby state from at least last 5 years fo r providing prompt service."
+    },
+    {
+      "page": 7,
+      "text": "4. For service support the Manufacturer should have Toll free Number, Website Tracking Support. 7. Installation to be completed free of cost by successful bidder. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8209340",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10091326"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 18-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10091326"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 19-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10091326"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 100 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10091326"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Home Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10091326"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Central Police Organisation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10091326"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: National Investigation Agency (nia)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10091326"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Dehradun",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10091326"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :subhashchand.nia@gov.in Buyer Email id: manjeet.nia@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10091326"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10091326"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Electric Motorized Treadmill (V3) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10091326"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 0.5 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10091326"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 5 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10091326"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10091326"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: GeM verified turnover",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10091326"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10091326"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10091326"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10091326"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 50 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10091326"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10091326"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10091326"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10091326"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Treadmill complying with IS 17801 (Part 3)/ISO 20957-6 safety standard: Yes | Type of Usage Class as per Clause 4.3 of IS 17801 (Part 1): Class S | Type of Motor: AC Motor | Motor Power: 4 hp | Motor Peak Power: 8 hp | Console/Display Type: LED Non-Touch (Keypad) Display | Maximum User Weight Capacity (in kg): 180.0 (kilogram) | Material for frame (Chassis): Mild Steel | Material for side foot rail: Mild Steel | Material for roller: Mild Steel",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10091326"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Running Surface Length (In inches): 60 to 62 | Running Surface Width (In inches): 22 | Cushioning Technology: Hydraulic Spring Shock Absorbent | Warranty on Complete Unit (in Years): 1, 2, 3, 4, 5 Or higher (year) | Motor Warranty (in Years): 1, 2, 3, 4, 5 Or higher (year)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10091326"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Manjeet | 248001,NATIONAL INVESTIGATION AGENCY Ministry of Home Affairs, Govt of India Building No.61 (1st & 2nd Floor), GBO Campus, 17EC Road, Survey Chowk, Dehradun | 1 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10091326"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 3. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10091326"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 4. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 5. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Specification Treadmill complying with IS 17801 (Part 3)/ISO 2 Yes 0957-6 safety standard Power Source AC (230 V, 50 Hz, Single phase Type of Motor AC Motor Motor Power 4 hp Motor Peak Power 8 hp Max Speed Capability (in kmph) 22 Console/Display Type LED Non-Touch (Keypad) Display Maximum User Weight Capacity (in kg) 180 Material for frame (Chassis Mild Steel Material for side foot rail Mild Steel Material for roller Mild Steel Overall Length of Treadmill (In inch) 82 inch Overall Width of Treadmill (In inch) 35 inch Overall Height of Treadmill (In inch) 62 inch Features Provision to Control/Set speed,Castor Wheels for easy transportation,Reversible Deck,Pulse Sensor on Hand Rails Cushioning Technology Hydraulic Spring Shock Absorbent Warranty on Complete Unit (in Years) 1 Training to be provided to Technical staff Yes Installation to be carried out at user premises Yes Additional Terms and Conditions for Treadmill: DOCUMENTS REQUIRED 1. Manufacturer should have active business in India from at least last 10 years 2. Manufacturer should have valid GST registration certificate. 3. Manufacturer should have registered Service Centre in State or nearby state from at least last 5 years fo r providing prompt service.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10091326"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "4. For service support the Manufacturer should have Toll free Number, Website Tracking Support. 7. Installation to be completed free of cost by successful bidder. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10091326"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8270754",
   "title": "Electric Cars (V4)",
   "description": "Electric Cars (V4)",
-  "organisation": "Airports Authority of India (AAI)",
-  "ministry": "Ministry of Civil Aviation",
-  "department": "Airports Authority of India (AAI)",
+  "organisation": "Airports Authority Of India",
+  "ministry": "Ministry Of Civil Aviation",
+  "department": "Airports Authority Of India (aai)",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Electric Cars (V4)",
   "quantity": 2,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-13T11:41:20+05:30",
   "closing_at": "2026-11-25T12:00:00+05:30",
   "status": "active",
@@ -27,6 +27,31 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10162003"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "1794549260.xlsx",
+      "url": "https://bidplus.gem.gov.in/resources/upload_nas/NovQ426/bidding/excel/bid-10162003/1794549260.xlsx",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/HKKAU8LWfDt9PGiiv8xqcBUXnUCLPvmVDf9Ow4EUjpQ",
+      "page": 5
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8270754/CLM0010/FNIT_334eace0-af21-4978-ab1a1794549967131_buycon146.aai.tn@gembuyer.in.pdf",
+      "page": 8
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261113",
+      "page": 9
     }
   ],
   "tags": [
@@ -34,5 +59,281 @@
   ],
   "source_fetched_at": "2026-11-13T18:43:07.197Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-26T12:00:00+05:30",
+  "office": "Airports Authority Of India Chennai Airport",
+  "buyer_email": "buycon760.aai.tn@gembuyer.in",
+  "emd_required": false,
+  "bidder_turnover_lakhs": 10,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "120 (Days)",
+  "estimated_bid_value": 3182706,
+  "source_document_fetched_at": "2026-11-13T23:38:32.779926+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "cb3a3d61b146b7deeb7d66297f0fb2b62c78cde1583d078827f45fe7a20672c2",
+  "document_pages": 10,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 10 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Vishal Kumar",
+      "address": "600016,Operational Offices, Airports Authority of India, Chennai International Airport,",
+      "quantity": 2,
+      "quantity_label": "Quantity",
+      "delivery_days": 90
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Generic Parameters",
+          "parameter": "Body Type",
+          "value": "Hatch Back, Sedan, Compact SUV, SUV"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Driving Range (Mileage) with Fully Charged Battery as per Test Report (Kms)",
+          "value": ">400<=500 km, >500 km Or higher"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Motor Type",
+          "value": "Permanent Magnet Synchronous Motor (PMSM)"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Max Motor Power (kW) as per Test Report",
+          "value": "25 - 400 (kiloWatt)"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Traction Battery Capacity (kWh)",
+          "value": "45.0 - 150.0 Or higher"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Ground Clearance (As Per Test Report) (mm)",
+          "value": "160.0 - 300.0 Or higher (millimeter)"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Steering Type",
+          "value": "Power Steering / Electrically Power Assisted"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Front Vehicle Brake",
+          "value": "Disc Brake Or higher"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Rear Vehicle Brake",
+          "value": "Disc Brake Or higher"
+        },
+        {
+          "group": "Charger Parameters",
+          "parameter": "Portable AC Charger / Portable Charging Cable with Vehicle",
+          "value": "Yes, No"
+        },
+        {
+          "group": "Charger Parameters",
+          "parameter": "Wall Mounted AC Charger with Vehicle",
+          "value": "Yes, No"
+        },
+        {
+          "group": "Charger Parameters",
+          "parameter": "Capacity of Wall Mounted AC Charger with Vehicle (kW)",
+          "value": "7.2 Or higher (kiloWatt)"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic While generating invoice in GeM portal, the seller must upload scanned copy of GST invoice and the screenshot of GST portal confirming payment of GST. 2. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 3. Purchase Preference (Centre) Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to avail the Purchase preference, the bidder must be the manufacturer of the offered product in case of bid for supply of goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of 100% of total value. 4. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses NAME OF WORK : Procurement of 02 Nos. Electric Car at Chennai Airport. 4.0 Scope of Work"
+    },
+    {
+      "page": 7,
+      "text": "(i) Procurement of 02 Nos. Electric Car at Chennai Airport as per the Technical specification me ntioned at Clause No.4.1. 4.1 Technical Specifications of Electric Car The contractor shall supply 02 Nos Electric Car conforming to the Technical Specifications, w hich are as follows:- Sl. Generic Parameters AAI Specifications No. 1. Type of Car Electric Car 2. Power Driven Electric Motor Driving Range (Mileage) with Fully Charged Batt 3. 400 km (Minimum) ery (Kms) 4. Motor Type PMSM 5. Traction Battery Capacity (kwh) 45 (Minimum) 6. Ground Clearance (mm) 160 mm (Minimum) Power Steering/ 7. Steering Type Electrically Power Assisted 8. Boot Space 200 Litre (Minimum) 9. Front Vehicle Brake Disc Brake 10. Rear Vehicle Brake Disc Brake Capacity of Wall Mounted AC Charger with Vehicl 11. 7 Kw (Minimum) e (kw) 12. Standard Vehicle Warranty time (months) 36 months 13. Battery Pack Warranty Time (months) 96 months 14. Battery Pack Warranty Distance (km) 1,60,000 km 15. Electric Motor Warranty Time (months) 60 months 16. Electric Motor Warranty Distance (km) 1,00,000 km 17. Color of Vehicle White 18. Vehicle Certification ARAI 19. Central locking Yes 20. Power Window for all doors Yes 21. Rear Defogger Yes 22. Tyre Pressure Monitoring System Yes"
+    },
+    {
+      "page": 8,
+      "text": "23. Stepney Tyre Yes 4.1.1 The Electric Car to be supplied must be meeting the Technical specification as per GeM Bid Document and that of AAI specification as per Annexure-I of Additional Terms and Conditions. Quoting of Rate in GeM Portal The Bidders shall quote in GeM portal the Lump Sum Rate for 02 Nos. Electric Car including GST. The Quote shall be inclusive of all such as--- c Basic Cost of 02 Nos. Electric Car (including GST). Transportation Charges including Transit Insurance and temporary Registration cha b. rges from plant to Chennai Airport (including GST) c. Profit & Overheads d. GST . 5. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8270754",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162003"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 25-11-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162003"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 26-11-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162003"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162003"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Civil Aviation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162003"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Airports Authority Of India (aai)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162003"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Airports Authority Of India",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162003"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Airports Authority Of India Chennai Airport",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162003"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :hoditchn@aai.aero Buyer Email id: buycon760.aai.tn@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162003"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 2",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162003"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Electric Cars (V4) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162003"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 10 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162003"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162003"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162003"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162003"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162003"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162003"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162003"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 3182706",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162003"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162003"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162003"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Body Type: Hatch Back, Sedan, Compact SUV, SUV | Driving Range (Mileage) with Fully Charged Battery as per Test Report (Kms): >400<=500 km, >500 km Or higher | Motor Type: Permanent Magnet Synchronous Motor (PMSM) | Max Motor Power (kW) as per Test Report: 25 - 400 (kiloWatt) | Traction Battery Capacity (kWh): 45.0 - 150.0 Or higher | Ground Clearance (As Per Test Report) (mm): 160.0 - 300.0 Or higher (millimeter) | Steering Type: Power Steering / Electrically Power Assisted | Front Vehicle Brake: Disc Brake Or higher | Rear Vehicle Brake: Disc Brake Or higher | Portable AC Charger / Portable Charging Cable with Vehicle: Yes, No | Wall Mounted AC Charger with Vehicle: Yes, No | Capacity of Wall Mounted AC Charger with Vehicle (kW): 7.2 Or higher (kiloWatt)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162003"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Vishal Kumar | 600016,Operational Offices, Airports Authority of India, Chennai International Airport, | 2 | 90",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162003"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic While generating invoice in GeM portal, the seller must upload scanned copy of GST invoice and the screenshot of GST portal confirming payment of GST. 2. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 3. Purchase Preference (Centre) Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to avail the Purchase preference, the bidder must be the manufacturer of the offered product in case of bid for supply of goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of 100% of total value. 4. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses NAME OF WORK : Procurement of 02 Nos. Electric Car at Chennai Airport. 4.0 Scope of Work",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162003"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "(i) Procurement of 02 Nos. Electric Car at Chennai Airport as per the Technical specification me ntioned at Clause No.4.1. 4.1 Technical Specifications of Electric Car The contractor shall supply 02 Nos Electric Car conforming to the Technical Specifications, w hich are as follows:- Sl. Generic Parameters AAI Specifications No. 1. Type of Car Electric Car 2. Power Driven Electric Motor Driving Range (Mileage) with Fully Charged Batt 3. 400 km (Minimum) ery (Kms) 4. Motor Type PMSM 5. Traction Battery Capacity (kwh) 45 (Minimum) 6. Ground Clearance (mm) 160 mm (Minimum) Power Steering/ 7. Steering Type Electrically Power Assisted 8. Boot Space 200 Litre (Minimum) 9. Front Vehicle Brake Disc Brake 10. Rear Vehicle Brake Disc Brake Capacity of Wall Mounted AC Charger with Vehicl 11. 7 Kw (Minimum) e (kw) 12. Standard Vehicle Warranty time (months) 36 months 13. Battery Pack Warranty Time (months) 96 months 14. Battery Pack Warranty Distance (km) 1,60,000 km 15. Electric Motor Warranty Time (months) 60 months 16. Electric Motor Warranty Distance (km) 1,00,000 km 17. Color of Vehicle White 18. Vehicle Certification ARAI 19. Central locking Yes 20. Power Window for all doors Yes 21. Rear Defogger Yes 22. Tyre Pressure Monitoring System Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162003"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "23. Stepney Tyre Yes 4.1.1 The Electric Car to be supplied must be meeting the Technical specification as per GeM Bid Document and that of AAI specification as per Annexure-I of Additional Terms and Conditions. Quoting of Rate in GeM Portal The Bidders shall quote in GeM portal the Lump Sum Rate for 02 Nos. Electric Car including GST. The Quote shall be inclusive of all such as--- c Basic Cost of 02 Nos. Electric Car (including GST). Transportation Charges including Transit Insurance and temporary Registration cha b. rges from plant to Chennai Airport (including GST) c. Profit & Overheads d. GST . 5. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162003"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8255194",
   "title": "Washing Machine - Domestic Purpose",
   "description": "Washing Machine - Domestic Purpose",
-  "organisation": "NA",
-  "ministry": "Ministry of Power",
-  "department": "NA",
+  "organisation": "Ntpc Limited",
+  "ministry": "Ministry Of Power",
+  "department": "Na",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Washing Machine - Domestic Purpose",
   "quantity": 4,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-09T11:24:21+05:30",
   "closing_at": "2026-11-19T12:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10144064"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/pber2OqG12N9RzBIgqWUzTYgmy8aw4g2s-Qpc2weju0",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261109",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +49,289 @@
   ],
   "source_fetched_at": "2026-11-12T17:12:12.482Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-20T12:00:00+05:30",
+  "office": "Ntpc Kahalgaon 1",
+  "buyer_email": "akchaurasiya@ntpc.co.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "60 (Days)",
+  "source_document_fetched_at": "2026-11-13T01:21:40.720570+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "9c119616f6cbd4a3a44b5e22b53d24be17faca11fcfb797615d7bf4914f5b997",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Anand Kumar Chaurasiya",
+      "address": "813214,NTPC KAHALGAON",
+      "quantity": 4,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Generic",
+          "parameter": "Automation/Usage Type",
+          "value": "Fully Automatic"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Type of Machine",
+          "value": "Washer"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Type of Loading",
+          "value": "Top load"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Washing Capacity (in kg)",
+          "value": "5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5, 13, 13.5, 14, 14.5, 15, 15.5, 16, NA"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Drying Capacity (in kg)",
+          "value": "5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5, 13, 13.5, 14, 14.5, 15, 15.5, 16, NA"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Provision for Water Heating",
+          "value": "Yes, No"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Type of Mounting",
+          "value": "Floor Mounted"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Provision for Castor Wheel",
+          "value": "Yes, No"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Material of the Lid",
+          "value": "Plastic/fiber"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Material of the Cabinet",
+          "value": "Stainless Steel"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Material of the Drum",
+          "value": "Stainless steel"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Type of Control Panel",
+          "value": "Digital Panel with Tact Button"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Washing Technology",
+          "value": "Drum Type"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "ioT connectivity",
+          "value": "No"
+        },
+        {
+          "group": null,
+          "parameter": "Type of Connectivity",
+          "value": "NA"
+        },
+        {
+          "group": null,
+          "parameter": "List of accessories Included",
+          "value": "User manual, Drain pipe, Inlet pipe, Stand, Cover"
+        },
+        {
+          "group": "Power Ratings",
+          "parameter": "BEE Star Rating",
+          "value": "1, 2, 3, 4, 5 Or higher"
+        },
+        {
+          "group": "Certification and Trial Methodology",
+          "parameter": "Comprehensive Warranty (in years)",
+          "value": "2"
+        },
+        {
+          "group": "Certification and Trial Methodology",
+          "parameter": "Motor Warranty (in years)",
+          "value": "10"
+        },
+        {
+          "group": "Certification and Trial Methodology",
+          "parameter": "Electrical Safety Provisions as per IS : 302 latest",
+          "value": "Yes"
+        },
+        {
+          "group": "Certification and Trial Methodology",
+          "parameter": "Availability of test report from Central Govt Lab/NABL accredited lab/ILAC accredited Lab to prove conformity of the specification",
+          "value": "Yes"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to"
+    },
+    {
+      "page": 5,
+      "text": "increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods"
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8255194",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144064"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 19-11-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144064"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 20-11-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144064"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 60 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144064"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Power",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144064"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Na",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144064"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Ntpc Limited",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144064"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Ntpc Kahalgaon 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144064"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :sureshbabua@ntpc.co.in Buyer Email id: akchaurasiya@ntpc.co.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144064"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 4",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144064"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Washing Machine - Domestic Purpose (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144064"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144064"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144064"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144064"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144064"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144064"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Automation/Usage Type: Fully Automatic | Type of Machine: Washer | Type of Loading: Top load | Washing Capacity (in kg): 5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5, 13, 13.5, 14, 14.5, 15, 15.5, 16, NA | Drying Capacity (in kg): 5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5, 13, 13.5, 14, 14.5, 15, 15.5, 16, NA | Provision for Water Heating: Yes, No | Type of Mounting: Floor Mounted | Provision for Castor Wheel: Yes, No | Material of the Lid: Plastic/fiber | Material of the Cabinet: Stainless Steel | Material of the Drum: Stainless steel | Type of Control Panel: Digital Panel with Tact Button | Washing Technology: Drum Type",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144064"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "ioT connectivity: No | Type of Connectivity: NA | List of accessories Included: User manual, Drain pipe, Inlet pipe, Stand, Cover | BEE Star Rating: 1, 2, 3, 4, 5 Or higher | Comprehensive Warranty (in years): 2 | Motor Warranty (in years): 10 | Electrical Safety Provisions as per IS : 302 latest: Yes | Availability of test report from Central Govt Lab/NABL accredited lab/ILAC accredited Lab to prove conformity of the specification: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144064"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Anand Kumar Chaurasiya | 813214,NTPC KAHALGAON | 4 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144064"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144064"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10144064"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

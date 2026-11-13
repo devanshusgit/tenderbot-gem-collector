@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8207507",
   "title": "Scanner (V3)",
   "description": "Scanner (V3)",
-  "organisation": "Health & Family Welfare Department Gujarat",
-  "ministry": "",
+  "organisation": "N/a",
+  "ministry": "Gujarat",
   "department": "Health & Family Welfare Department Gujarat",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Scanner (V3)",
   "quantity": 6,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-10-27T17:49:12+05:30",
   "closing_at": "2026-11-14T18:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10089194"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/SR3T9Zwb-xXbrQQ-0IT147qwxHhEoDaKTufpb2ksHBE",
+      "page": 5
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8207507/CLM0010/_scanner_fb18542f-d95d-4968-9b2d1793103284514_buyer2.gmcb.gj@gembuyer.in.pdf",
+      "page": 6
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261027",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +54,264 @@
   ],
   "source_fetched_at": "2026-11-11T18:55:35.307Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "office": "364001",
+  "buyer_email": "buyer2.gmcb.gj@gembuyer.in",
+  "emd_required": false,
+  "bidder_turnover_lakhs": 0.89,
+  "experience_years": 1,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Bidder Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 6,
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-13T15:41:15.567849+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "961c185d3f0e9fed36615741650fc7ee154b9d3f5582a3ff13393a19e84d0c63",
+  "document_pages": 7,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 0.89 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 1 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Bidder Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Jigar Ganpatbhai Chauhan",
+      "address": "364001,jail road Sir T General Hospital",
+      "quantity": 6,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Generic",
+          "parameter": "Scanner Type",
+          "value": "Sheet Fed"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Maximum Scan Size",
+          "value": "A4 and Legal, A4, Legal and A3, A4, Legal, A3 and A3+ Or higher"
+        },
+        {
+          "group": "Performance",
+          "parameter": "Maximum Optical Resolution (in Dpi)",
+          "value": "600, 1200, 2400, 4800 Or higher"
+        },
+        {
+          "group": "Performance",
+          "parameter": "Simplex Colour Scan Speed at 200 dpi (in ppm) for Document Feeder",
+          "value": "36 to 40, 41 to 45, 46 to 50, 51 to 60, 61 to 70, 71 to 80, 81 to 90, 91 to 100, 101 to 120, 121 to 140, 141 to 160 Or higher"
+        },
+        {
+          "group": "Performance",
+          "parameter": "Duplex Colour Scan Speed for document (in ipm) for Document Feeder",
+          "value": "71 to 80, 81 to 90, 91 to 100, 101 to 120, 121 to 140, 141 to 160, 161 to 180, 181 to 200, 201 to 220, 221 to 240, 241 to 260, 261 to 280 Or higher"
+        },
+        {
+          "group": "Document Handling",
+          "parameter": "Duplex Scanning",
+          "value": "Yes Or higher"
+        },
+        {
+          "group": "Document Handling",
+          "parameter": "Automatic Document Feeder (ADF) Tray Capacity at 75 GSM (in Number of sheets)",
+          "value": "51 to 100, 101 to 150, 151 to 200, 201 to 300, 301 to 500 Or higher"
+        },
+        {
+          "group": "Certification",
+          "parameter": "On Site Warranty (in Years)",
+          "value": "3 Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at"
+    },
+    {
+      "page": 6,
+      "text": "the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8207507",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089194"
+    },
+    {
+      "field": "document_closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 11-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089194"
+    },
+    {
+      "field": "document_opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 12-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089194"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089194"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Gujarat",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089194"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Health & Family Welfare Department Gujarat",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089194"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: N/a",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089194"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: 364001",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089194"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :ms-health-bhv@gujarat.gov.in Buyer Email id: buyer2.gmcb.gj@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089194"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 6",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089194"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Scanner (V3) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089194"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 0.89 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089194"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 1 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089194"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089194"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089194"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089194"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Bidder Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089194"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089194"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089194"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 6",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089194"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089194"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089194"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Scanner Type: Sheet Fed | Maximum Scan Size: A4 and Legal, A4, Legal and A3, A4, Legal, A3 and A3+ Or higher | Maximum Optical Resolution (in Dpi): 600, 1200, 2400, 4800 Or higher | Simplex Colour Scan Speed at 200 dpi (in ppm) for Document Feeder: 36 to 40, 41 to 45, 46 to 50, 51 to 60, 61 to 70, 71 to 80, 81 to 90, 91 to 100, 101 to 120, 121 to 140, 141 to 160 Or higher | Duplex Colour Scan Speed for document (in ipm) for Document Feeder: 71 to 80, 81 to 90, 91 to 100, 101 to 120, 121 to 140, 141 to 160, 161 to 180, 181 to 200, 201 to 220, 221 to 240, 241 to 260, 261 to 280 Or higher | Duplex Scanning: Yes Or higher | Automatic Document Feeder (ADF) Tray Capacity at 75 GSM (in Number of sheets): 51 to 100, 101 to 150, 151 to 200, 201 to 300, 301 to 500 Or higher | On Site Warranty (in Years): 3 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089194"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Jigar Ganpatbhai Chauhan | 364001,jail road Sir T General Hospital | 6 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089194"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089194"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089194"
+    }
+  ],
+  "detail_warning": "The original PDF dates differ from the current public GeM listing. The listing closing date is retained. Confirm the latest opening date and any corrigenda on GeM; the original PDF opening date is not presented as current.",
+  "document_closing_at": "2026-11-11T18:00:00+05:30",
+  "document_opening_at": "2026-11-12T18:00:00+05:30",
+  "date_discrepancy": {
+    "listing_closing_at": "2026-11-14T18:00:00+05:30",
+    "document_closing_at": "2026-11-11T18:00:00+05:30",
+    "document_opening_at": "2026-11-12T18:00:00+05:30"
+  }
 }

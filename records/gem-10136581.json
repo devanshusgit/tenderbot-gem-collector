@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8248791",
   "title": "True RMS Clamp Meter (V2)",
   "description": "True RMS Clamp Meter (V2)",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "South Coast Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "True RMS Clamp Meter (V2)",
   "quantity": 8,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-10T18:59:59+05:30",
   "closing_at": "2026-11-20T19:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10136581"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/F2gCqSHHxZdWvJsmsa5Rqi7DFcqwYS6AZWTQJ5uj0Uw",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261110",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +49,243 @@
   ],
   "source_fetched_at": "2026-11-13T03:03:02.274Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-21T19:00:00+05:30",
+  "office": "Principal Chief Material Manager Visakhapatnam",
+  "buyer_email": "admm_wat@wat.railnet.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "120 (Days)",
+  "source_document_fetched_at": "2026-11-13T07:07:32.550675+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "10ec937c88b9f8aa2b22169e2f729e918da03a41070787aed809a0d6fe4e262c",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Meka S B R Prasad Chowdary",
+      "address": "530016,SSE/ELG/SOUTH/VSKP, OPPOSITE SRINIVASA KALYNAN MANDAP, RAILWAY STATION ROAD, VISAKHAPATNAM- 530016",
+      "quantity": 8,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Genreric",
+          "parameter": "Type",
+          "value": "Handheld Clamp Meter"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "Measurement Type",
+          "value": "True RMS"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "Display",
+          "value": "4 Digit LCD"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "Display Count",
+          "value": "2000 to 10000 counts"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "AC Current Measurement Range",
+          "value": "0 A to 1000 A"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "AC Current Accuracy",
+          "value": "±1% to ±2.5%"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "AC Voltage Measurement Range",
+          "value": "0 V to 1000 V"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "AC Voltage Accuracy",
+          "value": "±0.8% to ±2%"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "DC Current Measurement Range",
+          "value": "0 A to 1000 A"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "DC Current Accuracy",
+          "value": "±1% to ±2%"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "DC Voltage Measurement Range",
+          "value": "0 mV to 1000 V"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "DC Voltage Accuracy",
+          "value": "±0.5% to ±1.5%"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "Resistance Measurement Range",
+          "value": "0 ? to 1000 M?"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "Resistance Accuracy",
+          "value": "±1% to ±2%"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "Frequency Measurement Range",
+          "value": "10 Hz to 100 kHz"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "Frequency Accuracy",
+          "value": "±0.1% to ±0.5%"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Bill passing officer: Sr.DEE/G/VSKP Bill paying officer: Sr.DFM/S.Co.R/ VSKP Pre-dispatch Inspection by consignee Materials is to be delivered at SSE/ELG/South/VSKP Contact person No. 8978080321 ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8248791",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136581"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 20-11-2026 19:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136581"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 21-11-2026 19:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136581"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136581"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136581"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136581"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: South Coast Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136581"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Principal Chief Material Manager Visakhapatnam",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136581"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :cmmmne@scor.railnet.gov.in Buyer Email id: admm_wat@wat.railnet.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136581"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 8",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136581"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: True RMS Clamp Meter (V2) (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136581"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136581"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136581"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136581"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136581"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136581"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Type: Handheld Clamp Meter | Measurement Type: True RMS | Display: 4 Digit LCD | Display Count: 2000 to 10000 counts | AC Current Measurement Range: 0 A to 1000 A | AC Current Accuracy: ±1% to ±2.5% | AC Voltage Measurement Range: 0 V to 1000 V | AC Voltage Accuracy: ±0.8% to ±2% | DC Current Measurement Range: 0 A to 1000 A | DC Current Accuracy: ±1% to ±2% | DC Voltage Measurement Range: 0 mV to 1000 V | DC Voltage Accuracy: ±0.5% to ±1.5% | Resistance Measurement Range: 0 ? to 1000 M? | Resistance Accuracy: ±1% to ±2% | Frequency Measurement Range: 10 Hz to 100 kHz | Frequency Accuracy: ±0.1% to ±0.5%",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136581"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Meka S B R Prasad Chowdary | 530016,SSE/ELG/SOUTH/VSKP, OPPOSITE SRINIVASA KALYNAN MANDAP, RAILWAY STATION ROAD, VISAKHAPATNAM- 530016 | 8 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136581"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Bill passing officer: Sr.DEE/G/VSKP Bill paying officer: Sr.DFM/S.Co.R/ VSKP Pre-dispatch Inspection by consignee Materials is to be delivered at SSE/ELG/South/VSKP Contact person No. 8978080321 .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10136581"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

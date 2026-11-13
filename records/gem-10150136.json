@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8260372",
   "title": "Passenger Car",
   "description": "Passenger Car",
-  "organisation": "NUMALIGARH REFINERY Limited",
-  "ministry": "Ministry of Petroleum and Natural Gas",
-  "department": "NUMALIGARH REFINERY Limited",
+  "organisation": "Numaligarh Refinery Limited",
+  "ministry": "Ministry Of Petroleum And Natural Gas",
+  "department": "Numaligarh Refinery Limited",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Passenger Car",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-11T12:46:35+05:30",
   "closing_at": "2026-11-21T16:00:00+05:30",
   "status": "active",
@@ -27,6 +27,31 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10150136"
+    },
+    {
+      "name": "View Document",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/downloadMseMiiDoc/10150136/1794307026.pdf",
+      "page": 3
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/xAk2AAsQfni3klF-pQhyM_0e0kTo1FjYiA8mJAh4siY",
+      "page": 4
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8260372/CLM0010/ATC_efcf91a2-4f63-4aaa-a7821794307777351_BiplabBarman.pdf",
+      "page": 10
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261111",
+      "page": 11
     }
   ],
   "tags": [
@@ -34,5 +59,270 @@
   ],
   "source_fetched_at": "2026-11-13T03:06:20.811Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-22T16:00:00+05:30",
+  "office": "Numaligarh Refinery Limited",
+  "buyer_email": "buycon16.nrl.nmgy@gembuyer.in",
+  "emd_required": false,
+  "experience_years": 1,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "90 (Days)",
+  "source_document_fetched_at": "2026-11-13T06:38:26.272415+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "a8f48decb6526c183d4284c5871530140d3ca062150cc28f2dc1db3fcac8e925",
+  "document_pages": 11,
+  "eligibility": [
+    "Past experience required for same/similar service: 1 Year (s) (GeM PDF, p. 1)",
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Uttam Gogoi",
+      "address": "785699,Numaligarh Refinery Limited, Chief General Manager (Commercial) PO-NRP, Numaligarh Warehouse office 03776-265562",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 90
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Generic Parameters",
+          "parameter": "Category of the Vehicle",
+          "value": "M1 (For passengers only, Number of seats including driver <= 9)"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Type of Body",
+          "value": "SUV (Sports Utility Vehicle)"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Type of Fuel",
+          "value": "Diesel"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Seating Capacity (Including Driver)",
+          "value": "5"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Drive Axle",
+          "value": "Front wheel drive"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Engine and Transmission Parameters",
+          "parameter": "Displacement / Cubic Capacity (cc) of Engine",
+          "value": ">1200<=1500 cc"
+        },
+        {
+          "group": "Engine and Transmission Parameters",
+          "parameter": "Vehicle Transmission System",
+          "value": "Manual Transmission (MT)"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Tyre Type",
+          "value": "Tube-type, Tubeless Or higher"
+        },
+        {
+          "group": "Accessories/Features",
+          "parameter": "Air Conditioning",
+          "value": "Yes"
+        },
+        {
+          "group": "Accessories/Features",
+          "parameter": "Mandatory Requirements",
+          "value": "1. Vehicle Emission Compliance: BS VI, 2. Vehicle fitted with ABS, low fuel warning light, Passenger side view mirror and Rear Seat Belts, 3. Minimum 3 number of free services will be provided."
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 7,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms."
+    },
+    {
+      "page": 8,
+      "text": "2. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 3. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 4. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 5. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 6. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 7. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses PUR-HRNUM-1012464-Supply of Passenger SUV for Corporate HSE Dept of NRL site. Contact Person for the tender:-For Commercial Related Matters: To: Biplab Kumar Barman Designation: DGM (Commercial) Email: biplab.k.barman@nrl.co.in Mob: 9476296941 For Technical Related Matters: To: Uttam Gogoi Designation: Office Assistant VII Email: uttam.gogoi@nrl.co.in Mob: 7002939793 PRE-QUALIFICATION CRITERIA (PQC):-The bidder must be either the Original Equipment Manufacturer (OEM ) or an authorized dealer/distributor of the OEM for the sale of the product. Contract performance Security (CPS): Not Applicable. Warranty Bank Guarantee (WBG): Not Applicable. Delivery Period: 3 Months from the date of GeM order."
+    },
+    {
+      "page": 9,
+      "text": "Delayed Delivery & Liquidated Damages:-APPLICABLE Payment Term Unless otherwise specified in Technical/Buyer Specification, payment term shall be as follows: 100% payment within 30 days from the date of receipt of the vehicle at site. Guarantee/ Warranty: Applicable:36 Months. SPECIFICATIONS Name of the Product: Passenger Sports Utility Vehicle (SUV) Vehicle shall have the following minimum specifications: Sl. No NRL’s Desired Specifications 1 Category of the Vehicle: M1 (For passengers only, Number of s eats including driver <= 9) 2 Fuel Type: Diesel 3 Type of Body: SUV (Sports Utility Vehicle) 4 Drive Axle: Front wheel drive 5 Vehicle engine capacity: >1200<=1500 CC 6 Vehicle Transmission System: Manual Transmission (MT) 7 Maximum Power: 75 hp (56 KW) @ 3750 rpm or more 8 Maximum Torque at rated RPM: 210 Nm or more 9 Emission type: BS-VI 10 Seating capacity: 5 persons 11 Minimum Air bag: 02 nos 12 Power Window: Any Value 13 Reverse parking sensor: Required 14 Type of vehicle tyre: Tubeless/Tube-type 15 Colour: White 16 Warranty period: 36 months minimum"
+    },
+    {
+      "page": 10,
+      "text": ". 8. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8260372",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150136"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 21-11-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150136"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 22-11-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150136"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150136"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Petroleum And Natural Gas",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150136"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Numaligarh Refinery Limited",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150136"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Numaligarh Refinery Limited",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150136"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Numaligarh Refinery Limited",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150136"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :diganta.das@nrl.co.in Buyer Email id: buycon16.nrl.nmgy@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150136"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150136"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Passenger Car (Q1)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150136"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 1 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150136"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150136"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150136"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150136"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150136"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150136"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150136"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Category of the Vehicle: M1 (For passengers only, Number of seats including driver <= 9) | Type of Body: SUV (Sports Utility Vehicle) | Type of Fuel: Diesel | Seating Capacity (Including Driver): 5 | Drive Axle: Front wheel drive",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150136"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Displacement / Cubic Capacity (cc) of Engine: >1200<=1500 cc | Vehicle Transmission System: Manual Transmission (MT) | Tyre Type: Tube-type, Tubeless Or higher | Air Conditioning: Yes | Mandatory Requirements: 1. Vehicle Emission Compliance: BS VI, 2. Vehicle fitted with ABS, low fuel warning light, Passenger side view mirror and Rear Seat Belts, 3. Minimum 3 number of free services will be provided.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150136"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Uttam Gogoi | 785699,Numaligarh Refinery Limited, Chief General Manager (Commercial) PO-NRP, Numaligarh Warehouse office 03776-265562 | 1 | 90",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150136"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150136"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "2. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 3. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 4. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 5. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 6. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 7. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses PUR-HRNUM-1012464-Supply of Passenger SUV for Corporate HSE Dept of NRL site. Contact Person for the tender:-For Commercial Related Matters: To: Biplab Kumar Barman Designation: DGM (Commercial) Email: biplab.k.barman@nrl.co.in Mob: 9476296941 For Technical Related Matters: To: Uttam Gogoi Designation: Office Assistant VII Email: uttam.gogoi@nrl.co.in Mob: 7002939793 PRE-QUALIFICATION CRITERIA (PQC):-The bidder must be either the Original Equipment Manufacturer (OEM ) or an authorized dealer/distributor of the OEM for the sale of the product. Contract performance Security (CPS): Not Applicable. Warranty Bank Guarantee (WBG): Not Applicable. Delivery Period: 3 Months from the date of GeM order.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150136"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "Delayed Delivery & Liquidated Damages:-APPLICABLE Payment Term Unless otherwise specified in Technical/Buyer Specification, payment term shall be as follows: 100% payment within 30 days from the date of receipt of the vehicle at site. Guarantee/ Warranty: Applicable:36 Months. SPECIFICATIONS Name of the Product: Passenger Sports Utility Vehicle (SUV) Vehicle shall have the following minimum specifications: Sl. No NRL’s Desired Specifications 1 Category of the Vehicle: M1 (For passengers only, Number of s eats including driver <= 9) 2 Fuel Type: Diesel 3 Type of Body: SUV (Sports Utility Vehicle) 4 Drive Axle: Front wheel drive 5 Vehicle engine capacity: >1200<=1500 CC 6 Vehicle Transmission System: Manual Transmission (MT) 7 Maximum Power: 75 hp (56 KW) @ 3750 rpm or more 8 Maximum Torque at rated RPM: 210 Nm or more 9 Emission type: BS-VI 10 Seating capacity: 5 persons 11 Minimum Air bag: 02 nos 12 Power Window: Any Value 13 Reverse parking sensor: Required 14 Type of vehicle tyre: Tubeless/Tube-type 15 Colour: White 16 Warranty period: 36 months minimum",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150136"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": ". 8. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10150136"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

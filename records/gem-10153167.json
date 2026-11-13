@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8263033",
   "title": "Computer Printer (V2)",
   "description": "Computer Printer (V2)",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "West Central Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Computer Printer (V2)",
   "quantity": 7,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-11T12:58:08+05:30",
   "closing_at": "2026-11-21T13:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10153167"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/ihcr10pTaoAcq3eQPOedDTCfaz9RDbtiVw5qqd9sMOw",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261111",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +49,218 @@
   ],
   "source_fetched_at": "2026-11-13T03:04:52.557Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-22T13:00:00+05:30",
+  "office": "West Central Railway",
+  "buyer_email": "vitthal.pandey@gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-13T06:37:23.990285+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "9e3e3940408a25270255de437d5aae9e41d2dcef4c6c9d82d65ffb2812dc161b",
+  "document_pages": 7,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Vitthal Pandey",
+      "address": "483501,Office Of Senior Materials Manager, Electric Loco Shed, New Katni",
+      "quantity": 7,
+      "quantity_label": "Quantity",
+      "delivery_days": 60
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Generic",
+          "parameter": "Description of Stores",
+          "value": "Computer Printer with Minimum 1 Year On Site Warranty, including Cartridge and Power Cord/Adaptor"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Print Technology",
+          "value": "Laser"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Type of Printing",
+          "value": "Monochrome (Black)"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Paper Size",
+          "value": "A4, A4 and Legal, A3, A4 and Legal Or higher"
+        },
+        {
+          "group": "Printing",
+          "parameter": "Minimum Print Speed per Minute as per ISO/IEC 24734 in A4 Size-Monochrome (Black) (in PPM)",
+          "value": "31 to 35, 36 to 40, 41 to 45, 46 to 50, 51 to 55, 56 to 60, 61 to 65, 66 to 70 Or higher"
+        },
+        {
+          "group": "Printing",
+          "parameter": "Minimum Print Speed per Minute as per ISO/IEC 24734 in A4 Size-Colour (in PPM)",
+          "value": "Not Applicable Or higher"
+        },
+        {
+          "group": "Printing",
+          "parameter": "Minimum Print Speed per Minute as per ISO/IEC 24734 in A3 Size-Mono (in PPM)",
+          "value": "Not Applicable, 1 to 5, 6 to 10, 11 to 15, 16 to 20, 21 to 25, 26 to 30, 31 to 35, 36 to 40, 41 to 45, 46 to 50, 51 to 55, 56 to 60 Or higher"
+        },
+        {
+          "group": "Printing",
+          "parameter": "Minimum Print Speed per Minute as per ISO/IEC 24734 in A3 Size-Colour (in PPM)",
+          "value": "Not Applicable Or higher"
+        },
+        {
+          "group": "Printing",
+          "parameter": "Auto Duplexing Printing (2- Sided Feature)",
+          "value": "Yes Or higher"
+        },
+        {
+          "group": "Paper Handling",
+          "parameter": "Number of Main Paper Trays",
+          "value": "1"
+        },
+        {
+          "group": "Connectivity",
+          "parameter": "Connectivity",
+          "value": "USB Port, Ethernet Port"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods"
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8263033",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153167"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 21-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153167"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 22-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153167"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153167"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153167"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153167"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: West Central Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153167"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: West Central Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153167"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :satender.yadav@gov.in Buyer Email id: vitthal.pandey@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153167"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 7",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153167"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Computer Printer (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153167"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153167"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153167"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153167"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153167"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153167"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Description of Stores: Computer Printer with Minimum 1 Year On Site Warranty, including Cartridge and Power Cord/Adaptor | Print Technology: Laser | Type of Printing: Monochrome (Black) | Paper Size: A4, A4 and Legal, A3, A4 and Legal Or higher | Minimum Print Speed per Minute as per ISO/IEC 24734 in A4 Size-Monochrome (Black) (in PPM): 31 to 35, 36 to 40, 41 to 45, 46 to 50, 51 to 55, 56 to 60, 61 to 65, 66 to 70 Or higher | Minimum Print Speed per Minute as per ISO/IEC 24734 in A4 Size-Colour (in PPM): Not Applicable Or higher | Minimum Print Speed per Minute as per ISO/IEC 24734 in A3 Size-Mono (in PPM): Not Applicable, 1 to 5, 6 to 10, 11 to 15, 16 to 20, 21 to 25, 26 to 30, 31 to 35, 36 to 40, 41 to 45, 46 to 50, 51 to 55, 56 to 60 Or higher | Minimum Print Speed per Minute as per ISO/IEC 24734 in A3 Size-Colour (in PPM): Not Applicable Or higher | Auto Duplexing Printing (2- Sided Feature): Yes Or higher | Number of Main Paper Trays: 1 | Connectivity: USB Port, Ethernet Port",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153167"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Vitthal Pandey | 483501,Office Of Senior Materials Manager, Electric Loco Shed, New Katni | 7 | 60",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153167"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153167"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

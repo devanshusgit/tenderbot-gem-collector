@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8268986",
   "title": "Electrocardiography (ECG) Machine (V2)",
   "description": "Electrocardiography (ECG) Machine (V2),Electrocardiography (ECG) Machine (V2)",
-  "organisation": "Health and Family Welfare Services Department Puducherry",
-  "ministry": "",
-  "department": "Health and Family Welfare Services Department Puducherry",
+  "organisation": "N/a",
+  "ministry": "Puducherry",
+  "department": "Health And Family Welfare Services Department Puducherry",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Electrocardiography (ECG) Machine (V2)",
   "quantity": 2,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-12T17:08:20+05:30",
   "closing_at": "2026-12-03T18:00:00+05:30",
   "status": "active",
@@ -27,6 +27,16 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10159934"
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/2ST2jBbaIV9EAyOJmoZx7Nl103887ZiLY2ZtMQiRMSQ",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261112",
+      "page": 13
     }
   ],
   "tags": [
@@ -34,5 +44,542 @@
   ],
   "source_fetched_at": "2026-11-13T11:03:08.201Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-04T18:00:00+05:30",
+  "office": "Puducherry",
+  "buyer_email": "cgp-health.pon@nic.in",
+  "emd_required": false,
+  "experience_years": 1,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 26,
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-13T15:14:50.303063+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "d01b36878589ee5806642a72dcfd2c51e92df6c17e784ab3269646dc4930e073",
+  "document_pages": 13,
+  "eligibility": [
+    "Past experience required for same/similar service: 1 Year (s) (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 50 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 7,
+      "consignee": "Albert Salomon",
+      "address": "609602,Pharmacy Stores, Office of the Medical Superintendent, Government General Hospital, No.63, Kamaraj Street, Karaikal.",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    },
+    {
+      "page": 7,
+      "consignee": "K Vijayakumar",
+      "address": "605001,Pharmacy Stores, O/o The Medical Superintendent, Indira Gandhi Govt. General Hospital and Post Graduate Institute, No 1 Victor Simonel Street, Puducherry. (0413- 2337070)",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "GENERAL FEATURES",
+          "parameter": "Product Description",
+          "value": "ECG Machine"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Operating modes of ECG Machine",
+          "value": "Automatic, Manual and Rhythm"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "ECG machine should have ECG lead annotation facility",
+          "value": "Yes"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Leads which is in ECG machine should be able to acquire simultaneously and interpret them",
+          "value": "12"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Number of channels",
+          "value": "12 Channel"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "ECG machine should acquire lead ECG for both adult and pediatric patients",
+          "value": "Yes"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "The ECG machine should have facility to show lead fail indication",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "The ECG machine should have facility to show lead reversal indication",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "The ECG machine should have facility to show the impedance to quality check of connection",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Acquisition time for ECG Machine in sec",
+          "value": "10 sec"
+        },
+        {
+          "group": null,
+          "parameter": "Digital sampling rate for Pacemaker spike detection",
+          "value": "8000 s/sec/channel, NA"
+        },
+        {
+          "group": null,
+          "parameter": "Recording of digital sampling for pacemaker",
+          "value": "1000 s/sec/channel, 500 s/sec/channel"
+        },
+        {
+          "group": null,
+          "parameter": "ECG machine should have real time colour backlit display of ECG waveforms with signal qualify indication for each lead",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "ECG machine should have frequency filters",
+          "value": "Artifact, AC and low and high pass frequency filters"
+        },
+        {
+          "group": null,
+          "parameter": "Number of ECGs which can be store in ECG Machine",
+          "value": "151 to 200"
+        },
+        {
+          "group": null,
+          "parameter": "ECG machine should have full screen preview of ECG report for quality assessment checks prior to print",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Type of inbuilt screen",
+          "value": "LCD, LED"
+        },
+        {
+          "group": null,
+          "parameter": "Size of screen in inches",
+          "value": "7"
+        },
+        {
+          "group": null,
+          "parameter": "Display resolution of ECG machine in pixels",
+          "value": "640 x 480"
+        },
+        {
+          "group": null,
+          "parameter": "ECG machine should have interpretation facility of the amplitudes, duration and morphologies of ECG waveforms and associated rhythm for adult and pediatric patient",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "ECG machine should have alphanumeric keyboard for patient data entry",
+          "value": "Hard keys"
+        },
+        {
+          "group": null,
+          "parameter": "Availability of latest interpretation software",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Wireless acquisition module with RF technology",
+          "value": "No"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "System should have the dedicated software to download the ECG form machine in PDF format",
+          "value": "Yes, No"
+        },
+        {
+          "group": "PRINTER",
+          "parameter": "Printer Type",
+          "value": "Thermal Printer"
+        },
+        {
+          "group": "PRINTER",
+          "parameter": "Recorder Paper Size",
+          "value": "A4 Size"
+        },
+        {
+          "group": "PRINTER",
+          "parameter": "Recorder Speed",
+          "value": "50 mm/sec"
+        },
+        {
+          "group": "PRINTER",
+          "parameter": "Resolution of digital array printer",
+          "value": "200 dpi x 500 dpi"
+        },
+        {
+          "group": "PRINTER",
+          "parameter": "Number of Thermal paper",
+          "value": "500, 1000, 0 Or higher"
+        },
+        {
+          "group": "PRINTER",
+          "parameter": "ECG machine report format",
+          "value": "Report formats of 3x4, 6x2, Rhythm for up to selected leads, 12 lead extended measurement, 1 minute of continuous waveform data for 1 selected lead"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "Provision of Battery",
+          "value": "Yes"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "Battery Type",
+          "value": "Built in Rechargeable Battery"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "Battery capacity of continuous rhythm recording on single charge (minutes)",
+          "value": "50, 60"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "Battery capacity",
+          "value": "50 ECG or 1 hour of continous rhythm recording on single charge"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "Connectivity to ECG Machine",
+          "value": "LAN, Wireless LAN"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "Storage on external portable memories",
+          "value": "USB support"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "The individual patient lead should be change without replacing the whole patient cable assembly",
+          "value": "No"
+        },
+        {
+          "group": "ENVIRONNMENTS PARAMETERS",
+          "parameter": "Operating temperature and humidity",
+          "value": "Temperature of 10 to 40 degree Celsius and Relative Humidity of 15 to 90%"
+        },
+        {
+          "group": "POWER SUPPLY",
+          "parameter": "Power input",
+          "value": "220-240 V AC, 50 Hz fitted with Indian plug"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "ECG Machine 12 leads with interpretation",
+          "value": "1"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Patient Cable",
+          "value": "Not provided"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Chest Electrodes Adult (set of Six)",
+          "value": "1"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Chest Electrodes Paediatric (set of Six)",
+          "value": "Not provided"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Limb Electrodes",
+          "value": "Not provided"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Power cable for charging",
+          "value": "Yes"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Supplied with Clip electrode",
+          "value": "Yes"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Compatible trolley provided",
+          "value": "No"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": "CERTIFICATION & REPORTS",
+          "parameter": "Compliance to Medical Device Rules (MDR) 2017 as amended till date",
+          "value": "Yes"
+        },
+        {
+          "group": "CERTIFICATION & REPORTS",
+          "parameter": "Availability of valid Medical Device license from competent authority",
+          "value": "Yes"
+        },
+        {
+          "group": "CERTIFICATION & REPORTS",
+          "parameter": "Manufacturing unit certification",
+          "value": "ISO:13485 (Latest)"
+        },
+        {
+          "group": "CERTIFICATION & REPORTS",
+          "parameter": "Availability of Test Report for each supplied batch/product as per Medical Device Rules (MDR) 2017 as amended till date",
+          "value": "Yes"
+        },
+        {
+          "group": "CERTIFICATION & REPORTS",
+          "parameter": "Compliance to Safety Standards",
+          "value": "IS 13450:Part 2:Sec 25 / IEC 60601-2-25"
+        },
+        {
+          "group": "CERTIFICATION & REPORTS",
+          "parameter": "Submission of all necessary certifications, licenses and test reports to the buyer at the time of bid submission and/or along with supplies as per buyer requirement",
+          "value": "Yes"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "Warranty (Option of comprehensive warranty is available through bidding only, which if opted will supersede normal warranty in the catalogue)",
+          "value": "2, 3, 4, 5 Or higher (year)"
+        },
+        {
+          "group": "Miscellaneous Parameters",
+          "parameter": "User/Technical/Maintenance manuals to be supplied in English in hard and soft copy",
+          "value": "Yes"
+        },
+        {
+          "group": "Miscellaneous Parameters",
+          "parameter": "The Principal Manufacturer must have direct Presence/approved service center In India",
+          "value": "Yes"
+        },
+        {
+          "group": "Miscellaneous Parameters",
+          "parameter": "Installation and demonstration of equipment and training to be provided after completing supplies before acceptance",
+          "value": "Yes"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 9,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 3. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 4. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 5. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 6. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 7. Generic Bidders shall quote only those products (Part of Service delivery) in the bid which are not obsolete in the market and has at least 4 years residual market life i.e. the offered product shall not be declared end-of- life by the OEM before this period. 8. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 9. Generic"
+    },
+    {
+      "page": 10,
+      "text": "Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU for 1 year before the bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the primary product having highest value should meet this criterion. 10. Generic Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller. 11. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 12. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 13. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 14. Warranty Successful bidder will have to ensure that adequate number of dedicated technical service personals / engineers are designated / deployed for attending to the Service Request in a time bound manner and for ensuring Timely Servicing / rectification of defects during warranty period, as per Service level agreement indicated in the relevant clause of the bid. 15. Warranty Warranty period of the supplied products shall be as given in specifications from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 16. Warranty Timely Servicing / rectification of defects during warranty period: After having been notified of the defects / service requirement during warranty period, Seller has to complete the required Service / Rectification within 3 days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the Buyer."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8268986",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159934"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 03-12-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159934"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 04-12-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159934"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159934"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Puducherry",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159934"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Health And Family Welfare Services Department Puducherry",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159934"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: N/a",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159934"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Puducherry",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159934"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :dms@py.gov.in Buyer Email id: cgp-health.pon@nic.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159934"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 2",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159934"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Electrocardiography (ECG) Machine (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159934"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 1 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159934"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159934"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159934"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159934"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 50 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159934"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159934"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159934"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 26",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159934"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159934"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159934"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Product Description: ECG Machine | Operating modes of ECG Machine: Automatic, Manual and Rhythm | ECG machine should have ECG lead annotation facility: Yes | Leads which is in ECG machine should be able to acquire simultaneously and interpret them: 12 | Number of channels: 12 Channel | ECG machine should acquire lead ECG for both adult and pediatric patients: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159934"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "The ECG machine should have facility to show lead fail indication: Yes | The ECG machine should have facility to show lead reversal indication: Yes | The ECG machine should have facility to show the impedance to quality check of connection: Yes | Acquisition time for ECG Machine in sec: 10 sec | Digital sampling rate for Pacemaker spike detection: 8000 s/sec/channel, NA | Recording of digital sampling for pacemaker: 1000 s/sec/channel, 500 s/sec/channel | ECG machine should have real time colour backlit display of ECG waveforms with signal qualify indication for each lead: Yes | ECG machine should have frequency filters: Artifact, AC and low and high pass frequency filters | Number of ECGs which can be store in ECG Machine: 151 to 200 | ECG machine should have full screen preview of ECG report for quality assessment checks prior to print: Yes | Type of inbuilt screen: LCD, LED | Size of screen in inches: 7 | Display resolution of ECG machine in pixels: 640 x 480 | ECG machine should have interpretation facility of the amplitudes, duration and morphologies of ECG waveforms and associated rhythm for adult and pediatric patient: Yes | ECG machine should have alphanumeric keyboard for patient data entry: Hard keys | Availability of latest interpretation software: Yes | Wireless acquisition module with RF technology: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159934"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "System should have the dedicated software to download the ECG form machine in PDF format: Yes, No | Printer Type: Thermal Printer | Recorder Paper Size: A4 Size | Recorder Speed: 50 mm/sec | Resolution of digital array printer: 200 dpi x 500 dpi | Number of Thermal paper: 500, 1000, 0 Or higher | ECG machine report format: Report formats of 3x4, 6x2, Rhythm for up to selected leads, 12 lead extended measurement, 1 minute of continuous waveform data for 1 selected lead | Provision of Battery: Yes | Battery Type: Built in Rechargeable Battery | Battery capacity of continuous rhythm recording on single charge (minutes): 50, 60 | Battery capacity: 50 ECG or 1 hour of continous rhythm recording on single charge | Connectivity to ECG Machine: LAN, Wireless LAN | Storage on external portable memories: USB support | The individual patient lead should be change without replacing the whole patient cable assembly: No | Operating temperature and humidity: Temperature of 10 to 40 degree Celsius and Relative Humidity of 15 to 90% | Power input: 220-240 V AC, 50 Hz fitted with Indian plug | ECG Machine 12 leads with interpretation: 1 | Patient Cable: Not provided | Chest Electrodes Adult (set of Six): 1 | Chest Electrodes Paediatric (set of Six): Not provided | Limb Electrodes: Not provided | Power cable for charging: Yes | Supplied with Clip electrode: Yes | Compatible trolley provided: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159934"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Compliance to Medical Device Rules (MDR) 2017 as amended till date: Yes | Availability of valid Medical Device license from competent authority: Yes | Manufacturing unit certification: ISO:13485 (Latest) | Availability of Test Report for each supplied batch/product as per Medical Device Rules (MDR) 2017 as amended till date: Yes | Compliance to Safety Standards: IS 13450:Part 2:Sec 25 / IEC 60601-2-25 | Submission of all necessary certifications, licenses and test reports to the buyer at the time of bid submission and/or along with supplies as per buyer requirement: Yes | Warranty (Option of comprehensive warranty is available through bidding only, which if opted will supersede normal warranty in the catalogue): 2, 3, 4, 5 Or higher (year) | User/Technical/Maintenance manuals to be supplied in English in hard and soft copy: Yes | The Principal Manufacturer must have direct Presence/approved service center In India: Yes | Installation and demonstration of equipment and training to be provided after completing supplies before acceptance: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159934"
+    },
+    {
+      "field": "consignees",
+      "page": 7,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Albert Salomon | 609602,Pharmacy Stores, Office of the Medical Superintendent, Government General Hospital, No.63, Kamaraj Street, Karaikal. | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159934"
+    },
+    {
+      "field": "consignees",
+      "page": 7,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 2 | K Vijayakumar | 605001,Pharmacy Stores, O/o The Medical Superintendent, Indira Gandhi Govt. General Hospital and Post Graduate Institute, No 1 Victor Simonel Street, Puducherry. (0413- 2337070) | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159934"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 3. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 4. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 5. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 6. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 7. Generic Bidders shall quote only those products (Part of Service delivery) in the bid which are not obsolete in the market and has at least 4 years residual market life i.e. the offered product shall not be declared end-of- life by the OEM before this period. 8. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 9. Generic",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159934"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU for 1 year before the bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the primary product having highest value should meet this criterion. 10. Generic Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller. 11. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 12. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 13. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 14. Warranty Successful bidder will have to ensure that adequate number of dedicated technical service personals / engineers are designated / deployed for attending to the Service Request in a time bound manner and for ensuring Timely Servicing / rectification of defects during warranty period, as per Service level agreement indicated in the relevant clause of the bid. 15. Warranty Warranty period of the supplied products shall be as given in specifications from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 16. Warranty Timely Servicing / rectification of defects during warranty period: After having been notified of the defects / service requirement during warranty period, Seller has to complete the required Service / Rectification within 3 days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the Buyer.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159934"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

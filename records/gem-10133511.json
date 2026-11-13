@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8246114",
   "title": "All in One PC (V2)",
   "description": "All in One PC (V2)",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "Western Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "All in One PC (V2)",
   "quantity": 30,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-12T16:48:47+05:30",
   "closing_at": "2026-11-27T10:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10133511"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/RNbCawkQo6MnBOoKKXY0AGjozPupOAw0IboJoOWJMzg",
+      "page": 5
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261112",
+      "page": 10
     }
   ],
   "tags": [
@@ -34,5 +49,238 @@
   ],
   "source_fetched_at": "2026-11-13T11:04:01.613Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-28T10:00:00+05:30",
+  "office": "Western Railway",
+  "buyer_email": "srdmm@brc.railnet.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "60 (Days)",
+  "source_document_fetched_at": "2026-11-13T15:22:59.477903+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "250d7a1169545c13b80126eec466c749be1da16c36e3c4f89d4865fdb63f099b",
+  "document_pages": 10,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Vijaychandra Ramkrishna Narkhede",
+      "address": "390024,SENIOR MATERIAL MANAGER, ELECTRIC LOCO STORES, WESTERN RAILWAY, NAVAYARD, VADODARA- 390024",
+      "quantity": 30,
+      "quantity_label": "Quantity",
+      "delivery_days": 45
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Description",
+          "parameter": "Description of store",
+          "value": "All in One Personal Computers consist of a Mouse, Keyboard, Display with Web camera, inbuilt/integrated microphone array and speakers, an internal CPU with connection cables and power adapter with 1 year standard warranty"
+        },
+        {
+          "group": "Description",
+          "parameter": "Processor Number",
+          "value": "Intel Core i3-12100, Intel Core i3-14100T, Intel Core i3-12300, Intel Core i3-14100, Intel Core i5-12400T, Intel Core i5-12500T, Intel Core i5 12600T, Intel Core i5-12400, Intel Core i5-12500, Intel Core i5-13400T, Intel Core i7 12700T, Intel Core i5-12600, Intel Core i5-13500T, Intel Core i5-14500T, Intel Core i5-14400, Intel Core i5-13600T, Intel Core i7-13700T, Intel Core i9 12900T, Intel Core i7-12700, Intel Core i7-14700T, Intel Core i5-13500, Intel Core i5-14500, Intel Core i9- 12900, Intel Core i7-13700, Intel Core i7-14700, Intel Core i9-13900T, Intel Core i9-13900, Intel Core Ultra 5-235, Intel Core Ultra 7-265, Intel Core i5 14600T, Intel Core Ultra 5 235T, Intel Core Ultra 5 245, Intel Core Ultra 5 245T, Intel Core Ultra 9 285 Or higher"
+        },
+        {
+          "group": "Input Devices",
+          "parameter": "Mouse Connectivity",
+          "value": "Wired, Wireless Or higher"
+        },
+        {
+          "group": "Input Devices",
+          "parameter": "Keyboard Connectivity",
+          "value": "Wired, Wireless Or higher"
+        },
+        {
+          "group": "Input Devices",
+          "parameter": "Type of Keyboard",
+          "value": "Standard, Bilingual Or higher"
+        },
+        {
+          "group": "Graphics",
+          "parameter": "Graphics Type",
+          "value": "Integrated"
+        },
+        {
+          "group": "Operating System",
+          "parameter": "Operating System (Factory Preloaded with Certification)",
+          "value": "Windows 11 Professional"
+        },
+        {
+          "group": "Memory",
+          "parameter": "Type of RAM",
+          "value": "DDR4, DDR5 Or higher"
+        },
+        {
+          "group": "Memory",
+          "parameter": "RAM Size (GB)",
+          "value": "16, 32 Or higher"
+        },
+        {
+          "group": "Storage",
+          "parameter": "Type of Storage Installed with the System",
+          "value": "NVMe SSD"
+        },
+        {
+          "group": "Storage",
+          "parameter": "Storage Capacity (in GB)",
+          "value": "512, 1024, 2048 Or higher"
+        },
+        {
+          "group": "Display",
+          "parameter": "Display Size - Diagonal (in Inches)",
+          "value": "48.1 - 53 (18.94\" - 20.87\"), 53.1 - 58 (20.91\" - 22.83\"), 58.1 - 63 (22.87\" - 24.8\"), 63.1 - 68 (24.84\" - 26.77\"), 68.1 - 73 (26.81\" - 28.74\"), 73.1 - 78 (28.78\" - 30.71\"), 78.1 - 83 (30.75\" - 32.68\"), 83.1 - 88 (32.72\" - 34.65\")"
+        },
+        {
+          "group": "Display",
+          "parameter": "Panel Technology",
+          "value": "In Plane Switching (IPS) Or higher"
+        },
+        {
+          "group": "Ports",
+          "parameter": "Number of Ports",
+          "value": "1-DP, 1-HDMI, 1- RJ-45 (10/100/1000 Ethernet Port), 1-USB 3.0 TYPE A, 1-USB 3.1 Gen 1 TYPE A, 2-USB 3.1 Gen 1 TYPE A, Universal Audio Jack"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Stand",
+          "value": "Standard"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 8,
+      "text": "1. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): RITES Post Receipt Inspection at consignee site before acceptance of stores: CONSIGNEE 2. Inspection Pre-dispatch inspection at Seller premises (Fee/Charges to be borne by the BUYER): Before dispatch, the goods will be inspected by Buyer / Consignee or their Authorized Representative or by Nominated External Inspection Agency (independently or jointly with Buyer or Consignee as decided by the Buyer) at Seller premises (or at designated place for inspection as declared / communicated by the seller) for their compliance to the contract specifications. Fee/Charges taken by the External inspection Agency and any external laboratories testing charges shall be borne by the Buyer. For in-house testing, the Sellers will provide necessary facilities free of cost. Seller shall notify the Buyer through e-mail about readiness of goods for pre-dispatch inspection and Buyer will notify the Seller about the Authorized Representative/ Nominated External Inspection Agency and the date for testing. The goods would be dispatched to consignee only after clearance in pre-dispatch inspection. Consignee's right of rejection as per GTC in respect of the goods finally received at his location shall in no way be limited or waived by reason of the goods having previously been inspected, tested and passed by Buyer/ Consignee or its Nominated External Inspection Agency prior to the goods' shipment. While bidding, the sellers should take into account 7 days for inspection from the date of email offering the goods for inspection. Any delay in inspection beyond 7 days shall be on the part of the buyer and shall be regularised without Liquidated Damages. When there is requirement of submission the advance sample, the seller shall inform the buyer promptly through emails about the date of submission of sample to the buyer nominated Inspection agency. 3. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods"
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8246114",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133511"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 27-11-2026 10:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133511"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 28-11-2026 10:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133511"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 60 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133511"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133511"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133511"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Western Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133511"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Western Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133511"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :smm4@wr.railnet.gov.in Buyer Email id: srdmm@brc.railnet.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133511"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133511"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: All in One PC (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133511"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133511"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133511"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133511"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133511"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133511"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Description of store: All in One Personal Computers consist of a Mouse, Keyboard, Display with Web camera, inbuilt/integrated microphone array and speakers, an internal CPU with connection cables and power adapter with 1 year standard warranty | Processor Number: Intel Core i3-12100, Intel Core i3-14100T, Intel Core i3-12300, Intel Core i3-14100, Intel Core i5-12400T, Intel Core i5-12500T, Intel Core i5 12600T, Intel Core i5-12400, Intel Core i5-12500, Intel Core i5-13400T, Intel Core i7 12700T, Intel Core i5-12600, Intel Core i5-13500T, Intel Core i5-14500T, Intel Core i5-14400, Intel Core i5-13600T, Intel Core i7-13700T, Intel Core i9 12900T, Intel Core i7-12700, Intel Core i7-14700T, Intel Core i5-13500, Intel Core i5-14500, Intel Core i9- 12900, Intel Core i7-13700, Intel Core i7-14700, Intel Core i9-13900T, Intel Core i9-13900, Intel Core Ultra 5-235, Intel Core Ultra 7-265, Intel Core i5 14600T, Intel Core Ultra 5 235T, Intel Core Ultra 5 245, Intel Core Ultra 5 245T, Intel Core Ultra 9 285 Or higher | Mouse Connectivity: Wired, Wireless Or higher | Keyboard Connectivity: Wired, Wireless Or higher | Type of Keyboard: Standard, Bilingual Or higher | Graphics Type: Integrated | Operating System (Factory Preloaded with Certification): Windows 11 Professional | Type of RAM: DDR4, DDR5 Or higher | RAM Size (GB): 16, 32 Or higher | Type of Storage Installed with the System: NVMe SSD | Storage Capacity (in GB): 512, 1024, 2048 Or higher | Display Size - Diagonal (in Inches): 48.1 - 53 (18.94\" - 20.87\"), 53.1 - 58 (20.91\" - 22.83\"), 58.1 - 63 (22.87\" - 24.8\"), 63.1 - 68 (24.84\" - 26.77\"), 68.1 - 73 (26.81\" - 28.74\"), 73.1 - 78 (28.78\" - 30.71\"), 78.1 - 83 (30.75\" - 32.68\"), 83.1 - 88 (32.72\" - 34.65\") | Panel Technology: In Plane Switching (IPS) Or higher | Number of Ports: 1-DP, 1-HDMI, 1- RJ-45 (10/100/1000 Ethernet Port), 1-USB 3.0 TYPE A, 1-USB 3.1 Gen 1 TYPE A, 2-USB 3.1 Gen 1 TYPE A, Universal Audio Jack | Stand: Standard",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133511"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Vijaychandra Ramkrishna Narkhede | 390024,SENIOR MATERIAL MANAGER, ELECTRIC LOCO STORES, WESTERN RAILWAY, NAVAYARD, VADODARA- 390024 | 30 | 45",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133511"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "1. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): RITES Post Receipt Inspection at consignee site before acceptance of stores: CONSIGNEE 2. Inspection Pre-dispatch inspection at Seller premises (Fee/Charges to be borne by the BUYER): Before dispatch, the goods will be inspected by Buyer / Consignee or their Authorized Representative or by Nominated External Inspection Agency (independently or jointly with Buyer or Consignee as decided by the Buyer) at Seller premises (or at designated place for inspection as declared / communicated by the seller) for their compliance to the contract specifications. Fee/Charges taken by the External inspection Agency and any external laboratories testing charges shall be borne by the Buyer. For in-house testing, the Sellers will provide necessary facilities free of cost. Seller shall notify the Buyer through e-mail about readiness of goods for pre-dispatch inspection and Buyer will notify the Seller about the Authorized Representative/ Nominated External Inspection Agency and the date for testing. The goods would be dispatched to consignee only after clearance in pre-dispatch inspection. Consignee's right of rejection as per GTC in respect of the goods finally received at his location shall in no way be limited or waived by reason of the goods having previously been inspected, tested and passed by Buyer/ Consignee or its Nominated External Inspection Agency prior to the goods' shipment. While bidding, the sellers should take into account 7 days for inspection from the date of email offering the goods for inspection. Any delay in inspection beyond 7 days shall be on the part of the buyer and shall be regularised without Liquidated Damages. When there is requirement of submission the advance sample, the seller shall inform the buyer promptly through emails about the date of submission of sample to the buyer nominated Inspection agency. 3. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10133511"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

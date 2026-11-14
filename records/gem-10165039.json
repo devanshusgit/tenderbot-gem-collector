@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8273468",
   "title": "SPECTROPHOTOMETER",
   "description": "SPECTROPHOTOMETER",
-  "organisation": "Health and Family Welfare Department Tamil Nadu",
-  "ministry": "",
-  "department": "Health and Family Welfare Department Tamil Nadu",
+  "organisation": "Directorate Of Medical Education",
+  "ministry": "Tamil Nadu",
+  "department": "Health And Family Welfare Department Tamil Nadu",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "SPECTROPHOTOMETER",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-13T16:49:29+05:30",
   "closing_at": "2026-11-27T18:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10165039"
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/RXBzzzh5qgZIy3cddb2iNAZCuGMuEtqqNXrlufEbwrc",
+      "page": 3
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8273468/CLM0010/Plate_87bd98eb-3f8e-45f2-b99d1794568716337_saranuma30.pdf",
+      "page": 6
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261113",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +49,410 @@
   ],
   "source_fetched_at": "2026-11-14T01:42:31.056Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-28T18:00:00+05:30",
+  "office": "Government Vellore Medical College Vellore",
+  "buyer_email": "collegegvmc@gmail.com",
+  "emd_required": false,
+  "bidder_turnover_lakhs": 8,
+  "oem_turnover_lakhs": 60,
+  "experience_years": 2,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "90 (Days)",
+  "source_document_fetched_at": "2026-11-14T05:48:14.333461+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "65161bf585c96d67098221c6389e5c5c6b181739a177f98efa104e3d30b2cf38",
+  "document_pages": 7,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 8 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 60 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 2 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 20 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Saranya P",
+      "address": "632011,Adukkamparai",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "LIGHT SOURCE",
+          "parameter": "Light Source",
+          "value": "Xenon Flash"
+        },
+        {
+          "group": "LIGHT SOURCE",
+          "parameter": "Diffraction Grating (lines/mm)",
+          "value": "800"
+        },
+        {
+          "group": "LIGHT SOURCE",
+          "parameter": "Switching of Light Source",
+          "value": "Automatic"
+        },
+        {
+          "group": "LIGHT SOURCE",
+          "parameter": "Wavelength Setting And Scanning",
+          "value": "Automatic"
+        },
+        {
+          "group": "TYPE",
+          "parameter": "Type of Spectrophotometer",
+          "value": "UV - VISIBLE"
+        },
+        {
+          "group": "TYPE",
+          "parameter": "Type of Optical System",
+          "value": "Double Beam"
+        },
+        {
+          "group": "TYPE",
+          "parameter": "Monochromator Type",
+          "value": "Czerny-turner"
+        },
+        {
+          "group": "TYPE",
+          "parameter": "Detector Type",
+          "value": "Photodiode"
+        },
+        {
+          "group": "TYPE",
+          "parameter": "Spectral Bandwidth Type",
+          "value": "Variable Bandwidth"
+        },
+        {
+          "group": "OPTICAL PERFORMANCE",
+          "parameter": "Source Wavelength - Minimum",
+          "value": "200.0 (nanometer)"
+        },
+        {
+          "group": "OPTICAL PERFORMANCE",
+          "parameter": "Source Wavelength - Maximum",
+          "value": "900, 960, 1000, 1100, 1500, 2000, 2500, 2700, 3000, 3200, 3300, 1650 Or higher (nanometer)"
+        },
+        {
+          "group": "OPTICAL PERFORMANCE",
+          "parameter": "Resolution",
+          "value": "0.01 (nanometer)"
+        },
+        {
+          "group": "OPTICAL PERFORMANCE",
+          "parameter": "Wavelength Accuracy (+/-)",
+          "value": "1.0 (nanometer)"
+        },
+        {
+          "group": "OPTICAL PERFORMANCE",
+          "parameter": "Bandwidth (nm)",
+          "value": "1"
+        },
+        {
+          "group": "OPTICAL PERFORMANCE",
+          "parameter": "Focal length (mm)",
+          "value": "0 to 49"
+        },
+        {
+          "group": "OPTICAL PERFORMANCE",
+          "parameter": "Photometric measurement modes",
+          "value": "Transmittance, Absorbance, Concentration (Wavelength, time), Reflectance"
+        },
+        {
+          "group": "OPTICAL PERFORMANCE",
+          "parameter": "Photometric Absorbance (Max) (Abs) (+/-)",
+          "value": "0.2"
+        },
+        {
+          "group": "OPTICAL PERFORMANCE",
+          "parameter": "Photometric Absorbance Accuracy (Max) (+/-)",
+          "value": "0.001 - 0.001 Or lower"
+        },
+        {
+          "group": "OPTICAL PERFORMANCE",
+          "parameter": "Photometric Transmittance (Max) (+/-)",
+          "value": "100.0 (percent)"
+        },
+        {
+          "group": "OPTICAL PERFORMANCE",
+          "parameter": "Photometric Transmittance Accuracy (Max) (+/-)",
+          "value": "0.0 - 0.5 Or lower (percent)"
+        },
+        {
+          "group": "OPTICAL PERFORMANCE",
+          "parameter": "Photometric Reflectance (Max) (+/-)",
+          "value": "0.0 (percent)"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Display",
+          "value": "In-built display"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Display type",
+          "value": "LCD touchscreen"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Display Size",
+          "value": "7.0 - 30.0 Or higher (inch)"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Test result printing",
+          "value": "Through external printer"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "If inbuilt printer, Type of printer",
+          "value": "Laser b/w"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Internal storage(GB)",
+          "value": "18.0 - 80.0 Or higher"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Mximum Path Length of sample",
+          "value": "1.0 (millimeter)"
+        },
+        {
+          "group": null,
+          "parameter": "Number of Cuvettes supplied-inclusive in the scope of supply",
+          "value": "0"
+        },
+        {
+          "group": null,
+          "parameter": "Spares and Consumables inclusive in the scope of supply",
+          "value": "No"
+        },
+        {
+          "group": "OPERATING CONDITIONS",
+          "parameter": "Minimum Operating Temperature",
+          "value": "10.0 (degree Celsius)"
+        },
+        {
+          "group": "OPERATING CONDITIONS",
+          "parameter": "Maximum Operating Temperature",
+          "value": "35.0 (degree Celsius)"
+        },
+        {
+          "group": "OPERATING CONDITIONS",
+          "parameter": "Operating Humidity (RH) (%) at 40 degree C",
+          "value": "85.0 (percent)"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "Onsite Warranty",
+          "value": "1.0 (year)"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "Availability of Spares (at extra cost)",
+          "value": "3.0 (year)"
+        },
+        {
+          "group": "Certification",
+          "parameter": "Availability of UL/CE Certification as per EN 61010-1:2010 Safety requirements for electrical equipment for measurement, control, and laboratory use General requirements",
+          "value": "No"
+        },
+        {
+          "group": "Certification",
+          "parameter": "Conformance to EMC/EMI as per EN 61326-1:2013 Electrical equipment for measurement, control and laboratory use",
+          "value": "No"
+        },
+        {
+          "group": "Certification",
+          "parameter": "Availability of Test Reports from Central Govt / NABL approved / ILAC acredited lab to prove conformity to the specification",
+          "value": "No"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8273468",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10165039"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 27-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10165039"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 28-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10165039"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10165039"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Tamil Nadu",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10165039"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Health And Family Welfare Department Tamil Nadu",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10165039"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Directorate Of Medical Education",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10165039"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Government Vellore Medical College Vellore",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10165039"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :dean.tnvlr@nic.in Buyer Email id: collegegvmc@gmail.com",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10165039"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10165039"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: SPECTROPHOTOMETER (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10165039"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 8 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10165039"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 60 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10165039"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 2 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10165039"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10165039"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10165039"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10165039"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10165039"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 20 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10165039"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10165039"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10165039"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10165039"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Light Source: Xenon Flash | Diffraction Grating (lines/mm): 800 | Switching of Light Source: Automatic | Wavelength Setting And Scanning: Automatic | Type of Spectrophotometer: UV - VISIBLE | Type of Optical System: Double Beam | Monochromator Type: Czerny-turner | Detector Type: Photodiode | Spectral Bandwidth Type: Variable Bandwidth | Source Wavelength - Minimum: 200.0 (nanometer) | Source Wavelength - Maximum: 900, 960, 1000, 1100, 1500, 2000, 2500, 2700, 3000, 3200, 3300, 1650 Or higher (nanometer) | Resolution: 0.01 (nanometer) | Wavelength Accuracy (+/-): 1.0 (nanometer) | Bandwidth (nm): 1 | Focal length (mm): 0 to 49 | Photometric measurement modes: Transmittance, Absorbance, Concentration (Wavelength, time), Reflectance | Photometric Absorbance (Max) (Abs) (+/-): 0.2 | Photometric Absorbance Accuracy (Max) (+/-): 0.001 - 0.001 Or lower | Photometric Transmittance (Max) (+/-): 100.0 (percent) | Photometric Transmittance Accuracy (Max) (+/-): 0.0 - 0.5 Or lower (percent) | Photometric Reflectance (Max) (+/-): 0.0 (percent) | Display: In-built display | Display type: LCD touchscreen | Display Size: 7.0 - 30.0 Or higher (inch) | Test result printing: Through external printer | If inbuilt printer, Type of printer: Laser b/w | Internal storage(GB): 18.0 - 80.0 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10165039"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Mximum Path Length of sample: 1.0 (millimeter) | Number of Cuvettes supplied-inclusive in the scope of supply: 0 | Spares and Consumables inclusive in the scope of supply: No | Minimum Operating Temperature: 10.0 (degree Celsius) | Maximum Operating Temperature: 35.0 (degree Celsius) | Operating Humidity (RH) (%) at 40 degree C: 85.0 (percent) | Onsite Warranty: 1.0 (year) | Availability of Spares (at extra cost): 3.0 (year) | Availability of UL/CE Certification as per EN 61010-1:2010 Safety requirements for electrical equipment for measurement, control, and laboratory use General requirements: No | Conformance to EMC/EMI as per EN 61326-1:2013 Electrical equipment for measurement, control and laboratory use: No | Availability of Test Reports from Central Govt / NABL approved / ILAC acredited lab to prove conformity to the specification: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10165039"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Saranya P | 632011,Adukkamparai | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10165039"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10165039"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

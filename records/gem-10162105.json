@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8270844",
   "title": "Receiver for Global Navigation Satellite System (GNSS) (V1)",
   "description": "Receiver for Global Navigation Satellite System (GNSS) (V1)",
-  "organisation": "Science and Technology Department Uttar Pradesh",
-  "ministry": "",
-  "department": "Science and Technology Department Uttar Pradesh",
+  "organisation": "N/a",
+  "ministry": "Uttar Pradesh",
+  "department": "Science And Technology Department Uttar Pradesh",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Receiver for Global Navigation Satellite System (GNSS) (V1)",
   "quantity": 2,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 20000,
   "published_at": "2026-11-13T11:54:24+05:30",
   "closing_at": "2026-11-28T12:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/4jSRkqIrzDCUUgIdY-CkeY9sEDltP4SB48ur0yvGlxQ",
+      "page": 4
+    },
+    {
+      "name": "View",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/documentdownload/10162105/1794550842.pdf",
+      "page": 7
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261113",
+      "page": 12
     }
   ],
   "tags": [
@@ -34,5 +49,544 @@
   ],
   "source_fetched_at": "2026-11-14T01:43:02.106Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-29T12:00:00+05:30",
+  "office": "Remote Sensing Applications Centre Uttar Pradesh",
+  "buyer_email": "msyadav.77667@gov.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 5,
+  "oem_turnover_lakhs": 20,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Turnover: Yes | Partial | Turn over value - 3 (in lakhs)",
+  "startup_relaxation": "Startup Relaxation for Turnover: Yes | Partial | Turn over value - 3 (in lakhs)",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 39,
+  "offer_validity": "150 (Days)",
+  "source_document_fetched_at": "2026-11-14T05:55:01.224351+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "7b3bdc6b49d835f3e32276708cb63422afc715d0aa072d1bdafa27b4e1c20c3b",
+  "document_pages": 13,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 5 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 20 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Turnover: Yes | Partial | Turn over value - 3 (in lakhs) (GeM PDF, p. 1)",
+    "Startup Relaxation for Turnover: Yes | Partial | Turn over value - 3 (in lakhs) (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 40 % (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 7,
+      "consignee": "Ratnesh Kumar Singh",
+      "address": "226021,Remote Sensing Applications Centre, Uttar Pradesh Sector G Jankipuram Kursi Road, Lucknow",
+      "quantity": 2,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "RECEIVER POSITIONING PERFORMANCE & ACCURACY (RMS)",
+          "parameter": "Differential GPS (DGPS) Accuracy - (Horizontal)",
+          "value": "25 cm + 1 ppm"
+        },
+        {
+          "group": "RECEIVER POSITIONING PERFORMANCE & ACCURACY (RMS)",
+          "parameter": "Differential GPS (DGPS) Accuracy - (Vertical)",
+          "value": "50 cm + 1 ppm"
+        },
+        {
+          "group": "RECEIVER POSITIONING PERFORMANCE & ACCURACY (RMS)",
+          "parameter": "High Precision / Long Observation Static Accuracy - (Horizontal)",
+          "value": "3 mm + 0.1 ppm"
+        },
+        {
+          "group": "RECEIVER POSITIONING PERFORMANCE & ACCURACY (RMS)",
+          "parameter": "High Precision / Long Observation Static Accuracy - (Vertical)",
+          "value": "3.5 mm + 0.4 ppm"
+        },
+        {
+          "group": "RECEIVER POSITIONING PERFORMANCE & ACCURACY (RMS)",
+          "parameter": "Static and Fast Static Accuracy - (Horizontal)",
+          "value": "3 mm + 0.5 ppm"
+        },
+        {
+          "group": "RECEIVER POSITIONING PERFORMANCE & ACCURACY (RMS)",
+          "parameter": "Static and Fast Static Accuracy -(Vertical)",
+          "value": "5 mm + 0.5 ppm"
+        },
+        {
+          "group": "RECEIVER POSITIONING PERFORMANCE & ACCURACY (RMS)",
+          "parameter": "Real-Time Kinematic (RTK) Accuracy - (Horizontal)",
+          "value": "10 mm + 1 ppm"
+        },
+        {
+          "group": "RECEIVER POSITIONING PERFORMANCE & ACCURACY (RMS)",
+          "parameter": "Real-Time Kinematic (RTK) Accuracy - (Vertical)",
+          "value": "20 mm + 1 ppm"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Stand alone L-band Accuracy via satellite based correction (95%) - (Horizontal)",
+          "value": "NA"
+        },
+        {
+          "group": null,
+          "parameter": "Stand alone L-band Accuracy via satellite based correction (95%) - (Vertical)",
+          "value": "NA"
+        },
+        {
+          "group": "RECEIVER FEATURES & FUNCTIONS",
+          "parameter": "Receiver Type",
+          "value": "Rover"
+        },
+        {
+          "group": "RECEIVER FEATURES & FUNCTIONS",
+          "parameter": "Mode of Processing",
+          "value": "RTK with Single Base RTK Correction"
+        },
+        {
+          "group": "RECEIVER FEATURES & FUNCTIONS",
+          "parameter": "Receiver salient Features - inclusive in the scope of supply",
+          "value": "Interchangeable / Configurable as Base or Rover, Base Station able to serve multiple Rovers, RTK processing, Built-in stand alone L-band facility and satellite based correction, Integrated receiver Antenna, External receiver Antenna, Compatible to Electronic Total Station (ETS) of Other Makes"
+        },
+        {
+          "group": "RECEIVER TRACKING CAPABILITIES",
+          "parameter": "Base Line Processing Range (Static) (Kilometer)",
+          "value": "50.0 (kilometer)"
+        },
+        {
+          "group": "RECEIVER TRACKING CAPABILITIES",
+          "parameter": "Number of Channels",
+          "value": "672 Or higher"
+        },
+        {
+          "group": "RECEIVER TRACKING CAPABILITIES",
+          "parameter": "Maximum Position Update Rate (Hertz)",
+          "value": "20.0 (Hertz)"
+        },
+        {
+          "group": "RECEIVER TRACKING CAPABILITIES",
+          "parameter": "Tilt Sensor",
+          "value": "Yes"
+        },
+        {
+          "group": "GNSS TRACKING SIGNALS (RECEIVER)",
+          "parameter": "NAVIC Tracking Signals",
+          "value": "L5"
+        },
+        {
+          "group": "GNSS TRACKING SIGNALS (RECEIVER)",
+          "parameter": "Galileo Tracking Signals",
+          "value": "E1, E5 a, E5 b"
+        },
+        {
+          "group": "GNSS TRACKING SIGNALS (RECEIVER)",
+          "parameter": "BeiDou Tracking Signals",
+          "value": "B1, B2, B3"
+        },
+        {
+          "group": "GNSS TRACKING SIGNALS (RECEIVER)",
+          "parameter": "L-band tracking Signals",
+          "value": "NA"
+        },
+        {
+          "group": "GNSS TRACKING SIGNALS (RECEIVER)",
+          "parameter": "SBAS Support",
+          "value": "GAGAN"
+        },
+        {
+          "group": "SOFTWARES",
+          "parameter": "Subscription license for satellite based correction - inclusive in the scope of supply",
+          "value": "NA"
+        },
+        {
+          "group": "SOFTWARES",
+          "parameter": "If Yes, Validity of License period (Subscription license for satellite based correction ) (Year)",
+          "value": "0.0 (year)"
+        },
+        {
+          "group": "SOFTWARES",
+          "parameter": "Post Processing Software with free updates upto Warranty period - inclusive in the scope of supply",
+          "value": "Yes"
+        },
+        {
+          "group": "SOFTWARES",
+          "parameter": "If Yes, Validity of License period (Post Processing Software with free updates upto Warranty period ) (Year)",
+          "value": "5.0 (year)"
+        },
+        {
+          "group": "COMMUNICATIONS",
+          "parameter": "Phone Modem Antenna",
+          "value": "Internal Antenna"
+        },
+        {
+          "group": "COMMUNICATIONS",
+          "parameter": "Radio Modem Antenna",
+          "value": "Internal Antenna"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": "RAM / STORAGE",
+          "parameter": "Data Storage Medium",
+          "value": "Internal"
+        },
+        {
+          "group": "RAM / STORAGE",
+          "parameter": "Internal Storage Capacity",
+          "value": "6 GB"
+        },
+        {
+          "group": "RAM / STORAGE",
+          "parameter": "External / Removable Storage Slot",
+          "value": "Memory stick"
+        },
+        {
+          "group": "RAM / STORAGE",
+          "parameter": "External / Removable Storage Card Capacity supplied with Receiver (GB) - inclusive in the scope of supply",
+          "value": "32 Or higher (gigabyte)"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "Power Source",
+          "value": "Internal - Rechargeable Battery"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "Supports 12 V External Battery",
+          "value": "Yes"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "Chemistry of Battery",
+          "value": "Li-ion"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "Battery Back Up Time (Hour)",
+          "value": "8, 10, 12, 16 Or higher (hour)"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "Number of Batteries required for operation",
+          "value": "1"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "Number of Batteries Supplied",
+          "value": "2, 4, 6, 8 Or higher"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "Battery Chargers for Rechargeable Batteries (inclusive in the scope of supply)",
+          "value": "Yes"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "12 V Vehicle Charging Kit inclusive in the scope of supply",
+          "value": "No"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "Hot - Swappable b/w External and Internal Power Sources without affecting Data Recording",
+          "value": "Yes"
+        },
+        {
+          "group": "ENVIRONMENTAL PARAMETERS",
+          "parameter": "Minimum Operating Temperature",
+          "value": "-10, -15, -20, -25, -30 Or higher (degree Celsius)"
+        },
+        {
+          "group": "ENVIRONMENTAL PARAMETERS",
+          "parameter": "Maximum Operating Temperature",
+          "value": "65, 70, 75 Or higher (degree Celsius)"
+        },
+        {
+          "group": "ENVIRONMENTAL PARAMETERS",
+          "parameter": "Non Condensing Humidity, Rh",
+          "value": "100 Or higher (percent)"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Accessories (inclusive in the scope of supply)",
+          "value": "Tribrach with Optical Plummet and Adopter, Tribrach with Laser Plummet and Adopter, Tribach tester, Telescopic Tripod (Wooden), Telescopic Tripod (Aluminum), Telescopic Tripod (Polycarbonate), Stop and Go Pole, Clamp for Controller, USB Data Transfer Cable, Power Cable, Connectors and Cables for Connecting to Car Batteries, Light Weight carrycase / Roll Over Trolley for Transporting Equipment and Accessories"
+        },
+        {
+          "group": "WARRANTY / TRAINING",
+          "parameter": "Warranty (year)",
+          "value": "3 Or higher (year)"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Training Type",
+          "value": "At Buyer's Premises"
+        },
+        {
+          "group": null,
+          "parameter": "Training Period (day)",
+          "value": "5, 7, 10, 15 Or higher (day)"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 7,
+      "text": "1. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 2. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 3. Forms of EMD and PBG Bidders can also submit the EMD with Account Payee Demand Draft in favour of Director, Remote Sensing Applications Centre Uttar Pradesh payable at"
+    },
+    {
+      "page": 8,
+      "text": "Lucknow . Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 4. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 5. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 6. Certificates ISO 9001: The bidder or the OEM of the offered products must have ISO 9001 certification. 7. Turnover Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. 8. Turnover OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of CATEGORY RELATED TO primary product having highest bid value should meet this criterion. 9. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 10. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 11. Past Project Experience Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc.Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution"
+    },
+    {
+      "page": 9,
+      "text": "certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc. 12. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Bidder must have registered office with valid GST certificate in Lucknow, Uttar Pradesh, enclose the office address proof. 2. Bid specific OEM Compliance, ink signed MAF to be provided by OEM. 3. Bidders are required to submit Rs. 100/- notarized affidavit (Nov. 2026) stating that the bidder should not have been blacklisted by any PSU/financial institution/government organization. 4. The Buyer reserves the right to accept/reject any bid including the lowest bid received through e-bidding process, without assigning any reasons. Required Specifications of GNSS : Sr. N Item Description Parameters o. 1. GNS Receiver Fully independent GNSS satellite tracking systems , communication Bluetooth & Wi-Fi with Integrate d Multi frequency GNSS system 2. Satellite Signals Tracking and Recordin GPS L1, L2, L5 GLONASS L1, L2, L3 Beidou QZSS g Galileo-E1 ES E6 IRNSS L5 L Band (Correction Ser vices) 3. SBAS Technology GAGAN Enable, WAASS, ESMOS, KINEMATIC 4. CORS compatible System should have compatibility with SOI CORS, at the time of data processing (probably real time correction). 5. No. of Channels 500 or more 6. Data Logging Rate 20 Hz or better 7. Static Accuracy Horizontal <5mm + 0.1ppm RMS Vertical <5.5mm + 0.4ppm RMS 8. RTK Accuracy Horizontal <10mm 1ppm RMS Vertical <17mm + 1ppm RMS 9. Initialization Time 10 Seconds or less 10. Receiver Memory Memory 8 GB Internal & External support up to 3 2GB or better 11. Temperature Operating -30 0C to +65 0C"
+    },
+    {
+      "page": 10,
+      "text": "Storage -40 0C to +85 0C 12. Humidity 100%, Condensin 13. Ingress Protection IP67 14. Communication 1 Serial/ Power Port/External Radio Modem Port in single housing, Integrated Bluetooth & Wi-Fi, 2US B or more 15. Tilt Compensator IMU Based Tilt compensator for accurate positioni ng Hp 300​ of tilt. 16. Data Format NMEA 0183, RTCM 3.2, RTCM 3.1, CMR & CMR+ 17. Battery Backup 10 hrs or More, Li-ion Hot Swappable battery 18. Controller Operating System Android Latest Version and Upgradable upto Warr anty Period Display 5” or More, Touch screen and Gorilla Glass displa y with proper protection cover Communication Bluetooth, Wi-Fi, USB-3.0 or better type-C. Memory RAM: 8GB, Memory: 64 GB or Better Battery Li-Ion battery and one pair extra Sun Light Display Readable 19 Controller Software Static, Fast Static, RTK, line polygon, area calculat ion, satellite view, PDOP, HDOP etc. Graphical Stake Out Feature Coding Active Background maps inform of JPEG/ TIFF, DX F/DWG and *.shp Import Export to industry standard formats like C SV, DXF and *.shpetc COGO Functionality"
+    },
+    {
+      "page": 11,
+      "text": "Calculation of transformation parameters from poi nt list. 20 Multimedia and Sensor Rear camera 13M Pixels with auto-focus and LED flash Front camera 5M pixels with fixed focus 1. A small forest area field work should be 21. Training conducted jointly for training of RSAC Sta ff. 2. Provide Training and equipment along with m anual. 3. Training by measurement of plot boundaries area and coordinates using CORS Network to t he satisfaction of the user. 4. Geodatic Training with no of days. 22. Cables & Antena Cable 3 to 10 Mtr, Geodatic Antena. 23. Warranty 3 years 24. Field Software With free update up to Warranty Period ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8270844",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 28-11-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 29-11-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 150 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Uttar Pradesh",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Science And Technology Department Uttar Pradesh",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: N/a",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Remote Sensing Applications Centre Uttar Pradesh",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :director.rsac-up@gov.in Buyer Email id: msyadav.77667@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 2",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Receiver for Global Navigation Satellite System (GNSS) (V1) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 5 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 20 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Turnover: Yes | Partial | Turn over value - 3 (in lakhs)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Turnover: Yes | Partial | Turn over value - 3 (in lakhs)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 40 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 20000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 20000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 39",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Differential GPS (DGPS) Accuracy - (Horizontal): 25 cm + 1 ppm | Differential GPS (DGPS) Accuracy - (Vertical): 50 cm + 1 ppm | High Precision / Long Observation Static Accuracy - (Horizontal): 3 mm + 0.1 ppm | High Precision / Long Observation Static Accuracy - (Vertical): 3.5 mm + 0.4 ppm | Static and Fast Static Accuracy - (Horizontal): 3 mm + 0.5 ppm | Static and Fast Static Accuracy -(Vertical): 5 mm + 0.5 ppm | Real-Time Kinematic (RTK) Accuracy - (Horizontal): 10 mm + 1 ppm | Real-Time Kinematic (RTK) Accuracy - (Vertical): 20 mm + 1 ppm",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Stand alone L-band Accuracy via satellite based correction (95%) - (Horizontal): NA | Stand alone L-band Accuracy via satellite based correction (95%) - (Vertical): NA | Receiver Type: Rover | Mode of Processing: RTK with Single Base RTK Correction | Receiver salient Features - inclusive in the scope of supply: Interchangeable / Configurable as Base or Rover, Base Station able to serve multiple Rovers, RTK processing, Built-in stand alone L-band facility and satellite based correction, Integrated receiver Antenna, External receiver Antenna, Compatible to Electronic Total Station (ETS) of Other Makes | Base Line Processing Range (Static) (Kilometer): 50.0 (kilometer) | Number of Channels: 672 Or higher | Maximum Position Update Rate (Hertz): 20.0 (Hertz) | Tilt Sensor: Yes | NAVIC Tracking Signals: L5 | Galileo Tracking Signals: E1, E5 a, E5 b | BeiDou Tracking Signals: B1, B2, B3 | L-band tracking Signals: NA | SBAS Support: GAGAN | Subscription license for satellite based correction - inclusive in the scope of supply: NA | If Yes, Validity of License period (Subscription license for satellite based correction ) (Year): 0.0 (year) | Post Processing Software with free updates upto Warranty period - inclusive in the scope of supply: Yes | If Yes, Validity of License period (Post Processing Software with free updates upto Warranty period ) (Year): 5.0 (year) | Phone Modem Antenna: Internal Antenna | Radio Modem Antenna: Internal Antenna",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Data Storage Medium: Internal | Internal Storage Capacity: 6 GB | External / Removable Storage Slot: Memory stick | External / Removable Storage Card Capacity supplied with Receiver (GB) - inclusive in the scope of supply: 32 Or higher (gigabyte) | Power Source: Internal - Rechargeable Battery | Supports 12 V External Battery: Yes | Chemistry of Battery: Li-ion | Battery Back Up Time (Hour): 8, 10, 12, 16 Or higher (hour) | Number of Batteries required for operation: 1 | Number of Batteries Supplied: 2, 4, 6, 8 Or higher | Battery Chargers for Rechargeable Batteries (inclusive in the scope of supply): Yes | 12 V Vehicle Charging Kit inclusive in the scope of supply: No | Hot - Swappable b/w External and Internal Power Sources without affecting Data Recording: Yes | Minimum Operating Temperature: -10, -15, -20, -25, -30 Or higher (degree Celsius) | Maximum Operating Temperature: 65, 70, 75 Or higher (degree Celsius) | Non Condensing Humidity, Rh: 100 Or higher (percent) | Accessories (inclusive in the scope of supply): Tribrach with Optical Plummet and Adopter, Tribrach with Laser Plummet and Adopter, Tribach tester, Telescopic Tripod (Wooden), Telescopic Tripod (Aluminum), Telescopic Tripod (Polycarbonate), Stop and Go Pole, Clamp for Controller, USB Data Transfer Cable, Power Cable, Connectors and Cables for Connecting to Car Batteries, Light Weight carrycase / Roll Over Trolley for Transporting Equipment and Accessories | Warranty (year): 3 Or higher (year)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 7,
+      "quote": "Training Type: At Buyer's Premises | Training Period (day): 5, 7, 10, 15 Or higher (day)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "consignees",
+      "page": 7,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Ratnesh Kumar Singh | 226021,Remote Sensing Applications Centre, Uttar Pradesh Sector G Jankipuram Kursi Road, Lucknow | 2 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "1. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 2. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 3. Forms of EMD and PBG Bidders can also submit the EMD with Account Payee Demand Draft in favour of Director, Remote Sensing Applications Centre Uttar Pradesh payable at",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "Lucknow . Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 4. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 5. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 6. Certificates ISO 9001: The bidder or the OEM of the offered products must have ISO 9001 certification. 7. Turnover Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. 8. Turnover OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of CATEGORY RELATED TO primary product having highest bid value should meet this criterion. 9. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 10. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 11. Past Project Experience Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc.Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc. 12. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Bidder must have registered office with valid GST certificate in Lucknow, Uttar Pradesh, enclose the office address proof. 2. Bid specific OEM Compliance, ink signed MAF to be provided by OEM. 3. Bidders are required to submit Rs. 100/- notarized affidavit (Nov. 2026) stating that the bidder should not have been blacklisted by any PSU/financial institution/government organization. 4. The Buyer reserves the right to accept/reject any bid including the lowest bid received through e-bidding process, without assigning any reasons. Required Specifications of GNSS : Sr. N Item Description Parameters o. 1. GNS Receiver Fully independent GNSS satellite tracking systems , communication Bluetooth & Wi-Fi with Integrate d Multi frequency GNSS system 2. Satellite Signals Tracking and Recordin GPS L1, L2, L5 GLONASS L1, L2, L3 Beidou QZSS g Galileo-E1 ES E6 IRNSS L5 L Band (Correction Ser vices) 3. SBAS Technology GAGAN Enable, WAASS, ESMOS, KINEMATIC 4. CORS compatible System should have compatibility with SOI CORS, at the time of data processing (probably real time correction). 5. No. of Channels 500 or more 6. Data Logging Rate 20 Hz or better 7. Static Accuracy Horizontal <5mm + 0.1ppm RMS Vertical <5.5mm + 0.4ppm RMS 8. RTK Accuracy Horizontal <10mm 1ppm RMS Vertical <17mm + 1ppm RMS 9. Initialization Time 10 Seconds or less 10. Receiver Memory Memory 8 GB Internal & External support up to 3 2GB or better 11. Temperature Operating -30 0C to +65 0C",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "Storage -40 0C to +85 0C 12. Humidity 100%, Condensin 13. Ingress Protection IP67 14. Communication 1 Serial/ Power Port/External Radio Modem Port in single housing, Integrated Bluetooth & Wi-Fi, 2US B or more 15. Tilt Compensator IMU Based Tilt compensator for accurate positioni ng Hp 300​ of tilt. 16. Data Format NMEA 0183, RTCM 3.2, RTCM 3.1, CMR & CMR+ 17. Battery Backup 10 hrs or More, Li-ion Hot Swappable battery 18. Controller Operating System Android Latest Version and Upgradable upto Warr anty Period Display 5” or More, Touch screen and Gorilla Glass displa y with proper protection cover Communication Bluetooth, Wi-Fi, USB-3.0 or better type-C. Memory RAM: 8GB, Memory: 64 GB or Better Battery Li-Ion battery and one pair extra Sun Light Display Readable 19 Controller Software Static, Fast Static, RTK, line polygon, area calculat ion, satellite view, PDOP, HDOP etc. Graphical Stake Out Feature Coding Active Background maps inform of JPEG/ TIFF, DX F/DWG and *.shp Import Export to industry standard formats like C SV, DXF and *.shpetc COGO Functionality",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 11,
+      "quote": "Calculation of transformation parameters from poi nt list. 20 Multimedia and Sensor Rear camera 13M Pixels with auto-focus and LED flash Front camera 5M pixels with fixed focus 1. A small forest area field work should be 21. Training conducted jointly for training of RSAC Sta ff. 2. Provide Training and equipment along with m anual. 3. Training by measurement of plot boundaries area and coordinates using CORS Network to t he satisfaction of the user. 4. Geodatic Training with no of days. 22. Cables & Antena Cable 3 to 10 Mtr, Geodatic Antena. 23. Warranty 3 years 24. Field Software With free update up to Warranty Period .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162105"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

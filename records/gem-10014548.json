@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8142858",
   "title": "Immunoassay Analyzer (V3)",
   "description": "Immunoassay Analyzer (V3)",
-  "organisation": "Department of Atomic Energy",
-  "ministry": "PMO",
-  "department": "Department of Atomic Energy",
+  "organisation": "Directorate Of Purchase And Stores",
+  "ministry": "Pmo",
+  "department": "Department Of Atomic Energy",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Immunoassay Analyzer (V3)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-10-26T10:44:01+05:30",
   "closing_at": "2026-11-16T14:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10014548"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/4_sSn2LMtCvmL5YeYmw1EtsdYxw41rUmbEqnmTLX5Uw",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261026",
+      "page": 9
     }
   ],
   "tags": [
@@ -34,5 +49,358 @@
   ],
   "source_fetched_at": "2026-11-12T02:51:23.575Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "office": "Directorate Of Purchase And Stores",
+  "buyer_email": "apob1@nfc.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Certificate (Requested in ATC),Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "90 (Days)",
+  "source_document_fetched_at": "2026-11-14T06:54:58.239595+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "b74bd1fcab41526c2e81a6a069ad08dce6c194e7952bded7ca086e39ffb3f57c",
+  "document_pages": 10,
+  "eligibility": [
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Certificate (Requested in ATC),Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Shanmuga Sundram V",
+      "address": "628152,STORES UNIT ZIRCONIUM COMPLEX P.O. PAZHAYAKAYAL SRIVAIKUNDAM TALUK",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 60
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Type of Automation",
+          "value": "Semi automated"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Throughput of the system per hour",
+          "value": "? 50"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Sample Loading Capacity at a time",
+          "value": "? 10"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Type of samples",
+          "value": "Serum, Plasma, Whole blood, Urine"
+        },
+        {
+          "group": "Test Menu",
+          "parameter": "Cardiac Markers",
+          "value": "Yes"
+        },
+        {
+          "group": "Test Menu",
+          "parameter": "Tests which can be performed by Cardiac Markers",
+          "value": "CK-MB, Troponin I / Troponin-T, NT-proBNP, D-Dimer"
+        },
+        {
+          "group": "Test Menu",
+          "parameter": "Infectious Bio Markers",
+          "value": "No"
+        },
+        {
+          "group": "Test Menu",
+          "parameter": "Tests which can be performed by Bio Markers",
+          "value": "NA"
+        },
+        {
+          "group": "Test Menu",
+          "parameter": "Tumor Markers",
+          "value": "No"
+        },
+        {
+          "group": "Test Menu",
+          "parameter": "Tests which can be performed by Tumor Markers",
+          "value": "NA"
+        },
+        {
+          "group": "Test Menu",
+          "parameter": "Anemia profile",
+          "value": "Yes"
+        },
+        {
+          "group": "Test Menu",
+          "parameter": "Tests which can be performed by Anemia profile",
+          "value": "Ferritin"
+        },
+        {
+          "group": "Test Menu",
+          "parameter": "Bone Metabolism",
+          "value": "Yes"
+        },
+        {
+          "group": "Test Menu",
+          "parameter": "Tests which can be performed by Bone metabolism",
+          "value": "25-OH Vitamin D"
+        },
+        {
+          "group": "Test Menu",
+          "parameter": "Thyroid profile",
+          "value": "Yes"
+        },
+        {
+          "group": "Test Menu",
+          "parameter": "Tests which can be performed by thyroid profile",
+          "value": "TSH, T4, T3, FT4, FT3"
+        },
+        {
+          "group": "Test Menu",
+          "parameter": "Infertility",
+          "value": "Yes"
+        },
+        {
+          "group": "Test Menu",
+          "parameter": "Tests which can be performed for infertility",
+          "value": "FSH, LH, HCG/ß-HCG, Estradiol, Testosterone, AMH"
+        },
+        {
+          "group": "Test Menu",
+          "parameter": "Infectious Test",
+          "value": "No"
+        },
+        {
+          "group": "Test Menu",
+          "parameter": "Tests which can be performed for Infectious Test",
+          "value": "NA"
+        },
+        {
+          "group": "Test Menu",
+          "parameter": "Dual, Triple or Quad prenatal screening tests",
+          "value": "No"
+        },
+        {
+          "group": "Test Menu",
+          "parameter": "Tests which can be performed for prenatal screening",
+          "value": "NA"
+        },
+        {
+          "group": "Test Menu",
+          "parameter": "Liver Fibrosis Tests",
+          "value": "No"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Tests which can be performed for Liver Fibrosis",
+          "value": "NA"
+        },
+        {
+          "group": null,
+          "parameter": "Alzheimer Screening",
+          "value": "No"
+        },
+        {
+          "group": null,
+          "parameter": "Tests which can be performed for Alzheimer Screening",
+          "value": "NA"
+        },
+        {
+          "group": null,
+          "parameter": "Neuro Markers",
+          "value": "No"
+        },
+        {
+          "group": null,
+          "parameter": "Tests which can be performed for Neuro Markers",
+          "value": "NA"
+        },
+        {
+          "group": null,
+          "parameter": "Immuno Suppressive drugs",
+          "value": "No"
+        },
+        {
+          "group": null,
+          "parameter": "Tests which can be performed for Immuno Suppressive drugs",
+          "value": "NA"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods"
+    },
+    {
+      "page": 7,
+      "text": "2. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 3. Warranty Warranty period of the supplied products shall be 2 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 4. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses FILE NO :- DPS/HRPU/NFC/B1/2035 1) Quoted prices should be inclusive of full ’GST’. 2) Post Supply Inspection \"Post Supply Inspection in respect of supplies made is not permitted. Any offer containing t he condition of Post Supply Inspection will out-rightly rejected. It is therefore, mandatory f or the bidders, while quoting, to indicate in clear terms the requirement of Post Supply Insp ection by any outside agency. \" 3) CONSIGNEE LOCATION PAZHAYAKAYAL, TAMILNADU. Delivery Instructions for facilitating smooth receipt of material 1. Delivery Timings &amp; Working Hours: a. ZC, Pazhayakayal works for 6 days in a Week (Every Sunday &amp; Second Monday are holidays). b. Material delivery can be accepted only in working days (Monday-Saturday, excluding Pub lic Holidays) between 09:00 Hrs., to 15:00 Hrs. c. Supplier/Transporter should report at ZC, Pazhayakayal well in time, so as to complete th e security checks and deliver the material as per the schedule. 2. No stores shall be accepted by the Store keeper (Receipt and Inspection) unless delivery challan giving full details of the Contract Number and Date and Description of Stores, Quan tity, Make, Unit, Gross Weight Tare Weight are submitted with the stores. In the absence of any of the above, the Store Keeper (Receipt and Inspection) shall refuse to take delivery of the stores. The supplier should submit the warranty/ guarantee card/certificate along with t he Delivery Challan in whichever case it is applicable while effecting delivery of item. 3. The Packages should be securely packed and details regarding Purchase Order/GeM Con tract reference, complete address of Consignor/Consignee (with Contact details) should be clearly marked on all the packages. 4. When dispatching multiple orders, material of each order should be packed in separate p ackage, and details regarding Order reference should be clearly marked. 5. OTP based deliveries are not possible inside DAE Units. Hence dispatch of material shall"
+    },
+    {
+      "page": 8,
+      "text": "be through standard transporters, WITHOUT OTP. 6. In the event of dispatch through Speed Post, the date of actual delivery/physical collectio n will be considered as Delivery Date. 7. The personnel accompanying the supply for unloading (visiting NFC) should carry valid or iginal Govt ID Proof and details of the personnel &amp; their ID proofs should be sent in ad vance to the consignee, for arranging entry permit. 8. Drivers should carry original valid Transport Driving License and Vehicles should possess all the required valid Original Road Documents, such as RC, Insurance, Fitness and etc., oth erwise the vehicles will not be permitted inside plant for delivery. 9. Prior intimation/communication has to be sent to the consignee, immediately after dispat ch, with complete details of material including Purchase Order/GeM Contract Number, No o f Packages, Volume &amp; weight and contact details of transporter/driver by email, witho ut fail. 10. Supply shall be made in single lot/pro-rata as indicated in the tender enquiry. 11. Contact Details for advance intimation regarding delivery: i. Email-IDs: zc.aso@nfc.gov.in ii. Tel Nos: 0461 2276058 / 73 / 74 GAS SECTION – mail id – asos@nfc.gov.in CONTACT NO . - 040-27184407 ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8142858",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10014548"
+    },
+    {
+      "field": "document_closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 09-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10014548"
+    },
+    {
+      "field": "document_opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 10-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10014548"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10014548"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Pmo",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10014548"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Atomic Energy",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10014548"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Directorate Of Purchase And Stores",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10014548"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Directorate Of Purchase And Stores",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10014548"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :hod_dps_gem@dpsdae.gov.in Buyer Email id: apob1@nfc.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10014548"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10014548"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Immunoassay Analyzer (V3) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10014548"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10014548"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10014548"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Certificate (Requested in ATC),Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10014548"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10014548"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10014548"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10014548"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Type of Automation: Semi automated | Throughput of the system per hour: ? 50 | Sample Loading Capacity at a time: ? 10 | Type of samples: Serum, Plasma, Whole blood, Urine | Cardiac Markers: Yes | Tests which can be performed by Cardiac Markers: CK-MB, Troponin I / Troponin-T, NT-proBNP, D-Dimer | Infectious Bio Markers: No | Tests which can be performed by Bio Markers: NA | Tumor Markers: No | Tests which can be performed by Tumor Markers: NA | Anemia profile: Yes | Tests which can be performed by Anemia profile: Ferritin | Bone Metabolism: Yes | Tests which can be performed by Bone metabolism: 25-OH Vitamin D | Thyroid profile: Yes | Tests which can be performed by thyroid profile: TSH, T4, T3, FT4, FT3 | Infertility: Yes | Tests which can be performed for infertility: FSH, LH, HCG/ß-HCG, Estradiol, Testosterone, AMH | Infectious Test: No | Tests which can be performed for Infectious Test: NA | Dual, Triple or Quad prenatal screening tests: No | Tests which can be performed for prenatal screening: NA | Liver Fibrosis Tests: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10014548"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Tests which can be performed for Liver Fibrosis: NA | Alzheimer Screening: No | Tests which can be performed for Alzheimer Screening: NA | Neuro Markers: No | Tests which can be performed for Neuro Markers: NA | Immuno Suppressive drugs: No | Tests which can be performed for Immuno Suppressive drugs: NA",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10014548"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Shanmuga Sundram V | 628152,STORES UNIT ZIRCONIUM COMPLEX P.O. PAZHAYAKAYAL SRIVAIKUNDAM TALUK | 1 | 60",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10014548"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10014548"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "2. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 3. Warranty Warranty period of the supplied products shall be 2 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 4. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses FILE NO :- DPS/HRPU/NFC/B1/2035 1) Quoted prices should be inclusive of full ’GST’. 2) Post Supply Inspection \"Post Supply Inspection in respect of supplies made is not permitted. Any offer containing t he condition of Post Supply Inspection will out-rightly rejected. It is therefore, mandatory f or the bidders, while quoting, to indicate in clear terms the requirement of Post Supply Insp ection by any outside agency. \" 3) CONSIGNEE LOCATION PAZHAYAKAYAL, TAMILNADU. Delivery Instructions for facilitating smooth receipt of material 1. Delivery Timings &amp; Working Hours: a. ZC, Pazhayakayal works for 6 days in a Week (Every Sunday &amp; Second Monday are holidays). b. Material delivery can be accepted only in working days (Monday-Saturday, excluding Pub lic Holidays) between 09:00 Hrs., to 15:00 Hrs. c. Supplier/Transporter should report at ZC, Pazhayakayal well in time, so as to complete th e security checks and deliver the material as per the schedule. 2. No stores shall be accepted by the Store keeper (Receipt and Inspection) unless delivery challan giving full details of the Contract Number and Date and Description of Stores, Quan tity, Make, Unit, Gross Weight Tare Weight are submitted with the stores. In the absence of any of the above, the Store Keeper (Receipt and Inspection) shall refuse to take delivery of the stores. The supplier should submit the warranty/ guarantee card/certificate along with t he Delivery Challan in whichever case it is applicable while effecting delivery of item. 3. The Packages should be securely packed and details regarding Purchase Order/GeM Con tract reference, complete address of Consignor/Consignee (with Contact details) should be clearly marked on all the packages. 4. When dispatching multiple orders, material of each order should be packed in separate p ackage, and details regarding Order reference should be clearly marked. 5. OTP based deliveries are not possible inside DAE Units. Hence dispatch of material shall",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10014548"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "be through standard transporters, WITHOUT OTP. 6. In the event of dispatch through Speed Post, the date of actual delivery/physical collectio n will be considered as Delivery Date. 7. The personnel accompanying the supply for unloading (visiting NFC) should carry valid or iginal Govt ID Proof and details of the personnel &amp; their ID proofs should be sent in ad vance to the consignee, for arranging entry permit. 8. Drivers should carry original valid Transport Driving License and Vehicles should possess all the required valid Original Road Documents, such as RC, Insurance, Fitness and etc., oth erwise the vehicles will not be permitted inside plant for delivery. 9. Prior intimation/communication has to be sent to the consignee, immediately after dispat ch, with complete details of material including Purchase Order/GeM Contract Number, No o f Packages, Volume &amp; weight and contact details of transporter/driver by email, witho ut fail. 10. Supply shall be made in single lot/pro-rata as indicated in the tender enquiry. 11. Contact Details for advance intimation regarding delivery: i. Email-IDs: zc.aso@nfc.gov.in ii. Tel Nos: 0461 2276058 / 73 / 74 GAS SECTION – mail id – asos@nfc.gov.in CONTACT NO . - 040-27184407 .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10014548"
+    }
+  ],
+  "detail_warning": "The original PDF dates differ from the current public GeM listing. The listing closing date is retained. Confirm the latest opening date and any corrigenda on GeM; the original PDF opening date is not presented as current.",
+  "document_closing_at": "2026-11-09T14:00:00+05:30",
+  "document_opening_at": "2026-11-10T14:00:00+05:30",
+  "date_discrepancy": {
+    "listing_closing_at": "2026-11-16T14:00:00+05:30",
+    "document_closing_at": "2026-11-09T14:00:00+05:30",
+    "document_opening_at": "2026-11-10T14:00:00+05:30"
+  }
 }

@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8141705",
   "title": "Forklifts (V2) as per IS 6765:2003 and IS 10517",
   "description": "Forklifts (V2) as per IS 6765:2003 and IS 10517",
-  "organisation": "Power Department Delhi",
-  "ministry": "",
+  "organisation": "N/a",
+  "ministry": "Delhi",
   "department": "Power Department Delhi",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Forklifts (V2) as per IS 6765:2003 and IS 10517",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 24700,
   "published_at": "2026-10-23T16:31:45+05:30",
   "closing_at": "2026-11-18T11:00:00+05:30",
   "status": "active",
@@ -27,6 +27,16 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10013152"
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Lcyu0N0fDNRJJJuMCN3AVBkeD5HwDBK669e7zJOmfHs",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261023",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +44,255 @@
   ],
   "source_fetched_at": "2026-11-12T08:31:51.069Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-19T11:00:00+05:30",
+  "office": "Ppcl",
+  "buyer_email": "pkrai@ipgcl-ppcl.nic.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 24,
+  "offer_validity": "120 (Days)",
+  "source_document_fetched_at": "2026-11-14T07:41:52.616670+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "545de4c45861733e9d88c13f29f8abbd9afddcb3c8138ee611ff162a066b8b73",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Sunil Kumar",
+      "address": "110039,PRAGATI III, PRAGATI POWER CORPORATION LIMITED, SECOTR V, DSIIDC BAWANA INDUSTRIAL AREA, BAWANA, DELHI - 110039",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "GENERIC",
+          "parameter": "Operating Mode",
+          "value": "Battery Operated"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Battery Type",
+          "value": "Lead Acid Battery"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Tonnage Capacity (ton)",
+          "value": "1.5, 2, 3, 4, 5, 6, 8, 10, 12 Or higher"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Standard Load Centre Distance",
+          "value": "DH/DV for Forklift up to 4000 Kg 500/500mm"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Transmission",
+          "value": "NA for Electric Operated"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Type of Drive",
+          "value": "Single(two tyres in the front)"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Rating of Traction Battery (KW/H)",
+          "value": "For 3000 Kg Capacity, Battery Operated Forklift ? 23 KW/H"
+        },
+        {
+          "group": "CONSTRUCTIONAL",
+          "parameter": "Type of Motor",
+          "value": "AC"
+        },
+        {
+          "group": "CONSTRUCTIONAL",
+          "parameter": "Max Engine HP Range at Rated RPM (hp)",
+          "value": "<=50, >50, NA"
+        },
+        {
+          "group": "CONSTRUCTIONAL",
+          "parameter": "Engine Cooling System",
+          "value": "NA for Battery Operated"
+        },
+        {
+          "group": "CONSTRUCTIONAL",
+          "parameter": "Forklift Gradeability (%)",
+          "value": "<=21, >21"
+        },
+        {
+          "group": "CONSTRUCTIONAL",
+          "parameter": "AC Traction Motor Capacity (Kw)",
+          "value": "<=12, >12"
+        },
+        {
+          "group": "CONSTRUCTIONAL",
+          "parameter": "Tyre Type",
+          "value": "Solid"
+        },
+        {
+          "group": "Dimensions",
+          "parameter": "Lift Height (metres)",
+          "value": "3 to 3.8 meters, 4 to 4.5 meters, 5 to 6 meters"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. INSPECTION: Joint inspection shall be carried out at PPCL Bawana Store by PPCL authorities along with the Vendor's Commissioning Team after delivery of the material at PPS-III, Bawana Store. A successful trail shall be taken in presence of PPCL & Seller at PPS-III, Bawana 2. Guarantee/Warranty: 18 months/12 months from the date of supply/use which ever is earlier against manufacturing defects/poor workmanship etc. 3. Test Certificate: Successful bidder shall provide its own certified Load Test Certificate for the supplied material/equipment. 4. DELIVERY PERIOD: 4 months from the date of award of GeM contract 5. PBG: Applicable as per GeM E-PBG @ 5% with validity 24 months 6. Secuirity Deposit: SD clause applicable as per NIT which is @5% of GeM PO/contract value and shall b e released after successful completion of PO. This SD is applicable in addition to E-PBG in e-PBG details tab in GeM bid. 7. EMD: Applicable Rs. 24,700.00 in favor of PPCL. Exemption from Earnest Money Deposit (EMD) shall be extended only to those MSME vendors who are registered under the Manufacturer category as Micro or Sm all Enterprises (MSEs) and whose Udyam Registration is relevant to the scope of the tender. Vendors regist ered under the Trading category shall not be eligible for EMD exemption in service tenders. 8. Sellers/Bidders are advised not to participate in the bid from the same IP addresses. Bid of different v endors received from same IP address will not be considered and bid shall be out rightly reject ed for this tender. No further communication will be made in this regard ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8141705",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10013152"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 18-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10013152"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 19-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10013152"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10013152"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Delhi",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10013152"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Power Department Delhi",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10013152"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: N/a",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10013152"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Ppcl",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10013152"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :vineetgupta@ipgcl-ppcl.nic.in Buyer Email id: pkrai@ipgcl-ppcl.nic.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10013152"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10013152"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Forklifts (V2) as per IS 6765:2003 and IS 10517 (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10013152"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10013152"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10013152"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10013152"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 24700",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10013152"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 24700",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10013152"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10013152"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 24",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10013152"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 2,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10013152"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Operating Mode: Battery Operated | Battery Type: Lead Acid Battery | Tonnage Capacity (ton): 1.5, 2, 3, 4, 5, 6, 8, 10, 12 Or higher | Standard Load Centre Distance: DH/DV for Forklift up to 4000 Kg 500/500mm | Transmission: NA for Electric Operated | Type of Drive: Single(two tyres in the front) | Rating of Traction Battery (KW/H): For 3000 Kg Capacity, Battery Operated Forklift ? 23 KW/H | Type of Motor: AC | Max Engine HP Range at Rated RPM (hp): <=50, >50, NA | Engine Cooling System: NA for Battery Operated | Forklift Gradeability (%): <=21, >21 | AC Traction Motor Capacity (Kw): <=12, >12 | Tyre Type: Solid | Lift Height (metres): 3 to 3.8 meters, 4 to 4.5 meters, 5 to 6 meters",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10013152"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Sunil Kumar | 110039,PRAGATI III, PRAGATI POWER CORPORATION LIMITED, SECOTR V, DSIIDC BAWANA INDUSTRIAL AREA, BAWANA, DELHI - 110039 | 1 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10013152"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. INSPECTION: Joint inspection shall be carried out at PPCL Bawana Store by PPCL authorities along with the Vendor's Commissioning Team after delivery of the material at PPS-III, Bawana Store. A successful trail shall be taken in presence of PPCL & Seller at PPS-III, Bawana 2. Guarantee/Warranty: 18 months/12 months from the date of supply/use which ever is earlier against manufacturing defects/poor workmanship etc. 3. Test Certificate: Successful bidder shall provide its own certified Load Test Certificate for the supplied material/equipment. 4. DELIVERY PERIOD: 4 months from the date of award of GeM contract 5. PBG: Applicable as per GeM E-PBG @ 5% with validity 24 months 6. Secuirity Deposit: SD clause applicable as per NIT which is @5% of GeM PO/contract value and shall b e released after successful completion of PO. This SD is applicable in addition to E-PBG in e-PBG details tab in GeM bid. 7. EMD: Applicable Rs. 24,700.00 in favor of PPCL. Exemption from Earnest Money Deposit (EMD) shall be extended only to those MSME vendors who are registered under the Manufacturer category as Micro or Sm all Enterprises (MSEs) and whose Udyam Registration is relevant to the scope of the tender. Vendors regist ered under the Trading category shall not be eligible for EMD exemption in service tenders. 8. Sellers/Bidders are advised not to participate in the bid from the same IP addresses. Bid of different v endors received from same IP address will not be considered and bid shall be out rightly reject ed for this tender. No further communication will be made in this regard .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10013152"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

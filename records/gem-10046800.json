@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8171097",
   "title": "Forklifts (V2) as per IS 6765:2003 and IS 10517",
   "description": "Forklifts (V2) as per IS 6765:2003 and IS 10517",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "South Central Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Forklifts (V2) as per IS 6765:2003 and IS 10517",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 36210,
   "published_at": "2026-10-24T13:06:49+05:30",
   "closing_at": "2026-11-16T13:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10046800"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/PPel7MKCcd9sUAIMRXUyhtfKMR6uywQIk6JMN2dmCPg",
+      "page": 4
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8171097/CLM0010/ATC_FKLT_7800ea28-6ed2-4ad4-abf11792823564644_dycmmmnelgd.pdf",
+      "page": 8
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261024",
+      "page": 9
     }
   ],
   "tags": [
@@ -34,5 +54,278 @@
   ],
   "source_fetched_at": "2026-11-12T02:39:07.828Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-17T13:00:00+05:30",
+  "office": "Principal Chief Material Manager Secunderabad",
+  "buyer_email": "a.vsskumar@gov.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "90 (Days)",
+  "estimated_bid_value": 1810200,
+  "source_document_fetched_at": "2026-11-14T07:25:02.164117+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "08d318e205f3d6be274e55cce10719bcb24bfd1ddd452e847de06efbfa153053",
+  "document_pages": 9,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Angirekula Venkata Sai Sravan Kumar",
+      "address": "500017,GSTIN Number: 36AAAGM0289C1ZK, Office of the Dy.Chief Materials Manager, Mechanical and Electrical Depot, Besides Carriage Workshop Lallaguda, South Central Railways, Secunderabad. Email id: dycmmlgd.scr@gmail.com, Ph No.9701370777.",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 90
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "GENERIC",
+          "parameter": "Operating Mode",
+          "value": "Battery Operated"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Battery Type",
+          "value": "Lead Acid Battery"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Tonnage Capacity (ton)",
+          "value": "3, 4, 5, 6, 8, 10, 12 Or higher"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Standard Load Centre Distance",
+          "value": "DH/DV for Forklift up to 4000 Kg 500/500mm"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Transmission",
+          "value": "NA for Electric Operated"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Type of Drive",
+          "value": "Single(two tyres in the front)"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Rating of Traction Battery (KW/H)",
+          "value": "For 3000 Kg Capacity, Battery Operated Forklift ? 23 KW/H"
+        },
+        {
+          "group": "CONSTRUCTIONAL",
+          "parameter": "Type of Motor",
+          "value": "AC"
+        },
+        {
+          "group": "CONSTRUCTIONAL",
+          "parameter": "Max Engine HP Range at Rated RPM (hp)",
+          "value": "NA"
+        },
+        {
+          "group": "CONSTRUCTIONAL",
+          "parameter": "Capacity for AC Motor Pump, (Kw)",
+          "value": "<=12, >12"
+        },
+        {
+          "group": "CONSTRUCTIONAL",
+          "parameter": "AC motor Operating Voltage",
+          "value": "80V"
+        },
+        {
+          "group": "CONSTRUCTIONAL",
+          "parameter": "Tyre Type",
+          "value": "Solid"
+        },
+        {
+          "group": "Dimensions",
+          "parameter": "Lifting Stages",
+          "value": "3"
+        },
+        {
+          "group": "Dimensions",
+          "parameter": "Lift Height (metres)",
+          "value": "4 to 4.5 meters"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Item Description: Supply, installation and commissioning of Battery-operated Fork Lifter, Capacity- min.3000 Kg, Lift height 4 - 4.5 MTR or more, NOTE: Supply as per attached specification Annexure at ATC. Required Make/Model:- JOSTS (OR) GODREJ (OR)VOLTAS ONLY"
+    },
+    {
+      "page": 6,
+      "text": "BID ELIGIBITY CRITERIA CONDITIONS: 1. Must be an OEM/OEM Authorized dealer, duly enclosing Tender Specific Authorization certificate from OEM. 2. Past Performance: The tenderer with past performance of satisfa ctory execution of contracts to SC Railway, or Other Zonal Railways/PU' s/Other State Government Sectors. for supply of the same / similar ite ms during last three years prior to, and excluding tender opening date may be considered as responsive to SC Railways requirements for plac ement of bulk and regular order. Tenderers are requested to submit the past performance report such a s Copies of R Notes/CRAC/Proof of acceptance of material by consignee etc. along with their offer; failing which offer will be summarily rejecte d without making any back reference. However, in cases where the ten derers are having satisfactory past supply performances of tendered it ems for stock items with SCR, the supply performance data available in IMMS with SCR shall be taken into consideration while evaluating the o ffers of the tenderers. 3. In case, the tenderer participates as an authorized dealer, th en the performance as required above shall be that of Principal (OEM) authorizing the agent or bidder for the same OEM. It may so happen th at the agent/dealer has credentials of past supply for a different Princi pal/ OEM, then it will not be considered as performance. For Authorized dealer, tender specific authorization from OEM has to be uploaded with bid failing which offer will not be considered. 4. The tenderers shall submit a copy of certificate stating that all their statements/ documents submitted along with bid are true and fac tual. Standard format of certificate to be submitted by the bidd er is enclosed as Annexure-l. Non submission of above certifica te by the bidder shall result in summary rejection of his/ their bid. It shall be mandatorily incumbent upon the tenderer to identify, st ate and submit the supporting documents duly self-attested/ digitally s igned by which they/ he is qualifying the Qualifying Criteria mentioned in the Tender Document. It will not be obligatory on the part of Tender Committee/ Accepting Authority to scrutinize beyond the submitted do cument of tenderer as far as his qualification for the tender is concerne d."
+    },
+    {
+      "page": 7,
+      "text": "NOTE (1): 1). Only specific values are required to be filled in the firm's offer, If th e detailed offered specification against each required parameter as per specification annexure is not provided in the bid, then the offer will be considered as unsuitable. 2). Mentioning \"OK/COMPLIED/YES/PROVIDED\" etc. or leaving blanks agains t the parameters above will be considered ambiguous and such offers will be considered as unsuitable 3). Firm must upload their offered product model number with detailed specification; otherwise, the offer will be considered as unsuitable. NOTE (2): TENDERER SHOULD SUBMIT CLEAR COMPLIANCE STATEMENT FOR THE TENDERED SPECIFICATION. CLAUSE BY CLAUSE DEVIATIONS SHOULD B E CLEARLY BROUGHT OUT AND COMMENTED. OFFERS WITHOUT COMP LIANCE STATEMENT WILL BE SUMMARILY REJECTED. IN CASE OF NO DE VIATION, THE SAME SPECIFICATION SHOULD BE ATTACHED WITH THE OFFER DULY SIGNED & STAMPED, FAILING WHICH THE OFFER WILL NO T BE CONSIDERED FOR EVALUATION. THE PRODUCT CATALOGUE WILL NOT BE CONSIDERED FOR TECHNICAL EVALUATION OF THE TENDERED ITEM. :​ SPECIAL CONDITIONS 1. S V Clause applicable. 2.Inspection: TPI (Third Party Inspection) 3. Payment Terms: 80% payment shall be made on receipt of the Ma terials in satisfactory condition, against supplier's challan certified by c onsignee gazetted officer, and inspection certificate issued by the nom inated inspection agency. Balance 20% payment shall be made after s uccessful installation, commissioning and acceptance of the equipment by consignee subject to submission of Bank Guarantee for 10% of the contract value for warranty obligations, valid beyond 6 mon ths period of warranty.\" 4. Delivery: Must be delivered free of cost at consignee location, withi n 90 days from the release of Contract. NOTE: Firm shall ensure to supply on priority basis 5.WARRANTY: As mentioned in the Specification Annexure copy @ Bu yer added ATC."
+    },
+    {
+      "page": 8,
+      "text": "6. ALL PARAMETERS AS PER THE ENCLOSED SPECIFICATION ANNEX URE, M&P CONDITIONS @ BUYER ADDED ATC, MUST COVER. 7. If any condition mentioned in GeM which is contradicting with the co ndition mentioned in ATC, then condition mentioned in ATC will prevail. . 3. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8171097",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10046800"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 16-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10046800"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 17-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10046800"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10046800"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10046800"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10046800"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: South Central Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10046800"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Principal Chief Material Manager Secunderabad",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10046800"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :dycmmic@scr.railnet.gov.in Buyer Email id: a.vsskumar@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10046800"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10046800"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Forklifts (V2) as per IS 6765:2003 and IS 10517 (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10046800"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10046800"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10046800"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10046800"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 1810200",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10046800"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 36210",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10046800"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 36210",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10046800"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 2,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10046800"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Operating Mode: Battery Operated | Battery Type: Lead Acid Battery | Tonnage Capacity (ton): 3, 4, 5, 6, 8, 10, 12 Or higher | Standard Load Centre Distance: DH/DV for Forklift up to 4000 Kg 500/500mm | Transmission: NA for Electric Operated | Type of Drive: Single(two tyres in the front) | Rating of Traction Battery (KW/H): For 3000 Kg Capacity, Battery Operated Forklift ? 23 KW/H | Type of Motor: AC | Max Engine HP Range at Rated RPM (hp): NA | Capacity for AC Motor Pump, (Kw): <=12, >12 | AC motor Operating Voltage: 80V | Tyre Type: Solid | Lifting Stages: 3 | Lift Height (metres): 4 to 4.5 meters",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10046800"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Angirekula Venkata Sai Sravan Kumar | 500017,GSTIN Number: 36AAAGM0289C1ZK, Office of the Dy.Chief Materials Manager, Mechanical and Electrical Depot, Besides Carriage Workshop Lallaguda, South Central Railways, Secunderabad. Email id: dycmmlgd.scr@gmail.com, Ph No.9701370777. | 1 | 90",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10046800"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Item Description: Supply, installation and commissioning of Battery-operated Fork Lifter, Capacity- min.3000 Kg, Lift height 4 - 4.5 MTR or more, NOTE: Supply as per attached specification Annexure at ATC. Required Make/Model:- JOSTS (OR) GODREJ (OR)VOLTAS ONLY",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10046800"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "BID ELIGIBITY CRITERIA CONDITIONS: 1. Must be an OEM/OEM Authorized dealer, duly enclosing Tender Specific Authorization certificate from OEM. 2. Past Performance: The tenderer with past performance of satisfa ctory execution of contracts to SC Railway, or Other Zonal Railways/PU' s/Other State Government Sectors. for supply of the same / similar ite ms during last three years prior to, and excluding tender opening date may be considered as responsive to SC Railways requirements for plac ement of bulk and regular order. Tenderers are requested to submit the past performance report such a s Copies of R Notes/CRAC/Proof of acceptance of material by consignee etc. along with their offer; failing which offer will be summarily rejecte d without making any back reference. However, in cases where the ten derers are having satisfactory past supply performances of tendered it ems for stock items with SCR, the supply performance data available in IMMS with SCR shall be taken into consideration while evaluating the o ffers of the tenderers. 3. In case, the tenderer participates as an authorized dealer, th en the performance as required above shall be that of Principal (OEM) authorizing the agent or bidder for the same OEM. It may so happen th at the agent/dealer has credentials of past supply for a different Princi pal/ OEM, then it will not be considered as performance. For Authorized dealer, tender specific authorization from OEM has to be uploaded with bid failing which offer will not be considered. 4. The tenderers shall submit a copy of certificate stating that all their statements/ documents submitted along with bid are true and fac tual. Standard format of certificate to be submitted by the bidd er is enclosed as Annexure-l. Non submission of above certifica te by the bidder shall result in summary rejection of his/ their bid. It shall be mandatorily incumbent upon the tenderer to identify, st ate and submit the supporting documents duly self-attested/ digitally s igned by which they/ he is qualifying the Qualifying Criteria mentioned in the Tender Document. It will not be obligatory on the part of Tender Committee/ Accepting Authority to scrutinize beyond the submitted do cument of tenderer as far as his qualification for the tender is concerne d.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10046800"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "NOTE (1): 1). Only specific values are required to be filled in the firm's offer, If th e detailed offered specification against each required parameter as per specification annexure is not provided in the bid, then the offer will be considered as unsuitable. 2). Mentioning \"OK/COMPLIED/YES/PROVIDED\" etc. or leaving blanks agains t the parameters above will be considered ambiguous and such offers will be considered as unsuitable 3). Firm must upload their offered product model number with detailed specification; otherwise, the offer will be considered as unsuitable. NOTE (2): TENDERER SHOULD SUBMIT CLEAR COMPLIANCE STATEMENT FOR THE TENDERED SPECIFICATION. CLAUSE BY CLAUSE DEVIATIONS SHOULD B E CLEARLY BROUGHT OUT AND COMMENTED. OFFERS WITHOUT COMP LIANCE STATEMENT WILL BE SUMMARILY REJECTED. IN CASE OF NO DE VIATION, THE SAME SPECIFICATION SHOULD BE ATTACHED WITH THE OFFER DULY SIGNED & STAMPED, FAILING WHICH THE OFFER WILL NO T BE CONSIDERED FOR EVALUATION. THE PRODUCT CATALOGUE WILL NOT BE CONSIDERED FOR TECHNICAL EVALUATION OF THE TENDERED ITEM. :​ SPECIAL CONDITIONS 1. S V Clause applicable. 2.Inspection: TPI (Third Party Inspection) 3. Payment Terms: 80% payment shall be made on receipt of the Ma terials in satisfactory condition, against supplier's challan certified by c onsignee gazetted officer, and inspection certificate issued by the nom inated inspection agency. Balance 20% payment shall be made after s uccessful installation, commissioning and acceptance of the equipment by consignee subject to submission of Bank Guarantee for 10% of the contract value for warranty obligations, valid beyond 6 mon ths period of warranty.\" 4. Delivery: Must be delivered free of cost at consignee location, withi n 90 days from the release of Contract. NOTE: Firm shall ensure to supply on priority basis 5.WARRANTY: As mentioned in the Specification Annexure copy @ Bu yer added ATC.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10046800"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "6. ALL PARAMETERS AS PER THE ENCLOSED SPECIFICATION ANNEX URE, M&P CONDITIONS @ BUYER ADDED ATC, MUST COVER. 7. If any condition mentioned in GeM which is contradicting with the co ndition mentioned in ATC, then condition mentioned in ATC will prevail. . 3. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10046800"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

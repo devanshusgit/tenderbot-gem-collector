@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8196927",
   "title": "Silico Manganese",
   "description": "Silico Manganese",
-  "organisation": "Department of Heavy Industry",
-  "ministry": "Ministry of Heavy Industries and Public Enterprises",
-  "department": "Department of Heavy Industry",
+  "organisation": "Heavy Engineering Corporation Limited (hec)",
+  "ministry": "Ministry Of Heavy Industries And Public Enterprises",
+  "department": "Department Of Heavy Industry",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Silico Manganese",
   "quantity": 15,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 30000,
   "published_at": "2026-10-24T16:19:40+05:30",
   "closing_at": "2026-11-14T17:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10076759"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 5
+    },
+    {
+      "name": "Buyer technical specification",
+      "url": "https://mkp.gem.gov.in/catalog_data/catalog_support_document/buyer_documents/1060921/54/78/703/CatalogAttrs/SpecificationDocument/2026/10/24/simn_2026-10-24-12-22-22_832181172b423c734ccd229791c7780c.pdf",
+      "page": 6
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8196927/CLM0010/ATC_75726d06-b1fb-4a93-a3211792838700611_buycon24.heclh.jh.pdf",
+      "page": 10
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261024",
+      "page": 11
     }
   ],
   "tags": [
@@ -34,5 +54,244 @@
   ],
   "source_fetched_at": "2026-11-11T18:53:27.619Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-15T17:00:00+05:30",
+  "office": "Raanchi",
+  "buyer_email": "buycon24.heclh.jh@gembuyer.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 8,
+  "oem_turnover_lakhs": 8,
+  "experience_years": 1,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 12,
+  "offer_validity": "115 (Days)",
+  "source_document_fetched_at": "2026-11-14T07:14:21.008050+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "e81f773f31c24183a53bd31d301046f9d89436c518b728e8565c084f3fcd95c2",
+  "document_pages": 11,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 8 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 8 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 1 Year (s) (GeM PDF, p. 2)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 2)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 2)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 2)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 20 % (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [],
+  "technical_specifications": [],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address Incharge Custody Stores, Foundry Forge Plant, Heavy Engineering Corporation Limited, Dhurwa, Ranchi, Jharkhand-834004"
+    },
+    {
+      "page": 7,
+      "text": ". 3. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 4. Generic Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of technical parameters, the bid is liable for rejection. 5. Generic For hazardous chemical/item, all precautionary measure as per regulation from the point of transportation/ handling/ storage/ safety/ health/ environment to be undertaken/ specified before dispatch. During dispatch, proper symbol for the hazard/ MSDS/ Batch No./ date of manufacturing/ Gross Weight/ Net Weight/ shelf Life etc are to be written/ printed/ pasted on the body of the packing. 6. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 7. Generic Shelf Life: The Product/Spare parts to be supplied as part of the services must have minimum 12 Months Shelf Life. On the date of supply, minimum 12 Months usable shelf life should be available / balance. 8. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 9. Generic 1. The Seller shall not assign the Contract in whole or part without obtaining the prior written consent of buyer. 2. The Seller shall not sub-contract the Contract in whole or part to any entity without obtaining the prior written consent of buyer. 3. The Seller shall, notwithstanding the consent and assignment/sub-contract, remain jointly and severally liable and responsible to buyer together with the assignee/ sub-contractor, for and in respect of the due performance of the Contract and the Sellers obligations there under. 10. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 11. Turnover OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product"
+    },
+    {
+      "page": 8,
+      "text": "during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of CATEGORY RELATED TO primary product having highest bid value should meet this criterion. 12. Turnover Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. 13. Purchase Preference (Centre) Purchase Preference linked with Local Content (PP-LC) Policy: The bid clause regarding “Preference to Make In India products” stands modified in this bid and shall be governed by the PPLC Policy No. FP-20013/2/2017-FP-PNG dated 17.11.2020 issued by MoP&NG as amended up to date. Accordingly, bidders with Local Content less than or equal to 20% will be treated as “Non Local Supplier”. The prescribed LC shall be applicable on the date of Bid opening. Sanctions on the bidders for false / wrong declaration or not fulfilling the Local Content requirement shall be as per the PPLC policy. Further following additional provisions are added in the certification and verification of local content provision of the Preference to Make in India clause: i. In case of foreign bidder, certificate from the statutory auditor or cost auditor of their own office or subsidiary in India giving the percentage of local content is also acceptable. In case office or subsidiary in India does not exist or Indian office/subsidiary is not required to appoint statutory auditor or cost auditor, certificate from practicing cost accountant or practicing chartered accountant giving the percentage of local content is also acceptable. ii. Along with Each Invoice: The local content certificate (issued by statutory auditor on behalf of procuring company) shall be submitted along with each invoice raised. However, the % of local content may vary with each invoice while maintaining the overall % of local content for the total work/purchase of the pro-rata local content requirement. In case, it is not satisfied cumulatively in the invoices raised up to that stage, the supplier shall indicate how the local content requirement would be met in the subsequent stages. iii. The bidder shall submit an undertaking from the authorized signatory of bidder having the Power of Attorney along with the bid stating the bidder meets the mandatory minimum LC requirement and such undertaking shall become a part of the contract. 14. Purchase Preference (Centre) Purchase Preference linked with Local Content (PP-LC) Policy: The bid clause regarding “Preference to Make In India products” stands modified in this bid and shall be governed by the PPLC Policy No. FP-20013/2/2017-FP-PNG dated 17.11.2020 issued by MoP&NG as amended up to date. Accordingly, bidders with Local Content less than or equal to 20% will be treated as “Non Local Supplier”. The prescribed LC shall be applicable on the date of Bid opening. Sanctions on the bidders for false / wrong declaration or not fulfilling the Local Content requirement shall be as per the PPLC policy. Further following additional provisions are added in the certification and verification of local content provision of the Preference to Make in India clause: i. In case of foreign bidder, certificate from the statutory auditor or cost auditor of their own office or subsidiary in India giving the percentage of local content is also acceptable. In case office or subsidiary in India does not exist or Indian office/subsidiary is not required to appoint statutory auditor or cost auditor, certificate from practicing cost accountant or practicing chartered accountant giving the percentage of local content is also acceptable. ii. Along with Each Invoice: The local content certificate (issued by statutory auditor on behalf of"
+    },
+    {
+      "page": 9,
+      "text": "procuring company) shall be submitted along with each invoice raised. However, the % of local content may vary with each invoice while maintaining the overall % of local content for the total work/purchase of the pro-rata local content requirement. In case, it is not satisfied cumulatively in the invoices raised up to that stage, the supplier shall indicate how the local content requirement would be met in the subsequent stages. iii. The bidder shall submit an undertaking from the authorized signatory of bidder having the Power of Attorney along with the bid stating the bidder meets the mandatory minimum LC requirement and such undertaking shall become a part of the contract. 15. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 16. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 17. Certificates Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked by Buyer’s Lab & the Results of the Lab will be the Sole Criteria for Acceptance of the Item. 18. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 19. Warranty Warranty period of the supplied products shall be 1 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 20. Forms of EMD and PBG Bidders can also submit the EMD with Account Payee Demand Draft in favour of Heavy Engineering Corporation Limited payable at Ranchi . Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 21. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in favour of Heavy Engineering Corporation Limited, payable at Ranchi . After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of contract. 22. Buyer Added Bid Specific ATC"
+    },
+    {
+      "page": 10,
+      "text": "Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8196927",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10076759"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 14-11-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10076759"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 15-11-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10076759"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 115 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10076759"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Heavy Industries And Public Enterprises",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10076759"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Heavy Industry",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10076759"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Heavy Engineering Corporation Limited (hec)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10076759"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Raanchi",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10076759"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :cmmd.hecl@gembuyer.in Buyer Email id: buycon24.heclh.jh@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10076759"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10076759"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Silico Manganese",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10076759"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 8 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10076759"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 8 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10076759"
+    },
+    {
+      "field": "experience_years",
+      "page": 2,
+      "quote": "Years of Past Experience Required for same/similar service: 1 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10076759"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10076759"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 2,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10076759"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 2,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10076759"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10076759"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 20 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10076759"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10076759"
+    },
+    {
+      "field": "emd_fee",
+      "page": 3,
+      "quote": "EMD Amount: 30000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10076759"
+    },
+    {
+      "field": "emd_required",
+      "page": 3,
+      "quote": "EMD Amount: 30000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10076759"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10076759"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 12",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10076759"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10076759"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address Incharge Custody Stores, Foundry Forge Plant, Heavy Engineering Corporation Limited, Dhurwa, Ranchi, Jharkhand-834004",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10076759"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": ". 3. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 4. Generic Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of technical parameters, the bid is liable for rejection. 5. Generic For hazardous chemical/item, all precautionary measure as per regulation from the point of transportation/ handling/ storage/ safety/ health/ environment to be undertaken/ specified before dispatch. During dispatch, proper symbol for the hazard/ MSDS/ Batch No./ date of manufacturing/ Gross Weight/ Net Weight/ shelf Life etc are to be written/ printed/ pasted on the body of the packing. 6. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 7. Generic Shelf Life: The Product/Spare parts to be supplied as part of the services must have minimum 12 Months Shelf Life. On the date of supply, minimum 12 Months usable shelf life should be available / balance. 8. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 9. Generic 1. The Seller shall not assign the Contract in whole or part without obtaining the prior written consent of buyer. 2. The Seller shall not sub-contract the Contract in whole or part to any entity without obtaining the prior written consent of buyer. 3. The Seller shall, notwithstanding the consent and assignment/sub-contract, remain jointly and severally liable and responsible to buyer together with the assignee/ sub-contractor, for and in respect of the due performance of the Contract and the Sellers obligations there under. 10. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 11. Turnover OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10076759"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of CATEGORY RELATED TO primary product having highest bid value should meet this criterion. 12. Turnover Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. 13. Purchase Preference (Centre) Purchase Preference linked with Local Content (PP-LC) Policy: The bid clause regarding “Preference to Make In India products” stands modified in this bid and shall be governed by the PPLC Policy No. FP-20013/2/2017-FP-PNG dated 17.11.2020 issued by MoP&NG as amended up to date. Accordingly, bidders with Local Content less than or equal to 20% will be treated as “Non Local Supplier”. The prescribed LC shall be applicable on the date of Bid opening. Sanctions on the bidders for false / wrong declaration or not fulfilling the Local Content requirement shall be as per the PPLC policy. Further following additional provisions are added in the certification and verification of local content provision of the Preference to Make in India clause: i. In case of foreign bidder, certificate from the statutory auditor or cost auditor of their own office or subsidiary in India giving the percentage of local content is also acceptable. In case office or subsidiary in India does not exist or Indian office/subsidiary is not required to appoint statutory auditor or cost auditor, certificate from practicing cost accountant or practicing chartered accountant giving the percentage of local content is also acceptable. ii. Along with Each Invoice: The local content certificate (issued by statutory auditor on behalf of procuring company) shall be submitted along with each invoice raised. However, the % of local content may vary with each invoice while maintaining the overall % of local content for the total work/purchase of the pro-rata local content requirement. In case, it is not satisfied cumulatively in the invoices raised up to that stage, the supplier shall indicate how the local content requirement would be met in the subsequent stages. iii. The bidder shall submit an undertaking from the authorized signatory of bidder having the Power of Attorney along with the bid stating the bidder meets the mandatory minimum LC requirement and such undertaking shall become a part of the contract. 14. Purchase Preference (Centre) Purchase Preference linked with Local Content (PP-LC) Policy: The bid clause regarding “Preference to Make In India products” stands modified in this bid and shall be governed by the PPLC Policy No. FP-20013/2/2017-FP-PNG dated 17.11.2020 issued by MoP&NG as amended up to date. Accordingly, bidders with Local Content less than or equal to 20% will be treated as “Non Local Supplier”. The prescribed LC shall be applicable on the date of Bid opening. Sanctions on the bidders for false / wrong declaration or not fulfilling the Local Content requirement shall be as per the PPLC policy. Further following additional provisions are added in the certification and verification of local content provision of the Preference to Make in India clause: i. In case of foreign bidder, certificate from the statutory auditor or cost auditor of their own office or subsidiary in India giving the percentage of local content is also acceptable. In case office or subsidiary in India does not exist or Indian office/subsidiary is not required to appoint statutory auditor or cost auditor, certificate from practicing cost accountant or practicing chartered accountant giving the percentage of local content is also acceptable. ii. Along with Each Invoice: The local content certificate (issued by statutory auditor on behalf of",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10076759"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "procuring company) shall be submitted along with each invoice raised. However, the % of local content may vary with each invoice while maintaining the overall % of local content for the total work/purchase of the pro-rata local content requirement. In case, it is not satisfied cumulatively in the invoices raised up to that stage, the supplier shall indicate how the local content requirement would be met in the subsequent stages. iii. The bidder shall submit an undertaking from the authorized signatory of bidder having the Power of Attorney along with the bid stating the bidder meets the mandatory minimum LC requirement and such undertaking shall become a part of the contract. 15. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 16. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 17. Certificates Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked by Buyer’s Lab & the Results of the Lab will be the Sole Criteria for Acceptance of the Item. 18. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 19. Warranty Warranty period of the supplied products shall be 1 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 20. Forms of EMD and PBG Bidders can also submit the EMD with Account Payee Demand Draft in favour of Heavy Engineering Corporation Limited payable at Ranchi . Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 21. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in favour of Heavy Engineering Corporation Limited, payable at Ranchi . After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of contract. 22. Buyer Added Bid Specific ATC",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10076759"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10076759"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

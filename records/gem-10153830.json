@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8263606",
   "title": "Compressed Helium Gas (V2) Conforming to IS 15583",
   "description": "Compressed Helium Gas (V2) Conforming to IS 15583",
-  "organisation": "Department of Atomic Energy",
-  "ministry": "Department of Atomic Energy",
-  "department": "Department of Atomic Energy",
+  "organisation": "Bhabha Atomic Research Centre",
+  "ministry": "Department Of Atomic Energy",
+  "department": "Department Of Atomic Energy",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Compressed Helium Gas (V2) Conforming to IS 15583",
   "quantity": 28,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-11T15:30:11+05:30",
   "closing_at": "2026-11-23T15:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10153830"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/D9Allye_2llmm1iZh_D6fKjFaXTZ4AmWFSMoeZ4nswM",
+      "page": 3
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8263606/CLM0010/ATC_a10012b8-60f6-4ca6-98421794390488359_NASEEMBARC.pdf",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261111",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +54,222 @@
   ],
   "source_fetched_at": "2026-11-14T19:17:14.039Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-24T15:00:00+05:30",
+  "office": "Mumbai",
+  "buyer_email": "ahmed@barc.gov.in",
+  "emd_required": false,
+  "bidder_turnover_lakhs": 1,
+  "mse_relaxation": "MSE Relaxation for Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Bidder Turnover,Certificate (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-14T22:41:45.877498+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "40ca57e459dedbb2e22f0115f3788e73669c46099e3f12c28cb1b22177dc6f57",
+  "document_pages": 6,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 1 Lakh (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: GeM verified turnover (GeM PDF, p. 1)",
+    "MSE Relaxation for Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Bidder Turnover,Certificate (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Naseem Ahmed Ansari",
+      "address": "400085,BHABHA ATOMIC RESEARCH CENTRE (BARC), CENTRAL COMPLEX, TROMBAY, MUMBAI 400085",
+      "quantity": 28,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Generic",
+          "parameter": "Grade -Designation-Purity of Helium (Percent, Min)",
+          "value": "Grade IV – Helium 4.5 – 99.995%"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Requirements for Compressed Helium",
+          "value": "As per Clause 5 and Table 1 of IS 15583"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Type of Supply",
+          "value": "Bulk Supply (Per-Cubic Meter Price)"
+        },
+        {
+          "group": null,
+          "parameter": "Unit",
+          "value": "Cubic Meter"
+        },
+        {
+          "group": "Certification and Testing",
+          "parameter": "Conformity of the Specification to IS 15583 : 2005",
+          "value": "Yes"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8263606",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153830"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 23-11-2026 15:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153830"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 24-11-2026 15:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153830"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153830"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Department Of Atomic Energy",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153830"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Atomic Energy",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153830"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Bhabha Atomic Research Centre",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153830"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Mumbai",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153830"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :gemcell@barc.gov.in Buyer Email id: ahmed@barc.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153830"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 28",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153830"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Compressed Helium Gas (V2) Conforming to IS 15583 (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153830"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 1 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153830"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: GeM verified turnover",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153830"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153830"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153830"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Bidder Turnover,Certificate (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153830"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153830"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153830"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153830"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Grade -Designation-Purity of Helium (Percent, Min): Grade IV – Helium 4.5 – 99.995% | Requirements for Compressed Helium: As per Clause 5 and Table 1 of IS 15583",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153830"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Type of Supply: Bulk Supply (Per-Cubic Meter Price) | Unit: Cubic Meter | Conformity of the Specification to IS 15583 : 2005: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153830"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Naseem Ahmed Ansari | 400085,BHABHA ATOMIC RESEARCH CENTRE (BARC), CENTRAL COMPLEX, TROMBAY, MUMBAI 400085 | 28 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153830"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10153830"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8268154",
   "title": "Electronic Theodolite",
   "description": "Electronic Theodolite",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "Southern Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Electronic Theodolite",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-12T18:08:57+05:30",
   "closing_at": "2026-11-27T19:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10159002"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/m53bGKX7LX82Pj2qi-LXZs7LlI3sNCNSEi8F73ordGk",
+      "page": 4
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8268154/CLM0010/ATCGEN_1a87c831-cc7f-4e4a-9c391794479517984_dmmpgtgem.docx",
+      "page": 9
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261112",
+      "page": 11
     }
   ],
   "tags": [
@@ -34,5 +54,435 @@
   ],
   "source_fetched_at": "2026-11-14T01:42:35.075Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-28T19:00:00+05:30",
+  "office": "Southern Railway",
+  "buyer_email": "dmm@pgt.railnet.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Past Performance,Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-14T06:01:51.894564+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "31656abd892b03d65b3f46029277883bac92b9114b69e49e445db2017bf65abc",
+  "document_pages": 11,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Past Performance,Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 80 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Prasanth A V",
+      "address": "673001,OFFICE OF THE SENIOR SECTION ENGINEER,Pway, Kozhikode Juntion railway station, Southern Railway, Kozhikode - 673001, Kozhikode, Kerala 673001, Kozhikode, 673001",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "ANGLULAR MEASUREMENT",
+          "parameter": "Method of Angular Measurement",
+          "value": "Absolute"
+        },
+        {
+          "group": "ANGLULAR MEASUREMENT",
+          "parameter": "Units of Angular Measurement, other than degree",
+          "value": "Gon (gradian), Mil (milli radians), V % (Slope)"
+        },
+        {
+          "group": "ANGLULAR MEASUREMENT",
+          "parameter": "Resolution (Least Count) of Angular Measurement",
+          "value": "0.05, 0.1, 0.2, 0.25, 0.5, 1, 2, 2.5, 5, 7.5, 10, 20 (second)"
+        },
+        {
+          "group": "ANGLULAR MEASUREMENT",
+          "parameter": "Accuracy of Angular Measurement (±)",
+          "value": "0.1, 0.2, 0.5, 1, 1.5, 2, 3, 4, 5, 10, 20 Or lower (second)"
+        },
+        {
+          "group": "ANGLULAR MEASUREMENT",
+          "parameter": "Angular Measurement detection method - Horizontal",
+          "value": "Dual Sides"
+        },
+        {
+          "group": "ANGLULAR MEASUREMENT",
+          "parameter": "Angular Measurement detection method - Vertical",
+          "value": "Dual Sides"
+        },
+        {
+          "group": "TELESCOPE",
+          "parameter": "Objective Lens Aperture",
+          "value": "50 Or higher (millimeter)"
+        },
+        {
+          "group": "TELESCOPE",
+          "parameter": "Magnification (in X)",
+          "value": "25, 30, 35, 40, 45, 50 Or higher"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Telescope Resolving power (Angle)",
+          "value": "2.5, 3, 3.5, 4, 4.5 Or lower (second)"
+        },
+        {
+          "group": null,
+          "parameter": "Telescope Field of View",
+          "value": "1?10', 1?20', 1?30', 1?40', 1?50', 2?"
+        },
+        {
+          "group": null,
+          "parameter": "Minimum Focus distance",
+          "value": "0.8, 0.9, 1, 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8 Or lower (meter)"
+        },
+        {
+          "group": null,
+          "parameter": "Reticle illumination",
+          "value": "Yes, No"
+        },
+        {
+          "group": "COMPENSATION",
+          "parameter": "Compensation Range (±)",
+          "value": "Above 3 (minute)"
+        },
+        {
+          "group": "COMPENSATION",
+          "parameter": "Compensator Setting Accuracy",
+          "value": "0.5, 1, 1.5, 2 Or lower (second)"
+        },
+        {
+          "group": "LASER POINTER",
+          "parameter": "Laser Pointer",
+          "value": "Yes, No"
+        },
+        {
+          "group": "LASER POINTER",
+          "parameter": "Laser Range in Daylight(METER)",
+          "value": "25, 50, 75, 100, 125, 150, NA"
+        },
+        {
+          "group": "LASER POINTER",
+          "parameter": "Laser Class",
+          "value": "Class 2, Class 3 A, Class 3 R, NA"
+        },
+        {
+          "group": "PLUMMET",
+          "parameter": "Type of Plummet",
+          "value": "Laser"
+        },
+        {
+          "group": "PLUMMET",
+          "parameter": "Accuracy of Plummet (±)",
+          "value": "0.5, 1, 1.5, 2 Or lower (millimeter)"
+        },
+        {
+          "group": "PLUMMET",
+          "parameter": "Magnification (Optical Plummet)",
+          "value": "2X, 3X, 4X, 5X, 6X, 8X, NA, 15X, 20X, 30X, Others"
+        },
+        {
+          "group": "PLUMMET",
+          "parameter": "Field of View (Optical Plummet) (degrees)",
+          "value": "4?, 5?, 6?, NA"
+        },
+        {
+          "group": "PLUMMET",
+          "parameter": "Class of Laser (Laser Plummet)",
+          "value": "Class 2, Class 3 A, Class 3 R, NA"
+        },
+        {
+          "group": "LEVEL VIAL / BUBBLE SENSTIVITY",
+          "parameter": "Circular Vial (per 2 mm)",
+          "value": "6, 8, 10 (minute)"
+        },
+        {
+          "group": "LEVEL VIAL / BUBBLE SENSTIVITY",
+          "parameter": "Plate / Tubular Vial (per 2 mm)",
+          "value": "20, 30, 40, 50, 60 (second)"
+        },
+        {
+          "group": "DISPLAY / INTERFACE / STORAGE",
+          "parameter": "Display Layout",
+          "value": "On One Side, On Two Side"
+        },
+        {
+          "group": "DISPLAY / INTERFACE / STORAGE",
+          "parameter": "Type of Display",
+          "value": "LCD, Backlit LCD, LED"
+        },
+        {
+          "group": "DISPLAY / INTERFACE / STORAGE",
+          "parameter": "Number of Diplay lines",
+          "value": "1 line, 2 line, 3 line, 4 line"
+        },
+        {
+          "group": "DISPLAY / INTERFACE / STORAGE",
+          "parameter": "Measurement Entry Storage Capability (Data Sets)",
+          "value": "500, 1000, 2000, 5000, 10000, 20000, 30000, 40000, 50000, 0 Or higher"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Tripod",
+          "value": "With"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Type of Tripod",
+          "value": "Metallic"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Number of Tripods inclusive in the scope of supply",
+          "value": "1"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Shock Absorbing Carrying Case with Shoulder Strap",
+          "value": "Yes"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Ingress Protection",
+          "value": "IP 54, IP 55, IP 56, IP 64, IP 65, IP 66"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Tribrach Type",
+          "value": "Fixed, Detachable"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": "BATTERY",
+          "parameter": "Number of Batteries inclusive in the scope of supply",
+          "value": "0, 1, 2, 3, 4, 5, 6, 8, 10 Or higher"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "Battery Operating (Back Up) Time",
+          "value": "4, 5, 6, 8, 10, 12, 16, 20, 24, 30, 36, 48, 60, 90, 120, 150, 180 Or higher (hour)"
+        },
+        {
+          "group": "OPERATING CONDITIONS",
+          "parameter": "Minimum Operating Temperature",
+          "value": "0, -5, -10, -15, -20, -25, -30 Or lower (degree Celsius)"
+        },
+        {
+          "group": "OPERATING CONDITIONS",
+          "parameter": "Maximum Operating Temperature",
+          "value": "50, 55, 60, 65, 70 Or higher (degree Celsius)"
+        },
+        {
+          "group": "OPERATING CONDITIONS",
+          "parameter": "Non Condensing Humidity, Rh @ 40 ?C",
+          "value": "65, 70, 75, 80, 85, 90, 95 Or higher (percent)"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "Warranty",
+          "value": "1, 2, 3, 4, 5 Or higher (year)"
+        },
+        {
+          "group": "CERTIFICATIONS",
+          "parameter": "Availability of Test Reports from Central Govt / NABL approved / ILAC accredited Lab to prove conformity to the specification",
+          "value": "Yes, No"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "ेेतताा ाारराा जजोोड़ड़ गगईई बबडड कक ववशशेषेष शशतत"
+    },
+    {
+      "page": 7,
+      "text": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1.The bidder must submit a compliance for each parameter mentioned in the technical specificati ons mentioned as below (Attached in ATC Document too) with their offer/bid."
+    },
+    {
+      "page": 8,
+      "text": "2. For past performance as mentioned in the bid document: Any credentials of successful executio n of same item or higher end Theodolite contract to Railway/PSU/Central Government or State Gov ernment organization will be considered. Bidder must attach Contract/Purchase order copies along with CRAC/Receipt note/RITES inspection certificate/completion certificate/supportive document to prove the execution of the contract. If the bidder's performance records are available with the Rail ways, the same shall also be taken into consideration for assessing compliance with this criterion. 3. Bidder should attach datasheet/brochure/catalogue for the offered product & Model. 4. Product Performance: a) Railway reserves the right to accept/reject the offer based on past performance to ensure reliab ility of supply and quality of the offered product. b) One of the essential principles of purchasing function is selection of right source for supply. Thi s aspect has been emphasized by Railway Board through various circular s in the past RB Lr No. 2 022/RS(G)777/1(E3382862) New Delhi dated 07.07.2022 with Sub: Acceptance of tender, Consider ation of performance of vendors. Railway Board letter dated 11.02.2016 inter-alia stipulates due c onsideration of dis-satisfactory past performance of vendors while deciding tender to ensure timel y supply of material in required quantity to meet the needs of operation, maintenance, safety, etc. of the Railways. With complete digitization of the supply chain, sufficient data is available on IREP S/IMMS reflecting various aspects of performance of suppliers for individual contract, supplier and item. Warranty failures and response of vendors to such failures is one of the important parameters of p erformance of a vendor. Suitable means may be adopted to capture warranty performance of the vendors. It is again emphasized that Performance of vendors, including warranty failures and resp onse, would invariably be considered while deciding the tenders. 5. Liquidated Damages: If the Seller/Service Provider fails to deliver any or all of the Goods/Service s within the original/re-fixed delivery period(s) specified in the contract, the Buyer will be entitled t o deduct / recover the Liquidated Damages for the delay, unless covered under Force Majeure con ditions aforesaid, @ 0.5% of the contract value of delayed quantity per week or part of the week o f delayed period, until actual delivery or performance, as pre-estimated damages not exceeding 5 % of the total contract value without any controversy/dispute of any sort whatsoever. However, in case of inordinate delay maximum deduction shall be 10% of the total contract value. Note: Inexc usable delays of more than one-fourth (25%) of the completion period specified in the contract sh all be treated as inordinate delay(s). 6. In case of any deviation, the same has to be attached in the ATC document. 7. The successful bidder shall submit, at the time of delivery of the goods, a copy of the GeM Contr act, Warranty Certificate, Self-Attested Turnover Declaration, and all other documents, if any, as s tipulated in the bid document. 8. Successful bidder should upload Self Attested Aggregate Turnover Declaration Certificate as per"
+    },
+    {
+      "page": 9,
+      "text": "the Railway’s Performa along with the Tax Invoice in order to make the payment. Any delay on pa yment on account of non-submission of Turnover Declaration Certificate, Railway is not responsibl e for the same (Format enclosed). 9. HSN Code: Please mention the correct HSN code for the offered product. 10. SOUTHERN RAILWAY - GSTIN NUMBER : KERALA CIRCLE - 32AAAGM0289C1ZS 11. Contact details of the consignee : Office of the Senior Section Engineer, Permanent Way, Southern Railway, Near Calicut Railway Sta tion, Calicut, Kerala - 673001. Contact number - 9746763213 - SSE PW CLT (Bill Passing Officer : Sr.DEN/W/PGT - 9746763202, ADEN/CAN - 9746763207) 12. For Railway Records : Demand-No.: SR-039561-24-00061 Pur.File No. 91256236 . 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 3. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 4. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 5. Generic While generating invoice in GeM portal, the seller must upload scanned copy of GST invoice and the screenshot of GST portal confirming payment of GST."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8268154",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159002"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 27-11-2026 19:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159002"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 28-11-2026 19:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159002"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159002"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159002"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159002"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Southern Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159002"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Southern Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159002"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :dycmmdsl@sr.railnet.gov.in Buyer Email id: dmm@pgt.railnet.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159002"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159002"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Electronic Theodolite (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159002"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159002"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159002"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Past Performance,Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159002"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 80 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159002"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159002"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159002"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159002"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Method of Angular Measurement: Absolute | Units of Angular Measurement, other than degree: Gon (gradian), Mil (milli radians), V % (Slope) | Resolution (Least Count) of Angular Measurement: 0.05, 0.1, 0.2, 0.25, 0.5, 1, 2, 2.5, 5, 7.5, 10, 20 (second) | Accuracy of Angular Measurement (±): 0.1, 0.2, 0.5, 1, 1.5, 2, 3, 4, 5, 10, 20 Or lower (second) | Angular Measurement detection method - Horizontal: Dual Sides | Angular Measurement detection method - Vertical: Dual Sides | Objective Lens Aperture: 50 Or higher (millimeter) | Magnification (in X): 25, 30, 35, 40, 45, 50 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159002"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Telescope Resolving power (Angle): 2.5, 3, 3.5, 4, 4.5 Or lower (second) | Telescope Field of View: 1?10', 1?20', 1?30', 1?40', 1?50', 2? | Minimum Focus distance: 0.8, 0.9, 1, 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8 Or lower (meter) | Reticle illumination: Yes, No | Compensation Range (±): Above 3 (minute) | Compensator Setting Accuracy: 0.5, 1, 1.5, 2 Or lower (second) | Laser Pointer: Yes, No | Laser Range in Daylight(METER): 25, 50, 75, 100, 125, 150, NA | Laser Class: Class 2, Class 3 A, Class 3 R, NA | Type of Plummet: Laser | Accuracy of Plummet (±): 0.5, 1, 1.5, 2 Or lower (millimeter) | Magnification (Optical Plummet): 2X, 3X, 4X, 5X, 6X, 8X, NA, 15X, 20X, 30X, Others | Field of View (Optical Plummet) (degrees): 4?, 5?, 6?, NA | Class of Laser (Laser Plummet): Class 2, Class 3 A, Class 3 R, NA | Circular Vial (per 2 mm): 6, 8, 10 (minute) | Plate / Tubular Vial (per 2 mm): 20, 30, 40, 50, 60 (second) | Display Layout: On One Side, On Two Side | Type of Display: LCD, Backlit LCD, LED | Number of Diplay lines: 1 line, 2 line, 3 line, 4 line | Measurement Entry Storage Capability (Data Sets): 500, 1000, 2000, 5000, 10000, 20000, 30000, 40000, 50000, 0 Or higher | Tripod: With | Type of Tripod: Metallic | Number of Tripods inclusive in the scope of supply: 1 | Shock Absorbing Carrying Case with Shoulder Strap: Yes | Ingress Protection: IP 54, IP 55, IP 56, IP 64, IP 65, IP 66 | Tribrach Type: Fixed, Detachable",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159002"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Number of Batteries inclusive in the scope of supply: 0, 1, 2, 3, 4, 5, 6, 8, 10 Or higher | Battery Operating (Back Up) Time: 4, 5, 6, 8, 10, 12, 16, 20, 24, 30, 36, 48, 60, 90, 120, 150, 180 Or higher (hour) | Minimum Operating Temperature: 0, -5, -10, -15, -20, -25, -30 Or lower (degree Celsius) | Maximum Operating Temperature: 50, 55, 60, 65, 70 Or higher (degree Celsius) | Non Condensing Humidity, Rh @ 40 ?C: 65, 70, 75, 80, 85, 90, 95 Or higher (percent) | Warranty: 1, 2, 3, 4, 5 Or higher (year) | Availability of Test Reports from Central Govt / NABL approved / ILAC accredited Lab to prove conformity to the specification: Yes, No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159002"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Prasanth A V | 673001,OFFICE OF THE SENIOR SECTION ENGINEER,Pway, Kozhikode Juntion railway station, Southern Railway, Kozhikode - 673001, Kozhikode, Kerala 673001, Kozhikode, 673001 | 1 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159002"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "ेेतताा ाारराा जजोोड़ड़ गगईई बबडड कक ववशशेषेष शशतत",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159002"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1.The bidder must submit a compliance for each parameter mentioned in the technical specificati ons mentioned as below (Attached in ATC Document too) with their offer/bid.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159002"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "2. For past performance as mentioned in the bid document: Any credentials of successful executio n of same item or higher end Theodolite contract to Railway/PSU/Central Government or State Gov ernment organization will be considered. Bidder must attach Contract/Purchase order copies along with CRAC/Receipt note/RITES inspection certificate/completion certificate/supportive document to prove the execution of the contract. If the bidder's performance records are available with the Rail ways, the same shall also be taken into consideration for assessing compliance with this criterion. 3. Bidder should attach datasheet/brochure/catalogue for the offered product & Model. 4. Product Performance: a) Railway reserves the right to accept/reject the offer based on past performance to ensure reliab ility of supply and quality of the offered product. b) One of the essential principles of purchasing function is selection of right source for supply. Thi s aspect has been emphasized by Railway Board through various circular s in the past RB Lr No. 2 022/RS(G)777/1(E3382862) New Delhi dated 07.07.2022 with Sub: Acceptance of tender, Consider ation of performance of vendors. Railway Board letter dated 11.02.2016 inter-alia stipulates due c onsideration of dis-satisfactory past performance of vendors while deciding tender to ensure timel y supply of material in required quantity to meet the needs of operation, maintenance, safety, etc. of the Railways. With complete digitization of the supply chain, sufficient data is available on IREP S/IMMS reflecting various aspects of performance of suppliers for individual contract, supplier and item. Warranty failures and response of vendors to such failures is one of the important parameters of p erformance of a vendor. Suitable means may be adopted to capture warranty performance of the vendors. It is again emphasized that Performance of vendors, including warranty failures and resp onse, would invariably be considered while deciding the tenders. 5. Liquidated Damages: If the Seller/Service Provider fails to deliver any or all of the Goods/Service s within the original/re-fixed delivery period(s) specified in the contract, the Buyer will be entitled t o deduct / recover the Liquidated Damages for the delay, unless covered under Force Majeure con ditions aforesaid, @ 0.5% of the contract value of delayed quantity per week or part of the week o f delayed period, until actual delivery or performance, as pre-estimated damages not exceeding 5 % of the total contract value without any controversy/dispute of any sort whatsoever. However, in case of inordinate delay maximum deduction shall be 10% of the total contract value. Note: Inexc usable delays of more than one-fourth (25%) of the completion period specified in the contract sh all be treated as inordinate delay(s). 6. In case of any deviation, the same has to be attached in the ATC document. 7. The successful bidder shall submit, at the time of delivery of the goods, a copy of the GeM Contr act, Warranty Certificate, Self-Attested Turnover Declaration, and all other documents, if any, as s tipulated in the bid document. 8. Successful bidder should upload Self Attested Aggregate Turnover Declaration Certificate as per",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159002"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "the Railway’s Performa along with the Tax Invoice in order to make the payment. Any delay on pa yment on account of non-submission of Turnover Declaration Certificate, Railway is not responsibl e for the same (Format enclosed). 9. HSN Code: Please mention the correct HSN code for the offered product. 10. SOUTHERN RAILWAY - GSTIN NUMBER : KERALA CIRCLE - 32AAAGM0289C1ZS 11. Contact details of the consignee : Office of the Senior Section Engineer, Permanent Way, Southern Railway, Near Calicut Railway Sta tion, Calicut, Kerala - 673001. Contact number - 9746763213 - SSE PW CLT (Bill Passing Officer : Sr.DEN/W/PGT - 9746763202, ADEN/CAN - 9746763207) 12. For Railway Records : Demand-No.: SR-039561-24-00061 Pur.File No. 91256236 . 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 3. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 4. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 5. Generic While generating invoice in GeM portal, the seller must upload scanned copy of GST invoice and the screenshot of GST portal confirming payment of GST.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159002"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

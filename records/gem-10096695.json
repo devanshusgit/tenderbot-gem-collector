@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8213998",
   "title": "Power sprayer",
   "description": "Power sprayer",
-  "organisation": "Agriculture Production Department Jammu and Kashmir",
-  "ministry": "",
-  "department": "Agriculture Production Department Jammu and Kashmir",
+  "organisation": "Agriculture Department",
+  "ministry": "Jammu & Kashmir",
+  "department": "Agriculture Production Department Jammu And Kashmir",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Power sprayer",
   "quantity": 85,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-10-29T11:11:12+05:30",
   "closing_at": "2026-11-16T10:00:00+05:30",
   "status": "active",
@@ -27,6 +27,16 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10096695"
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/CvJLXpTrEGKzwaUTddScoVXSZocDbETsXcukdWir4OY",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261029",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +44,310 @@
   ],
   "source_fetched_at": "2026-11-14T19:22:15.482Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "office": "Director Agriculture Jammu",
+  "buyer_email": "dao.samba@jk.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "15 (Days)",
+  "source_document_fetched_at": "2026-11-14T23:07:53.668558+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "96ec89deeeb0244b431d4282c47f109badc9b63f98c06e7bd17eafeb3f98b617",
+  "document_pages": 7,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "SANJAY BADYAL",
+      "address": "184121,Agriculture Samba",
+      "quantity": 85,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Performance Parameters",
+          "parameter": "Purpose",
+          "value": "It is used to spray the chemical to crops or field covering large area with help power operated pump & nozzle"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Type of pump used",
+          "value": "Rotary vane pump, Reciprocating pump"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Tank Capacity in liter",
+          "value": "10, 15, 20, 25, 30, 35, 40, 50, 100, 200, 400, 500, 3, 8"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Tank type",
+          "value": "Manual back Carrying, Tractor hydraulic mounted, On wheel trolley mounted"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Power source",
+          "value": "Petrol engine, Diesel engine, Battery, Electricity, Solar, Tractor PTO"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Number of stroke in petrol/diesel engine",
+          "value": "2 Stroke, 4 Stroke, N/A for Battery/Solar/Electricity/tractor PTO"
+        },
+        {
+          "group": null,
+          "parameter": "Cooling mechanism of engine",
+          "value": "Air cooled, Water cooled, N/A for Battery/Solar/Electricity/tractor PTO"
+        },
+        {
+          "group": null,
+          "parameter": "Number of engine cylinder",
+          "value": "1, 2, 3, 4, N/A for Battery/Solar/Electricity/tractor PTO"
+        },
+        {
+          "group": null,
+          "parameter": "Availability of recoil starter in engine",
+          "value": "Yes, N/A"
+        },
+        {
+          "group": null,
+          "parameter": "Power required in hp",
+          "value": "0.5 hp"
+        },
+        {
+          "group": null,
+          "parameter": "Number of piston in pump",
+          "value": "1, 2, 3, 4"
+        },
+        {
+          "group": null,
+          "parameter": "Number of sprayer nozzle port",
+          "value": "1, 2, 3, 4"
+        },
+        {
+          "group": null,
+          "parameter": "Pressure bearing capacity of hose pipe in Mega Pascal",
+          "value": "2, 2.5, 3, 3.5, 4, 2.4, 4.1"
+        },
+        {
+          "group": null,
+          "parameter": "Charging time for battery in hour",
+          "value": "2, 3, 4, 5, 6, N/A for Engine operated"
+        },
+        {
+          "group": null,
+          "parameter": "Spraying time after full charging in hour",
+          "value": "2, 3, 4, 5, 6, N/A for Engine operated"
+        },
+        {
+          "group": null,
+          "parameter": "Pump discharge capacity in LPM",
+          "value": "2, 2.5, 3, 3.5, 4, N/A for Engine operated"
+        },
+        {
+          "group": null,
+          "parameter": "Availability of pressure regulator",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Availability of by pass cum pressure regulator valve",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Warranty in years",
+          "value": "1, 2, 3, 4"
+        },
+        {
+          "group": "Material and Dimensional Parameters",
+          "parameter": "Tank material",
+          "value": "PE Plastic, HDPE, MS, SS, PVC"
+        },
+        {
+          "group": "Material and Dimensional Parameters",
+          "parameter": "Pump material",
+          "value": "Brass alloy, Aluminum alloy"
+        },
+        {
+          "group": "Material and Dimensional Parameters",
+          "parameter": "Nozzle material",
+          "value": "Brass, SS"
+        },
+        {
+          "group": "Material and Dimensional Parameters",
+          "parameter": "Hose pipe material",
+          "value": "Nylon, PVC, High Density Polyethylene (HDPE)"
+        },
+        {
+          "group": "Material and Dimensional Parameters",
+          "parameter": "Hose pipe diameter in mm",
+          "value": "5, 8.5, 10, 13, 15, 19, 7, 8, 9"
+        },
+        {
+          "group": "Material and Dimensional Parameters",
+          "parameter": "Hose pipe length in meter",
+          "value": "2, 3, 4, 5, 10, 20, 30, 40, 50, 100, 150, 200, 45"
+        },
+        {
+          "group": "Reports",
+          "parameter": "Availability of ISO certification of manufacture",
+          "value": "Yes, No"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8213998",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096695"
+    },
+    {
+      "field": "document_closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 09-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096695"
+    },
+    {
+      "field": "document_opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 10-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096695"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 15 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096695"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Jammu & Kashmir",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096695"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Agriculture Production Department Jammu And Kashmir",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096695"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Agriculture Department",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096695"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Director Agriculture Jammu",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096695"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :priyankadar.83919@jk.gov.in Buyer Email id: dao.samba@jk.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096695"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 85",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096695"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Power sprayer (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096695"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096695"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096695"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096695"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096695"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096695"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Purpose: It is used to spray the chemical to crops or field covering large area with help power operated pump & nozzle | Type of pump used: Rotary vane pump, Reciprocating pump | Tank Capacity in liter: 10, 15, 20, 25, 30, 35, 40, 50, 100, 200, 400, 500, 3, 8 | Tank type: Manual back Carrying, Tractor hydraulic mounted, On wheel trolley mounted | Power source: Petrol engine, Diesel engine, Battery, Electricity, Solar, Tractor PTO",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096695"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Number of stroke in petrol/diesel engine: 2 Stroke, 4 Stroke, N/A for Battery/Solar/Electricity/tractor PTO | Cooling mechanism of engine: Air cooled, Water cooled, N/A for Battery/Solar/Electricity/tractor PTO | Number of engine cylinder: 1, 2, 3, 4, N/A for Battery/Solar/Electricity/tractor PTO | Availability of recoil starter in engine: Yes, N/A | Power required in hp: 0.5 hp | Number of piston in pump: 1, 2, 3, 4 | Number of sprayer nozzle port: 1, 2, 3, 4 | Pressure bearing capacity of hose pipe in Mega Pascal: 2, 2.5, 3, 3.5, 4, 2.4, 4.1 | Charging time for battery in hour: 2, 3, 4, 5, 6, N/A for Engine operated | Spraying time after full charging in hour: 2, 3, 4, 5, 6, N/A for Engine operated | Pump discharge capacity in LPM: 2, 2.5, 3, 3.5, 4, N/A for Engine operated | Availability of pressure regulator: Yes | Availability of by pass cum pressure regulator valve: Yes | Warranty in years: 1, 2, 3, 4 | Tank material: PE Plastic, HDPE, MS, SS, PVC | Pump material: Brass alloy, Aluminum alloy | Nozzle material: Brass, SS | Hose pipe material: Nylon, PVC, High Density Polyethylene (HDPE) | Hose pipe diameter in mm: 5, 8.5, 10, 13, 15, 19, 7, 8, 9 | Hose pipe length in meter: 2, 3, 4, 5, 10, 20, 30, 40, 50, 100, 150, 200, 45 | Availability of ISO certification of manufacture: Yes, No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096695"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | SANJAY BADYAL | 184121,Agriculture Samba | 85 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096695"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10096695"
+    }
+  ],
+  "detail_warning": "The original PDF dates differ from the current public GeM listing. The listing closing date is retained. Confirm the latest opening date and any corrigenda on GeM; the original PDF opening date is not presented as current.",
+  "document_closing_at": "2026-11-09T11:00:00+05:30",
+  "document_opening_at": "2026-11-10T11:00:00+05:30",
+  "date_discrepancy": {
+    "listing_closing_at": "2026-11-16T10:00:00+05:30",
+    "document_closing_at": "2026-11-09T11:00:00+05:30",
+    "document_opening_at": "2026-11-10T11:00:00+05:30"
+  }
 }

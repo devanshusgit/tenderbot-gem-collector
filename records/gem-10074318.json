@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8194866",
   "title": "Micro/Semi-Micro/Analytical weighing balance",
   "description": "Micro/Semi-Micro/Analytical weighing balance",
-  "organisation": "Department of Atomic Energy",
-  "ministry": "Department of Atomic Energy",
-  "department": "Department of Atomic Energy",
+  "organisation": "Indira Gandhi Centre For Atomic Research",
+  "ministry": "Department Of Atomic Energy",
+  "department": "Department Of Atomic Energy",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Micro/Semi-Micro/Analytical weighing balance",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-10-23T17:30:35+05:30",
   "closing_at": "2026-11-19T18:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10074318"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/NYrIcOYgLnqPWF_Os5fh4qQAWKo-kGhMtu1ie5WyPKw",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261023",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +49,331 @@
   ],
   "source_fetched_at": "2026-11-12T17:16:20.759Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "office": "Indira Gandhi Centre For Atomic Research",
+  "buyer_email": "sajal@igcar.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "90 (Days)",
+  "source_document_fetched_at": "2026-11-14T07:38:09.903101+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "90a0329af94ad046397b87de6dc99cd5aeb5453db6883cb25d68d5abb2f9bc76",
+  "document_pages": 7,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Sundararajan Kalyanasundaram",
+      "address": "603102,Materials Chemistry & Metal Fuel Cycle Group, Analytical Chemistry Spectroscopy Division, IGCAR, Kalpakkam, Chengalpattu District",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Group : Type/ Application",
+          "parameter": "Intended Application",
+          "value": "The products covered in this category are- electronic weighing system/ electronic weighing machine are generally used to measure extremely small masses with a high degree of accuracy. The products such as spring type weighing scales, personal weighing scale, mechanical/ Lever type weighing scales, general purpose weighing scale etc. are NOT covered in this category"
+        },
+        {
+          "group": "Group : Type/ Application",
+          "parameter": "Scope of Supply",
+          "value": "Weighing system consist of load sensor(EMFC)/Load cells, Closed weighing chamber, associated electronics display , rigid frame and weighing platform/Pan etc ."
+        },
+        {
+          "group": "Group : Type/ Application",
+          "parameter": "Category of weighing Scale",
+          "value": "Analytical weighing scale having least count 4 digits after decimal and above"
+        },
+        {
+          "group": "Electonic Display/ Processing unit/ Generic",
+          "parameter": "Nominal Rated Load Capacity of weighing scale(in gm)[ Better capacity is considered higher than the nominal capacity meeting required resolution]",
+          "value": "500 gm"
+        },
+        {
+          "group": "Electonic Display/ Processing unit/ Generic",
+          "parameter": "Resolution",
+          "value": "1 mg"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Weighing System Accuracy and Class{As per Governing IS} [Percentage of Rated Output (RO))",
+          "value": "± 0.05 % of RO (Class 1)"
+        },
+        {
+          "group": null,
+          "parameter": "Maximum Measurement Time in second",
+          "value": "5-10 sec"
+        },
+        {
+          "group": null,
+          "parameter": "Electronic display",
+          "value": "LCD/ LED Display with key pad/ touch pad"
+        },
+        {
+          "group": null,
+          "parameter": "Safe Overload cell Capacity [Percentage of Rated Load(RL)]",
+          "value": "150% of Rated Load"
+        },
+        {
+          "group": null,
+          "parameter": "Ultimate Overload",
+          "value": "200% of Rated Load"
+        },
+        {
+          "group": null,
+          "parameter": "Linearity",
+          "value": "± 3 times of Resolution"
+        },
+        {
+          "group": null,
+          "parameter": "Repeatibilty",
+          "value": "± 1 %"
+        },
+        {
+          "group": null,
+          "parameter": "Close weighing chamber type",
+          "value": "Glass shield with manual operation"
+        },
+        {
+          "group": "Rigid frame and Weighing Platform/Pan",
+          "parameter": "Nominal Weighing Platform/Pan Size(Diameter/Side, in mm)",
+          "value": "80-90 mm"
+        },
+        {
+          "group": "Rigid frame and Weighing Platform/Pan",
+          "parameter": "Material of Rigid frame",
+          "value": "SS"
+        },
+        {
+          "group": "Rigid frame and Weighing Platform/Pan",
+          "parameter": "Other features of Rigid frame and Weighing Platform/ Pan",
+          "value": "NA"
+        },
+        {
+          "group": "Calibration Certificate",
+          "parameter": "Calibration Certificate issuing authority (Issuing date should be more than 3 month prior, at the time of invoicing)",
+          "value": "OEM Certificate"
+        },
+        {
+          "group": "Features",
+          "parameter": "Connectivity/port",
+          "value": "RS 232"
+        },
+        {
+          "group": "Features",
+          "parameter": "Salient Features/Accessories",
+          "value": "NA"
+        },
+        {
+          "group": "Power Requirements",
+          "parameter": "Power Requirement",
+          "value": "Mains operated"
+        },
+        {
+          "group": "Power Requirements",
+          "parameter": "Power supply/ Battery Type",
+          "value": "230 V±10 %, Single Phase AC"
+        },
+        {
+          "group": "Power Requirements",
+          "parameter": "Power feature",
+          "value": "NA"
+        },
+        {
+          "group": "Buyer Specific Requirement",
+          "parameter": "Software Features",
+          "value": "NA( Being no applicable software provided)"
+        },
+        {
+          "group": "Buyer Specific Requirement",
+          "parameter": "Optional Buyer specific requirements",
+          "value": "NA"
+        },
+        {
+          "group": "Buyer Specific Requirement",
+          "parameter": "Installation and commissioning",
+          "value": "NA"
+        },
+        {
+          "group": "Warranty",
+          "parameter": "Comprehensive Warranty",
+          "value": "1 Year"
+        },
+        {
+          "group": "TEST REPORT & Certificati",
+          "parameter": "Availability of Test Report from type of Lab, to prove the conformity of product to the specification",
+          "value": "OEM"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Agreed to provide Model approval certificate for each model from Director Legal Metrology at the time bidding or on demand by buyer [Hint: Valid model approval certificate shall be available with the OEM/ Manufacturer/ Seller at the time of product u",
+          "value": "Yes"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8194866",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10074318"
+    },
+    {
+      "field": "document_closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 12-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10074318"
+    },
+    {
+      "field": "document_opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 13-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10074318"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10074318"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Department Of Atomic Energy",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10074318"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Atomic Energy",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10074318"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indira Gandhi Centre For Atomic Research",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10074318"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Indira Gandhi Centre For Atomic Research",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10074318"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :sindhod@igcar.gov.in Buyer Email id: sajal@igcar.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10074318"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10074318"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Micro/Semi-Micro/Analytical weighing balance (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10074318"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10074318"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10074318"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10074318"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10074318"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10074318"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Intended Application: The products covered in this category are- electronic weighing system/ electronic weighing machine are generally used to measure extremely small masses with a high degree of accuracy. The products such as spring type weighing scales, personal weighing scale, mechanical/ Lever type weighing scales, general purpose weighing scale etc. are NOT covered in this category | Scope of Supply: Weighing system consist of load sensor(EMFC)/Load cells, Closed weighing chamber, associated electronics display , rigid frame and weighing platform/Pan etc . | Category of weighing Scale: Analytical weighing scale having least count 4 digits after decimal and above | Nominal Rated Load Capacity of weighing scale(in gm)[ Better capacity is considered higher than the nominal capacity meeting required resolution]: 500 gm | Resolution: 1 mg",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10074318"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Weighing System Accuracy and Class{As per Governing IS} [Percentage of Rated Output (RO)): ± 0.05 % of RO (Class 1) | Maximum Measurement Time in second: 5-10 sec | Electronic display: LCD/ LED Display with key pad/ touch pad | Safe Overload cell Capacity [Percentage of Rated Load(RL)]: 150% of Rated Load | Ultimate Overload: 200% of Rated Load | Linearity: ± 3 times of Resolution | Repeatibilty: ± 1 % | Close weighing chamber type: Glass shield with manual operation | Nominal Weighing Platform/Pan Size(Diameter/Side, in mm): 80-90 mm | Material of Rigid frame: SS | Other features of Rigid frame and Weighing Platform/ Pan: NA | Calibration Certificate issuing authority (Issuing date should be more than 3 month prior, at the time of invoicing): OEM Certificate | Connectivity/port: RS 232 | Salient Features/Accessories: NA | Power Requirement: Mains operated | Power supply/ Battery Type: 230 V±10 %, Single Phase AC | Power feature: NA | Software Features: NA( Being no applicable software provided) | Optional Buyer specific requirements: NA | Installation and commissioning: NA | Comprehensive Warranty: 1 Year | Availability of Test Report from type of Lab, to prove the conformity of product to the specification: OEM",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10074318"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Agreed to provide Model approval certificate for each model from Director Legal Metrology at the time bidding or on demand by buyer [Hint: Valid model approval certificate shall be available with the OEM/ Manufacturer/ Seller at the time of product u: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10074318"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Sundararajan Kalyanasundaram | 603102,Materials Chemistry & Metal Fuel Cycle Group, Analytical Chemistry Spectroscopy Division, IGCAR, Kalpakkam, Chengalpattu District | 1 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10074318"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10074318"
+    }
+  ],
+  "detail_warning": "The original PDF dates differ from the current public GeM listing. The listing closing date is retained. Confirm the latest opening date and any corrigenda on GeM; the original PDF opening date is not presented as current.",
+  "document_closing_at": "2026-11-12T18:00:00+05:30",
+  "document_opening_at": "2026-11-13T18:00:00+05:30",
+  "date_discrepancy": {
+    "listing_closing_at": "2026-11-19T18:00:00+05:30",
+    "document_closing_at": "2026-11-12T18:00:00+05:30",
+    "document_opening_at": "2026-11-13T18:00:00+05:30"
+  }
 }

@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8200769",
   "title": "Servers (V2)",
   "description": "Servers (V2)",
-  "organisation": "Department of Higher Education",
-  "ministry": "Ministry of Education",
-  "department": "Department of Higher Education",
+  "organisation": "Jawaharlal Nehru University (jnu)",
+  "ministry": "Ministry Of Education",
+  "department": "Department Of Higher Education",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Servers (V2)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 40000,
   "published_at": "2026-10-26T13:00:37+05:30",
   "closing_at": "2026-11-17T21:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10081325"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 5
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/C1vBs_u2_ymUSfPtEWtIGKaTa2fmf4P7DJ_io2z3wpM",
+      "page": 6
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8200769/CLM0010/server_4990f2b0-9228-42cc-bc7b1792999712985_mnpavan@mail.jnu.ac.in.pdf",
+      "page": 10
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261026",
+      "page": 12
     }
   ],
   "tags": [
@@ -34,5 +54,251 @@
   ],
   "source_fetched_at": "2026-11-12T08:31:03.990Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-18T21:00:00+05:30",
+  "office": "South West Delhi",
+  "buyer_email": "mnpavan.jnu@nic.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 6,
+  "oem_turnover_lakhs": 16,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 3,
+  "epbg_duration_months": 38,
+  "offer_validity": "60 (Days)",
+  "source_document_fetched_at": "2026-11-14T06:39:42.601461+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "c7da3d3329040ed2d70f9377c6e489196703e851eafa1b1b10ab700312e9237c",
+  "document_pages": 12,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 6 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 16 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: GeM verified turnover (GeM PDF, p. 1)",
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 50 % (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 9,
+      "consignee": "Mogili Narender Pavan",
+      "address": "110067,School of Computer and Systems Sciences (SC & SS), Jawaharlal Nehru University, New Campus, New Delhi",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 60
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": "Chassis",
+          "parameter": "Description of Stores",
+          "value": "Server with standard 1 year warranty"
+        },
+        {
+          "group": "Processor and Motherboard",
+          "parameter": "Processor Number",
+          "value": "AMD EPYC 4124P, AMD EPYC 4244P, AMD EPYC 7251, AMD EPYC 7261, AMD EPYC 7232P, AMD EPYC 7252, AMD EPYC 7262, AMD EPYC 7F32, AMD EPYC 7203P, AMD EPYC 7203, AMD EPYC 72F3, AMD EPYC 4344P, AMD EPYC 4364P, AMD EPYC 8024P, AMD EPYC 8024PN, AMD EPYC 9015, AMD EPYC 7272, AMD EPYC 4464P, AMD EPYC 4484PX, AMD EPYC 7281, AMD EPYC 7351P, AMD EPYC 7301, AMD EPYC 7351, AMD EPYC 7371, AMD EPYC 7282, AMD EPYC 7302P, AMD EPYC 7302, AMD EPYC 7303P, AMD EPYC 7303, AMD EPYC 73F3, AMD EPYC 7373X, AMD EPYC 734332, AMD EPYC 7313P, AMD EPYC 7313, AMD EPYC 4584PX, AMD EPYC 9115, AMD EPYC 9135, AMD EPYC 9175F, AMD EPYC 8124P, AMD EPYC 8124PN, AMD EPYC 9124, AMD EPYC 9174F, AMD EPYC 9184X, AMD EPYC 7F52, AMD EPYC 7401P, AMD EPYC 7401, AMD EPYC 7451, AMD EPYC 7352, AMD EPYC 7402P, AMD EPYC 7402, AMD EPYC 7F72, AMD EPYC 74F3, AMD EPYC 7473X, AMD EPYC 7443P, AMD EPYC 7443, AMD EPYC 7413, AMD EPYC 8224P, AMD EPYC 8224PN, AMD EPYC 9224, AMD EPYC 9254, AMD EPYC 9274F, AMD EPYC 9255, AMD EPYC 9275F, AMD EPYC 7453, AMD EPYC 7551P, AMD EPYC 7551, AMD EPYC 7501, AMD EPYC 7601, AMD EPYC 7452, AMD EPYC 7502P, AMD EPYC 7532, AMD EPYC 7502, AMD EPYC 7542, AMD EPYC 75F3, AMD EPYC 7573X, AMD EPYC 7543P, AMD EPYC 7543, AMD EPYC 7513, AMD EPYC 8324P, AMD EPYC 8324PN, AMD EPYC 9354P, AMD EPYC 9334, AMD EPYC 9354, AMD EPYC 9374F, AMD EPYC 9384X, AMD EPYC 9335, AMD EPYC 9355P, AMD EPYC 9355, AMD EPYC 9375F, AMD EPYC 9365, AMD EPYC 7552, AMD EPYC 7642, AMD EPYC 7643P, AMD EPYC 7643, AMD EPYC 8434P, AMD EPYC 8434PN, AMD 6"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 9,
+      "text": "1. Generic"
+    },
+    {
+      "page": 10,
+      "text": "OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 3. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 4. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 5. Generic Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU for 3 years before the bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the primary product having highest value should meet this criterion. 6. Generic Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of technical parameters, the bid is liable for rejection. 7. Generic Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8200769",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10081325"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 17-11-2026 21:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10081325"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 18-11-2026 21:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10081325"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 60 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10081325"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Education",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10081325"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Higher Education",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10081325"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Jawaharlal Nehru University (jnu)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10081325"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: South West Delhi",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10081325"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :sanjeev@mail.jnu.ac.in Buyer Email id: mnpavan.jnu@nic.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10081325"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10081325"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Servers (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10081325"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 6 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10081325"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 16 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10081325"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10081325"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: GeM verified turnover",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10081325"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10081325"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10081325"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10081325"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 50 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10081325"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10081325"
+    },
+    {
+      "field": "emd_fee",
+      "page": 3,
+      "quote": "EMD Amount: 40000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10081325"
+    },
+    {
+      "field": "emd_required",
+      "page": 3,
+      "quote": "EMD Amount: 40000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10081325"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 3.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10081325"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 38",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10081325"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10081325"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Description of Stores: Server with standard 1 year warranty | Processor Number: AMD EPYC 4124P, AMD EPYC 4244P, AMD EPYC 7251, AMD EPYC 7261, AMD EPYC 7232P, AMD EPYC 7252, AMD EPYC 7262, AMD EPYC 7F32, AMD EPYC 7203P, AMD EPYC 7203, AMD EPYC 72F3, AMD EPYC 4344P, AMD EPYC 4364P, AMD EPYC 8024P, AMD EPYC 8024PN, AMD EPYC 9015, AMD EPYC 7272, AMD EPYC 4464P, AMD EPYC 4484PX, AMD EPYC 7281, AMD EPYC 7351P, AMD EPYC 7301, AMD EPYC 7351, AMD EPYC 7371, AMD EPYC 7282, AMD EPYC 7302P, AMD EPYC 7302, AMD EPYC 7303P, AMD EPYC 7303, AMD EPYC 73F3, AMD EPYC 7373X, AMD EPYC 734332, AMD EPYC 7313P, AMD EPYC 7313, AMD EPYC 4584PX, AMD EPYC 9115, AMD EPYC 9135, AMD EPYC 9175F, AMD EPYC 8124P, AMD EPYC 8124PN, AMD EPYC 9124, AMD EPYC 9174F, AMD EPYC 9184X, AMD EPYC 7F52, AMD EPYC 7401P, AMD EPYC 7401, AMD EPYC 7451, AMD EPYC 7352, AMD EPYC 7402P, AMD EPYC 7402, AMD EPYC 7F72, AMD EPYC 74F3, AMD EPYC 7473X, AMD EPYC 7443P, AMD EPYC 7443, AMD EPYC 7413, AMD EPYC 8224P, AMD EPYC 8224PN, AMD EPYC 9224, AMD EPYC 9254, AMD EPYC 9274F, AMD EPYC 9255, AMD EPYC 9275F, AMD EPYC 7453, AMD EPYC 7551P, AMD EPYC 7551, AMD EPYC 7501, AMD EPYC 7601, AMD EPYC 7452, AMD EPYC 7502P, AMD EPYC 7532, AMD EPYC 7502, AMD EPYC 7542, AMD EPYC 75F3, AMD EPYC 7573X, AMD EPYC 7543P, AMD EPYC 7543, AMD EPYC 7513, AMD EPYC 8324P, AMD EPYC 8324PN, AMD EPYC 9354P, AMD EPYC 9334, AMD EPYC 9354, AMD EPYC 9374F, AMD EPYC 9384X, AMD EPYC 9335, AMD EPYC 9355P, AMD EPYC 9355, AMD EPYC 9375F, AMD EPYC 9365, AMD EPYC 7552, AMD EPYC 7642, AMD EPYC 7643P, AMD EPYC 7643, AMD EPYC 8434P, AMD EPYC 8434PN, AMD 6",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10081325"
+    },
+    {
+      "field": "consignees",
+      "page": 9,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Mogili Narender Pavan | 110067,School of Computer and Systems Sciences (SC & SS), Jawaharlal Nehru University, New Campus, New Delhi | 1 | 60",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10081325"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "1. Generic",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10081325"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 3. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 4. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 5. Generic Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU for 3 years before the bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the primary product having highest value should meet this criterion. 6. Generic Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of technical parameters, the bid is liable for rejection. 7. Generic Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10081325"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8263926",
   "title": "Electronic Weighing Scales",
   "description": "Electronic Weighing Scales",
-  "organisation": "Department of Heavy Industry",
-  "ministry": "Ministry of Heavy Industries and Public Enterprises",
-  "department": "Department of Heavy Industry",
+  "organisation": "Bharat Heavy Electricals Limited (bhel)",
+  "ministry": "Ministry Of Heavy Industries And Public Enterprises",
+  "department": "Department Of Heavy Industry",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Electronic Weighing Scales",
   "quantity": 2,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-11T16:33:27+05:30",
   "closing_at": "2026-11-25T16:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10154184"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Qm7W7Fj-qMbrussDjyZ2Kwu-kMi78LBqkZIZd-KvtDI",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261111",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +49,249 @@
   ],
   "source_fetched_at": "2026-11-13T18:45:32.378Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-26T16:00:00+05:30",
+  "office": "10330014-tp Jhansi",
+  "buyer_email": "abhisheks@bhel.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "120 (Days)",
+  "source_document_fetched_at": "2026-11-14T00:05:45.224706+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "721dc1bacf8949eab1dd22d32057011466d2df9c261da649c3463c83caa1dd2f",
+  "document_pages": 8,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Baijnath",
+      "address": "284120,BHEL Khailar",
+      "quantity": 2,
+      "quantity_label": "Quantity",
+      "delivery_days": 60
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Type/ Application",
+          "parameter": "Governing Specification",
+          "value": "Generally Confirming to IS 9281- (Part III)[Latest]"
+        },
+        {
+          "group": "Type/ Application",
+          "parameter": "Type of Weighing Scale (Based on Intended Application)",
+          "value": "Electronic Platform type weighing Scale(General Purpose)"
+        },
+        {
+          "group": "Electonic Display/ Processing unit/ Generic",
+          "parameter": "Rated Load Capacity of weighing scale",
+          "value": "500 Kg"
+        },
+        {
+          "group": "Electonic Display/ Processing unit/ Generic",
+          "parameter": "Resolution",
+          "value": "10 gm"
+        },
+        {
+          "group": "Electonic Display/ Processing unit/ Generic",
+          "parameter": "Weighing System Accuracy and Class{As per Governing IS} [Percentage of Rated Output (RO))",
+          "value": "±0.25% of RO(Class 3)"
+        },
+        {
+          "group": "Load Sensor/ Cell",
+          "parameter": "Load Cell Accuracy and Class(As per the Governing IS)",
+          "value": "± 0.1% of RO (Class 3)"
+        },
+        {
+          "group": "Rigid frame and Weighing Platform",
+          "parameter": "Weighing Platform Size",
+          "value": "600 mm X 600 mm or better"
+        },
+        {
+          "group": "Features",
+          "parameter": "Salient Features",
+          "value": "Error / Out of Range Indication"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Buyer Specific Requirement",
+          "parameter": "Weighing system with dimensioning Feature",
+          "value": "Yes-Dimension Measurement Technology (Via Camera/ Sensor), Display with weight and dimensions both , Barcode Scanning, Image Capture & Storage functioning, No- Weighing system is only capable of weighing"
+        },
+        {
+          "group": "Warranty",
+          "parameter": "Comprehensive Warranty",
+          "value": "1 year"
+        },
+        {
+          "group": "TEST REPORT & Certification",
+          "parameter": "Agreed to provide Model approval certificate for each model from Director Legal Metrology at the time bidding or on demand by buyer",
+          "value": "Yes"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at"
+    },
+    {
+      "page": 5,
+      "text": "following address M/s Bharat Heavy Electricals Ltd Khailar Jhansi Uttar Pradesh PIN - 284120 . 3. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 4. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 5. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 6. Generic While generating invoice in GeM portal, the seller must upload scanned copy of GST invoice and the screenshot of GST portal confirming payment of GST. 7. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 8. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): NA Post Receipt Inspection at consignee site before acceptance of stores: BY BHEL AT BHEL JHANSI 9. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses A. INSPECTION TO BE DONE BY BHEL AT BHEL JHANSI WORKS. B. CALIBRATION CERTIFICATE TO BE PROVIDED ALONG WITH SUPPLY. C. PACKING INSTRUCTION:- : EACH ITEM/PACKING SHOULD BE PACKED PROPERLY TO"
+    },
+    {
+      "page": 6,
+      "text": "AVOID ANY DAMAGE DURING TRANSIT OR STORAGE AND HAVE IDENTIFICATION MAR K WITH BHEL MATERIAL CODE. D. GUARANTEE/ WARRANTY SHALL BE 12 MONTHS FROM THE DATE OF SUPPLY AND ACCEPTANCE AT BHEL JHANSI. E. BIDDER SHOULD BE OEM OR OEM AUTHORISED DEALER. IN CASE OF DEALER, VALI D AUTHORISATION CERTIFICATE FROM OEM TO BE PROVIDED ALONG WITH THE SUP PLY. F. DELIVERY PERIOD: 02 MONTH FROM THE DATE OF ISSUANCE OF PURCHASE. G. PAYMENT TERMS: - 100 % PAYMENT WITHIN 90 DAYS (45 DAYS FOR MSE /60 DAYS FOR MEDIUM MSE REGISTERED SUPPLIERS AS PER RELEVANT ACT IN FORCE) FROM T HE DATE OF RECEIPT OF MATERIAL AND SUBMISSION OF CLEAR AND ADMISSIBLE BIL L, SUBJECT TO ACCEPTANCE OF MATERIAL AT BHEL,ON DIRECT PRESENTATION OF T HE DOCUMENTS. PAYMENTS TO VENDORS WHO ARE SEEKING BENEFITS UNDER MSME ACT SHALL NOT BE ENTERTAINED IF THE UDYAM CERTIFICATE SUBMITTED BY THEM IS NOT VALID ON THE DATE OF PURCHASE ORDER. THE PAYMENT TERMS MENTIONED ABOVE IN BID ATC SHALL BE APPLICABLE ONLY. A NY OTHER PAYMENT TERMS STATED IN THE BID SHALL NOT BE APPLICABLE AND WIL L BE TREATED AS NULL AND VOID. Note: In respect of procurement of goods or services from Micro, Small and Medium enterp rises (MSMEs), the settlement of invoice shall be only through any of the TReDS platf orm (i.e RXIL, M1xchange, lnvoicemart,KReDX, C2FO), authorised by the Reserve Ba nk of India. Such MSME suppliers to select their preferred TReDS platform before award of contr act so that the data is captured in the Order /Contract database of the Unit. They als o will have the option to change the TReDS platform from the drop-down menu on Su vidha portal of BHEL, at the time of invoice submission. Wherever the Trade Receiva ble is accepted by BHEL, the same shall be validated by the Unit on the respective T ReDS platform selected by the supplier. The routing of invoices through the TReDS platform shall not be construed as manda ting discounting of such invoices and the MSMEs supplier shall have the option to av ail or not avail financing or discounting of its receivables on the TReDS platform. In case discounting is not availed by the supplier on TReDS, the trade receivables will be paid through TReDSas per the payment timelines indicated in the contract. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8263926",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154184"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 25-11-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154184"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 26-11-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154184"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154184"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Heavy Industries And Public Enterprises",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154184"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Heavy Industry",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154184"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Bharat Heavy Electricals Limited (bhel)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154184"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: 10330014-tp Jhansi",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154184"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :ykverma@bhel.in Buyer Email id: abhisheks@bhel.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154184"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 2",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154184"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Electronic Weighing Scales (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154184"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154184"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154184"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154184"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154184"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154184"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Governing Specification: Generally Confirming to IS 9281- (Part III)[Latest] | Type of Weighing Scale (Based on Intended Application): Electronic Platform type weighing Scale(General Purpose) | Rated Load Capacity of weighing scale: 500 Kg | Resolution: 10 gm | Weighing System Accuracy and Class{As per Governing IS} [Percentage of Rated Output (RO)): ±0.25% of RO(Class 3) | Load Cell Accuracy and Class(As per the Governing IS): ± 0.1% of RO (Class 3) | Weighing Platform Size: 600 mm X 600 mm or better | Salient Features: Error / Out of Range Indication",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154184"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Weighing system with dimensioning Feature: Yes-Dimension Measurement Technology (Via Camera/ Sensor), Display with weight and dimensions both , Barcode Scanning, Image Capture & Storage functioning, No- Weighing system is only capable of weighing | Comprehensive Warranty: 1 year | Agreed to provide Model approval certificate for each model from Director Legal Metrology at the time bidding or on demand by buyer: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154184"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Baijnath | 284120,BHEL Khailar | 2 | 60",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154184"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154184"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "following address M/s Bharat Heavy Electricals Ltd Khailar Jhansi Uttar Pradesh PIN - 284120 . 3. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 4. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 5. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 6. Generic While generating invoice in GeM portal, the seller must upload scanned copy of GST invoice and the screenshot of GST portal confirming payment of GST. 7. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 8. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): NA Post Receipt Inspection at consignee site before acceptance of stores: BY BHEL AT BHEL JHANSI 9. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses A. INSPECTION TO BE DONE BY BHEL AT BHEL JHANSI WORKS. B. CALIBRATION CERTIFICATE TO BE PROVIDED ALONG WITH SUPPLY. C. PACKING INSTRUCTION:- : EACH ITEM/PACKING SHOULD BE PACKED PROPERLY TO",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154184"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "AVOID ANY DAMAGE DURING TRANSIT OR STORAGE AND HAVE IDENTIFICATION MAR K WITH BHEL MATERIAL CODE. D. GUARANTEE/ WARRANTY SHALL BE 12 MONTHS FROM THE DATE OF SUPPLY AND ACCEPTANCE AT BHEL JHANSI. E. BIDDER SHOULD BE OEM OR OEM AUTHORISED DEALER. IN CASE OF DEALER, VALI D AUTHORISATION CERTIFICATE FROM OEM TO BE PROVIDED ALONG WITH THE SUP PLY. F. DELIVERY PERIOD: 02 MONTH FROM THE DATE OF ISSUANCE OF PURCHASE. G. PAYMENT TERMS: - 100 % PAYMENT WITHIN 90 DAYS (45 DAYS FOR MSE /60 DAYS FOR MEDIUM MSE REGISTERED SUPPLIERS AS PER RELEVANT ACT IN FORCE) FROM T HE DATE OF RECEIPT OF MATERIAL AND SUBMISSION OF CLEAR AND ADMISSIBLE BIL L, SUBJECT TO ACCEPTANCE OF MATERIAL AT BHEL,ON DIRECT PRESENTATION OF T HE DOCUMENTS. PAYMENTS TO VENDORS WHO ARE SEEKING BENEFITS UNDER MSME ACT SHALL NOT BE ENTERTAINED IF THE UDYAM CERTIFICATE SUBMITTED BY THEM IS NOT VALID ON THE DATE OF PURCHASE ORDER. THE PAYMENT TERMS MENTIONED ABOVE IN BID ATC SHALL BE APPLICABLE ONLY. A NY OTHER PAYMENT TERMS STATED IN THE BID SHALL NOT BE APPLICABLE AND WIL L BE TREATED AS NULL AND VOID. Note: In respect of procurement of goods or services from Micro, Small and Medium enterp rises (MSMEs), the settlement of invoice shall be only through any of the TReDS platf orm (i.e RXIL, M1xchange, lnvoicemart,KReDX, C2FO), authorised by the Reserve Ba nk of India. Such MSME suppliers to select their preferred TReDS platform before award of contr act so that the data is captured in the Order /Contract database of the Unit. They als o will have the option to change the TReDS platform from the drop-down menu on Su vidha portal of BHEL, at the time of invoice submission. Wherever the Trade Receiva ble is accepted by BHEL, the same shall be validated by the Unit on the respective T ReDS platform selected by the supplier. The routing of invoices through the TReDS platform shall not be construed as manda ting discounting of such invoices and the MSMEs supplier shall have the option to av ail or not avail financing or discounting of its receivables on the TReDS platform. In case discounting is not availed by the supplier on TReDS, the trade receivables will be paid through TReDSas per the payment timelines indicated in the contract. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154184"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

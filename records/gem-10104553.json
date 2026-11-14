@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8220870",
   "title": "Laparoscopic Surgery System (V2)",
   "description": "Laparoscopic Surgery System (V2)",
-  "organisation": "NA",
-  "ministry": "Ministry of Power",
-  "department": "NA",
+  "organisation": "Ntpc Limited",
+  "ministry": "Ministry Of Power",
+  "department": "Na",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Laparoscopic Surgery System (V2)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 50000,
   "published_at": "2026-11-13T16:22:10+05:30",
   "closing_at": "2026-12-04T17:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10104553"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/wtKW7O8l7ZhgNvEWEJLWygDN9ibxlqnZo-UovjIS38g",
+      "page": 4
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8220870/CLM0010/spec_atc_9aa38e75-9c21-4a5c-b9db1793360529354_buyer4.ntpc.pdf",
+      "page": 12
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261113",
+      "page": 13
     }
   ],
   "tags": [
@@ -34,5 +54,719 @@
   ],
   "source_fetched_at": "2026-11-14T08:02:33.907Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-05T17:00:00+05:30",
+  "office": "Ussc Cpg2 Raipur",
+  "buyer_email": "rrkondappa@ntpc.co.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "120 (Days)",
+  "source_document_fetched_at": "2026-11-14T13:30:29.458516+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "f450adae912165845a242d124bb7b822514834c13cc4e07bfcb53e91eb81651b",
+  "document_pages": 14,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 10,
+      "consignee": "Sajal Dwivedi",
+      "address": "486885,GSTIN: 23AAACN0255D4Z3 NTPC Stores Vindhyachal Super Thermal Power Station P.O. Vindhyanagar District Singrauli 486885",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "GENERAL",
+          "parameter": "Product Description",
+          "value": "Laparoscopic Surgery System"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Components of the laparoscopic set to be from the same OEM",
+          "value": "Camera head, Camera console, Light source and cable, Telescope"
+        },
+        {
+          "group": "CAMERA PROCESSOR",
+          "parameter": "Camera processor",
+          "value": "2D, 3D"
+        },
+        {
+          "group": "CAMERA PROCESSOR",
+          "parameter": "Resolution of camera in pixels",
+          "value": "3840 x 2160 (4K)"
+        },
+        {
+          "group": "CAMERA PROCESSOR",
+          "parameter": "Aspect ratio",
+          "value": "16:9"
+        },
+        {
+          "group": "CAMERA PROCESSOR",
+          "parameter": "Image sensor",
+          "value": "CMOS/CCD"
+        },
+        {
+          "group": "CAMERA PROCESSOR",
+          "parameter": "Progressive scanning system for camera",
+          "value": "Yes"
+        },
+        {
+          "group": "CAMERA PROCESSOR",
+          "parameter": "Special filters for chrome endoscopy",
+          "value": "Yes Or higher"
+        },
+        {
+          "group": "CAMERA PROCESSOR",
+          "parameter": "Minimum Video output",
+          "value": "2"
+        },
+        {
+          "group": "CAMERA PROCESSOR",
+          "parameter": "Minimum Number of programmable buttons on camera head",
+          "value": "3"
+        },
+        {
+          "group": "CAMERA PROCESSOR",
+          "parameter": "Zoom facility",
+          "value": "Yes"
+        },
+        {
+          "group": "CAMERA PROCESSOR",
+          "parameter": "The system capable of lCG fluoroscopy for better delineation of anatomic structures",
+          "value": "Yes Or higher"
+        },
+        {
+          "group": "CAMERA PROCESSOR",
+          "parameter": "The camera head shall be sterilizable by autoclave or by some other appropriate technology",
+          "value": "Yes"
+        },
+        {
+          "group": "CAMERA PROCESSOR",
+          "parameter": "Camera shall have excellent performance under low light",
+          "value": "Yes"
+        },
+        {
+          "group": "CAMERA PROCESSOR",
+          "parameter": "Provision to add fiberoptic filter",
+          "value": "Yes"
+        },
+        {
+          "group": "CAMERA PROCESSOR",
+          "parameter": "Should be compatible with flexible video endoscope",
+          "value": "Yes"
+        },
+        {
+          "group": "CAMERA PROCESSOR",
+          "parameter": "Power supply",
+          "value": "100-240V, 50/60 Hz Single phase"
+        },
+        {
+          "group": "HIGH-RESOLUTION MEDICAL GRADE MONITOR",
+          "parameter": "Monitor type",
+          "value": "3D"
+        },
+        {
+          "group": "HIGH-RESOLUTION MEDICAL GRADE MONITOR",
+          "parameter": "Size of monitor in inches",
+          "value": "31 to 40"
+        },
+        {
+          "group": "HIGH-RESOLUTION MEDICAL GRADE MONITOR",
+          "parameter": "Resolution of monitor in pixels",
+          "value": "3840 x 2160 (4K)"
+        },
+        {
+          "group": "HIGH-RESOLUTION MEDICAL GRADE MONITOR",
+          "parameter": "Aspect ratio of monitor",
+          "value": "16:9"
+        },
+        {
+          "group": "HIGH-RESOLUTION MEDICAL GRADE MONITOR",
+          "parameter": "Panel shall be anti glare",
+          "value": "Yes"
+        },
+        {
+          "group": "HIGH-RESOLUTION MEDICAL GRADE MONITOR",
+          "parameter": "Monitor shall have picture in picture facility",
+          "value": "Yes"
+        },
+        {
+          "group": "HIGH-RESOLUTION MEDICAL GRADE MONITOR",
+          "parameter": "Provision of cooling",
+          "value": "Yes"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Provision of monitor stand with integrated cable channel for monitor",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Minimum Video inputs",
+          "value": "2"
+        },
+        {
+          "group": null,
+          "parameter": "Minimum Video output of monitor",
+          "value": "2"
+        },
+        {
+          "group": null,
+          "parameter": "Viewing angle of monitor",
+          "value": "178 degree (H) and 178 degree (V)"
+        },
+        {
+          "group": null,
+          "parameter": "Monitor should be PAL system compatible",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Availability of output ports",
+          "value": "Digital"
+        },
+        {
+          "group": null,
+          "parameter": "Power Supply",
+          "value": "100 - 240 VAC 50/60 Hz"
+        },
+        {
+          "group": "LIGHT SOURCE",
+          "parameter": "Light Source Type",
+          "value": "LED Lamp"
+        },
+        {
+          "group": "LIGHT SOURCE",
+          "parameter": "Lamp life",
+          "value": "10000 hours or more, 20000 hours or more Or higher"
+        },
+        {
+          "group": "LIGHT SOURCE",
+          "parameter": "Colour temperature of light source(Approx)",
+          "value": "4500 K to 5400 K, 5401 K to 6500 K Or higher"
+        },
+        {
+          "group": "LIGHT SOURCE",
+          "parameter": "Minimum LED Lamp intensity",
+          "value": "1500 Lumens or more, 1800 Lumens or more Or higher"
+        },
+        {
+          "group": "LIGHT SOURCE",
+          "parameter": "Means of light intensity adjustment facility",
+          "value": "Continuously adjustable from 0 to 100% manually/automatically"
+        },
+        {
+          "group": "LIGHT SOURCE",
+          "parameter": "NIR filter for ICG application",
+          "value": "Yes"
+        },
+        {
+          "group": "FIBRE OPTIC LIGHT CABLE",
+          "parameter": "Diameter in mm",
+          "value": "4.5 mm or above"
+        },
+        {
+          "group": "FIBRE OPTIC LIGHT CABLE",
+          "parameter": "Length in cm",
+          "value": "300 cm or above"
+        },
+        {
+          "group": "FIBRE OPTIC LIGHT CABLE",
+          "parameter": "Cable shall be autoclavable",
+          "value": "Yes"
+        },
+        {
+          "group": "FIBRE OPTIC LIGHT CABLE",
+          "parameter": "Fibre cable shall be capable of transmitting the optimum light delivered by the light source",
+          "value": "Yes"
+        },
+        {
+          "group": "FIBRE OPTIC LIGHT CABLE",
+          "parameter": "Cable shall have capability to with stand the high temperature",
+          "value": "Yes"
+        },
+        {
+          "group": "CO2 INSUFFLATOR",
+          "parameter": "CO2 insufflator provided",
+          "value": "Yes"
+        },
+        {
+          "group": "CO2 INSUFFLATOR",
+          "parameter": "Flow rate in Litre per minute",
+          "value": "40 or more"
+        },
+        {
+          "group": "CO2 INSUFFLATOR",
+          "parameter": "Pressure in mm Hg",
+          "value": "0 to 30 mmHg"
+        },
+        {
+          "group": "CO2 INSUFFLATOR",
+          "parameter": "Pre heating facility",
+          "value": "Yes"
+        },
+        {
+          "group": "CO2 INSUFFLATOR",
+          "parameter": "Digital Display for actual and pre set flow rate and pressure and total volume consumed",
+          "value": "Yes"
+        },
+        {
+          "group": "CO2 INSUFFLATOR",
+          "parameter": "Machine should be able to set flow rateautomatically depending on actual abdomen pressure and set pressure",
+          "value": "Yes"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Provision of automatic venting mechanism",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "High pressure tubing with yoke assembly from machine to CO2 cylinder",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Provision of patient tube with luer lock adaptor",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Availability of hydrophobic filter",
+          "value": "NA if not provided"
+        },
+        {
+          "group": null,
+          "parameter": "CO2 insufflator should have visual and audible alarms",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "lt should also have provision of automatic feed back on malfunction & indicators on control panel",
+          "value": "Yes"
+        },
+        {
+          "group": "TELESCOPES",
+          "parameter": "Compatibility of telescope",
+          "value": "4K"
+        },
+        {
+          "group": "DOCUMENTATION SYSTEM (RECORDER SYSTEM)",
+          "parameter": "The system is compact and provided with medical grade recording device",
+          "value": "Yes"
+        },
+        {
+          "group": "DOCUMENTATION SYSTEM (RECORDER SYSTEM)",
+          "parameter": "Type of recording system",
+          "value": "2D, 3D"
+        },
+        {
+          "group": "DOCUMENTATION SYSTEM (RECORDER SYSTEM)",
+          "parameter": "Provision for digital storage of still images, video sequences, and audio files Format available",
+          "value": "4K"
+        },
+        {
+          "group": "DOCUMENTATION SYSTEM (RECORDER SYSTEM)",
+          "parameter": "System is sterile, ergonomic operation via touch screen, camera head buttons / foot switch",
+          "value": "Yes"
+        },
+        {
+          "group": "DOCUMENTATION SYSTEM (RECORDER SYSTEM)",
+          "parameter": "System has full featured Graphical User Interface DICOM capability",
+          "value": "Yes"
+        },
+        {
+          "group": "DOCUMENTATION SYSTEM (RECORDER SYSTEM)",
+          "parameter": "Provision of Portable memory and USB slot for still image recording available",
+          "value": "Yes"
+        },
+        {
+          "group": "DOCUMENTATION SYSTEM (RECORDER SYSTEM)",
+          "parameter": "Minimum internal memory",
+          "value": "1 TB, 2TB Or higher"
+        },
+        {
+          "group": "DOCUMENTATION SYSTEM (RECORDER SYSTEM)",
+          "parameter": "Live streaming facility",
+          "value": "Yes"
+        },
+        {
+          "group": "SUCTION IRRIGATION SYSTEM",
+          "parameter": "Availability of suction and irrigation system for use in laparoscopy in surgical procedures",
+          "value": "NA if not provided"
+        },
+        {
+          "group": "SUCTION IRRIGATION SYSTEM",
+          "parameter": "Suction Irrigation System should be compatible for use with available 500 ml to 5 litre saline bottles",
+          "value": "NA if not provided"
+        },
+        {
+          "group": "SUCTION IRRIGATION SYSTEM",
+          "parameter": "lt should have either control by foot pedal oron the control panel located at hand piece",
+          "value": "NA if not provided"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "There should be provision of over flow protection",
+          "value": "NA if not provided"
+        },
+        {
+          "group": null,
+          "parameter": "Silicon tubing for better aesthetics and antibacterial filter for infection prevention to be provided",
+          "value": "NA if not provided"
+        },
+        {
+          "group": null,
+          "parameter": "Facility of pre-setting of suction and irrigation parameters",
+          "value": "NA if not provided"
+        },
+        {
+          "group": null,
+          "parameter": "Availability of display for set values and actual values",
+          "value": "NA if not provided"
+        },
+        {
+          "group": null,
+          "parameter": "Irrigation pressure in mm Hg",
+          "value": "NA if not provided"
+        },
+        {
+          "group": null,
+          "parameter": "Irrigation flow in ml/min",
+          "value": "NA if not provided"
+        },
+        {
+          "group": null,
+          "parameter": "Suction range in bar",
+          "value": "NA if not provided"
+        },
+        {
+          "group": "MOBILE VIDEOCART",
+          "parameter": "Mobile Videocart provided",
+          "value": "Yes"
+        },
+        {
+          "group": "MOBILE VIDEOCART",
+          "parameter": "Mobile Videocart should ride on four antistatic casters",
+          "value": "Yes"
+        },
+        {
+          "group": "MOBILE VIDEOCART",
+          "parameter": "Availability of locking brakes",
+          "value": "Yes"
+        },
+        {
+          "group": "MOBILE VIDEOCART",
+          "parameter": "Monitor arm provided with height adjustment",
+          "value": "1"
+        },
+        {
+          "group": "MOBILE VIDEOCART",
+          "parameter": "Number of shelves",
+          "value": "4"
+        },
+        {
+          "group": "MOBILE VIDEOCART",
+          "parameter": "Availability of handles for easy manoeuvring",
+          "value": "Yes"
+        },
+        {
+          "group": "MOBILE VIDEOCART",
+          "parameter": "Cable channel mounted on the left or right of the column",
+          "value": "Yes"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Online UPS 2 KVA",
+          "value": "Yes"
+        },
+        {
+          "group": "CERTIFICATIONS",
+          "parameter": "Compliance to Medical Device Rules (MDR) 2017 as amended till date",
+          "value": "Yes"
+        },
+        {
+          "group": "CERTIFICATIONS",
+          "parameter": "Availability of valid Medical Device license for the product issued from the competent authority defined under Drugs and Cosmetic Act 1940 and Rules made there under as amended till date",
+          "value": "Yes"
+        },
+        {
+          "group": "CERTIFICATIONS",
+          "parameter": "Certification for manufacturing unit",
+          "value": "ISO:13485 (Latest)"
+        },
+        {
+          "group": "CERTIFICATIONS",
+          "parameter": "Availability of Test Report for each supplied batch/product as per Medical Device Rule (MDR) 2017 as amended till date",
+          "value": "Yes"
+        },
+        {
+          "group": "CERTIFICATIONS",
+          "parameter": "Conformity to standards for safety",
+          "value": "IEC/EN 60601-1 or equivalent BIS Standard"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Submission of all necessary certifications, licenses and test reports to the buyer at the time of bid submission or along with supplies as per buyer requirement",
+          "value": "Yes"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "Warranty in Years (Option of comprehensive warranty is available through bidding only, which if opted will supersede normal warranty in the catalogue)",
+          "value": "5 Or higher (year)"
+        },
+        {
+          "group": "MISCELLANEOUS REQUIREMENTS",
+          "parameter": "Availability of toll free facility for technical support maintened by OEM or authorized agencies",
+          "value": "Yes"
+        },
+        {
+          "group": "MISCELLANEOUS REQUIREMENTS",
+          "parameter": "User/Technical/Maintenance manuals to be provided in English in hard and soft copy",
+          "value": "Yes"
+        },
+        {
+          "group": "MISCELLANEOUS REQUIREMENTS",
+          "parameter": "Details of equipments and procedures required for local calibration and routine maintenance to be provided and advanced maintenance task documentation also to be furnished",
+          "value": "Yes"
+        },
+        {
+          "group": "MISCELLANEOUS REQUIREMENTS",
+          "parameter": "Supplier to perform installation, safety and operation checks before handover",
+          "value": "Yes"
+        },
+        {
+          "group": "MISCELLANEOUS REQUIREMENTS",
+          "parameter": "Training of users in operation and basic maintenance shall be provided",
+          "value": "Yes"
+        },
+        {
+          "group": "MISCELLANEOUS REQUIREMENTS",
+          "parameter": "Contact details of manufacturer, supplier and local service agent to be provided",
+          "value": "Yes"
+        },
+        {
+          "group": "MISCELLANEOUS REQUIREMENTS",
+          "parameter": "Certificate of calibration from the manufacturer",
+          "value": "Yes"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 11,
+      "text": "1. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 2. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation:"
+    },
+    {
+      "page": 12,
+      "text": "a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 3. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 4. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 5. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 6. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses BUYER ADDED ATC TEXT: Please refer to the link provided against \"Buyer Uploaded ATC Document\" under the section titled \"Buyer Added Bid Specific ATC\" for detailed bid terms & conditions and applicable formats ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8220870",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104553"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 04-12-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104553"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 05-12-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104553"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104553"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Power",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104553"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Na",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104553"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Ntpc Limited",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104553"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Ussc Cpg2 Raipur",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104553"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :sudiptodesarkar@ntpc.co.in Buyer Email id: rrkondappa@ntpc.co.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104553"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104553"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Laparoscopic Surgery System (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104553"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104553"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104553"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104553"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104553"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 50000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104553"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 50000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104553"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 2,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104553"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Product Description: Laparoscopic Surgery System",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104553"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Components of the laparoscopic set to be from the same OEM: Camera head, Camera console, Light source and cable, Telescope | Camera processor: 2D, 3D | Resolution of camera in pixels: 3840 x 2160 (4K) | Aspect ratio: 16:9 | Image sensor: CMOS/CCD | Progressive scanning system for camera: Yes | Special filters for chrome endoscopy: Yes Or higher | Minimum Video output: 2 | Minimum Number of programmable buttons on camera head: 3 | Zoom facility: Yes | The system capable of lCG fluoroscopy for better delineation of anatomic structures: Yes Or higher | The camera head shall be sterilizable by autoclave or by some other appropriate technology: Yes | Camera shall have excellent performance under low light: Yes | Provision to add fiberoptic filter: Yes | Should be compatible with flexible video endoscope: Yes | Power supply: 100-240V, 50/60 Hz Single phase | Monitor type: 3D | Size of monitor in inches: 31 to 40 | Resolution of monitor in pixels: 3840 x 2160 (4K) | Aspect ratio of monitor: 16:9 | Panel shall be anti glare: Yes | Monitor shall have picture in picture facility: Yes | Provision of cooling: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104553"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Provision of monitor stand with integrated cable channel for monitor: Yes | Minimum Video inputs: 2 | Minimum Video output of monitor: 2 | Viewing angle of monitor: 178 degree (H) and 178 degree (V) | Monitor should be PAL system compatible: Yes | Availability of output ports: Digital | Power Supply: 100 - 240 VAC 50/60 Hz | Light Source Type: LED Lamp | Lamp life: 10000 hours or more, 20000 hours or more Or higher | Colour temperature of light source(Approx): 4500 K to 5400 K, 5401 K to 6500 K Or higher | Minimum LED Lamp intensity: 1500 Lumens or more, 1800 Lumens or more Or higher | Means of light intensity adjustment facility: Continuously adjustable from 0 to 100% manually/automatically | NIR filter for ICG application: Yes | Diameter in mm: 4.5 mm or above | Length in cm: 300 cm or above | Cable shall be autoclavable: Yes | Fibre cable shall be capable of transmitting the optimum light delivered by the light source: Yes | Cable shall have capability to with stand the high temperature: Yes | CO2 insufflator provided: Yes | Flow rate in Litre per minute: 40 or more | Pressure in mm Hg: 0 to 30 mmHg | Pre heating facility: Yes | Digital Display for actual and pre set flow rate and pressure and total volume consumed: Yes | Machine should be able to set flow rateautomatically depending on actual abdomen pressure and set pressure: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104553"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 7,
+      "quote": "Provision of automatic venting mechanism: Yes | High pressure tubing with yoke assembly from machine to CO2 cylinder: Yes | Provision of patient tube with luer lock adaptor: Yes | Availability of hydrophobic filter: NA if not provided | CO2 insufflator should have visual and audible alarms: Yes | lt should also have provision of automatic feed back on malfunction & indicators on control panel: Yes | Compatibility of telescope: 4K | The system is compact and provided with medical grade recording device: Yes | Type of recording system: 2D, 3D | Provision for digital storage of still images, video sequences, and audio files Format available: 4K | System is sterile, ergonomic operation via touch screen, camera head buttons / foot switch: Yes | System has full featured Graphical User Interface DICOM capability: Yes | Provision of Portable memory and USB slot for still image recording available: Yes | Minimum internal memory: 1 TB, 2TB Or higher | Live streaming facility: Yes | Availability of suction and irrigation system for use in laparoscopy in surgical procedures: NA if not provided | Suction Irrigation System should be compatible for use with available 500 ml to 5 litre saline bottles: NA if not provided | lt should have either control by foot pedal oron the control panel located at hand piece: NA if not provided",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104553"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 8,
+      "quote": "There should be provision of over flow protection: NA if not provided | Silicon tubing for better aesthetics and antibacterial filter for infection prevention to be provided: NA if not provided | Facility of pre-setting of suction and irrigation parameters: NA if not provided | Availability of display for set values and actual values: NA if not provided | Irrigation pressure in mm Hg: NA if not provided | Irrigation flow in ml/min: NA if not provided | Suction range in bar: NA if not provided | Mobile Videocart provided: Yes | Mobile Videocart should ride on four antistatic casters: Yes | Availability of locking brakes: Yes | Monitor arm provided with height adjustment: 1 | Number of shelves: 4 | Availability of handles for easy manoeuvring: Yes | Cable channel mounted on the left or right of the column: Yes | Online UPS 2 KVA: Yes | Compliance to Medical Device Rules (MDR) 2017 as amended till date: Yes | Availability of valid Medical Device license for the product issued from the competent authority defined under Drugs and Cosmetic Act 1940 and Rules made there under as amended till date: Yes | Certification for manufacturing unit: ISO:13485 (Latest) | Availability of Test Report for each supplied batch/product as per Medical Device Rule (MDR) 2017 as amended till date: Yes | Conformity to standards for safety: IEC/EN 60601-1 or equivalent BIS Standard",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104553"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 9,
+      "quote": "Submission of all necessary certifications, licenses and test reports to the buyer at the time of bid submission or along with supplies as per buyer requirement: Yes | Warranty in Years (Option of comprehensive warranty is available through bidding only, which if opted will supersede normal warranty in the catalogue): 5 Or higher (year) | Availability of toll free facility for technical support maintened by OEM or authorized agencies: Yes | User/Technical/Maintenance manuals to be provided in English in hard and soft copy: Yes | Details of equipments and procedures required for local calibration and routine maintenance to be provided and advanced maintenance task documentation also to be furnished: Yes | Supplier to perform installation, safety and operation checks before handover: Yes | Training of users in operation and basic maintenance shall be provided: Yes | Contact details of manufacturer, supplier and local service agent to be provided: Yes | Certificate of calibration from the manufacturer: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104553"
+    },
+    {
+      "field": "consignees",
+      "page": 10,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Sajal Dwivedi | 486885,GSTIN: 23AAACN0255D4Z3 NTPC Stores Vindhyachal Super Thermal Power Station P.O. Vindhyanagar District Singrauli 486885 | 1 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104553"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 11,
+      "quote": "1. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 2. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation:",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104553"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 12,
+      "quote": "a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 3. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 4. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 5. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 6. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses BUYER ADDED ATC TEXT: Please refer to the link provided against \"Buyer Uploaded ATC Document\" under the section titled \"Buyer Added Bid Specific ATC\" for detailed bid terms & conditions and applicable formats .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10104553"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

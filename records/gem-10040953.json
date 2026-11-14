@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8165960",
   "title": "Immunoassay Analyzer (V3)",
   "description": "Immunoassay Analyzer (V3)",
-  "organisation": "NA",
-  "ministry": "Ministry of Labour and Employment",
-  "department": "NA",
+  "organisation": "Employees State Insurance Corporation (esic)",
+  "ministry": "Ministry Of Labour And Employment",
+  "department": "Na",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Immunoassay Analyzer (V3)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 75000,
   "published_at": "2026-10-27T11:19:08+05:30",
   "closing_at": "2026-11-17T12:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10040953"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 5
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/hvNPbOjh0tGBTc0PxfOxMYGE1fBb4XyN9i9EAYJ3JcI",
+      "page": 6
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8165960/CLM0010/ATC_eb49d67a-908e-4901-8c7b1792055653723_dr.pankaj.kumar2@esic.gov.in.pdf",
+      "page": 9
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261027",
+      "page": 12
     }
   ],
   "tags": [
@@ -34,5 +54,399 @@
   ],
   "source_fetched_at": "2026-11-12T08:27:14.210Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-18T12:00:00+05:30",
+  "office": "Esic Model Hospital Namkum Ranchi Jharkhand",
+  "buyer_email": "dr.pankaj.kumar2@esic.gov.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 15,
+  "oem_turnover_lakhs": 100,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 4 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 3,
+  "epbg_duration_months": 62,
+  "offer_validity": "180 (Days)",
+  "estimated_bid_value": 3000000,
+  "source_document_fetched_at": "2026-11-14T00:35:21.984230+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "b873a3b812c60805129905eaa9b0e337ec482d116716bffda45aff523af5b423",
+  "document_pages": 12,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 15 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 100 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 4 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 50 % (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 8,
+      "consignee": "Sachin Kumar Manjhi",
+      "address": "834010,ESIC Medical College & Hospital, Namkum, Ranchi",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 45
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Type of Automation",
+          "value": "Fully automated, Semi automated"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Throughput of the system per hour",
+          "value": "? 50, ? 100, ? 200, ? 300, ? 400"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Sample Loading Capacity at a time",
+          "value": "? 10, ? 20, ? 30"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Type of samples",
+          "value": "Serum, Plasma, Whole blood, Urine, Hemolysate, Body fluids"
+        },
+        {
+          "group": "Test Menu",
+          "parameter": "Cardiac Markers",
+          "value": "Yes, No"
+        },
+        {
+          "group": "Test Menu",
+          "parameter": "Tests which can be performed by Cardiac Markers",
+          "value": "CK-MB, Troponin I / Troponin-T, Myoglobin, NT- proBNP, Aldosterone, Anjiotensin I, D-Dimer, LP-PLA2, hs-cTnl, hs-CRP, Hs - Troponin -I, H-FABP, BNP, NA"
+        },
+        {
+          "group": "Test Menu",
+          "parameter": "Infectious Bio Markers",
+          "value": "Yes, No"
+        },
+        {
+          "group": "Test Menu",
+          "parameter": "Tests which can be performed by Bio Markers",
+          "value": "Nephrocheck, NA"
+        },
+        {
+          "group": "Test Menu",
+          "parameter": "Tumor Markers",
+          "value": "No, Yes"
+        },
+        {
+          "group": "Test Menu",
+          "parameter": "Tests which can be performed by Tumor Markers",
+          "value": "AFP, CEA, Total PSA, f-PSA, CA 125, CA 15.3, CA 19-9, PAP, CA 50, CYFRA 21-1, CA 242, CA 72-4, NSE, S-100, SCCA, Pepsinogen I, Pepsinogen II, Gastrin - 17, IL-6, KL-6, CPSA, TNF-Alpha, HE4, ProGRP, INHIBIN-A, INHIBIN-B, Adiponectin, PIVKA, NA"
+        },
+        {
+          "group": "Test Menu",
+          "parameter": "Anemia profile",
+          "value": "Yes, No"
+        },
+        {
+          "group": "Test Menu",
+          "parameter": "Tests which can be performed by Anemia profile",
+          "value": "Vitamin B12, Ferritin, Folate (FA), Active-B12, NA"
+        },
+        {
+          "group": "Test Menu",
+          "parameter": "Bone Metabolism",
+          "value": "Yes, No"
+        },
+        {
+          "group": "Test Menu",
+          "parameter": "Tests which can be performed by Bone metabolism",
+          "value": "Intact PTH, Calcitonin, Osterocalcin, 25-OH Vitamin D, 125-OH Vitamin D, Beta Cross laps, Total P1NP, NA"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Thyroid profile",
+          "value": "Yes, No"
+        },
+        {
+          "group": null,
+          "parameter": "Tests which can be performed by thyroid profile",
+          "value": "TSH, T4, T3, FT4, FT3, Tg (Thyroglobulin), TGA (Anti - tg), TRAb, TMA, Anti - TPO, Rev T3, Intact PTH, TSI, NA"
+        },
+        {
+          "group": null,
+          "parameter": "Infertility",
+          "value": "Yes, No"
+        },
+        {
+          "group": null,
+          "parameter": "Tests which can be performed for infertility",
+          "value": "FSH, LH, HCG/ß-HCG, PRL, Estradiol, Progesterone, Free Estriol, Testosterone, Free Testosterone, DHEA - S, 17- OH Progesterone, AMH, SHBG, NA"
+        },
+        {
+          "group": null,
+          "parameter": "Infectious Test",
+          "value": "Yes, No"
+        },
+        {
+          "group": null,
+          "parameter": "Tests which can be performed for Infectious Test",
+          "value": "Anti HCV, Anti-HAV, Anti-HAV IgM, Anti-HBc, Anti-HBc IgM, Anti-Hbe, Anti-HBs, HBeAg, HBsAg Confirmatory, HBsAg, HIV Combi, Syphilis, HIV DUO & HCV Duo, Toxo IgG, Toxo IgM, Rubella IgG, Rubella IgM, CMV IgG, CMV IgM, HSV-1 IgG, HSV-2 IgG, NA"
+        },
+        {
+          "group": null,
+          "parameter": "Dual, Triple or Quad prenatal screening tests",
+          "value": "Yes, No"
+        },
+        {
+          "group": null,
+          "parameter": "Tests which can be performed for prenatal screening",
+          "value": "AFP (prenatal screening), Free ß - HCG, PAPP - A, HCG/ß-HCG, Free Estriol, PLGF, SFLT, NA"
+        },
+        {
+          "group": null,
+          "parameter": "Liver Fibrosis Tests",
+          "value": "Yes, No"
+        },
+        {
+          "group": null,
+          "parameter": "Tests which can be performed for Liver Fibrosis",
+          "value": "ELF, NA"
+        },
+        {
+          "group": null,
+          "parameter": "Alzheimer Screening",
+          "value": "Yes, No"
+        },
+        {
+          "group": null,
+          "parameter": "Tests which can be performed for Alzheimer Screening",
+          "value": "Beta Amyloyd, P.Tau, NA"
+        },
+        {
+          "group": null,
+          "parameter": "Neuro Markers",
+          "value": "Yes, No"
+        },
+        {
+          "group": null,
+          "parameter": "Tests which can be performed for Neuro Markers",
+          "value": "AB40, AB42, T Tau, P Tau, S100, NA"
+        },
+        {
+          "group": null,
+          "parameter": "Immuno Suppressive drugs",
+          "value": "Yes, No"
+        },
+        {
+          "group": null,
+          "parameter": "Tests which can be performed for Immuno Suppressive drugs",
+          "value": "Tacrolimus, Everolimus, Serolimus, Cyclosporin, NA"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 9,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8165960",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10040953"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 17-11-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10040953"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 18-11-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10040953"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10040953"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Labour And Employment",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10040953"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Na",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10040953"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Employees State Insurance Corporation (esic)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10040953"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Esic Model Hospital Namkum Ranchi Jharkhand",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10040953"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :mh-ranchi@esic.nic.in Buyer Email id: dr.pankaj.kumar2@esic.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10040953"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10040953"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Immunoassay Analyzer (V3) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10040953"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 15 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10040953"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 100 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10040953"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10040953"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10040953"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10040953"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10040953"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 4 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10040953"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 50 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10040953"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10040953"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 3000000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10040953"
+    },
+    {
+      "field": "emd_fee",
+      "page": 3,
+      "quote": "EMD Amount: 75000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10040953"
+    },
+    {
+      "field": "emd_required",
+      "page": 3,
+      "quote": "EMD Amount: 75000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10040953"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 3.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10040953"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 62",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10040953"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10040953"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Type of Automation: Fully automated, Semi automated | Throughput of the system per hour: ? 50, ? 100, ? 200, ? 300, ? 400 | Sample Loading Capacity at a time: ? 10, ? 20, ? 30 | Type of samples: Serum, Plasma, Whole blood, Urine, Hemolysate, Body fluids | Cardiac Markers: Yes, No | Tests which can be performed by Cardiac Markers: CK-MB, Troponin I / Troponin-T, Myoglobin, NT- proBNP, Aldosterone, Anjiotensin I, D-Dimer, LP-PLA2, hs-cTnl, hs-CRP, Hs - Troponin -I, H-FABP, BNP, NA | Infectious Bio Markers: Yes, No | Tests which can be performed by Bio Markers: Nephrocheck, NA | Tumor Markers: No, Yes | Tests which can be performed by Tumor Markers: AFP, CEA, Total PSA, f-PSA, CA 125, CA 15.3, CA 19-9, PAP, CA 50, CYFRA 21-1, CA 242, CA 72-4, NSE, S-100, SCCA, Pepsinogen I, Pepsinogen II, Gastrin - 17, IL-6, KL-6, CPSA, TNF-Alpha, HE4, ProGRP, INHIBIN-A, INHIBIN-B, Adiponectin, PIVKA, NA | Anemia profile: Yes, No | Tests which can be performed by Anemia profile: Vitamin B12, Ferritin, Folate (FA), Active-B12, NA | Bone Metabolism: Yes, No | Tests which can be performed by Bone metabolism: Intact PTH, Calcitonin, Osterocalcin, 25-OH Vitamin D, 125-OH Vitamin D, Beta Cross laps, Total P1NP, NA",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10040953"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 7,
+      "quote": "Thyroid profile: Yes, No | Tests which can be performed by thyroid profile: TSH, T4, T3, FT4, FT3, Tg (Thyroglobulin), TGA (Anti - tg), TRAb, TMA, Anti - TPO, Rev T3, Intact PTH, TSI, NA | Infertility: Yes, No | Tests which can be performed for infertility: FSH, LH, HCG/ß-HCG, PRL, Estradiol, Progesterone, Free Estriol, Testosterone, Free Testosterone, DHEA - S, 17- OH Progesterone, AMH, SHBG, NA | Infectious Test: Yes, No | Tests which can be performed for Infectious Test: Anti HCV, Anti-HAV, Anti-HAV IgM, Anti-HBc, Anti-HBc IgM, Anti-Hbe, Anti-HBs, HBeAg, HBsAg Confirmatory, HBsAg, HIV Combi, Syphilis, HIV DUO & HCV Duo, Toxo IgG, Toxo IgM, Rubella IgG, Rubella IgM, CMV IgG, CMV IgM, HSV-1 IgG, HSV-2 IgG, NA | Dual, Triple or Quad prenatal screening tests: Yes, No | Tests which can be performed for prenatal screening: AFP (prenatal screening), Free ß - HCG, PAPP - A, HCG/ß-HCG, Free Estriol, PLGF, SFLT, NA | Liver Fibrosis Tests: Yes, No | Tests which can be performed for Liver Fibrosis: ELF, NA | Alzheimer Screening: Yes, No | Tests which can be performed for Alzheimer Screening: Beta Amyloyd, P.Tau, NA | Neuro Markers: Yes, No | Tests which can be performed for Neuro Markers: AB40, AB42, T Tau, P Tau, S100, NA | Immuno Suppressive drugs: Yes, No | Tests which can be performed for Immuno Suppressive drugs: Tacrolimus, Everolimus, Serolimus, Cyclosporin, NA",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10040953"
+    },
+    {
+      "field": "consignees",
+      "page": 8,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Sachin Kumar Manjhi | 834010,ESIC Medical College & Hospital, Namkum, Ranchi | 1 | 45",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10040953"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10040953"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

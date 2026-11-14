@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8271054",
   "title": "Live Remote Temperature and Humidity Monitoring and Alert System",
   "description": "Live Remote Temperature and Humidity Monitoring and Alert System",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Army",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Live Remote Temperature and Humidity Monitoring and Alert System",
   "quantity": 15,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-13T12:09:01+05:30",
   "closing_at": "2026-11-16T12:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10162338"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/lFNjwCoBOBfuz1wLAue5c09TIH8FhQh3HIpB2dURiTI",
+      "page": 3
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8271054/CLM0010/SPEC_03796b79-dd02-4c96-936a1794551690948_quartermaster27punjab.pdf",
+      "page": 7
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261113",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +54,375 @@
   ],
   "source_fetched_at": "2026-11-14T19:36:37.648Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-17T12:00:00+05:30",
+  "buyer_email": "amakum.97781@gov.in",
+  "emd_required": false,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-14T22:33:50.854502+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "8a833b42a92e1ecb8e79bc240ece54747e8c2944464977b3da311e705edc6659",
+  "document_pages": 9,
+  "eligibility": [
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 60 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "***********",
+      "address": "***********Amritsar",
+      "quantity": 15,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "General",
+          "parameter": "Items covered in the System",
+          "value": "1. IOT Device for measuring & monitoring of temperature, 2.IOT Device for measuring & monitoring of temperature & Humidity, 3. Software for IOT device for monitoring"
+        },
+        {
+          "group": "General",
+          "parameter": "Activation & Demonstration of the product",
+          "value": "Yes"
+        },
+        {
+          "group": "General",
+          "parameter": "Demonstration Type",
+          "value": "onsite, remote"
+        },
+        {
+          "group": "General",
+          "parameter": "Number of Years upto which Support is available from OEM/Seller",
+          "value": "3"
+        },
+        {
+          "group": "IoT Device",
+          "parameter": "Features of IOT Device",
+          "value": "1. To measure, observe and monitor Temperature & Humidity in a real time remotely and send alerts when there is deviation from defined temperature range., 2. Captures the location detail of monitoring unit., 3. User configurable sampling and data reporting frequency"
+        },
+        {
+          "group": "IoT Device",
+          "parameter": "Key components in the IoT device",
+          "value": "1. Temperature Sensor, 2. Humidity Sensor, 3. Microcontroller, 4. Communication module, 5. Battery"
+        },
+        {
+          "group": "IoT Device",
+          "parameter": "Type of Monitoring",
+          "value": "Temperature, Humidity"
+        },
+        {
+          "group": "IoT Device",
+          "parameter": "No Of data readings stored in memory (in Thousand)",
+          "value": "1, 1.5, 2"
+        },
+        {
+          "group": "IoT Device",
+          "parameter": "Sensor type",
+          "value": "Internal, External"
+        },
+        {
+          "group": "IoT Device",
+          "parameter": "Visual display available in the offered product",
+          "value": "TFT"
+        },
+        {
+          "group": "IoT Device",
+          "parameter": "Warranty on the IOT device (years)",
+          "value": "1"
+        },
+        {
+          "group": "Temperature Sensor",
+          "parameter": "Sensitivity(in ?C)",
+          "value": "±0.5"
+        },
+        {
+          "group": "Temperature Sensor",
+          "parameter": "Temperature Resolution",
+          "value": "0.5"
+        },
+        {
+          "group": "Temperature Sensor",
+          "parameter": "Minimum Operating Temperature(in ?C) (Hint: Select \"0\" if not applicable )",
+          "value": "-30.0 - 0.0 Or lower"
+        },
+        {
+          "group": "Temperature Sensor",
+          "parameter": "Maximum Operating Temperature(in ?C) (Hint: Select \"0\" if not applicable; )",
+          "value": "0.0 - 60.0 Or higher"
+        },
+        {
+          "group": "Humidity Sensor",
+          "parameter": "Humidity Range(in % RH) (Hint: Select \"0\" if not applicable)",
+          "value": "10.0 - 100.0 Or higher"
+        },
+        {
+          "group": "Humidity Sensor",
+          "parameter": "Accuracy (in % RH)",
+          "value": "±2"
+        },
+        {
+          "group": "Humidity Sensor",
+          "parameter": "Sensitivity(in % RH)",
+          "value": "±0.1"
+        },
+        {
+          "group": "Communication Module",
+          "parameter": "Communication protocols Supported",
+          "value": "2G ( quad band), 3G, 4G (LTE), Wi-fi, Bluetooth"
+        },
+        {
+          "group": "Microcontroller",
+          "parameter": "Bit core",
+          "value": "4"
+        },
+        {
+          "group": "Microcontroller",
+          "parameter": "Core processor",
+          "value": "ARM"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Memory type",
+          "value": "RAM"
+        },
+        {
+          "group": null,
+          "parameter": "Memory Size in KB (Hint: Select \"0\" if not applicable; )",
+          "value": "1024.0 - 2048.0 Or higher"
+        },
+        {
+          "group": "Battery",
+          "parameter": "Type of Battery",
+          "value": "Non-Rechargeable Battery"
+        },
+        {
+          "group": "Battery",
+          "parameter": "Number of Batteries",
+          "value": "1"
+        },
+        {
+          "group": "Battery",
+          "parameter": "Chemistry of Battery",
+          "value": "Li-ion"
+        },
+        {
+          "group": "Battery",
+          "parameter": "Capacity of Battery (in mAh) (Hint: Select \"0\" if not applicable; )",
+          "value": "5000.0 - 6000.0 Or higher"
+        },
+        {
+          "group": "Battery",
+          "parameter": "Minimum Battery Back Up Time ( in days) as per standard sampling and data reporting intervals (Hint: Select \"0\" if not applicable)",
+          "value": "20.0 - 30.0 Or higher"
+        },
+        {
+          "group": "SOFTWARE",
+          "parameter": "Deployment Option",
+          "value": "In-premise, Cloud"
+        },
+        {
+          "group": "SOFTWARE",
+          "parameter": "Features of Software for monitoring/ Reports",
+          "value": "1. Graphical User Interface to configure, read, upgrade the device., 2. Software provides acess to data , reports of temperature, humidity and location., 3. Admin rights to create and manage devices and users, assign devices to users., 4. Set temperature limits for individual devices for monitoring & alert ., 5. User access to monitor each device and view/ download reports., 6. Create and modify storage locations like warehouse, and subsequent locations., 7. Create and modify Trips if used for transportation ., 8. API to integrate with other or existing application ."
+        },
+        {
+          "group": "SOFTWARE",
+          "parameter": "Type of Licence",
+          "value": "Perpetual"
+        },
+        {
+          "group": "SOFTWARE",
+          "parameter": "Valid licence copy to be provided",
+          "value": "Yes"
+        },
+        {
+          "group": "Generic Features",
+          "parameter": "Alarm Types",
+          "value": "SMS, Mobile Apps, Email, Audio"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "ेेतताा ाारराा जजोोड़ड़ गगईई बबडड कक ववशशेषेष शशतत"
+    },
+    {
+      "page": 6,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 3. Generic Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller. 4. Generic Malicious Code Certificate: The seller should upload following certificate in the bid:- (a) This is to certify that the Hardware and the Software being offered, as part of the contract, does not contain Embedded Malicious code that would activate procedures to :- (i) Inhibit the desires and designed function of the equipment. (ii) Cause physical damage to the user or equipment during the exploitation. (iii) Tap information resident or transient in the equipment/network. (b) The firm will be considered to be in breach of the procurement contract, in case physical damage, loss of information or infringements related to copyright and Intellectual Property Right (IPRs) are caused due to activation of any such malicious code in embedded software. 5. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 6. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 7. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 8. Service & Support"
+    },
+    {
+      "page": 7,
+      "text": "Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 9. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 10. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): By OEM/ Vendor Post Receipt Inspection at consignee site before acceptance of stores: By Board of Officers 11. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 12. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8271054",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162338"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 16-11-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162338"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 17-11-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162338"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162338"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162338"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162338"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Army",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162338"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :gotnil.130y@gov.in Buyer Email id: amakum.97781@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162338"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162338"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Live Remote Temperature and Humidity Monitoring and Alert System (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162338"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162338"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162338"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162338"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162338"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 60 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162338"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162338"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162338"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162338"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Items covered in the System: 1. IOT Device for measuring & monitoring of temperature, 2.IOT Device for measuring & monitoring of temperature & Humidity, 3. Software for IOT device for monitoring | Activation & Demonstration of the product: Yes | Demonstration Type: onsite, remote | Number of Years upto which Support is available from OEM/Seller: 3 | Features of IOT Device: 1. To measure, observe and monitor Temperature & Humidity in a real time remotely and send alerts when there is deviation from defined temperature range., 2. Captures the location detail of monitoring unit., 3. User configurable sampling and data reporting frequency | Key components in the IoT device: 1. Temperature Sensor, 2. Humidity Sensor, 3. Microcontroller, 4. Communication module, 5. Battery | Type of Monitoring: Temperature, Humidity | No Of data readings stored in memory (in Thousand): 1, 1.5, 2 | Sensor type: Internal, External | Visual display available in the offered product: TFT | Warranty on the IOT device (years): 1 | Sensitivity(in ?C): ±0.5 | Temperature Resolution: 0.5 | Minimum Operating Temperature(in ?C) (Hint: Select \"0\" if not applicable ): -30.0 - 0.0 Or lower | Maximum Operating Temperature(in ?C) (Hint: Select \"0\" if not applicable; ): 0.0 - 60.0 Or higher | Humidity Range(in % RH) (Hint: Select \"0\" if not applicable): 10.0 - 100.0 Or higher | Accuracy (in % RH): ±2 | Sensitivity(in % RH): ±0.1 | Communication protocols Supported: 2G ( quad band), 3G, 4G (LTE), Wi-fi, Bluetooth | Bit core: 4 | Core processor: ARM",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162338"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Memory type: RAM | Memory Size in KB (Hint: Select \"0\" if not applicable; ): 1024.0 - 2048.0 Or higher | Type of Battery: Non-Rechargeable Battery | Number of Batteries: 1 | Chemistry of Battery: Li-ion | Capacity of Battery (in mAh) (Hint: Select \"0\" if not applicable; ): 5000.0 - 6000.0 Or higher | Minimum Battery Back Up Time ( in days) as per standard sampling and data reporting intervals (Hint: Select \"0\" if not applicable): 20.0 - 30.0 Or higher | Deployment Option: In-premise, Cloud | Features of Software for monitoring/ Reports: 1. Graphical User Interface to configure, read, upgrade the device., 2. Software provides acess to data , reports of temperature, humidity and location., 3. Admin rights to create and manage devices and users, assign devices to users., 4. Set temperature limits for individual devices for monitoring & alert ., 5. User access to monitor each device and view/ download reports., 6. Create and modify storage locations like warehouse, and subsequent locations., 7. Create and modify Trips if used for transportation ., 8. API to integrate with other or existing application . | Type of Licence: Perpetual | Valid licence copy to be provided: Yes | Alarm Types: SMS, Mobile Apps, Email, Audio",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162338"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********Amritsar | 15 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162338"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "ेेतताा ाारराा जजोोड़ड़ गगईई बबडड कक ववशशेषेष शशतत",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162338"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 3. Generic Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller. 4. Generic Malicious Code Certificate: The seller should upload following certificate in the bid:- (a) This is to certify that the Hardware and the Software being offered, as part of the contract, does not contain Embedded Malicious code that would activate procedures to :- (i) Inhibit the desires and designed function of the equipment. (ii) Cause physical damage to the user or equipment during the exploitation. (iii) Tap information resident or transient in the equipment/network. (b) The firm will be considered to be in breach of the procurement contract, in case physical damage, loss of information or infringements related to copyright and Intellectual Property Right (IPRs) are caused due to activation of any such malicious code in embedded software. 5. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 6. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 7. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 8. Service & Support",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162338"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 9. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 10. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): By OEM/ Vendor Post Receipt Inspection at consignee site before acceptance of stores: By Board of Officers 11. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 12. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10162338"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

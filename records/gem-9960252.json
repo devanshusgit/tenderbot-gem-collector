@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8095222",
   "title": "Dissolved Oxygen Meter",
   "description": "Dissolved Oxygen Meter",
-  "organisation": "Power Department Delhi",
-  "ministry": "",
+  "organisation": "N/a",
+  "ministry": "Delhi",
   "department": "Power Department Delhi",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Dissolved Oxygen Meter",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-10-15T11:37:29+05:30",
   "closing_at": "2026-11-16T11:00:00+05:30",
   "status": "active",
@@ -27,6 +27,16 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/9960252"
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/l21jP9tpdwOymd7W5S_3fHhIKlOufzYqctQmAwrS_E0",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261015",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +44,268 @@
   ],
   "source_fetched_at": "2026-11-14T19:34:54.286Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "office": "Ppcl",
+  "buyer_email": "vaibhav.1985@ipgcl-ppcl.nic.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 14,
+  "offer_validity": "120 (Days)",
+  "source_document_fetched_at": "2026-11-15T07:24:07.901786+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "8010262cd772a3d491688f9218b51e7136d3a07caaa4990b9a1202cea87c8032",
+  "document_pages": 7,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Ajay Kumar Bhindia",
+      "address": "110002,PRAGATI POWER STATION, IP ESTATE, RING ROAD, NEW DELHI - 110002",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 60
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "GENERAL",
+          "parameter": "Type of Dissolved Oxygen (DO) Meter",
+          "value": "Handheld"
+        },
+        {
+          "group": "GENERAL",
+          "parameter": "DO Sensor Technology / Principle",
+          "value": "Optical"
+        },
+        {
+          "group": "GENERAL",
+          "parameter": "Probe / Electrode Type",
+          "value": "Lifetime Luminiscent for Optical"
+        },
+        {
+          "group": "GENERAL",
+          "parameter": "Measurement Modes",
+          "value": "mg/l ( ppm ) and DO % Stauration"
+        },
+        {
+          "group": "GENERAL",
+          "parameter": "Measurement of other dependent parameters",
+          "value": "Temperature, Pressure, Salinity"
+        },
+        {
+          "group": "COMPENSATION / CORRECTION",
+          "parameter": "Temperature correction",
+          "value": "Automatic"
+        },
+        {
+          "group": "COMPENSATION / CORRECTION",
+          "parameter": "Temperature Compensation Range ( in ?C )",
+          "value": "0 to 50"
+        },
+        {
+          "group": "COMPENSATION / CORRECTION",
+          "parameter": "Barometric Pressure correction",
+          "value": "Automatic"
+        },
+        {
+          "group": "DISPLAY / STORAGE",
+          "parameter": "Connectivity interface",
+          "value": "USB"
+        },
+        {
+          "group": "POWER SOURCE",
+          "parameter": "Power Source",
+          "value": "Rechargeable Battery"
+        },
+        {
+          "group": "POWER SOURCE",
+          "parameter": "Suitable Adapter to be supplied to make the equipment Work on 230 V ± 10 %, 50 Hz",
+          "value": "Yes"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "Warranty on Equipment",
+          "value": "2.0, 3.0 (year)"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "Warranty on Probe / Electrode",
+          "value": "12.0 (month)"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "Warranty on Cables for Connecting Probe",
+          "value": "1.0 (year)"
+        },
+        {
+          "group": "CERTIFICATION",
+          "parameter": "Availability of Test Reports from Central Govt / NABL approved / ILAC accredited Lab to prove conformity to the specification",
+          "value": "Yes, No"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses \"LABORATORY INSTRUMENT, INSTRUMENT NAME : PORTABLE DI SSOLVED OXYGEN Missing Text- ( METER, RANGE : 0 PPB - 10 PPM OR BETTER) * Delivery Period : Within two months from the issue of GeM Order (A) Additional Specifications :- ADDITIONAL INFORMATION : 1. RESOLUTION- 0.0001 PPM OR BETTER 2. ACCURACY- ± 1.0% OF MEASURED VALUE OR BETTER 3. TEMP RANGE- 0-50ºC OR MORE 4. AUTOMATIC TEMPERATURE AND BAROMETRIC PRESSURE COMPENSATION 5. ABILITY TO WORK AT LOW FLOW RATES (MINIMUM 25 ML/MIN) WITH QUICK REPONSE TIME 6. INSTRUMENT SHOULD HAVE BUILT IN RECHARGEABLE BATTERY ALONG WITH A POWER SUPPLY UNIT AND CHARGER 7. MEMORY OF THE ANALYZER SHOULD BE SUFFICIENT TO STORE 500 READINGS OR MORE 8. EXTRA SET OF AT LEAST 10 MEMBRANES OR MORE TO BE PROVIDED ALONGWITH THE METER 9. SUFFICIENT AMOUNT OF ELECTROLYTE TO BE PROVIDED IN THE FORM OF 3-4 EXTRA REFILLS OR MORE 10. PROCEDURE FOR OPERATING THE INSTRUMENT AS WELL AS CALIBRATION SHOULD BE CLEARLY ILLUSTRATED IN THE MANUAL\" Special Terms and Conditions for bidders :- a) The vendor has to submit the Catalogue, make & model of quoted instrument with complete specificatio ns at the time of bidding itself and same will be freezed for technical evaluation and it can not be changed later on. Any deviation from product specifications and ATC result in technically non acceptability/rejection"
+    },
+    {
+      "page": 5,
+      "text": "b) In addition to above, vendor will install commission and demo the instruments (same make and model as quoted in the bid) free of cost after delivery at site. Supply of different instrument /make model will res ult in action as per GeM GTC. c) Contract Period: 01 year d) Delivery Period: Within Two months from the issuing date of GeM order. e) Guarantee / Warrantee: Minimum 1 Year f) PBG: Applicable , e-PBG @ 5% with validity of 14 months g) Penalty: Applicable as per NIT. h) Test certificate from the manufacturer is required. i) QVC and Qty tolerance : Not applicable (j) SD clause not applicable (k) Interchangeability : Not applicable (l) Sellers/Bidders are advised not to participate in the bid from the same IP addresses. The bid/offer of tho se firms will liable to be rejected, if it is observed/noticed that bidders have participated from the same IP address of two or more firms. (j) The vendor has to upload the complete manual of offered product to crossche ck the specifications, failing which the bid will not be considered ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8095222",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9960252"
+    },
+    {
+      "field": "document_closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 05-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9960252"
+    },
+    {
+      "field": "document_opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 06-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9960252"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9960252"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Delhi",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9960252"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Power Department Delhi",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9960252"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: N/a",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9960252"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Ppcl",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9960252"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :vineetgupta@ipgcl-ppcl.nic.in Buyer Email id: vaibhav.1985@ipgcl-ppcl.nic.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9960252"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9960252"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Dissolved Oxygen Meter (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9960252"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9960252"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9960252"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9960252"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9960252"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 14",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9960252"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9960252"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9960252"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Type of Dissolved Oxygen (DO) Meter: Handheld | DO Sensor Technology / Principle: Optical | Probe / Electrode Type: Lifetime Luminiscent for Optical | Measurement Modes: mg/l ( ppm ) and DO % Stauration | Measurement of other dependent parameters: Temperature, Pressure, Salinity | Temperature correction: Automatic | Temperature Compensation Range ( in ?C ): 0 to 50 | Barometric Pressure correction: Automatic | Connectivity interface: USB | Power Source: Rechargeable Battery | Suitable Adapter to be supplied to make the equipment Work on 230 V ± 10 %, 50 Hz: Yes | Warranty on Equipment: 2.0, 3.0 (year) | Warranty on Probe / Electrode: 12.0 (month) | Warranty on Cables for Connecting Probe: 1.0 (year) | Availability of Test Reports from Central Govt / NABL approved / ILAC accredited Lab to prove conformity to the specification: Yes, No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9960252"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Ajay Kumar Bhindia | 110002,PRAGATI POWER STATION, IP ESTATE, RING ROAD, NEW DELHI - 110002 | 1 | 60",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9960252"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses \"LABORATORY INSTRUMENT, INSTRUMENT NAME : PORTABLE DI SSOLVED OXYGEN Missing Text- ( METER, RANGE : 0 PPB - 10 PPM OR BETTER) * Delivery Period : Within two months from the issue of GeM Order (A) Additional Specifications :- ADDITIONAL INFORMATION : 1. RESOLUTION- 0.0001 PPM OR BETTER 2. ACCURACY- ± 1.0% OF MEASURED VALUE OR BETTER 3. TEMP RANGE- 0-50ºC OR MORE 4. AUTOMATIC TEMPERATURE AND BAROMETRIC PRESSURE COMPENSATION 5. ABILITY TO WORK AT LOW FLOW RATES (MINIMUM 25 ML/MIN) WITH QUICK REPONSE TIME 6. INSTRUMENT SHOULD HAVE BUILT IN RECHARGEABLE BATTERY ALONG WITH A POWER SUPPLY UNIT AND CHARGER 7. MEMORY OF THE ANALYZER SHOULD BE SUFFICIENT TO STORE 500 READINGS OR MORE 8. EXTRA SET OF AT LEAST 10 MEMBRANES OR MORE TO BE PROVIDED ALONGWITH THE METER 9. SUFFICIENT AMOUNT OF ELECTROLYTE TO BE PROVIDED IN THE FORM OF 3-4 EXTRA REFILLS OR MORE 10. PROCEDURE FOR OPERATING THE INSTRUMENT AS WELL AS CALIBRATION SHOULD BE CLEARLY ILLUSTRATED IN THE MANUAL\" Special Terms and Conditions for bidders :- a) The vendor has to submit the Catalogue, make & model of quoted instrument with complete specificatio ns at the time of bidding itself and same will be freezed for technical evaluation and it can not be changed later on. Any deviation from product specifications and ATC result in technically non acceptability/rejection",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9960252"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "b) In addition to above, vendor will install commission and demo the instruments (same make and model as quoted in the bid) free of cost after delivery at site. Supply of different instrument /make model will res ult in action as per GeM GTC. c) Contract Period: 01 year d) Delivery Period: Within Two months from the issuing date of GeM order. e) Guarantee / Warrantee: Minimum 1 Year f) PBG: Applicable , e-PBG @ 5% with validity of 14 months g) Penalty: Applicable as per NIT. h) Test certificate from the manufacturer is required. i) QVC and Qty tolerance : Not applicable (j) SD clause not applicable (k) Interchangeability : Not applicable (l) Sellers/Bidders are advised not to participate in the bid from the same IP addresses. The bid/offer of tho se firms will liable to be rejected, if it is observed/noticed that bidders have participated from the same IP address of two or more firms. (j) The vendor has to upload the complete manual of offered product to crossche ck the specifications, failing which the bid will not be considered .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9960252"
+    }
+  ],
+  "detail_warning": "The original PDF dates differ from the current public GeM listing. The listing closing date is retained. Confirm the latest opening date and any corrigenda on GeM; the original PDF opening date is not presented as current.",
+  "document_closing_at": "2026-11-05T11:00:00+05:30",
+  "document_opening_at": "2026-11-06T11:00:00+05:30",
+  "date_discrepancy": {
+    "listing_closing_at": "2026-11-16T11:00:00+05:30",
+    "document_closing_at": "2026-11-05T11:00:00+05:30",
+    "document_opening_at": "2026-11-06T11:00:00+05:30"
+  }
 }

@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8143748",
   "title": "Turntable Ladder (Fire and Rescue Trucks)",
   "description": "Turntable Ladder (Fire and Rescue Trucks)",
-  "organisation": "Home Department Delhi",
-  "ministry": "",
+  "organisation": "N/a",
+  "ministry": "Delhi",
   "department": "Home Department Delhi",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Turntable Ladder (Fire and Rescue Trucks)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 1440000,
   "published_at": "2026-10-15T13:07:02+05:30",
   "closing_at": "2026-11-16T14:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10015560"
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/WWGsQamDRoh1O1yURzumjvDjgRBlTkOJbOwEvJMLWjQ",
+      "page": 4
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8143748/CLM0010/Spec55Mt_6929b126-f9d3-479a-93921791620454704_dfsprct2.pdf",
+      "page": 7
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261015",
+      "page": 10
     }
   ],
   "tags": [
@@ -34,5 +49,358 @@
   ],
   "source_fetched_at": "2026-11-15T00:37:22.504Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "office": "Workshop, Headquarters",
+  "buyer_email": "adohq1.dlfire@delhi.gov.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 360,
+  "oem_turnover_lakhs": 360,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 84,
+  "offer_validity": "120 (Days)",
+  "source_document_fetched_at": "2026-11-15T07:20:44.143484+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "d9d5c0f48f687f8cfe80a34d556c870957ac5edfeb1cf8fbf51bc10468bb54a7",
+  "document_pages": 10,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 360 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 360 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 80 % (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Ajay Kumar Sharma",
+      "address": "110001,DELHI FIRE SERVICE, HEADQUARTERS, CONNAUGHT LANE, NEW DELHI-110001",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 180
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Generic",
+          "parameter": "Water Tank",
+          "value": "With Water Tank, Without Water Tank"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Water Tank Capacity",
+          "value": "<=1000 Liters, >1000 <=2000 Liters, >2000 <=3000 Liters, > 3000 Liters, NA"
+        },
+        {
+          "group": "Chassis",
+          "parameter": "Type Of Fuel",
+          "value": "Diesel"
+        },
+        {
+          "group": "Chassis",
+          "parameter": "Chassis with Built up Cabin for Driver",
+          "value": "Yes"
+        },
+        {
+          "group": "Chassis",
+          "parameter": "Engine Power BHP (Max)",
+          "value": "Above 150"
+        },
+        {
+          "group": "Chassis",
+          "parameter": "Type Of Clutch",
+          "value": "Single Plate, Dry Clutch, Hydraulically Actuated"
+        },
+        {
+          "group": "Chassis",
+          "parameter": "Power Transmission System",
+          "value": "Manual, Automatic"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Type Of Steering",
+          "value": "Power Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Axle Configuration",
+          "value": "4 X 2, 4 X 4, 6 X 2, 6 X 4, 8 X 2, 8 X 4, 10 X 4"
+        },
+        {
+          "group": "Cabin",
+          "parameter": "Seating Capacity In The Driver Cabin Cum Crew Compartment (excluding driver)",
+          "value": "2"
+        },
+        {
+          "group": "Cabin",
+          "parameter": "Cabin Class",
+          "value": "Airconditioned Or higher"
+        },
+        {
+          "group": "Cabin",
+          "parameter": "Base Frame Structure",
+          "value": "Mild Steel"
+        },
+        {
+          "group": "Cabin",
+          "parameter": "Hook",
+          "value": "Front Bumper"
+        },
+        {
+          "group": "Ladder Set",
+          "parameter": "Maximum Working Height",
+          "value": "55.0 (meter)"
+        },
+        {
+          "group": "Ladder Set",
+          "parameter": "Ladder Section",
+          "value": "Articulated Arm, Straight Arm, Articulates with Telescopic Extension Arm"
+        },
+        {
+          "group": "Ladder Set",
+          "parameter": "Automatic function of cage load based on outriggers position",
+          "value": "Yes"
+        },
+        {
+          "group": "Hydraulic Cylinders",
+          "parameter": "Automatic dampers to prevent the pressure shocks and shall dampen the movement when a mechanical stop is reached",
+          "value": "Through Computer Control System"
+        },
+        {
+          "group": "Controls and Safety",
+          "parameter": "The engine starting and stopping switch is provided on all control panels",
+          "value": "Yes"
+        },
+        {
+          "group": "Certification",
+          "parameter": "Warranty Period in Years for complete turntable ladder including chassis",
+          "value": "2, 3, 4, 5 Or higher (year)"
+        },
+        {
+          "group": "Certification",
+          "parameter": "Battery Warranty In Years As Per Battery OEM",
+          "value": "1, 2, 3, 4, 5 Or higher (year)"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery"
+    },
+    {
+      "page": 7,
+      "text": "time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Provisions for workmen compensation, insurance, public liability, property damage, insurance etc. to be ensured by the contractor. Also, safety measures prescribed for working in Extra High Voltage & use of personnel protective equipment must be adhered to. 3. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 4. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 5. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 6. Certificates Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked by Buyer’s Lab & the Results of the Lab will be the Sole Criteria for Acceptance of the Item. 7. Certificates To be eligible for award of contract, Bidder / OEM must possess following Certificates / Test Reports on the date of bid opening (to be uploaded with bid): yes . 8. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 9. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 10. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Upon detailed examination of the technical requirements, it is clarified that the values/parameters stipulat ed in the specifications duly approved by the Department and uploaded on the GeM portal shall be constru ed as additional requirements over and above the requirements specified in the standard GeM parameters . In the event of any inconsistency or conflict between the Department-approved specification s and the standard GeM parameters, the Department-approved specifications shall prevail sol ely to the extent of such inconsistency, provided that such precedence is permissible under th e applicable GeM terms and conditions and procurement rules. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8143748",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10015560"
+    },
+    {
+      "field": "document_closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 07-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10015560"
+    },
+    {
+      "field": "document_opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 08-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10015560"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10015560"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Delhi",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10015560"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Home Department Delhi",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10015560"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: N/a",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10015560"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Workshop, Headquarters",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10015560"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :abhilash.malik@delhi.gov.in Buyer Email id: adohq1.dlfire@delhi.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10015560"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10015560"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Turntable Ladder (Fire and Rescue Trucks) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10015560"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "((33 )) /Minimum Average Annual Turnover of the bidder (For 3 Financial Years): 360 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10015560"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 360 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10015560"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10015560"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10015560"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10015560"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10015560"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10015560"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 80 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10015560"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10015560"
+    },
+    {
+      "field": "emd_fee",
+      "page": 3,
+      "quote": "EMD Amount: 1440000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10015560"
+    },
+    {
+      "field": "emd_required",
+      "page": 3,
+      "quote": "EMD Amount: 1440000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10015560"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10015560"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 84",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10015560"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10015560"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Water Tank: With Water Tank, Without Water Tank | Water Tank Capacity: <=1000 Liters, >1000 <=2000 Liters, >2000 <=3000 Liters, > 3000 Liters, NA | Type Of Fuel: Diesel | Chassis with Built up Cabin for Driver: Yes | Engine Power BHP (Max): Above 150 | Type Of Clutch: Single Plate, Dry Clutch, Hydraulically Actuated | Power Transmission System: Manual, Automatic",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10015560"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Type Of Steering: Power Or higher | Axle Configuration: 4 X 2, 4 X 4, 6 X 2, 6 X 4, 8 X 2, 8 X 4, 10 X 4 | Seating Capacity In The Driver Cabin Cum Crew Compartment (excluding driver): 2 | Cabin Class: Airconditioned Or higher | Base Frame Structure: Mild Steel | Hook: Front Bumper | Maximum Working Height: 55.0 (meter) | Ladder Section: Articulated Arm, Straight Arm, Articulates with Telescopic Extension Arm | Automatic function of cage load based on outriggers position: Yes | Automatic dampers to prevent the pressure shocks and shall dampen the movement when a mechanical stop is reached: Through Computer Control System | The engine starting and stopping switch is provided on all control panels: Yes | Warranty Period in Years for complete turntable ladder including chassis: 2, 3, 4, 5 Or higher (year) | Battery Warranty In Years As Per Battery OEM: 1, 2, 3, 4, 5 Or higher (year)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10015560"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Ajay Kumar Sharma | 110001,DELHI FIRE SERVICE, HEADQUARTERS, CONNAUGHT LANE, NEW DELHI-110001 | 1 | 180",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10015560"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10015560"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Provisions for workmen compensation, insurance, public liability, property damage, insurance etc. to be ensured by the contractor. Also, safety measures prescribed for working in Extra High Voltage & use of personnel protective equipment must be adhered to. 3. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 4. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 5. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 6. Certificates Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked by Buyer’s Lab & the Results of the Lab will be the Sole Criteria for Acceptance of the Item. 7. Certificates To be eligible for award of contract, Bidder / OEM must possess following Certificates / Test Reports on the date of bid opening (to be uploaded with bid): yes . 8. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 9. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 10. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Upon detailed examination of the technical requirements, it is clarified that the values/parameters stipulat ed in the specifications duly approved by the Department and uploaded on the GeM portal shall be constru ed as additional requirements over and above the requirements specified in the standard GeM parameters . In the event of any inconsistency or conflict between the Department-approved specification s and the standard GeM parameters, the Department-approved specifications shall prevail sol ely to the extent of such inconsistency, provided that such precedence is permissible under th e applicable GeM terms and conditions and procurement rules. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10015560"
+    }
+  ],
+  "detail_warning": "The original PDF dates differ from the current public GeM listing. The listing closing date is retained. Confirm the latest opening date and any corrigenda on GeM; the original PDF opening date is not presented as current.",
+  "document_closing_at": "2026-11-07T14:00:00+05:30",
+  "document_opening_at": "2026-11-08T14:00:00+05:30",
+  "date_discrepancy": {
+    "listing_closing_at": "2026-11-16T14:00:00+05:30",
+    "document_closing_at": "2026-11-07T14:00:00+05:30",
+    "document_opening_at": "2026-11-08T14:00:00+05:30"
+  }
 }

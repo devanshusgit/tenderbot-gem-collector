@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8150481",
   "title": "Entry and Mid Level Desktop Computer",
   "description": "Entry and Mid Level Desktop Computer",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "North Central Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Entry and Mid Level Desktop Computer",
   "quantity": 319,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 414700,
   "published_at": "2026-10-15T11:50:08+05:30",
   "closing_at": "2026-11-16T09:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10023520"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/56mazegTrQOW-8DVXjGl6tMBbVn8YPYZb1nO7PMnaRQ",
+      "page": 5
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261015",
+      "page": 13
     }
   ],
   "tags": [
@@ -34,5 +49,366 @@
   ],
   "source_fetched_at": "2026-11-14T19:20:41.170Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "office": "Ncr",
+  "buyer_email": "dcmmghq@ncr.railnet.gov.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document 2 / 13",
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Past Performance,OEM Authorization Certificate,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Single Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 38,
+  "offer_validity": "120 (Days)",
+  "source_document_fetched_at": "2026-11-15T07:23:44.084344+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "f4e85836bb953e5a51bf24469c82d1211dae1990d407b97f3acb8831918825df",
+  "document_pages": 13,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Past Performance,OEM Authorization Certificate,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 20 % (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document 2 / 13 (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 7,
+      "consignee": "Radhey Shyam Verma",
+      "address": "211011,CM/IT Office G-233, IT Cell 2nd floor, Mandakini Building, North Central Railway headquarter Allahabad",
+      "quantity": 319,
+      "quantity_label": "Quantity",
+      "delivery_days": 60
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": "PROCESSOR",
+          "parameter": "Description of Stores",
+          "value": "Desktop Computer with Table Mount Monitor System with Compatible Chipset as per Processor Make with Minimum 6 USB Port"
+        },
+        {
+          "group": "PROCESSOR",
+          "parameter": "Computer Type",
+          "value": "Entry Level"
+        },
+        {
+          "group": "PROCESSOR",
+          "parameter": "Processor Number",
+          "value": "AMD Ryzen 3 5300G, Intel Core i3 12100 Or higher"
+        },
+        {
+          "group": "MOTHERBOARD",
+          "parameter": "Trusted Platform Module",
+          "value": "Discrete TPM 2.0"
+        },
+        {
+          "group": "GRAPHICS",
+          "parameter": "Graphics Type",
+          "value": "Integrated"
+        },
+        {
+          "group": "OPERATING SYSTEM",
+          "parameter": "Factory Pre-loaded Operating System by Desktop OEM",
+          "value": "Window 11 Professional, Window 11 Home"
+        },
+        {
+          "group": "MEMORY (RAM)",
+          "parameter": "RAM Size (Memory Card/Module) (in GB) (Capacity to be installed in the System)",
+          "value": "16, 32 Or higher"
+        },
+        {
+          "group": "MEMORY (RAM)",
+          "parameter": "Total Numbers of DIMM Slots Available",
+          "value": "2, 4 Or higher"
+        },
+        {
+          "group": "STORAGE",
+          "parameter": "Type of Storage Installed with the System",
+          "value": "NVMe-SSD"
+        },
+        {
+          "group": "STORAGE",
+          "parameter": "SSD - Storage Capacity (in GB)",
+          "value": "512, 1024, 2048 Or higher"
+        },
+        {
+          "group": "STORAGE",
+          "parameter": "HDD - Storage Capacity (in GB)",
+          "value": "0 as SSD only Installed Or higher"
+        },
+        {
+          "group": "CABINET",
+          "parameter": "Cabinet Form Factor",
+          "value": "Tower (More than 13 to 26 Liters)"
+        },
+        {
+          "group": "CABINET",
+          "parameter": "Audio Interface Type",
+          "value": "Universal 3.5 mm Audio Jack (Support for Audio-in and Audio out), Audio-in, Audio-out"
+        },
+        {
+          "group": "PORTS",
+          "parameter": "Number of USB Ports Type C",
+          "value": "1, 2 Or higher"
+        },
+        {
+          "group": "PORTS",
+          "parameter": "Number of HDMI Ports",
+          "value": "1 Or higher"
+        },
+        {
+          "group": "PORTS",
+          "parameter": "Number of DP Ports",
+          "value": "1 Or higher"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Availibility of Monitor",
+          "value": "Yes as per IS 13252 (Part 1)"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Panel Type",
+          "value": "In Plane Switching (IPS)"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Screen Size (in CMs)",
+          "value": "58.1 - 63 (22.87\" - 24.8\")"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Maximum Resolution (Pixels)",
+          "value": "1920 x 1080 (Full HD)"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Monitor Port",
+          "value": "HDMI, VGA, Display Port"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Speaker",
+          "value": "Yes"
+        },
+        {
+          "group": "INPUT DEVICES",
+          "parameter": "Mouse Connectivity",
+          "value": "USB Wired, Wireless Or higher"
+        },
+        {
+          "group": "INPUT DEVICES",
+          "parameter": "Keyboard Connectivity",
+          "value": "USB Wired, Wireless Or higher"
+        },
+        {
+          "group": "INPUT DEVICES",
+          "parameter": "Type of Keyboard",
+          "value": "Standard"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "On Site OEM Warranty (in Year)",
+          "value": "3, 4, 5 Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 9,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 3. Purchase Preference (Centre) Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to avail the Purchase preference, the bidder must be the manufacturer of the offered product in case of bid for supply of goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of 25% of total value. 4. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have"
+    },
+    {
+      "page": 10,
+      "text": "to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 5. Warranty Warranty period of the supplied products shall be 3 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 6. Generic Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of technical parameters, the bid is liable for rejection. 7. Generic Bidders shall quote only those products (Part of Service delivery) in the bid which are not obsolete in the market and has at least 7 years residual market life i.e. the offered product shall not be declared end-of- life by the OEM before this period. 8. Warranty Timely Servicing / rectification of defects during warranty period: After having been notified of the defects / service requirement during warranty period, Seller has to complete the required Service / Rectification within 3 days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the Buyer. 9. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Product serial no. and warranty information should be available in public domain. 1.1. All items should be of same OEM. 2. ISO 27001:2022 certificate to be furnished at the time of bidding. 3. Windows OS must be factory preloaded. Undertaking by OEM for factory preloaded windows OS to be fu rnished at the time of bidding. 4. OEM/Authorized distributor/Partner of OEM should have Service Centre in Uttar Pradesh, Uttrakhand, Bih ar, Jharkhand, Delhi, MP, Haryana and Rajasthan. The certificate to this effect should be submitted at the ti me of bidding. 5. Microsoft hardware certification report is to be provided at the time of bidding. 6. Firm should submit Valid document, if opting for EMD exemption 7. Firm should submit Valid document for MSE status. 8. Firm should submit Valid document declaring local content of product. 9.The bidder should be either OEM or his authorized dealer/ distributor. In case of the authorized distributo r / partner certificate from the OEM to this effect should be submitted. If OEM is quoting then OEM should s ubmit certificate."
+    },
+    {
+      "page": 11,
+      "text": "10. Equipment offered shall have complete data sheets and detailed descriptions on OEM websites. 11. The onus of submission of requisite documents in support of satisfactory performance of supply i.e. Re ceipt note of railway/CRAC of GeM/Inspection certificate along with proof of acceptance by consignee lies with tenderers. 12 The bidder should submit a certificate from OEM certifying the compliance of make in India content gui delines in the product. 13. Bidder shall submit declaration letter from OEM certifying the genuineness of the factor y Pre-loaded w indows OS along with windows key at the time of supply. 14. SPECIAL ELIGIBILITY CRITERIA: The bidder or its OEM (themselves or through re-seller (s)) should have supplied same or similar item for at least 20% of total bid quantity again st orders placed, in any one of the last THREE FINANCIAL YEARS or current financial year up to date of tender closing to any Central/State Go vt. Organization/PSU . Copies of relevant contracts and supply documents (proving supply of cumulative or der qty in any one financial year) have to be submitted along with bid in support of qty supplied in the rele vant financial year. With out complete supporting documents the off er will be summarily rejected. 15. For fulfilling the PAST PERFORMANCE criteria any one of the following documents may be considered a s valid proof for meeting the PERFORMANCE criteria: - a. For Gem contracts, CRAC to be attached; b. Execution certificate by client with order value; c. Any other document in support of order execution like Third Party Inspection, release note and R.Notes etc 16. SPLITTING CRITERIA: APPLICABLE: Railway may decide in advance to have more than one source of supply on account of delivery requireme nt in tender, past performance and capability of bidders, quantity under procurement and vital/safety natu re of items. Following provisions shall be applicable in all such cases of pre-decided split ordering. A. The Purchaser reserves the right to distribute the procurable quantity on one or more of the eligible ten derers. Zone of consideration of such eligible tenderers will be the right of the Purchaser. The zone of consi deration will be a dynamic mix of inter-se position of firms, supply performance of the firms, quantity being procured, critically of and lead time of supply of the item, number of established suppliers, their capacity e tc. B. Whenever such splitting of the procurable quantity is made, the quantity distribution will depend (in an i nverse manner) upon the differential of rates quoted by the tenderers (other aspects i.e. adequate capacit y-cum-capability, satisfactory past performance of the tenderers, outstanding orders load for the Railway making the procurement, quoted delivery schedule vis-à-vis the delivery schedule incorporated in the tend er enquiry etc., being same/similar) in the manner detailed in the table below: S Price difference between Qty distribution ratio between L1 & L2 N L1 & L2 1 Up to 3% 60:40 More than 3% and up to 2 65:35 5% At least 65% on the L1 tenderer. For quantity to be ordered on the L2 tender 3 More than 5% er, TC/TA A shall decide In the phrase differential rates quoted by the tenderer, the quoted rate would mean: (i) When no price negotiation has been called for, the original rates as obtained at the time of tender openi ng. (ii) When price negotiation has been called for, the reference L1 rate for assessment of rate will be the orig inal rate of L1 firm (suitable for bulk quantity) – say firm “A”- as obtained at the time of tender opening. In the cases of inadequate capacity-cum-capability, dissatisfactory past performance, large quantity of out standing orders (liquidation of which will take very long time) etc., the Purchaser shall have the right to dis tribute the procurable quantity amongst tenderers with due consideration to these constraints and in such a manner that would ensure timely supply of material in requisite quantity to meet the needs of operation,"
+    },
+    {
+      "page": 12,
+      "text": "maintenance, safety etc., of t he Railways, regardless of inter-se-ranking of the tenderers and in a fair and transparent manner with due conformity to the Principles of Natural Justice and Equity. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8150481",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10023520"
+    },
+    {
+      "field": "document_closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 05-11-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10023520"
+    },
+    {
+      "field": "document_opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 06-11-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10023520"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10023520"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10023520"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10023520"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: North Central Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10023520"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Ncr",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10023520"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :dcmmm@ncr.railnet.gov.in Buyer Email id: dcmmghq@ncr.railnet.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10023520"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 319",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10023520"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Entry and Mid Level Desktop Computer (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10023520"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10023520"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10023520"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Past Performance,OEM Authorization Certificate,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10023520"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 20 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10023520"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10023520"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 414700",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10023520"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 414700",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10023520"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10023520"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 38",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10023520"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 2,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document 2 / 13",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10023520"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Description of Stores: Desktop Computer with Table Mount Monitor System with Compatible Chipset as per Processor Make with Minimum 6 USB Port | Computer Type: Entry Level | Processor Number: AMD Ryzen 3 5300G, Intel Core i3 12100 Or higher | Trusted Platform Module: Discrete TPM 2.0 | Graphics Type: Integrated | Factory Pre-loaded Operating System by Desktop OEM: Window 11 Professional, Window 11 Home | RAM Size (Memory Card/Module) (in GB) (Capacity to be installed in the System): 16, 32 Or higher | Total Numbers of DIMM Slots Available: 2, 4 Or higher | Type of Storage Installed with the System: NVMe-SSD | SSD - Storage Capacity (in GB): 512, 1024, 2048 Or higher | HDD - Storage Capacity (in GB): 0 as SSD only Installed Or higher | Cabinet Form Factor: Tower (More than 13 to 26 Liters) | Audio Interface Type: Universal 3.5 mm Audio Jack (Support for Audio-in and Audio out), Audio-in, Audio-out | Number of USB Ports Type C: 1, 2 Or higher | Number of HDMI Ports: 1 Or higher | Number of DP Ports: 1 Or higher | Availibility of Monitor: Yes as per IS 13252 (Part 1) | Panel Type: In Plane Switching (IPS) | Screen Size (in CMs): 58.1 - 63 (22.87\" - 24.8\") | Maximum Resolution (Pixels): 1920 x 1080 (Full HD) | Monitor Port: HDMI, VGA, Display Port | Speaker: Yes | Mouse Connectivity: USB Wired, Wireless Or higher | Keyboard Connectivity: USB Wired, Wireless Or higher | Type of Keyboard: Standard | On Site OEM Warranty (in Year): 3, 4, 5 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10023520"
+    },
+    {
+      "field": "consignees",
+      "page": 7,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Radhey Shyam Verma | 211011,CM/IT Office G-233, IT Cell 2nd floor, Mandakini Building, North Central Railway headquarter Allahabad | 319 | 60",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10023520"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 3. Purchase Preference (Centre) Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to avail the Purchase preference, the bidder must be the manufacturer of the offered product in case of bid for supply of goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of 25% of total value. 4. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10023520"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 5. Warranty Warranty period of the supplied products shall be 3 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 6. Generic Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of technical parameters, the bid is liable for rejection. 7. Generic Bidders shall quote only those products (Part of Service delivery) in the bid which are not obsolete in the market and has at least 7 years residual market life i.e. the offered product shall not be declared end-of- life by the OEM before this period. 8. Warranty Timely Servicing / rectification of defects during warranty period: After having been notified of the defects / service requirement during warranty period, Seller has to complete the required Service / Rectification within 3 days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the Buyer. 9. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Product serial no. and warranty information should be available in public domain. 1.1. All items should be of same OEM. 2. ISO 27001:2022 certificate to be furnished at the time of bidding. 3. Windows OS must be factory preloaded. Undertaking by OEM for factory preloaded windows OS to be fu rnished at the time of bidding. 4. OEM/Authorized distributor/Partner of OEM should have Service Centre in Uttar Pradesh, Uttrakhand, Bih ar, Jharkhand, Delhi, MP, Haryana and Rajasthan. The certificate to this effect should be submitted at the ti me of bidding. 5. Microsoft hardware certification report is to be provided at the time of bidding. 6. Firm should submit Valid document, if opting for EMD exemption 7. Firm should submit Valid document for MSE status. 8. Firm should submit Valid document declaring local content of product. 9.The bidder should be either OEM or his authorized dealer/ distributor. In case of the authorized distributo r / partner certificate from the OEM to this effect should be submitted. If OEM is quoting then OEM should s ubmit certificate.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10023520"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 11,
+      "quote": "10. Equipment offered shall have complete data sheets and detailed descriptions on OEM websites. 11. The onus of submission of requisite documents in support of satisfactory performance of supply i.e. Re ceipt note of railway/CRAC of GeM/Inspection certificate along with proof of acceptance by consignee lies with tenderers. 12 The bidder should submit a certificate from OEM certifying the compliance of make in India content gui delines in the product. 13. Bidder shall submit declaration letter from OEM certifying the genuineness of the factor y Pre-loaded w indows OS along with windows key at the time of supply. 14. SPECIAL ELIGIBILITY CRITERIA: The bidder or its OEM (themselves or through re-seller (s)) should have supplied same or similar item for at least 20% of total bid quantity again st orders placed, in any one of the last THREE FINANCIAL YEARS or current financial year up to date of tender closing to any Central/State Go vt. Organization/PSU . Copies of relevant contracts and supply documents (proving supply of cumulative or der qty in any one financial year) have to be submitted along with bid in support of qty supplied in the rele vant financial year. With out complete supporting documents the off er will be summarily rejected. 15. For fulfilling the PAST PERFORMANCE criteria any one of the following documents may be considered a s valid proof for meeting the PERFORMANCE criteria: - a. For Gem contracts, CRAC to be attached; b. Execution certificate by client with order value; c. Any other document in support of order execution like Third Party Inspection, release note and R.Notes etc 16. SPLITTING CRITERIA: APPLICABLE: Railway may decide in advance to have more than one source of supply on account of delivery requireme nt in tender, past performance and capability of bidders, quantity under procurement and vital/safety natu re of items. Following provisions shall be applicable in all such cases of pre-decided split ordering. A. The Purchaser reserves the right to distribute the procurable quantity on one or more of the eligible ten derers. Zone of consideration of such eligible tenderers will be the right of the Purchaser. The zone of consi deration will be a dynamic mix of inter-se position of firms, supply performance of the firms, quantity being procured, critically of and lead time of supply of the item, number of established suppliers, their capacity e tc. B. Whenever such splitting of the procurable quantity is made, the quantity distribution will depend (in an i nverse manner) upon the differential of rates quoted by the tenderers (other aspects i.e. adequate capacit y-cum-capability, satisfactory past performance of the tenderers, outstanding orders load for the Railway making the procurement, quoted delivery schedule vis-à-vis the delivery schedule incorporated in the tend er enquiry etc., being same/similar) in the manner detailed in the table below: S Price difference between Qty distribution ratio between L1 & L2 N L1 & L2 1 Up to 3% 60:40 More than 3% and up to 2 65:35 5% At least 65% on the L1 tenderer. For quantity to be ordered on the L2 tender 3 More than 5% er, TC/TA A shall decide In the phrase differential rates quoted by the tenderer, the quoted rate would mean: (i) When no price negotiation has been called for, the original rates as obtained at the time of tender openi ng. (ii) When price negotiation has been called for, the reference L1 rate for assessment of rate will be the orig inal rate of L1 firm (suitable for bulk quantity) – say firm “A”- as obtained at the time of tender opening. In the cases of inadequate capacity-cum-capability, dissatisfactory past performance, large quantity of out standing orders (liquidation of which will take very long time) etc., the Purchaser shall have the right to dis tribute the procurable quantity amongst tenderers with due consideration to these constraints and in such a manner that would ensure timely supply of material in requisite quantity to meet the needs of operation,",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10023520"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 12,
+      "quote": "maintenance, safety etc., of t he Railways, regardless of inter-se-ranking of the tenderers and in a fair and transparent manner with due conformity to the Principles of Natural Justice and Equity. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10023520"
+    }
+  ],
+  "detail_warning": "The original PDF dates differ from the current public GeM listing. The listing closing date is retained. Confirm the latest opening date and any corrigenda on GeM; the original PDF opening date is not presented as current.",
+  "document_closing_at": "2026-11-05T12:00:00+05:30",
+  "document_opening_at": "2026-11-06T12:00:00+05:30",
+  "date_discrepancy": {
+    "listing_closing_at": "2026-11-16T09:00:00+05:30",
+    "document_closing_at": "2026-11-05T12:00:00+05:30",
+    "document_opening_at": "2026-11-06T12:00:00+05:30"
+  }
 }

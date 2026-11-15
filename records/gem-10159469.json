@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8268564",
   "title": "SC380090706 Brg No. 6218 Z,SC380090552 Brg No. 6020,SC380090709 Brg No. 29322 E,SC380130394 Brg No.",
   "description": "SC380090706 Brg No. 6218 Z,SC380090706 Brg No. 6218 Z,SC380090706 Brg No. 6218 Z,SC380090706 Brg No. 6218 Z,SC380090706 Brg No. 6218 Z,SC380090706 Brg No. 6218 Z,SC380090552 Brg No. 6020,SC380090552 Brg No. 6020,SC380090552 Brg No. 6020,SC380090552 Brg No. 6020,SC380090552 Brg No. 6020,SC380090552 Brg No. 6020,SC380090709 Brg No. 29322 E,SC380090709 Brg No. 29322 E,SC380090709 Brg No. 29322 E,SC380090709 Brg No. 29322 E,SC380090709 Brg No. 29322 E,SC380090709 Brg No. 29322 E,SC380130394 Brg No. 22222,SC380130394 Brg No. 22222,SC380130394 Brg No. 22222,SC380130394 Brg No. 22222,SC380130394 Brg No. 22222,SC380130394 Brg No. 22222,SC380090707 Brg No. 32224,SC380090707 Brg No. 32224,SC380090707 Brg No. 32224,SC380090707 Brg No. 32224,SC380090707 Brg No. 32224,SC380090707 Brg No. 32224,SC380130379 Brg No. 29338 E,SC380130379 Brg No. 29338 E,SC380130379 Brg No. 29338 E,SC380130379 Brg No. 29338 E,SC380130379 Brg No. 29338 E,SC380130379 Brg No. 29338 E",
-  "organisation": "Materials Management",
-  "ministry": "Ministry of Coal",
+  "organisation": "Nlc India Limited",
+  "ministry": "Ministry Of Coal",
   "department": "Materials Management",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "SC380090706 Brg No. 6218 Z,SC380090552 Brg No. 6020,SC380090709 Brg No. 29322 E,SC380130394 Brg No.",
   "quantity": 37,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-14T15:53:15+05:30",
   "closing_at": "2026-12-05T15:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10159469"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "View File",
+      "url": "https://mkp.gem.gov.in/uploaded_documents/51/16/877/OrderItem/BoqDocument/2026/11/12/techno-commercial_document_2026-11-12-16-18-57_d0f3ffd1a9dc385ed6b30209e09ecde5.pdf",
+      "page": 6
+    },
+    {
+      "name": "View File",
+      "url": "https://mkp.gem.gov.in/uploaded_documents/51/16/877/OrderItem/BoqLineItemsDocument/2026/11/12/boq_item_sample_file1_2026-11-12-16-18-57_b8e02f9c82b23227f2c0ba02ea35c0ef.csv",
+      "page": 6
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261114",
+      "page": 11
     }
   ],
   "tags": [
@@ -34,5 +54,221 @@
   ],
   "source_fetched_at": "2026-11-15T17:20:21.705Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-06T15:00:00+05:30",
+  "office": "Materials Management",
+  "buyer_email": "lalita98@nlcindia.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "120 (Days)",
+  "source_document_fetched_at": "2026-11-15T23:18:31.841885+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "85215c983b0e05e58162cda7ddf8da99d2145b76104d3774d8f7de536d25bc8e",
+  "document_pages": 11,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 2)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Anil Chauhan",
+      "address": "334402,The Stores In-Charge, BARSINGSAR THERMAL POWER PROJECT, NLC India Limited, Barsingsar- 334402 Bikaner District, Rajasthan.",
+      "quantity": 8,
+      "quantity_label": "Quantity",
+      "delivery_days": 90
+    },
+    {
+      "page": 7,
+      "consignee": "Anil Chauhan",
+      "address": "334402,The Stores In-Charge, BARSINGSAR THERMAL POWER PROJECT, NLC India Limited, Barsingsar- 334402 Bikaner District, Rajasthan.",
+      "quantity": 4,
+      "quantity_label": "Quantity",
+      "delivery_days": 90
+    },
+    {
+      "page": 7,
+      "consignee": "Anil Chauhan",
+      "address": "334402,The Stores In-Charge, BARSINGSAR THERMAL POWER PROJECT, NLC India Limited, Barsingsar- 334402 Bikaner District, Rajasthan.",
+      "quantity": 6,
+      "quantity_label": "Quantity",
+      "delivery_days": 90
+    },
+    {
+      "page": 8,
+      "consignee": "Anil Chauhan",
+      "address": "334402,The Stores In-Charge, BARSINGSAR THERMAL POWER PROJECT, NLC India Limited, Barsingsar- 334402 Bikaner District, Rajasthan.",
+      "quantity": 4,
+      "quantity_label": "Quantity",
+      "delivery_days": 90
+    },
+    {
+      "page": 8,
+      "consignee": "Anil Chauhan",
+      "address": "334402,The Stores In-Charge, BARSINGSAR THERMAL POWER PROJECT, NLC India Limited, Barsingsar- 334402 Bikaner District, Rajasthan.",
+      "quantity": 12,
+      "quantity_label": "Quantity",
+      "delivery_days": 90
+    },
+    {
+      "page": 9,
+      "consignee": "Anil Chauhan",
+      "address": "334402,The Stores In-Charge, BARSINGSAR THERMAL POWER PROJECT, NLC India Limited, Barsingsar- 334402 Bikaner District, Rajasthan.",
+      "quantity": 3,
+      "quantity_label": "Quantity",
+      "delivery_days": 90
+    }
+  ],
+  "technical_specifications": [],
+  "buyer_added_terms": [
+    {
+      "page": 9,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 3. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses BIDDER SHALL SATISFY THE PRE-QUALIFICATION REQUIREMENTS AND DOCUMENTS REQUESTED IN PQR, S HALL BE FURNISHED ALONG WITH THE BID WITHOUT FAIL. BIDDER SHALL SUBMIT DIGITALLY SIGNED AFFIDAVIT. (FORMAT ENCLOSED) OTHERWISE THE O FFER FROM THE BIDDER IS LIABLE FOR REJECTION. (DIGITAL SIGNATURE SHALL BE VERIFIABLE) ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8268564",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159469"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 05-12-2026 15:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159469"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 06-12-2026 15:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159469"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159469"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Coal",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159469"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Materials Management",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159469"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Nlc India Limited",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159469"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Materials Management",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159469"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :govindarajan.b@nlcindia.in Buyer Email id: lalita98@nlcindia.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159469"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 37",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159469"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: SC380090706 Brg No. 6218 Z , SC380090552 Brg No. 6020 , SC380090709 Brg No. 29322 E , SC380130394 Brg No. 22222 , SC380090707 Brg No. 32224 , SC380130379 Brg No. 29338 E",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159469"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 2,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159469"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 2,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159469"
+    },
+    {
+      "field": "tender_type",
+      "page": 3,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159469"
+    },
+    {
+      "field": "emd_required",
+      "page": 3,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159469"
+    },
+    {
+      "field": "emd_fee",
+      "page": 3,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159469"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Anil Chauhan | 334402,The Stores In-Charge, BARSINGSAR THERMAL POWER PROJECT, NLC India Limited, Barsingsar- 334402 Bikaner District, Rajasthan. | 8 | 90",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159469"
+    },
+    {
+      "field": "consignees",
+      "page": 7,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Anil Chauhan | 334402,The Stores In-Charge, BARSINGSAR THERMAL POWER PROJECT, NLC India Limited, Barsingsar- 334402 Bikaner District, Rajasthan. | 4 | 90",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159469"
+    },
+    {
+      "field": "consignees",
+      "page": 7,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Anil Chauhan | 334402,The Stores In-Charge, BARSINGSAR THERMAL POWER PROJECT, NLC India Limited, Barsingsar- 334402 Bikaner District, Rajasthan. | 6 | 90",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159469"
+    },
+    {
+      "field": "consignees",
+      "page": 8,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Anil Chauhan | 334402,The Stores In-Charge, BARSINGSAR THERMAL POWER PROJECT, NLC India Limited, Barsingsar- 334402 Bikaner District, Rajasthan. | 4 | 90",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159469"
+    },
+    {
+      "field": "consignees",
+      "page": 8,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Anil Chauhan | 334402,The Stores In-Charge, BARSINGSAR THERMAL POWER PROJECT, NLC India Limited, Barsingsar- 334402 Bikaner District, Rajasthan. | 12 | 90",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159469"
+    },
+    {
+      "field": "consignees",
+      "page": 9,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Anil Chauhan | 334402,The Stores In-Charge, BARSINGSAR THERMAL POWER PROJECT, NLC India Limited, Barsingsar- 334402 Bikaner District, Rajasthan. | 3 | 90",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159469"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 3. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses BIDDER SHALL SATISFY THE PRE-QUALIFICATION REQUIREMENTS AND DOCUMENTS REQUESTED IN PQR, S HALL BE FURNISHED ALONG WITH THE BID WITHOUT FAIL. BIDDER SHALL SUBMIT DIGITALLY SIGNED AFFIDAVIT. (FORMAT ENCLOSED) OTHERWISE THE O FFER FROM THE BIDDER IS LIABLE FOR REJECTION. (DIGITAL SIGNATURE SHALL BE VERIFIABLE) .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10159469"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

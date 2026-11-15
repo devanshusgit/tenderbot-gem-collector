@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8036477",
   "title": "Buses for State Road Transport (V2)",
   "description": "Buses for State Road Transport (V2)",
-  "organisation": "Transport Department, Andaman & Nicobar",
-  "ministry": "",
+  "organisation": "N/a",
+  "ministry": "Andaman & Nicobar",
   "department": "Transport Department, Andaman & Nicobar",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Buses for State Road Transport (V2)",
   "quantity": 10,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 1800000,
   "published_at": "2026-10-11T18:32:18+05:30",
   "closing_at": "2026-11-16T10:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/rPEy8Ni7nc79QP1o4oKLFD7pUfMOjhiaa462gmt8lDc",
+      "page": 4
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Sep/GEM_2026_B_8036477/CLM0010/Agreement_6b1c222f-100b-49d0-92f01789446420384_sanjivkr.docx",
+      "page": 17
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261011",
+      "page": 18
     }
   ],
   "tags": [
@@ -34,5 +49,539 @@
   ],
   "source_fetched_at": "2026-11-14T19:22:15.482Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "office": "Directorate Of Transport",
+  "buyer_email": "sanjiv.s@and.nic.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 180,
+  "experience_years": 2,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 38,
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-15T08:06:51.543983+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "5e7953aa4c7a65f3be3b582bf139aaba615fa08e89ff12fe5003eace0cb086de",
+  "document_pages": 18,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 180 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 2 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Sanjiv Kumar Singh",
+      "address": "744101,DIRECTORATE OF TRANSPORT, NO.9 TAGORE ROAD, MOHANPURA, PORT BLAIR",
+      "quantity": 10,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Generic Parameters",
+          "parameter": "Bus Type as per AIS-052",
+          "value": "TYPE II"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Comfort Category",
+          "value": "Non Deluxe Bus(NDX), Semi Deluxe Bus(SDX), Deluxe Bus(DLX), A.C. Deluxe Bus Or higher"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Type of Fuel",
+          "value": "Diesel"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Vehicle Emission Compliance",
+          "value": "BS VI"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Boot Space Availability",
+          "value": "Yes"
+        },
+        {
+          "group": "Engine and Transmission",
+          "parameter": "Maximum Engine Power Range (in KW)",
+          "value": "?100, >100 ? 200, >200 ? 300, >300 Or higher"
+        },
+        {
+          "group": "Engine and Transmission",
+          "parameter": "Vehicle Transmission System",
+          "value": "Manual, Automatic Or higher"
+        },
+        {
+          "group": "Engine and Transmission",
+          "parameter": "Type of Steering",
+          "value": "Power Or higher"
+        },
+        {
+          "group": "Engine and Transmission",
+          "parameter": "Vehicle Air Intake System",
+          "value": "Turbocharge Intercooled"
+        },
+        {
+          "group": "Engine and Transmission",
+          "parameter": "Axle Configuration",
+          "value": "4 X 2"
+        },
+        {
+          "group": "Dimensions",
+          "parameter": "Gross Vehicle Weight (Kg) (Kerb Weight of the Vehicle + Payload)",
+          "value": "6000 - 80000 (kilogram)"
+        },
+        {
+          "group": "Constructional Parameters",
+          "parameter": "Type of Floor",
+          "value": "Standard Floor"
+        },
+        {
+          "group": "Constructional Parameters",
+          "parameter": "Passenger Carrying Capacity Excluding Driver",
+          "value": "32.0 - 80.0 Or higher"
+        },
+        {
+          "group": "Constructional Parameters",
+          "parameter": "Seating/Sleeper Layout",
+          "value": "2X2"
+        },
+        {
+          "group": "Constructional Parameters",
+          "parameter": "Type of seats",
+          "value": "Fixed Seat, Sleeper Seat, Pushback Seat, Recliner Seat Or higher"
+        },
+        {
+          "group": "Constructional Parameters",
+          "parameter": "Position of Passenger Door",
+          "value": "LHS Door"
+        },
+        {
+          "group": "Constructional Parameters",
+          "parameter": "Door for Driver",
+          "value": "Hinge door with sliding glass"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Doors for Passenger Compartment",
+          "value": "Pneumatic Jack knife type"
+        },
+        {
+          "group": null,
+          "parameter": "Passenger Compartment - Roof Light",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Over Head Storage Cabinet",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Handrails and Handholds",
+          "value": "Yes"
+        },
+        {
+          "group": "Accessories",
+          "parameter": "Air Conditioning",
+          "value": "Non-Air Conditioned, Air Conditioned Or higher"
+        },
+        {
+          "group": "Accessories",
+          "parameter": "Rear View Mirror",
+          "value": "Yes"
+        },
+        {
+          "group": "Accessories",
+          "parameter": "Side View Mirror (LHS & RHS)",
+          "value": "Yes"
+        },
+        {
+          "group": "Accessories",
+          "parameter": "Bumper View Mirror",
+          "value": "Yes"
+        },
+        {
+          "group": "Accessories",
+          "parameter": "Low Fuel warning Light",
+          "value": "Yes"
+        },
+        {
+          "group": "Accessories",
+          "parameter": "Suitable Fire Extinguisher",
+          "value": "Yes"
+        },
+        {
+          "group": "Accessories",
+          "parameter": "First Aid Box",
+          "value": "Yes"
+        },
+        {
+          "group": "Accessories",
+          "parameter": "Engine Fire Protection System as per AIS-135 Fire Detection and Alarm System (FDAS) & Fire Detection and Suppression Systems (FDSS) for Buses",
+          "value": "Yes"
+        },
+        {
+          "group": "Accessories",
+          "parameter": "Passenger Compartment plus Driver Cabin as per AIS-135 Fire Alarm System (FAS) & Fire Protection Systems (FPS) for Buses",
+          "value": "Yes, No"
+        },
+        {
+          "group": "Certification and Testing",
+          "parameter": "Agreed to provide additional certificates and test reports to the buyer on demand",
+          "value": "Yes"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Bus Type",
+          "value": "Type II as per AIS 052"
+        },
+        {
+          "group": null,
+          "parameter": "Type of Fuel",
+          "value": "Diesel"
+        },
+        {
+          "group": null,
+          "parameter": "Air Conditioning",
+          "value": "With"
+        },
+        {
+          "group": null,
+          "parameter": "No of Cylinder in Engi ne (Nos.)",
+          "value": "6.0"
+        },
+        {
+          "group": null,
+          "parameter": "Type of Vehicle Body",
+          "value": "Fully built bus with Chassis Frame"
+        },
+        {
+          "group": null,
+          "parameter": "Length of Vehicle Bod y (mm)",
+          "value": "10500 or Lower"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic After award of contract – Successful Bidder shall have to get Detailed Design Drawings approved from buyer before starting fabrication. Successful Bidder shall submit Detailed Design Drawings for Buyer's approval, within 15 days of award of contract. Buyer shall, either approve the drawings or will provide complete list of modification required in the drawings within 10 days. Seller shall be required to ensure supply as per approved Drawings with modifications as communicated by Buyer. If there is delay from buyer side in approval of drawing– the delivery period shall be refixed without LD for the period of delay in approval of Drawing. 3. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address DIRECTORATE OF TRANSPORT, MOHANPURA SRI VIJAYA PURAM SOUTH ANDAMAN ANDAMAN AND NICOBAR ISLANDS PIN-744101 . 4. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 5. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 6. Generic"
+    },
+    {
+      "page": 7,
+      "text": "Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 7. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 8. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 9. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 10. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 11. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 12. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 13. Warranty Warranty period of the supplied products shall be 3 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 14. Forms of EMD and PBG Bidders can also submit the EMD with Account Payee Demand Draft in favour of SENIOR ACCOUNTS OFFICER payable at DIRECTORATE OF TRANSPORT, SRI VIJAYA PURAM . Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 15. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in favour of SENIOR ACCOUNTS OFFICER"
+    },
+    {
+      "page": 8,
+      "text": "payable at DIRECTORATE OF TRANSPORT, SRI VIJAYA PURAM . After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of contract. 16. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Pre-Bid Interaction/ Conference: A Pre-Bid Interaction shall be conducted to enable prospective bidders to seek clarification on the technical specific ations, eligibility criteria, scope of supply and other techno-commercial con ditions of this bid. The Pre-Bid Interaction shall be held on the 10th day fro m the Bid Starting Date, at 11:00 AM at Directorate of Transport, Mohanp ura, Sri Vijaya Puram, South Andaman, or through online mode as notified on the GeM Portal. Participation is not mandatory; a bidder who does not p articipate or submit a query shall not, on that account alone, be rendered i neligible. Queries may be submitted in writing on or before the Pre-Bid Inte raction Date. Replies/clarifications and Minutes shall be uploaded on the Ge M Portal with the approval of the Competent Authority. Any resulting amen dment to specifications or conditions shall be notified through an appropria te Corrigendum. Bidders are advised to regularly monitor the GeM Portal; n o separate individual communication will be sent. 2. Payment Overriding Clause: The payment will be made only after the re ceipt of items and satisfactory inspection by the purchase committee. Ende avour would be made to make payment within 30 days. However, no intere st shall be paid for delay in payment. 3. Delivery Location: The bidder is ensuring rate quoted in the bid is inclusiv e of Transportation up to consignee address i.e. Directorate of Transport, M ohanpura, Sri Vijaya Puram, South Andaman, Andaman & Nicobar Islands, Pin-744101. 4. Chassis manufacture OEM authorization certificate is mandatory for bid part icipation. 5. Either OEM or Authorized dealer or Fabricator are eligible for bid participatio n. 6. All documentation related to Transportation of buses to the Consignee locati on like Marine & transit insurance, Temporary Registration, any other relat ed documentation etc. shall be borne by the vendor/successful bidder. 7. Standard accessories shall be provided for each buses by the successful bid der at the time of delivery as listed below:"
+    },
+    {
+      "page": 9,
+      "text": "Sl. No Description of Tools Quantity 1. Double Open End Spanner (19X22) 01 No. 2. Double Open End Spanner (18X21) 01 No. 3. Double Open End Spanner (13X17) 01 No. 4. Double Open End Spanner (13X16) 01 No. 5. Double Open End Spanner (10X08) 01 No. 6. Star Screw Driver 01 No. 7. Cutting Plier 01 No. 8. Wheel Box (24X27) 01 No. 9. Wheel Box (17X19) 01 No. 10. Wheel Box (16X18) 01 No. 11. Wheel Box (33X32) 01 No. 12. Bus Service Manual 01 No. 13. Triangle 02 Nos. 14. Ring Spanner (24X27) 01 No. 15. Adjustable Wrench 01 No. 16. Hydraulic Jack Lever 01 No. 17. Tommy Bar 01 No. 18. Hydraulic Jack 01 No. 19. Ignition Keys 02 Nos. 20. Spare Tyre 01 No. 21. First Aid Kit Box 01 No. 22. Wheel Chock 02 Nos. 8. The user manual for each buses and 02 sets of workshop repair manuals sha ll be provided at the time of delivery of buses. 9. An agreement in the format prescribed shall be executed between the Direc torate of Transport and the successful bidder. The bidder shall upload signe d copy of the draft agreement as mentioned above as a token of acceptanc e of the bid failing which the bid shall be rejected. 10. The bidder shall have to write State Transport Service with logo in the oute r body of bus. Apart from this the following are to be written viz., Tender Ex act Change, Without Ticket liable to be fine, Ladies, Physically Challenged, STS control Room Number at rear side inside driver cabin, Bus Conductor’s Seat, Senior Citizen etc. inside bus. 11. The department shall have its discretion to conduct the inspection of the b"
+    },
+    {
+      "page": 10,
+      "text": "uses at any stage. 12. Checklist: All the bidders to ensure that following documents/certificates/ undertaking must be submitted along with Bid for technical Evaluation. In a bsence of any of the following sought document, the bidder shall be disqualified/ rejected:- Sl. No. Particulars Remarks Technical Specificat Bidder should submit undertaking for 1. ion acceptance of buyer specification. An undertaking to this effect must be Acceptance of Additio submitted for complying Additional S nal specification Para pecification Parameters as per Buyer 2. meter Added Bid Specific ATC Clause No. 1 2. Bidder should upload Certificates wit Certificate h bid under Clause No. 12 of Buyer 3. Added Bid Specific T & C. Supporting document for 02 Years' E xperience i.e. for the F.Y. 2024-25 an Experience Criteria 5. d 2025-26 or submit valid document for exemption (if any). Supporting document for bidder turn over of Rs. 1.8 Cr. (180 lakhs) for 03 Bidder Turnover previous financial year i.e. 2023-24, 6. 2024-25 and 2025-26 duly signed by Chartered Accounts. An undertaking for acceptance of Cla use No. 13 under Buyer Added Bid S Warranty 7. pecific T & C should be submitted wh ile participating in bid. As per bid requirement the sum of Rs . 18,00,000/- to be deposited as per t he clause 14 of Buyer Added Bid Spe EMD 9. cific Terms and Conditions or submit valid supporting document for exem ption (if any)."
+    },
+    {
+      "page": 11,
+      "text": "As per bid requirement 5% of bid val ue for a period of 38 months to be de ePBG Percentage posited after award of contract as pe 10. r the clause 15 of Buyer Added Bid S pecific Terms and Conditions. An undertaking for acceptance of Cla use No. 10 of Buyer Added Bid Specif Service and Suppor ic T&C and provide dedicated teleph 12. t one numbers for Service Support as per Clause No. 10 under Buyer Adde d Bid Specific Terms and Conditions. An undertaking for acceptance of all Acceptance of all T T & C under Buyer Added Bid Specifi 13. & C c T & C and Buyer Added Specific AT C under Clause No. 16. The bidder shall upload the signed C opy of the agreement as a token of a Acceptance of Draft cceptance of bid as per Clause 8 of B 14 Agreement uyer Added Bid Specific ATC to be su bmitted as attached under clause 17 of Buyer Added Bid Specific T & C. 13. Additional Technical Specification: 32-Seater or higher Deluxe AC Fossil Fuel buses with Push-Back Seat s Category Specification(s) Bid Requirement (Allowed) Bus Type Type II as per AIS 052 Type of Fuel Diesel Air Conditioning With No of Cylinder in Engi 6.0 ne (Nos.) Type of Vehicle Body Fully built bus with Chassis Frame Length of Vehicle Bod 10500 or Lower y (mm)"
+    },
+    {
+      "page": 12,
+      "text": "Width of Vehicle Body 2400 or higher (mm) Height of Vehicle Bod 2800 or higher y (mm) Ground Clearance (m 230 or higher m) Max Engine BHP (in H 160 hp or higher P) Max Engine Torque (in 700 N-m or higher mm) Wheel Base (in mm) 5100 or higher A. Chassis Emission Norm BS-VI OBD II or above Kerb Weight (in Kg) 8500 or higher Vehicle Transmission Manual System Semi elliptical /parabolic /weveller leaf spring suspension at front & rear, Hydr Suspension aulic double acting telescopic type sho ck absorber at front & rear Clutch Dry Friction type single plate No of Speed / Forward 6.0 or higher Gears (Nos.) Type of Wheel drive Two Wheel Drive (Rear) Drive Axle Rear Type of Steering Hydraulic Power assisted steering Turning Radius (mm) 12000 or lower Pneumatic type with dual circuit cam b Brake System rake system Vehicle Brake ABS Fitt Yes ed Vehicle Air Intake Sys Turbo Charged tem"
+    },
+    {
+      "page": 13,
+      "text": "Battery Warranty (Mo 36 Month or 300000 Lakh Kilomet nth) er whichever is earlier No of tyres 6 36 Month or 300000 Lakh Kilomet Engine Warranty er whichever is earlier Fuel Tank (Liters) Plastic, 230 or higher 36 Month or 300000 Lakh Kilomet Exhaust after treatme er whichever is earlier nt system assembly Gearbox assembly, Re ar differential assembl 36 Month or 300000 Lakh Kilomet B. Perfor y, assembly and rear er whichever is earlier mance Par axle assembly ameters 36 Month or 300000 Lakh Kilomet er whichever is earlier. Note: The vehicle shall be capable of safely boarding and de-boarding vehicl e ferries under varying tidal conditions without damage to the vehicle. Any da Vehicle Warranty mage attributable to vehicle design, in adequate ground clearance, approach/ departure angle, or other vehicle-relat ed defects shall be treated as a warra nty defect and rectified by the manuf acturer at no cost to the Departme nt. Conformity to GSR 28 Yes 7(E) BIS marked Pneumatic, 10.00-R20/ 295 C. Certific Type of Tyres /90R20 with 16 PR or higher ply rating, ation Radial tyre with tube on front and rear Vehicle Certificate AR Yes AI/VRDE /ICAT No Should conform to latest AIS 052, AIS 0 Body Specification 31, AIS-153, AIS 140 and as per latest CMVR Rule 1989"
+    },
+    {
+      "page": 14,
+      "text": "1. The vehicle should have depart ure angle greater than 15 degre es and approach angle greater t han 19 degrees for effective RO -RO (Roll-on and roll-off). Ferry RO-RO (Roll-on 2. The rear chassis shall be fitted and Roll- off) requirem with a MS metal shaft fitted wit ent h two MS rollers fitted on both end of the shaft with suitable cl earances for rolling, to prevent the rear undercarriage damage. Vehicle Seating Capac 32 or higher ity (Nos.) Cross Bearers 8 Nos. or higher 2 X 2 layout with suitable leg space, D Passenger seats eluxe seats with Pushback feature conf orming to AIS:023 01 No., located after front axle, next to Service Door / Passen front wheel arch Jack Knife Type pneu ger door matically controlled Glasses Yes Top portion of fixed gl ass window & bottom Yes portion in two halves i n sliding pattern Passenger Compartm 4 or higher ent light Additional fitments Spare wheel carrier to be provided Overhead Storage cab Yes, both sides inet Three riser step cover with chequered Step plate and trim panels Full Built with Chassis Yes Frame"
+    },
+    {
+      "page": 15,
+      "text": "Display Dimension (in mm), electric po wered LED type. 1. Front: 900 X 220 or Destination Board higher/2. Rear: 900 X 220 or higher. 02 nos Diagnostic tool (01 No for 5 Buses) with software and hardwar e (in Laptop/tablet) to be provided for all buses ordered in total by su Diagnostic/Scan tool ccessful bidder with complete inst allation, activation and subscriptio n for 3 years. D. Body"
+    },
+    {
+      "page": 16,
+      "text": "1. The successful bidder shall provid e GPS and GPRS enabled (alongwit h hardware & Software) VLTD conf orming to required standards, to tr ansfer Live location data from the vehicle to central server the chassi s manufacturer shall ensure that t he VLTD fitted shall be of the firm authorized by A&N Administration for VLTD fitment. The successful bi dder shall borne all the cost for su pply, installation, SIM card, registr ation, warranty, activation, subscri ption for sim of the VLTD for mini mum 5 years. 2. The successful bidder shall also pr ovide 04 nos CCTV cameras (1. View of the Driver cabin; 2. Vie Other fitment w of the passenger boarding and d e-boarding point; 3. View of the pa ssenger sitting area and the gang way from the rear; 4. View of the Rear behind th bus) with 7” TF T display device or above for a ll camera with minimum 30 da ys video storage backup and Fu rther minimum Passenger Informa tion System (PIS) / Other Require ments as mentioned below shall al so be fitted: • VLTD, Panic Button 04 nos, PIS. • Minimum PIS requirement details are as follows: • 01 No. Driver Mic. • 04 Nos. Speakers. 2 nos passenger grab rails at vertical p Passenger Grab rail osition mounted on both side of passen ger door for ease of passenger ingress"
+    },
+    {
+      "page": 17,
+      "text": "3mm chequered Aluminium (antis kid) + 12 mm marine plywood fast ened with M8 bolt and nyloc nut b y using GI Washer and sealing all t Platform flooring he jonts with proper sealants to e nsure no dust or water ingress fro m the joints. Handrails and Handho Yes lds External Color Solid white . 17. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8036477",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "document_closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 02-11-2026 19:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "document_opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 03-11-2026 19:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Andaman & Nicobar",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Transport Department, Andaman & Nicobar",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: N/a",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Directorate Of Transport",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :dirtpt.and@nic.in Buyer Email id: sanjiv.s@and.nic.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 10",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Buses for State Road Transport (V2) (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "((33 )) /Minimum Average Annual Turnover of the bidder (For 3 Years): 180 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 2 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 1800000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 1800000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 38",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Bus Type as per AIS-052: TYPE II | Comfort Category: Non Deluxe Bus(NDX), Semi Deluxe Bus(SDX), Deluxe Bus(DLX), A.C. Deluxe Bus Or higher | Type of Fuel: Diesel | Vehicle Emission Compliance: BS VI | Boot Space Availability: Yes | Maximum Engine Power Range (in KW): ?100, >100 ? 200, >200 ? 300, >300 Or higher | Vehicle Transmission System: Manual, Automatic Or higher | Type of Steering: Power Or higher | Vehicle Air Intake System: Turbocharge Intercooled | Axle Configuration: 4 X 2 | Gross Vehicle Weight (Kg) (Kerb Weight of the Vehicle + Payload): 6000 - 80000 (kilogram) | Type of Floor: Standard Floor | Passenger Carrying Capacity Excluding Driver: 32.0 - 80.0 Or higher | Seating/Sleeper Layout: 2X2 | Type of seats: Fixed Seat, Sleeper Seat, Pushback Seat, Recliner Seat Or higher | Position of Passenger Door: LHS Door | Door for Driver: Hinge door with sliding glass",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Doors for Passenger Compartment: Pneumatic Jack knife type | Passenger Compartment - Roof Light: Yes | Over Head Storage Cabinet: Yes | Handrails and Handholds: Yes | Air Conditioning: Non-Air Conditioned, Air Conditioned Or higher | Rear View Mirror: Yes | Side View Mirror (LHS & RHS): Yes | Bumper View Mirror: Yes | Low Fuel warning Light: Yes | Suitable Fire Extinguisher: Yes | First Aid Box: Yes | Engine Fire Protection System as per AIS-135 Fire Detection and Alarm System (FDAS) & Fire Detection and Suppression Systems (FDSS) for Buses: Yes | Passenger Compartment plus Driver Cabin as per AIS-135 Fire Alarm System (FAS) & Fire Protection Systems (FPS) for Buses: Yes, No | Agreed to provide additional certificates and test reports to the buyer on demand: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Sanjiv Kumar Singh | 744101,DIRECTORATE OF TRANSPORT, NO.9 TAGORE ROAD, MOHANPURA, PORT BLAIR | 10 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 11,
+      "quote": "Bus Type: Type II as per AIS 052 | Type of Fuel: Diesel | Air Conditioning: With | No of Cylinder in Engi ne (Nos.): 6.0 | Type of Vehicle Body: Fully built bus with Chassis Frame | Length of Vehicle Bod y (mm): 10500 or Lower",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic After award of contract – Successful Bidder shall have to get Detailed Design Drawings approved from buyer before starting fabrication. Successful Bidder shall submit Detailed Design Drawings for Buyer's approval, within 15 days of award of contract. Buyer shall, either approve the drawings or will provide complete list of modification required in the drawings within 10 days. Seller shall be required to ensure supply as per approved Drawings with modifications as communicated by Buyer. If there is delay from buyer side in approval of drawing– the delivery period shall be refixed without LD for the period of delay in approval of Drawing. 3. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address DIRECTORATE OF TRANSPORT, MOHANPURA SRI VIJAYA PURAM SOUTH ANDAMAN ANDAMAN AND NICOBAR ISLANDS PIN-744101 . 4. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 5. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 6. Generic",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 7. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 8. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 9. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 10. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 11. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 12. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 13. Warranty Warranty period of the supplied products shall be 3 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 14. Forms of EMD and PBG Bidders can also submit the EMD with Account Payee Demand Draft in favour of SENIOR ACCOUNTS OFFICER payable at DIRECTORATE OF TRANSPORT, SRI VIJAYA PURAM . Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 15. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in favour of SENIOR ACCOUNTS OFFICER",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "payable at DIRECTORATE OF TRANSPORT, SRI VIJAYA PURAM . After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of contract. 16. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Pre-Bid Interaction/ Conference: A Pre-Bid Interaction shall be conducted to enable prospective bidders to seek clarification on the technical specific ations, eligibility criteria, scope of supply and other techno-commercial con ditions of this bid. The Pre-Bid Interaction shall be held on the 10th day fro m the Bid Starting Date, at 11:00 AM at Directorate of Transport, Mohanp ura, Sri Vijaya Puram, South Andaman, or through online mode as notified on the GeM Portal. Participation is not mandatory; a bidder who does not p articipate or submit a query shall not, on that account alone, be rendered i neligible. Queries may be submitted in writing on or before the Pre-Bid Inte raction Date. Replies/clarifications and Minutes shall be uploaded on the Ge M Portal with the approval of the Competent Authority. Any resulting amen dment to specifications or conditions shall be notified through an appropria te Corrigendum. Bidders are advised to regularly monitor the GeM Portal; n o separate individual communication will be sent. 2. Payment Overriding Clause: The payment will be made only after the re ceipt of items and satisfactory inspection by the purchase committee. Ende avour would be made to make payment within 30 days. However, no intere st shall be paid for delay in payment. 3. Delivery Location: The bidder is ensuring rate quoted in the bid is inclusiv e of Transportation up to consignee address i.e. Directorate of Transport, M ohanpura, Sri Vijaya Puram, South Andaman, Andaman & Nicobar Islands, Pin-744101. 4. Chassis manufacture OEM authorization certificate is mandatory for bid part icipation. 5. Either OEM or Authorized dealer or Fabricator are eligible for bid participatio n. 6. All documentation related to Transportation of buses to the Consignee locati on like Marine & transit insurance, Temporary Registration, any other relat ed documentation etc. shall be borne by the vendor/successful bidder. 7. Standard accessories shall be provided for each buses by the successful bid der at the time of delivery as listed below:",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "Sl. No Description of Tools Quantity 1. Double Open End Spanner (19X22) 01 No. 2. Double Open End Spanner (18X21) 01 No. 3. Double Open End Spanner (13X17) 01 No. 4. Double Open End Spanner (13X16) 01 No. 5. Double Open End Spanner (10X08) 01 No. 6. Star Screw Driver 01 No. 7. Cutting Plier 01 No. 8. Wheel Box (24X27) 01 No. 9. Wheel Box (17X19) 01 No. 10. Wheel Box (16X18) 01 No. 11. Wheel Box (33X32) 01 No. 12. Bus Service Manual 01 No. 13. Triangle 02 Nos. 14. Ring Spanner (24X27) 01 No. 15. Adjustable Wrench 01 No. 16. Hydraulic Jack Lever 01 No. 17. Tommy Bar 01 No. 18. Hydraulic Jack 01 No. 19. Ignition Keys 02 Nos. 20. Spare Tyre 01 No. 21. First Aid Kit Box 01 No. 22. Wheel Chock 02 Nos. 8. The user manual for each buses and 02 sets of workshop repair manuals sha ll be provided at the time of delivery of buses. 9. An agreement in the format prescribed shall be executed between the Direc torate of Transport and the successful bidder. The bidder shall upload signe d copy of the draft agreement as mentioned above as a token of acceptanc e of the bid failing which the bid shall be rejected. 10. The bidder shall have to write State Transport Service with logo in the oute r body of bus. Apart from this the following are to be written viz., Tender Ex act Change, Without Ticket liable to be fine, Ladies, Physically Challenged, STS control Room Number at rear side inside driver cabin, Bus Conductor’s Seat, Senior Citizen etc. inside bus. 11. The department shall have its discretion to conduct the inspection of the b",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "uses at any stage. 12. Checklist: All the bidders to ensure that following documents/certificates/ undertaking must be submitted along with Bid for technical Evaluation. In a bsence of any of the following sought document, the bidder shall be disqualified/ rejected:- Sl. No. Particulars Remarks Technical Specificat Bidder should submit undertaking for 1. ion acceptance of buyer specification. An undertaking to this effect must be Acceptance of Additio submitted for complying Additional S nal specification Para pecification Parameters as per Buyer 2. meter Added Bid Specific ATC Clause No. 1 2. Bidder should upload Certificates wit Certificate h bid under Clause No. 12 of Buyer 3. Added Bid Specific T & C. Supporting document for 02 Years' E xperience i.e. for the F.Y. 2024-25 an Experience Criteria 5. d 2025-26 or submit valid document for exemption (if any). Supporting document for bidder turn over of Rs. 1.8 Cr. (180 lakhs) for 03 Bidder Turnover previous financial year i.e. 2023-24, 6. 2024-25 and 2025-26 duly signed by Chartered Accounts. An undertaking for acceptance of Cla use No. 13 under Buyer Added Bid S Warranty 7. pecific T & C should be submitted wh ile participating in bid. As per bid requirement the sum of Rs . 18,00,000/- to be deposited as per t he clause 14 of Buyer Added Bid Spe EMD 9. cific Terms and Conditions or submit valid supporting document for exem ption (if any).",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 11,
+      "quote": "As per bid requirement 5% of bid val ue for a period of 38 months to be de ePBG Percentage posited after award of contract as pe 10. r the clause 15 of Buyer Added Bid S pecific Terms and Conditions. An undertaking for acceptance of Cla use No. 10 of Buyer Added Bid Specif Service and Suppor ic T&C and provide dedicated teleph 12. t one numbers for Service Support as per Clause No. 10 under Buyer Adde d Bid Specific Terms and Conditions. An undertaking for acceptance of all Acceptance of all T T & C under Buyer Added Bid Specifi 13. & C c T & C and Buyer Added Specific AT C under Clause No. 16. The bidder shall upload the signed C opy of the agreement as a token of a Acceptance of Draft cceptance of bid as per Clause 8 of B 14 Agreement uyer Added Bid Specific ATC to be su bmitted as attached under clause 17 of Buyer Added Bid Specific T & C. 13. Additional Technical Specification: 32-Seater or higher Deluxe AC Fossil Fuel buses with Push-Back Seat s Category Specification(s) Bid Requirement (Allowed) Bus Type Type II as per AIS 052 Type of Fuel Diesel Air Conditioning With No of Cylinder in Engi 6.0 ne (Nos.) Type of Vehicle Body Fully built bus with Chassis Frame Length of Vehicle Bod 10500 or Lower y (mm)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 12,
+      "quote": "Width of Vehicle Body 2400 or higher (mm) Height of Vehicle Bod 2800 or higher y (mm) Ground Clearance (m 230 or higher m) Max Engine BHP (in H 160 hp or higher P) Max Engine Torque (in 700 N-m or higher mm) Wheel Base (in mm) 5100 or higher A. Chassis Emission Norm BS-VI OBD II or above Kerb Weight (in Kg) 8500 or higher Vehicle Transmission Manual System Semi elliptical /parabolic /weveller leaf spring suspension at front & rear, Hydr Suspension aulic double acting telescopic type sho ck absorber at front & rear Clutch Dry Friction type single plate No of Speed / Forward 6.0 or higher Gears (Nos.) Type of Wheel drive Two Wheel Drive (Rear) Drive Axle Rear Type of Steering Hydraulic Power assisted steering Turning Radius (mm) 12000 or lower Pneumatic type with dual circuit cam b Brake System rake system Vehicle Brake ABS Fitt Yes ed Vehicle Air Intake Sys Turbo Charged tem",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 13,
+      "quote": "Battery Warranty (Mo 36 Month or 300000 Lakh Kilomet nth) er whichever is earlier No of tyres 6 36 Month or 300000 Lakh Kilomet Engine Warranty er whichever is earlier Fuel Tank (Liters) Plastic, 230 or higher 36 Month or 300000 Lakh Kilomet Exhaust after treatme er whichever is earlier nt system assembly Gearbox assembly, Re ar differential assembl 36 Month or 300000 Lakh Kilomet B. Perfor y, assembly and rear er whichever is earlier mance Par axle assembly ameters 36 Month or 300000 Lakh Kilomet er whichever is earlier. Note: The vehicle shall be capable of safely boarding and de-boarding vehicl e ferries under varying tidal conditions without damage to the vehicle. Any da Vehicle Warranty mage attributable to vehicle design, in adequate ground clearance, approach/ departure angle, or other vehicle-relat ed defects shall be treated as a warra nty defect and rectified by the manuf acturer at no cost to the Departme nt. Conformity to GSR 28 Yes 7(E) BIS marked Pneumatic, 10.00-R20/ 295 C. Certific Type of Tyres /90R20 with 16 PR or higher ply rating, ation Radial tyre with tube on front and rear Vehicle Certificate AR Yes AI/VRDE /ICAT No Should conform to latest AIS 052, AIS 0 Body Specification 31, AIS-153, AIS 140 and as per latest CMVR Rule 1989",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 14,
+      "quote": "1. The vehicle should have depart ure angle greater than 15 degre es and approach angle greater t han 19 degrees for effective RO -RO (Roll-on and roll-off). Ferry RO-RO (Roll-on 2. The rear chassis shall be fitted and Roll- off) requirem with a MS metal shaft fitted wit ent h two MS rollers fitted on both end of the shaft with suitable cl earances for rolling, to prevent the rear undercarriage damage. Vehicle Seating Capac 32 or higher ity (Nos.) Cross Bearers 8 Nos. or higher 2 X 2 layout with suitable leg space, D Passenger seats eluxe seats with Pushback feature conf orming to AIS:023 01 No., located after front axle, next to Service Door / Passen front wheel arch Jack Knife Type pneu ger door matically controlled Glasses Yes Top portion of fixed gl ass window & bottom Yes portion in two halves i n sliding pattern Passenger Compartm 4 or higher ent light Additional fitments Spare wheel carrier to be provided Overhead Storage cab Yes, both sides inet Three riser step cover with chequered Step plate and trim panels Full Built with Chassis Yes Frame",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 15,
+      "quote": "Display Dimension (in mm), electric po wered LED type. 1. Front: 900 X 220 or Destination Board higher/2. Rear: 900 X 220 or higher. 02 nos Diagnostic tool (01 No for 5 Buses) with software and hardwar e (in Laptop/tablet) to be provided for all buses ordered in total by su Diagnostic/Scan tool ccessful bidder with complete inst allation, activation and subscriptio n for 3 years. D. Body",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 16,
+      "quote": "1. The successful bidder shall provid e GPS and GPRS enabled (alongwit h hardware & Software) VLTD conf orming to required standards, to tr ansfer Live location data from the vehicle to central server the chassi s manufacturer shall ensure that t he VLTD fitted shall be of the firm authorized by A&N Administration for VLTD fitment. The successful bi dder shall borne all the cost for su pply, installation, SIM card, registr ation, warranty, activation, subscri ption for sim of the VLTD for mini mum 5 years. 2. The successful bidder shall also pr ovide 04 nos CCTV cameras (1. View of the Driver cabin; 2. Vie Other fitment w of the passenger boarding and d e-boarding point; 3. View of the pa ssenger sitting area and the gang way from the rear; 4. View of the Rear behind th bus) with 7” TF T display device or above for a ll camera with minimum 30 da ys video storage backup and Fu rther minimum Passenger Informa tion System (PIS) / Other Require ments as mentioned below shall al so be fitted: • VLTD, Panic Button 04 nos, PIS. • Minimum PIS requirement details are as follows: • 01 No. Driver Mic. • 04 Nos. Speakers. 2 nos passenger grab rails at vertical p Passenger Grab rail osition mounted on both side of passen ger door for ease of passenger ingress",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 17,
+      "quote": "3mm chequered Aluminium (antis kid) + 12 mm marine plywood fast ened with M8 bolt and nyloc nut b y using GI Washer and sealing all t Platform flooring he jonts with proper sealants to e nsure no dust or water ingress fro m the joints. Handrails and Handho Yes lds External Color Solid white . 17. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9892928"
+    }
+  ],
+  "detail_warning": "The original PDF dates differ from the current public GeM listing. The listing closing date is retained. Confirm the latest opening date and any corrigenda on GeM; the original PDF opening date is not presented as current.",
+  "document_closing_at": "2026-11-02T19:00:00+05:30",
+  "document_opening_at": "2026-11-03T19:00:00+05:30",
+  "date_discrepancy": {
+    "listing_closing_at": "2026-11-16T10:00:00+05:30",
+    "document_closing_at": "2026-11-02T19:00:00+05:30",
+    "document_opening_at": "2026-11-03T19:00:00+05:30"
+  }
 }

@@ -1,16 +1,16 @@
 {
   "page": 1043,
   "complete": false,
-  "status": "failed",
+  "status": "succeeded",
   "source_total": 44366,
   "note": "Imported actual source observations; cloud traversal starts from page1 for conservative coverage.",
-  "last_run_at": "2026-11-15T05:55:37.323729+00:00",
-  "error": "PortalError",
-  "source_checked_at": "2026-11-15T06:05:20.102288+00:00",
+  "last_run_at": "2026-11-15T06:11:45.319683+00:00",
+  "error": null,
+  "source_checked_at": "2026-11-15T06:22:00.078991+00:00",
   "source_health": {
-    "status": "unavailable",
+    "status": "reachable",
     "stage": "http",
-    "http_status": 503
+    "http_status": 200
   },
   "source_runtime": "cloudflare-workers",
   "newest_refresh_complete": true,
@@ -27,12 +27,11 @@
   "newest_refresh_last_complete_at": "2026-11-15T02:43:24.700638+00:00",
   "mode": "documents",
   "last_run_kind": "documents",
-  "last_documents_success_at": "2026-11-15T00:26:15.322340+00:00",
+  "last_documents_success_at": "2026-11-15T06:22:00.078977+00:00",
   "document_batch": {
-    "attempted": 215,
-    "downloaded": 191,
-    "failed": 24,
-    "source_failures": 24
-  },
-  "error_message": "The document source remains unavailable after bounded transport attempts; retry the batch later."
+    "attempted": 179,
+    "downloaded": 156,
+    "failed": 23,
+    "source_failures": 23
+  }
 }

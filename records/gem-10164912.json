@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8273346",
   "title": "Optical Time Domain Reflectometer (OTDR)",
   "description": "Optical Time Domain Reflectometer (OTDR)",
-  "organisation": "NA",
-  "ministry": "Ministry of Power",
-  "department": "NA",
+  "organisation": "Ntpc Limited",
+  "ministry": "Ministry Of Power",
+  "department": "Na",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Optical Time Domain Reflectometer (OTDR)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-13T16:40:29+05:30",
   "closing_at": "2026-11-16T17:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10164912"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/KzDE6UqqaI3jU4mTgMQpeU5uyvKvoJCMl309xYIrR_s",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261113",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +49,302 @@
   ],
   "source_fetched_at": "2026-11-15T02:46:55.054Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-17T17:00:00+05:30",
+  "office": "Peddapalli",
+  "buyer_email": "daravathravi@ntpc.co.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "OEM Authorization Certificate,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "15 (Days)",
+  "source_document_fetched_at": "2026-11-15T06:20:25.191081+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "ecd1c1c34206cc695b1665fc0b409aab37cd2db1420c94bfc99b76edfb95da7a",
+  "document_pages": 7,
+  "eligibility": [
+    "MSE Relaxation for Years Of Experience: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: OEM Authorization Certificate,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "DARAVATH RAVI",
+      "address": "505215,TELANGANA STPP NTPC Ramagundam, Jyothinagar P.O, Peddapalli district, Telangana",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "PERFORMANCE",
+          "parameter": "Fiber Compatibility",
+          "value": "Single Mode"
+        },
+        {
+          "group": "PERFORMANCE",
+          "parameter": "Central Wavelength (nm)",
+          "value": "1310 & 1550 for Single Mode;"
+        },
+        {
+          "group": "PERFORMANCE",
+          "parameter": "Wavelength Tolerance (±)",
+          "value": "30.0 Or lower (nanometer)"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Dynamic range@ Max Wavelength",
+          "value": "35.0 - 50.0 Or higher (decibel)"
+        },
+        {
+          "group": null,
+          "parameter": "Event dead zone - Maximum",
+          "value": "0.8 Or lower (meter)"
+        },
+        {
+          "group": null,
+          "parameter": "Attenuation dead zone - Maximum",
+          "value": "4.0 Or lower (meter)"
+        },
+        {
+          "group": null,
+          "parameter": "Distance Measurement Accuracy (±)",
+          "value": "10.0 Or lower (meter)"
+        },
+        {
+          "group": null,
+          "parameter": "Sampling points",
+          "value": "256000.0 - 256000.0 Or higher"
+        },
+        {
+          "group": "DISPLAY / STORAGE",
+          "parameter": "Display Size",
+          "value": "7.0 - 12.0 Or higher (inch)"
+        },
+        {
+          "group": "DISPLAY / STORAGE",
+          "parameter": "Internal Storage OTDR traces",
+          "value": "50000"
+        },
+        {
+          "group": "DISPLAY / STORAGE",
+          "parameter": "External Storage Capacity inclusive in the scope of supply",
+          "value": "32 Or higher (gigabyte)"
+        },
+        {
+          "group": "VISUAL FAULT LOCATOR (VFL) / VISUAL LIGHT SOURCE (VLS) FOR OTDR",
+          "parameter": "Built-in Visual Fault Locator (VFL) / Visual Light Source (VSL)",
+          "value": "No"
+        },
+        {
+          "group": "POWER METER FOR OTDR",
+          "parameter": "Built-in Power Meter",
+          "value": "Yes"
+        },
+        {
+          "group": "POWER METER FOR OTDR",
+          "parameter": "Power Meter input port",
+          "value": "On OTDR Port"
+        },
+        {
+          "group": "POWER METER FOR OTDR",
+          "parameter": "Wavelength Range",
+          "value": "1200 nm to 1700 nm"
+        },
+        {
+          "group": "POWER METER FOR OTDR",
+          "parameter": "Minimum Power measurement range (dBm)",
+          "value": "-70.0 - -70.0 Or lower"
+        },
+        {
+          "group": "POWER METER FOR OTDR",
+          "parameter": "Accuracy (Power Meter) (±)",
+          "value": "0.0 - 0.0 Or lower (percent)"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Connector Tip",
+          "value": "APC"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Aceesories inclusive in the Scope of Supply (Select included Accessories Only)",
+          "value": "Carry Case"
+        },
+        {
+          "group": "OPERATING CONDITIONS",
+          "parameter": "Minimum Operating Temperature",
+          "value": "-10.0 Or lower (degree Celsius)"
+        },
+        {
+          "group": "OPERATING CONDITIONS",
+          "parameter": "Maximum Operating Temperature",
+          "value": "50.0 Or higher (degree Celsius)"
+        },
+        {
+          "group": "OPERATING CONDITIONS",
+          "parameter": "Maximum Operating Humidity",
+          "value": "95.0 - 95.0 Or higher (percent)"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "WARRANTY",
+          "value": "1, 2, 3, 5 Or higher (year)"
+        },
+        {
+          "group": "CERTIFICATION",
+          "parameter": "Availability of Test Reports from Central Govt/ NABL/ ILAC acredited lab to prove confirmity to the Specifications",
+          "value": "No"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8273346",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164912"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 16-11-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164912"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 17-11-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164912"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 15 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164912"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Power",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164912"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Na",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164912"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Ntpc Limited",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164912"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Peddapalli",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164912"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :rkanand@ntpc.co.in Buyer Email id: daravathravi@ntpc.co.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164912"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164912"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Optical Time Domain Reflectometer (OTDR) (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164912"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164912"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164912"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: OEM Authorization Certificate,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164912"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164912"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164912"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164912"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Fiber Compatibility: Single Mode | Central Wavelength (nm): 1310 & 1550 for Single Mode; | Wavelength Tolerance (±): 30.0 Or lower (nanometer)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164912"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Dynamic range@ Max Wavelength: 35.0 - 50.0 Or higher (decibel) | Event dead zone - Maximum: 0.8 Or lower (meter) | Attenuation dead zone - Maximum: 4.0 Or lower (meter) | Distance Measurement Accuracy (±): 10.0 Or lower (meter) | Sampling points: 256000.0 - 256000.0 Or higher | Display Size: 7.0 - 12.0 Or higher (inch) | Internal Storage OTDR traces: 50000 | External Storage Capacity inclusive in the scope of supply: 32 Or higher (gigabyte) | Built-in Visual Fault Locator (VFL) / Visual Light Source (VSL): No | Built-in Power Meter: Yes | Power Meter input port: On OTDR Port | Wavelength Range: 1200 nm to 1700 nm | Minimum Power measurement range (dBm): -70.0 - -70.0 Or lower | Accuracy (Power Meter) (±): 0.0 - 0.0 Or lower (percent) | Connector Tip: APC | Aceesories inclusive in the Scope of Supply (Select included Accessories Only): Carry Case | Minimum Operating Temperature: -10.0 Or lower (degree Celsius) | Maximum Operating Temperature: 50.0 Or higher (degree Celsius) | Maximum Operating Humidity: 95.0 - 95.0 Or higher (percent) | WARRANTY: 1, 2, 3, 5 Or higher (year) | Availability of Test Reports from Central Govt/ NABL/ ILAC acredited lab to prove confirmity to the Specifications: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164912"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | DARAVATH RAVI | 505215,TELANGANA STPP NTPC Ramagundam, Jyothinagar P.O, Peddapalli district, Telangana | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164912"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164912"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8203203",
   "title": "Hematology Analyzer (Fully-Automated)",
   "description": "Hematology Analyzer (Fully-Automated)",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "North Central Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Hematology Analyzer (Fully-Automated)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 33900,
   "published_at": "2026-10-26T19:29:20+05:30",
   "closing_at": "2026-11-17T11:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10084221"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/qt3v4s-hNwxfoXMzPXABLLCzBaSo3PHTvgK3ZABNhNQ",
+      "page": 5
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8203203/CLM0010/Specs_b4fee578-b2ea-45b2-a90a1793022365090_sdmmjhs.pdf",
+      "page": 8
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261026",
+      "page": 12
     }
   ],
   "tags": [
@@ -34,5 +54,284 @@
   ],
   "source_fetched_at": "2026-11-15T02:52:13.396Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "office": "Ncr",
+  "buyer_email": "sdmm@jhs.railnet.gov.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Single Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 12,
+  "offer_validity": "60 (Days)",
+  "estimated_bid_value": 1695000,
+  "source_document_fetched_at": "2026-11-15T06:34:00.354553+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "d99d979db023c56b75de816b8a7cbafb82dd657f9c2332c7aa6b56b3a4bef88d",
+  "document_pages": 12,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 20 % (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 7,
+      "consignee": "Surendra Singh",
+      "address": "284003,Divisional Railway Hospital North Central Railway, Jhansi",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 60
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "ANALYSIS PARAMETERS",
+          "parameter": "Type",
+          "value": "6-Part"
+        },
+        {
+          "group": "ANALYSIS PARAMETERS",
+          "parameter": "WBC Differential (Reportable)",
+          "value": "6-Part (Neutrophils, Lymphocytes, Monocytes, Eosinophils, Basophils, Immature Granulocytes)"
+        },
+        {
+          "group": "ANALYSIS PARAMETERS",
+          "parameter": "Core CBC Parameters (Reportable)",
+          "value": "WBC, RBC, HGB, HCT, MCV, MCH, MCHC, RDW-SD, RDW-CV, PLT, MPV Or higher"
+        },
+        {
+          "group": "ANALYSIS PARAMETERS",
+          "parameter": "Reticulocyte Count",
+          "value": "Yes"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "NRBC (Nucleated Red Blood Cells)",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Immature Platelet Fraction (IPF)",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Body Fluid (Reportable)",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Minimum Throughput (Samples/hour)",
+          "value": "80.0, 100.0 Or higher"
+        },
+        {
+          "group": "SAMPLE",
+          "parameter": "STAT Capability",
+          "value": "Yes"
+        },
+        {
+          "group": "CERTIFICATIONS",
+          "parameter": "Availability of valid medical device license (CDSCO License) for the product issued from the competent authority defined under Drugs and Cosmetic Act 1940 and Rules as amended till date",
+          "value": "Yes"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 8,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 3. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Bidders to attach bid Authorization Certificate or bid Specific Authorization from OEM, in case firm is not OEM or firm's credential is not verified by OEM on GEM platform. (Without this offer shall be tre ated as unresponsive and shall be ignored). 2. Technical Compliance: The tenderers/bidder should give para-wise comments on the technical speci fication to indicate whether the equipment offered meets the tender specifications. The offer should be accompanied with complete details of technical parameters. 3. Bidders to attach Declaration from OEM regarding local content in compliance Public Procurement ( Preference to Make in India) Order 2017 if not declared on product page of offered product. (Withou t this offer shall be treated as unresponsive and shall be ignored). 4. For fulfilling the PAST PERFORMANCE criteria any one of the following documents may be considere"
+    },
+    {
+      "page": 9,
+      "text": "d as valid proof for meeting the PERFORMANCE criteria: - a. For GeM contracts, CRAC to be attached; b. Execution/Completion certificate with order value/supplied value; c. Any other document in support of order execution like Third Party Inspection certificate, relea se note, R-Notes etc. (Note: Without this offer shall be treated as unresponsive and shall be i gnored). 5. The bidder has to ensure that the documents uploaded by them for various parameters in bid requir ement are clear and readable, failing which that parameter will not be considered in evaluation of of fer. 6. Bidders are advised to read the bid document carefully before quoting in this bid. Any request regar ding Modification in terms and conditions/material specification/description/inspection clause etc. p ost contract will not be considered. No delivery period re-fixation after expiry of original delivery per iod will be entertained in this regard. 7. The bidders are advised to submit all the inspection certificate along with all the test reports warran ted as per contract to the buyer along with invoice along with dispatch of material. 8. Security deposit / Performance Security at rate of 5 % (percent) of the contract value in favour of Sr. DFM/JHS/NCR, NORTH CENTRAL RAILWAY must be submitted by Seller to the Buyer within 15 days o f award of contract on GeM. Address for submission of EMD & SD/PBG Office of the Sr. Divisional Mat erials Manager, DRM office, Near Railway Station, JHANSI-284003 (U.P). . 4. Warranty Bidder / OEM has to give an undertaking that after expiry of warranty period, it will provide Comprehensive Maintenance Service for next 5 years for the offered products at the rate not more than 20 % of contract price per annum. Buyer reserves the right to enter into a CMC agreement with the Successful Bidder / OEM after expiry of the Warranty period at above mentioned rate and the payment for the CMC charges would be made Quarterly after rendering of the CMC Services of the relevant CMC period. Performance Security of the successful bidder shall be forfeited if it fails to accept the CMC contract when called upon by the buyer. CMC would include cost of 20% (Upload the undertaking). The original Performance Security of contract will be returned only after submission and verification of AMC Performance Security for 10% of total CMC value valid up to CMC period plus 2 months (if there is no other claim). 5. Warranty Warranty period of the supplied products shall be 5 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8203203",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10084221"
+    },
+    {
+      "field": "document_closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 09-11-2026 20:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10084221"
+    },
+    {
+      "field": "document_opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 10-11-2026 20:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10084221"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 60 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10084221"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10084221"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10084221"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: North Central Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10084221"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Ncr",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10084221"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :dcmmm@ncr.railnet.gov.in Buyer Email id: sdmm@jhs.railnet.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10084221"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10084221"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Hematology Analyzer (Fully-Automated) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10084221"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10084221"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10084221"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10084221"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 20 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10084221"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10084221"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 1695000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10084221"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 33900",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10084221"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 33900",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10084221"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10084221"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 12",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10084221"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10084221"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Type: 6-Part | WBC Differential (Reportable): 6-Part (Neutrophils, Lymphocytes, Monocytes, Eosinophils, Basophils, Immature Granulocytes) | Core CBC Parameters (Reportable): WBC, RBC, HGB, HCT, MCV, MCH, MCHC, RDW-SD, RDW-CV, PLT, MPV Or higher | Reticulocyte Count: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10084221"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "NRBC (Nucleated Red Blood Cells): Yes | Immature Platelet Fraction (IPF): Yes | Body Fluid (Reportable): Yes | Minimum Throughput (Samples/hour): 80.0, 100.0 Or higher | STAT Capability: Yes | Availability of valid medical device license (CDSCO License) for the product issued from the competent authority defined under Drugs and Cosmetic Act 1940 and Rules as amended till date: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10084221"
+    },
+    {
+      "field": "consignees",
+      "page": 7,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Surendra Singh | 284003,Divisional Railway Hospital North Central Railway, Jhansi | 1 | 60",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10084221"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 3. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Bidders to attach bid Authorization Certificate or bid Specific Authorization from OEM, in case firm is not OEM or firm's credential is not verified by OEM on GEM platform. (Without this offer shall be tre ated as unresponsive and shall be ignored). 2. Technical Compliance: The tenderers/bidder should give para-wise comments on the technical speci fication to indicate whether the equipment offered meets the tender specifications. The offer should be accompanied with complete details of technical parameters. 3. Bidders to attach Declaration from OEM regarding local content in compliance Public Procurement ( Preference to Make in India) Order 2017 if not declared on product page of offered product. (Withou t this offer shall be treated as unresponsive and shall be ignored). 4. For fulfilling the PAST PERFORMANCE criteria any one of the following documents may be considere",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10084221"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "d as valid proof for meeting the PERFORMANCE criteria: - a. For GeM contracts, CRAC to be attached; b. Execution/Completion certificate with order value/supplied value; c. Any other document in support of order execution like Third Party Inspection certificate, relea se note, R-Notes etc. (Note: Without this offer shall be treated as unresponsive and shall be i gnored). 5. The bidder has to ensure that the documents uploaded by them for various parameters in bid requir ement are clear and readable, failing which that parameter will not be considered in evaluation of of fer. 6. Bidders are advised to read the bid document carefully before quoting in this bid. Any request regar ding Modification in terms and conditions/material specification/description/inspection clause etc. p ost contract will not be considered. No delivery period re-fixation after expiry of original delivery per iod will be entertained in this regard. 7. The bidders are advised to submit all the inspection certificate along with all the test reports warran ted as per contract to the buyer along with invoice along with dispatch of material. 8. Security deposit / Performance Security at rate of 5 % (percent) of the contract value in favour of Sr. DFM/JHS/NCR, NORTH CENTRAL RAILWAY must be submitted by Seller to the Buyer within 15 days o f award of contract on GeM. Address for submission of EMD & SD/PBG Office of the Sr. Divisional Mat erials Manager, DRM office, Near Railway Station, JHANSI-284003 (U.P). . 4. Warranty Bidder / OEM has to give an undertaking that after expiry of warranty period, it will provide Comprehensive Maintenance Service for next 5 years for the offered products at the rate not more than 20 % of contract price per annum. Buyer reserves the right to enter into a CMC agreement with the Successful Bidder / OEM after expiry of the Warranty period at above mentioned rate and the payment for the CMC charges would be made Quarterly after rendering of the CMC Services of the relevant CMC period. Performance Security of the successful bidder shall be forfeited if it fails to accept the CMC contract when called upon by the buyer. CMC would include cost of 20% (Upload the undertaking). The original Performance Security of contract will be returned only after submission and verification of AMC Performance Security for 10% of total CMC value valid up to CMC period plus 2 months (if there is no other claim). 5. Warranty Warranty period of the supplied products shall be 5 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10084221"
+    }
+  ],
+  "detail_warning": "The original PDF dates differ from the current public GeM listing. The listing closing date is retained. Confirm the latest opening date and any corrigenda on GeM; the original PDF opening date is not presented as current.",
+  "document_closing_at": "2026-11-09T20:00:00+05:30",
+  "document_opening_at": "2026-11-10T20:00:00+05:30",
+  "date_discrepancy": {
+    "listing_closing_at": "2026-11-17T11:00:00+05:30",
+    "document_closing_at": "2026-11-09T20:00:00+05:30",
+    "document_opening_at": "2026-11-10T20:00:00+05:30"
+  }
 }

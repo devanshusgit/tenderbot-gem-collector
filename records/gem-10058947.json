@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8181518",
   "title": "Utility Vehicle",
   "description": "Utility Vehicle",
-  "organisation": "Local Self Government Department Kerala",
-  "ministry": "",
+  "organisation": "N/a",
+  "ministry": "Kerala",
   "department": "Local Self Government Department Kerala",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Utility Vehicle",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-10-20T20:16:45+05:30",
   "closing_at": "2026-11-17T21:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10058947"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/XJot0nOlE81zvJB3_Og5PlqLmx8T6ZUetPei7M-AF0s",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261020",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +49,234 @@
   ],
   "source_fetched_at": "2026-11-12T08:31:05.003Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "office": "Pattanakkad Gramapanchayat Alappuzha",
+  "buyer_email": "jspkdgp.lsgd@kerala.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "60 (Days)",
+  "source_document_fetched_at": "2026-11-15T00:04:12.554733+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "9978ed342222a6c1efd5b1a1c8b2ad8f87dda8735f001244daf22b2a8895742f",
+  "document_pages": 8,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Secretary",
+      "address": "688531,Pattanakkad Gramapanchayath Office , Pattanakkad P.O , Cherthala , Alappuzha , PIN - 688531",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Engine and Transmission Parameters",
+          "parameter": "Displacement / Cubic Capacity (cc) of Engine",
+          "value": "<=1200 cc"
+        },
+        {
+          "group": "Engine and Transmission Parameters",
+          "parameter": "Vehicle Air Intake System",
+          "value": "Natural, Turbocharged Or higher"
+        },
+        {
+          "group": "Engine and Transmission Parameters",
+          "parameter": "Vehicle Transmission System",
+          "value": "Manual Transmission (MT)"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Category of the Vehicle",
+          "value": "N1 (For Goods + passengers, Number of seats including driver <= 7, GVW <=3.5 tonnes)"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Type of Body",
+          "value": "Van"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Type of Fuel",
+          "value": "Petrol"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Seating Capacity (Including Driver)",
+          "value": "2.0"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Drive Axle",
+          "value": "Rear wheel drive"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Type of Service Brake (Front)",
+          "value": "Disc Brake Or higher"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Type of Service Brake (Rear)",
+          "value": "Drum Brake, Disc Brake Or higher"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Type of Wheel Rim",
+          "value": "Sheet metal / Steel wheel rim, Alloy wheel rim Or higher"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Tyre Type",
+          "value": "Tubeless Or higher"
+        },
+        {
+          "group": "Accessories/Features",
+          "parameter": "Air Conditioning",
+          "value": "Yes, No"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8181518",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058947"
+    },
+    {
+      "field": "document_closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 03-11-2026 21:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058947"
+    },
+    {
+      "field": "document_opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 04-11-2026 21:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058947"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 60 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058947"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Kerala",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058947"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Local Self Government Department Kerala",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058947"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: N/a",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058947"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Pattanakkad Gramapanchayat Alappuzha",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058947"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :secptkdgp.lsgd@kerala.gov.in Buyer Email id: jspkdgp.lsgd@kerala.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058947"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058947"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Utility Vehicle (Q1)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058947"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058947"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058947"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058947"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058947"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058947"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Displacement / Cubic Capacity (cc) of Engine: <=1200 cc | Vehicle Air Intake System: Natural, Turbocharged Or higher | Vehicle Transmission System: Manual Transmission (MT) | Category of the Vehicle: N1 (For Goods + passengers, Number of seats including driver <= 7, GVW <=3.5 tonnes) | Type of Body: Van | Type of Fuel: Petrol | Seating Capacity (Including Driver): 2.0 | Drive Axle: Rear wheel drive | Type of Service Brake (Front): Disc Brake Or higher | Type of Service Brake (Rear): Drum Brake, Disc Brake Or higher | Type of Wheel Rim: Sheet metal / Steel wheel rim, Alloy wheel rim Or higher | Tyre Type: Tubeless Or higher | Air Conditioning: Yes, No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058947"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Secretary | 688531,Pattanakkad Gramapanchayath Office , Pattanakkad P.O , Cherthala , Alappuzha , PIN - 688531 | 1 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058947"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10058947"
+    }
+  ],
+  "detail_warning": "The original PDF dates differ from the current public GeM listing. The listing closing date is retained. Confirm the latest opening date and any corrigenda on GeM; the original PDF opening date is not presented as current.",
+  "document_closing_at": "2026-11-03T21:00:00+05:30",
+  "document_opening_at": "2026-11-04T21:00:00+05:30",
+  "date_discrepancy": {
+    "listing_closing_at": "2026-11-17T21:00:00+05:30",
+    "document_closing_at": "2026-11-03T21:00:00+05:30",
+    "document_opening_at": "2026-11-04T21:00:00+05:30"
+  }
 }

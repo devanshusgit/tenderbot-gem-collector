@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8276531",
   "title": "Line Interactive UPS with AVR (V2)",
   "description": "Line Interactive UPS with AVR (V2)",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Army",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Line Interactive UPS with AVR (V2)",
   "quantity": 11,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-14T18:27:45+05:30",
   "closing_at": "2026-11-24T09:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10168592"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/i2pbQ11OnxH_nFEdpTVgiKNRRy3A46s6q5V_-VN_3hg",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261114",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +49,196 @@
   ],
   "source_fetched_at": "2026-11-15T17:19:35.666Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-25T09:00:00+05:30",
+  "buyer_email": "ramgop.25540@gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-15T22:57:11.348581+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "04f11937c3d47a90017e98ed0e06d96e7983aaa2eddba80c8e7be958d3d592d3",
+  "document_pages": 8,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "***********",
+      "address": "***********KAPURTHALA",
+      "quantity": 11,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "GENERIC",
+          "parameter": "UPS Rating (in KVA)",
+          "value": "1.0, 1.5, 2.0, 3 Or higher"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Inverter Technology",
+          "value": "MOSFET-PWM"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Inverter Efficiency (in %)",
+          "value": "60% or better, 70% or better Or higher"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Minimum Guaranteed Battery Backup Time (in Minutes) at Full Load",
+          "value": "15, 30, 60, 90, 120, 180, 240 Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 3. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses ADDITIONAL TERMS AND CONDITIONS (ATC) Procurement of 1 KVA Line Interactive UPS 1. The UPS shall be of 1 KVA capacity, Line Interactive type with Pure Sine Wave output. 2. The UPS shall be suitable for operation on a single-phase AC input supply of 2 30V, 50 Hz. 3. The UPS shall be equipped with Automatic Voltage Regulation (AVR) to prote ct connected equipment against voltage fluctuations. 4. The UPS shall provide a minimum backup time of 30 minutes at 50% of its rat ed load. The bidder shall submit an OEM datasheet or technical document confir ming the backup performance. 5. The UPS shall be supplied with suitable Sealed Maintenance Free (SMF) batte"
+    },
+    {
+      "page": 6,
+      "text": "ries of adequate capacity to achieve the stipulated backup time. All batteries, a ccessories, connectors and cables required for proper functioning shall be supplied along with the UPS. 6. The UPS shall have built-in protection against overload, short circuit, deep dis charge, overcharging and voltage fluctuations. 7. The UPS shall have LED/LCD indications for input supply, battery status, char ging status and load/overload conditions. 8. The UPS and all supplied batteries shall carry a comprehensive onsite OEM w arranty of 03 years from the date of successful installation and commissioning. The warranty shall cover all parts, including batteries, electronic components a nd accessories, without any additional cost to the purchaser. 9. During the warranty period, any defective component or battery shall be repa ired or replaced by the OEM/authorized service provider free of cost, including l abour and transportation charges. 10. The bidder shall submit the OEM Authorization Certificate, wherever applica ble, along with the bid. 11. The bidder shall submit the OEM technical datasheet/catalogue clearly indic ating the offered UPS specifications, battery capacity and backup performance. 12. The UPS shall be supplied in brand-new, unused condition along with all sta ndard accessories, user manual and warranty documents. 13. Installation, commissioning and demonstration of the UPS shall be carried o ut by the OEM/authorised service provider at the consignee's location without a ny additional cost. 14. The supplied UPS shall comply with applicable BIS standards and statutory r equirements, wherever applicable. 15. The purchaser reserves the right to inspect and verify the supplied UPS and its performance, including the stipulated backup time, before acceptance."
+    },
+    {
+      "page": 7,
+      "text": "Name of Seller /Firm_____________________ Name of Authorised Signatory______________ Signatures_____________________________ Date__________________________________ Seal/Stamp of Firm ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8276531",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10168592"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 24-11-2026 09:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10168592"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 25-11-2026 09:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10168592"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10168592"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10168592"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10168592"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Army",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10168592"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :chinnu.584@gov.in Buyer Email id: ramgop.25540@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10168592"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 11",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10168592"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Line Interactive UPS with AVR (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10168592"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10168592"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10168592"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10168592"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10168592"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10168592"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "UPS Rating (in KVA): 1.0, 1.5, 2.0, 3 Or higher | Inverter Technology: MOSFET-PWM | Inverter Efficiency (in %): 60% or better, 70% or better Or higher | Minimum Guaranteed Battery Backup Time (in Minutes) at Full Load: 15, 30, 60, 90, 120, 180, 240 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10168592"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********KAPURTHALA | 11 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10168592"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 3. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses ADDITIONAL TERMS AND CONDITIONS (ATC) Procurement of 1 KVA Line Interactive UPS 1. The UPS shall be of 1 KVA capacity, Line Interactive type with Pure Sine Wave output. 2. The UPS shall be suitable for operation on a single-phase AC input supply of 2 30V, 50 Hz. 3. The UPS shall be equipped with Automatic Voltage Regulation (AVR) to prote ct connected equipment against voltage fluctuations. 4. The UPS shall provide a minimum backup time of 30 minutes at 50% of its rat ed load. The bidder shall submit an OEM datasheet or technical document confir ming the backup performance. 5. The UPS shall be supplied with suitable Sealed Maintenance Free (SMF) batte",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10168592"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "ries of adequate capacity to achieve the stipulated backup time. All batteries, a ccessories, connectors and cables required for proper functioning shall be supplied along with the UPS. 6. The UPS shall have built-in protection against overload, short circuit, deep dis charge, overcharging and voltage fluctuations. 7. The UPS shall have LED/LCD indications for input supply, battery status, char ging status and load/overload conditions. 8. The UPS and all supplied batteries shall carry a comprehensive onsite OEM w arranty of 03 years from the date of successful installation and commissioning. The warranty shall cover all parts, including batteries, electronic components a nd accessories, without any additional cost to the purchaser. 9. During the warranty period, any defective component or battery shall be repa ired or replaced by the OEM/authorized service provider free of cost, including l abour and transportation charges. 10. The bidder shall submit the OEM Authorization Certificate, wherever applica ble, along with the bid. 11. The bidder shall submit the OEM technical datasheet/catalogue clearly indic ating the offered UPS specifications, battery capacity and backup performance. 12. The UPS shall be supplied in brand-new, unused condition along with all sta ndard accessories, user manual and warranty documents. 13. Installation, commissioning and demonstration of the UPS shall be carried o ut by the OEM/authorised service provider at the consignee's location without a ny additional cost. 14. The supplied UPS shall comply with applicable BIS standards and statutory r equirements, wherever applicable. 15. The purchaser reserves the right to inspect and verify the supplied UPS and its performance, including the stipulated backup time, before acceptance.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10168592"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "Name of Seller /Firm_____________________ Name of Authorised Signatory______________ Signatures_____________________________ Date__________________________________ Seal/Stamp of Firm .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10168592"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

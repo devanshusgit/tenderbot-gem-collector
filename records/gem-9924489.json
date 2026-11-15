@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8064048",
   "title": "Scanning and Digitisation Service (Version 2) - 300; A4 and legal",
   "description": "Scanning and Digitisation Service (Version 2) - 300; A4 and legal",
-  "organisation": "Department of Fisheries",
-  "ministry": "Ministry of Fisheries Animal Husbandry Dairying",
-  "department": "Department of Fisheries",
+  "organisation": "Coastal Aquaculture Authority",
+  "ministry": "Ministry Of Fisheries Animal Husbandry Dairying",
+  "department": "Department Of Fisheries",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Scanning and Digitisation Service (Version 2) - 300; A4 and legal",
   "quantity": 1000000,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 20000,
   "published_at": "2026-09-29T18:26:35+05:30",
   "closing_at": "2026-11-16T09:00:00+05:30",
   "status": "active",
@@ -27,6 +27,36 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/9924489"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": ":1790599257.pdf",
+      "url": "https://bidplus.gem.gov.in/resources/upload_nas/SepQ326/bidding/biddoc/bid-9924489/1790599257.pdf",
+      "page": 4
+    },
+    {
+      "name": ":1790676553.pdf",
+      "url": "https://bidplus.gem.gov.in/resources/upload_nas/SepQ326/bidding/biddoc/bid-9924489/1790676553.pdf",
+      "page": 4
+    },
+    {
+      "name": "1790676557.pdf",
+      "url": "https://bidplus.gem.gov.in/resources/upload_nas/SepQ326/bidding/biddoc/bid-9924489/1790676557.pdf",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20260929",
+      "page": 7
+    },
+    {
+      "name": "Service Level Agreement",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/bidsla/98495481911121",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +64,287 @@
   ],
   "source_fetched_at": "2026-11-14T19:19:45.252Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "office": "Coastal Aquaculture Authority",
+  "buyer_email": "jayanthir@caa.gov.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 10,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Bidder Turnover,Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 8,
+  "offer_validity": "60 (Days)",
+  "estimated_bid_value": 1000000,
+  "contract_period": "6 Month(s) 12 Day(s)",
+  "source_document_fetched_at": "2026-11-15T14:55:45.076675+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "426e2dd18f45445f29056f52707d80699d5e13bd6d62ea68bead8e32ab8bd4e1",
+  "document_pages": 8,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 10 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "E. Jayanthi",
+      "address": "600035,5th Floor,Integrated Office Complex for Animal Husbandry and Fisheries Department,Fanepet,Nandana m,",
+      "quantity": 1000000,
+      "quantity_label": "Total number of images(page s) scanned and digitized",
+      "delivery_days": null,
+      "additional_requirements": "N/A"
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Scanning Resolution (dpi)",
+          "value": "300"
+        },
+        {
+          "group": "Core",
+          "parameter": "Document Size",
+          "value": "A4 and legal"
+        },
+        {
+          "group": "Core",
+          "parameter": "Document Age (In Years)",
+          "value": "11 to 25"
+        },
+        {
+          "group": "Core",
+          "parameter": "Metadata Field (per image/page)",
+          "value": "1 to 10"
+        },
+        {
+          "group": "Core",
+          "parameter": "Colour Type",
+          "value": "Colour"
+        },
+        {
+          "group": "Core",
+          "parameter": "Speed of Scanning (Number of Pages Per Day)",
+          "value": "5001 to 10000"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Binding Required",
+          "value": "NA"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Bar Coding required",
+          "value": "NA"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE 50% : The buyer can increase or decrease the contract quantity or contract duration up to 50 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 50 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 50 percent with the consent of the service provider 2. Generic"
+    },
+    {
+      "page": 6,
+      "text": "1. The Seller shall not assign the Contract in whole or part without obtaining the prior written consent of buyer. 2. The Seller shall not sub-contract the Contract in whole or part to any entity without obtaining the prior written consent of buyer. 3. The Seller shall, notwithstanding the consent and assignment/sub-contract, remain jointly and severally liable and responsible to buyer together with the assignee/ sub-contractor, for and in respect of the due performance of the Contract and the Sellers obligations there under. 3. Payment PAYMENT OF SALARIES AND WAGES: Service Provider is required to pay Salaries / wages of contracted staff deployed at buyer location first i.e. on their own and then claim payment from Buyer alongwith all statutory documents like, PF, ESIC etc. as well as the bank statement of payment done to staff. 4. Service & Support AVAILABILITY OF OFFICE OF SERVICE PROVIDER: An office of the Service Provider must be located in the state of Consignee. DOCUMENTARY EVIDENCE TO BE SUBMITTED. 5. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 6. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8064048",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9924489"
+    },
+    {
+      "field": "document_closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 20-10-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9924489"
+    },
+    {
+      "field": "document_opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 21-10-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9924489"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 60 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9924489"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Fisheries Animal Husbandry Dairying",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9924489"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Fisheries",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9924489"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Coastal Aquaculture Authority",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9924489"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Coastal Aquaculture Authority",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9924489"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :caaheadoffice@caa.gov.in Buyer Email id: jayanthir@caa.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9924489"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Scanning and Digitisation Service (Version 2) - 300; A4 and legal",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9924489"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 6 Month(s) 12 Day(s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9924489"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "((33 )) /Minimum Average Annual Turnover of the bidder (For 3 Years): 10 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9924489"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9924489"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9924489"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9924489"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9924489"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9924489"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9924489"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "(( )) / Estimated Bid Value in INR (Inclusive of all taxes): 1000000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9924489"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 20000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9924489"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 20000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9924489"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9924489"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 8",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9924489"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9924489"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Scanning Resolution (dpi): 300 | Document Size: A4 and legal | Document Age (In Years): 11 to 25 | Metadata Field (per image/page): 1 to 10 | Colour Type: Colour | Speed of Scanning (Number of Pages Per Day): 5001 to 10000 | Binding Required: NA | Bar Coding required: NA",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9924489"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Total number of images(page s) scanned and digitized | Additional Requirement: 1 | E. Jayanthi | 600035,5th Floor,Integrated Office Complex for Animal Husbandry and Fisheries Department,Fanepet,Nandana m, | 1000000 | N/A",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9924489"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE 50% : The buyer can increase or decrease the contract quantity or contract duration up to 50 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 50 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 50 percent with the consent of the service provider 2. Generic",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9924489"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. The Seller shall not assign the Contract in whole or part without obtaining the prior written consent of buyer. 2. The Seller shall not sub-contract the Contract in whole or part to any entity without obtaining the prior written consent of buyer. 3. The Seller shall, notwithstanding the consent and assignment/sub-contract, remain jointly and severally liable and responsible to buyer together with the assignee/ sub-contractor, for and in respect of the due performance of the Contract and the Sellers obligations there under. 3. Payment PAYMENT OF SALARIES AND WAGES: Service Provider is required to pay Salaries / wages of contracted staff deployed at buyer location first i.e. on their own and then claim payment from Buyer alongwith all statutory documents like, PF, ESIC etc. as well as the bank statement of payment done to staff. 4. Service & Support AVAILABILITY OF OFFICE OF SERVICE PROVIDER: An office of the Service Provider must be located in the state of Consignee. DOCUMENTARY EVIDENCE TO BE SUBMITTED. 5. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 6. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9924489"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 1000000",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "The original PDF dates differ from the current public GeM listing. The listing closing date is retained. Confirm the latest opening date and any corrigenda on GeM; the original PDF opening date is not presented as current.",
+  "document_closing_at": "2026-10-20T16:00:00+05:30",
+  "document_opening_at": "2026-10-21T16:00:00+05:30",
+  "date_discrepancy": {
+    "listing_closing_at": "2026-11-16T09:00:00+05:30",
+    "document_closing_at": "2026-10-20T16:00:00+05:30",
+    "document_opening_at": "2026-10-21T16:00:00+05:30"
+  }
 }

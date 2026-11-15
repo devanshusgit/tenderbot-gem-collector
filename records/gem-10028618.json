@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8154978",
   "title": "Courier Service in KG - National; PAN India",
   "description": "Courier Service in KG - National; PAN India",
-  "organisation": "Department of Pharmaceuticals",
-  "ministry": "Ministry of Chemicals and Fertilizers",
-  "department": "Department of Pharmaceuticals",
+  "organisation": "Jan Aushadhi - Bureau Of Pharma Psus Of India (bppi)",
+  "ministry": "Ministry Of Chemicals And Fertilizers",
+  "department": "Department Of Pharmaceuticals",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Courier Service in KG - National; PAN India",
   "quantity": 50000,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-10-13T16:14:12+05:30",
   "closing_at": "2026-11-27T17:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10028618"
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8154978/CLM0012/SOW_3ed6880d-113b-408b-87cd1791886437520_mgr.iad.pdf",
+      "page": 5
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261013",
+      "page": 7
+    },
+    {
+      "name": "Service Level Agreement",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/bidsla/100573178989924",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +49,290 @@
   ],
   "source_fetched_at": "2026-11-14T01:42:13.064Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-28T17:00:00+05:30",
+  "office": "Delhi/north",
+  "buyer_email": "mgr.iad@janaushadhi.gov.in",
+  "emd_required": false,
+  "bidder_turnover_lakhs": 25,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "180 (Days)",
+  "estimated_bid_value": 2500000,
+  "contract_period": "2 Year(s)",
+  "source_document_fetched_at": "2026-11-15T07:44:00.166473+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "d1fce94f2fce6429f7d3196c44b488e1208e521ce70d1b6c1ea69696bcb54383",
+  "document_pages": 7,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 25 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: GeM verified turnover (GeM PDF, p. 1)",
+    "MSE Relaxation for Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Pooja Panchal",
+      "address": "110029,B-500, B-Tower, 5th Floor, Nauroji Nagar, World Trade Center",
+      "quantity": 50000,
+      "quantity_label": "Estimated Weight of Courier in Kgs which needs to moved during the contract period",
+      "delivery_days": null,
+      "additional_requirements": ""
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Delivery Location",
+          "value": "National"
+        },
+        {
+          "group": "Core",
+          "parameter": "Coverage Area",
+          "value": "PAN India"
+        },
+        {
+          "group": "Core",
+          "parameter": "Mode of Delivery",
+          "value": "By Surface"
+        },
+        {
+          "group": "Core",
+          "parameter": "Expected Delivery time",
+          "value": "within 2-4 days"
+        },
+        {
+          "group": "Core",
+          "parameter": "Package Content",
+          "value": "Non Document"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type of material to be handled",
+          "value": "RFP (Fragile & Nonfragile)"
+        },
+        {
+          "group": "Core",
+          "parameter": "Mode of PoD (Proof of Delivery)",
+          "value": "Online Tracking"
+        },
+        {
+          "group": "Core",
+          "parameter": "MIS report",
+          "value": "Yes"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Addon(s)",
+          "parameter": "Packaging required",
+          "value": "Bubble Wrap"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Insurance Required",
+          "value": "NA"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE 50% : The buyer can increase or decrease the contract quantity or contract duration up to 50 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 50 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 50 percent with the consent of the service provider 2. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 3. Payment PAYMENT OF SALARIES AND WAGES: Service Provider is required to pay Salaries / wages of contracted staff deployed at buyer location first i.e. on their own and then claim payment from Buyer alongwith all statutory documents like, PF, ESIC etc. as well as the bank statement of payment done to staff."
+    },
+    {
+      "page": 5,
+      "text": "4. Buyer Added Bid Specific Scope Of Work(SOW) Text Clause(s) Scope of work 1. The agency shall provide Courier Services of our packed materials to all LABS, located at various destinations in India. The packages/documents will be collected from our warehouse (Gurugram, S urat, Guwahati, Chennai, Bengaluru). Name of warehouse location Warehouse Address Type of Items Guru gram Sugal Logistic Park, Warehouse No.1,Opp. GITM College, Bilaspur-Tauru Road, Village Pathrari, Distri ct Gurugram -122413 Medicine/ Surgical products. Surat A-23/2,A-24/1, Ichhapore GIDC City, Magdalla - Hz ira Road, Choryasi, Surat 394510 Medicine/ Surgical products. Chennai Plot no.- 6/1A, 8/2, &13/3, Orakadd u Road, Sholavaram Sholavaram 600067 Medicine/ Surgical products. Bangaluru Plot no.- 162-163, KIADB Industrial Area,Hi Tech Defense Aerospace park, Devanahalli Bengaluru 562110 Medicine/ Surgical produc ts. Guwahati GARCHUK, HILL VIEW COMPLEX, GUWAHATI 781035 Medicine/ Surgical products. 2. Courier s ervices mean collection of packets/parcels containing/Injectable/Medicines from the following places on dai ly basis. 3. The delivery of packets/parcels collected from above places given location, which may in future can expand to other locations across the nation/ PAN India and bidder will be liable to provide services in a ll locations suggested by PMBI. 4. The courier agency shall arrange for their accredited representatives for collection and delivery of packets/parcels. The representative shall be provided with a suitable identity car d / uniform without which they shall not be allowed to collect or deliver the packets / parcels and the liabili ty for failure to provide service on the ground vests with courier agency. The representative shall acknowle dge receipt of the packets/ parcels delivered to Labs. 5. The courier agency shall ensure that the couriered packets / parcels are delivered at the proper place of addressee within 3 working days. consignee only aga inst full signatures, designations and stamp with telephone numbers of the authorized representative of th e addressee / consignee and obtain proof of delivery (POD) within specified time limit. 6. The courier agenc y shall arrange GPS system support for proper monitoring and real time update to see the except passion of live vehicle location. 7. It shall be the absolute responsibility of the courier agency to ensure that the pa ckets / parcels delivered to its authorized representative duly sealed, their packets / parcels or their conte nts are not tampered with / damaged in any manner whatsoever and the packets / parcels are not misplac ed, lost or stolen and be delivered in the same condition as were accepted from our offices/warehouses or any branch / office to the addressee branch at their door step / Inward counter. 8. Cold chain item packagi ng: Choose appropriate packaging based on the temperature requirements of the items being shipped. Pac kaging should be in gel packs and dry ice and maintain proper temperature till delivered. Keep the detail r ecords/data logger of temperature and send to with proof of delivery (POD). 9. The courier agency shall su bmit their bills, monthly, at PMBI head office, along with date wise collection and delivery details including proof of delivery (PODs) and charges thereof, which will be paid by PMBI head office within three working weeks from the date of receipt of bill subject to its scrutiny and found to be in order. 10. The Courier agenc y awarded with the contract shall have to maintain current account, while submitting the monthly bill and all the payments shall be credited in the said account only. The bill must be of Courier Agency to whom the Contract has been awarded. No third-party bill shall be entertained for payments. 11. The delay in delivery of packets / parcels beyond the stipulated time as per scope of work above except on account of circumst ances beyond the control of the agency such as law & order, natural calamity, Covid-19 pandemic, Acts of God etc. the PMBI may determine and impose penalty, if it is not satisfied with the explanation tendered by the courier agency. 12. In case PMBI is required to make alternate arrangements, due to failure of service by the courier agency on any occasion, the entire cost of such alternate arrangement made by PMBI shall be recovered from the courier agency. 13. The courier agency shall have an effective on-line tracking syst em and shall implement the same to know the status of each document and advising our concerned branc h /establishment in case of need regarding the status /location of the consignment sent. In case of need by written request of branch / office, they shall provide the details of delivery. 14. PMBI may add branches / of fices, from time to time, in the agreement under the same terms and conditions on one month’s notice. In case of addition, the courier agency shall make appropriate arrangement for providing services to such bra nches/offices without any extra charges to the Bank. 5. Buyer Added Bid Specific Scope Of Work(SOW) File Attachment Click here to view the file. 6. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 7. Service & Support"
+    },
+    {
+      "page": 6,
+      "text": "AVAILABILITY OF OFFICE OF SERVICE PROVIDER: An office of the Service Provider must be located in the state of Consignee. DOCUMENTARY EVIDENCE TO BE SUBMITTED."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8154978",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10028618"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 27-11-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10028618"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 28-11-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10028618"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10028618"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Chemicals And Fertilizers",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10028618"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Pharmaceuticals",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10028618"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Jan Aushadhi - Bureau Of Pharma Psus Of India (bppi)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10028618"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Delhi/north",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10028618"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :ceo@janaushadhi.gov.in Buyer Email id: mgr.iad@janaushadhi.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10028618"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Courier Service in KG - National; PAN India",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10028618"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 2 Year(s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10028618"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "((33 )) /Minimum Average Annual Turnover of the bidder (For 3 Years): 25 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10028618"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10028618"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: GeM verified turnover",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10028618"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10028618"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10028618"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10028618"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10028618"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "(( )) / Estimated Bid Value in INR (Inclusive of all taxes): 2500000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10028618"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10028618"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10028618"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Delivery Location: National | Coverage Area: PAN India | Mode of Delivery: By Surface | Expected Delivery time: within 2-4 days | Package Content: Non Document | Type of material to be handled: RFP (Fragile & Nonfragile) | Mode of PoD (Proof of Delivery): Online Tracking | MIS report: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10028618"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Packaging required: Bubble Wrap | Insurance Required: NA",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10028618"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Estimated Weight of Courier in Kgs which needs to moved during the contract period | Additional Requirement: 1 | Pooja Panchal | 110029,B-500, B-Tower, 5th Floor, Nauroji Nagar, World Trade Center | 50000 | ",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10028618"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE 50% : The buyer can increase or decrease the contract quantity or contract duration up to 50 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 50 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 50 percent with the consent of the service provider 2. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 3. Payment PAYMENT OF SALARIES AND WAGES: Service Provider is required to pay Salaries / wages of contracted staff deployed at buyer location first i.e. on their own and then claim payment from Buyer alongwith all statutory documents like, PF, ESIC etc. as well as the bank statement of payment done to staff.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10028618"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "4. Buyer Added Bid Specific Scope Of Work(SOW) Text Clause(s) Scope of work 1. The agency shall provide Courier Services of our packed materials to all LABS, located at various destinations in India. The packages/documents will be collected from our warehouse (Gurugram, S urat, Guwahati, Chennai, Bengaluru). Name of warehouse location Warehouse Address Type of Items Guru gram Sugal Logistic Park, Warehouse No.1,Opp. GITM College, Bilaspur-Tauru Road, Village Pathrari, Distri ct Gurugram -122413 Medicine/ Surgical products. Surat A-23/2,A-24/1, Ichhapore GIDC City, Magdalla - Hz ira Road, Choryasi, Surat 394510 Medicine/ Surgical products. Chennai Plot no.- 6/1A, 8/2, &13/3, Orakadd u Road, Sholavaram Sholavaram 600067 Medicine/ Surgical products. Bangaluru Plot no.- 162-163, KIADB Industrial Area,Hi Tech Defense Aerospace park, Devanahalli Bengaluru 562110 Medicine/ Surgical produc ts. Guwahati GARCHUK, HILL VIEW COMPLEX, GUWAHATI 781035 Medicine/ Surgical products. 2. Courier s ervices mean collection of packets/parcels containing/Injectable/Medicines from the following places on dai ly basis. 3. The delivery of packets/parcels collected from above places given location, which may in future can expand to other locations across the nation/ PAN India and bidder will be liable to provide services in a ll locations suggested by PMBI. 4. The courier agency shall arrange for their accredited representatives for collection and delivery of packets/parcels. The representative shall be provided with a suitable identity car d / uniform without which they shall not be allowed to collect or deliver the packets / parcels and the liabili ty for failure to provide service on the ground vests with courier agency. The representative shall acknowle dge receipt of the packets/ parcels delivered to Labs. 5. The courier agency shall ensure that the couriered packets / parcels are delivered at the proper place of addressee within 3 working days. consignee only aga inst full signatures, designations and stamp with telephone numbers of the authorized representative of th e addressee / consignee and obtain proof of delivery (POD) within specified time limit. 6. The courier agenc y shall arrange GPS system support for proper monitoring and real time update to see the except passion of live vehicle location. 7. It shall be the absolute responsibility of the courier agency to ensure that the pa ckets / parcels delivered to its authorized representative duly sealed, their packets / parcels or their conte nts are not tampered with / damaged in any manner whatsoever and the packets / parcels are not misplac ed, lost or stolen and be delivered in the same condition as were accepted from our offices/warehouses or any branch / office to the addressee branch at their door step / Inward counter. 8. Cold chain item packagi ng: Choose appropriate packaging based on the temperature requirements of the items being shipped. Pac kaging should be in gel packs and dry ice and maintain proper temperature till delivered. Keep the detail r ecords/data logger of temperature and send to with proof of delivery (POD). 9. The courier agency shall su bmit their bills, monthly, at PMBI head office, along with date wise collection and delivery details including proof of delivery (PODs) and charges thereof, which will be paid by PMBI head office within three working weeks from the date of receipt of bill subject to its scrutiny and found to be in order. 10. The Courier agenc y awarded with the contract shall have to maintain current account, while submitting the monthly bill and all the payments shall be credited in the said account only. The bill must be of Courier Agency to whom the Contract has been awarded. No third-party bill shall be entertained for payments. 11. The delay in delivery of packets / parcels beyond the stipulated time as per scope of work above except on account of circumst ances beyond the control of the agency such as law & order, natural calamity, Covid-19 pandemic, Acts of God etc. the PMBI may determine and impose penalty, if it is not satisfied with the explanation tendered by the courier agency. 12. In case PMBI is required to make alternate arrangements, due to failure of service by the courier agency on any occasion, the entire cost of such alternate arrangement made by PMBI shall be recovered from the courier agency. 13. The courier agency shall have an effective on-line tracking syst em and shall implement the same to know the status of each document and advising our concerned branc h /establishment in case of need regarding the status /location of the consignment sent. In case of need by written request of branch / office, they shall provide the details of delivery. 14. PMBI may add branches / of fices, from time to time, in the agreement under the same terms and conditions on one month’s notice. In case of addition, the courier agency shall make appropriate arrangement for providing services to such bra nches/offices without any extra charges to the Bank. 5. Buyer Added Bid Specific Scope Of Work(SOW) File Attachment Click here to view the file. 6. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 7. Service & Support",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10028618"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "AVAILABILITY OF OFFICE OF SERVICE PROVIDER: An office of the Service Provider must be located in the state of Consignee. DOCUMENTARY EVIDENCE TO BE SUBMITTED.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10028618"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 50000",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

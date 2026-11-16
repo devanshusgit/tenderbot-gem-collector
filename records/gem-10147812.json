@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8258321",
   "title": "10630244,10441654,10565167,10438285,10557374,10557346,10456135,10557295,10466557,10474468,10490338,",
   "description": "10474468,10474468,10474468,10474468,10474468,10490338,10490338,10490338,10490338,10490338,10490338,10490338,10490338,10490338,10490338,10490338,10490338,10490338,10490338,10490338,10490338,10490338,10490338,10490338,10490338,10490338,10490338,10474079,10474079,10474079,10474079,10474079,10474079,10474079,10474079,10474079,10474079,10474079,10474079,10474079,10474079,10474079,10474079,10474079,10474079,10474079,10474079,10474079,10474079,10465226,10465226,10465226,10465226,10465226,10465226,10465226,10465226,10465226,10465226,10465226,10465226,10465226,10465226,10465226,10465226,10465226,10465226,10465226,10465226,10465226,10465226,10557556,10557556,10557556,10557556,10557556,10557556,10557556,10557556,10557556,10557556,10557556,10557556,10557556,10557556,10557556,10557556,10557556,10557556,10557556,10557556,10557556,10557556,10444701,10444701,10444701,10444701,10444701,10444701,10444701,10444701,10444701,10444701,10444701,10444701,10444701,10444701,10444701,10444701,10444701,10444701,10444701,10444701,1044470",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Army",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "10630244,10441654,10565167,10438285,10557374,10557346,10456135,10557295,10466557,10474468,10490338,",
   "quantity": 4110,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 1,
   "published_at": "2026-11-14T11:52:29+05:30",
   "closing_at": "2026-11-24T12:00:00+05:30",
   "status": "active",
@@ -27,6 +27,31 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 8
+    },
+    {
+      "name": "View File",
+      "url": "https://mkp.gem.gov.in/uploaded_documents/51/16/877/OrderItem/BoqDocument/2026/11/10/tech_sepcification_2026-11-10-11-07-10_d3ca16aae61b9ba76e6ef18465f10307.pdf",
+      "page": 9
+    },
+    {
+      "name": "View File",
+      "url": "https://mkp.gem.gov.in/uploaded_documents/51/16/877/OrderItem/BoqLineItemsDocument/2026/11/10/boq_60_2026-11-10-11-07-10_3274894e46578af740940aaa5e5b1c51.csv",
+      "page": 9
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8258321/CLM0010/ATC_30051ab6-db76-41f6-8ad51794289836311_Dld.gem.proc.pdf",
+      "page": 22
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261114",
+      "page": 24
     }
   ],
   "tags": [
@@ -34,5 +59,778 @@
   ],
   "source_fetched_at": "2026-11-15T21:55:01.490Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-25T12:00:00+05:30",
+  "buyer_email": "lion-proc70@gov.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 31,
+  "oem_turnover_lakhs": 93,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 3,
+  "epbg_duration_months": 14,
+  "offer_validity": "90 (Days)",
+  "source_document_fetched_at": "2026-11-16T00:02:35.994869+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "844979b62ff7e18a6b29378f15965cd73d72d2e475bcc9e191e5f8f9f93173e5",
+  "document_pages": 24,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 31 Lakh (s) (GeM PDF, p. 4)",
+    "OEM average turnover (last 3 years): 93 Lakh (s) (GeM PDF, p. 4)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 4)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 4)",
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 4)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 4)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 4)",
+    "Past performance: 20 % (GeM PDF, p. 4)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 6)"
+  ],
+  "consignees": [
+    {
+      "page": 10,
+      "consignee": "***********",
+      "address": "***********NEW DELHI",
+      "quantity": 37,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 10,
+      "consignee": "***********",
+      "address": "***********NEW DELHI",
+      "quantity": 70,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 11,
+      "consignee": "***********",
+      "address": "***********NEW DELHI",
+      "quantity": 29,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 11,
+      "consignee": "***********",
+      "address": "***********NEW DELHI",
+      "quantity": 2,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 12,
+      "consignee": "***********",
+      "address": "***********NEW DELHI",
+      "quantity": 3,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 12,
+      "consignee": "***********",
+      "address": "***********NEW DELHI",
+      "quantity": 3,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 13,
+      "consignee": "***********",
+      "address": "***********NEW DELHI",
+      "quantity": 29,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 13,
+      "consignee": "***********",
+      "address": "***********NEW DELHI",
+      "quantity": 56,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 14,
+      "consignee": "***********",
+      "address": "***********NEW DELHI",
+      "quantity": 811,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 14,
+      "consignee": "***********",
+      "address": "***********NEW DELHI",
+      "quantity": 1197,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 15,
+      "consignee": "***********",
+      "address": "***********NEW DELHI",
+      "quantity": 724,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 15,
+      "consignee": "***********",
+      "address": "***********NEW DELHI",
+      "quantity": 32,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 16,
+      "consignee": "***********",
+      "address": "***********NEW DELHI",
+      "quantity": 42,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 16,
+      "consignee": "***********",
+      "address": "***********NEW DELHI",
+      "quantity": 55,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 17,
+      "consignee": "***********",
+      "address": "***********NEW DELHI",
+      "quantity": 237,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 17,
+      "consignee": "***********",
+      "address": "***********NEW DELHI",
+      "quantity": 7,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 18,
+      "consignee": "***********",
+      "address": "***********NEW DELHI",
+      "quantity": 16,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 18,
+      "consignee": "***********",
+      "address": "***********NEW DELHI",
+      "quantity": 83,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 19,
+      "consignee": "***********",
+      "address": "***********NEW DELHI",
+      "quantity": 362,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 19,
+      "consignee": "***********",
+      "address": "***********NEW DELHI",
+      "quantity": 192,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 20,
+      "consignee": "***********",
+      "address": "***********NEW DELHI",
+      "quantity": 122,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 20,
+      "consignee": "***********",
+      "address": "***********NEW DELHI",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    }
+  ],
+  "technical_specifications": [],
+  "buyer_added_terms": [
+    {
+      "page": 20,
+      "text": "1. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 2. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 3. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque."
+    },
+    {
+      "page": 21,
+      "text": "d. Copy of EFT Mandate duly certified by Bank. 4. Generic Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU for 3 years before the bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the primary product having highest value should meet this criterion. 5. Generic NON DISCLOSURE DECLARATION CERTIFICATE (On Bidder Letter Head) to be uploaded with bid: 1. I M/s. FIRM NAME- hereby declare that I shall not disclose the contract or any provision, specification, plan, design, pattern, sample or information thereof to any third party during and after expiry of Contract. 2. If defying the norms as per the Contract a legal action may be taken against me as per the existing Rules. 6. Generic Registration / Empanelment Requirement: Contract shall be awarded to only such sellers , who are registered / empanelled / approved / enlisted with OEM/OES/DGQA REGD FIRM, PAST SUPPLIER FOR THE TENDER ITEM OR SIMILAR ITEM WILL BE ALLOWED for the required goods / service category on the date of bid opening. Prospective bidders (if not already registered), are advised to get themselves registered with the said registration authority before bid opening date. (It is certified that the registration is granted by the registering agency as per Rule 150 of GFR following a fair, transparent and reasonable procedure.) 7. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 50 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 50% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 8. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 9. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 10. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any."
+    },
+    {
+      "page": 22,
+      "text": "11. Turnover Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. 12. Turnover OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of CATEGORY RELATED TO primary product having highest bid value should meet this criterion. 13. Warranty Warranty period of the supplied products shall be 1 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 14. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 15. Past Project Experience Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc.Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc. 16. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): - Post Receipt Inspection at consignee site before acceptance of stores: BOO"
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8258321",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 24-11-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 25-11-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Army",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :krishnanr.601w@gov.in Buyer Email id: lion-proc70@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 4110",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: 10630244 , 10441654 , 10565167 , 10438285 , 10557374 , 10557346 , 10456135 , 10557295 , 10466557 , 10474468 , 10490338 , 10474079 , 10465226 , 10557556 , 10444701 , 10442661 , 10464958 , 10446076 , 10451758 , 10463530 , 10460521 , 10447508",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 4,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 31 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 4,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 93 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "experience_years",
+      "page": 4,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "eligibility",
+      "page": 4,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 4,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 4,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "seller_documents",
+      "page": 4,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "eligibility",
+      "page": 4,
+      "quote": "Past Performance: 20 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "tender_type",
+      "page": 4,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_fee",
+      "page": 5,
+      "quote": "Schedule 1 /EMD Amount (In INR): 20964",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_required",
+      "page": 5,
+      "quote": "Schedule 1 /EMD Amount (In INR): 20964",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_fee",
+      "page": 5,
+      "quote": "Schedule 2 /EMD Amount (In INR): 16935",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_required",
+      "page": 5,
+      "quote": "Schedule 2 /EMD Amount (In INR): 16935",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_fee",
+      "page": 5,
+      "quote": "Schedule 3 /EMD Amount (In INR): 15195",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_required",
+      "page": 5,
+      "quote": "Schedule 3 /EMD Amount (In INR): 15195",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_fee",
+      "page": 5,
+      "quote": "Schedule 4 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_required",
+      "page": 5,
+      "quote": "Schedule 4 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_fee",
+      "page": 5,
+      "quote": "Schedule 5 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_required",
+      "page": 5,
+      "quote": "Schedule 5 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_fee",
+      "page": 5,
+      "quote": "Schedule 6 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_required",
+      "page": 5,
+      "quote": "Schedule 6 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_fee",
+      "page": 5,
+      "quote": "Schedule 7 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_required",
+      "page": 5,
+      "quote": "Schedule 7 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_fee",
+      "page": 5,
+      "quote": "Schedule 8 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_required",
+      "page": 5,
+      "quote": "Schedule 8 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_fee",
+      "page": 5,
+      "quote": "Schedule 9 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_required",
+      "page": 5,
+      "quote": "Schedule 9 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_fee",
+      "page": 5,
+      "quote": "Schedule 10 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_required",
+      "page": 5,
+      "quote": "Schedule 10 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_fee",
+      "page": 5,
+      "quote": "Schedule 11 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_required",
+      "page": 5,
+      "quote": "Schedule 11 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_fee",
+      "page": 5,
+      "quote": "Schedule 12 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_required",
+      "page": 5,
+      "quote": "Schedule 12 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_fee",
+      "page": 5,
+      "quote": "Schedule 13 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_required",
+      "page": 5,
+      "quote": "Schedule 13 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_fee",
+      "page": 5,
+      "quote": "Schedule 14 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_required",
+      "page": 5,
+      "quote": "Schedule 14 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_fee",
+      "page": 5,
+      "quote": "Schedule 15 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_required",
+      "page": 5,
+      "quote": "Schedule 15 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_fee",
+      "page": 5,
+      "quote": "Schedule 16 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_required",
+      "page": 5,
+      "quote": "Schedule 16 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_fee",
+      "page": 5,
+      "quote": "Schedule 17 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_required",
+      "page": 5,
+      "quote": "Schedule 17 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_fee",
+      "page": 5,
+      "quote": "Schedule 18 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_required",
+      "page": 5,
+      "quote": "Schedule 18 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_fee",
+      "page": 6,
+      "quote": "Schedule 19 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_required",
+      "page": 6,
+      "quote": "Schedule 19 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_fee",
+      "page": 6,
+      "quote": "Schedule 20 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_required",
+      "page": 6,
+      "quote": "Schedule 20 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_fee",
+      "page": 6,
+      "quote": "Schedule 21 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_required",
+      "page": 6,
+      "quote": "Schedule 21 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_fee",
+      "page": 6,
+      "quote": "Schedule 22 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_required",
+      "page": 6,
+      "quote": "Schedule 22 /EMD Amount (In INR): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 6,
+      "quote": "(%)/ePBG Percentage(%): 3.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 6,
+      "quote": "() /Duration of ePBG required (Months).: 14",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 6,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "consignees",
+      "page": 10,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********NEW DELHI | 37 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "consignees",
+      "page": 10,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********NEW DELHI | 70 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "consignees",
+      "page": 11,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********NEW DELHI | 29 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "consignees",
+      "page": 11,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********NEW DELHI | 2 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "consignees",
+      "page": 12,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********NEW DELHI | 3 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "consignees",
+      "page": 12,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********NEW DELHI | 3 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "consignees",
+      "page": 13,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********NEW DELHI | 29 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "consignees",
+      "page": 13,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********NEW DELHI | 56 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "consignees",
+      "page": 14,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********NEW DELHI | 811 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "consignees",
+      "page": 14,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********NEW DELHI | 1197 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "consignees",
+      "page": 15,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********NEW DELHI | 724 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "consignees",
+      "page": 15,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********NEW DELHI | 32 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "consignees",
+      "page": 16,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********NEW DELHI | 42 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "consignees",
+      "page": 16,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********NEW DELHI | 55 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "consignees",
+      "page": 17,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********NEW DELHI | 237 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "consignees",
+      "page": 17,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********NEW DELHI | 7 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "consignees",
+      "page": 18,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********NEW DELHI | 16 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "consignees",
+      "page": 18,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********NEW DELHI | 83 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "consignees",
+      "page": 19,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********NEW DELHI | 362 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "consignees",
+      "page": 19,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********NEW DELHI | 192 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "consignees",
+      "page": 20,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********NEW DELHI | 122 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "consignees",
+      "page": 20,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********NEW DELHI | 1 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 20,
+      "quote": "1. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 2. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 3. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 21,
+      "quote": "d. Copy of EFT Mandate duly certified by Bank. 4. Generic Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU for 3 years before the bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the primary product having highest value should meet this criterion. 5. Generic NON DISCLOSURE DECLARATION CERTIFICATE (On Bidder Letter Head) to be uploaded with bid: 1. I M/s. FIRM NAME- hereby declare that I shall not disclose the contract or any provision, specification, plan, design, pattern, sample or information thereof to any third party during and after expiry of Contract. 2. If defying the norms as per the Contract a legal action may be taken against me as per the existing Rules. 6. Generic Registration / Empanelment Requirement: Contract shall be awarded to only such sellers , who are registered / empanelled / approved / enlisted with OEM/OES/DGQA REGD FIRM, PAST SUPPLIER FOR THE TENDER ITEM OR SIMILAR ITEM WILL BE ALLOWED for the required goods / service category on the date of bid opening. Prospective bidders (if not already registered), are advised to get themselves registered with the said registration authority before bid opening date. (It is certified that the registration is granted by the registering agency as per Rule 150 of GFR following a fair, transparent and reasonable procedure.) 7. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 50 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 50% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 8. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 9. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 10. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 22,
+      "quote": "11. Turnover Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. 12. Turnover OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of CATEGORY RELATED TO primary product having highest bid value should meet this criterion. 13. Warranty Warranty period of the supplied products shall be 1 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 14. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 15. Past Project Experience Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc.Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc. 16. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): - Post Receipt Inspection at consignee site before acceptance of stores: BOO",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10147812"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

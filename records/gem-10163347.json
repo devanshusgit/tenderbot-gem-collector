@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8271931",
   "title": "Leasing Service of DG-Set",
   "description": "Leasing Service of DG-Set",
-  "organisation": "Department of Revenue",
-  "ministry": "Ministry of Finance",
-  "department": "Department of Revenue",
+  "organisation": "Cbic Central Board Of Indirect Taxes & Customs",
+  "ministry": "Ministry Of Finance",
+  "department": "Department Of Revenue",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Leasing Service of DG-Set",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-13T13:54:11+05:30",
   "closing_at": "2026-11-19T11:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10163347"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261113",
+      "page": 5
+    },
+    {
+      "name": "Service Level Agreement",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/bidsla/103293622242409",
+      "page": 5
     }
   ],
   "tags": [
@@ -34,5 +49,251 @@
   ],
   "source_fetched_at": "2026-11-15T22:00:16.698Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-20T11:00:00+05:30",
+  "office": "Kolkata",
+  "buyer_email": "akhileshsy.d080501@gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "90 (Days)",
+  "contract_period": "1 Year(s)",
+  "source_document_fetched_at": "2026-11-16T00:21:42.614229+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "27f36df8e10681970808e00675adcd455bc8cb23bba56929760d75aa683b3cfd",
+  "document_pages": 5,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Akhilesh Singh Yadav",
+      "address": "732101,Malda Custom Division,Mahesmati,Malda- 732101",
+      "quantity": 1,
+      "quantity_label": "Number of DG SET",
+      "delivery_days": null,
+      "additional_requirements": "N/A"
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Type of Lease",
+          "value": "Dry Lease (Without Fuel)"
+        },
+        {
+          "group": "Core",
+          "parameter": "Lease Period (in months)",
+          "value": "12"
+        },
+        {
+          "group": "Core",
+          "parameter": "Condition of the DG Set",
+          "value": "New"
+        },
+        {
+          "group": "Core",
+          "parameter": "Age of the DG Set since Procurement",
+          "value": "3"
+        },
+        {
+          "group": "Core",
+          "parameter": "Age of the DG Set in running hours",
+          "value": "Upto 500 Hours"
+        },
+        {
+          "group": "Core",
+          "parameter": "Types of Packages",
+          "value": "Package 3 (90 Running Hour Per Month)"
+        },
+        {
+          "group": "Core",
+          "parameter": "Floor / Basement Number",
+          "value": "Ground floor 0"
+        },
+        {
+          "group": "Core",
+          "parameter": "DG Set Rating",
+          "value": "10 KVA"
+        },
+        {
+          "group": "Core",
+          "parameter": "Voltage Rating",
+          "value": "230 Volt + 10%"
+        },
+        {
+          "group": "Core",
+          "parameter": "Output Voltage",
+          "value": "Single Phase 230 VAC, 50Hz"
+        },
+        {
+          "group": "Core",
+          "parameter": "Voltage Regulation Class",
+          "value": "VG1"
+        },
+        {
+          "group": "Core",
+          "parameter": "Specific Fuel Consumption (gm/kWh)",
+          "value": "265 gm/kwh(Maximum)"
+        },
+        {
+          "group": "Core",
+          "parameter": "Duty hours for technical manpower/operator",
+          "value": "12 hrs/day"
+        },
+        {
+          "group": "Core",
+          "parameter": "Working Days in a Week",
+          "value": "6 Days"
+        },
+        {
+          "group": "Core",
+          "parameter": "Time Period required for Installation(Days)",
+          "value": "10"
+        },
+        {
+          "group": "Core",
+          "parameter": "Length of inter-connecting of the exahust pipe/stack and Dg-set exhaust/silencer covered under the scope of service",
+          "value": "Upto 10 Meter"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE 50% : The buyer can increase or decrease the contract quantity or contract duration up to 50 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 50 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 50 percent with the consent of the service provider"
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8271931",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163347"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 19-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163347"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 20-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163347"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163347"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Finance",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163347"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Revenue",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163347"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Cbic Central Board Of Indirect Taxes & Customs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163347"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Kolkata",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163347"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :shilpi.srivastava@gov.in Buyer Email id: akhileshsy.d080501@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163347"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Leasing Service of DG-Set",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163347"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 1 Year(s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163347"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163347"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163347"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163347"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163347"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163347"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Type of Lease: Dry Lease (Without Fuel) | Lease Period (in months): 12 | Condition of the DG Set: New | Age of the DG Set since Procurement: 3 | Age of the DG Set in running hours: Upto 500 Hours | Types of Packages: Package 3 (90 Running Hour Per Month) | Floor / Basement Number: Ground floor 0 | DG Set Rating: 10 KVA | Voltage Rating: 230 Volt + 10% | Output Voltage: Single Phase 230 VAC, 50Hz | Voltage Regulation Class: VG1 | Specific Fuel Consumption (gm/kWh): 265 gm/kwh(Maximum) | Duty hours for technical manpower/operator: 12 hrs/day | Working Days in a Week: 6 Days | Time Period required for Installation(Days): 10 | Length of inter-connecting of the exahust pipe/stack and Dg-set exhaust/silencer covered under the scope of service: Upto 10 Meter",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163347"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Number of DG SET | Additional Requirement: 1 | Akhilesh Singh Yadav | 732101,Malda Custom Division,Mahesmati,Malda- 732101 | 1 | N/A",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163347"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE 50% : The buyer can increase or decrease the contract quantity or contract duration up to 50 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 50 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 50 percent with the consent of the service provider",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163347"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

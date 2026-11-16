@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8174885",
   "title": "High End Desktop Computer",
   "description": "High End Desktop Computer",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Army",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "High End Desktop Computer",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-10-28T18:25:10+05:30",
   "closing_at": "2026-11-19T09:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10051057"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/ixYREZXntsC-4_cuHV8QdzYUJ74pTJJyL8Vur068SJQ",
+      "page": 5
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8174885/CLM0010/ATC_6400f3f9-7c84-4d3b-b28a1793191508060_qm@311fh.pdf",
+      "page": 9
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261028",
+      "page": 11
     }
   ],
   "tags": [
@@ -34,5 +54,344 @@
   ],
   "source_fetched_at": "2026-11-15T21:59:18.488Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "buyer_email": "lion.implant@nic.in",
+  "emd_required": false,
+  "bidder_turnover_lakhs": 0.5,
+  "oem_turnover_lakhs": 1,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-16T00:24:51.243741+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "8582190e493b6c918a6c6dc340d6cf327d2f7bc82c7b76f99d9d6ed6f9376c0c",
+  "document_pages": 11,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 0.5 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 1 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 50 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "***********",
+      "address": "***********Ahmedabad",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "PROCESSOR",
+          "parameter": "Description of Stores",
+          "value": "Desktop Computer with Table Mount Monitor System with Compatible Chipset as per Processor make with Minimum 6 USB Port"
+        },
+        {
+          "group": "PROCESSOR",
+          "parameter": "Base Processor Number",
+          "value": "NA for Higher Processor Or higher"
+        },
+        {
+          "group": "PROCESSOR",
+          "parameter": "Higher Processor Number",
+          "value": "Intel Core i7- 14700, Intel Core i7- 14700K, Intel Core i9- 12900, Intel Core i9- 12900K, Intel Core i9- 13900, Intel Core i9- 13900K, Intel Core i9- 14900, Intel Core i9- 14900K, Intel Core Ultra 5- 235T, Intel Core Ultra 5- 225T, Intel Core Ultra 5- 225, Intel Core Ultra 5- 245T, Intel Core Ultra 5- 235, Intel Core Ultra 5- 245, Intel Core Ultra 7- 265T, Intel Core Ultra 7- 265, Intel Core Ultra 9- 285 Or higher"
+        },
+        {
+          "group": "MOTHERBOARD",
+          "parameter": "Trusted Platform Module",
+          "value": "Discrete TPM 2.0"
+        },
+        {
+          "group": "GRAPHICS",
+          "parameter": "Graphics Type",
+          "value": "Integrated"
+        },
+        {
+          "group": "OPERATING SYSTEM",
+          "parameter": "Factory Pre-loaded Operating System",
+          "value": "Window 11 Professional"
+        },
+        {
+          "group": "MEMORY (RAM)",
+          "parameter": "Type of RAM",
+          "value": "DDR4, DDR5 Or higher"
+        },
+        {
+          "group": "MEMORY (RAM)",
+          "parameter": "RAM Size (Memory Card/Module) (in GB) (Capacity to be Installed in the System)",
+          "value": "16, 32, 64 Or higher"
+        },
+        {
+          "group": "STORAGE",
+          "parameter": "Primary Storage Capacity (in GB)",
+          "value": "1024, 2048 Or higher"
+        },
+        {
+          "group": "STORAGE",
+          "parameter": "Availability of Secondary Storage",
+          "value": "HDD@5400RPM, HDD@7200RPM, NVME - SSD Or higher"
+        },
+        {
+          "group": "STORAGE",
+          "parameter": "Secondary Storage Capacity (in GB)",
+          "value": "512.0 Or higher"
+        },
+        {
+          "group": "CABINET",
+          "parameter": "Cabinet Form Factor",
+          "value": "Tower (More than 13 to 26 Liters)"
+        },
+        {
+          "group": "PORTS",
+          "parameter": "Number of VGA Ports",
+          "value": "1, 2 Or higher"
+        },
+        {
+          "group": "PORTS",
+          "parameter": "Number of HDMI Ports",
+          "value": "1, 2 Or higher"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Availibility of Monitor",
+          "value": "Yes as per IS 13252 (Part 1)"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Panel Type",
+          "value": "In Plane Switching (IPS)"
+        },
+        {
+          "group": null,
+          "parameter": "Screen Size (in CMs)",
+          "value": "53.1 - 58 (20.91\" - 22.83\")"
+        },
+        {
+          "group": null,
+          "parameter": "Maximum Resolution (Pixels)",
+          "value": "1920 x 1080 (Full HD)"
+        },
+        {
+          "group": null,
+          "parameter": "Monitor Port",
+          "value": "HDMI, Display Port"
+        },
+        {
+          "group": "INPUT DEVICES",
+          "parameter": "Mouse Connectivity",
+          "value": "USB Wired, Wireless Or higher"
+        },
+        {
+          "group": "INPUT DEVICES",
+          "parameter": "Keyboard Connectivity",
+          "value": "USB Wired, Wireless Or higher"
+        },
+        {
+          "group": "INPUT DEVICES",
+          "parameter": "Type of Keyboard",
+          "value": "Standard"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "On Site OEM Warranty (In year)",
+          "value": "3, 4, 5 Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 8,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address 311 Fd Hosp Near Airport Circle Sardar Nagar Ahmedabad PIN-380004 . 3. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 4. Generic"
+    },
+    {
+      "page": 9,
+      "text": "Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 5. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 6. Generic End User Certificate: Wherever Bidders are insisting for End User Certificate from the Buyer, same shall be provided in Buyer’s standard format only. 7. Generic Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller. 8. Generic IT equipment shall be IPv6 ready from day one. 9. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 10. Generic Non return of Hard Disk: As per Buyer organization’s Security Policy,Faulty Hard Disk of Servers/Desktop Computers/ Laptops etc. will not be returned back to the OEM/supplier against warranty replacement. 11. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8174885",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10051057"
+    },
+    {
+      "field": "document_closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 07-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10051057"
+    },
+    {
+      "field": "document_opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 08-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10051057"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10051057"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10051057"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10051057"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Army",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10051057"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :swatibajaj.185m@nic.in Buyer Email id: lion.implant@nic.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10051057"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10051057"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: High End Desktop Computer (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10051057"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 0.5 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10051057"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 1 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10051057"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10051057"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10051057"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10051057"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10051057"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10051057"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 50 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10051057"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10051057"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10051057"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10051057"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Description of Stores: Desktop Computer with Table Mount Monitor System with Compatible Chipset as per Processor make with Minimum 6 USB Port | Base Processor Number: NA for Higher Processor Or higher | Higher Processor Number: Intel Core i7- 14700, Intel Core i7- 14700K, Intel Core i9- 12900, Intel Core i9- 12900K, Intel Core i9- 13900, Intel Core i9- 13900K, Intel Core i9- 14900, Intel Core i9- 14900K, Intel Core Ultra 5- 235T, Intel Core Ultra 5- 225T, Intel Core Ultra 5- 225, Intel Core Ultra 5- 245T, Intel Core Ultra 5- 235, Intel Core Ultra 5- 245, Intel Core Ultra 7- 265T, Intel Core Ultra 7- 265, Intel Core Ultra 9- 285 Or higher | Trusted Platform Module: Discrete TPM 2.0 | Graphics Type: Integrated | Factory Pre-loaded Operating System: Window 11 Professional | Type of RAM: DDR4, DDR5 Or higher | RAM Size (Memory Card/Module) (in GB) (Capacity to be Installed in the System): 16, 32, 64 Or higher | Primary Storage Capacity (in GB): 1024, 2048 Or higher | Availability of Secondary Storage: HDD@5400RPM, HDD@7200RPM, NVME - SSD Or higher | Secondary Storage Capacity (in GB): 512.0 Or higher | Cabinet Form Factor: Tower (More than 13 to 26 Liters) | Number of VGA Ports: 1, 2 Or higher | Number of HDMI Ports: 1, 2 Or higher | Availibility of Monitor: Yes as per IS 13252 (Part 1)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10051057"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Panel Type: In Plane Switching (IPS) | Screen Size (in CMs): 53.1 - 58 (20.91\" - 22.83\") | Maximum Resolution (Pixels): 1920 x 1080 (Full HD) | Monitor Port: HDMI, Display Port | Mouse Connectivity: USB Wired, Wireless Or higher | Keyboard Connectivity: USB Wired, Wireless Or higher | Type of Keyboard: Standard | On Site OEM Warranty (In year): 3, 4, 5 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10051057"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********Ahmedabad | 1 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10051057"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address 311 Fd Hosp Near Airport Circle Sardar Nagar Ahmedabad PIN-380004 . 3. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 4. Generic",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10051057"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 5. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 6. Generic End User Certificate: Wherever Bidders are insisting for End User Certificate from the Buyer, same shall be provided in Buyer’s standard format only. 7. Generic Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller. 8. Generic IT equipment shall be IPv6 ready from day one. 9. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 10. Generic Non return of Hard Disk: As per Buyer organization’s Security Policy,Faulty Hard Disk of Servers/Desktop Computers/ Laptops etc. will not be returned back to the OEM/supplier against warranty replacement. 11. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10051057"
+    }
+  ],
+  "detail_warning": "The original PDF dates differ from the current public GeM listing. The listing closing date is retained. Confirm the latest opening date and any corrigenda on GeM; the original PDF opening date is not presented as current.",
+  "document_closing_at": "2026-11-07T18:00:00+05:30",
+  "document_opening_at": "2026-11-08T18:00:00+05:30",
+  "date_discrepancy": {
+    "listing_closing_at": "2026-11-19T09:00:00+05:30",
+    "document_closing_at": "2026-11-07T18:00:00+05:30",
+    "document_opening_at": "2026-11-08T18:00:00+05:30"
+  }
 }

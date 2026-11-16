@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8141279",
   "title": "XLPE Cable for Working Voltage up to and Including 1.1 KV Marked To IS 7098 (Part 1)",
   "description": "XLPE Cable for Working Voltage up to and Including 1.1 KV Marked To IS 7098 (Part 1)",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "Modern Coach Factory Raebareli",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "XLPE Cable for Working Voltage up to and Including 1.1 KV Marked To IS 7098 (Part 1)",
   "quantity": 1000,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-10-30T17:29:47+05:30",
   "closing_at": "2026-11-09T18:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10012630"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/wUUhbuAPmYCbYjhxzR-J1PFFIMK9CIbB5Zdkwm1jlXk",
+      "page": 5
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261030",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +49,286 @@
   ],
   "source_fetched_at": "2026-11-08T12:57:55.369Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-10T18:00:00+05:30",
+  "office": "Modern Coach Factory Raebareli",
+  "buyer_email": "rkm.irss@gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "90 (Days)",
+  "source_document_fetched_at": "2026-11-16T16:56:41.966554+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "82ac72f66a04eaf31ebe575fc760f2372cadc7a25ea319a5875f5d551da01e7e",
+  "document_pages": 8,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Brajesh Kumar Srivastava",
+      "address": "229120,Modern Coach Factory (MCF), Lalganj, Raebareli",
+      "quantity": 1000,
+      "quantity_label": "Quantity",
+      "delivery_days": 60
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "STANDARD",
+          "parameter": "Cables suitable for use in mines",
+          "value": "No"
+        },
+        {
+          "group": "STANDARD",
+          "parameter": "Cables suitable for use in low temperature applications",
+          "value": "Yes, No"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Classification of cables for improved fire performace category",
+          "value": "01"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Nominal Area of Conductor (in Sq mm)",
+          "value": "400"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Number of Cores",
+          "value": "4"
+        },
+        {
+          "group": "CONSTRUCTION",
+          "parameter": "Material of Conductor",
+          "value": "Aluminium"
+        },
+        {
+          "group": "CONSTRUCTION",
+          "parameter": "Construction of the conductor",
+          "value": "Stranded and shaped"
+        },
+        {
+          "group": "CONSTRUCTION",
+          "parameter": "Colour of XLPE Insulation",
+          "value": "Red, Yellow, Blue, Black, Grey, Natural, for 6 Core and above as per Cl.10.1 of IS:7098"
+        },
+        {
+          "group": "CONSTRUCTION",
+          "parameter": "Type of Inner Sheath",
+          "value": "Thermoplastic"
+        },
+        {
+          "group": "ARMOURING",
+          "parameter": "Type of Cable",
+          "value": "Armoured cable"
+        },
+        {
+          "group": "ARMOURING",
+          "parameter": "Material of Armouring",
+          "value": "Galvanized steel formed wire"
+        },
+        {
+          "group": "ARMOURING",
+          "parameter": "Type of Armouring",
+          "value": "Single strip"
+        },
+        {
+          "group": "OUTER SHEATH",
+          "parameter": "Outer Sheath Standard",
+          "value": "Conforming to IS:5831:1984 latest"
+        },
+        {
+          "group": "OUTER SHEATH",
+          "parameter": "Type of Outer Sheath",
+          "value": "PVC-ST2"
+        },
+        {
+          "group": "OUTER SHEATH",
+          "parameter": "Colour of Outer Sheath",
+          "value": "Black"
+        },
+        {
+          "group": "IDENTIFICATION ON CABLE",
+          "parameter": "Manufacturer's Identification on Cable",
+          "value": "as per Cl.17.1 of IS:7098 Part 1: latest"
+        },
+        {
+          "group": "IDENTIFICATION ON CABLE",
+          "parameter": "Cable Identification",
+          "value": "as per Cl.17.2 of IS:7098 Part 1: latest"
+        },
+        {
+          "group": "IDENTIFICATION ON CABLE",
+          "parameter": "Type of Sequential Marking on Cable",
+          "value": "Screen printing on cable"
+        },
+        {
+          "group": "PACKING AND MARKING",
+          "parameter": "Packing and Marking",
+          "value": "as per Cl.18.1 and 18.2 of IS:7098 Part 1: latest"
+        },
+        {
+          "group": "PACKING AND MARKING",
+          "parameter": "Cable Wound on",
+          "value": "ISI Marked Wooden drum"
+        },
+        {
+          "group": "PACKING AND MARKING",
+          "parameter": "Drum Standard",
+          "value": "as per IS:10418 latest"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 2. Purchase Preference (Centre) Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to avail the Purchase preference, the bidder must be the manufacturer of the offered product in case of bid for supply of goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of 25% of total value. 3. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 4. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): RITES"
+    },
+    {
+      "page": 7,
+      "text": "Post Receipt Inspection at consignee site before acceptance of stores: RITES INSPECTION CERTIFICATE 5. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses (A) Firm should enclose valid BIS license for tendered item failing which offer is liable to be ignored. In the absence of the BIS license, offer will be adjudged based on the information available on BIS official website ( www.manakonline.in) and decision to this effect will be final and binding on bidders. (B) Note: Agent quoted behalf of OEM should submit bid specific authorization failing which offer will be rej ect ed summarily. (C) Note: Firm to comply all specification along with additional specification and firm should submit confirm ation to this effect that they will supply material as per the specification failing which offer is liable to be ig nored. FIRM SHOULD MENTION THEIR PLACE OF INSPECTION & SUBMIT DOCUMENTARY EVIDENCE FOR THE SAME ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8141279",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012630"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 09-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012630"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 10-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012630"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012630"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012630"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012630"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Modern Coach Factory Raebareli",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012630"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Modern Coach Factory Raebareli",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012630"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :sanjay.kumar2005@gov.in Buyer Email id: rkm.irss@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012630"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012630"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: XLPE Cable for Working Voltage up to and Including 1.1 KV Marked To IS 7098 (Part 1) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012630"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012630"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012630"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012630"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012630"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012630"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012630"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Cables suitable for use in mines: No | Cables suitable for use in low temperature applications: Yes, No | Classification of cables for improved fire performace category: 01 | Nominal Area of Conductor (in Sq mm): 400 | Number of Cores: 4 | Material of Conductor: Aluminium | Construction of the conductor: Stranded and shaped | Colour of XLPE Insulation: Red, Yellow, Blue, Black, Grey, Natural, for 6 Core and above as per Cl.10.1 of IS:7098 | Type of Inner Sheath: Thermoplastic | Type of Cable: Armoured cable | Material of Armouring: Galvanized steel formed wire | Type of Armouring: Single strip | Outer Sheath Standard: Conforming to IS:5831:1984 latest | Type of Outer Sheath: PVC-ST2 | Colour of Outer Sheath: Black | Manufacturer's Identification on Cable: as per Cl.17.1 of IS:7098 Part 1: latest | Cable Identification: as per Cl.17.2 of IS:7098 Part 1: latest | Type of Sequential Marking on Cable: Screen printing on cable | Packing and Marking: as per Cl.18.1 and 18.2 of IS:7098 Part 1: latest | Cable Wound on: ISI Marked Wooden drum | Drum Standard: as per IS:10418 latest",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012630"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Brajesh Kumar Srivastava | 229120,Modern Coach Factory (MCF), Lalganj, Raebareli | 1000 | 60",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012630"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 2. Purchase Preference (Centre) Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to avail the Purchase preference, the bidder must be the manufacturer of the offered product in case of bid for supply of goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of 25% of total value. 3. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 4. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): RITES",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012630"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "Post Receipt Inspection at consignee site before acceptance of stores: RITES INSPECTION CERTIFICATE 5. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses (A) Firm should enclose valid BIS license for tendered item failing which offer is liable to be ignored. In the absence of the BIS license, offer will be adjudged based on the information available on BIS official website ( www.manakonline.in) and decision to this effect will be final and binding on bidders. (B) Note: Agent quoted behalf of OEM should submit bid specific authorization failing which offer will be rej ect ed summarily. (C) Note: Firm to comply all specification along with additional specification and firm should submit confirm ation to this effect that they will supply material as per the specification failing which offer is liable to be ig nored. FIRM SHOULD MENTION THEIR PLACE OF INSPECTION & SUBMIT DOCUMENTARY EVIDENCE FOR THE SAME .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10012630"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

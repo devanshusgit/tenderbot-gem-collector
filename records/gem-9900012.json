@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8042603",
   "title": "Diopter Test Station",
   "description": "Diopter Test Station",
-  "organisation": "Central Armed Police Forces",
-  "ministry": "Ministry of Home Affairs",
+  "organisation": "Border Security Force (bsf)",
+  "ministry": "Ministry Of Home Affairs",
   "department": "Central Armed Police Forces",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Diopter Test Station",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 20975,
   "published_at": "2026-10-13T16:21:50+05:30",
   "closing_at": "2026-11-19T17:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 5
+    },
+    {
+      "name": "Buyer technical specification",
+      "url": "https://mkp.gem.gov.in/catalog_data/catalog_support_document/buyer_documents/3261795/54/78/703/CatalogAttrs/SpecificationDocument/2026/9/16/qr_of_diopter_test_station_0001_2026-09-16-12-12-27_ce522af7407bcd3a5d164d5fefc72f40.pdf",
+      "page": 6
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261013",
+      "page": 18
     }
   ],
   "tags": [
@@ -34,5 +49,349 @@
   ],
   "source_fetched_at": "2026-11-16T02:17:23.449Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "office": "Delhi",
+  "buyer_email": "kk2050sr@bsf.nic.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 3.4,
+  "oem_turnover_lakhs": 28,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 3,
+  "epbg_duration_months": 14,
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-16T06:40:21.785876+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "4587ec44fd682641158f7945f7f819a9efe8cf8d2395e4fed0ae28880361a02b",
+  "document_pages": 18,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 3.4 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 28 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 2)",
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 2)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 2)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 20 % (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Phurailatpam Krishnakumar Sharma",
+      "address": "110080,SPECIAL INSTRUMENTS WORKSHOP TIGRI CAMP BSF, M B ROAD OPPOSITE TO BATRA HOSPITAL NEW DELHI-80",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 90
+    },
+    {
+      "page": 14,
+      "consignee": "(1)",
+      "address": "(2)",
+      "quantity": null,
+      "quantity_label": "DIN",
+      "delivery_days": null
+    }
+  ],
+  "technical_specifications": [],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses ADDITIONAL TERMS & CONDITIONS FOR PROCUREMENT OF DIOPTER TEST STATION i) Firm will give an undertaking that, the spares of said stores will be provided for another 5 years as and when required by the user after Guarantee/ Warranty period i.e. 01 year. ii) Training, Installation, Commissioning & Testing should be provided at consignee location. iii) Warranty/Guarantee should be 01 year after installation & commissioning of all items. iv) This bid is also governed by Central Vigilance Commission guidelines as per circular No. 03/01/12 d ated 13 Jan 2012 which mentions that: - a) In a tender, either the Indian agent on behalf of the Principal/OEM or Principal/OEM itself can bid"
+    },
+    {
+      "page": 7,
+      "text": "but both cannot bid simultaneously for the same item/product and b) If an agent submits bid on behalf of Principal/OEM, the same agent shall not submit a bid on beh alf of another Principal/OEM in the same tender for the same item/product. c) Further, as per chapter-5 of Manual for Procurement of Goods 2017 issued by MoF, DoE that \"in cases where the manufacturer has submitted the bid, the bids of its authorized dealer will not b e considered and EMD will be returned\". v) Public Procurement Order (Preference to Make in India 2017) issued by Department of Industrial Policy and Promotion, Ministry of Commerce and Industry, Govt. of India, vide their letter dated 15- 06-2017, Ministry of Commerce and Industry Department for Promotion of Industry and Internal Tra de (Public Procurement Section) Order dated 04/06/2020 and 16 Sept 2020, Ministry of Finance, De partment of Expenditure, Public Procurement Division O/No. F. No. 6/18/2019-PPD dated 23-07-202 0 and notification issued by Ministry of MSME under section -11 of Micro Small and Medium Enterpr ises Development at 2006 shall also be taken into consideration in procurement of Goods and Ser vices. vi) Bidder annual turnover, experience/past performance: Micro & Small Enterprises who are m anufacturers of the primary product category or service provider of the primary service category a nd Startups are exempted for Turnover, Experience & Past Performance. *** The re-seller/authorized dealers/traders are not exempted for Turn Over and Experi ence/Past Performance even if they are holding Udyam Registration Certificate. (1) EMD a) As per General Term and conditions, EMD is required to be submitted by the firm. However, in t he case firm is MSE/Startup (Manufacturer of tender items) or any exempted entity, they will submit Bid Se curity Declaration on company/firm letter head along with technical Bid in the proforma as per Appendix – ‘A’ b) Traders/Authorized dealers/Re-sellers are not exempted from EMD. c) In Case Bid Security Declaration/Scanned copy of EMD is not submitted with the technical Bid, t he firm is liable to be rejected/disqualified during initial scrutiny. (2) Arbitration as per GeM Terms & Conditions.​ (3) Liquidated Damages :- If the Seller/Service Provider fails to deliver any or all of the Goods/Services w ithin the original/re-fixed delivery period(s) specified in the contract, the Buyer will be entitled to deduct/re cover the Liquidated Damages for the delay, unless covered under Force Majeure conditions aforesaid, @ 0 .5% of the contract value of delayed quantity per week or part of the week of delayed period, until actual d elivery or performance, as pre-estimated damages not exceeding 5% of the total contract value without a ny controversy/dispute of any sort whatsoever. However, in case of inordinate delay maximum deduction shall be 10% of the total contract value."
+    },
+    {
+      "page": 8,
+      "text": "(4) Force Majeure Clauses (FMC) : If at any time during the continuance of the Contract, the performan ce in whole or in part by either party of any obligation under this Contract shall be prevented or delayed b y the reasons of any war, hostility, acts of the public enemy, epidemics, civil commotion, sabotage, fires, fl oods, explosion, quarantine restrictions, strikes, lockouts or act of God (but not including negligence or wro ngdoing, predictable/seasonal rain) provided notice of happening of such event duly evidenced with docu ments is given by one party to the other within10 days from the date of occurrence thereof, neither party s hall be by reasons of such event, be entitled to terminate the Contract nor shall either party have any clai m for damages against the other in respect of such non-performance or the delay in performance, and deli veries under the contract shall be resumed as soon as practicable after such event has come to an end or ceased to exist, and the decision of the Buyer as to whether the deliveries have been so resumed or not, s hall be final and conclusive, Provided further that if the performance in whole or part of any obligation und er this contract is prevented or delayed by reason of any such event for a period exceeding 90 days, eithe r party may at its option terminate the contract provided also that the Buyer shall be at liberty to take ove r from the Seller at a price to be fixed by Buyer, which shall be final, all unused, undamaged and accepted material, bought out components and Goods in course of manufacture in the possession of the Seller at th e time of such termination or such portion thereof as the Buyer may deem fit excepting such materials, bo ught out components and Goods as the Seller may with the concurrence of the Buyer elect to retain. (5) Risk Purchase Clause:- In the event of failure of supplier to deliver or dispatch the stores within the s tipulated dates/period of the supply order/AT, or the event of breach of any of the terms and conditions of t he AT, the buyer will have the right to purchase the subject store elsewhere at the risk and cost of defaulti ng seller after giving a notice. The cost as per Risk purchase exercise may be recovered from the bills pen ding with the buyer even against any other supplies outside this contract or even from the pending bills wi th any other Govt. Department/Ministry. In the event of contract being cancelled for any breach committed and the purchase effecting repurchase is not bound to accept the lower offer of Benami or allied sister con cern of the seller. (6) Right to Rejection: Store will be accepted after inspection and only if they are found up to the standa rd specification. The decision of the BSF shall be final as to the quality of the stores and shall be binding up on the seller and in case of any of the stores supplied not being found as per specification shall be liable to be rejected or replaced and any expenses or losses caused to the seller should be borne by the seller and ensured by the seller that stores supplied should be best in quality and free from all defects. The rejected stores must be removed by the sellers from the consignee’s premises within 15 days from the date of the i ntimation about rejection at the risk and cost of the seller. The in-charge stores concerned will take reason able view of such materials but in no case shall be responsible for any loss, shortage, damage that may oc cur to it while it is in the premises of the consignee. (7) Bidder Turn Over Criteria : The minimum average annual financial turnover of the bidder during the l st ast three years, ending on 31 March of the previous financial year, should be an indicated in the bid docu ments. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certi ficate from the Chartered Accountant/Cost Accountant indicating the turnover details for the relevant perio d shall be uploaded with the bid. In case the date of constitution/incorporation of the bidder is less than 3 y ear old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. (8) Bidder participating as authorized dealer will not be given exemption in annual turnover & experience"
+    },
+    {
+      "page": 9,
+      "text": "criteria. Bidders participating as authorized dealer will upload authorization letter/certificate issued by OE M in favour of them. (9) The bidder must upload a certificate from the OEM regarding the percentage of the Local Content and t he details of locations at which the local value addition is made along with their bid as per Appendix “B” . (10) Bidder will upload a self certificate stating that, his firm has not been blacklisted by any Govt./PU C Agencies in recent past and also not under liquidation/court receivership/similar proceeding. rd (11) Land Border :- As per Public Procurement OM No. 6/18/2019-PPD dated 23 July 2020, any bidder fr om a country which shares a land border with India will be eligible to bid any procurement whether of goo ds, service (including consultancy services and non-consultancy service) or works (including turnkey proje cts) only if the bidder is registered with the Competent Authority specified in Annex-I. Firm to submit decla ration/Certificate as per Appendix “C”. (12) Consignee Location should be read as The DIG (SIW) BSF, Tigri Camp, M B Road, New Delhi 80 (13) Onsite Guarantee/Warranty should be 01 years and performance Guarantee, as applicable. The Firm will collect the equipment from consignee location after intimation of any defect and will resolve the defect within the prescribed time limit under Guarantee/Warranty terms and condition of the bid. The firm will kee p a stock of the running spares in order to avoid any unnecessary delay in the repair and maintenance of t he equipment. Penalty of delay in repair/rejection of defect will be applicable as per para-14 at page No. 0 6 of buyer added Bid Specific Term and conditions. (14) The bidder (in case of Re-seller/authorized dealers) is also required to attach, in it’s quotation, the ma nufacturer’s authorization certificate and also manufacturer’s confirmation of extending the required warra nty for that product. This is necessary to ensure quotation from a responsible party offering genuine produ ct, also backed by a warranty obligation from the concerned manufacturer. (15) In a tender, either the Principal/OEM or its authorized dealer/Agents on behalf of the Principal/OEM will participate. Both cannot bid simultaneously for the same item/product in the same tender. (CVC Circular N o. 03/01/12 dated 13.01.2012 refers) (16) All Queries related to the Tender will be submitted on GeM portal only."
+    },
+    {
+      "page": 10,
+      "text": "(17) The Store will be supplied by the seller to consignee location on free of cost duly ensured for the tran sit. (18) Payment :- 100 % payment will be made after receipt of the stores in satisfactorily condition at cons ignee location after completion of successful JRI/Survey of the Stores. (18) Undertaking on Delivery period : 90 days after issue of AT. (20) Description/List of Stores. S/NO. NOMENCLATURE QTY REQD 1 DIOPTER TEST STATION 01 (20) JRI( Joint Receipt Inspection): JRI will be carried out at the place of consignee location before fin al acceptance by the Rep of BSF and the seller. If any store is rejected in final inspection as not confirming to tender specification, the same must be replaced within scheduled delivery period before final acceptanc e. The consignees right to rejection in this regard will be final and absolute. (21) Undertaking – Guarantee/Warranty should be 01 year after commissioning and repair and maintena nce support for 07 year after completion of warranty period. The firm will resolve the defect within 15 days time limit. Penalty for delay in repair/rectification in defect will be applicable as per Para 13 at Page No. 6 of Buyer Added Bid Specific ATC (Additional Terms & Condition). (22) Bidders are advised to check the applicable GST on their own before quoting. Buyer will not take any r esponsibility in this regard. (23) Check list as per Annexure – D is to be submitted. (24) Undertaking on Training – 02-03 days training for operator level, theoretical and practical to be im parted by Firm for 05 technicians of BSF at consignee location. (25) Certificate – OEM/CoC certificate should be submitted by the firm as mentioned in QRs & TDs. (26) Conflict of Interest: - The firm shall submit the declaration as per Appendix – E alongwith the bid d ocuments failing which their bid shall be rejected."
+    },
+    {
+      "page": 11,
+      "text": "(27) BIS licence/OSO 9001 Certificate:- The Bidder is required to upload all relevant certificate such as BIS licence/ISO 9001 Certificate alongwith Bid. (28) NIC 5 digit Code (71200):- Required ( for EXD exemption of MSE Enterprise who are Manufacturer of the offered product having valid Udyam Registration Certificate) (29) Non disclosure agreement certificate/undertaking:- The bidder is required to submit declaration as per Appendix-E alnogwith the bid documents. Appendix – “A” Open Tender Enquiry No….. Dated …………… BID SECURING DECLARATION CERTIFICATE ( On Firm’s letter head ) To Deputy Inspector General, Special Instrument Workshop (SIW), Tigri Camp, New Delhi-110080 Sir, Tender/GeM. Bid No._______________________________________________ We, M/S_________________________________under take that if we withdraw or modify our bid during the period of validity, or we are awarded the contract and we fail to sign the contract, or to submit a performance sec urity before the deadline defined in bids documents, we will be suspended for the period of 02 years from being eligible to submit bids for contract with procuring entity i.e. Border Security Force (BSF), Ministry of Home Affairs. Yours Faithfully (Signature of the Authorized Signatory of Bidder, with Official seal)"
+    },
+    {
+      "page": 12,
+      "text": "Appendix – B CERTIFICATE INDICATING PERCENTAGE OF LOCAL CONTENT REQUIREMENT FOR CLASS-1 LOCAL SUPPLIER AND CLASS-II LOCAL SUPPLIER. Tender No. _______________________date_____________ for supply of _______________ S/No Details (i) Type of Suppler (Class-1 local supplier or Class –II Local supplier (ii) Percentage of local content (iii) Self –Certification less than Rs. 10 Crore. Above Rs . 10 Crore, enclose a certificate from the Statutory auditor or cost Auditor of the company (in case of companies) or from a practicing cost accountant or practicing chartered accountant (in respect of othe r than companies) (iv) Location(s) at which the local value addition is carried out (v) Debarment for violation of Ministry of Commerce a nd Industry, Department for Promotion of Industry and Internal Trade (Public Procurement Section) or der dated 04/06/2020. Signature of Bidder:- ____________________ Name in block letters: ____________________ Name of Bidder: _____________________ Full address: ______________________ __________________ _____________________"
+    },
+    {
+      "page": 13,
+      "text": "Land Border Certificate Appendix – C (To be in the Company letter head) Certificate regarding compliance of Ministry of Finance, Department of Expenditure, Public Pro curement Division Order No. F. No. 6/18/2019-PPD dated 23.07.2020. I certify that ………………………………………………………..(Name of the Bidder) is not cover ed by the definition of the bidder as mentioned in Annexure-III of MOF order No. 6/18/2019-PPD dated 23.07.2020 is thus not required to be registered with the Competent A uthority for this purpose. OR I certify that ……………………………………………………………… …….. (Name of the Bidder) comes within the ambit of clauses mentioned in Annexure-III of MOF order No. 6/18/2019- PPD dated 23.07.2020 and for this purpose, it is registered with the Competent Authority. Va lid registration certificate no………………………………..dated………………….issued by……………… …………… is enclosed. (Strike off the portion not applicable) Signature of Bidder:- ____________________ Name in block letters: ____________________ Name of Bidder: _____________________ Full address: ______________________ Appendix – ‘D’ 01 Name of firm Office addre Firms works Type of Firm CIN/LLPIN of GST Registra ss of firm, Ph address as p firm tion on No. o (Sole Proprie one No., Fax er Vendor Re f the firm torship/ Part No. & E mail gistration , P nership / Lim ID hone No. Fax ited ability P No. Email ID artnership / Private Publi c Limited Co mpany)"
+    },
+    {
+      "page": 14,
+      "text": "(1) (2) (3) (4) (5) (6) 02 Name of all Father’s / Hu DIN Full residenti Aadhar Card Udyam Regis Owner (s) / D sband’s nam al Address of Owner / Di tration Certifi irectors (s) of e of all Owne rector (s) of f cate No. , att firm rs / Directors irm be attac ach a cop hed (1) (2) (3) (4) (5) (6) 03. WE HEREBY DECLARE AND CONFIRM THAT no bid has been submitted for the quoted item by a ny other Private Limited or Public Limited Company or Limited Liability Partnership (LLP) or Partnership Fir m or Proprietor Firm in which any relative of any Director or Partner or Proprietor of Bidder Firm is Director, Partner or Proprietor. The work “relative” is defined as under:- The companies Act, 2013 Sec 2 (77) “relative” & “MOF Manual for Procurement of Goods (Para 5.1.4) with r eference to any person, means anyone who is related to another, if:- (i) they are member of a “Hindu Undivided Family” (ii) they are husband and wife or (iii) One person is related to the other in such manner as prescribed below:- (a) Father including step-father (b) Mother including step-mother (c) Son including step-father (d) Son’s wife, (e) Daughter, (f) Daughter’ Husband (g) Brother including step-brother,"
+    },
+    {
+      "page": 15,
+      "text": "(h) Sister including step-sister. Appendix-E NON DISCLOSURE DECLARATION CERTIFICATE (On Bidder letter-Head) I M/s………………………………………………….. hereby declared that I shall not disclose the contract o r any provision, specification, plan, design, pattern, sample or information thereof to any thirt party during and after expiry of Contrct If defying the norms as per the Contract a legal action may be taken against m e as per the existing rules. Signature with seal Annexure –F CHECK LIST FOR BIDDERS BIDDER TO UPLOAD IS UNDER MENTIONED DOCUMENT) S.No Requirements to be checked before submission of the Bid. Complied Indicate (Please indicat Page No. e YES or NO) 1. Whether the bidder is either: (i) Original Equipment Manufacturer- If yes uploaded required certificate (a) Micro (b) Small (c) Start up or Not (ii) Authorized Dealer/Re-seller etc. (iii) If authorized Dealer/Re-seller then authorization certificate issued by OEM be submitted. 2. Minimum Average Turnover of the Bidder (Last 3 years i.e 2023 -24, 2024-25 & 2025-26)"
+    },
+    {
+      "page": 16,
+      "text": "3. Minimum Average Turnover of the OEM (Last 3 years i.e 2023 -24, 2024-25 & 2025-26) 4. Bidder financial standing: The bidder should not be under liqui dation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 5. Certificate/declaration that quoted product are not obsolete in market and has at least 5 years residual market life as per bid. 6. Bidder/OEM must have Dedicated/toll free Telephone No. for S ervice Support. 7. Escalation matrix for service support as per bid. 8. Earnest Money Deposit (EMD) has been enclosed. However, in case, the bidder is MSE/Startup ((Manufacturers of Tendered ite m), they will submit Bid Security Declaration in format App endix –‘A’ . 9. Certificate indicating Percentage of Local Content has been enc losed as Appendix-“B” 10. Experience Criteria certificate as per mentioned at Srl No.06 at P/No.4 of custom bid. 11. Past Performance as per mentioned at Srl No.10 at P/No. 05 of GeM bid condition. 12. Bidder will upload a self-certificate stating that his firm has not been blacklisted as per mentioned at Srl No. 10 at P/No. 09 of ATC. 13. Warranty terms as per Srl No.21 P/No.10 of ATC. 14. Payment terms as per bid accepted. 15. Acceptance of all Addl Terms & Conditions of bid by bidder 16. Uploading of all Tender documents including (Addl Terms & Co nditions) 17. Documents required as per QRs/TDs is attached as specificatio n document at P/No. 06"
+    },
+    {
+      "page": 17,
+      "text": "18. Conflict of Interest:- The Declaration as per Appendix-D Shoul d be submitted 19. Non-Disclosure Agreement :- The declaration as per Appendix -E should be submitted. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8042603",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "document_closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 04-11-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "document_opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 05-11-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Home Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Central Armed Police Forces",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Border Security Force (bsf)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Delhi",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :ashokdagar67@bsf.nic.in Buyer Email id: kk2050sr@bsf.nic.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Diopter Test Station",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "((33 )) /Minimum Average Annual Turnover of the bidder (For 3 Years): 3.4 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 28 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 2,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 2,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 20 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "emd_fee",
+      "page": 3,
+      "quote": "EMD Amount: 20975",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "emd_required",
+      "page": 3,
+      "quote": "EMD Amount: 20975",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 3.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 14",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Phurailatpam Krishnakumar Sharma | 110080,SPECIAL INSTRUMENTS WORKSHOP TIGRI CAMP BSF, M B ROAD OPPOSITE TO BATRA HOSPITAL NEW DELHI-80 | 1 | 90",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "consignees",
+      "page": 14,
+      "quote": "02 | Name of all Owner (s) / D irectors (s) of firm | Fathers / Hu sbands nam e of all Owne rs / Directors | DIN | Full residenti al Address | Aadhar Card of Owner / Di rector (s) of f irm be attac hed | Udyam Regis tration Certifi cate No. , att ach a cop:  | (1) | (2) | (3) | (4) | (5) | (6)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses ADDITIONAL TERMS & CONDITIONS FOR PROCUREMENT OF DIOPTER TEST STATION i) Firm will give an undertaking that, the spares of said stores will be provided for another 5 years as and when required by the user after Guarantee/ Warranty period i.e. 01 year. ii) Training, Installation, Commissioning & Testing should be provided at consignee location. iii) Warranty/Guarantee should be 01 year after installation & commissioning of all items. iv) This bid is also governed by Central Vigilance Commission guidelines as per circular No. 03/01/12 d ated 13 Jan 2012 which mentions that: - a) In a tender, either the Indian agent on behalf of the Principal/OEM or Principal/OEM itself can bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "but both cannot bid simultaneously for the same item/product and b) If an agent submits bid on behalf of Principal/OEM, the same agent shall not submit a bid on beh alf of another Principal/OEM in the same tender for the same item/product. c) Further, as per chapter-5 of Manual for Procurement of Goods 2017 issued by MoF, DoE that \"in cases where the manufacturer has submitted the bid, the bids of its authorized dealer will not b e considered and EMD will be returned\". v) Public Procurement Order (Preference to Make in India 2017) issued by Department of Industrial Policy and Promotion, Ministry of Commerce and Industry, Govt. of India, vide their letter dated 15- 06-2017, Ministry of Commerce and Industry Department for Promotion of Industry and Internal Tra de (Public Procurement Section) Order dated 04/06/2020 and 16 Sept 2020, Ministry of Finance, De partment of Expenditure, Public Procurement Division O/No. F. No. 6/18/2019-PPD dated 23-07-202 0 and notification issued by Ministry of MSME under section -11 of Micro Small and Medium Enterpr ises Development at 2006 shall also be taken into consideration in procurement of Goods and Ser vices. vi) Bidder annual turnover, experience/past performance: Micro & Small Enterprises who are m anufacturers of the primary product category or service provider of the primary service category a nd Startups are exempted for Turnover, Experience & Past Performance. *** The re-seller/authorized dealers/traders are not exempted for Turn Over and Experi ence/Past Performance even if they are holding Udyam Registration Certificate. (1) EMD a) As per General Term and conditions, EMD is required to be submitted by the firm. However, in t he case firm is MSE/Startup (Manufacturer of tender items) or any exempted entity, they will submit Bid Se curity Declaration on company/firm letter head along with technical Bid in the proforma as per Appendix – ‘A’ b) Traders/Authorized dealers/Re-sellers are not exempted from EMD. c) In Case Bid Security Declaration/Scanned copy of EMD is not submitted with the technical Bid, t he firm is liable to be rejected/disqualified during initial scrutiny. (2) Arbitration as per GeM Terms & Conditions.​ (3) Liquidated Damages :- If the Seller/Service Provider fails to deliver any or all of the Goods/Services w ithin the original/re-fixed delivery period(s) specified in the contract, the Buyer will be entitled to deduct/re cover the Liquidated Damages for the delay, unless covered under Force Majeure conditions aforesaid, @ 0 .5% of the contract value of delayed quantity per week or part of the week of delayed period, until actual d elivery or performance, as pre-estimated damages not exceeding 5% of the total contract value without a ny controversy/dispute of any sort whatsoever. However, in case of inordinate delay maximum deduction shall be 10% of the total contract value.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "(4) Force Majeure Clauses (FMC) : If at any time during the continuance of the Contract, the performan ce in whole or in part by either party of any obligation under this Contract shall be prevented or delayed b y the reasons of any war, hostility, acts of the public enemy, epidemics, civil commotion, sabotage, fires, fl oods, explosion, quarantine restrictions, strikes, lockouts or act of God (but not including negligence or wro ngdoing, predictable/seasonal rain) provided notice of happening of such event duly evidenced with docu ments is given by one party to the other within10 days from the date of occurrence thereof, neither party s hall be by reasons of such event, be entitled to terminate the Contract nor shall either party have any clai m for damages against the other in respect of such non-performance or the delay in performance, and deli veries under the contract shall be resumed as soon as practicable after such event has come to an end or ceased to exist, and the decision of the Buyer as to whether the deliveries have been so resumed or not, s hall be final and conclusive, Provided further that if the performance in whole or part of any obligation und er this contract is prevented or delayed by reason of any such event for a period exceeding 90 days, eithe r party may at its option terminate the contract provided also that the Buyer shall be at liberty to take ove r from the Seller at a price to be fixed by Buyer, which shall be final, all unused, undamaged and accepted material, bought out components and Goods in course of manufacture in the possession of the Seller at th e time of such termination or such portion thereof as the Buyer may deem fit excepting such materials, bo ught out components and Goods as the Seller may with the concurrence of the Buyer elect to retain. (5) Risk Purchase Clause:- In the event of failure of supplier to deliver or dispatch the stores within the s tipulated dates/period of the supply order/AT, or the event of breach of any of the terms and conditions of t he AT, the buyer will have the right to purchase the subject store elsewhere at the risk and cost of defaulti ng seller after giving a notice. The cost as per Risk purchase exercise may be recovered from the bills pen ding with the buyer even against any other supplies outside this contract or even from the pending bills wi th any other Govt. Department/Ministry. In the event of contract being cancelled for any breach committed and the purchase effecting repurchase is not bound to accept the lower offer of Benami or allied sister con cern of the seller. (6) Right to Rejection: Store will be accepted after inspection and only if they are found up to the standa rd specification. The decision of the BSF shall be final as to the quality of the stores and shall be binding up on the seller and in case of any of the stores supplied not being found as per specification shall be liable to be rejected or replaced and any expenses or losses caused to the seller should be borne by the seller and ensured by the seller that stores supplied should be best in quality and free from all defects. The rejected stores must be removed by the sellers from the consignee’s premises within 15 days from the date of the i ntimation about rejection at the risk and cost of the seller. The in-charge stores concerned will take reason able view of such materials but in no case shall be responsible for any loss, shortage, damage that may oc cur to it while it is in the premises of the consignee. (7) Bidder Turn Over Criteria : The minimum average annual financial turnover of the bidder during the l st ast three years, ending on 31 March of the previous financial year, should be an indicated in the bid docu ments. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certi ficate from the Chartered Accountant/Cost Accountant indicating the turnover details for the relevant perio d shall be uploaded with the bid. In case the date of constitution/incorporation of the bidder is less than 3 y ear old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. (8) Bidder participating as authorized dealer will not be given exemption in annual turnover & experience",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "criteria. Bidders participating as authorized dealer will upload authorization letter/certificate issued by OE M in favour of them. (9) The bidder must upload a certificate from the OEM regarding the percentage of the Local Content and t he details of locations at which the local value addition is made along with their bid as per Appendix “B” . (10) Bidder will upload a self certificate stating that, his firm has not been blacklisted by any Govt./PU C Agencies in recent past and also not under liquidation/court receivership/similar proceeding. rd (11) Land Border :- As per Public Procurement OM No. 6/18/2019-PPD dated 23 July 2020, any bidder fr om a country which shares a land border with India will be eligible to bid any procurement whether of goo ds, service (including consultancy services and non-consultancy service) or works (including turnkey proje cts) only if the bidder is registered with the Competent Authority specified in Annex-I. Firm to submit decla ration/Certificate as per Appendix “C”. (12) Consignee Location should be read as The DIG (SIW) BSF, Tigri Camp, M B Road, New Delhi 80 (13) Onsite Guarantee/Warranty should be 01 years and performance Guarantee, as applicable. The Firm will collect the equipment from consignee location after intimation of any defect and will resolve the defect within the prescribed time limit under Guarantee/Warranty terms and condition of the bid. The firm will kee p a stock of the running spares in order to avoid any unnecessary delay in the repair and maintenance of t he equipment. Penalty of delay in repair/rejection of defect will be applicable as per para-14 at page No. 0 6 of buyer added Bid Specific Term and conditions. (14) The bidder (in case of Re-seller/authorized dealers) is also required to attach, in it’s quotation, the ma nufacturer’s authorization certificate and also manufacturer’s confirmation of extending the required warra nty for that product. This is necessary to ensure quotation from a responsible party offering genuine produ ct, also backed by a warranty obligation from the concerned manufacturer. (15) In a tender, either the Principal/OEM or its authorized dealer/Agents on behalf of the Principal/OEM will participate. Both cannot bid simultaneously for the same item/product in the same tender. (CVC Circular N o. 03/01/12 dated 13.01.2012 refers) (16) All Queries related to the Tender will be submitted on GeM portal only.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "(17) The Store will be supplied by the seller to consignee location on free of cost duly ensured for the tran sit. (18) Payment :- 100 % payment will be made after receipt of the stores in satisfactorily condition at cons ignee location after completion of successful JRI/Survey of the Stores. (18) Undertaking on Delivery period : 90 days after issue of AT. (20) Description/List of Stores. S/NO. NOMENCLATURE QTY REQD 1 DIOPTER TEST STATION 01 (20) JRI( Joint Receipt Inspection): JRI will be carried out at the place of consignee location before fin al acceptance by the Rep of BSF and the seller. If any store is rejected in final inspection as not confirming to tender specification, the same must be replaced within scheduled delivery period before final acceptanc e. The consignees right to rejection in this regard will be final and absolute. (21) Undertaking – Guarantee/Warranty should be 01 year after commissioning and repair and maintena nce support for 07 year after completion of warranty period. The firm will resolve the defect within 15 days time limit. Penalty for delay in repair/rectification in defect will be applicable as per Para 13 at Page No. 6 of Buyer Added Bid Specific ATC (Additional Terms & Condition). (22) Bidders are advised to check the applicable GST on their own before quoting. Buyer will not take any r esponsibility in this regard. (23) Check list as per Annexure – D is to be submitted. (24) Undertaking on Training – 02-03 days training for operator level, theoretical and practical to be im parted by Firm for 05 technicians of BSF at consignee location. (25) Certificate – OEM/CoC certificate should be submitted by the firm as mentioned in QRs & TDs. (26) Conflict of Interest: - The firm shall submit the declaration as per Appendix – E alongwith the bid d ocuments failing which their bid shall be rejected.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 11,
+      "quote": "(27) BIS licence/OSO 9001 Certificate:- The Bidder is required to upload all relevant certificate such as BIS licence/ISO 9001 Certificate alongwith Bid. (28) NIC 5 digit Code (71200):- Required ( for EXD exemption of MSE Enterprise who are Manufacturer of the offered product having valid Udyam Registration Certificate) (29) Non disclosure agreement certificate/undertaking:- The bidder is required to submit declaration as per Appendix-E alnogwith the bid documents. Appendix – “A” Open Tender Enquiry No….. Dated …………… BID SECURING DECLARATION CERTIFICATE ( On Firm’s letter head ) To Deputy Inspector General, Special Instrument Workshop (SIW), Tigri Camp, New Delhi-110080 Sir, Tender/GeM. Bid No._______________________________________________ We, M/S_________________________________under take that if we withdraw or modify our bid during the period of validity, or we are awarded the contract and we fail to sign the contract, or to submit a performance sec urity before the deadline defined in bids documents, we will be suspended for the period of 02 years from being eligible to submit bids for contract with procuring entity i.e. Border Security Force (BSF), Ministry of Home Affairs. Yours Faithfully (Signature of the Authorized Signatory of Bidder, with Official seal)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 12,
+      "quote": "Appendix – B CERTIFICATE INDICATING PERCENTAGE OF LOCAL CONTENT REQUIREMENT FOR CLASS-1 LOCAL SUPPLIER AND CLASS-II LOCAL SUPPLIER. Tender No. _______________________date_____________ for supply of _______________ S/No Details (i) Type of Suppler (Class-1 local supplier or Class –II Local supplier (ii) Percentage of local content (iii) Self –Certification less than Rs. 10 Crore. Above Rs . 10 Crore, enclose a certificate from the Statutory auditor or cost Auditor of the company (in case of companies) or from a practicing cost accountant or practicing chartered accountant (in respect of othe r than companies) (iv) Location(s) at which the local value addition is carried out (v) Debarment for violation of Ministry of Commerce a nd Industry, Department for Promotion of Industry and Internal Trade (Public Procurement Section) or der dated 04/06/2020. Signature of Bidder:- ____________________ Name in block letters: ____________________ Name of Bidder: _____________________ Full address: ______________________ __________________ _____________________",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 13,
+      "quote": "Land Border Certificate Appendix – C (To be in the Company letter head) Certificate regarding compliance of Ministry of Finance, Department of Expenditure, Public Pro curement Division Order No. F. No. 6/18/2019-PPD dated 23.07.2020. I certify that ………………………………………………………..(Name of the Bidder) is not cover ed by the definition of the bidder as mentioned in Annexure-III of MOF order No. 6/18/2019-PPD dated 23.07.2020 is thus not required to be registered with the Competent A uthority for this purpose. OR I certify that ……………………………………………………………… …….. (Name of the Bidder) comes within the ambit of clauses mentioned in Annexure-III of MOF order No. 6/18/2019- PPD dated 23.07.2020 and for this purpose, it is registered with the Competent Authority. Va lid registration certificate no………………………………..dated………………….issued by……………… …………… is enclosed. (Strike off the portion not applicable) Signature of Bidder:- ____________________ Name in block letters: ____________________ Name of Bidder: _____________________ Full address: ______________________ Appendix – ‘D’ 01 Name of firm Office addre Firms works Type of Firm CIN/LLPIN of GST Registra ss of firm, Ph address as p firm tion on No. o (Sole Proprie one No., Fax er Vendor Re f the firm torship/ Part No. & E mail gistration , P nership / Lim ID hone No. Fax ited ability P No. Email ID artnership / Private Publi c Limited Co mpany)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 14,
+      "quote": "(1) (2) (3) (4) (5) (6) 02 Name of all Father’s / Hu DIN Full residenti Aadhar Card Udyam Regis Owner (s) / D sband’s nam al Address of Owner / Di tration Certifi irectors (s) of e of all Owne rector (s) of f cate No. , att firm rs / Directors irm be attac ach a cop hed (1) (2) (3) (4) (5) (6) 03. WE HEREBY DECLARE AND CONFIRM THAT no bid has been submitted for the quoted item by a ny other Private Limited or Public Limited Company or Limited Liability Partnership (LLP) or Partnership Fir m or Proprietor Firm in which any relative of any Director or Partner or Proprietor of Bidder Firm is Director, Partner or Proprietor. The work “relative” is defined as under:- The companies Act, 2013 Sec 2 (77) “relative” & “MOF Manual for Procurement of Goods (Para 5.1.4) with r eference to any person, means anyone who is related to another, if:- (i) they are member of a “Hindu Undivided Family” (ii) they are husband and wife or (iii) One person is related to the other in such manner as prescribed below:- (a) Father including step-father (b) Mother including step-mother (c) Son including step-father (d) Son’s wife, (e) Daughter, (f) Daughter’ Husband (g) Brother including step-brother,",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 15,
+      "quote": "(h) Sister including step-sister. Appendix-E NON DISCLOSURE DECLARATION CERTIFICATE (On Bidder letter-Head) I M/s………………………………………………….. hereby declared that I shall not disclose the contract o r any provision, specification, plan, design, pattern, sample or information thereof to any thirt party during and after expiry of Contrct If defying the norms as per the Contract a legal action may be taken against m e as per the existing rules. Signature with seal Annexure –F CHECK LIST FOR BIDDERS BIDDER TO UPLOAD IS UNDER MENTIONED DOCUMENT) S.No Requirements to be checked before submission of the Bid. Complied Indicate (Please indicat Page No. e YES or NO) 1. Whether the bidder is either: (i) Original Equipment Manufacturer- If yes uploaded required certificate (a) Micro (b) Small (c) Start up or Not (ii) Authorized Dealer/Re-seller etc. (iii) If authorized Dealer/Re-seller then authorization certificate issued by OEM be submitted. 2. Minimum Average Turnover of the Bidder (Last 3 years i.e 2023 -24, 2024-25 & 2025-26)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 16,
+      "quote": "3. Minimum Average Turnover of the OEM (Last 3 years i.e 2023 -24, 2024-25 & 2025-26) 4. Bidder financial standing: The bidder should not be under liqui dation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 5. Certificate/declaration that quoted product are not obsolete in market and has at least 5 years residual market life as per bid. 6. Bidder/OEM must have Dedicated/toll free Telephone No. for S ervice Support. 7. Escalation matrix for service support as per bid. 8. Earnest Money Deposit (EMD) has been enclosed. However, in case, the bidder is MSE/Startup ((Manufacturers of Tendered ite m), they will submit Bid Security Declaration in format App endix –‘A’ . 9. Certificate indicating Percentage of Local Content has been enc losed as Appendix-“B” 10. Experience Criteria certificate as per mentioned at Srl No.06 at P/No.4 of custom bid. 11. Past Performance as per mentioned at Srl No.10 at P/No. 05 of GeM bid condition. 12. Bidder will upload a self-certificate stating that his firm has not been blacklisted as per mentioned at Srl No. 10 at P/No. 09 of ATC. 13. Warranty terms as per Srl No.21 P/No.10 of ATC. 14. Payment terms as per bid accepted. 15. Acceptance of all Addl Terms & Conditions of bid by bidder 16. Uploading of all Tender documents including (Addl Terms & Co nditions) 17. Documents required as per QRs/TDs is attached as specificatio n document at P/No. 06",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 17,
+      "quote": "18. Conflict of Interest:- The Declaration as per Appendix-D Shoul d be submitted 19. Non-Disclosure Agreement :- The declaration as per Appendix -E should be submitted. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9900012"
+    }
+  ],
+  "detail_warning": "The original PDF dates differ from the current public GeM listing. The listing closing date is retained. Confirm the latest opening date and any corrigenda on GeM; the original PDF opening date is not presented as current.",
+  "document_closing_at": "2026-11-04T17:00:00+05:30",
+  "document_opening_at": "2026-11-05T17:00:00+05:30",
+  "date_discrepancy": {
+    "listing_closing_at": "2026-11-19T17:00:00+05:30",
+    "document_closing_at": "2026-11-04T17:00:00+05:30",
+    "document_opening_at": "2026-11-05T17:00:00+05:30"
+  }
 }

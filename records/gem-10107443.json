@@ -5,9 +5,9 @@
   "tender_id": "GEM/2026/R/762389",
   "title": "LINE ITEM 1[ TUBE SA268 TP410 OD25.4 MM THK-2.11 MM L],LINE ITEM 2[ EX. TUBE SA268 TP410 OD 25.4 MM",
   "description": "LINE ITEM 1[ TUBE SA268 TP410 OD25.4 MM THK-2.11 MM L],LINE ITEM 2[ EX. TUBE SA268 TP410 OD 25.4 MM THK2.11 MM],LINE ITEM 3[ TUBE, SA268 TP410 (IBR) , 25.4X2.11X10872],LINE ITEM 4[ TB, SS, SA213GR304, 3546 MM, 88.9 MM, 5.49 MM]",
-  "organisation": "NA",
-  "ministry": "Ministry of Petroleum and Natural Gas",
-  "department": "NA",
+  "organisation": "Hindustan Petroleum Corporation Ltd",
+  "ministry": "Ministry Of Petroleum And Natural Gas",
+  "department": "Na",
   "portal_name": "GeM",
   "state": [],
   "city": [],
@@ -25,8 +25,18 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10107443"
+    },
+    {
+      "name": "GEM/2026/B/8078874",
+      "url": "https://bidplus.gem.gov.in/showbidDocument/9941284",
+      "page": 1
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261031",
+      "page": 1
     }
   ],
   "tags": [
@@ -34,5 +44,105 @@
   ],
   "source_fetched_at": "2026-11-01T06:54:35.167Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "office": "Petroleum House",
+  "ra_start_at": "2026-11-01T10:00:00+05:30",
+  "auto_extension": "If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+  "mse_exemption": "MSE Exemption for Years of Experience and Turnover: No",
+  "startup_exemption": "Startup Exemption for Years of Experience and Turnover: No",
+  "originating_bid_reference": "GEM/2026/B/8078874",
+  "source_document_fetched_at": "2026-11-16T07:40:18.299251+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "59503423f8ec81672709002211449b401fe11c43b727e399b62716026ddea987",
+  "document_pages": 2,
+  "eligibility": [
+    "MSE Exemption for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Exemption for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [],
+  "technical_specifications": [],
+  "buyer_added_terms": [],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/762389",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107443"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 1,
+      "quote": "Please refer to Bid document of GEM/2026/B/8078874",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107443"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 01-11-2026 10:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107443"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 02-11-2026 15:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107443"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Petroleum And Natural Gas",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107443"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Na",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107443"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Hindustan Petroleum Corporation Ltd",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107443"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Petroleum House",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107443"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1851",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107443"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: LINE ITEM 1[ TUBE SA268 TP410 OD25.4 MM THK-2.11 MM L] , LINE ITEM 2[ EX. TUBE SA268 TP410 OD 25.4 MM THK2.11 MM] , LINE ITEM 3[ TUBE, SA268 TP410 (IBR) , 25.4X2.11X10872] , LINE ITEM 4[ TB, SS, SA213GR304, 3546 MM, 88.9 MM, 5.49 MM]",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107443"
+    },
+    {
+      "field": "auto_extension",
+      "page": 1,
+      "quote": "Auto Extension: If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107443"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 1,
+      "quote": "MSE Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107443"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 1,
+      "quote": "Startup Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10107443"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda."
 }

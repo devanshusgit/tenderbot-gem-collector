@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8271855",
   "title": "Firewall (V4)",
   "description": "Firewall (V4)",
-  "organisation": "Department of School Education and Literacy",
-  "ministry": "Ministry of Education",
-  "department": "Department of School Education and Literacy",
+  "organisation": "Navodaya Vidyalaya Samiti",
+  "ministry": "Ministry Of Education",
+  "department": "Department Of School Education And Literacy",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Firewall (V4)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-13T13:41:42+05:30",
   "closing_at": "2026-11-23T14:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10163256"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/K3vkxfCu0MVf4_5ig_wxlno4XIm2WtDv0vNBerpD1ns",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261113",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +49,299 @@
   ],
   "source_fetched_at": "2026-11-16T09:56:02.567Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-24T14:00:00+05:30",
+  "office": "Jawahar Navodaya Vidyalaya Silvassa",
+  "buyer_email": "buyer1.1247401.dh@gembuyer.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "15 (Days)",
+  "source_document_fetched_at": "2026-11-16T15:30:13.900811+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "733f57f055db5ae77ca7f3699b6c0c5670612c2c7c5caa9461193bedf6c2454b",
+  "document_pages": 7,
+  "eligibility": [
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Manoj Kumar Joshi",
+      "address": "396230,JAWAHAR NAVODAYA VIDYALAYA SILI VILLAGE SILI SILVASSA U T OF DADRA AND NAGAR HAVELI",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Generic",
+          "parameter": "Description of Store",
+          "value": "Next Generation Firewall (NGFW)"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Form Factor (Rack Size)",
+          "value": "1U, 2U, 3U"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Type of Mounting",
+          "value": "Desktop Mount, Rack Mount"
+        },
+        {
+          "group": "Performance",
+          "parameter": "IPS Throughput (Gbps)",
+          "value": "1.1–5, 5.1–10, 10.1–20, 20.1–40, 40.1–80, 80.1-100, 100.1-150, 150.1-200 Or higher"
+        },
+        {
+          "group": "Performance",
+          "parameter": "Firewall Throughput (in Gbps)",
+          "value": "10.1–20, 20.1–40, 40.1–80, 80.1-100, 100.1-150, 150.1-200 Or higher"
+        },
+        {
+          "group": "Performance",
+          "parameter": "NGFW Throughput (Gbps)",
+          "value": "Up to 1, 1.1–5, 5.1–10, 10.1–20, 20.1–40, 40.1–80, 80.1-100, 100.1-150, 150.1-200 Or higher"
+        },
+        {
+          "group": "Performance",
+          "parameter": "VPN Throughput",
+          "value": "Up to 500 Mbps, 501 Mbps–1 Gbps, 1.1–5 Gbps, 5.1– 10 Gbps, 10.1-20 Gbps, 20.1–40 Gbps, 40.1–80 Gbps, 80.1-100 Gbps Or higher"
+        },
+        {
+          "group": "Performance",
+          "parameter": "Threat Protection Throughput (Gbps)",
+          "value": "Up to 1, 1.1–5, 5.1–10, 10.1–20, 20.1–40, 40.1–80, 80.1-100, 100.1-150, 150.1-200 Or higher"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Interface & Connectivity",
+          "parameter": "Number of RJ45 Ports",
+          "value": "0"
+        },
+        {
+          "group": "Interface & Connectivity",
+          "parameter": "Number of 2.5GE Ports",
+          "value": "8"
+        },
+        {
+          "group": "Interface & Connectivity",
+          "parameter": "Number of SFP Ports",
+          "value": "0"
+        },
+        {
+          "group": "Interface & Connectivity",
+          "parameter": "Number of 10G SFP+ Ports",
+          "value": "0"
+        },
+        {
+          "group": "Interface & Connectivity",
+          "parameter": "Number of 25G SFP28 Ports",
+          "value": "0"
+        },
+        {
+          "group": "Interface & Connectivity",
+          "parameter": "Number of 40G QSFP+ Ports",
+          "value": "0"
+        },
+        {
+          "group": "Interface & Connectivity",
+          "parameter": "Number of 100G QSFP28 Ports",
+          "value": "0"
+        },
+        {
+          "group": "Interface & Connectivity",
+          "parameter": "Local Log Storage Capacity (in GB)",
+          "value": "64, 120, 240, 480, 960 Or higher"
+        },
+        {
+          "group": "Features",
+          "parameter": "Features Supported",
+          "value": "Intrusion Prevention System, Application Control, URL Filtering, Anti Malware Protection, Anti Bot Protection, Command and Control Protection, DNS Security, Sandboxing, SSL Inspection"
+        },
+        {
+          "group": "Features",
+          "parameter": "Networking Features Supported",
+          "value": "Network Address Translation (NAT), VLAN Support, Static Routing, Policy Based Routing, Dynamic Routing, Open Shortest Path First (OSPF), Border Gateway Protocol (BGP), Dynamic Host Configuration Protocol (DHCP) Server, Dynamic Host Configuration Protocol (DHCP) Relay, IPv6 Ready/Certified, SD-WAN"
+        },
+        {
+          "group": "Features",
+          "parameter": "Management Interfaces Supported",
+          "value": "Web GUI, Command Line Interface, Secure Shell (SSH), Centralised Management Platform (Cloud)"
+        },
+        {
+          "group": "Features",
+          "parameter": "Logging Integration Supported",
+          "value": "Local Logging"
+        },
+        {
+          "group": "Features",
+          "parameter": "Power Supply Configuration",
+          "value": "Single Fixed Power Supply"
+        },
+        {
+          "group": "Certification and Warranty",
+          "parameter": "Warranty Period (in Years)",
+          "value": "1, 2, 3, 4, 5 Or higher"
+        },
+        {
+          "group": "Certification and Warranty",
+          "parameter": "Certification from TEC as per Standard for Generic Requirements (GR)/Interface Requirements (IR)",
+          "value": "No"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 3. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 4. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers"
+    },
+    {
+      "page": 6,
+      "text": "for Service Support."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8271855",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163256"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 23-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163256"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 24-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163256"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 15 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163256"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Education",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163256"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of School Education And Literacy",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163256"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Navodaya Vidyalaya Samiti",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163256"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Jawahar Navodaya Vidyalaya Silvassa",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163256"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :jnv-silvassa.dn@gov.in Buyer Email id: buyer1.1247401.dh@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163256"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163256"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Firewall (V4) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163256"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163256"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163256"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163256"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163256"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163256"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Description of Store: Next Generation Firewall (NGFW) | Form Factor (Rack Size): 1U, 2U, 3U | Type of Mounting: Desktop Mount, Rack Mount | IPS Throughput (Gbps): 1.1–5, 5.1–10, 10.1–20, 20.1–40, 40.1–80, 80.1-100, 100.1-150, 150.1-200 Or higher | Firewall Throughput (in Gbps): 10.1–20, 20.1–40, 40.1–80, 80.1-100, 100.1-150, 150.1-200 Or higher | NGFW Throughput (Gbps): Up to 1, 1.1–5, 5.1–10, 10.1–20, 20.1–40, 40.1–80, 80.1-100, 100.1-150, 150.1-200 Or higher | VPN Throughput: Up to 500 Mbps, 501 Mbps–1 Gbps, 1.1–5 Gbps, 5.1– 10 Gbps, 10.1-20 Gbps, 20.1–40 Gbps, 40.1–80 Gbps, 80.1-100 Gbps Or higher | Threat Protection Throughput (Gbps): Up to 1, 1.1–5, 5.1–10, 10.1–20, 20.1–40, 40.1–80, 80.1-100, 100.1-150, 150.1-200 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163256"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Number of RJ45 Ports: 0 | Number of 2.5GE Ports: 8 | Number of SFP Ports: 0 | Number of 10G SFP+ Ports: 0 | Number of 25G SFP28 Ports: 0 | Number of 40G QSFP+ Ports: 0 | Number of 100G QSFP28 Ports: 0 | Local Log Storage Capacity (in GB): 64, 120, 240, 480, 960 Or higher | Features Supported: Intrusion Prevention System, Application Control, URL Filtering, Anti Malware Protection, Anti Bot Protection, Command and Control Protection, DNS Security, Sandboxing, SSL Inspection | Networking Features Supported: Network Address Translation (NAT), VLAN Support, Static Routing, Policy Based Routing, Dynamic Routing, Open Shortest Path First (OSPF), Border Gateway Protocol (BGP), Dynamic Host Configuration Protocol (DHCP) Server, Dynamic Host Configuration Protocol (DHCP) Relay, IPv6 Ready/Certified, SD-WAN | Management Interfaces Supported: Web GUI, Command Line Interface, Secure Shell (SSH), Centralised Management Platform (Cloud) | Logging Integration Supported: Local Logging | Power Supply Configuration: Single Fixed Power Supply | Warranty Period (in Years): 1, 2, 3, 4, 5 Or higher | Certification from TEC as per Standard for Generic Requirements (GR)/Interface Requirements (IR): No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163256"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Manoj Kumar Joshi | 396230,JAWAHAR NAVODAYA VIDYALAYA SILI VILLAGE SILI SILVASSA U T OF DADRA AND NAGAR HAVELI | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163256"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 3. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 4. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163256"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "for Service Support.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10163256"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8146675",
   "title": "Multi Gas Detector (V1)",
   "description": "Multi Gas Detector (V1)",
-  "organisation": "COAL INDIA LIMITED",
-  "ministry": "Ministry of Coal",
-  "department": "COAL INDIA LIMITED",
+  "organisation": "South Eastern Coalfields Limited",
+  "ministry": "Ministry Of Coal",
+  "department": "Coal India Limited",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Multi Gas Detector (V1)",
   "quantity": 5,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 27000,
   "published_at": "2026-10-21T11:41:32+05:30",
   "closing_at": "2026-11-18T12:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10019112"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Qa4UHoRqF3lcbCQcpqTXeDW38L3nzECfF8CjPLjA2TQ",
+      "page": 5
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8146675/CLM0010/ATCEquip_86fb7abc-70c1-48bd-86ab1791963311780_ib.karna@nic.in.docx",
+      "page": 9
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261021",
+      "page": 10
     }
   ],
   "tags": [
@@ -34,5 +54,332 @@
   ],
   "source_fetched_at": "2026-11-15T17:26:44.928Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "office": "Secl Bilaspur Chhattisgarh",
+  "buyer_email": "sommdpk.secl@coalindia.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and 2 / 10",
+  "mse_relaxation": "MSE Relaxation for Years Of Experience: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience: Yes | Complete",
+  "seller_documents": "Experience Criteria,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 4,
+  "offer_validity": "120 (Days)",
+  "estimated_bid_value": 1348650,
+  "source_document_fetched_at": "2026-11-16T00:42:33.321810+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "721bc9ad1f625c6809297b37892c3427a8e4ed8155ea203d1514f575f3941f46",
+  "document_pages": 10,
+  "eligibility": [
+    "MSE Relaxation for Years Of Experience: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and 2 / 10 (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Tarun Kumar Pandey",
+      "address": "495452,Dipka Area SECL ,PO- Dipka, Dist-Korba, CHHATTISGARH-495452, India",
+      "quantity": 5,
+      "quantity_label": "Quantity",
+      "delivery_days": 60
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "TYPE/APPLICATION/T ECHNOLOGY",
+          "parameter": "Type",
+          "value": "Portable /Handheld"
+        },
+        {
+          "group": "TYPE/APPLICATION/T ECHNOLOGY",
+          "parameter": "Detactable Gases",
+          "value": "Combustible Gas-Lower Explosive Limit(LEL), Oxygen(O2), Hydrosulfide(H2S), Carbon Monooxide(CO), Ammonia(NH3), Sulfur dioxide(SO2), Chlorine(CI2)"
+        },
+        {
+          "group": "AREA OF USE - HAZARDOUS AREA CLASSIFICATION",
+          "parameter": "Area of use - Hazardous area classification",
+          "value": "Intrinsically safe for use in hazardous area classification conforming to Class I, Division I, Group A, B, C & D or Zone - 0, Group-IIA, IIB & IIC"
+        },
+        {
+          "group": "MEASUREMENT OF Combustible Gas- Lower Explosive Limit(LEL)",
+          "parameter": "Measurment Range of Combustible gas(LEL)",
+          "value": "0 -100 %"
+        },
+        {
+          "group": "MEASUREMENT OF Combustible Gas- Lower Explosive Limit(LEL)",
+          "parameter": "Resolution of the Combustible gas(LEL) measurement",
+          "value": "1 %"
+        },
+        {
+          "group": "MEASUREMENT OF OXYGEN(O2)",
+          "parameter": "Measurment Range of Oxygen(O2) gas concentration",
+          "value": "0 -25 %"
+        },
+        {
+          "group": "MEASUREMENT OF OXYGEN(O2)",
+          "parameter": "Resolution of the Oxygen(O2) measurement",
+          "value": "0.1"
+        },
+        {
+          "group": "MEASUREMENT OF HYDROGEN SULFIDE (H2S)",
+          "parameter": "Measurment Range of HYDROGEN SULFIDE (H2S) gas concentration",
+          "value": "0 -100 ppm"
+        },
+        {
+          "group": "MEASUREMENT OF HYDROGEN SULFIDE (H2S)",
+          "parameter": "Resolution of the HYDROGEN SULFIDE (H2S) measurement",
+          "value": "1 ppm"
+        },
+        {
+          "group": "MEASUREMENT OF SELECTABLE GAS(CO/NH3/SO2/CL 2 etc)",
+          "parameter": "Measurment Range of Selectable Gas(CO/NH3/SO2/Cl2/CH4/CO 2)",
+          "value": "0 -500 ppm"
+        },
+        {
+          "group": "MEASUREMENT OF SELECTABLE GAS(CO/NH3/SO2/CL 2 etc)",
+          "parameter": "Resolution of the Range of Selectable Gas(CO/NH3/SO2/Cl2/CH4/CO 2) measurement",
+          "value": "0.1 ppm"
+        },
+        {
+          "group": "SAMPLING PUMP",
+          "parameter": "Sampling Pump",
+          "value": "NA"
+        },
+        {
+          "group": "SAMPLING PUMP",
+          "parameter": "Remote Sampling Accessories in the scope of Supply",
+          "value": "NA"
+        },
+        {
+          "group": "POWER SOURCE",
+          "parameter": "Power Source",
+          "value": "Rechargeable Batteries;, Alkaline Batteries (Non- Rechargeable);, Mains (230 ± 10 Volts / 50 Hz AC)"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Accessories in the scope of supply",
+          "value": "Calibration cup/adaptor/calibration tubing to facilitate calibration locally, Operation Manual, Carrying case, NA"
+        },
+        {
+          "group": "WARRANTY/SERVICE",
+          "parameter": "Warranty on Equipment",
+          "value": "24 Or higher (month)"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Warranty on Sensor",
+          "value": "24 Or higher (month)"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 3. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods"
+    },
+    {
+      "page": 7,
+      "text": "4. Warranty Warranty period of the supplied products shall be as given in specifications from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 5. Forms of EMD and PBG Bidders can also submit the EMD with Payment online through RTGS / internet banking in Beneficiary name SECL , DIPKA AREA Account No. 11061939731 IFSC Code SBIN0009343 Bank Name SBI GEVRA PROJECT SBIN0009343 Branch address KORBA. DISTRICT , CHATTISGARH – 495452 . Bidder to indicate bid number and name of bidding entity in the transaction details field at the time of on- line transfer. Bidder has to upload scanned copy / proof of the Online Payment Transfer along with bid. 6. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Payment online through RTGS / internet banking also (besides PBG which is allowed as per GeM GTC). On-line payment shall be in Beneficiary name SECL, DIPKA AREA Account No. 11061939731 IFSC Code SBIN0009343 Bank Name SBI GEVRA PROJECT SBIN0009343 Branch address KORBA DISTRICT . Successful Bidder to indicate Contract number and name of Seller entity in the transaction details field at the time of on-line transfer. Bidder has to upload scanned copy / proof of the Online Payment Transfer in place of PBG within 15 days of award of contract. 7. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Bidders should read the following uploaded additional terms and conditions (ATC) and accept while participating in tender/bid. (1) Technical details are as per specification document of bid. Technical Specifications submitted b y bidder along with offer in GeM Catalogues/ Technical Literature/ leaflets will be superseded by te chnical specifications provided in ATC document, which is uploaded under Buyer added Bid Specifi c ATC, in case of any contradiction. (2) Bidders should read the uploaded ATC for detailed technical specifications and parameters, inc luding document to be submitted along with the bid / offer, document to be submitted along with t he supply, etc. and submit bid documents accordingly."
+    },
+    {
+      "page": 8,
+      "text": "Note: 1. E-PBG for 5%, as indicated in bid document is towards security deposit and to be d eposited as per GeM provision. Security Deposit (E-PBG-5%) will be released after successfu l completion of supplies and acceptance of the material as per contractual terms and condition s. 2. For unsatisfactory performance and / or contractual failure, the security Deposit money shall be forfeited. GST at an applicable shall not be applicable on Security deposit forfeiture. 3. Additional PBG:- Applicable @10% of Contract Value (This is in addition to the Security Deposit to be submitted) 4. The BG will be submitted through Structured Financial Management System (SFMS). 5. The documents submitted with offer must be clear and bid specific, submission of forged docu ment, if any, by the bidder(s), shall be dealt as per extant guideline of GeM GTC and ATC. 6. No other mode of payment of EMD & SD will be acceptable other than mentioned in bid docu ment. EXEMPTION OF SECURITY DEPOSIT: 1. Submission of Security Deposit is exempted for the contracts having value upto Rs.5 lakhs. 2. All Central/State Government Organization/PSUs shall be exempted from submission of Security Deposit. 3. OEM/OES shall also be exempted from submission of Security Deposit in case of procurement o f Spare Parts for equipment against Single Tender Enquiry/Open/Limited Tenders. However, dealer s of the OEM / OES are not allowed the exemption. Note: No exemption from Security Deposit shall be allowed for Ancillaries of SECL/MSE/ Startups. Submission of Bills: Upon dispatch of the Goods to the consignee, the supplier shall notify the Ulti mate Consignee and deliver the following documents at the time of arrival of goods at consignee e nd: 1. GeM invoice for each line item of the contract and corresponding Supplier's Tax invoice fo r the same showing Contract Number, Goods description, quantity, unit price, total amount. 2. Local content certificate as per MII policy, duly certified by CA/statutory or cost auditor as applicable, as mentioned in commercial ATC clause (in case of contracts having value abov e 10 crores only). The certificate shall be for complete contract (irrespective of supplies to be done in single or multiple consignments) and date of certification shall be after the date of contract. NOTE: False certifications shall be dealt as per provisions of MII policy 3. Manufacturer's/Supplier's warranty/guarantee certificate. 4. Manufacturer’s Test & Inspection certificate (if applicable). 5. Lowest Price Certificate 6. Any other certificate/document as mentioned in the contract. In case of delay, the Supplier will be responsible for any consequent expenses. Each GeM invoice should have corresponding Tax Invoice. If GeM invoice is gen erated but not submitted in hard copy, same may be taken from the consignee login by the consignee. NOTE:- bidder has to submit Catlogue of the offered make and model a long with their offer. . 8. Buyer Added Bid Specific ATC"
+    },
+    {
+      "page": 9,
+      "text": "Buyer uploaded ATC document Click here to view the file. 9. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 10. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8146675",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10019112"
+    },
+    {
+      "field": "document_closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 11-11-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10019112"
+    },
+    {
+      "field": "document_opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 12-11-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10019112"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10019112"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Coal",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10019112"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Coal India Limited",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10019112"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: South Eastern Coalfields Limited",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10019112"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Secl Bilaspur Chhattisgarh",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10019112"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :gmmm.secl.cil@coalindia.in Buyer Email id: sommdpk.secl@coalindia.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10019112"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 5",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10019112"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Multi Gas Detector (V1) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10019112"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10019112"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10019112"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10019112"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10019112"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 1348650",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10019112"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 27000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10019112"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 27000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10019112"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10019112"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 4",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10019112"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 2,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and 2 / 10",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10019112"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Type: Portable /Handheld | Detactable Gases: Combustible Gas-Lower Explosive Limit(LEL), Oxygen(O2), Hydrosulfide(H2S), Carbon Monooxide(CO), Ammonia(NH3), Sulfur dioxide(SO2), Chlorine(CI2) | Area of use - Hazardous area classification: Intrinsically safe for use in hazardous area classification conforming to Class I, Division I, Group A, B, C & D or Zone - 0, Group-IIA, IIB & IIC | Measurment Range of Combustible gas(LEL): 0 -100 % | Resolution of the Combustible gas(LEL) measurement: 1 % | Measurment Range of Oxygen(O2) gas concentration: 0 -25 % | Resolution of the Oxygen(O2) measurement: 0.1 | Measurment Range of HYDROGEN SULFIDE (H2S) gas concentration: 0 -100 ppm | Resolution of the HYDROGEN SULFIDE (H2S) measurement: 1 ppm | Measurment Range of Selectable Gas(CO/NH3/SO2/Cl2/CH4/CO 2): 0 -500 ppm | Resolution of the Range of Selectable Gas(CO/NH3/SO2/Cl2/CH4/CO 2) measurement: 0.1 ppm | Sampling Pump: NA | Remote Sampling Accessories in the scope of Supply: NA | Power Source: Rechargeable Batteries;, Alkaline Batteries (Non- Rechargeable);, Mains (230 ± 10 Volts / 50 Hz AC) | Accessories in the scope of supply: Calibration cup/adaptor/calibration tubing to facilitate calibration locally, Operation Manual, Carrying case, NA | Warranty on Equipment: 24 Or higher (month)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10019112"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Warranty on Sensor: 24 Or higher (month)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10019112"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Tarun Kumar Pandey | 495452,Dipka Area SECL ,PO- Dipka, Dist-Korba, CHHATTISGARH-495452, India | 5 | 60",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10019112"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 3. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10019112"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "4. Warranty Warranty period of the supplied products shall be as given in specifications from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 5. Forms of EMD and PBG Bidders can also submit the EMD with Payment online through RTGS / internet banking in Beneficiary name SECL , DIPKA AREA Account No. 11061939731 IFSC Code SBIN0009343 Bank Name SBI GEVRA PROJECT SBIN0009343 Branch address KORBA. DISTRICT , CHATTISGARH – 495452 . Bidder to indicate bid number and name of bidding entity in the transaction details field at the time of on- line transfer. Bidder has to upload scanned copy / proof of the Online Payment Transfer along with bid. 6. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Payment online through RTGS / internet banking also (besides PBG which is allowed as per GeM GTC). On-line payment shall be in Beneficiary name SECL, DIPKA AREA Account No. 11061939731 IFSC Code SBIN0009343 Bank Name SBI GEVRA PROJECT SBIN0009343 Branch address KORBA DISTRICT . Successful Bidder to indicate Contract number and name of Seller entity in the transaction details field at the time of on-line transfer. Bidder has to upload scanned copy / proof of the Online Payment Transfer in place of PBG within 15 days of award of contract. 7. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Bidders should read the following uploaded additional terms and conditions (ATC) and accept while participating in tender/bid. (1) Technical details are as per specification document of bid. Technical Specifications submitted b y bidder along with offer in GeM Catalogues/ Technical Literature/ leaflets will be superseded by te chnical specifications provided in ATC document, which is uploaded under Buyer added Bid Specifi c ATC, in case of any contradiction. (2) Bidders should read the uploaded ATC for detailed technical specifications and parameters, inc luding document to be submitted along with the bid / offer, document to be submitted along with t he supply, etc. and submit bid documents accordingly.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10019112"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "Note: 1. E-PBG for 5%, as indicated in bid document is towards security deposit and to be d eposited as per GeM provision. Security Deposit (E-PBG-5%) will be released after successfu l completion of supplies and acceptance of the material as per contractual terms and condition s. 2. For unsatisfactory performance and / or contractual failure, the security Deposit money shall be forfeited. GST at an applicable shall not be applicable on Security deposit forfeiture. 3. Additional PBG:- Applicable @10% of Contract Value (This is in addition to the Security Deposit to be submitted) 4. The BG will be submitted through Structured Financial Management System (SFMS). 5. The documents submitted with offer must be clear and bid specific, submission of forged docu ment, if any, by the bidder(s), shall be dealt as per extant guideline of GeM GTC and ATC. 6. No other mode of payment of EMD & SD will be acceptable other than mentioned in bid docu ment. EXEMPTION OF SECURITY DEPOSIT: 1. Submission of Security Deposit is exempted for the contracts having value upto Rs.5 lakhs. 2. All Central/State Government Organization/PSUs shall be exempted from submission of Security Deposit. 3. OEM/OES shall also be exempted from submission of Security Deposit in case of procurement o f Spare Parts for equipment against Single Tender Enquiry/Open/Limited Tenders. However, dealer s of the OEM / OES are not allowed the exemption. Note: No exemption from Security Deposit shall be allowed for Ancillaries of SECL/MSE/ Startups. Submission of Bills: Upon dispatch of the Goods to the consignee, the supplier shall notify the Ulti mate Consignee and deliver the following documents at the time of arrival of goods at consignee e nd: 1. GeM invoice for each line item of the contract and corresponding Supplier's Tax invoice fo r the same showing Contract Number, Goods description, quantity, unit price, total amount. 2. Local content certificate as per MII policy, duly certified by CA/statutory or cost auditor as applicable, as mentioned in commercial ATC clause (in case of contracts having value abov e 10 crores only). The certificate shall be for complete contract (irrespective of supplies to be done in single or multiple consignments) and date of certification shall be after the date of contract. NOTE: False certifications shall be dealt as per provisions of MII policy 3. Manufacturer's/Supplier's warranty/guarantee certificate. 4. Manufacturer’s Test & Inspection certificate (if applicable). 5. Lowest Price Certificate 6. Any other certificate/document as mentioned in the contract. In case of delay, the Supplier will be responsible for any consequent expenses. Each GeM invoice should have corresponding Tax Invoice. If GeM invoice is gen erated but not submitted in hard copy, same may be taken from the consignee login by the consignee. NOTE:- bidder has to submit Catlogue of the offered make and model a long with their offer. . 8. Buyer Added Bid Specific ATC",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10019112"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "Buyer uploaded ATC document Click here to view the file. 9. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 10. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10019112"
+    }
+  ],
+  "detail_warning": "The original PDF dates differ from the current public GeM listing. The listing closing date is retained. Confirm the latest opening date and any corrigenda on GeM; the original PDF opening date is not presented as current.",
+  "document_closing_at": "2026-11-11T12:00:00+05:30",
+  "document_opening_at": "2026-11-12T12:00:00+05:30",
+  "date_discrepancy": {
+    "listing_closing_at": "2026-11-18T12:00:00+05:30",
+    "document_closing_at": "2026-11-11T12:00:00+05:30",
+    "document_opening_at": "2026-11-12T12:00:00+05:30"
+  }
 }

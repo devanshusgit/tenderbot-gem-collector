@@ -5,9 +5,9 @@
   "tender_id": "GEM/2026/R/761319",
   "title": "Digital Storage Oscilloscope",
   "description": "Digital Storage Oscilloscope",
-  "organisation": "Department of Defence Production",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Defence Production",
+  "organisation": "Bharat Dynamics Limited",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Defence Production",
   "portal_name": "GeM",
   "state": [],
   "city": [],
@@ -25,8 +25,18 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10099213"
+    },
+    {
+      "name": "GEM/2026/B/8017218",
+      "url": "https://bidplus.gem.gov.in/showbidDocument/9870623",
+      "page": 1
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261029",
+      "page": 1
     }
   ],
   "tags": [
@@ -34,5 +44,98 @@
   ],
   "source_fetched_at": "2026-10-31T13:45:42.852Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "ra_start_at": "2026-10-30T16:00:00+05:30",
+  "auto_extension": "If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+  "mse_exemption": "MSE Exemption for Years of Experience and Turnover: No",
+  "startup_exemption": "Startup Exemption for Years of Experience and Turnover: No",
+  "originating_bid_reference": "GEM/2026/B/8017218",
+  "source_document_fetched_at": "2026-11-16T17:18:31.448439+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "b335051256da27f88a95d67b0dbfa55042829c4b6062906c9bf7a709c7765dba",
+  "document_pages": 1,
+  "eligibility": [
+    "MSE Exemption for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Exemption for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [],
+  "technical_specifications": [],
+  "buyer_added_terms": [],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/761319",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10099213"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 1,
+      "quote": "Please refer to Bid document of GEM/2026/B/8017218",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10099213"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 30-10-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10099213"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 02-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10099213"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10099213"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Defence Production",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10099213"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Bharat Dynamics Limited",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10099213"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10099213"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Digital Storage Oscilloscope",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10099213"
+    },
+    {
+      "field": "auto_extension",
+      "page": 1,
+      "quote": "Auto Extension: If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10099213"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 1,
+      "quote": "MSE Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10099213"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 1,
+      "quote": "Startup Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10099213"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda."
 }

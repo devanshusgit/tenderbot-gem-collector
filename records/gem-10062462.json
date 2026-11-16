@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8184374",
   "title": "Entry and Mid Level Desktop Computer",
   "description": "Entry and Mid Level Desktop Computer",
-  "organisation": "Central Armed Police Forces",
-  "ministry": "Ministry of Home Affairs",
+  "organisation": "Central Industrial Security Force (cisf)",
+  "ministry": "Ministry Of Home Affairs",
   "department": "Central Armed Police Forces",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Entry and Mid Level Desktop Computer",
   "quantity": 10,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-14T11:16:44+05:30",
   "closing_at": "2026-11-30T12:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10062462"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/M3sSOxbeCgGevBO0xRcMVo5TVWCb6zKHld8NdWACcsA",
+      "page": 6
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261114",
+      "page": 12
     }
   ],
   "tags": [
@@ -34,5 +49,386 @@
   ],
   "source_fetched_at": "2026-11-15T21:55:13.082Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-01T12:00:00+05:30",
+  "office": "Cisf Hq 13 Block Cgo Complex Lodhi Road Delhi 03",
+  "buyer_email": "aps2gem@cisf.gov.in",
+  "emd_required": false,
+  "bidder_turnover_lakhs": 2.49,
+  "oem_turnover_lakhs": 12,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 4,
+  "epbg_duration_months": 24,
+  "offer_validity": "180 (Days)",
+  "estimated_bid_value": 498950,
+  "source_document_fetched_at": "2026-11-16T00:09:55.986865+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "c84501a17997e62f5abeaf5bcbc76846b0ada4eb10908887ffe9a991b7a93182",
+  "document_pages": 12,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 2.49 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 12 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 40 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 7,
+      "consignee": "R Vijaya Kumar",
+      "address": "600090,DIG SZ APS HQrs Chennai D Block 2nd Floor Rajaji Bhawan Besant Nagar ,Chennai-6000690",
+      "quantity": 10,
+      "quantity_label": "Quantity",
+      "delivery_days": 20
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": "PROCESSOR",
+          "parameter": "Description of Stores",
+          "value": "Desktop Computer with Table Mount Monitor System with Compatible Chipset as per Processor Make with Minimum 6 USB Port"
+        },
+        {
+          "group": "PROCESSOR",
+          "parameter": "Computer Type",
+          "value": "Mid Level"
+        },
+        {
+          "group": "PROCESSOR",
+          "parameter": "Processor Number",
+          "value": "AMD Ryzen 5 5600G, Intel Core i5 12400 Or higher"
+        },
+        {
+          "group": "MOTHERBOARD",
+          "parameter": "Expansion Slots (PCIe x 1)",
+          "value": "1, 2 Or higher"
+        },
+        {
+          "group": "MOTHERBOARD",
+          "parameter": "Expansion Slots (M Dot 2) for SSD",
+          "value": "1, 2 Or higher"
+        },
+        {
+          "group": "MOTHERBOARD",
+          "parameter": "Expansion Slots (M Dot 2) for WiFi",
+          "value": "1 Or higher"
+        },
+        {
+          "group": "GRAPHICS",
+          "parameter": "Graphics Type",
+          "value": "Integrated"
+        },
+        {
+          "group": "OPERATING SYSTEM",
+          "parameter": "Factory Pre-loaded Operating System by Desktop OEM",
+          "value": "Window 11 Professional"
+        },
+        {
+          "group": "MEMORY (RAM)",
+          "parameter": "RAM Size (Memory Card/Module) (in GB) (Capacity to be installed in the System)",
+          "value": "16, 32 Or higher"
+        },
+        {
+          "group": "MEMORY (RAM)",
+          "parameter": "Total Numbers of DIMM Slots Available",
+          "value": "2, 4 Or higher"
+        },
+        {
+          "group": "MEMORY (RAM)",
+          "parameter": "Number of DIMM Slots Populated with Memory Card/Module",
+          "value": "1, 2"
+        },
+        {
+          "group": "STORAGE",
+          "parameter": "Type of Storage Installed with the System",
+          "value": "NVMe-SSD Plus HDD@7200 RPM"
+        },
+        {
+          "group": "STORAGE",
+          "parameter": "SSD - Storage Capacity (in GB)",
+          "value": "512, 1024, 2048 Or higher"
+        },
+        {
+          "group": "STORAGE",
+          "parameter": "HDD - Storage Capacity (in GB)",
+          "value": "1000, 2000 Or higher"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "parameters": [
+        {
+          "group": "CABINET",
+          "parameter": "Cabinet Form Factor",
+          "value": "SMALL FORM FACTOR (7 to 13 Liters)"
+        },
+        {
+          "group": "CABINET",
+          "parameter": "Audio Interface Type",
+          "value": "Universal 3.5 mm Audio Jack (Support for Audio-in and Audio out), Audio-in, Audio-out"
+        },
+        {
+          "group": "PORTS",
+          "parameter": "Number of USB Type A Port (Version 3 point 2 Gen 1)",
+          "value": "3, 4, 5, 6 Or higher"
+        },
+        {
+          "group": "PORTS",
+          "parameter": "Number of USB Ports Type C",
+          "value": "0, 1, 2 Or higher"
+        },
+        {
+          "group": "PORTS",
+          "parameter": "Number of HDMI Ports",
+          "value": "1 Or higher"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Availibility of Monitor",
+          "value": "Yes as per IS 13252 (Part 1)"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Panel Type",
+          "value": "In Plane Switching (IPS)"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Screen Size (in CMs)",
+          "value": "58.1 - 63 (22.87\" - 24.8\")"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Maximum Resolution (Pixels)",
+          "value": "1920 x 1080 (Full HD)"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Monitor Port",
+          "value": "HDMI, VGA"
+        },
+        {
+          "group": "INPUT DEVICES",
+          "parameter": "Mouse Connectivity",
+          "value": "USB Wired, Wireless Or higher"
+        },
+        {
+          "group": "INPUT DEVICES",
+          "parameter": "Keyboard Connectivity",
+          "value": "USB Wired, Wireless Or higher"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "On Site OEM Warranty (in Year)",
+          "value": "3, 4, 5 Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 9,
+      "text": "1. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 2. Generic Malicious Code Certificate: The seller should upload following certificate in the bid:- (a) This is to certify that the Hardware and the Software being offered, as part of the contract, does not contain Embedded Malicious code that would activate procedures to :- (i) Inhibit the desires and designed function of the equipment. (ii) Cause physical damage to the user or equipment during the exploitation. (iii) Tap information resident or transient in the equipment/network. (b) The firm will be considered to be in breach of the procurement contract, in case physical damage, loss"
+    },
+    {
+      "page": 10,
+      "text": "of information or infringements related to copyright and Intellectual Property Right (IPRs) are caused due to activation of any such malicious code in embedded software. 3. Generic Non return of Hard Disk: As per Buyer organization’s Security Policy,Faulty Hard Disk of Servers/Desktop Computers/ Laptops etc. will not be returned back to the OEM/supplier against warranty replacement. 4. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 5. Warranty Timely Servicing / rectification of defects during warranty period: After having been notified of the defects / service requirement during warranty period, Seller has to complete the required Service / Rectification within 10 days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the Buyer. 6. Generic Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller. 7. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 8. Turnover Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. 9. Turnover OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of CATEGORY RELATED TO primary product having highest bid value should meet this criterion. 10. Rate Contract Non return of Hard Disk: As per Buyer organization’s Security Policy,Faulty Hard Disk of Servers/Desktop Computers/ Laptops etc. will not be returned back to the OEM/supplier against warranty replacement."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8184374",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10062462"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 30-11-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10062462"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 01-12-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10062462"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10062462"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Home Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10062462"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Central Armed Police Forces",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10062462"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Central Industrial Security Force (cisf)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10062462"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Cisf Hq 13 Block Cgo Complex Lodhi Road Delhi 03",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10062462"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :digtech@cisf.gov.in Buyer Email id: aps2gem@cisf.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10062462"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 10",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10062462"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Entry and Mid Level Desktop Computer (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10062462"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 2.49 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10062462"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 12 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10062462"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10062462"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10062462"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10062462"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10062462"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10062462"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 40 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10062462"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10062462"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 498950",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10062462"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 4.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10062462"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 24",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10062462"
+    },
+    {
+      "field": "emd_required",
+      "page": 3,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10062462"
+    },
+    {
+      "field": "emd_fee",
+      "page": 3,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10062462"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Description of Stores: Desktop Computer with Table Mount Monitor System with Compatible Chipset as per Processor Make with Minimum 6 USB Port | Computer Type: Mid Level | Processor Number: AMD Ryzen 5 5600G, Intel Core i5 12400 Or higher | Expansion Slots (PCIe x 1): 1, 2 Or higher | Expansion Slots (M Dot 2) for SSD: 1, 2 Or higher | Expansion Slots (M Dot 2) for WiFi: 1 Or higher | Graphics Type: Integrated | Factory Pre-loaded Operating System by Desktop OEM: Window 11 Professional | RAM Size (Memory Card/Module) (in GB) (Capacity to be installed in the System): 16, 32 Or higher | Total Numbers of DIMM Slots Available: 2, 4 Or higher | Number of DIMM Slots Populated with Memory Card/Module: 1, 2 | Type of Storage Installed with the System: NVMe-SSD Plus HDD@7200 RPM | SSD - Storage Capacity (in GB): 512, 1024, 2048 Or higher | HDD - Storage Capacity (in GB): 1000, 2000 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10062462"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 7,
+      "quote": "Cabinet Form Factor: SMALL FORM FACTOR (7 to 13 Liters) | Audio Interface Type: Universal 3.5 mm Audio Jack (Support for Audio-in and Audio out), Audio-in, Audio-out | Number of USB Type A Port (Version 3 point 2 Gen 1): 3, 4, 5, 6 Or higher | Number of USB Ports Type C: 0, 1, 2 Or higher | Number of HDMI Ports: 1 Or higher | Availibility of Monitor: Yes as per IS 13252 (Part 1) | Panel Type: In Plane Switching (IPS) | Screen Size (in CMs): 58.1 - 63 (22.87\" - 24.8\") | Maximum Resolution (Pixels): 1920 x 1080 (Full HD) | Monitor Port: HDMI, VGA | Mouse Connectivity: USB Wired, Wireless Or higher | Keyboard Connectivity: USB Wired, Wireless Or higher | On Site OEM Warranty (in Year): 3, 4, 5 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10062462"
+    },
+    {
+      "field": "consignees",
+      "page": 7,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | R Vijaya Kumar | 600090,DIG SZ APS HQrs Chennai D Block 2nd Floor Rajaji Bhawan Besant Nagar ,Chennai-6000690 | 10 | 20",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10062462"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "1. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 2. Generic Malicious Code Certificate: The seller should upload following certificate in the bid:- (a) This is to certify that the Hardware and the Software being offered, as part of the contract, does not contain Embedded Malicious code that would activate procedures to :- (i) Inhibit the desires and designed function of the equipment. (ii) Cause physical damage to the user or equipment during the exploitation. (iii) Tap information resident or transient in the equipment/network. (b) The firm will be considered to be in breach of the procurement contract, in case physical damage, loss",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10062462"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "of information or infringements related to copyright and Intellectual Property Right (IPRs) are caused due to activation of any such malicious code in embedded software. 3. Generic Non return of Hard Disk: As per Buyer organization’s Security Policy,Faulty Hard Disk of Servers/Desktop Computers/ Laptops etc. will not be returned back to the OEM/supplier against warranty replacement. 4. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 5. Warranty Timely Servicing / rectification of defects during warranty period: After having been notified of the defects / service requirement during warranty period, Seller has to complete the required Service / Rectification within 10 days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the Buyer. 6. Generic Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller. 7. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 8. Turnover Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. 9. Turnover OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of CATEGORY RELATED TO primary product having highest bid value should meet this criterion. 10. Rate Contract Non return of Hard Disk: As per Buyer organization’s Security Policy,Faulty Hard Disk of Servers/Desktop Computers/ Laptops etc. will not be returned back to the OEM/supplier against warranty replacement.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10062462"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

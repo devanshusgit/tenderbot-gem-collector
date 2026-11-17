@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8138331",
   "title": "Pumpset for Direct Evaporative Air Cooler Conforming to IS 11951",
   "description": "Pumpset for Direct Evaporative Air Cooler Conforming to IS 11951",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "Diesel Loco Modernisation Works",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Pumpset for Direct Evaporative Air Cooler Conforming to IS 11951",
   "quantity": 100,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-10-30T00:50:08+05:30",
   "closing_at": "2026-11-10T11:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10009374"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/07BckafVVfkIFrkac9ofViDzbgPsBeHQF4RMjjk6S5c",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261030",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +49,188 @@
   ],
   "source_fetched_at": "2026-11-02T15:12:35.494Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-11T11:00:00+05:30",
+  "office": "Diesel Loco Modernisation Works, Patiala",
+  "buyer_email": "vaishnav.0031@gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "120 (Days)",
+  "source_document_fetched_at": "2026-11-17T03:07:19.344097+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "3cf06f9da600caa436776224603397dbbad18002c351befba9983570c1519d00",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Varinder Kumar Gupta",
+      "address": "147003,AEE/RAC, Administrative block, Diesel Loco Modernisation Works",
+      "quantity": 100,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Construction",
+          "parameter": "Type of Pumpset",
+          "value": "Submersible Pump"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Material of Motor Housing (Casing)",
+          "value": "Acrylonitrile Butadiene Styrene (ABS) as per IS 17077 (Part 1)"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Material of Impeller Blades and Impeller Housing",
+          "value": "Polyoxymethylene (POM)"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Minimum Discharge (in litre/minute)",
+          "value": "7.0"
+        },
+        {
+          "group": "Warranty and Test Reports",
+          "parameter": "Minimum Standard Warranty",
+          "value": "1.0 (year)"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods"
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8138331",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10009374"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 10-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10009374"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 11-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10009374"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10009374"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10009374"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10009374"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Diesel Loco Modernisation Works",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10009374"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Diesel Loco Modernisation Works, Patiala",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10009374"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :cmm2@dmw.railnet.gov.in Buyer Email id: vaishnav.0031@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10009374"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 100",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10009374"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Pumpset for Direct Evaporative Air Cooler Conforming to IS 11951 (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10009374"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10009374"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10009374"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10009374"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10009374"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10009374"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Type of Pumpset: Submersible Pump | Material of Motor Housing (Casing): Acrylonitrile Butadiene Styrene (ABS) as per IS 17077 (Part 1) | Material of Impeller Blades and Impeller Housing: Polyoxymethylene (POM) | Minimum Discharge (in litre/minute): 7.0 | Minimum Standard Warranty: 1.0 (year)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10009374"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Varinder Kumar Gupta | 147003,AEE/RAC, Administrative block, Diesel Loco Modernisation Works | 100 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10009374"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10009374"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

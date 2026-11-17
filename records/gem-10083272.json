@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8202427",
   "title": "PDF Editing and Management Software",
   "description": "PDF Editing and Management Software",
-  "organisation": "NA",
-  "ministry": "Ministry of Petroleum and Natural Gas",
-  "department": "NA",
+  "organisation": "Oil And Natural Gas Corporation Limited",
+  "ministry": "Ministry Of Petroleum And Natural Gas",
+  "department": "Na",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "PDF Editing and Management Software",
   "quantity": 10,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-10-29T17:40:02+05:30",
   "closing_at": "2026-11-09T15:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10083272"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Q4GJSGownTiPOwuH6mKwa1Gt-r0Wd_vipCiKWCICpl8",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261029",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +49,267 @@
   ],
   "source_fetched_at": "2026-11-07T09:30:11.313Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-10T15:00:00+05:30",
+  "office": "Local Mm Delhi",
+  "buyer_email": "kumar_krishan@ongc.co.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Single Packet Bid",
+  "epbg_percentage": 3,
+  "epbg_duration_months": 3,
+  "offer_validity": "60 (Days)",
+  "source_document_fetched_at": "2026-11-17T03:29:10.740104+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "ff0956fba77a4cfc772ee7493f12ed9a80160f542029ba2b7af97b958240ecda",
+  "document_pages": 9,
+  "eligibility": [
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Krishan Kumar",
+      "address": "110070,ONGC Deendayal Urja Bhawan, 5, Nelson Mandela Marg, Vasant Kunj, New Delhi",
+      "quantity": 10,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Deployment",
+          "parameter": "Licence Mode",
+          "value": "1 Year Subscription"
+        },
+        {
+          "group": "Deployment",
+          "parameter": "Support available from OEM/Seller for Updation (Patches and Bug fixes) and Upgradation of version (in Years)",
+          "value": "1.0 Or higher"
+        },
+        {
+          "group": "Deployment",
+          "parameter": "Deployment Type",
+          "value": "Desktop Installed Software, Web Based Application, Hybrid (Desktop + Cloud)"
+        },
+        {
+          "group": "Editing",
+          "parameter": "PDF Editing Capabilities",
+          "value": "Edit Text in PDF, Edit Images in PDF, Add or Remove Watermark, Modify PDF Layout, Create PDF Portfolio, Fill Existing PDF Forms, Create Fillable PDF Forms"
+        },
+        {
+          "group": "Editing",
+          "parameter": "PDF Standards Supported",
+          "value": "PDF, PDF/A, PDF/X, PDF/UA, PDF/UA2, WCAG 2.1 or higher"
+        },
+        {
+          "group": "Editing",
+          "parameter": "PDF Page Management Features",
+          "value": "Delete Pages, Rotate Pages, Rearrange Pages, Merge Multiple PDFs, Split PDF Documents, Extract Pages, Bate Numbering/Page Indexing"
+        },
+        {
+          "group": "Editing",
+          "parameter": "Annotation and Review Features",
+          "value": "Comments and Notes, Highlight Text, Drawing Markup Tools"
+        },
+        {
+          "group": "Editing",
+          "parameter": "Generative AI Capability",
+          "value": "Yes, No"
+        },
+        {
+          "group": "Document",
+          "parameter": "PDF Creation Capabilities",
+          "value": "Convert Word to PDF, Convert Excel to PDF, Convert Power Point to PDF, Convert Image Formats to PDF"
+        },
+        {
+          "group": "Document",
+          "parameter": "PDF Conversion Capabilities",
+          "value": "Convert PDF to Microsoft Word (DOC / DOCX), Convert PDF to Microsoft Excel (XLS / XLSX), Convert PDF to Microsoft PowerPoint (PPT / PPTX), Convert PDF to JPEG (Joint Photographic Experts Group), Convert PDF to Open Document Text (ODT), Convert PDF to Open Document Spreadsheet (ODS), Convert PDF to Open Document Presentation (ODP), Convert PDF to PNG (Portable Network Graphics), Convert PDF to TIFF (Tagged Image File Format), Convert PDF to BMP (Bitmap Image File), Convert PDF to Plain Text (TXT), Convert PDF to Rich Text Format (RTF)"
+        },
+        {
+          "group": "Document",
+          "parameter": "Accessibility Support",
+          "value": "Yes, No"
+        },
+        {
+          "group": "Processing",
+          "parameter": "OCR Capability",
+          "value": "OCR for Scanned PDFs, OCR for Image Based Documents"
+        },
+        {
+          "group": "Processing",
+          "parameter": "Security and Protection Features",
+          "value": "Password Protection, Permission Restriction for Editing or Copying, Digital Signature Support, Document Redaction, AES 256 Encryption, Offline Secure Document Handling"
+        },
+        {
+          "group": "Processing",
+          "parameter": "Additional Features",
+          "value": "PDF Comparison, Batch PDF Processing, Licence Management Support, Centralised Management Via Web Based Admin Console, Policy Based Feature Control, Remote Deployment & Updates"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic Without prejudice to Buyer’s right to price adjustment by way of discount or any other right or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a written notice to the Seller, if: i) The Seller fails to comply with any material term of the Contract. ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within the stipulated Delivery Period or such inability otherwise becomes apparent. iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery Period and/or to replace/rectify any rejected or defective Material(s) promptly. iv) The Seller becomes bankrupt or goes into liquidation. v) The Seller makes a general assignment for the benefit of creditors. vi) A receiver is appointed for any substantial property owned by the Seller. vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has placed the Purchase Order on the Seller. 2. Generic While generating invoice in GeM portal, the seller must upload scanned copy of GST invoice and the screenshot of GST portal confirming payment of GST. 3. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 4. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %."
+    },
+    {
+      "page": 6,
+      "text": "5. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 6. Generic Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of technical parameters, the bid is liable for rejection. 7. Generic Malicious Code Certificate: The seller should upload following certificate in the bid:- (a) This is to certify that the Hardware and the Software being offered, as part of the contract, does not contain Embedded Malicious code that would activate procedures to :- (i) Inhibit the desires and designed function of the equipment. (ii) Cause physical damage to the user or equipment during the exploitation. (iii) Tap information resident or transient in the equipment/network. (b) The firm will be considered to be in breach of the procurement contract, in case physical damage, loss of information or infringements related to copyright and Intellectual Property Right (IPRs) are caused due to activation of any such malicious code in embedded software. 8. Generic 1. The Seller shall not assign the Contract in whole or part without obtaining the prior written consent of buyer. 2. The Seller shall not sub-contract the Contract in whole or part to any entity without obtaining the prior written consent of buyer. 3. The Seller shall, notwithstanding the consent and assignment/sub-contract, remain jointly and severally liable and responsible to buyer together with the assignee/ sub-contractor, for and in respect of the due performance of the Contract and the Sellers obligations there under. 9. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 10. Purchase Preference (Centre) Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to avail the Purchase preference, the bidder must be the manufacturer of the offered product in case of bid for supply of goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of 25% of total value. 11. Service & Support"
+    },
+    {
+      "page": 7,
+      "text": "Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 12. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 13. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Modes of submission of Performance Security : Performance Security can be obtained from bidders in any one of the following modes: a) NEFT/RTGS/Electronic fund transfer to designated account of ONGC as mentioned in tender document. ( The account details will be shared with successful bidder). b) Electronic Bank Guarantee (e-BG) (as per prescribed proforma) from banks acceptable to ONGC, valid fo r 45 days beyond the required validity of bid. c) SFMS Bank Guarantee(SFMS BG) (as per prescribed proforma) from banks acceptable to ONGC, valid for 45 days beyond the required validity of bid: d) The default/Preferable mode of submission of Bid Security/Security Deposit will be NEFT/RTGS/Electroni c fund transfer or e-BG, however, whenever a bidder submits SFMS BG towards Bid Security, the bidder will mandatorily be required to submit letter from issuing bank that it is unable to issue NeSL based e-BG as on date. Such letter should accompany the SFMS BG. The validity of PBG shall be obtained for 60 days beyond delivery period/completion period. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8202427",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10083272"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 09-11-2026 15:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10083272"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 10-11-2026 15:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10083272"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 60 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10083272"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Petroleum And Natural Gas",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10083272"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Na",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10083272"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Oil And Natural Gas Corporation Limited",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10083272"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Local Mm Delhi",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10083272"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :v_vaghela@ongc.co.in Buyer Email id: kumar_krishan@ongc.co.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10083272"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 10",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10083272"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: PDF Editing and Management Software (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10083272"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10083272"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10083272"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10083272"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 3.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10083272"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 3",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10083272"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10083272"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10083272"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Licence Mode: 1 Year Subscription | Support available from OEM/Seller for Updation (Patches and Bug fixes) and Upgradation of version (in Years): 1.0 Or higher | Deployment Type: Desktop Installed Software, Web Based Application, Hybrid (Desktop + Cloud) | PDF Editing Capabilities: Edit Text in PDF, Edit Images in PDF, Add or Remove Watermark, Modify PDF Layout, Create PDF Portfolio, Fill Existing PDF Forms, Create Fillable PDF Forms | PDF Standards Supported: PDF, PDF/A, PDF/X, PDF/UA, PDF/UA2, WCAG 2.1 or higher | PDF Page Management Features: Delete Pages, Rotate Pages, Rearrange Pages, Merge Multiple PDFs, Split PDF Documents, Extract Pages, Bate Numbering/Page Indexing | Annotation and Review Features: Comments and Notes, Highlight Text, Drawing Markup Tools | Generative AI Capability: Yes, No | PDF Creation Capabilities: Convert Word to PDF, Convert Excel to PDF, Convert Power Point to PDF, Convert Image Formats to PDF | PDF Conversion Capabilities: Convert PDF to Microsoft Word (DOC / DOCX), Convert PDF to Microsoft Excel (XLS / XLSX), Convert PDF to Microsoft PowerPoint (PPT / PPTX), Convert PDF to JPEG (Joint Photographic Experts Group), Convert PDF to Open Document Text (ODT), Convert PDF to Open Document Spreadsheet (ODS), Convert PDF to Open Document Presentation (ODP), Convert PDF to PNG (Portable Network Graphics), Convert PDF to TIFF (Tagged Image File Format), Convert PDF to BMP (Bitmap Image File), Convert PDF to Plain Text (TXT), Convert PDF to Rich Text Format (RTF) | Accessibility Support: Yes, No | OCR Capability: OCR for Scanned PDFs, OCR for Image Based Documents | Security and Protection Features: Password Protection, Permission Restriction for Editing or Copying, Digital Signature Support, Document Redaction, AES 256 Encryption, Offline Secure Document Handling | Additional Features: PDF Comparison, Batch PDF Processing, Licence Management Support, Centralised Management Via Web Based Admin Console, Policy Based Feature Control, Remote Deployment & Updates",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10083272"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Krishan Kumar | 110070,ONGC Deendayal Urja Bhawan, 5, Nelson Mandela Marg, Vasant Kunj, New Delhi | 10 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10083272"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic Without prejudice to Buyer’s right to price adjustment by way of discount or any other right or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a written notice to the Seller, if: i) The Seller fails to comply with any material term of the Contract. ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within the stipulated Delivery Period or such inability otherwise becomes apparent. iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery Period and/or to replace/rectify any rejected or defective Material(s) promptly. iv) The Seller becomes bankrupt or goes into liquidation. v) The Seller makes a general assignment for the benefit of creditors. vi) A receiver is appointed for any substantial property owned by the Seller. vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has placed the Purchase Order on the Seller. 2. Generic While generating invoice in GeM portal, the seller must upload scanned copy of GST invoice and the screenshot of GST portal confirming payment of GST. 3. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 4. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10083272"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "5. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 6. Generic Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of technical parameters, the bid is liable for rejection. 7. Generic Malicious Code Certificate: The seller should upload following certificate in the bid:- (a) This is to certify that the Hardware and the Software being offered, as part of the contract, does not contain Embedded Malicious code that would activate procedures to :- (i) Inhibit the desires and designed function of the equipment. (ii) Cause physical damage to the user or equipment during the exploitation. (iii) Tap information resident or transient in the equipment/network. (b) The firm will be considered to be in breach of the procurement contract, in case physical damage, loss of information or infringements related to copyright and Intellectual Property Right (IPRs) are caused due to activation of any such malicious code in embedded software. 8. Generic 1. The Seller shall not assign the Contract in whole or part without obtaining the prior written consent of buyer. 2. The Seller shall not sub-contract the Contract in whole or part to any entity without obtaining the prior written consent of buyer. 3. The Seller shall, notwithstanding the consent and assignment/sub-contract, remain jointly and severally liable and responsible to buyer together with the assignee/ sub-contractor, for and in respect of the due performance of the Contract and the Sellers obligations there under. 9. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 10. Purchase Preference (Centre) Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to avail the Purchase preference, the bidder must be the manufacturer of the offered product in case of bid for supply of goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of 25% of total value. 11. Service & Support",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10083272"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 12. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 13. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Modes of submission of Performance Security : Performance Security can be obtained from bidders in any one of the following modes: a) NEFT/RTGS/Electronic fund transfer to designated account of ONGC as mentioned in tender document. ( The account details will be shared with successful bidder). b) Electronic Bank Guarantee (e-BG) (as per prescribed proforma) from banks acceptable to ONGC, valid fo r 45 days beyond the required validity of bid. c) SFMS Bank Guarantee(SFMS BG) (as per prescribed proforma) from banks acceptable to ONGC, valid for 45 days beyond the required validity of bid: d) The default/Preferable mode of submission of Bid Security/Security Deposit will be NEFT/RTGS/Electroni c fund transfer or e-BG, however, whenever a bidder submits SFMS BG towards Bid Security, the bidder will mandatorily be required to submit letter from issuing bank that it is unable to issue NeSL based e-BG as on date. Such letter should accompany the SFMS BG. The validity of PBG shall be obtained for 60 days beyond delivery period/completion period. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10083272"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

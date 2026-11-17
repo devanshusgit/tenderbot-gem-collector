@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8192154",
   "title": "Dark Fiber Lease Service - Point to Point Based - Dry Lease; Single Mode; Intracity; 1; Aerial; NA;",
   "description": "Dark Fiber Lease Service - Point to Point Based - Dry Lease; Single Mode; Intracity; 1; Aerial; NA; NA,Dark Fiber Lease Service - Point to Point Based - Dry Lease; Single Mode; Intracity; 1; Aerial; NA; NA,Dark Fiber Lease Service - Point to Point Based - Dry Lease; Single Mode; Intracity; 1; Aerial; NA; NA,Dark Fiber Lease Service - Point to Point Based - Dry Lease; Single Mode; Intracity; 1; Aerial; NA; NA",
-  "organisation": "POWER GRID Corporation OF INDIA Limited",
-  "ministry": "Ministry of Power",
-  "department": "POWER GRID Corporation OF INDIA Limited",
+  "organisation": "Powergrid Teleservices Limited",
+  "ministry": "Ministry Of Power",
+  "department": "Power Grid Corporation Of India Limited",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Dark Fiber Lease Service - Point to Point Based - Dry Lease; Single Mode; Intracity; 1; Aerial; NA;",
   "quantity": 2,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-10-29T15:00:41+05:30",
   "closing_at": "2026-11-09T15:00:00+05:30",
   "status": "active",
@@ -27,6 +27,31 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10071285"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8192154/CLM0010/ITB_new_572323a9-4b27-4446-b85c1792738036765_Telecom.CC.buyer1.pdf",
+      "page": 6
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8192154/CLM0014/ATCSLA_new_3fa23749-8b63-45a9-9f341792738055062_Telecom.CC.buyer1.pdf",
+      "page": 6
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261029",
+      "page": 8
+    },
+    {
+      "name": "Service Level Agreement",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/bidsla/101430781551225",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +59,294 @@
   ],
   "source_fetched_at": "2026-11-08T12:53:17.386Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-10T15:00:00+05:30",
+  "office": "New Delhi",
+  "buyer_email": "archana@powergrid.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "180 (Days)",
+  "estimated_bid_value": 1115100,
+  "contract_period": "3 Year(s)",
+  "source_document_fetched_at": "2026-11-17T04:00:20.691847+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "0e206a67b411717c6a7894d20726fbf2aa8659f7c9bace14efe23db207f3120b",
+  "document_pages": 8,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Rohit Singh",
+      "address": "226002,Power Grid Corporation of India Ltd. 2A/INS 02, Awadh Vihar Yojna, Amar Shaheed Path, Lucknow-226002",
+      "quantity": 1,
+      "quantity_label": "Quantity to be set as \"1\"",
+      "delivery_days": null,
+      "additional_requirements": "Number of months of Lease : 36"
+    },
+    {
+      "page": 6,
+      "consignee": "Rohit Singh",
+      "address": "226002,Power Grid Corporation of India Ltd. 2A/INS 02, Awadh Vihar Yojna, Amar Shaheed Path, Lucknow-226002",
+      "quantity": 1,
+      "quantity_label": "Quantity to be set as \"1\"",
+      "delivery_days": null,
+      "additional_requirements": "Number of months of Lease : 36"
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Type Of Lease",
+          "value": "Dry Lease"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type Of Optical Fiber Cable",
+          "value": "Single Mode"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type of Route",
+          "value": "Intracity"
+        },
+        {
+          "group": "Core",
+          "parameter": "Count Of Pairs",
+          "value": "1"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type Of Cable Laying",
+          "value": "Aerial"
+        },
+        {
+          "group": "Core",
+          "parameter": "Speed required (In MBPS)",
+          "value": "NA"
+        },
+        {
+          "group": "Core",
+          "parameter": "Maximum Transmission Unit (MTU)",
+          "value": "NA"
+        },
+        {
+          "group": "Additional Details",
+          "parameter": "Name/Address Of Origin Location",
+          "value": "220 KV UPPTCL Sub Station Saifai Repeater (Lat Long 26.975056, 78.983520) - Main Path"
+        },
+        {
+          "group": "Additional Details",
+          "parameter": "Name/Address Of Destination Location",
+          "value": "RIOMS Saifai (26.961766, 78.960692) - Main Path"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Type Of Lease",
+          "value": "Dry Lease"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type Of Optical Fiber Cable",
+          "value": "Single Mode"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type of Route",
+          "value": "Intracity"
+        },
+        {
+          "group": "Core",
+          "parameter": "Count Of Pairs",
+          "value": "1"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type Of Cable Laying",
+          "value": "Aerial"
+        },
+        {
+          "group": "Core",
+          "parameter": "Speed required (In MBPS)",
+          "value": "NA"
+        },
+        {
+          "group": "Core",
+          "parameter": "Maximum Transmission Unit (MTU)",
+          "value": "NA"
+        },
+        {
+          "group": "Additional Details",
+          "parameter": "Name/Address Of Origin Location",
+          "value": "220 KV UPPTCL Sub Station Saifai Repeater (Lat Long 26.975056, 78.983520) - Protection Path"
+        },
+        {
+          "group": "Additional Details",
+          "parameter": "Name/Address Of Destination Location",
+          "value": "RIOMS Saifai (26.961766, 78.960692) - Protection Path"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Details of links are given below - Link N Link Details End-A Link Details End-B Type of OF Period (Y o. C (OH/UG) r) 1. 220 KV UPPTCL Sub Station Saifai RIOMS Saifai (26.961766, 78. OHOFC 3 Repeater (Lat Long 26.975056, 7 960692) - Main Path 8.983520) - Main Path 2. 220 KV UPPTCL Sub Station Saifai RIOMS Saifai (26.961766, 78. OHOFC 3 Repeater (Lat Long 26.975056, 7 960692) - Protection Path 8.983520) - Protection Path *Note: Please ensure that no common path in main & protection path. 2. Buyer Added text-based ATC clauses Amended SLA is attached as Buyer added Bid Specific SLA. 3. Instruction to Bidder (ITB) is attached as Buyer added Bid specific ATC. 4. Common IP Addresses: Bidders may please note that GeM is capturing and showing the IP addresses us ed by the Buyer and the Bidder(s) /Seller(s). The received bids having matching/common IP address with ei ther Bidder(s)/ Seller(s) or Buyer, shall be outrightly rejected & shall not be considered for further evaluati on. . 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 3. Buyer Added Bid Specific SLA File Attachment Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8192154",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10071285"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 09-11-2026 15:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10071285"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 10-11-2026 15:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10071285"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10071285"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Power",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10071285"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Power Grid Corporation Of India Limited",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10071285"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Powergrid Teleservices Limited",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10071285"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: New Delhi",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10071285"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :buyer27.pgcil.delhi@gembuyer.in Buyer Email id: archana@powergrid.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10071285"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Dark Fiber Lease Service - Point to Point Based - Dry Lease; Single Mode; Intracity; 1; Aerial; NA; NA",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10071285"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 3 Year(s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10071285"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10071285"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10071285"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10071285"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "(( )) / Estimated Bid Value in INR (Inclusive of all taxes): 1115100",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10071285"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10071285"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10071285"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Type Of Lease: Dry Lease | Type Of Optical Fiber Cable: Single Mode | Type of Route: Intracity | Count Of Pairs: 1 | Type Of Cable Laying: Aerial | Speed required (In MBPS): NA | Maximum Transmission Unit (MTU): NA | Name/Address Of Origin Location: 220 KV UPPTCL Sub Station Saifai Repeater (Lat Long 26.975056, 78.983520) - Main Path | Name/Address Of Destination Location: RIOMS Saifai (26.961766, 78.960692) - Main Path",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10071285"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity to be set as \"1\" | Additional Requirement: 1 | Rohit Singh | 226002,Power Grid Corporation of India Ltd. 2A/INS 02, Awadh Vihar Yojna, Amar Shaheed Path, Lucknow-226002 | 1 | Number of months of Lease : 36",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10071285"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Type Of Lease: Dry Lease | Type Of Optical Fiber Cable: Single Mode | Type of Route: Intracity | Count Of Pairs: 1 | Type Of Cable Laying: Aerial | Speed required (In MBPS): NA | Maximum Transmission Unit (MTU): NA | Name/Address Of Origin Location: 220 KV UPPTCL Sub Station Saifai Repeater (Lat Long 26.975056, 78.983520) - Protection Path | Name/Address Of Destination Location: RIOMS Saifai (26.961766, 78.960692) - Protection Path",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10071285"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity to be set as \"1\" | Additional Requirement: 1 | Rohit Singh | 226002,Power Grid Corporation of India Ltd. 2A/INS 02, Awadh Vihar Yojna, Amar Shaheed Path, Lucknow-226002 | 1 | Number of months of Lease : 36",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10071285"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Details of links are given below - Link N Link Details End-A Link Details End-B Type of OF Period (Y o. C (OH/UG) r) 1. 220 KV UPPTCL Sub Station Saifai RIOMS Saifai (26.961766, 78. OHOFC 3 Repeater (Lat Long 26.975056, 7 960692) - Main Path 8.983520) - Main Path 2. 220 KV UPPTCL Sub Station Saifai RIOMS Saifai (26.961766, 78. OHOFC 3 Repeater (Lat Long 26.975056, 7 960692) - Protection Path 8.983520) - Protection Path *Note: Please ensure that no common path in main & protection path. 2. Buyer Added text-based ATC clauses Amended SLA is attached as Buyer added Bid Specific SLA. 3. Instruction to Bidder (ITB) is attached as Buyer added Bid specific ATC. 4. Common IP Addresses: Bidders may please note that GeM is capturing and showing the IP addresses us ed by the Buyer and the Bidder(s) /Seller(s). The received bids having matching/common IP address with ei ther Bidder(s)/ Seller(s) or Buyer, shall be outrightly rejected & shall not be considered for further evaluati on. . 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 3. Buyer Added Bid Specific SLA File Attachment Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10071285"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 2",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

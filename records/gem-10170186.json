@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8277754",
   "title": "BiPAP Machine (V2)",
   "description": "BiPAP Machine (V2)",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "North Western Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "BiPAP Machine (V2)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-16T13:28:02+05:30",
   "closing_at": "2026-11-24T11:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10170186"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/aIEhqeVi0jceZf-YAyVnIxOBtGa5rF76kpInbl_ADFY",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261116",
+      "page": 10
     }
   ],
   "tags": [
@@ -34,5 +49,446 @@
   ],
   "source_fetched_at": "2026-11-16T20:36:40.068Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-25T11:00:00+05:30",
+  "office": "North Western Railway",
+  "buyer_email": "admm@bkn.railnet.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "90 (Days)",
+  "source_document_fetched_at": "2026-11-17T01:47:34.572960+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "be425633e5e19ac7370a52a1b1075d73ca265f10d533a7f838ab1e51804224c8",
+  "document_pages": 10,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 20 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Asim Kumar",
+      "address": "334004,DIVISIONAL RAILWAY HOSPITAL, NEAR BABU LAL PHATAK, LALGARH BIKANER",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 45
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Airflow generator pressure(IPAP pressure)",
+          "value": "4 to 30 cm of H2O or more"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Airflow generator pressure(EPAP pressure)",
+          "value": "4 to 20 cm of H2O or more"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Mode of operation",
+          "value": "Automatic"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Modes available",
+          "value": "Spontaneous, Timed, Spontaneous with time, Manual CPAP"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Range of Back up respiratory rate(in BPM)",
+          "value": "5 to 30 or more"
+        },
+        {
+          "group": null,
+          "parameter": "Sensitivity settings",
+          "value": "Appropriate triggering and cycling setting available for better patient synchronization"
+        },
+        {
+          "group": null,
+          "parameter": "Range of Minimum Respiration time(sec)",
+          "value": "0.1 to 0.3"
+        },
+        {
+          "group": null,
+          "parameter": "Maximum Respiration Time(sec)",
+          "value": "0.3 to 3.00"
+        },
+        {
+          "group": null,
+          "parameter": "Range of Rise Time(in ms)",
+          "value": "150 to 600 or More"
+        },
+        {
+          "group": null,
+          "parameter": "Humidifier provided",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Inspiration trigger for auto start",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Provision of Auto stop option when put-off mask",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Provision of Inspiratory and expiratory trigger sensitivity adjustment",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Provision of Inspiratory and expiratory slope adjustment provided",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Alarms available",
+          "value": "Apnea"
+        },
+        {
+          "group": null,
+          "parameter": "Unit should be compatible for OSA / Obesity hypo ventilation therapy",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Heated tube for flexibility and patient comfort provided",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Leakage compensation",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Humidification",
+          "value": "Integrated DC humidifier or equivalent with anti counter current water trap"
+        },
+        {
+          "group": null,
+          "parameter": "Memory Storage",
+          "value": "Embedded memory storage for full raw data and facility for longer storage"
+        },
+        {
+          "group": null,
+          "parameter": "Ramp Setting for BiPAP pressure",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "The range of RAMP (in minutes)",
+          "value": "0 to 45 or more"
+        },
+        {
+          "group": null,
+          "parameter": "Mask size check feature",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Type of display",
+          "value": "LCD"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Reusable Mask",
+          "value": "1 Small, 1 Medium, 1 Large, NA for Disposable"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Disposable Mask",
+          "value": "NA for Reusable"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Tube",
+          "value": "Standard"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Filter",
+          "value": "Pack of 10"
+        },
+        {
+          "group": "ELECTRICAL REQUIREMENTS",
+          "parameter": "Power Supply",
+          "value": "220-240V, 50Hz"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Battery provided",
+          "value": "Inbulit"
+        },
+        {
+          "group": null,
+          "parameter": "Minimum Battery backup time(Hrs)",
+          "value": ">=2, NA"
+        },
+        {
+          "group": "CERTIFICATIONS & REPORTS",
+          "parameter": "Compliance to Medical Device Rule (MDR) 2017 as amended till date",
+          "value": "Yes"
+        },
+        {
+          "group": "CERTIFICATIONS & REPORTS",
+          "parameter": "Availability of valid medical device license for the product issued from the competent authority defined under Drugs and Cosmetic Act 1940 and Rules made there under as amended till date",
+          "value": "Yes"
+        },
+        {
+          "group": "CERTIFICATIONS & REPORTS",
+          "parameter": "Manufacturing unit certification",
+          "value": "ISO:13485 (Latest)"
+        },
+        {
+          "group": "CERTIFICATIONS & REPORTS",
+          "parameter": "Conformity to safety Standards",
+          "value": "IEC-60601-1-2 or equivalent BIS standard"
+        },
+        {
+          "group": "CERTIFICATIONS & REPORTS",
+          "parameter": "Availability of Test Report for each supplied batch/product as per Medical Device Rules (MDR) 2017 as amended till date",
+          "value": "Yes"
+        },
+        {
+          "group": "CERTIFICATIONS & REPORTS",
+          "parameter": "Submission of all necessary certifications, licenses and test reports to the buyer at the time of bid submission and/or along with supplies as per buyer requirement",
+          "value": "Yes"
+        },
+        {
+          "group": "MISCELLANEOUS REQUIREMENTS",
+          "parameter": "OEM/Reseller shall ensure uninterrupted availability of all spares for 10 years",
+          "value": "Yes"
+        },
+        {
+          "group": "MISCELLANEOUS REQUIREMENTS",
+          "parameter": "Availability of toll free facility for technical support maintened by OEM or authorized agencies",
+          "value": "Yes"
+        },
+        {
+          "group": "MISCELLANEOUS REQUIREMENTS",
+          "parameter": "Details of equipments and procedures required for local calibration and routine maintenance to be supplied and advanced maintenance task documentation also to be furnished",
+          "value": "Yes"
+        },
+        {
+          "group": "MISCELLANEOUS REQUIREMENTS",
+          "parameter": "List of important spares and accessories, with their part numbers to be supplied to the buyer at the time of supplying the equipment",
+          "value": "Yes"
+        },
+        {
+          "group": "MISCELLANEOUS REQUIREMENTS",
+          "parameter": "Installation and Demonstration of equipment and training to be provided after completing supplies before acceptance",
+          "value": "Yes"
+        },
+        {
+          "group": "MISCELLANEOUS REQUIREMENTS",
+          "parameter": "Calibration certificates as per NABH/JCI requirement",
+          "value": "Yes"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Time to attend breakdown calls",
+          "value": "within 48 hrs"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "Warranty (Years)",
+          "value": "5"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 7,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the"
+    },
+    {
+      "page": 8,
+      "text": "additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): NA Post Receipt Inspection at consignee site before acceptance of stores: Consignee 3. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 4. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Firm to attach authorization from OEM, otherwise offer will be rejected summarily. 2. Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 3. For past performance firm should attach proof of supply signed by either purchaser, consignee, inspect or nominated by purchaser (should not be firm representative). For this purpose receipt note, inspection c ertificate, CRAC, receipted challan, work completion certificate etc should be attached. Proof of supply sho uld clearly indicate quantity supplied and date of supply. Only copy of PO, self signed tax invoice, self mad e performance statement does not establish that supply has been completed. 4. Only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD/ tu rnover / experience. Traders/ Resellers will not get any exemption. 5. The past performance of last three FY and current FY will be accepted. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8277754",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170186"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 24-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170186"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 25-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170186"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170186"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170186"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170186"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: North Western Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170186"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: North Western Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170186"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :cio@nwr.railnet.gov.in Buyer Email id: admm@bkn.railnet.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170186"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170186"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: BiPAP Machine (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170186"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170186"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170186"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170186"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 20 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170186"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170186"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170186"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170186"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Airflow generator pressure(IPAP pressure): 4 to 30 cm of H2O or more | Airflow generator pressure(EPAP pressure): 4 to 20 cm of H2O or more | Mode of operation: Automatic | Modes available: Spontaneous, Timed, Spontaneous with time, Manual CPAP",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170186"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Range of Back up respiratory rate(in BPM): 5 to 30 or more | Sensitivity settings: Appropriate triggering and cycling setting available for better patient synchronization | Range of Minimum Respiration time(sec): 0.1 to 0.3 | Maximum Respiration Time(sec): 0.3 to 3.00 | Range of Rise Time(in ms): 150 to 600 or More | Humidifier provided: Yes | Inspiration trigger for auto start: Yes | Provision of Auto stop option when put-off mask: Yes | Provision of Inspiratory and expiratory trigger sensitivity adjustment: Yes | Provision of Inspiratory and expiratory slope adjustment provided: Yes | Alarms available: Apnea | Unit should be compatible for OSA / Obesity hypo ventilation therapy: Yes | Heated tube for flexibility and patient comfort provided: Yes | Leakage compensation: Yes | Humidification: Integrated DC humidifier or equivalent with anti counter current water trap | Memory Storage: Embedded memory storage for full raw data and facility for longer storage | Ramp Setting for BiPAP pressure: Yes | The range of RAMP (in minutes): 0 to 45 or more | Mask size check feature: Yes | Type of display: LCD | Reusable Mask: 1 Small, 1 Medium, 1 Large, NA for Disposable | Disposable Mask: NA for Reusable | Tube: Standard | Filter: Pack of 10 | Power Supply: 220-240V, 50Hz",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170186"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Battery provided: Inbulit | Minimum Battery backup time(Hrs): >=2, NA | Compliance to Medical Device Rule (MDR) 2017 as amended till date: Yes | Availability of valid medical device license for the product issued from the competent authority defined under Drugs and Cosmetic Act 1940 and Rules made there under as amended till date: Yes | Manufacturing unit certification: ISO:13485 (Latest) | Conformity to safety Standards: IEC-60601-1-2 or equivalent BIS standard | Availability of Test Report for each supplied batch/product as per Medical Device Rules (MDR) 2017 as amended till date: Yes | Submission of all necessary certifications, licenses and test reports to the buyer at the time of bid submission and/or along with supplies as per buyer requirement: Yes | OEM/Reseller shall ensure uninterrupted availability of all spares for 10 years: Yes | Availability of toll free facility for technical support maintened by OEM or authorized agencies: Yes | Details of equipments and procedures required for local calibration and routine maintenance to be supplied and advanced maintenance task documentation also to be furnished: Yes | List of important spares and accessories, with their part numbers to be supplied to the buyer at the time of supplying the equipment: Yes | Installation and Demonstration of equipment and training to be provided after completing supplies before acceptance: Yes | Calibration certificates as per NABH/JCI requirement: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170186"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Time to attend breakdown calls: within 48 hrs | Warranty (Years): 5",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170186"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Asim Kumar | 334004,DIVISIONAL RAILWAY HOSPITAL, NEAR BABU LAL PHATAK, LALGARH BIKANER | 1 | 45",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170186"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170186"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): NA Post Receipt Inspection at consignee site before acceptance of stores: Consignee 3. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 4. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Firm to attach authorization from OEM, otherwise offer will be rejected summarily. 2. Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 3. For past performance firm should attach proof of supply signed by either purchaser, consignee, inspect or nominated by purchaser (should not be firm representative). For this purpose receipt note, inspection c ertificate, CRAC, receipted challan, work completion certificate etc should be attached. Proof of supply sho uld clearly indicate quantity supplied and date of supply. Only copy of PO, self signed tax invoice, self mad e performance statement does not establish that supply has been completed. 4. Only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD/ tu rnover / experience. Traders/ Resellers will not get any exemption. 5. The past performance of last three FY and current FY will be accepted. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170186"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

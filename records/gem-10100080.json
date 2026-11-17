@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8217017",
   "title": "Tours and Travel Service - Stay; Not Applicable; National",
   "description": "Tours and Travel Service - Stay; Not Applicable; National",
-  "organisation": "Labour Department Uttar Pradesh",
-  "ministry": "",
+  "organisation": "Job Portal Uttar Pradesh",
+  "ministry": "Uttar Pradesh",
   "department": "Labour Department Uttar Pradesh",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Tours and Travel Service - Stay; Not Applicable; National",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-10-29T16:28:25+05:30",
   "closing_at": "2026-11-09T17:00:00+05:30",
   "status": "active",
@@ -27,6 +27,16 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10100080"
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261029",
+      "page": 5
+    },
+    {
+      "name": "Service Level Agreement",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/bidsla/102011616006400",
+      "page": 5
     }
   ],
   "tags": [
@@ -34,5 +44,248 @@
   ],
   "source_fetched_at": "2026-11-08T12:55:54.190Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-10T17:00:00+05:30",
+  "office": "Directorate Training And Employmet Uttar Pradesh",
+  "buyer_email": "buycon20.jpup.up@gembuyer.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "30 (Days)",
+  "estimated_bid_value": 47880,
+  "contract_period": "2 Day(s)",
+  "source_document_fetched_at": "2026-11-17T03:43:25.880452+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "24363a932796e0e0542bcb8bb1915cebd91edbc19305c30948d603f1ae21112b",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Deep Kumar Singh",
+      "address": "221002,District Employment Office, Varanasi",
+      "quantity": 1,
+      "quantity_label": "Total number of Persons",
+      "delivery_days": null,
+      "additional_requirements": "N/A"
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Service Type",
+          "value": "Stay"
+        },
+        {
+          "group": "Core",
+          "parameter": "Service Inclusions",
+          "value": "Not Applicable"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type of Travel",
+          "value": "National"
+        },
+        {
+          "group": "Core",
+          "parameter": "States to Travel",
+          "value": "Uttar Pradesh"
+        },
+        {
+          "group": "Core",
+          "parameter": "Mode of Transport",
+          "value": "Not Applicable"
+        },
+        {
+          "group": "Core",
+          "parameter": "Property Type",
+          "value": "3 Star Hotel"
+        },
+        {
+          "group": "Core",
+          "parameter": "Food Included",
+          "value": "Not Applicable"
+        },
+        {
+          "group": "Core",
+          "parameter": "Room type",
+          "value": "Double Occupancy"
+        },
+        {
+          "group": "Core",
+          "parameter": "Expenditure of sightseeing to be Provided by",
+          "value": "Not Applicable"
+        },
+        {
+          "group": "Additional Details",
+          "parameter": "Number of days of Tour/Stay Package",
+          "value": "1"
+        },
+        {
+          "group": "Additional Details",
+          "parameter": "Number of room (Single Occupancy)",
+          "value": "single rooms with double occupancy"
+        },
+        {
+          "group": "Additional Details",
+          "parameter": "Number of room (Double Occupancy)",
+          "value": "15"
+        },
+        {
+          "group": "Additional Details",
+          "parameter": "Number of Rooms (Triple Occupancy)",
+          "value": "0"
+        },
+        {
+          "group": "Additional Details",
+          "parameter": "Number of room (Family Occupancy)",
+          "value": "0"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE 50% : The buyer can increase or decrease the contract quantity or contract duration up to 50 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 50 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 50 percent with the consent of the service provider"
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8217017",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100080"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 09-11-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100080"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 10-11-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100080"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100080"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Uttar Pradesh",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100080"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Labour Department Uttar Pradesh",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100080"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Job Portal Uttar Pradesh",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100080"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Directorate Training And Employmet Uttar Pradesh",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100080"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :sewayojan-up@gov.in Buyer Email id: buycon20.jpup.up@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100080"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Tours and Travel Service - Stay; Not Applicable; National",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100080"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 2 Day(s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100080"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100080"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100080"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100080"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "(( )) / Estimated Bid Value in INR (Inclusive of all taxes): 47880",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100080"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100080"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100080"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Service Type: Stay | Service Inclusions: Not Applicable | Type of Travel: National | States to Travel: Uttar Pradesh | Mode of Transport: Not Applicable | Property Type: 3 Star Hotel | Food Included: Not Applicable | Room type: Double Occupancy | Expenditure of sightseeing to be Provided by: Not Applicable | Number of days of Tour/Stay Package: 1 | Number of room (Single Occupancy): single rooms with double occupancy | Number of room (Double Occupancy): 15 | Number of Rooms (Triple Occupancy): 0 | Number of room (Family Occupancy): 0",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100080"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Total number of Persons | Additional Requirement: 1 | Deep Kumar Singh | 221002,District Employment Office, Varanasi | 1 | N/A",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100080"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE 50% : The buyer can increase or decrease the contract quantity or contract duration up to 50 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 50 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 50 percent with the consent of the service provider",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10100080"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

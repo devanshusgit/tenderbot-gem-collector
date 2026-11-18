@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8264796",
   "title": "Power Transformer, Oil immersed type",
   "description": "Power Transformer, Oil immersed type",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "North Western Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Power Transformer, Oil immersed type",
   "quantity": 2,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 250160,
   "published_at": "2026-11-18T13:17:02+05:30",
   "closing_at": "2026-12-14T17:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/CwR_Zu8t9bIGdyH4EuiNzbrLj9Nt8e1Eon03r7nfRw0",
+      "page": 5
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261118",
+      "page": 15
     }
   ],
   "tags": [
@@ -34,5 +49,621 @@
   ],
   "source_fetched_at": "2026-11-18T11:56:07.561Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "office": "North Western Railway",
+  "buyer_email": "dycmm1@nwr.railnet.gov.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Single Packet Bid",
+  "epbg_percentage": 2,
+  "epbg_duration_months": 6,
+  "offer_validity": "120 (Days)",
+  "estimated_bid_value": 12508000,
+  "source_document_fetched_at": "2026-11-18T17:31:22.306118+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "477656a4c1fcbcd9da3053b2751d1c4479ac2c16fb89664170a3147ee8dfb3d5",
+  "document_pages": 15,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 20 % (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 9,
+      "consignee": "Shobharam Verma",
+      "address": "342001,DRM OFFICE, JODHPUR",
+      "quantity": 2,
+      "quantity_label": "Quantity",
+      "delivery_days": 60
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "GENERIC",
+          "parameter": "Designed for",
+          "value": "Outdoor"
+        },
+        {
+          "group": "RATING",
+          "parameter": "Rated Voltage - HV (in KV)",
+          "value": "33"
+        },
+        {
+          "group": "RATING",
+          "parameter": "Rated Voltage - LV (in kV)",
+          "value": "11"
+        },
+        {
+          "group": "RATING",
+          "parameter": "Maximum system voltage - HV (in kV)",
+          "value": "36"
+        },
+        {
+          "group": "RATING",
+          "parameter": "Maximum system voltage - LV (in kV)",
+          "value": "12"
+        },
+        {
+          "group": "RATING",
+          "parameter": "Rated power (in MVA)",
+          "value": "5"
+        },
+        {
+          "group": "RATING",
+          "parameter": "No. of Phase",
+          "value": "3, 3 Ph. 2 Winding"
+        },
+        {
+          "group": "RATING",
+          "parameter": "Frequency",
+          "value": "50 Hz , ± 3%, 50 Hz, ± 5%"
+        },
+        {
+          "group": "INSULATION LEVEL",
+          "parameter": "Insulation Levels, Dielectric Tests and External Clearances in Air",
+          "value": "as per IS: 2026 Part 3: 2009 latest"
+        },
+        {
+          "group": "INSULATION LEVEL",
+          "parameter": "Standard rated short duration power-frequency withstand voltage, r.m.s value (in kV)",
+          "value": "70"
+        },
+        {
+          "group": "INSULATION LEVEL",
+          "parameter": "Standard rated lightning impulse withstand voltage (in kV, peak)",
+          "value": "170, 170 (for 33 KV)"
+        },
+        {
+          "group": "WINDING",
+          "parameter": "Connection symbol",
+          "value": "Dyn 11"
+        },
+        {
+          "group": "WINDING",
+          "parameter": "Terminals of all windings",
+          "value": "Out of the tank through bushings for external connections"
+        },
+        {
+          "group": "TAP CHANGER",
+          "parameter": "Type of Tap Changer",
+          "value": "On Load"
+        },
+        {
+          "group": "TAP CHANGER",
+          "parameter": "Winding tapped at",
+          "value": "HV"
+        },
+        {
+          "group": "TAP CHANGER",
+          "parameter": "No. of tappings (in Nos.)",
+          "value": "17, 9"
+        },
+        {
+          "group": "TAP CHANGER",
+          "parameter": "Range of tappings",
+          "value": "+10% to -10% in equal seps of 1.25%, +5% to-15% in equal seps of 1.25%"
+        },
+        {
+          "group": "CONSTRUCTION",
+          "parameter": "Material of core",
+          "value": "CRGO (ColdRolled GrainOriented steel)"
+        },
+        {
+          "group": "CONSTRUCTION",
+          "parameter": "Core assembly",
+          "value": "Boltless type, Bolted type"
+        },
+        {
+          "group": "CONSTRUCTION",
+          "parameter": "Type of cooling",
+          "value": "ONAN"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Transformer filled with oil",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Method of system earthing",
+          "value": "LV Winding: Solidly earthed, LV connections : Star with neutral solidly earthed"
+        },
+        {
+          "group": null,
+          "parameter": "Type of oil preservation system",
+          "value": "Conservator type"
+        },
+        {
+          "group": null,
+          "parameter": "Percentage of impedance voltage on normal tap and MVA base at 75 deg. C corresponding to HV/ LV rating (in %)",
+          "value": "7.15"
+        },
+        {
+          "group": null,
+          "parameter": "No Load Losses (Fixed Loss) , Maximum (in KW)",
+          "value": "4, 5.5"
+        },
+        {
+          "group": null,
+          "parameter": "Load losses at 75°C, Maximum ( in KW)",
+          "value": "23, 36"
+        },
+        {
+          "group": null,
+          "parameter": "Minium Creppage Distance (in mm)",
+          "value": "HV-900 mm, LV-300 mm"
+        },
+        {
+          "group": "TRANFORMER TANK",
+          "parameter": "Transformer tank construction shall conform in all respect to",
+          "value": "Clause 15 of IS 1180(Part1):2014., Bell shaped, Conventional"
+        },
+        {
+          "group": "TRANFORMER TANK",
+          "parameter": "Transformer tank top cover",
+          "value": "Detachable with bolted flanged gasket joint"
+        },
+        {
+          "group": "TRANFORMER TANK",
+          "parameter": "The color of the finishing coats",
+          "value": "Dark admiral grey conforming to No.632 of IS:5 (1961), Light Grey conforming to No.631 of IS: 5 (1961)"
+        },
+        {
+          "group": "TRANFORMER TANK",
+          "parameter": "The surface of the cover",
+          "value": "Suitable sloped, as per Annexure-A attached for Coal India, Flat"
+        },
+        {
+          "group": "TRANFORMER TANK",
+          "parameter": "The transformer tank",
+          "value": "supported on steel structure"
+        },
+        {
+          "group": "ADD ON ITEMS",
+          "parameter": "Oil conservator tank (in Nos.)",
+          "value": "1"
+        },
+        {
+          "group": "ADD ON ITEMS",
+          "parameter": "Buchholz Relay",
+          "value": "1"
+        },
+        {
+          "group": "ADD ON ITEMS",
+          "parameter": "Oil Temperature Indicator (OTI) (in Nos.)",
+          "value": "1"
+        },
+        {
+          "group": "ADD ON ITEMS",
+          "parameter": "Winding Temperature indicator (WTI) (in Nos.)",
+          "value": "1"
+        },
+        {
+          "group": "ADD ON ITEMS",
+          "parameter": "Pressure Relief Device (in Nos.)",
+          "value": "1"
+        },
+        {
+          "group": "ADD ON ITEMS",
+          "parameter": "Oil Level Indicator (in Nos.)",
+          "value": "1"
+        },
+        {
+          "group": "ADD ON ITEMS",
+          "parameter": "Silica Gel Breather with Silica Gel (in Nos.)",
+          "value": "1"
+        },
+        {
+          "group": "ADD ON ITEMS",
+          "parameter": "Drain Valve on transformer tank (in Nos.)",
+          "value": "1"
+        },
+        {
+          "group": "ADD ON ITEMS",
+          "parameter": "Filter Valve on transformer tank (in Nos.)",
+          "value": "1, 2"
+        },
+        {
+          "group": "ADD ON ITEMS",
+          "parameter": "Oil sampling valve on transformer tank (in Nos.)",
+          "value": "1, 2"
+        },
+        {
+          "group": "ADD ON ITEMS",
+          "parameter": "Air release plug (in Nos.)",
+          "value": "15 mm NB 1 no."
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Lifting eyes or lugs for the top cover, core and coils and for the complete transformer",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Tank earthing terminals with associated nuts and bolts for connections to grounding strip",
+          "value": "2 sets"
+        },
+        {
+          "group": null,
+          "parameter": "HV Bushings according to highest system voltage (in Nos.)",
+          "value": "3 (Porcelain)"
+        },
+        {
+          "group": null,
+          "parameter": "LV Bushings according to highest system voltage (in Nos.)",
+          "value": "3 (Porcelain)"
+        },
+        {
+          "group": null,
+          "parameter": "Terminal arrangement: for HV/LV bushings with arcing horns",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Suitable terminal connector for HV & LV terminal for holding Conductor",
+          "value": "No"
+        },
+        {
+          "group": null,
+          "parameter": "Bus Bars",
+          "value": "No"
+        },
+        {
+          "group": null,
+          "parameter": "Cable termination box",
+          "value": "1 No. at LV side"
+        },
+        {
+          "group": null,
+          "parameter": "Arrangement for Auxilary supply voltage for",
+          "value": "For Alarm, For Relays"
+        },
+        {
+          "group": null,
+          "parameter": "Marshalling box with required glands, locks, glass door, terminal Board, heater with switch, illumination lamp with switch etc to accommodate temperature indicators terminal blocks etc",
+          "value": "1"
+        },
+        {
+          "group": null,
+          "parameter": "Ingress protection for Marshalling Box",
+          "value": "IP 55, IP 54"
+        },
+        {
+          "group": null,
+          "parameter": "Padlocks and locking key arrangements for",
+          "value": "Mrashalling box"
+        },
+        {
+          "group": null,
+          "parameter": "Foundation bolts for wheel locking devices of Transformer",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Bi-metallic terminal connector/ clamp/ washers suitable for fixing to bushing terminals",
+          "value": "No"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Other requrements",
+          "value": "Air release plug, 1 No., Rating Plate, NA, 1 No. Neutral Bushing, Gaskets for Bushings, Thermometer: Maximum reading pointer, Thermometer: Poterntial free contacts for alarm and trip for top oil temperature ., Additional pockets for mercury-in-glass thermo meter for measuring oil and winding temperature, Explosion/ relief vent with double diaphragm equalizer connection, Terminal marking plate, Identification marking plate, Under carriage with jacking pads, Under carriage with hauling holes / hook, Supervisory trip contacts for gas operated double float relay, Supervisory alarm contacts for oil level indicator, Inspection cover, Oil filling hole and cap, Thermometer for Oil Temp Indicator 150mm, Dial Type."
+        },
+        {
+          "group": null,
+          "parameter": "Agreed for unloading of transformer at site",
+          "value": "Yes"
+        },
+        {
+          "group": "SPECIAL TEST",
+          "parameter": "Agreed to furnish special test reports as per",
+          "value": "Cl.10.1.3 of IS:2026 (Part 1) latest"
+        },
+        {
+          "group": "CERTIFICATIONS",
+          "parameter": "Agreed for stage inspection as and when required by buyer / consingee",
+          "value": "Yes as per buyer requirements"
+        },
+        {
+          "group": "CERTIFICATIONS",
+          "parameter": "Agreed to furnish Guaranteed Technical Particulars (GTP) and complete drawings of Power Transformer as and when required by buyer / consignee",
+          "value": "Yes"
+        },
+        {
+          "group": "CERTIFICATIONS",
+          "parameter": "Agreed to furnish routine test reports to buyer / consingee on demand",
+          "value": "as per Cl.10.1.1 of IS:2026 (Part 1) latest"
+        },
+        {
+          "group": "CERTIFICATIONS",
+          "parameter": "Availability of Type test report from Central Government/NABL/ILAC accridiated laoratory to prove conformity of the specification",
+          "value": "Yes, as per Annexure-A attached for Coal India"
+        },
+        {
+          "group": "CERTIFICATIONS",
+          "parameter": "Agreed to furnish routine and type tet reports for porcelain bushings",
+          "value": "Yes"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 9,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 3. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): RITES Post Receipt Inspection at consignee site before acceptance of stores: CONSIGNEE 4. Forms of EMD and PBG Bidders can also submit the EMD with Fixed Deposit Receipt made out or pledged in the name of A/C"
+    },
+    {
+      "page": 10,
+      "text": "FA AND CAO C NWR JP . The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of EMD, the FDR will be released in the favour of the bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Bidder has to upload scanned copy/ proof of the FDR along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date/ Bid Opening date 5. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of FA AND CAO C NWR JP A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract. 6. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Bidder should not quote any deviation in any uploaded document. The buyer reserves the right,at his di scretion to ignore any such deviation, if quoted, whil e issuing the contract. 2. Past performance shall be considered up to the last three financial year and current financial year up to date of tender/ bid opening. 3. For past performance firm should attach proof of supply signed by either pur chaser, consignee,inspecto r nominated by purchaser (should not be firm repres entative). For this purpose receipt note, CRAC, receip t challan, work completion certificate etc should be attach. Proof of supply should clearly indicate quantity supplied and date of supply. Only copy of PO self signed tax invoice, self made performance state ment do es not establishes that supply has been completed. Bidders should please note that proof of supply as deta iled above is required for past performance. 4. No deviation in Inspection clause at any stage will be accepted. Firms do not quote deviations such as vi sual inspection or inspection against GC/TC/WTC etc. , otherwise it will be considered as deviation in Inspe ction clause. 5. EMD paid Offline (forms allowed as per GeM GTC i.e. Insurance Surety Bond, Account Payee Demand Dr aft, Fixed Deposit Receipt, Banker’s Cheque or Bank Guarantee (including e-Bank Guarantee) from any of t he Commercial Banks or p ayment online in an acceptable form) should reach Buyer office i.e. Office of PC MM, DYCMM-1/HQ/NWR/Jaipur, North Western Railway headquarter office, Near Jawahar circle, Jaipur, Rajasthan. Any delay in delivery of EMD or delivery any w rong address will be on bidder’s account. Any d elay in delivery of EMD will not be acceptable. Bidder has to ensure that hardcopy of EMD document shall reach to the buyer within 5 days of bid end date/bid opening date otherwise offer will be summarily rejecte d. 6. Agents and Traders are not allowed to avail MSE benefits like EMD exemption etc. 7. Picture of the item available on GeM will not be considered part of offer/contract. Officer will beevaluate d based in technical parameters and Contract will be based on same technical parameters. 8. For Performance Security forms allowed as per GeM GTC i.e. Insurance Surety Bonds, Account Payee De mand Draft, Fixed Deposit Receipt from a Commercial bank, Bank Guarantee (including e-Bank Guarantee) from a Commercial Bank or online payment in an acceptable form. 9 Settlement of Disputes : For any dispute clause no. 2900 of IRS condition duly modified vide Railway Board letter No 2018/TF/CIVIL/Arbitration Policy dated 12. 12.2018 Annexure-A attached will be applicable. 10. Bid Security/Earnest Money Deposit (EMD) : In additional to GeM GTC conditi ons the followingcategori es of Sellers shall, also be exempted from furnishing Bid Security/EMD : (a) Other Railways and Governme nt Departments in terms of Railway Boards letter No.2004/RS(G)/779/11 dated 24.07.07. (b) Indian Ordina nce Factories in terms of Railway Boards letter No. 92/RSS(G)/363/1 dated 08.04. 1993. (c) Vendors appea"
+    },
+    {
+      "page": 11,
+      "text": "ring on the approved vendor lists of RDSO/PUs/CORE, subject to approval status being valid on the date oft ender closing. Firm must submit documentary evidence along with bid for same. (d) Vendors registered wi th Railways for supply of medicine, medical equipments and consumables shall be exempted from submis sion of EMD for these items. Firm must submit documentary evidence along with bid for same. (e) Bidders registered (on date of bid opening) with Railways for trade group of tendered item will be exempted to Pay EMD. Firm required to submit documentary proof along with bid for same. 11. Security Deposit/Performance Security : As per Railway Board guidelines there shall be no exemption f rom submission of Security Deposit (SD)/ Performance Security for any tender or by any tendererexcept fol lowing : (a) The store contract/GeM order cases of value up to Rs. 25 (twenty five) lakh. (b) Other Railways and Government Departments in terms of Railway Board’s letter No. 2004/RS( G)/779/11 dated24.07.2007 . (c) Indian Ordinance Factories in terms of Railway Board’s letter No.92/RS(G)/363/1 dated 08.04.1993. (d) PSUs owned by Ministry of Railways and PSUs for the group of items that are manufactured by them in ter ms of Railway Board’s letter No. 2003/RS(G)/779/5 dated 10.09.2004. (e) In te nders issued against PAC, O EM in whose favor PAC has been issued shall be exempted from submitting SD. KVIC and ACASH shall be e xempted from SD for items supplied by them. (f) Vendors registered with Railways for the trade group of t he item tendered shall be exempted from SD for order valued up to their monetary limit of registration.Fir m must submit documentary evidence along with bid for same. (g) Vendor appearingon the approved vend or list of RDSO/PUs/CORE, subject to approval status being valid on the date of tender closing. Firm must s ubmit documentary evidence along with bid for same. (h) Vendors registered withRailways for supply of m edicine, medical equipments and consumables shall be exempted from submission of SD for these items. Firm must submit documentary evidence along with bid for same. 12. For the purpose of eligibility , past successful performance of same or similar category productis requir ed. For the purpose of eligibility , past successful performance of same or similar category product is requr ed. Similar category products here interprets to products which have same item category as mentioned in bid i.eSupply, Installation, Testing & Commissioning of 33/11 KV, 5000 KVA, 3 Phase, 50Hz, Power Transfor mer, Outdoor Type, Plinth Mounted, ONAN Cooled, Double Copper wound, Delta connected in HV Side and Star connected in LV side with Neutral brought out for Earthing purpose having Vector group of Dyn-11, co nforming to IS 2026 latest, as per detailed Description given in Annexure-I . Firm offer Make/Brand- AIREN POWER) but size and other secondary parameters may vary from tendered item. 13.Loading & unloading of the goods /material is a part of scope of supply. Required Specification:- { 1.Rated Voltage - HV (in KV) -33. 2.Rated Voltage - LV (in KV)-11. 3.Maximum system voltage - HV (in kV)-36. 4.Maximum system voltage - LV (in kV) -12. 5.Rated power (in MVA)-5. 6.No. of Phase -3. 7.Frequency-50 Hz, ± 5% . 8.Conformity of the specification -IS:2026 (Part 1): 2011 latest, IS:2026 (Part 1) : 2011 latest and as per An nexure - A attached. 9.Designed for -Outdoor . 10.Installation, Testing and Demonstration-Yes, No, Yes. Including civil works related to installation and co mmissioning of transformer. 11.Insulation level , Dielectric Tests and external clearance in Air-as per IS: 2026 Part 3: 2009 latest . 12.Standard rated short duration power-frequency withstand voltage, r.m.s value (in kV)-70. 13.Standard rated lightning impulse withstand voltage (in kV, peak)-170. 14.Winding insulation-Class A . 15.Connection symbol -Dyn 11 ."
+    },
+    {
+      "page": 12,
+      "text": "16.Terminals of all windings- Out of the tank through bushings for external connections, With cable box. 17.Material of barrier insulation including spacers-High Density Press board . 18.Type of Tap Changer -On Load . 19.Winding tapped at-HV . 20.No. of Tappings -9 . 21.Range of tappings-+10% to -10% in equal seps of 1.25%, 22.Material of core-CRGO (ColdRolled Grain Oriented steel) 23.Core assembly -Bolted type. 24.The maximum flux density in any part of the cores and yoke at normal voltage and frequency- < 1.7 Te sla 25.Type of cooling -ONAN 26.Transformer filled with oil-Yes. 27.Method of system earthing -LV connections: Star with neutral solidly earthed. 28.Type of oil preservation system -Conservator type . 29.Temperature rise limit - Top oil measured by thermometer-< 50 deg. C 30.Temperature rise limit - Winding temperature by resistance-<55 deg. C 31.Percentage of impedance voltage on normal tap and MVA base at 75 deg. C- 7.15 32.No Load Losses (Fixed Loss), Maximum (in KW)-4,5.5 33.Load losses at 75°C, Maximum (in KW) -23,36 34.Minium Creppage Distance (in mm) -HV-900 mm, LV-300 mm 35.Transformer tank construction shall conform in all respect to-Clause 15 of IS 1180 (Part1):2014. 36.Transformer tank top cover -Detachable with bolted flanged gasket joint 37.The color of the finishing coats -Dark admiral grey conforming to No.632 of IS:5 (1961) 38.The surface of the cover-Suitable sloped, as per Annexure-A attached for Coal India, Flat 39.The transformer tank-supported on steel structure 40.Oil conservator tank (in Nos.)-1 41.Buchholz Relay -1 42.Oil Temperature Indicator (OTI) (in Nos.) -1 43.Winding Temperature indicator (WTI) (in Nos).-1 44.Pressure Relief Device (in Nos.)-1 45.Oil Level Indicator (in Nos). -1 46.Silica Gel Breather with Silica Gel (in Nos).-1 47.Drain Valve on transformer tank (in Nos.)-1 48.Filter Valve on transformer tank (in Nos). -1,2 49.Oil sampling valve on transformer tank (in Nos).-1,2 50.Air release plug (in Nos.) -15 mm NB 1 по."
+    },
+    {
+      "page": 13,
+      "text": "51.Lifting eyes or lugs for the top cover, core and coils and for the complete transformer-YES. 52.Tank earthing terminals with associated nuts and bolts for connections to grounding strip-2 sets 53.HV Bushings according to highest system voltage (in Nos.)-3 (Porcelain) 54.LV Bushings according to highest system voltage (in Nos.)-3 (Porcelain) 55.Terminal arrangement: for HV/LV bushings with arcing homs-Yes 56.Suitable terminal connector for HV & LV terminal for holding Conductor-No. 57.Bus Bars-NO 58.Cable termination box -1 No. at LV side 59.Arrangement for Auxiliary supply voltage for-For Alarm, For Relays 60.Marshalling box with required glands, locks,glass door, terminal Board, heater with switch, illumination l amp with switch etc to accommodate temperature indicators terminal blocks etc-1 61.Ingress protection for Marshalling Box-IP 55, IP 54 62.Padlocks and locking key arrangements for-Mrashalling box 63.Foundation bolts for wheel locking devices of Transformer-Yes 64.Bi-metallic terminal connector/clamp/washers suitable for fixing to bushing terminals-No 65.Other requirements -Air release plug, 1 No., Rating Plate, NA, 1Plate, NA, 1 No. Neutral Bushing, Metal parts for Bushings, Gaskets for Bushings,Magnetic oil level gauge: 1 No., Magnetic Oi Level Gauge with Lo w oil level alarm contacts, 1 No. Cooler fan with motor, HV & LV neutral: brought out on separate bushing, 1 No. Dial type thermometer,Thermometer: Maximum reading pointer,Thermometer: adjustable, Thermo meter:Potential free contacts for alarm and trip for top oil temperature Additional pockets for mercury-in-gl ass thermo meter for measuring oil and winding temperature,Explosion/ relief vent with double diaphragm equalizer connection, Diagram plates, Terminal marking plate, Identification marking plate, Approved Pres sure Relief Device for Rapid Release of Pressure, Under carriage with jacking pads, Under carriage with ha uling holes /hook, Supervisory alarm for oil temperature indicator, Supervisorytrip contacts for oil. 66.Agreed for unloading of transformer at site -Yes 67.Agreed to furnish special test reports as per -Cl10.1.3 . of IS:2026 (Part 1) latest 68.Test reports for dielectric special tests -Yes,No 69.Test report for determination of capacitances winding to earth, and between windings-No. 70.Test report for determination of transient voltage transfer characteristics-No. 71.Test reports for measurement of zero sequence impedance (s) on three phase transformers-No. 72.Test report for determination of sound levels -No. 73.Test report for measurement of harmonics of the no load current-Yes, No 74.Test report for measurement of the power taken by the fan and oil pump motors-No 75.Test report for measurement of insulation resistance to earth of the windings and or measurement of di ssipation factor of the insulation system capacitances-Yes 76.Agreed for stage inspection as and when required by buyer / consignee-Yes as per buyer requirements 77.Agreed to furnish Guaranteed Technical Particulars (GTP) and complete drawings of Power Transformer as and when required by buyer/consignee-Yes 78.Agreed to furnish routine test reports to buyer / consignee on demand-as per Cl.10.1.1 of IS:2026 (Part 1) latest 79.Availability of Type test report from Central Government/NABL/ILAC accridiated laoratory to prove conf ormity of the specification-Yes as per Annexure-A attached"
+    },
+    {
+      "page": 14,
+      "text": "80.Agreed to furnish routine and type tet reports for porcelain bushings-Yes. } ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8264796",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    },
+    {
+      "field": "document_closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 07-12-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    },
+    {
+      "field": "document_opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 08-12-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: North Western Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: North Western Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :cio@nwr.railnet.gov.in Buyer Email id: dycmm1@nwr.railnet.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 2",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Power Transformer, Oil immersed type (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 20 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 12508000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 250160",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 250160",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 2.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 6",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Designed for: Outdoor | Rated Voltage - HV (in KV): 33 | Rated Voltage - LV (in kV): 11 | Maximum system voltage - HV (in kV): 36 | Maximum system voltage - LV (in kV): 12 | Rated power (in MVA): 5 | No. of Phase: 3, 3 Ph. 2 Winding | Frequency: 50 Hz , ± 3%, 50 Hz, ± 5% | Insulation Levels, Dielectric Tests and External Clearances in Air: as per IS: 2026 Part 3: 2009 latest | Standard rated short duration power-frequency withstand voltage, r.m.s value (in kV): 70 | Standard rated lightning impulse withstand voltage (in kV, peak): 170, 170 (for 33 KV) | Connection symbol: Dyn 11 | Terminals of all windings: Out of the tank through bushings for external connections | Type of Tap Changer: On Load | Winding tapped at: HV | No. of tappings (in Nos.): 17, 9 | Range of tappings: +10% to -10% in equal seps of 1.25%, +5% to-15% in equal seps of 1.25% | Material of core: CRGO (ColdRolled GrainOriented steel) | Core assembly: Boltless type, Bolted type | Type of cooling: ONAN",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Transformer filled with oil: Yes | Method of system earthing: LV Winding: Solidly earthed, LV connections : Star with neutral solidly earthed | Type of oil preservation system: Conservator type | Percentage of impedance voltage on normal tap and MVA base at 75 deg. C corresponding to HV/ LV rating (in %): 7.15 | No Load Losses (Fixed Loss) , Maximum (in KW): 4, 5.5 | Load losses at 75°C, Maximum ( in KW): 23, 36 | Minium Creppage Distance (in mm): HV-900 mm, LV-300 mm | Transformer tank construction shall conform in all respect to: Clause 15 of IS 1180(Part1):2014., Bell shaped, Conventional | Transformer tank top cover: Detachable with bolted flanged gasket joint | The color of the finishing coats: Dark admiral grey conforming to No.632 of IS:5 (1961), Light Grey conforming to No.631 of IS: 5 (1961) | The surface of the cover: Suitable sloped, as per Annexure-A attached for Coal India, Flat | The transformer tank: supported on steel structure | Oil conservator tank (in Nos.): 1 | Buchholz Relay: 1 | Oil Temperature Indicator (OTI) (in Nos.): 1 | Winding Temperature indicator (WTI) (in Nos.): 1 | Pressure Relief Device (in Nos.): 1 | Oil Level Indicator (in Nos.): 1 | Silica Gel Breather with Silica Gel (in Nos.): 1 | Drain Valve on transformer tank (in Nos.): 1 | Filter Valve on transformer tank (in Nos.): 1, 2 | Oil sampling valve on transformer tank (in Nos.): 1, 2 | Air release plug (in Nos.): 15 mm NB 1 no.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 7,
+      "quote": "Lifting eyes or lugs for the top cover, core and coils and for the complete transformer: Yes | Tank earthing terminals with associated nuts and bolts for connections to grounding strip: 2 sets | HV Bushings according to highest system voltage (in Nos.): 3 (Porcelain) | LV Bushings according to highest system voltage (in Nos.): 3 (Porcelain) | Terminal arrangement: for HV/LV bushings with arcing horns: Yes | Suitable terminal connector for HV & LV terminal for holding Conductor: No | Bus Bars: No | Cable termination box: 1 No. at LV side | Arrangement for Auxilary supply voltage for: For Alarm, For Relays | Marshalling box with required glands, locks, glass door, terminal Board, heater with switch, illumination lamp with switch etc to accommodate temperature indicators terminal blocks etc: 1 | Ingress protection for Marshalling Box: IP 55, IP 54 | Padlocks and locking key arrangements for: Mrashalling box | Foundation bolts for wheel locking devices of Transformer: Yes | Bi-metallic terminal connector/ clamp/ washers suitable for fixing to bushing terminals: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 8,
+      "quote": "Other requrements: Air release plug, 1 No., Rating Plate, NA, 1 No. Neutral Bushing, Gaskets for Bushings, Thermometer: Maximum reading pointer, Thermometer: Poterntial free contacts for alarm and trip for top oil temperature ., Additional pockets for mercury-in-glass thermo meter for measuring oil and winding temperature, Explosion/ relief vent with double diaphragm equalizer connection, Terminal marking plate, Identification marking plate, Under carriage with jacking pads, Under carriage with hauling holes / hook, Supervisory trip contacts for gas operated double float relay, Supervisory alarm contacts for oil level indicator, Inspection cover, Oil filling hole and cap, Thermometer for Oil Temp Indicator 150mm, Dial Type. | Agreed for unloading of transformer at site: Yes | Agreed to furnish special test reports as per: Cl.10.1.3 of IS:2026 (Part 1) latest | Agreed for stage inspection as and when required by buyer / consingee: Yes as per buyer requirements | Agreed to furnish Guaranteed Technical Particulars (GTP) and complete drawings of Power Transformer as and when required by buyer / consignee: Yes | Agreed to furnish routine test reports to buyer / consingee on demand: as per Cl.10.1.1 of IS:2026 (Part 1) latest | Availability of Type test report from Central Government/NABL/ILAC accridiated laoratory to prove conformity of the specification: Yes, as per Annexure-A attached for Coal India | Agreed to furnish routine and type tet reports for porcelain bushings: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    },
+    {
+      "field": "consignees",
+      "page": 9,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Shobharam Verma | 342001,DRM OFFICE, JODHPUR | 2 | 60",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 3. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): RITES Post Receipt Inspection at consignee site before acceptance of stores: CONSIGNEE 4. Forms of EMD and PBG Bidders can also submit the EMD with Fixed Deposit Receipt made out or pledged in the name of A/C",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "FA AND CAO C NWR JP . The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of EMD, the FDR will be released in the favour of the bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Bidder has to upload scanned copy/ proof of the FDR along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date/ Bid Opening date 5. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of FA AND CAO C NWR JP A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract. 6. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Bidder should not quote any deviation in any uploaded document. The buyer reserves the right,at his di scretion to ignore any such deviation, if quoted, whil e issuing the contract. 2. Past performance shall be considered up to the last three financial year and current financial year up to date of tender/ bid opening. 3. For past performance firm should attach proof of supply signed by either pur chaser, consignee,inspecto r nominated by purchaser (should not be firm repres entative). For this purpose receipt note, CRAC, receip t challan, work completion certificate etc should be attach. Proof of supply should clearly indicate quantity supplied and date of supply. Only copy of PO self signed tax invoice, self made performance state ment do es not establishes that supply has been completed. Bidders should please note that proof of supply as deta iled above is required for past performance. 4. No deviation in Inspection clause at any stage will be accepted. Firms do not quote deviations such as vi sual inspection or inspection against GC/TC/WTC etc. , otherwise it will be considered as deviation in Inspe ction clause. 5. EMD paid Offline (forms allowed as per GeM GTC i.e. Insurance Surety Bond, Account Payee Demand Dr aft, Fixed Deposit Receipt, Banker’s Cheque or Bank Guarantee (including e-Bank Guarantee) from any of t he Commercial Banks or p ayment online in an acceptable form) should reach Buyer office i.e. Office of PC MM, DYCMM-1/HQ/NWR/Jaipur, North Western Railway headquarter office, Near Jawahar circle, Jaipur, Rajasthan. Any delay in delivery of EMD or delivery any w rong address will be on bidder’s account. Any d elay in delivery of EMD will not be acceptable. Bidder has to ensure that hardcopy of EMD document shall reach to the buyer within 5 days of bid end date/bid opening date otherwise offer will be summarily rejecte d. 6. Agents and Traders are not allowed to avail MSE benefits like EMD exemption etc. 7. Picture of the item available on GeM will not be considered part of offer/contract. Officer will beevaluate d based in technical parameters and Contract will be based on same technical parameters. 8. For Performance Security forms allowed as per GeM GTC i.e. Insurance Surety Bonds, Account Payee De mand Draft, Fixed Deposit Receipt from a Commercial bank, Bank Guarantee (including e-Bank Guarantee) from a Commercial Bank or online payment in an acceptable form. 9 Settlement of Disputes : For any dispute clause no. 2900 of IRS condition duly modified vide Railway Board letter No 2018/TF/CIVIL/Arbitration Policy dated 12. 12.2018 Annexure-A attached will be applicable. 10. Bid Security/Earnest Money Deposit (EMD) : In additional to GeM GTC conditi ons the followingcategori es of Sellers shall, also be exempted from furnishing Bid Security/EMD : (a) Other Railways and Governme nt Departments in terms of Railway Boards letter No.2004/RS(G)/779/11 dated 24.07.07. (b) Indian Ordina nce Factories in terms of Railway Boards letter No. 92/RSS(G)/363/1 dated 08.04. 1993. (c) Vendors appea",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 11,
+      "quote": "ring on the approved vendor lists of RDSO/PUs/CORE, subject to approval status being valid on the date oft ender closing. Firm must submit documentary evidence along with bid for same. (d) Vendors registered wi th Railways for supply of medicine, medical equipments and consumables shall be exempted from submis sion of EMD for these items. Firm must submit documentary evidence along with bid for same. (e) Bidders registered (on date of bid opening) with Railways for trade group of tendered item will be exempted to Pay EMD. Firm required to submit documentary proof along with bid for same. 11. Security Deposit/Performance Security : As per Railway Board guidelines there shall be no exemption f rom submission of Security Deposit (SD)/ Performance Security for any tender or by any tendererexcept fol lowing : (a) The store contract/GeM order cases of value up to Rs. 25 (twenty five) lakh. (b) Other Railways and Government Departments in terms of Railway Board’s letter No. 2004/RS( G)/779/11 dated24.07.2007 . (c) Indian Ordinance Factories in terms of Railway Board’s letter No.92/RS(G)/363/1 dated 08.04.1993. (d) PSUs owned by Ministry of Railways and PSUs for the group of items that are manufactured by them in ter ms of Railway Board’s letter No. 2003/RS(G)/779/5 dated 10.09.2004. (e) In te nders issued against PAC, O EM in whose favor PAC has been issued shall be exempted from submitting SD. KVIC and ACASH shall be e xempted from SD for items supplied by them. (f) Vendors registered with Railways for the trade group of t he item tendered shall be exempted from SD for order valued up to their monetary limit of registration.Fir m must submit documentary evidence along with bid for same. (g) Vendor appearingon the approved vend or list of RDSO/PUs/CORE, subject to approval status being valid on the date of tender closing. Firm must s ubmit documentary evidence along with bid for same. (h) Vendors registered withRailways for supply of m edicine, medical equipments and consumables shall be exempted from submission of SD for these items. Firm must submit documentary evidence along with bid for same. 12. For the purpose of eligibility , past successful performance of same or similar category productis requir ed. For the purpose of eligibility , past successful performance of same or similar category product is requr ed. Similar category products here interprets to products which have same item category as mentioned in bid i.eSupply, Installation, Testing & Commissioning of 33/11 KV, 5000 KVA, 3 Phase, 50Hz, Power Transfor mer, Outdoor Type, Plinth Mounted, ONAN Cooled, Double Copper wound, Delta connected in HV Side and Star connected in LV side with Neutral brought out for Earthing purpose having Vector group of Dyn-11, co nforming to IS 2026 latest, as per detailed Description given in Annexure-I . Firm offer Make/Brand- AIREN POWER) but size and other secondary parameters may vary from tendered item. 13.Loading & unloading of the goods /material is a part of scope of supply. Required Specification:- { 1.Rated Voltage - HV (in KV) -33. 2.Rated Voltage - LV (in KV)-11. 3.Maximum system voltage - HV (in kV)-36. 4.Maximum system voltage - LV (in kV) -12. 5.Rated power (in MVA)-5. 6.No. of Phase -3. 7.Frequency-50 Hz, ± 5% . 8.Conformity of the specification -IS:2026 (Part 1): 2011 latest, IS:2026 (Part 1) : 2011 latest and as per An nexure - A attached. 9.Designed for -Outdoor . 10.Installation, Testing and Demonstration-Yes, No, Yes. Including civil works related to installation and co mmissioning of transformer. 11.Insulation level , Dielectric Tests and external clearance in Air-as per IS: 2026 Part 3: 2009 latest . 12.Standard rated short duration power-frequency withstand voltage, r.m.s value (in kV)-70. 13.Standard rated lightning impulse withstand voltage (in kV, peak)-170. 14.Winding insulation-Class A . 15.Connection symbol -Dyn 11 .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 12,
+      "quote": "16.Terminals of all windings- Out of the tank through bushings for external connections, With cable box. 17.Material of barrier insulation including spacers-High Density Press board . 18.Type of Tap Changer -On Load . 19.Winding tapped at-HV . 20.No. of Tappings -9 . 21.Range of tappings-+10% to -10% in equal seps of 1.25%, 22.Material of core-CRGO (ColdRolled Grain Oriented steel) 23.Core assembly -Bolted type. 24.The maximum flux density in any part of the cores and yoke at normal voltage and frequency- < 1.7 Te sla 25.Type of cooling -ONAN 26.Transformer filled with oil-Yes. 27.Method of system earthing -LV connections: Star with neutral solidly earthed. 28.Type of oil preservation system -Conservator type . 29.Temperature rise limit - Top oil measured by thermometer-< 50 deg. C 30.Temperature rise limit - Winding temperature by resistance-<55 deg. C 31.Percentage of impedance voltage on normal tap and MVA base at 75 deg. C- 7.15 32.No Load Losses (Fixed Loss), Maximum (in KW)-4,5.5 33.Load losses at 75°C, Maximum (in KW) -23,36 34.Minium Creppage Distance (in mm) -HV-900 mm, LV-300 mm 35.Transformer tank construction shall conform in all respect to-Clause 15 of IS 1180 (Part1):2014. 36.Transformer tank top cover -Detachable with bolted flanged gasket joint 37.The color of the finishing coats -Dark admiral grey conforming to No.632 of IS:5 (1961) 38.The surface of the cover-Suitable sloped, as per Annexure-A attached for Coal India, Flat 39.The transformer tank-supported on steel structure 40.Oil conservator tank (in Nos.)-1 41.Buchholz Relay -1 42.Oil Temperature Indicator (OTI) (in Nos.) -1 43.Winding Temperature indicator (WTI) (in Nos).-1 44.Pressure Relief Device (in Nos.)-1 45.Oil Level Indicator (in Nos). -1 46.Silica Gel Breather with Silica Gel (in Nos).-1 47.Drain Valve on transformer tank (in Nos.)-1 48.Filter Valve on transformer tank (in Nos). -1,2 49.Oil sampling valve on transformer tank (in Nos).-1,2 50.Air release plug (in Nos.) -15 mm NB 1 по.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 13,
+      "quote": "51.Lifting eyes or lugs for the top cover, core and coils and for the complete transformer-YES. 52.Tank earthing terminals with associated nuts and bolts for connections to grounding strip-2 sets 53.HV Bushings according to highest system voltage (in Nos.)-3 (Porcelain) 54.LV Bushings according to highest system voltage (in Nos.)-3 (Porcelain) 55.Terminal arrangement: for HV/LV bushings with arcing homs-Yes 56.Suitable terminal connector for HV & LV terminal for holding Conductor-No. 57.Bus Bars-NO 58.Cable termination box -1 No. at LV side 59.Arrangement for Auxiliary supply voltage for-For Alarm, For Relays 60.Marshalling box with required glands, locks,glass door, terminal Board, heater with switch, illumination l amp with switch etc to accommodate temperature indicators terminal blocks etc-1 61.Ingress protection for Marshalling Box-IP 55, IP 54 62.Padlocks and locking key arrangements for-Mrashalling box 63.Foundation bolts for wheel locking devices of Transformer-Yes 64.Bi-metallic terminal connector/clamp/washers suitable for fixing to bushing terminals-No 65.Other requirements -Air release plug, 1 No., Rating Plate, NA, 1Plate, NA, 1 No. Neutral Bushing, Metal parts for Bushings, Gaskets for Bushings,Magnetic oil level gauge: 1 No., Magnetic Oi Level Gauge with Lo w oil level alarm contacts, 1 No. Cooler fan with motor, HV & LV neutral: brought out on separate bushing, 1 No. Dial type thermometer,Thermometer: Maximum reading pointer,Thermometer: adjustable, Thermo meter:Potential free contacts for alarm and trip for top oil temperature Additional pockets for mercury-in-gl ass thermo meter for measuring oil and winding temperature,Explosion/ relief vent with double diaphragm equalizer connection, Diagram plates, Terminal marking plate, Identification marking plate, Approved Pres sure Relief Device for Rapid Release of Pressure, Under carriage with jacking pads, Under carriage with ha uling holes /hook, Supervisory alarm for oil temperature indicator, Supervisorytrip contacts for oil. 66.Agreed for unloading of transformer at site -Yes 67.Agreed to furnish special test reports as per -Cl10.1.3 . of IS:2026 (Part 1) latest 68.Test reports for dielectric special tests -Yes,No 69.Test report for determination of capacitances winding to earth, and between windings-No. 70.Test report for determination of transient voltage transfer characteristics-No. 71.Test reports for measurement of zero sequence impedance (s) on three phase transformers-No. 72.Test report for determination of sound levels -No. 73.Test report for measurement of harmonics of the no load current-Yes, No 74.Test report for measurement of the power taken by the fan and oil pump motors-No 75.Test report for measurement of insulation resistance to earth of the windings and or measurement of di ssipation factor of the insulation system capacitances-Yes 76.Agreed for stage inspection as and when required by buyer / consignee-Yes as per buyer requirements 77.Agreed to furnish Guaranteed Technical Particulars (GTP) and complete drawings of Power Transformer as and when required by buyer/consignee-Yes 78.Agreed to furnish routine test reports to buyer / consignee on demand-as per Cl.10.1.1 of IS:2026 (Part 1) latest 79.Availability of Type test report from Central Government/NABL/ILAC accridiated laoratory to prove conf ormity of the specification-Yes as per Annexure-A attached",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 14,
+      "quote": "80.Agreed to furnish routine and type tet reports for porcelain bushings-Yes. } .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10155158"
+    }
+  ],
+  "detail_warning": "The original PDF dates differ from the current public GeM listing. The listing closing date is retained. Confirm the latest opening date and any corrigenda on GeM; the original PDF opening date is not presented as current.",
+  "document_closing_at": "2026-12-07T17:00:00+05:30",
+  "document_opening_at": "2026-12-08T17:00:00+05:30",
+  "date_discrepancy": {
+    "listing_closing_at": "2026-12-14T17:00:00+05:30",
+    "document_closing_at": "2026-12-07T17:00:00+05:30",
+    "document_opening_at": "2026-12-08T17:00:00+05:30"
+  }
 }

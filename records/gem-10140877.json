@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8252549",
   "title": "High End Laptop - Notebook",
   "description": "High End Laptop - Notebook",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Army",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "High End Laptop - Notebook",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-17T18:05:37+05:30",
   "closing_at": "2026-11-27T18:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10140877"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/b8hgYxIFFcOcT9VTNukeSTJZThMiA8lebYKO3QBPQwI",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261117",
+      "page": 9
     }
   ],
   "tags": [
@@ -34,5 +49,298 @@
   ],
   "source_fetched_at": "2026-11-17T21:02:31.716Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-28T18:00:00+05:30",
+  "buyer_email": "buycon1.army.tenga@gembuyer.in",
+  "emd_required": false,
+  "bidder_turnover_lakhs": 1,
+  "oem_turnover_lakhs": 2,
+  "experience_years": 2,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "120 (Days)",
+  "source_document_fetched_at": "2026-11-18T01:19:17.332066+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "606bae96f0ef2f0d28e0a77b71f6b7d101e7df2b99e2cfdda770a287db36b75b",
+  "document_pages": 9,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 1 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 2 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 2 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: GeM verified turnover (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 20 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "***********",
+      "address": "***********West Kameng",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Processor",
+          "parameter": "Base Processor Number",
+          "value": "For Higher Processor Or higher"
+        },
+        {
+          "group": "Processor",
+          "parameter": "Higher Processor Number",
+          "value": "Intel core ultra 7 255H, Intel Core Ultra X7 368H, Intel Core Ultra 7 366H, Intel Core Ultra X7 358H, Intel Core Ultra 7 356H Or higher"
+        },
+        {
+          "group": "Motherboard",
+          "parameter": "Security",
+          "value": "Discrete TPM 2.0 Or higher"
+        },
+        {
+          "group": "Operating System",
+          "parameter": "Operating System (Factory Pre-Loaded)",
+          "value": "Window 11 Professional"
+        },
+        {
+          "group": "Memory",
+          "parameter": "Type of RAM",
+          "value": "DDR5 Or higher"
+        },
+        {
+          "group": "Memory",
+          "parameter": "RAM Size (GB)",
+          "value": "32 Or higher"
+        },
+        {
+          "group": "Memory",
+          "parameter": "Total Numbers of DIMM Slots Available",
+          "value": "2 Or higher"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Number of DIMM Slots Populated",
+          "value": "2, 1"
+        },
+        {
+          "group": null,
+          "parameter": "RAM Expandability up to",
+          "value": "64, 32 Or higher"
+        },
+        {
+          "group": "Display",
+          "parameter": "Display Size (in cm) - Diagonal",
+          "value": "35.56 to 38.07 (14 In to 14.99 In), 38.08 to 40.62 (15 In to 15.99 In)"
+        },
+        {
+          "group": "Display",
+          "parameter": "Minimum Display Resolution (Pixels)",
+          "value": "FHD- 1920x1080"
+        },
+        {
+          "group": "Display",
+          "parameter": "Minimum Resolution of Webcam",
+          "value": "HD-720p"
+        },
+        {
+          "group": "Storage",
+          "parameter": "Capacity of Storage Drive (in GB)",
+          "value": "1024, 2048, 4096 Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "ेेतताा ाारराा जजोोड़ड़ गगईई बबडड कक ववशशेषेष शशतत"
+    },
+    {
+      "page": 7,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 3. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 4. Generic Bidders shall quote only those products (Part of Service delivery) in the bid which are not obsolete in the market and has at least 4 years residual market life i.e. the offered product shall not be declared end-of- life by the OEM before this period. 5. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 6. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 7. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. OEM Authorisation: The bidder shall submit a valid authorisation certificate issued by the Original Equipment Manufacturer (OEM), specifically authorising the bidder to participate in the GeM bid and supply the offered product. The authorisation shall be verifiable with the OEM. 2. Genuine Product: The laptop offered and supplied shall be brand new, factory-sealed, unused and non-refurbished. Reconditioned, renewed, open-box or discontinued products shall not be accepted. 3. Technical Compliance: The bidder shall upload the official OEM product datasheet/brochure and a duly signed technical compliance statement establishing compliance with all specifications stipulate d in the bid. Incomplete or unverifiable technical submissions shall be liable for rejection. 4. OEM Warranty: The bidder shall provide an undertaking confirming that the offered configuration i s fully supported by the OEM and carries a minimum one-year comprehensive OEM warranty, verifia ble through the OEM's official website or customer support facility. 5. After-Sales Support: The bidder shall furnish details of the OEM-authorised service support netwo rk in India, along with a service escalation matrix and contact details for warranty-related complaint s. Warranty support shall be ensured at the consignee's location."
+    },
+    {
+      "page": 8,
+      "text": "6. Authenticity and Configuration Verification: The supplied laptop shall have a unique OEM-verif iable serial number. The Buyer reserves the right to verify the product's authenticity, configuration, warranty status and licensing before acceptance and generation of CRAC. 7. Undertaking Against Misrepresentation: Any false declaration, submission of forged document s, misrepresentation of OEM authorisation or supply of products deviating from the accepted configu ration shall render the bidder liable for rejection/disqualification or termination of contract, as applic able, in accordance with GeM GTC and applicable rules. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8252549",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140877"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 27-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140877"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 28-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140877"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140877"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140877"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140877"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Army",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140877"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :raimonmathew.132f@gov.in Buyer Email id: buycon1.army.tenga@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140877"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140877"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: High End Laptop - Notebook (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140877"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 1 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140877"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 2 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140877"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 2 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140877"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: GeM verified turnover",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140877"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140877"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140877"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140877"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 20 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140877"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140877"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140877"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140877"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Base Processor Number: For Higher Processor Or higher | Higher Processor Number: Intel core ultra 7 255H, Intel Core Ultra X7 368H, Intel Core Ultra 7 366H, Intel Core Ultra X7 358H, Intel Core Ultra 7 356H Or higher | Security: Discrete TPM 2.0 Or higher | Operating System (Factory Pre-Loaded): Window 11 Professional | Type of RAM: DDR5 Or higher | RAM Size (GB): 32 Or higher | Total Numbers of DIMM Slots Available: 2 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140877"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Number of DIMM Slots Populated: 2, 1 | RAM Expandability up to: 64, 32 Or higher | Display Size (in cm) - Diagonal: 35.56 to 38.07 (14 In to 14.99 In), 38.08 to 40.62 (15 In to 15.99 In) | Minimum Display Resolution (Pixels): FHD- 1920x1080 | Minimum Resolution of Webcam: HD-720p | Capacity of Storage Drive (in GB): 1024, 2048, 4096 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140877"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********West Kameng | 1 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140877"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "ेेतताा ाारराा जजोोड़ड़ गगईई बबडड कक ववशशेषेष शशतत",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140877"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 3. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 4. Generic Bidders shall quote only those products (Part of Service delivery) in the bid which are not obsolete in the market and has at least 4 years residual market life i.e. the offered product shall not be declared end-of- life by the OEM before this period. 5. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 6. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 7. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. OEM Authorisation: The bidder shall submit a valid authorisation certificate issued by the Original Equipment Manufacturer (OEM), specifically authorising the bidder to participate in the GeM bid and supply the offered product. The authorisation shall be verifiable with the OEM. 2. Genuine Product: The laptop offered and supplied shall be brand new, factory-sealed, unused and non-refurbished. Reconditioned, renewed, open-box or discontinued products shall not be accepted. 3. Technical Compliance: The bidder shall upload the official OEM product datasheet/brochure and a duly signed technical compliance statement establishing compliance with all specifications stipulate d in the bid. Incomplete or unverifiable technical submissions shall be liable for rejection. 4. OEM Warranty: The bidder shall provide an undertaking confirming that the offered configuration i s fully supported by the OEM and carries a minimum one-year comprehensive OEM warranty, verifia ble through the OEM's official website or customer support facility. 5. After-Sales Support: The bidder shall furnish details of the OEM-authorised service support netwo rk in India, along with a service escalation matrix and contact details for warranty-related complaint s. Warranty support shall be ensured at the consignee's location.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140877"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "6. Authenticity and Configuration Verification: The supplied laptop shall have a unique OEM-verif iable serial number. The Buyer reserves the right to verify the product's authenticity, configuration, warranty status and licensing before acceptance and generation of CRAC. 7. Undertaking Against Misrepresentation: Any false declaration, submission of forged document s, misrepresentation of OEM authorisation or supply of products deviating from the accepted configu ration shall render the bidder liable for rejection/disqualification or termination of contract, as applic able, in accordance with GeM GTC and applicable rules. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10140877"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

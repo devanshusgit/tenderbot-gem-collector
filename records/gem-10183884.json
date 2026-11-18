@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8289583",
   "title": "Nucleic Acid Sequencing and Genotyping Service - DNA sequencing; Insects, Microbes / Meta Genome; H",
   "description": "Nucleic Acid Sequencing and Genotyping Service - DNA sequencing; Insects, Microbes / Meta Genome; Human / Animal Tissue, Nucleic acids (DNA or RNA); To be collected by the service provider from the buyer; ABI",
-  "organisation": "Department of Defence Research & Development",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Defence Research & Development",
+  "organisation": "Defence Research And Development Organisation (drdo)",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Defence Research & Development",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Nucleic Acid Sequencing and Genotyping Service - DNA sequencing; Insects, Microbes / Meta Genome; H",
   "quantity": 100,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-18T16:05:13+05:30",
   "closing_at": "2026-12-09T16:00:00+05:30",
   "status": "active",
@@ -27,6 +27,31 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10183884"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": ":1794995298.pdf",
+      "url": "https://bidplus.gem.gov.in/resources/upload_nas/NovQ426/bidding/biddoc/bid-10183884/1794995298.pdf",
+      "page": 3
+    },
+    {
+      "name": "1794995320.pdf",
+      "url": "https://bidplus.gem.gov.in/resources/upload_nas/NovQ426/bidding/biddoc/bid-10183884/1794995320.pdf",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261118",
+      "page": 6
+    },
+    {
+      "name": "Service Level Agreement",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/bidsla/103711493325456",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +59,244 @@
   ],
   "source_fetched_at": "2026-11-18T11:55:11.349Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-10T16:00:00+05:30",
+  "buyer_email": "rahuldev.drde@gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "120 (Days)",
+  "contract_period": "1 Year(s)",
+  "source_document_fetched_at": "2026-11-18T16:02:36.998584+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "8c1808fc980cef77dcd1303d8ecf27135f0bb6f85be09ee039c379f7c7e08348",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "***********",
+      "address": "***********GWALIOR",
+      "quantity": 100,
+      "quantity_label": "Number of samples",
+      "delivery_days": null,
+      "additional_requirements": "N/A"
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Type of sequencing exercise to be done",
+          "value": "DNA sequencing"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type of organism for sequencing",
+          "value": "Insects , Microbes / Meta Genome"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type of sample",
+          "value": "Human / Animal Tissue , Nucleic acids (DNA or RNA)"
+        },
+        {
+          "group": "Core",
+          "parameter": "Sample collection option",
+          "value": "To be collected by the service provider from the buyer"
+        },
+        {
+          "group": "Core",
+          "parameter": "Which Chemistry / Platform you require",
+          "value": "ABI"
+        },
+        {
+          "group": "Core",
+          "parameter": "What quality reads per sample do you require",
+          "value": "95% and above"
+        },
+        {
+          "group": "Core",
+          "parameter": "What depth /coverage do you require",
+          "value": "100x"
+        },
+        {
+          "group": "Core",
+          "parameter": "Service required for number of samples to be analyzed",
+          "value": "High throughput"
+        },
+        {
+          "group": "Core",
+          "parameter": "What kind of output data is required",
+          "value": "Raw data , Primary analysis"
+        },
+        {
+          "group": "Core",
+          "parameter": "Data Delivery Mode",
+          "value": "Cloud storage , Physical media"
+        },
+        {
+          "group": "Core",
+          "parameter": "Data delivery timeframe",
+          "value": "30 days"
+        },
+        {
+          "group": "Core",
+          "parameter": "What kind of QC parameters are required",
+          "value": "System output QC parameters , Machine built QC parameters"
+        },
+        {
+          "group": "Core",
+          "parameter": "Model of sequencing facility to be followed",
+          "value": "Inhouse"
+        },
+        {
+          "group": "Core",
+          "parameter": "Model of bioinformatics analysis facility to be followed",
+          "value": "Inhouse"
+        },
+        {
+          "group": "Core",
+          "parameter": "Consent for the sample to be sent abroad for testing",
+          "value": "No"
+        },
+        {
+          "group": "Core",
+          "parameter": "Testing Lab Accreditations Certifications",
+          "value": "National Accreditation Board for Testing & Calibration Laboratories (NABL) , ISO/TS 22692:2020 Genomics informatics— Quality control metrics for DNA sequencing"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE 25% : The buyer can increase or decrease the contract quantity or contract duration up to 25 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 25 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 25 percent with the consent of the service provider"
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8289583",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183884"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 09-12-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183884"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 10-12-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183884"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183884"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183884"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Defence Research & Development",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183884"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Defence Research And Development Organisation (drdo)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183884"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :gem-drde@gov.in Buyer Email id: rahuldev.drde@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183884"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Nucleic Acid Sequencing and Genotyping Service - DNA sequencing; Insects, Microbes / Meta Genome; Human / Animal Tissue, Nucleic acids (DNA or RNA); To be collected by the service provider from the buyer; ABI",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183884"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 1 Year(s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183884"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183884"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183884"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183884"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183884"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183884"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Type of sequencing exercise to be done: DNA sequencing | Type of organism for sequencing: Insects , Microbes / Meta Genome | Type of sample: Human / Animal Tissue , Nucleic acids (DNA or RNA) | Sample collection option: To be collected by the service provider from the buyer | Which Chemistry / Platform you require: ABI | What quality reads per sample do you require: 95% and above | What depth /coverage do you require: 100x | Service required for number of samples to be analyzed: High throughput | What kind of output data is required: Raw data , Primary analysis | Data Delivery Mode: Cloud storage , Physical media | Data delivery timeframe: 30 days | What kind of QC parameters are required: System output QC parameters , Machine built QC parameters | Model of sequencing facility to be followed: Inhouse | Model of bioinformatics analysis facility to be followed: Inhouse | Consent for the sample to be sent abroad for testing: No | Testing Lab Accreditations Certifications: National Accreditation Board for Testing & Calibration Laboratories (NABL) , ISO/TS 22692:2020 Genomics informatics— Quality control metrics for DNA sequencing",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183884"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Number of samples | Additional Requirement: 1 | *********** | ***********GWALIOR | 100 | N/A",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183884"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE 25% : The buyer can increase or decrease the contract quantity or contract duration up to 25 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 25 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 25 percent with the consent of the service provider",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183884"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 100",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

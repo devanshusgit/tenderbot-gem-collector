@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8277883",
   "title": "Refractometer",
   "description": "Refractometer",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "Northern Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Refractometer",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-16T11:14:18+05:30",
   "closing_at": "2026-12-07T12:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10170343"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/KVLtJz5J11IMKwMzgx_LJuLw2Tv3X4T1hEVe05lJ1dE",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261116",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +49,317 @@
   ],
   "source_fetched_at": "2026-11-18T11:51:20.115Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-08T12:00:00+05:30",
+  "office": "Northern Railway",
+  "buyer_email": "yash.26752@gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "90 (Days)",
+  "source_document_fetched_at": "2026-11-19T22:02:07.530737+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "1224bf06bf6d33f808e9bbc20d0371fdf3605821939b550f8decc411ababf71a",
+  "document_pages": 7,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Himanshu Narwal",
+      "address": "131101,OFfice Of CWM, RCNK, HSIIDC, Phase III, Barhi, Sonipat-131101",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "SIZE / RANGE / ACCURACY",
+          "parameter": "Refractive index(nD) measurement range",
+          "value": "1.5"
+        },
+        {
+          "group": "SIZE / RANGE / ACCURACY",
+          "parameter": "Brix (Degree Bx) measurement range",
+          "value": "0 to 85%"
+        },
+        {
+          "group": "SIZE / RANGE / ACCURACY",
+          "parameter": "Accuracy (+/-) of refractive index measurement range",
+          "value": "0.1 (percent)"
+        },
+        {
+          "group": "SIZE / RANGE / ACCURACY",
+          "parameter": "Resoloution of refractive index measurement range",
+          "value": "0.1 (percent)"
+        },
+        {
+          "group": "SIZE / RANGE / ACCURACY",
+          "parameter": "Response Time",
+          "value": "1.0 (second)"
+        },
+        {
+          "group": "SIZE / RANGE / ACCURACY",
+          "parameter": "Sample Volume (Min)",
+          "value": "0.1 (milliliter)"
+        },
+        {
+          "group": "TYPE/APPLICATION",
+          "parameter": "Type",
+          "value": "Portable/Benchtop"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Ingress Protection",
+          "value": "IP65, IP66, IP67, IP68 Or higher"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Display",
+          "value": "LED"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Connectivity interface",
+          "value": "RS232"
+        },
+        {
+          "group": "POWER SOURCE",
+          "parameter": "Power Source",
+          "value": "Mains (230 ± 10 Volts / 50 Hz AC"
+        },
+        {
+          "group": "POWER SOURCE",
+          "parameter": "Battery Size",
+          "value": "AA"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Number of Batteries required for operation",
+          "value": "1"
+        },
+        {
+          "group": null,
+          "parameter": "Number of Batteries Inclusive in the Scope of Supply",
+          "value": "1"
+        },
+        {
+          "group": null,
+          "parameter": "Battery capacity (mAh",
+          "value": "1000.0 - 10000.0 Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Battery Life",
+          "value": "90.0 (hour)"
+        },
+        {
+          "group": null,
+          "parameter": "Batteries required for operation are inclusive in the scope of supply",
+          "value": "No Or higher"
+        },
+        {
+          "group": "SALIENT FEATURES",
+          "parameter": "SALIENT FEATURES",
+          "value": "Temperature compensation, Temperature control (4- 85 deg C), LED Light Source, Synthetic sapphire Prism, YAG (yttrium-aluminum-garnet) Prism"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Accessories in the scope of supply",
+          "value": "Operational Manual;, Carry case"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "WARRANTY",
+          "value": "24, 36 Or higher (month)"
+        },
+        {
+          "group": "OPERATING ENVIRONMENT",
+          "parameter": "Minimum Operating Temperature",
+          "value": "-10, -5 Or lower (degree Celsius)"
+        },
+        {
+          "group": "OPERATING ENVIRONMENT",
+          "parameter": "Maximum Operating Temperature",
+          "value": "50 Or higher (degree Celsius)"
+        },
+        {
+          "group": "OPERATING ENVIRONMENT",
+          "parameter": "Opeating Humidity",
+          "value": "90.0 (percent)"
+        },
+        {
+          "group": "CALIBRATION CERTIFICATE",
+          "parameter": "Calibration Certificate issuing authority",
+          "value": "OEM Certificate"
+        },
+        {
+          "group": "TEST REPORT",
+          "parameter": "Type of lab which carried out Test of Complete Product to prove the conformity of product as per specification",
+          "value": "OEM, ILAC accredited lab"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic"
+    },
+    {
+      "page": 5,
+      "text": "OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Railway reserves the right to purchase Bulk/Entire quantity from the Manufacturer or their Authorize d Agents/Dealer. 2. Manufacturer takes the full responsibility for the quality of the material including warranty obligations a nd the inspection against order of Railway. Tenderer must mention Make/Model/Brand of the item being of fered and there must not be any ambiguity of Make/Model while quoting the offer. 3. Authorized Agents/Dealer must attach the Bid specific Authorizations certificate along with the offer oth erwise offer will be summarily rejected. 4. short term offer liable for rejection. 5.Tenderers not uploading/attach the requisite documents with their offer may note that their offers are li able to be rejected without any further reference. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8277883",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170343"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 07-12-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170343"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 08-12-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170343"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170343"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170343"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170343"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Northern Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170343"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Northern Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170343"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :dycmmm@nr.railnet.gov.in Buyer Email id: yash.26752@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170343"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170343"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Refractometer (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170343"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170343"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170343"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170343"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170343"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170343"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170343"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Refractive index(nD) measurement range: 1.5 | Brix (Degree Bx) measurement range: 0 to 85% | Accuracy (+/-) of refractive index measurement range: 0.1 (percent) | Resoloution of refractive index measurement range: 0.1 (percent) | Response Time: 1.0 (second) | Sample Volume (Min): 0.1 (milliliter) | Type: Portable/Benchtop | Ingress Protection: IP65, IP66, IP67, IP68 Or higher | Display: LED | Connectivity interface: RS232 | Power Source: Mains (230 ± 10 Volts / 50 Hz AC | Battery Size: AA",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170343"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Number of Batteries required for operation: 1 | Number of Batteries Inclusive in the Scope of Supply: 1 | Battery capacity (mAh: 1000.0 - 10000.0 Or higher | Battery Life: 90.0 (hour) | Batteries required for operation are inclusive in the scope of supply: No Or higher | SALIENT FEATURES: Temperature compensation, Temperature control (4- 85 deg C), LED Light Source, Synthetic sapphire Prism, YAG (yttrium-aluminum-garnet) Prism | Accessories in the scope of supply: Operational Manual;, Carry case | WARRANTY: 24, 36 Or higher (month) | Minimum Operating Temperature: -10, -5 Or lower (degree Celsius) | Maximum Operating Temperature: 50 Or higher (degree Celsius) | Opeating Humidity: 90.0 (percent) | Calibration Certificate issuing authority: OEM Certificate | Type of lab which carried out Test of Complete Product to prove the conformity of product as per specification: OEM, ILAC accredited lab",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170343"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Himanshu Narwal | 131101,OFfice Of CWM, RCNK, HSIIDC, Phase III, Barhi, Sonipat-131101 | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170343"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170343"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Railway reserves the right to purchase Bulk/Entire quantity from the Manufacturer or their Authorize d Agents/Dealer. 2. Manufacturer takes the full responsibility for the quality of the material including warranty obligations a nd the inspection against order of Railway. Tenderer must mention Make/Model/Brand of the item being of fered and there must not be any ambiguity of Make/Model while quoting the offer. 3. Authorized Agents/Dealer must attach the Bid specific Authorizations certificate along with the offer oth erwise offer will be summarily rejected. 4. short term offer liable for rejection. 5.Tenderers not uploading/attach the requisite documents with their offer may note that their offers are li able to be rejected without any further reference. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170343"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8272781",
   "title": "True RMS Clamp Meter (V2)",
   "description": "True RMS Clamp Meter (V2)",
-  "organisation": "Department of Atomic Energy",
-  "ministry": "Department of Atomic Energy",
-  "department": "Department of Atomic Energy",
+  "organisation": "Directorate Of Purchase And Stores",
+  "ministry": "Department Of Atomic Energy",
+  "department": "Department Of Atomic Energy",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "True RMS Clamp Meter (V2)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-17T10:18:32+05:30",
   "closing_at": "2026-12-02T14:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10164284"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/xqoFhde-u9chGMpNex632fymaspeUaSa5g5MvWA6H6c",
+      "page": 3
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8272781/CLM0010/X_e38fff72-6428-4397-917e1794564648002_aporpum.docx",
+      "page": 5
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261117",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +54,279 @@
   ],
   "source_fetched_at": "2026-11-18T03:02:44.381Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-03T14:00:00+05:30",
+  "office": "Directorate Of Purchase And Stores",
+  "buyer_email": "apo.rpum-dae@gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "90 (Days)",
+  "source_document_fetched_at": "2026-11-19T08:02:31.795431+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "67cd13c825165abf8d46d845e6fb4e8a82ba06c02b2b6764dd56b77062fea06c",
+  "document_pages": 7,
+  "eligibility": [
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "M Lakshmi Priya",
+      "address": "507116,STORES UNIT, HWP MANUGURU, P.O. GAUTAMINAGAR, ASWAPURAM, BHADRADRI KOTHAGUDEM DIST.",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 60
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Genreric",
+          "parameter": "Type",
+          "value": "Handheld Clamp Meter"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "Measurement Type",
+          "value": "True RMS"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "Display",
+          "value": "3½ Digit LCD"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "Display Count",
+          "value": "2000 to 10000 counts"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "Jaw Opening",
+          "value": "32 mm"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "AC Current Measurement Range",
+          "value": "0 A to 1000 A"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "AC Current Accuracy",
+          "value": "±1% to ±2.5%"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "AC Voltage Measurement Range",
+          "value": "0 V to 1000 V"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "AC Voltage Accuracy",
+          "value": "±0.8% to ±2%"
+        },
+        {
+          "group": null,
+          "parameter": "DC Current Measurement Range",
+          "value": "0 A to 1000 A"
+        },
+        {
+          "group": null,
+          "parameter": "DC Current Accuracy",
+          "value": "±1% to ±2%"
+        },
+        {
+          "group": null,
+          "parameter": "DC Voltage Measurement Range",
+          "value": "0 mV to 1000 V"
+        },
+        {
+          "group": null,
+          "parameter": "DC Voltage Accuracy",
+          "value": "±0.5% to ±1.5%"
+        },
+        {
+          "group": null,
+          "parameter": "Resistance Measurement Range",
+          "value": "0 ? to 1000 M?"
+        },
+        {
+          "group": null,
+          "parameter": "Resistance Accuracy",
+          "value": "±1% to ±2%"
+        },
+        {
+          "group": null,
+          "parameter": "Frequency Measurement Range",
+          "value": "10 Hz to 100 kHz"
+        },
+        {
+          "group": null,
+          "parameter": "Frequency Accuracy",
+          "value": "±0.1% to ±0.5%"
+        },
+        {
+          "group": "Power Source",
+          "parameter": "Power Source",
+          "value": "Battery Operated"
+        },
+        {
+          "group": "Warranty",
+          "parameter": "Warranty (Year)",
+          "value": "1"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 2. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 3. Generic"
+    },
+    {
+      "page": 5,
+      "text": "Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 4. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1) File no. DPS/RPUM/25129 (i) 2) NOTE TO BIDDER:- IN THE EVENT OF ORDER, THE CONTRACTOR SHOULD SUPPLY THE MA TERIAL WITHIN THE ORIGINAL DELIVERY PERIOD MENTIONED IN THE C ONTRACT. IF NOT, THE HINDRANCE REGISTER SHOULD BE SUBMITTED WHICH IS MANDATORY DOCUMENT FOR CONSIDERATION OF GRANTIN G DP EXTENSION (IF REQUIRED). THE CONTRACTOR IS REQUIRED TO MAINTAIN HINDRANCE REGISTER F OR REPORTING HINDRANCE, IF ANY, WHILE EXECUTING THE WORK, AS PER ANNEXURE-X. THE CONTRACTOR SHALL GET RECORD OF HINDRA NCES IN THE HINDRANCE REGISTER(S) APPROVED/ ENDORSED BY THE PURCHASER. SUCH HINDRANCE IN THE WORK ENDORSED BY THE PUR CHASER WILL ONLY BE TAKEN INTO CONSIDERATION FOR GRANTING D ELIVERY DATE RE-FIXATION. . 5. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8272781",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164284"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 02-12-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164284"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 03-12-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164284"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164284"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Department Of Atomic Energy",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164284"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Atomic Energy",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164284"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Directorate Of Purchase And Stores",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164284"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Directorate Of Purchase And Stores",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164284"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :hod_dps_gem@dpsdae.gov.in Buyer Email id: apo.rpum-dae@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164284"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164284"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: True RMS Clamp Meter (V2) (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164284"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164284"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164284"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164284"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164284"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164284"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Type: Handheld Clamp Meter | Measurement Type: True RMS | Display: 3½ Digit LCD | Display Count: 2000 to 10000 counts | Jaw Opening: 32 mm | AC Current Measurement Range: 0 A to 1000 A | AC Current Accuracy: ±1% to ±2.5% | AC Voltage Measurement Range: 0 V to 1000 V",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164284"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "AC Voltage Accuracy: ±0.8% to ±2% | DC Current Measurement Range: 0 A to 1000 A | DC Current Accuracy: ±1% to ±2% | DC Voltage Measurement Range: 0 mV to 1000 V | DC Voltage Accuracy: ±0.5% to ±1.5% | Resistance Measurement Range: 0 ? to 1000 M? | Resistance Accuracy: ±1% to ±2% | Frequency Measurement Range: 10 Hz to 100 kHz | Frequency Accuracy: ±0.1% to ±0.5% | Power Source: Battery Operated | Warranty (Year): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164284"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | M Lakshmi Priya | 507116,STORES UNIT, HWP MANUGURU, P.O. GAUTAMINAGAR, ASWAPURAM, BHADRADRI KOTHAGUDEM DIST. | 1 | 60",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164284"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 2. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 3. Generic",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164284"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 4. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1) File no. DPS/RPUM/25129 (i) 2) NOTE TO BIDDER:- IN THE EVENT OF ORDER, THE CONTRACTOR SHOULD SUPPLY THE MA TERIAL WITHIN THE ORIGINAL DELIVERY PERIOD MENTIONED IN THE C ONTRACT. IF NOT, THE HINDRANCE REGISTER SHOULD BE SUBMITTED WHICH IS MANDATORY DOCUMENT FOR CONSIDERATION OF GRANTIN G DP EXTENSION (IF REQUIRED). THE CONTRACTOR IS REQUIRED TO MAINTAIN HINDRANCE REGISTER F OR REPORTING HINDRANCE, IF ANY, WHILE EXECUTING THE WORK, AS PER ANNEXURE-X. THE CONTRACTOR SHALL GET RECORD OF HINDRA NCES IN THE HINDRANCE REGISTER(S) APPROVED/ ENDORSED BY THE PURCHASER. SUCH HINDRANCE IN THE WORK ENDORSED BY THE PUR CHASER WILL ONLY BE TAKEN INTO CONSIDERATION FOR GRANTING D ELIVERY DATE RE-FIXATION. . 5. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10164284"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

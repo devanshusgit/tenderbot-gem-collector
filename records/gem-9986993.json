@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8118470",
   "title": "Diesel Power Generator (V2)",
   "description": "Diesel Power Generator (V2),Diesel Power Generator (V2)",
-  "organisation": "Central Armed Police Forces",
-  "ministry": "Ministry of Home Affairs",
+  "organisation": "Central Reserve Police Force (crpf)",
+  "ministry": "Ministry Of Home Affairs",
   "department": "Central Armed Police Forces",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Diesel Power Generator (V2)",
   "quantity": 2,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 42000,
   "published_at": "2026-11-16T13:12:27+05:30",
   "closing_at": "2026-12-01T16:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 5
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/9xQwLEBMVspuU4ezbwGvpmZH-Ug7vZd_wJ77DFyt8Ls",
+      "page": 6
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261116",
+      "page": 18
     }
   ],
   "tags": [
@@ -34,5 +49,377 @@
   ],
   "source_fetched_at": "2026-11-18T03:01:01.745Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-02T16:00:00+05:30",
+  "office": "Dte. Genl.",
+  "buyer_email": "wshqs@crpf.gov.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 7,
+  "oem_turnover_lakhs": 42,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 38,
+  "offer_validity": "120 (Days)",
+  "estimated_bid_value": 1400000,
+  "source_document_fetched_at": "2026-11-19T21:37:40.633541+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "5384a1c505d446107a7be1a090240c9b07ed2e70ea0db92d4df0972a14092725",
+  "document_pages": 18,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 7 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 42 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 30 % (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 7,
+      "consignee": "Pooja Panwar",
+      "address": "440019,Commandant 213 (M) Bn, CRPF, Hingna Road, Nagpur, Pin- 440019",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 90
+    },
+    {
+      "page": 7,
+      "consignee": "Vijaya Dhoundiyal",
+      "address": "382042,135BN CRPF, GC CRPF , CHILODA ROAD , GANDHINAGAR,",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 90
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": "Installation Configuration",
+          "parameter": "Installation Type",
+          "value": "Skid Mounted"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Nominal Rated Capacity (in KVA)",
+          "value": "30.0"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Number of Phases",
+          "value": "Three Phase"
+        },
+        {
+          "group": "Engine",
+          "parameter": "Type of Engine Cooling",
+          "value": "Air Cooled, Liquid Cooled"
+        },
+        {
+          "group": "Engine",
+          "parameter": "Type of Fuel System",
+          "value": "Direct Injection Fuel System, CRDi (common rail direct injection) Fuel System"
+        },
+        {
+          "group": "Engine",
+          "parameter": "Provision of Cold Start",
+          "value": "Yes (upto -20°C), No"
+        },
+        {
+          "group": "Alternator",
+          "parameter": "Voltage Regulation Grade",
+          "value": "VG 3 Or higher"
+        },
+        {
+          "group": "Governing Class",
+          "parameter": "Type of Governor",
+          "value": "Mechanical, Electronic Or higher"
+        },
+        {
+          "group": "Control Panel",
+          "parameter": "Type of Control Panel",
+          "value": "Manual Control Panel, AMF (Automatic Mains Failure) Control Panel Or higher"
+        },
+        {
+          "group": "Control Panel",
+          "parameter": "IP (Ingress Protection) Rating of Control Panel",
+          "value": "IP54, IP55 Or higher"
+        },
+        {
+          "group": "Acoustic Enclosure",
+          "parameter": "Noise Level at 1 Meter (in dB)",
+          "value": "? 75 dB (A)"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 8,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Scope of supply includes Training: Number of employees to be trained 4 , Place for Training At consignee locatin as per bid and Duration of training 2 days. 3. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 4. Generic Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained"
+    },
+    {
+      "page": 9,
+      "text": "mismatch of technical parameters, the bid is liable for rejection. 5. Generic End User Certificate: Wherever Bidders are insisting for End User Certificate from the Buyer, same shall be provided in Buyer’s standard format only. 6. Generic Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU for 3 years before the bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the primary product having highest value should meet this criterion. 7. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 8. Generic While generating invoice in GeM portal, the seller must upload scanned copy of GST invoice and the screenshot of GST portal confirming payment of GST. 9. Generic Shelf Life: The Product/Spare parts to be supplied as part of the services must have minimum 10 Shelf Life. On the date of supply, minimum 10 usable shelf life should be available / balance. 10. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 11. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 12. Turnover Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. 13. Turnover OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of"
+    },
+    {
+      "page": 10,
+      "text": "CATEGORY RELATED TO primary product having highest bid value should meet this criterion. 14. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 15. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 16. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 17. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 18. Certificates ISO 9001: The bidder or the OEM of the offered products must have ISO 9001 certification. 19. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 20. Warranty Timely Servicing / rectification of defects during warranty period: After having been notified of the defects / service requirement during warranty period, Seller has to complete the required Service / Rectification within 3 days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the Buyer. 21. Warranty Warranty period of the supplied products shall be 3 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 22. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in favour of THE DIG(P&A), WESTERN SECTOR, CRPF, NAVI MUMBAI"
+    },
+    {
+      "page": 11,
+      "text": "payable at SBI KONKAN BHAVAN, CBD BELAPUR, NAVI MUMBAI . After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of contract. 23. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of DIG(P&A), WESTERN SECTOR , CRPF, NAVI MUMBAI A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract. 24. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Buyer Added text based ATC clauses :- EMD : As per GoI MoF DoE PPD OM No.F.9/4/2020-PPD dated 12/11/2020, MSEs and the firms regis tered with concerned Ministries/Department are exempted from submission of Bid security. Hence , bid security declaration should be attached (proforma given below). Bid security declaration in fol lowing for mat shall be submitted by the bidders invariably BID SECURITY DECLARATION CERTIFICATE To, The DIGP, (P&A) O/O IGP, WS, CRPF Belapur, Navi Mumbai, Maharashtra Sir, Tender No................................. Dated ............................ Name of the Items/Stores :- 30 KVA DG SET AS PER SPECIFICATION OF :- Directorate Gener al, BSF, CGO Complex Lodhi Road, New Delhi letter No.P-63013/155/02/2024/Mod-I/BSF/ 627-30 dated 21/02/2025 (Available on CRPF. MHA official website). We, M/s ............................................... undertake that if we withdraw or modify our bid during the period of bid’s validity, or if we are awarded the contract and we fail to sign the contract, or fail to submit a Performance Security Deposit as per Terms and conditions of T/E as well as A/T before th e deadline defined in bids document, then we are liable to be suspended for the period of 02 year s form being eligible to participate and submit bids for the T/E or any contract with Procurement E ntity (CRPF) Yours Faithfully (Signature of the Authorised Signatory of Bidder, with Official seal) 02. Performance security should be in favour of The DIGP, (P&A), O/O IGP, WS, CRPF, CBD, Belapur , Navi Mumbai, Maharashtra , wherever, it is applicable. 03. Past performance criteria : a) The Bidder or its OEM {themselves or through re-seller(s)} shoul"
+    },
+    {
+      "page": 12,
+      "text": "d have supplied same or similar Category Products (Only DG Set considered as same and similar it em) for 30% (i.e. 01 DG Set (30 KVA)) of bid quantity, in at least one of the last three year before t he bid opening date to any Central/ State Govt Orgnization/ PSU/ Public Listed Company). Copies o f relevant contracts (PROVING SUPPLY OF CUMULATIVE ORDER QUANTITY IN ANY ONE YEAR) to be submitted along with bid in support of quantity supplied in the relevant year. In case of bunch bid s, the CATEGORY RELATED TO primary product having highest bid value should meet this criterion. b) Copies of relevant contracts along with CRAC or a certificate from concerned buyers that, store s in reference have been successfully supplied to be submitted along with bid in support of having supplied some quantity at least one of the last three Financial year. 04. Only DG sets should be considered as same as similar item. 05. Lab Test Report from Govt./NABL accredited lab is required with bids for conforming the requir ements of All the parameters of governing specification of SUBJECT store and also certificate requ ired as per CPCB-IV norms from ARAI or CPCB authorized agency. Type approval certificate for the specified rating of the power Generator from any of the designated agency authorized by CPCB an d fulfills CPCB-IV norms, Noise level at 1 meter(db) COP certificate for engine, type test report for alternators per IS-13364(Part-I) latest/IS-13364(Part-II) latest, “H” Class of Insulation, ISO 3Q46/BS-5514 for Electronic Governors of A1 class with actuator and 3 phase DG set should gener ate 415 V AC electricity to prove conformity to the specifications. 06. Inspection charges shall be borne by the supplier and it shall not be reimbursed by indenter to them at any point in time. 07. Inspection agency will be inspected by the details BOOs. 08. DG Set must be 4 Stroke and DG Set engine should be make in India certificate. 09. Bidders are required to give declaration in the format given below:- (On firm’s letter head). I, ....................... ( Name & Designation ) of M/s ...................... (Name of firm) hereby declare that , I have understood that as per bid document at column “inspection Required “ it is mentioned “No ” which is due to non-availability of name of the Inspection Agency at GeM System, I understand t hat, in fact inspection is required and I have read the conditions mentioned in Bid specific Addition al Terms and Conditions and agree required and I have read the conditions mentioned in Bid speci fic Additional Terms and Conditions and agree to get the stores inspected before dispatch (PDI) for m BOARD OF OFFICERS :- Pre-dispatch Inspection at Seller Premises. Post Receipt Inspection at consignee site before acceptance of stores by: RESPECTIVE CONSIGN EE THROUGH LINE COMMITTEE. It is at discretion of the buyer to associate their Board of Office r along with authorized inspection agency. Signature..................... Name of the firm................. Designation.......................... 10. Bidder/Supplier /Organization /Proprietor/Any of the director(s) shall not be banned or suspend ed or black listed by any Govt. 11. In case the bidder/reseller is participating in the bid the OEM’s authorization for th e specific bid is required. As in the past it has been seen that some bidder have participated wi th expired authorization. 12. Bidders should ensure that QR/Specification issued by Directorate General, BSF, CGO Complex Lodhi Road, New Delhi- letter No. P-63013/155/02/2024/Mod-I/BSF/627-30 dated 21/02/2025 (Avail able on CRPF, MHA official website) must be matched otherwise Bid may be rejected."
+    },
+    {
+      "page": 13,
+      "text": "13. Earthing :- Construction of suitable earthing station and necessary connections shall be done by the seller. 14. Wiring :- Supply, laying and termination of interconnecting power and control cable shall be d one by the seller. The cable supplied shall be ISI marked heavy duty PVC insulated, armoured cabl e with PVC outer. 15. Installation & Commissioning :- Successful supplier firm has to supply the store with Install ation and NABL certificate has to be submitted after commissioning. 16. Warranty of complete power generator/ DG set :- 36 months and Warranty for running h ours :- 5000 hrs. 17. Successful supplier firm has to provide User manual, operating manual/technical manual and s pecific tools as per QRs/Specification to each consignee. 18. Manufacture/importers/retrofitters shall provide written information and installation instruction s for us by retrofitters/installers, and operation and maintenance instruction for use by buyer/consignee. 19. Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consig nee only. 20. Back-loading of store : In case the supplier does not lift the rejected goods within the stipulated time, a ground rent (say at 0.2% to 0.5% per day of the value of goods as per contract) will be levied. If the supplier does n ot respond within a reasonable time, the procuring entity may treat the material as scrap and disp ose it off as deemed fit, under intimation to the supplier, to recover its dues. 21. If the supplier fails to deliver any or all of the goods or fails to perform the services within the t ime frame(s) incorporated in the contract, the Purchaser shall, without prejudice to other rights an d remedies available to the Purchaser under the contract, deduct from the contract price, as liquid ated damages, a sum equivalent to 0.5% per week of delay or part thereof on delayed supply of g oods and / or services until actual delivery or performance subject to a maximum of 10% of the co ntract price. Once the maximum is reached purchaser/consignee may consider termination of the contract and initiate remedies available under law for the loss and damage caused to the purchaser. 22. Participants/bidders to ensure to adherence of CVC guidelines issued from time to time and transparency in procurement process Code of Integrity & conflict of interest and following underta king is required form the participants/bidders. Format for declaration by the Bidder for Code of Integrity & conflict of interest (On the Letter Head of the Bidder) Ref. No. Date To, The DIGP, (P&A), O/O IGP, WS, CRPF, CBD, Belapur, Navi Mumbai, Maharashtra (Name & address of the Purchaser) Sir, With reference to your Tender No. dated I/We hereby declare that we shall abide by the Code of I ntegrity for Public Procurement as mentioned under Para of your Tender document and have no c onflict of interest as mentioned under Para............. of Tender. The details of any previous transgre ssions of the code of integrity with any entity in any country during the last three years or of being debarred by any other Procuring Entity are as under :(a)"
+    },
+    {
+      "page": 14,
+      "text": "(b) (c) We undertake that we shall be liable for any punitive action in case of transgression/ contraventio n of this code. Thanking you. Yours sincerely. Signature (Name of the Authorized Signatory) company Seal 23. Termination of contract: time shall be the essence of the contract. The Purchaser shall have th e right to terminate this Contract without any notice in part or in full in any of the following cases. a) The delivery of the material is delayed for causes not attributable to Force Majeure after the sch eduled date of delivery. b) The seller is declared bankrupt or becomes insolvent. c) The delivery material is delayed due to causes of Force Majeure by more than 90 days. d) In case Performance Bank Guarantee(PBG) is not furnished within 15 days from the date of issu e of contract (supply order). 24. OUTPUT CAPACITY RATING/PHASE:- 30 KVA DG SET with three Phase. 25. AS per QRs/Specification of DG set issued by Directorate General, BSG, CGO Complex Lodhi Ro ad, New Delhi- letter No.P-63013/155/02/2024/Mod-I/BSF/627-30 dated 21/02/2025 following para meter may be adhered :- (a) Acoustics Enclosure (Sheet Thickness- 1.6 to 2 Millimeter (b) Thickness of foam- 25 to 40 Millimeter. (c) Density of foam for sound insulation- 28 to 5 Kg/m3. 26. Noise level of DG Set at 1 meter (dB)-75dB(A), Class of insulation- H must be adhered. 27. Other required specification/details (which has been clarified below) must be as un der:- Sl No. Criteria/ Parameters/Issues Clarification/Remarks i) Capacity of Diesel Generator(DG) Capacity of Diesel Generator(DG) Set requ Set. ired is 30 KVA. ii) Control Panel with IP Rating Digital with AMF (Auto Mains Failure) pane l for protection, metering and operation. IP 53/IP 54/IP 55 iii) Engine : Cooling As per QRs Air cooled or Liquid cooled, b oth allowed. iv) Number of cyliners (Nos.) Single or Multi Cylinder (Both Allowed) v) Engine type Naturally Aspirated or Turbo charged as p er QRs, is allowed. vi) Salient features of engine Turbo charged diesel engine/Natural Aspir ated diesel injection fuel system."
+    },
+    {
+      "page": 15,
+      "text": "vii) Type of Governer Electronic governer viii) Installation & Commissioning With installation. ix) Testing Certificate required as per CPCB norms fro m ARAI or authorised NABL accredited lab. x) Trailer is required or not Transportable (Skid mounted) xi) Automatic Voltage regulator Gra VG2/VG3 or better version de xii) Display meter in the Control Multifunction Digital display meter displin panel (with appropriate rating an g Voltage, Current,, Freguency, Power d accuracy class) inclusive in the Factor). s cope of supply xii) Play load of the Trailer As per weight of the Generator Set. xiv) Power Generator installation conf Transportable ( Skid Mounted) igurations as defined in CPWD Ge neral Specifications for Electrical works Part-VII ( DG Set) xv) Noisee level at 1 mete (dB) 75 xvi) Fuel Tank Features Fuel Tank Capacity is suficient for 8 hrs of runing at full load. xvii) Battery Capacity (AH) 95.88 xviii) Pay load of th Trailer 0,500, 1000, 2000 or higher (kilogram) xix) Warranty on Complee power gen 36 or higher (Month) erator/DG Set xx) Number of preventive maintenan 3 ce visits offered in an year during warranty period ( Supply of all co nsumables is the buyer’s respons ibility). xxi) Agree to provide all relevant doc Yes ument Test Report/Supporting do cuments/report etc to the buyer at the time of bidding or no de m and. xxii) Confformity to India standard for Generally conforming to Is: 1364 ( Part-2) l Alternator atest (Above 20 KVA) 28. Demonstration of the Diesel Generator(DG) sets (30 KVA) by the technically qualified bid ders, to comply the QRs/Specification, as per GeM Bi d Terms & Conditions, is required, at the plac e date and time given by the buyer. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8118470",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 01-12-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 02-12-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Home Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Central Armed Police Forces",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Central Reserve Police Force (crpf)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Dte. Genl.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :gemcelldte@crpf.gov.in Buyer Email id: wshqs@crpf.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 2",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Diesel Power Generator (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 7 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 42 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 30 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 1400000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "emd_fee",
+      "page": 3,
+      "quote": "EMD Amount: 42000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "emd_required",
+      "page": 3,
+      "quote": "EMD Amount: 42000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 38",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Installation Type: Skid Mounted | Nominal Rated Capacity (in KVA): 30.0 | Number of Phases: Three Phase | Type of Engine Cooling: Air Cooled, Liquid Cooled | Type of Fuel System: Direct Injection Fuel System, CRDi (common rail direct injection) Fuel System | Provision of Cold Start: Yes (upto -20°C), No | Voltage Regulation Grade: VG 3 Or higher | Type of Governor: Mechanical, Electronic Or higher | Type of Control Panel: Manual Control Panel, AMF (Automatic Mains Failure) Control Panel Or higher | IP (Ingress Protection) Rating of Control Panel: IP54, IP55 Or higher | Noise Level at 1 Meter (in dB): ? 75 dB (A)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "consignees",
+      "page": 7,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Pooja Panwar | 440019,Commandant 213 (M) Bn, CRPF, Hingna Road, Nagpur, Pin- 440019 | 1 | 90",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "consignees",
+      "page": 7,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 2 | Vijaya Dhoundiyal | 382042,135BN CRPF, GC CRPF , CHILODA ROAD , GANDHINAGAR, | 1 | 90",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Scope of supply includes Training: Number of employees to be trained 4 , Place for Training At consignee locatin as per bid and Duration of training 2 days. 3. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 4. Generic Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "mismatch of technical parameters, the bid is liable for rejection. 5. Generic End User Certificate: Wherever Bidders are insisting for End User Certificate from the Buyer, same shall be provided in Buyer’s standard format only. 6. Generic Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU for 3 years before the bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the primary product having highest value should meet this criterion. 7. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 8. Generic While generating invoice in GeM portal, the seller must upload scanned copy of GST invoice and the screenshot of GST portal confirming payment of GST. 9. Generic Shelf Life: The Product/Spare parts to be supplied as part of the services must have minimum 10 Shelf Life. On the date of supply, minimum 10 usable shelf life should be available / balance. 10. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 11. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 12. Turnover Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. 13. Turnover OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "CATEGORY RELATED TO primary product having highest bid value should meet this criterion. 14. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 15. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 16. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 17. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 18. Certificates ISO 9001: The bidder or the OEM of the offered products must have ISO 9001 certification. 19. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 20. Warranty Timely Servicing / rectification of defects during warranty period: After having been notified of the defects / service requirement during warranty period, Seller has to complete the required Service / Rectification within 3 days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the Buyer. 21. Warranty Warranty period of the supplied products shall be 3 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 22. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in favour of THE DIG(P&A), WESTERN SECTOR, CRPF, NAVI MUMBAI",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 11,
+      "quote": "payable at SBI KONKAN BHAVAN, CBD BELAPUR, NAVI MUMBAI . After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of contract. 23. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of DIG(P&A), WESTERN SECTOR , CRPF, NAVI MUMBAI A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract. 24. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Buyer Added text based ATC clauses :- EMD : As per GoI MoF DoE PPD OM No.F.9/4/2020-PPD dated 12/11/2020, MSEs and the firms regis tered with concerned Ministries/Department are exempted from submission of Bid security. Hence , bid security declaration should be attached (proforma given below). Bid security declaration in fol lowing for mat shall be submitted by the bidders invariably BID SECURITY DECLARATION CERTIFICATE To, The DIGP, (P&A) O/O IGP, WS, CRPF Belapur, Navi Mumbai, Maharashtra Sir, Tender No................................. Dated ............................ Name of the Items/Stores :- 30 KVA DG SET AS PER SPECIFICATION OF :- Directorate Gener al, BSF, CGO Complex Lodhi Road, New Delhi letter No.P-63013/155/02/2024/Mod-I/BSF/ 627-30 dated 21/02/2025 (Available on CRPF. MHA official website). We, M/s ............................................... undertake that if we withdraw or modify our bid during the period of bid’s validity, or if we are awarded the contract and we fail to sign the contract, or fail to submit a Performance Security Deposit as per Terms and conditions of T/E as well as A/T before th e deadline defined in bids document, then we are liable to be suspended for the period of 02 year s form being eligible to participate and submit bids for the T/E or any contract with Procurement E ntity (CRPF) Yours Faithfully (Signature of the Authorised Signatory of Bidder, with Official seal) 02. Performance security should be in favour of The DIGP, (P&A), O/O IGP, WS, CRPF, CBD, Belapur , Navi Mumbai, Maharashtra , wherever, it is applicable. 03. Past performance criteria : a) The Bidder or its OEM {themselves or through re-seller(s)} shoul",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 12,
+      "quote": "d have supplied same or similar Category Products (Only DG Set considered as same and similar it em) for 30% (i.e. 01 DG Set (30 KVA)) of bid quantity, in at least one of the last three year before t he bid opening date to any Central/ State Govt Orgnization/ PSU/ Public Listed Company). Copies o f relevant contracts (PROVING SUPPLY OF CUMULATIVE ORDER QUANTITY IN ANY ONE YEAR) to be submitted along with bid in support of quantity supplied in the relevant year. In case of bunch bid s, the CATEGORY RELATED TO primary product having highest bid value should meet this criterion. b) Copies of relevant contracts along with CRAC or a certificate from concerned buyers that, store s in reference have been successfully supplied to be submitted along with bid in support of having supplied some quantity at least one of the last three Financial year. 04. Only DG sets should be considered as same as similar item. 05. Lab Test Report from Govt./NABL accredited lab is required with bids for conforming the requir ements of All the parameters of governing specification of SUBJECT store and also certificate requ ired as per CPCB-IV norms from ARAI or CPCB authorized agency. Type approval certificate for the specified rating of the power Generator from any of the designated agency authorized by CPCB an d fulfills CPCB-IV norms, Noise level at 1 meter(db) COP certificate for engine, type test report for alternators per IS-13364(Part-I) latest/IS-13364(Part-II) latest, “H” Class of Insulation, ISO 3Q46/BS-5514 for Electronic Governors of A1 class with actuator and 3 phase DG set should gener ate 415 V AC electricity to prove conformity to the specifications. 06. Inspection charges shall be borne by the supplier and it shall not be reimbursed by indenter to them at any point in time. 07. Inspection agency will be inspected by the details BOOs. 08. DG Set must be 4 Stroke and DG Set engine should be make in India certificate. 09. Bidders are required to give declaration in the format given below:- (On firm’s letter head). I, ....................... ( Name & Designation ) of M/s ...................... (Name of firm) hereby declare that , I have understood that as per bid document at column “inspection Required “ it is mentioned “No ” which is due to non-availability of name of the Inspection Agency at GeM System, I understand t hat, in fact inspection is required and I have read the conditions mentioned in Bid specific Addition al Terms and Conditions and agree required and I have read the conditions mentioned in Bid speci fic Additional Terms and Conditions and agree to get the stores inspected before dispatch (PDI) for m BOARD OF OFFICERS :- Pre-dispatch Inspection at Seller Premises. Post Receipt Inspection at consignee site before acceptance of stores by: RESPECTIVE CONSIGN EE THROUGH LINE COMMITTEE. It is at discretion of the buyer to associate their Board of Office r along with authorized inspection agency. Signature..................... Name of the firm................. Designation.......................... 10. Bidder/Supplier /Organization /Proprietor/Any of the director(s) shall not be banned or suspend ed or black listed by any Govt. 11. In case the bidder/reseller is participating in the bid the OEM’s authorization for th e specific bid is required. As in the past it has been seen that some bidder have participated wi th expired authorization. 12. Bidders should ensure that QR/Specification issued by Directorate General, BSF, CGO Complex Lodhi Road, New Delhi- letter No. P-63013/155/02/2024/Mod-I/BSF/627-30 dated 21/02/2025 (Avail able on CRPF, MHA official website) must be matched otherwise Bid may be rejected.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 13,
+      "quote": "13. Earthing :- Construction of suitable earthing station and necessary connections shall be done by the seller. 14. Wiring :- Supply, laying and termination of interconnecting power and control cable shall be d one by the seller. The cable supplied shall be ISI marked heavy duty PVC insulated, armoured cabl e with PVC outer. 15. Installation & Commissioning :- Successful supplier firm has to supply the store with Install ation and NABL certificate has to be submitted after commissioning. 16. Warranty of complete power generator/ DG set :- 36 months and Warranty for running h ours :- 5000 hrs. 17. Successful supplier firm has to provide User manual, operating manual/technical manual and s pecific tools as per QRs/Specification to each consignee. 18. Manufacture/importers/retrofitters shall provide written information and installation instruction s for us by retrofitters/installers, and operation and maintenance instruction for use by buyer/consignee. 19. Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consig nee only. 20. Back-loading of store : In case the supplier does not lift the rejected goods within the stipulated time, a ground rent (say at 0.2% to 0.5% per day of the value of goods as per contract) will be levied. If the supplier does n ot respond within a reasonable time, the procuring entity may treat the material as scrap and disp ose it off as deemed fit, under intimation to the supplier, to recover its dues. 21. If the supplier fails to deliver any or all of the goods or fails to perform the services within the t ime frame(s) incorporated in the contract, the Purchaser shall, without prejudice to other rights an d remedies available to the Purchaser under the contract, deduct from the contract price, as liquid ated damages, a sum equivalent to 0.5% per week of delay or part thereof on delayed supply of g oods and / or services until actual delivery or performance subject to a maximum of 10% of the co ntract price. Once the maximum is reached purchaser/consignee may consider termination of the contract and initiate remedies available under law for the loss and damage caused to the purchaser. 22. Participants/bidders to ensure to adherence of CVC guidelines issued from time to time and transparency in procurement process Code of Integrity & conflict of interest and following underta king is required form the participants/bidders. Format for declaration by the Bidder for Code of Integrity & conflict of interest (On the Letter Head of the Bidder) Ref. No. Date To, The DIGP, (P&A), O/O IGP, WS, CRPF, CBD, Belapur, Navi Mumbai, Maharashtra (Name & address of the Purchaser) Sir, With reference to your Tender No. dated I/We hereby declare that we shall abide by the Code of I ntegrity for Public Procurement as mentioned under Para of your Tender document and have no c onflict of interest as mentioned under Para............. of Tender. The details of any previous transgre ssions of the code of integrity with any entity in any country during the last three years or of being debarred by any other Procuring Entity are as under :(a)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 14,
+      "quote": "(b) (c) We undertake that we shall be liable for any punitive action in case of transgression/ contraventio n of this code. Thanking you. Yours sincerely. Signature (Name of the Authorized Signatory) company Seal 23. Termination of contract: time shall be the essence of the contract. The Purchaser shall have th e right to terminate this Contract without any notice in part or in full in any of the following cases. a) The delivery of the material is delayed for causes not attributable to Force Majeure after the sch eduled date of delivery. b) The seller is declared bankrupt or becomes insolvent. c) The delivery material is delayed due to causes of Force Majeure by more than 90 days. d) In case Performance Bank Guarantee(PBG) is not furnished within 15 days from the date of issu e of contract (supply order). 24. OUTPUT CAPACITY RATING/PHASE:- 30 KVA DG SET with three Phase. 25. AS per QRs/Specification of DG set issued by Directorate General, BSG, CGO Complex Lodhi Ro ad, New Delhi- letter No.P-63013/155/02/2024/Mod-I/BSF/627-30 dated 21/02/2025 following para meter may be adhered :- (a) Acoustics Enclosure (Sheet Thickness- 1.6 to 2 Millimeter (b) Thickness of foam- 25 to 40 Millimeter. (c) Density of foam for sound insulation- 28 to 5 Kg/m3. 26. Noise level of DG Set at 1 meter (dB)-75dB(A), Class of insulation- H must be adhered. 27. Other required specification/details (which has been clarified below) must be as un der:- Sl No. Criteria/ Parameters/Issues Clarification/Remarks i) Capacity of Diesel Generator(DG) Capacity of Diesel Generator(DG) Set requ Set. ired is 30 KVA. ii) Control Panel with IP Rating Digital with AMF (Auto Mains Failure) pane l for protection, metering and operation. IP 53/IP 54/IP 55 iii) Engine : Cooling As per QRs Air cooled or Liquid cooled, b oth allowed. iv) Number of cyliners (Nos.) Single or Multi Cylinder (Both Allowed) v) Engine type Naturally Aspirated or Turbo charged as p er QRs, is allowed. vi) Salient features of engine Turbo charged diesel engine/Natural Aspir ated diesel injection fuel system.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 15,
+      "quote": "vii) Type of Governer Electronic governer viii) Installation & Commissioning With installation. ix) Testing Certificate required as per CPCB norms fro m ARAI or authorised NABL accredited lab. x) Trailer is required or not Transportable (Skid mounted) xi) Automatic Voltage regulator Gra VG2/VG3 or better version de xii) Display meter in the Control Multifunction Digital display meter displin panel (with appropriate rating an g Voltage, Current,, Freguency, Power d accuracy class) inclusive in the Factor). s cope of supply xii) Play load of the Trailer As per weight of the Generator Set. xiv) Power Generator installation conf Transportable ( Skid Mounted) igurations as defined in CPWD Ge neral Specifications for Electrical works Part-VII ( DG Set) xv) Noisee level at 1 mete (dB) 75 xvi) Fuel Tank Features Fuel Tank Capacity is suficient for 8 hrs of runing at full load. xvii) Battery Capacity (AH) 95.88 xviii) Pay load of th Trailer 0,500, 1000, 2000 or higher (kilogram) xix) Warranty on Complee power gen 36 or higher (Month) erator/DG Set xx) Number of preventive maintenan 3 ce visits offered in an year during warranty period ( Supply of all co nsumables is the buyer’s respons ibility). xxi) Agree to provide all relevant doc Yes ument Test Report/Supporting do cuments/report etc to the buyer at the time of bidding or no de m and. xxii) Confformity to India standard for Generally conforming to Is: 1364 ( Part-2) l Alternator atest (Above 20 KVA) 28. Demonstration of the Diesel Generator(DG) sets (30 KVA) by the technically qualified bid ders, to comply the QRs/Specification, as per GeM Bi d Terms & Conditions, is required, at the plac e date and time given by the buyer. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9986993"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

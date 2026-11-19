@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8237536",
   "title": "File/Folder (V3)",
   "description": "File/Folder (V3)",
-  "organisation": "NA",
-  "ministry": "Ministry of Textiles",
-  "department": "NA",
+  "organisation": "N/a",
+  "ministry": "Ministry Of Textiles",
+  "department": "Na",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "File/Folder (V3)",
   "quantity": 50,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-17T11:51:10+05:30",
   "closing_at": "2026-12-15T12:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10123919"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/3cj8jBM4gp4o6INI2YDm4RZC-oqCPGQDnQzg-eQtrvg",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261117",
+      "page": 5
     }
   ],
   "tags": [
@@ -34,5 +49,210 @@
   ],
   "source_fetched_at": "2026-11-18T19:43:27.263Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-16T12:00:00+05:30",
+  "office": "Regional Office Of Textile Commissioner Ahmedabad",
+  "buyer_email": "ismail.sharif@nic.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "45 (Days)",
+  "estimated_bid_value": 3500,
+  "source_document_fetched_at": "2026-11-19T07:29:20.468515+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "989fb6c65af6a788d79cb460f011e7bc67b576df90175b1a52b1fed032a3ff90",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Ismail Hushen Sharif",
+      "address": "380004,2nd Floor, NTC Plaza, Nr Govt Litho Press, Dudheshwar Road,",
+      "quantity": 50,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "GENERAL",
+          "parameter": "File/Folder type with binding mechanism",
+          "value": "L File Folder, Cobra Spring File, Stick File/Slide Blinder File, Expanding Folder, Display File/Portfolio file, Clear bag folder, Punchless Lever File"
+        },
+        {
+          "group": "GENERAL",
+          "parameter": "Material of File/Folder",
+          "value": "Plastic"
+        },
+        {
+          "group": "GENERAL",
+          "parameter": "File/Folder Closure Type",
+          "value": "Button Lock"
+        },
+        {
+          "group": "GENERAL",
+          "parameter": "File/Folder Size Compatibility",
+          "value": "21.5 cm × 33.5 cm (Legal), 21.5 cm x 34.5 cm (FS)"
+        },
+        {
+          "group": "GENERAL",
+          "parameter": "Cover Design",
+          "value": "Plain"
+        },
+        {
+          "group": "GENERAL",
+          "parameter": "Number of pockets in a File/Folder",
+          "value": "NA (In case of No pockets)"
+        },
+        {
+          "group": "GENERAL",
+          "parameter": "GSM of Cardboard / Duplex Board, Mill Board or Paper board (GSM)",
+          "value": "NA (In case of material other than Cardboard / Duplex Board,Mill Board or Paper board)"
+        },
+        {
+          "group": "GENERAL",
+          "parameter": "Color of File/Folder",
+          "value": "Green, White, Blue"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8237536",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123919"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 15-12-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123919"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 16-12-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123919"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 45 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123919"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Textiles",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123919"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Na",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123919"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: N/a",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123919"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Regional Office Of Textile Commissioner Ahmedabad",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123919"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :vinay.krgupta@gov.in Buyer Email id: ismail.sharif@nic.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123919"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 50",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123919"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: File/Folder (V3) (Q4)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123919"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123919"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123919"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123919"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 3500",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123919"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123919"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123919"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "File/Folder type with binding mechanism: L File Folder, Cobra Spring File, Stick File/Slide Blinder File, Expanding Folder, Display File/Portfolio file, Clear bag folder, Punchless Lever File | Material of File/Folder: Plastic | File/Folder Closure Type: Button Lock | File/Folder Size Compatibility: 21.5 cm × 33.5 cm (Legal), 21.5 cm x 34.5 cm (FS) | Cover Design: Plain | Number of pockets in a File/Folder: NA (In case of No pockets) | GSM of Cardboard / Duplex Board, Mill Board or Paper board (GSM): NA (In case of material other than Cardboard / Duplex Board,Mill Board or Paper board) | Color of File/Folder: Green, White, Blue",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123919"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Ismail Hushen Sharif | 380004,2nd Floor, NTC Plaza, Nr Govt Litho Press, Dudheshwar Road, | 50 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123919"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10123919"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8287268",
   "title": "691-LCA-07-0034,691-LCA-07-0035,692-LCA-04-0034,692-LCA-07-0005_I2,692-LCA-07-0005_I1",
   "description": "691-LCA-07-0034,691-LCA-07-0034,691-LCA-07-0034,691-LCA-07-0034,691-LCA-07-0034,691-LCA-07-0035,691-LCA-07-0035,691-LCA-07-0035,691-LCA-07-0035,691-LCA-07-0035,692-LCA-04-0034,692-LCA-04-0034,692-LCA-04-0034,692-LCA-04-0034,692-LCA-04-0034,692-LCA-07-0005_I2,692-LCA-07-0005_I2,692-LCA-07-0005_I2,692-LCA-07-0005_I2,692-LCA-07-0005_I2,692-LCA-07-0005_I1,692-LCA-07-0005_I1,692-LCA-07-0005_I1,692-LCA-07-0005_I1,692-LCA-07-0005_I1",
-  "organisation": "Department of Defence Production",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Defence Production",
+  "organisation": "Hindustan Aeronautics Limited (hal)",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Defence Production",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "691-LCA-07-0034,691-LCA-07-0035,692-LCA-04-0034,692-LCA-07-0005_I2,692-LCA-07-0005_I1",
   "quantity": 4503,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-18T11:06:28+05:30",
   "closing_at": "2026-12-09T17:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10181245"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "Buyer technical specification",
+      "url": "https://mkp.gem.gov.in/uploaded_documents/51/16/877/OrderItem/BoqDocument/2026/11/18/buyer_specification_2524-tpms26_16_final_2026-11-18-10-55-07_b5dec2ff6506a3d42f434c87c4b20ed1.pdf",
+      "page": 5
+    },
+    {
+      "name": "View File",
+      "url": "https://mkp.gem.gov.in/uploaded_documents/51/16/877/OrderItem/BoqLineItemsDocument/2026/11/18/boq_item_sample_file_2026-11-18-10-55-07_e556835e1138e18bb6ffb48363442927.csv",
+      "page": 5
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261118",
+      "page": 10
     }
   ],
   "tags": [
@@ -34,5 +54,218 @@
   ],
   "source_fetched_at": "2026-11-18T11:55:13.336Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-10T17:00:00+05:30",
+  "buyer_email": "jackson.john@hal-india.co.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "120 (Days)",
+  "source_document_fetched_at": "2026-11-19T00:18:37.626609+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "861024e3a97e4fefba4e91e7be9a7901ba65ba89083cec3ca4328a21047f6867",
+  "document_pages": 11,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "***********",
+      "address": "***********Nashik",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 6,
+      "consignee": "***********",
+      "address": "***********Nashik",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 7,
+      "consignee": "***********",
+      "address": "***********Nashik",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 8,
+      "consignee": "***********",
+      "address": "***********Nashik",
+      "quantity": 500,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    },
+    {
+      "page": 8,
+      "consignee": "***********",
+      "address": "***********Nashik",
+      "quantity": 4000,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    }
+  ],
+  "technical_specifications": [],
+  "buyer_added_terms": [
+    {
+      "page": 8,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at"
+    },
+    {
+      "page": 9,
+      "text": "the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 3. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. The RFQ consist of below mentioned: PART-A (Technical Compliance Sheet) PART-B (Commercial Compliance sheet) Annexure-I & II Undertaking for compliance of Part A, Part B, Annexure-I & II is to be submitted as part of technical bid. 2. No Pricing Detail in Technical Bid (PART A & PART B) & Uploaded Documents : 1) No price /pricing details/aspects has to be mentioned in technical bid ( Part A & Part B) compliance docu ments and other mandatory documents to be uploaded as per check list mentioned below. 2) Prices are to be filled in GeM Portal only. 3)In case bidder submits price / indicate pricing aspects of any kind in uploaded bid documents or against any query, the bid will not be considered for evaluation and will be rejected. 3. Tender Basis: 1) The tender is on two bid, Linewise basis . 2) Partial offers will not be considered for evaluation and will be rejected. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8287268",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10181245"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 09-12-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10181245"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 10-12-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10181245"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10181245"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10181245"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Defence Production",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10181245"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Hindustan Aeronautics Limited (hal)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10181245"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :buyer99.halh.mh@gembuyer.in Buyer Email id: jackson.john@hal-india.co.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10181245"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 4503",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10181245"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: 691-LCA-07-0034 , 691-LCA-07-0035 , 692-LCA-04-0034 , 692-LCA-07-0005_I2 , 692-LCA-07-0005_I1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10181245"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10181245"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10181245"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10181245"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10181245"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10181245"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10181245"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********Nashik | 1 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10181245"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********Nashik | 1 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10181245"
+    },
+    {
+      "field": "consignees",
+      "page": 7,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********Nashik | 1 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10181245"
+    },
+    {
+      "field": "consignees",
+      "page": 8,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********Nashik | 500 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10181245"
+    },
+    {
+      "field": "consignees",
+      "page": 8,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********Nashik | 4000 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10181245"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10181245"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 3. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. The RFQ consist of below mentioned: PART-A (Technical Compliance Sheet) PART-B (Commercial Compliance sheet) Annexure-I & II Undertaking for compliance of Part A, Part B, Annexure-I & II is to be submitted as part of technical bid. 2. No Pricing Detail in Technical Bid (PART A & PART B) & Uploaded Documents : 1) No price /pricing details/aspects has to be mentioned in technical bid ( Part A & Part B) compliance docu ments and other mandatory documents to be uploaded as per check list mentioned below. 2) Prices are to be filled in GeM Portal only. 3)In case bidder submits price / indicate pricing aspects of any kind in uploaded bid documents or against any query, the bid will not be considered for evaluation and will be rejected. 3. Tender Basis: 1) The tender is on two bid, Linewise basis . 2) Partial offers will not be considered for evaluation and will be rejected. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10181245"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

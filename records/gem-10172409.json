@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8279586",
   "title": "Betamethasone Injection (V2)",
   "description": "Betamethasone Injection (V2)",
-  "organisation": "Department of Space",
-  "ministry": "Department of Space",
-  "department": "Department of Space",
+  "organisation": "Indian Space Research Organization",
+  "ministry": "Department Of Space",
+  "department": "Department Of Space",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Betamethasone Injection (V2)",
   "quantity": 200,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-17T15:41:44+05:30",
   "closing_at": "2026-12-08T16:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10172409"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/ia_P6WC1OdVZ-OoRg6q0YUTwcVTCI0je4jyYF4pjySg",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261117",
+      "page": 11
     }
   ],
   "tags": [
@@ -34,5 +49,168 @@
   ],
   "source_fetched_at": "2026-11-18T11:53:50.106Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-09T16:00:00+05:30",
+  "office": "U R Rao Satellite Centre",
+  "buyer_email": "buycon14.pmo.ka@nic.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-19T01:31:42.386392+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "22b7c46fd3b15df79b20b933f3f082654abebb14bd21883f667e178d05d0179b",
+  "document_pages": 11,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 3,
+      "consignee": "R Vijaya Chandrika",
+      "address": "560017,U R RAO SATELLITE CENTRE (URSC) DEPARTMENT OF SPACE OLD AIRPORT ROAD,VIMANAPURA PO",
+      "quantity": 200,
+      "quantity_label": "Quantity",
+      "delivery_days": 45
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "PACKAGING",
+          "parameter": "Primary pack size",
+          "value": "2 ml"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 9,
+      "text": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods"
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8279586",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10172409"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 08-12-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10172409"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 09-12-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10172409"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10172409"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Department Of Space",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10172409"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Space",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10172409"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Space Research Organization",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10172409"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: U R Rao Satellite Centre",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10172409"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :buyer108.isro.gj@nic.in Buyer Email id: buycon14.pmo.ka@nic.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10172409"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 200",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10172409"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Betamethasone Injection (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10172409"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10172409"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10172409"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10172409"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10172409"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10172409"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Primary pack size: 2 ml",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10172409"
+    },
+    {
+      "field": "consignees",
+      "page": 3,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | R Vijaya Chandrika | 560017,U R RAO SATELLITE CENTRE (URSC) DEPARTMENT OF SPACE OLD AIRPORT ROAD,VIMANAPURA PO | 200 | 45",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10172409"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10172409"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

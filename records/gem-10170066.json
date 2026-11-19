@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8277671",
   "title": "Internet Bandwidth and Replication Service - Internet Leased Line; Private Service provider; Class ",
   "description": "Internet Bandwidth and Replication Service - Internet Leased Line; Private Service provider; Class A; National long Distance (NLD); 10",
-  "organisation": "Department of Defence",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Defence",
+  "organisation": "Indian Coast Guard",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Defence",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Internet Bandwidth and Replication Service - Internet Leased Line; Private Service provider; Class ",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-16T11:06:33+05:30",
   "closing_at": "2026-11-28T12:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10170066"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": ":1794806368.pdf",
+      "url": "https://bidplus.gem.gov.in/resources/upload_nas/NovQ426/bidding/biddoc/bid-10170066/1794806368.pdf",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261116",
+      "page": 7
+    },
+    {
+      "name": "Service Level Agreement",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/bidsla/103430242444356",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +54,278 @@
   ],
   "source_fetched_at": "2026-11-17T21:03:54.535Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-29T12:00:00+05:30",
+  "buyer_email": "arunchaudhary.40428@icg.gov.in",
+  "emd_required": false,
+  "bidder_turnover_lakhs": 6,
+  "experience_years": 2,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "120 (Days)",
+  "estimated_bid_value": 297360,
+  "contract_period": "2 Year(s) 2 Day(s)",
+  "source_document_fetched_at": "2026-11-19T22:04:45.209698+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "be72dbc475cf0176c945d3e4c0838fa320df5e8ab643379ec9edf45ddd1d2605",
+  "document_pages": 7,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 6 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 2 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "***********",
+      "address": "***********Pondicherry",
+      "quantity": 1,
+      "quantity_label": "Number of Links",
+      "delivery_days": null,
+      "additional_requirements": "Number of months for which service is required : 24"
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Type of Service",
+          "value": "Internet Leased Line"
+        },
+        {
+          "group": "Core",
+          "parameter": "Types of Service providers",
+          "value": "Private Service provider"
+        },
+        {
+          "group": "Core",
+          "parameter": "License of Internet lease line (ILL)",
+          "value": "Class A"
+        },
+        {
+          "group": "Core",
+          "parameter": "License of Lease Line (LL/PP)",
+          "value": "National long Distance (NLD)"
+        },
+        {
+          "group": "Core",
+          "parameter": "Bandwidth Capacity ( In Mbps)",
+          "value": "10"
+        },
+        {
+          "group": "Core",
+          "parameter": "DDOS with Internet Lease line Services",
+          "value": "Yes"
+        },
+        {
+          "group": "Core",
+          "parameter": "Latency within India",
+          "value": "Less than 60 ms"
+        },
+        {
+          "group": "Core",
+          "parameter": "Latency outside India",
+          "value": "Less than 180 ms"
+        },
+        {
+          "group": "Core",
+          "parameter": "Packet Drop ( In percentage )",
+          "value": "less than 1"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type of Media",
+          "value": "Radio ( Wireless)"
+        },
+        {
+          "group": "Core",
+          "parameter": "Link Type( Manageabilty)",
+          "value": "Managed"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Static IP required ( For ILL)",
+          "value": "8"
+        },
+        {
+          "group": "Core",
+          "parameter": "Router/ Networking Accessories",
+          "value": "Provided by Seller"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE 25% : The buyer can increase or decrease the contract quantity or contract duration up to 25 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 25 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 25 percent with the consent of the service provider"
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8277671",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170066"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 28-11-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170066"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 29-11-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170066"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170066"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170066"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170066"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Coast Guard",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170066"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :cgae-pcy@indiancoastguard.nic.in Buyer Email id: arunchaudhary.40428@icg.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170066"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Internet Bandwidth and Replication Service - Internet Leased Line; Private Service provider; Class A; National long Distance (NLD); 10",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170066"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 2 Year(s) 2 Day(s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170066"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 6 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170066"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 2 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170066"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170066"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170066"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170066"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170066"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170066"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "(( )) / Estimated Bid Value in INR (Inclusive of all taxes): 297360",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170066"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170066"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170066"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Type of Service: Internet Leased Line | Types of Service providers: Private Service provider | License of Internet lease line (ILL): Class A | License of Lease Line (LL/PP): National long Distance (NLD) | Bandwidth Capacity ( In Mbps): 10 | DDOS with Internet Lease line Services: Yes | Latency within India: Less than 60 ms | Latency outside India: Less than 180 ms | Packet Drop ( In percentage ): less than 1 | Type of Media: Radio ( Wireless) | Link Type( Manageabilty): Managed",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170066"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Static IP required ( For ILL): 8 | Router/ Networking Accessories: Provided by Seller",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170066"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Number of Links | Additional Requirement: 1 | *********** | ***********Pondicherry | 1 | Number of months for which service is required : 24",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170066"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE 25% : The buyer can increase or decrease the contract quantity or contract duration up to 25 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 25 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 25 percent with the consent of the service provider",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10170066"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

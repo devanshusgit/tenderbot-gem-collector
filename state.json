@@ -4,9 +4,9 @@
   "status": "failed",
   "source_total": 45857,
   "note": "Imported actual source observations; cloud traversal starts from page1 for conservative coverage.",
-  "last_run_at": "2026-11-20T20:26:20.778056+00:00",
+  "last_run_at": "2026-11-20T20:36:34.465177+00:00",
   "error": "PortalError",
-  "source_checked_at": "2026-11-20T20:33:08.867181+00:00",
+  "source_checked_at": "2026-11-20T20:41:04.673700+00:00",
   "source_health": {
     "status": "unavailable",
     "stage": "http",
@@ -29,10 +29,10 @@
   "last_run_kind": "documents",
   "last_documents_success_at": "2026-11-20T20:25:55.411076+00:00",
   "document_batch": {
-    "attempted": 59,
-    "downloaded": 52,
-    "failed": 7,
-    "source_failures": 7
+    "attempted": 42,
+    "downloaded": 33,
+    "failed": 9,
+    "source_failures": 9
   },
   "error_message": "The document source remains unavailable after bounded transport attempts; retry the batch later."
 }

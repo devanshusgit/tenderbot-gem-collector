@@ -1,11 +1,11 @@
 {
   "page": 802,
   "complete": false,
-  "status": "succeeded",
+  "status": "failed",
   "source_total": 45170,
   "note": "Imported actual source observations; cloud traversal starts from page1 for conservative coverage.",
-  "last_run_at": "2026-11-19T22:46:57.887701+00:00",
-  "error": null,
+  "last_run_at": "2026-11-20T00:57:11.423360+00:00",
+  "error": "PortalError",
   "source_checked_at": "2026-11-19T22:57:16.474364+00:00",
   "source_health": {
     "status": "reachable",
@@ -15,23 +15,24 @@
   "source_runtime": "cloudflare-workers",
   "newest_refresh_complete": false,
   "newest_refresh_pages": 1608,
-  "newest_refresh_run_pages": 56,
-  "newest_refresh_run_started_at": "2026-11-19T19:09:33.428197+00:00",
+  "newest_refresh_run_pages": 0,
+  "newest_refresh_run_started_at": "2026-11-20T00:57:11.430329+00:00",
   "newest_refresh_cutoff": "2026-11-12T01:46:40.158293+00:00",
   "newest_refresh_started_at": "2026-11-15T09:57:42.107791+00:00",
-  "newest_refresh_stop_reason": "budget",
+  "newest_refresh_stop_reason": "error",
   "newest_refresh_source_total": 45170,
-  "newest_refresh_finished_at": "2026-11-19T19:13:06.397638+00:00",
+  "newest_refresh_finished_at": "2026-11-20T00:57:45.189603+00:00",
   "last_success_at": "2026-11-19T19:21:31.355875+00:00",
   "newest_refresh_watermark": "2026-11-12T02:46:40.158293+00:00",
   "newest_refresh_last_complete_at": "2026-11-15T02:43:24.700638+00:00",
-  "mode": "documents",
-  "last_run_kind": "documents",
+  "mode": "collection",
+  "last_run_kind": "collection",
   "last_documents_success_at": "2026-11-19T22:57:16.474351+00:00",
   "document_batch": {
     "attempted": 107,
     "downloaded": 107,
     "failed": 0,
     "source_failures": 0
-  }
+  },
+  "error_message": "Cloud source request failed with HTTP 503."
 }

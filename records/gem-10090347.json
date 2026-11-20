@@ -5,9 +5,9 @@
   "tender_id": "GEM/2026/R/760194",
   "title": "Tab PCM 500 MG as per SOW,Tab PCM 650 MG as per SOW,Tab Ibuprofen 400 plus PCM 325 MG as per SOW,Dy",
   "description": "Tab PCM 500 MG as per SOW,Tab PCM 650 MG as per SOW,Tab Ibuprofen 400 plus PCM 325 MG as per SOW,Dyclofenac GEL as per SOW,Tab Pantop 40 MG as per SOW,Aluminium Hydroxide plus Magnesium Hydroxide as per SOW,TAB Ondansetron 4MG as per SOW,SYP Ondansetron 2 MG slash 5 ML as per SOW,ORS Sachet as per SOW,Tab ZINC Sulphate as per SOW,SYP Lactulose as per SOW,Tab Probiotic as per SOW,Cap Saccharomyces Boulardii 250 MG as per SOW,Tab Cetrizine 10 MG as per SOW,Tab Levocetirizine 5 MG as per SOW,SYP Cetrizine 5MG slash 5ML as per SOW,Nasal Drop Normal Saline as per SOW,Tab Amoxicillin plus Clavulanic Acid 625 MG as per SOW,SUS Amoxicillin Clavulanic Acid 200 slash 25.5 MG slash 5 ML as per SOW,Tab Azithromycin 500 MG as per SOW,SUS Azithromycin 200 MG slash 5 ML as per SOW,Tab Metronidazole 400 MG as per SOW,Tab Albendazole 400 MG CHEWABLE as per SOW,SUS Albendazole 200 MG slash 5 ML as per SOW,Cream Clotrimazole 1 percent as per SOW,Powder Clotrimazole 1 percent as per SOW,Cream Miconazole 2 percent as per SOW,Crea",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Navy",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
@@ -25,8 +25,18 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10090347"
+    },
+    {
+      "name": "GEM/2026/B/8074851",
+      "url": "https://bidplus.gem.gov.in/showbidDocument/9936684",
+      "page": 2
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261028",
+      "page": 2
     }
   ],
   "tags": [
@@ -34,5 +44,92 @@
   ],
   "source_fetched_at": "2026-10-29T15:06:42.679Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "ra_start_at": "2026-10-29T10:00:00+05:30",
+  "auto_extension": "If any seller submits the offer price during last 30 minutes of RA end time, then RA will be automatically extended for next 30 minutes from the last participation time. There is no limit on such RA extension cycle.",
+  "mse_exemption": "MSE Exemption for Years Of Experience and Turnover: Yes | Complete",
+  "startup_exemption": "Startup Exemption for Years Of Experience and Turnover: Yes | Complete",
+  "originating_bid_reference": "GEM/2026/B/8074851",
+  "source_document_fetched_at": "2026-11-20T09:00:53.831954+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "ad4711e7366c8daaccc456b1d34780a1bed391b48cb6af0a499c522412d26517",
+  "document_pages": 2,
+  "eligibility": [
+    "MSE Exemption for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 2)",
+    "Startup Exemption for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 2)"
+  ],
+  "consignees": [],
+  "technical_specifications": [],
+  "buyer_added_terms": [],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/760194",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10090347"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 2,
+      "quote": "Please refer to Bid document of GEM/2026/B/8074851",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10090347"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 29-10-2026 10:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10090347"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 30-10-2026 10:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10090347"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10090347"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10090347"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Navy",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10090347"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 10345",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10090347"
+    },
+    {
+      "field": "auto_extension",
+      "page": 2,
+      "quote": "Auto Extension: If any seller submits the offer price during last 30 minutes of RA end time, then RA will be automatically extended for next 30 minutes from the last participation time. There is no limit on such RA extension cycle.",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10090347"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 2,
+      "quote": "MSE Exemption for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10090347"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 2,
+      "quote": "Startup Exemption for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10090347"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda."
 }

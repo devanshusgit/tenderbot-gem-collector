@@ -3,7 +3,7 @@
   "city": [],
   "closing_at": "2026-11-27T10:00:00+05:30",
   "demo": false,
-  "department": "Department of Science and Technology (DST)",
+  "department": "Department Of Science And Technology (dst)",
   "description": "Anaesthesia Workstation (V2)",
   "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
   "document_url": "https://bidplus.gem.gov.in/showbidDocument/9683907",
@@ -11,15 +11,35 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/YevE3Gi3Wxibsg5oLELCkTrx8_lJM-MOfPK7WaiR6H0",
+      "page": 5
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Jul/GEM_2026_B_7854436/CLM0010/format_0a169905-b2bd-4811-8a061785399614692_pur7_hos_sctimst.doc",
+      "page": 16
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20260907",
+      "page": 19
     }
   ],
-  "emd_fee": null,
+  "emd_fee": 162000,
   "gem_bid_id": "9683907",
   "gem_id": "9683907",
   "id": "gem-9683907",
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
-  "ministry": "Ministry of Science and Technology",
-  "organisation": "Department of Science and Technology (DST)",
+  "ministry": "Ministry Of Science And Technology",
+  "organisation": "Sree Chitra Tirunal Institute For Medical Sciences And Technology (sctimst)",
   "portal_name": "GeM",
   "product_category": "Anaesthesia Workstation (V2)",
   "published_at": "2026-09-07T10:48:22+05:30",
@@ -34,5 +54,349 @@
   ],
   "tender_id": "GEM/2026/B/7854436",
   "tender_value": null,
-  "title": "Anaesthesia Workstation (V2)"
+  "title": "Anaesthesia Workstation (V2)",
+  "office": "Thiruvananthapuram",
+  "buyer_email": "purchase7@sctimst.ac.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience: Yes | Complete",
+  "seller_documents": "Experience Criteria,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 38,
+  "offer_validity": "180 (Days)",
+  "estimated_bid_value": 6500000,
+  "source_document_fetched_at": "2026-11-20T07:02:19.927171+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "1646bf2fd6465b23e3aaa6fe889346b1a62b1e26c69e3623b97e050820b1edef",
+  "document_pages": 20,
+  "eligibility": [
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "MSE Relaxation for Years Of Experience: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Deepthi Bhaskar",
+      "address": "695011,Sree Chitra Tirunal Institute For Medical Science and Technology,Medical College PO, Trivandrum",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 45
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Gas Delivery System",
+          "parameter": "Type of Flowmeter",
+          "value": "Rotameter, Electronic"
+        },
+        {
+          "group": "Gas Delivery System",
+          "parameter": "Type of hypoxic guard with automatic cutoff of N2O",
+          "value": "Electronic, Mechanical"
+        },
+        {
+          "group": "Vaporizer",
+          "parameter": "Vaporizer compatible to gases",
+          "value": "Sevoflurane, Isoflurane, Desflurane, Halothane"
+        },
+        {
+          "group": "Anesthesia Ventilator",
+          "parameter": "Available modes of operating ventilator",
+          "value": "Manual/spontaneous, Volume controlled, Pressure controlled, SIMV/PCV, SIMV/VCV, CMV"
+        },
+        {
+          "group": "Anesthesia Ventilator",
+          "parameter": "Tidal volume of ventilator (in ml)",
+          "value": "10 to 1400 ml, 20 to 1400 ml"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Patient multipara monitor shall be able to display parameters",
+          "value": "HR, SpO2, NIBP, ECG, Temperature, NA(If monitor not provided)"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "Warranty in Years (Option of comprehensive warranty is available through bidding only, which if opted will supersede normal warranty in the catalogue)",
+          "value": "3, 4, 5 Or higher (year)"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 7,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up"
+    },
+    {
+      "page": 8,
+      "text": "to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Forms of EMD and PBG Bidders can also submit the EMD with Account Payee Demand Draft in favour of Director,SCTIMST payable at Thiruvananthapuram . Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 3. Forms of EMD and PBG Bidders can also submit the EMD with Fixed Deposit Receipt made out or pledged in the name of A/C Director,SCTIMST . The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of EMD, the FDR will be released in the favour of the bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Bidder has to upload scanned copy/ proof of the FDR along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date/ Bid Opening date 4. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 5. Warranty Bidder / OEM has to give an undertaking that after expiry of warranty period, it will provide Comprehensive Maintenance Service for next 5 years for the offered products at the rate not more than 5 % of contract price per annum. Buyer reserves the right to enter into a CMC agreement with the Successful Bidder / OEM after expiry of the Warranty period at above mentioned rate and the payment for the CMC charges would be made Biannually after rendering of the CMC Services of the relevant CMC period. Performance Security of the successful bidder shall be forfeited if it fails to accept the CMC contract when called upon by the buyer. CMC would include cost of As per the specifications (Upload the undertaking). The original Performance Security of contract will be returned only after submission and verification of AMC Performance Security for 3% of total CMC value valid up to CMC period plus 2 months (if there is no other claim). 6. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 7. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 8. Buyer Added Bid Specific ATC"
+    },
+    {
+      "page": 9,
+      "text": "Buyer Added text based ATC clauses Bidders are advised to quote prices as per technical specification. However detailed breakup of quoted prices should be provided in Price Fo rmat – A uploaded in the prescribed place (Financial Document Required) on online GeM portal. The prices quoted in the prescribed field on GeM portal will be considered for ranking purpose. Total price quoted in Price Format – A must match with the price quoted in GeM portal. Bi A dders should not include price elements in the technical bid. The Price Formats A, B, C, D and E to be submitted along with fin ancial bid only. If any of the price components is disclosed in the technical bid, the bid will summarily be rejected and the bi dder will be DISQUALIFIED from further bidding process. The Bidders are advised to quote price of Spare parts, Consumables in the attached format “B” and “C” accordingly and uploaded the sa me in the prescribed place (Financial Document Required) on online GeM portal. The equipment should be supported with spares for a mini B mum period of 10 years after successful installation and commissioning.” All the spares and consumables required for the equipment should be made available through GeM throughout the agreed supporting period”. The three years warranty sought for is OEM/bidder free warranty without any additional cost towards extended warranty to fulfil the tender co ndition. The charges, if any, claimed by the bidder towards warranty in this regard and included in the product cost in Price Format –A should be mentioned in the price format D also, and uploaded the same in the prescribed place (Financial Document Required). This warranty charg es shall not be considered for calculating actual CAMC value to be payable after warranty period. Where the total cost does not include such warranty charges, the bidder shall submit a declaration- \"Certify that the Equipment/accessories quoted in the bid is having OEM/bidder free C warranty of three years and the total cost quoted in the bid does not include any warranty charges to fulfil the tender condition of three year warranty\". This declaration shall be furnished along with the Technical bid in format H. False declaration may lead to rejection of bid. In th e case of agents quoting on behalf of their foreign principal, proforma invoice from the OEM (Foreign principal company) indicating the nature of after sale service including warranty condition and commission payable to the Indian agent shall be furnished along with the price bid. i. As per the Institutes general policy, the maximum CAMC charges after warranty period will be 5% of the cost of the equipment. However the bidders can quote CAMC charges in the range of 3 to 10 % of the cost of equipment, depending on the nature of equipment to be maintained. ii. The CAMC charges shall be quoted in percentage rate in GeM bid and escalation in CAMC charges shall be allowed at maximum 5% after ever y three years of CAMC. iii. This CAMC charges at Net Present Value shall be taken into account for arriving the lowest responsive bidder. The actual CAMC value to be payable after warranty period shall be separately worked out based on the \"Cost of the equipment for CAMC calculation” and shall be furnish D ed in “Format –E” and uploaded the same in the prescribed place (Financial Document Required). iv. The year wise rate percentage of CAMC quoted in the bid for L1 evaluation should be used for calculating the actual CAMC value. v. The “cost of the equipment for CAMC calculation” shall not include additional warranty cost (if any), cost towards Installation, Commissioning and Testing (in addition to the original equipment cost of the OEM), cost of transportation, including import customs duty, Agency commissio n, any specific excluded items from CAMC as per the tender condition and GST included in the product cost quoted. vi. The cost of the equipment for CAMC calculation shall be mandatorily furnished in format D. The warranty and CAMC condition as given above should be applicable for the third party items, if any supplied. The successful bidder shall f urnish the agreement executed in this regard with the third parties as and when called for. The genuineness of price quoted for the equipme E nt / accessories are very important and this price shall not be loaded with any other cost. A declaration in this regards shall be furnished alon g with technical bid in format H The successful bidder shall enter into CAMC 3 (three) months prior to the completion of warranty period. The CAMC will commence after the F date of expiry of warranty period from the date specified in the work order and as per the terms and conditions issued in this regard, which w ill be treated as the first year of CAMC. This tender will form part of the CAMC work order."
+    },
+    {
+      "page": 10,
+      "text": "Penalty clause: 1. Delay in Delivery: If the supplier fails to deliver or install/commission any or all of the goods or fails to perform the services within the time frame(s) incorporated in the Purchase Order, the Purchaser shall, without prejudice to other rights and remedies available to the Purchaser under the contract, deduct from the contract price, as liquidated damages, a sum equivalent to 0.5% per week of delay or part thereof on delayed suppl y of goods, installation, commissioning and/or services until actual delivery or performance subject to a maximum of 10% of the contract pric e. Once the maximum is reached Purchaser may consider termination of the contract . If any delay by the supplier in maintaining its contractual obligations towards delivery of goods and performance of services shall render the supplier liable to any or all of the following sanctions: I. Imposition of liquidated damages, II. Forfeiture of its Performance Security and III. Termination of the Contract for default 2. Performance (during Warranty period) Supplier should ensure uninterrupted service delivery of the equipment or product during the warranty period. In this regard follo wing conditions also may be noted: I. In case of failure of equipment or its components, breakdown call has to be attended within 48 hours of intimation. II. The defect should be rectified within two days after the call is attended, failing which replacement or standby equipment shoul G d be provided for uninterrupted services. III. In case of non-adherence to clause (a) or (b) above, downtime penalty will be realised a sum equivalent either the repairing ch arges met by the Institute to set right the equipment or 0.5 percent per day of cost of the equipment, whichever is hig her, from the date of report of breakdown by way of deductions from SD/Performance Bank Guarantee. IV. The time spent on the repair work will be added to the warranty period of the equipment. 3. Performance (during CMC/AMC period): i. Uptime means 95 percent of total days in a year during which the equipment remains functional. II. Down time means any shortage in achieving the up-time III. Down time penalty will be levied as per following terms and condition: IV. In the case of CMC, it shall be the responsibility of the service provider to set right the equipment and avoid down ti me. Down time penalty will be imposed @ 0.5 percent of contract value per day from the service provider. V. In case auxiliary units/components attached to the main equipment undergoes failure and the main equipment provi des uninterrupted services, down time penalty will be imposed @ 0.1 percent of contract value per day per auxil iary unit from the service provider. VI. Service provider should ensure rectification of defect of equipment within a reasonable period in the case of Labour Annual Maintenance Contract. In case break down is not attended within 48 hours of intimation, down time pena lty will be imposed @ 0.5 percent per day of contract value from the service provider. Qualification criteria The bidder must be a manufacturer or their authorized agents having a place of business in any state of India are eligible to participate in this bid. The bidders should submit “Manufacturer’s Authorization Form” for each items quoted and shall be submitted along with technical bid, a H s per the format enclosed in the bid document (Format “F”). MII declaration should be furnished in the attached format along with bid document “Format G”. The declaration shall be certified by the s tatutory auditor or cost auditor. I Bidders may please be read as uptime warranty as 95 % instead of 98 % as per bid terms and conditions."
+    },
+    {
+      "page": 11,
+      "text": "SCTIMST reserves the right to ask for a free demonstration of the quoted equipment/ items after giving reasonable time to the bidder at a pre -determined place acceptable to the purchaser or at a site (in case of non-portable and heavy equipment) for evaluating the technical compat J ibility as per the bidding document specifications, professionalism and quality of work of the bidder for technically qualifying for opening the Price Bid. SCTIMST reserves the right to accept/ reject the bid based on the product/ site evaluation as stated above. List of documents to be attached along with bid. K Technical Bid - Format F, G and H Price bid - Format A, B, C, D and E L On-site installation required. M For all disputes arising out of this contract the legal jurisdiction will be Thiruvananthapuram. Payment Term N 100% payment will be paid after satisfactory installation and commissioning of equipment along with submission of “Installation Report” to b e issued by user department and DCE O Competent authority reserves right to terminate the tender at any stage of its process without assigning any reasons. The company will not b e entitled to claim any compensation against such termination. P Company should possess a valid CDSCO license to sell the equipment in India ( Import or Indigenous). Copy of t he same should be provided along with the tender document. As per OM No. F.4/1/2023-PPD(pt.) dated 28.06.2024 from the Ministry of Finance, GOI, approval for the relaxation under Rule 161(iv) of GFR Q 2017 for issuance of GTE for procurement of Medical Devices. Hence, non local suppliers can also participate together with local suppliers in t he tender. HIGH END ANAESTHESIA WORKSTATION WITH HEMODYNAMIC MONITOR SYSTEM PARAMETERS: THE HEMODYNAMIC MONITOR MUST BELONG TO SAME MANUFACTURER AS THAT OF THE ANAEST HESIA WORKSTATION. ANAESTHESIA WORKSTATION A.THE LATEST SYSTEM/MAKE/MODEL/VERSION/EDITION OF DIGITAL ANAESTHESIA WORKSTATION WITH DIGITAL VAPORIZER WITH SOFTWARE UPDATE NOT MORE THAN 4 YEARS BEFORE THE DATE OF DELIVERY TO THE USERS, SHOULD BE SUPPLIED. B. THE BIDDER SHOULD PROVIDE DATA IN A TABULAR FORMAT(COMPLIANCE STATEMENT) STATIN G FOLLOWING DETAILS REGARDING THE BIDDING ITEMS: DIGITAL ANAESTHESIA WORKSTATION W ITH DIGITAL VAPORIZER QUOTED: OEM; BRAND/SYSTEM/MAKE/MODEL/VERSION/EDITION; C) BIDDER SHOULD NOT INCLUDE PRICE BID IN THE TECHNICAL BID.PLEASE REFER TO THE BUYER ADDED BID SPECIFIC ATC; DO NOT INCLUDE FORMATS A, B, C, D AND E IN THE TECHNICAL BID. IF THE PRICE BID IS INCLUDED IN THE TECHNICAL BID, THE BIDDER WILL BE DISQUALIFIED FROM TH E RETENDERED BIDDING PROCESS. D) THE BIDDER SHOULD PROVIDE TECHNICAL DETAILS OF THE BIDDING ITEM, PREFERABLY IN THE FORM OF PRODUCT BROCHURE. E) THE BIDDER SHOULD PHYSICALLY DEMONSTRATE THE QUOTED ITEMS AT THE TIME OF TECHNI"
+    },
+    {
+      "page": 12,
+      "text": "CAL EVALUATION IF REQUESTED BY THE INSTITUTE F) THE QUOTED PRICE SHOULD INCLUDE THE COST OF DIGITAL ANAESTHESIA WORKSTATION, DIG ITAL VAPORISER AND CHARTING SYSTEM. G) L1 WILL BE CALCULATED BASED ON THE TOTAL COST ONLY. PERFORMANCE PARAMETERS: A. IT SHOULD BE A DIGITAL ANAESTHESIA WORKSTATION HAVING DIGITAL VAPORIZERS. B. FLOW RATE IN LPM: CHANGE TO INSPIRATORY FLOW UP TO 120 LPM + FRESH GAS FLOW C. VIRTUAL GAS FLOW METER SHOULD BE DISPLAYED ONSCREEN. D. SYSTEM SHOULD HAVE TOOLS TO SUPPORT LOW AND MINIMAL FLOW ANAESTHESIA SUCH AS F OR ANAESTHETIC GAS ECONOMY, AND DETAILS OF LOW FLOW PARAMETERS. E. SHOULD BE SUITABLE FOR ADULT, PEDIATRIC PATIENTS AND NEONATES F. WORK SURFACE LIGHT ILLUMINATION WITH ON/OFF SWITCH GAS DELIVERY SYSTEM: A. AVAILABILITY OF DIGITAL DISPLAY OF PRESSURE GAUGES FOR CYLINDER AND PIPELINES IN ANA ESTHESIA WORKSTATIONS: ADD DIGITAL DISPLAY OF PRESSURE GAUGES B. THE SAMPLE GAS SHOULD RETURN INTO THE BREATHING SYSTEM DURING LOW FLOW ANAEST HESIA C. ELECTRONIC GAS MIXING D. ELECTRONIC HYPOXIA GUARD VAPORIZERS: A. DIGITAL ELECTRONIC VAPORIZERS OF SEVOFLURANE AND ISOFLURANE ANAESTHETIC AGENTS SHOULD BE PROVIDED. B. THE DIGITAL VAPORIZER SHOULD BE ELECTRONICALLY CONTROLLED FROM THE ANESTHESIA W ORKSTATION PANEL OR SCREEN AND THERE SHOULD BE NO NEED TO MANUALLY CHANGE THE CO NCENTRATION OF ANESTHETIC AGENT ON THE VAPORIZER DIAL. THE DELIVERY OF CONCENTRATI ON OF THE ANESTHETIC AGENT SHOULD BE ELECTRONICALLY ADJUSTED ALONG WITH FRESH GAS FLOW. THERE SHOULD BE ELECTRONIC CONTROL TO SET TARGET INSPIRED OR EXPIRED ANAESTH ETIC AGENT CONCENTRATION. THE CONCENTRATION OF ANESTHETIC AGENT SHOULD CHANGE R APIDLY WITH CHANGES MADE IN THE CONCENTRATION SETTINGS ON THE PANEL. C. IT SHOULD HAVE DEDICATED SOFTWARE/ APPLICATION FOR ANALYSIS OF FRESH GAS FLOW DU RING LOW-FLOW ANESTHESIA. IT SHOULD CALCULATE DEFICIT, EXCESS AND REQUIRED QUANTITY OF FRESH GAS FLOW. IT ALSO SHOULD DISPLAY INFORMATION ON OXYGEN AND INHALATIONAL A NESTHETIC AGENTS SUCH AS OXYGEN UPTAKE IN ML PER MINUTE AND ANESTHETIC AGENT CONS UMPTION AND UPTAKE OR OXYGEN AND INHALED ANESTHETIC AGENT FLOW IN ML/MIN. IT SHOUL D HELP IN CALCULATING THE COST OF INHALATIONAL AGENT UTILISED DURING THE SURGERY. BREATHING SYSTEM:"
+    },
+    {
+      "page": 13,
+      "text": "A. BREATHING SYSTEM WARMER OR ANY OTHER MECHANISM SHOULD BE INTEGRATED FOR BREAT HING GAS CONDITIONING AND AVOIDANCE OF CONDENSATION B. CARBON DIOXIDE ABSORBENT SODA LIME CHAMBER/ CANISTER SHOULD HAVE CAPACITY OF 1 LITRE OR MORE.IF THE CAPACITY IS LESS THAN 1 LITRE, THEN THE SUPPLIER SHOULD PROVIDE 2 C ARBON DIOXIDE ABSORBENT SODA LIME CHAMBERS/ CANISTERS. C. VOLUME CAPACITY OF BREATHING SYSTEM IN LITRES 1.5 LITRES OR MORE CONSIDERING BAG AS A PART OF BREATHING SYSTEM D. AUXILIARY FLOW METER FOR OXYGEN ANAESTHESIA VENTILATOR: A. INTEGRATED VENTILATOR SHALL NOT REQUIRE BELLOWS TO BE CHANGED FOR ADULTS AND IN FANTS. B. BIDDER SHOULD SUPPLY ELECTRONICALLY-CONTROLLED PISTON VENTILATORS; OR INTEGRATE D MICROPROCESSOR CONTROLLED AND PNEUMATICALLY DRIVEN VENTILATOR WITH BELLOWS, O R MICROPROCESSOR INCORPORATED-TURBINE VENTILATORS; OR ANY LATEST TECHNOLOGY TO G ENERATE VENTILATION C. TIDAL VOLUME OF VENTILATOR IN ML: 20 ML TO 1400 ML IN VOLUME CONTROL MODE. D. BREATHING FREQUENCY IN BPM 4 TO 100 BPM. E. MODES OF VENTILATION: VOLUME CONTROLLED, PRESSURE CONTROLLED, PRESSURE VENTILAT ION WITH VOLUME GUARANTEE OR SIMILAR MODE FOR DELIVERING SET TIDAL VOLUME AT MINIM UM AIRWAY PRESSURE, SIMV, PRESSURE SUPPORT, MANUAL F. IT SHOULD HAVE DUAL-FLOW SENSING TECHNOLOGY WITH FLOW SENSOR AT INSPIRATORY AN D-EXPIRATORY SIDE. G. VENTILATOR PRESET SHOULD INCLUDE AUTOMATIC PATIENT-SPECIFIC VENTILATION SETTINGS THROUGH IDEAL BODY WEIGHT AND/OR AGE AND/ OR HEIGHT H. SCREEN SIZE 15 INCHES OR LARGER MONITORING SCREEN: A. SHOULD HAVE DISPLAY THREE OR FOUR REAL-TIME WAVEFORMS AND DISPLAY OF CONCENTRA TION OF (SIDE-STREAM) CO2, O2, AND ANAESTHETIC AGENTS, AIRWAY PRESSURE, INSPIRATORY AND EXPIRATORY FLOWS AND LOOPS FOR P-V AND F-V LOOPS B. SHOULD HAVE CARDIOPULMONARY BYPASS MODE. CHARTING SYSTEM COST OF CHARTING SOLUTION SHOULD BE MENTIONED SEPARATELY IN THE PRICE BID). ACCESSORIES: FOLLOWING ACCESSORIES SHOULD BE PROVIDED WITH EACH ANESTHESIA WORKSTATION A. COVER FOR THE ANAESTHESIA WORKSTATION FOR PROTECTION DURING OPERATION THEATRE FUMIGATION STERILIZATION."
+    },
+    {
+      "page": 14,
+      "text": "B. DEDICATED ADULT AND PAEDIATRIC CIRCUIT (1 IN QUANTITY EACH) WARRANTY THE EQUIPMENT MUST COME WITH THREE YEARS COMPREHENSIVE WARRANTY AND 7 YEARS CAMC HEMODYNAMIC MONITOR: A. THE DEGREE OF THE ROTATION OF THE MONITOR ARM SHOULD BE MORE THAN 90 DEGREE B. HEMODYNAMIC MONITOR SHOULD BE MOUNTED ON THE TOP OF THE WORKSTATION AND THE NECESSARY MOUNTS MUST BE SUPPLIED. C. MONITORING SCREEN SHOULD BE TWENTY ONE (21) INCHES OR LARGER IN SIZE. D. IT SHOULD HAVE TOUCH SCREEN COLOUR DISPLAY WITH LARGE FONTS AND PROVIDE ACCESS TO MINIMUM 10 OR MORE WAVEFORMS E. MONITORING SHOULD BE USER CONFIGURABLE AND SHALL SUPPORT AT LEAST 4 LAYOUTS. F. IT SHOULD HAVE MINIMUM PARAMETERS SUCH AS ECG, NIBP, SPO2, AND TWO TEMPERATURES, BISPECTRAL INDEX AND NEURO MUSCULAR MONITOR. G) IT SHOULD BE PROVIDED WITH SIMULTANEOUS DISPLAY OF 4 OR MORE INVASIVE PRESSURE M ONITORING THROUGH PRESSURE TRANSDUCERS, AT LEAST 3 OF THESE INVASIVE PRESSURES SH OULD BE STANDARD FEATURES. 4 TH INVASIVE PRESSURE SHOULD BE PROVIDED EITHER DIRECTL Y OR THROUGH UPGRADES SUCH AS ADDITIONAL PODS/MODULES/ADAPTERS AND NECESSARY SO FTWARES. H). THE SPLITTER CABLES AND INTERVENING CABLES BETWEEN THE TRANSDUCERS AND SPLITTE R CABLES SHOULD BE COMPATIBLE WITH THE HEMODYNAMIC MONITOR, TRANSPORT MONITOR A ND COMMONLY USED TRANSDUCERS IN MARKET. IF INCOMPATIBILITY IS NOTICED, THE BIDDER SH OULD SUPPLY NECESSARY COMPATIBLE CABLES FOR THE INVASIVE PRESSURES TO WORK SATISFACTORILY. I. ECG: SHOULD HAVE 3 LEAD AND ALSO 5 LEAD ECG MONITORING CAPABILITY WITH DISPLAY OF AT LEAST THREE LEADS OF ECG WAVEFORMS SIMULTANEOUSLY WITH OTHER PARAMETERS. THER E SHOULD BE PROVISION TO DISPLAY 7 OR MORE ECG WAVEFORMS SIMULTANEOUSLY AT A RANG E OF 15 TO 300 BP. J. SHOULD HAVE BASIC ARRHYTHMIA DETECTION FOR LIFE-THREATENING ALARMS THAT INCLUDE ASYSTOLE, VENTRICULAR FIBRILLATION, VENTRICULAR TACHYCARDIA, AND BRADYCARDIA AND M ORE. K. SHOULD HAVE NON-VOLATILE GRAPHIC AND TABULAR TRENDING OF ALL MONITORED PARAMET ERS AS STANDARD FOR MINIMUM 96 HRS. L. SHOULD HAVE MANUAL AS WELL AS AUTOMATIC SETTING OF SCREEN FORMAT WITH SELECTAB LE PARAMETER PRIORITY & COLOUR SELECTION FOR PARAMETERS ON SCREEN. M. SHOULD HAVE DEFIBRILLATOR AND ESU PROTECTION AND ECG SYNC. IT IS OPTIONAL TO HAVE ECG OUTPUT FROM THE HEMODYNAMIC MONITOR TO ULTRASOUND, ECHOCARDIOGRAPHY SYSTE M AND IABP INTERFACE WITH A DELAY OF LESS THAN 20 MILLISECONDS. JACKS, ADAPTORS AND C ABLES NECESSARY FOR ECG OUTPUT FROM HEMODYNAMIC MONITOR TO DISPLAY ON ULTRASOUN D, ECHOCARDIOGRAPHY SYSTEM AND IABP SHOULD BE PROVIDED AS OPTIONAL ITEMS AND PRICE SHOULD BE QUOTED SEPARATELY. N. IT SHOULD BE READY FOR WIRED NETWORKING"
+    },
+    {
+      "page": 15,
+      "text": "O. IT SHOULD HAVE 360-DEGREE ALARM BAR, ROTARY KNOB AND TOUCHSCREEN P. THE MONITOR SHOULD HAVE FOLLOWING MINIMUM FEATURES: I) ECG MONITORING: ST SEGMENT MONITORING FROM AT LEAST 3 LEADS; CHANGE OF SWEEP SPE ED; DISPLAY PACING ON/OFF, II) INVASIVE PRESSURES: MANUAL CHANGE OF COLOUR OF WAVEFORMS; OVERLAP OF ONE OR M ORE PRESSURE WAVEFORMS WITH ECG; ALARM FROM MEAN ARTERIAL PRESSURES; OPTION FOR DISPLAY OF MEAN PRESSURE ONLY OR DISPLAY SYSTOLIC, DIASTOLIC AND MEAN; III) NIBP: AUTO MATIC INFLATION INTERVAL MINIMUM 2 MINUTES, IV) BEEP: FROM ECG, SPO2, PULSE OR ARTERIAL BP OR AUTO; BEEP VOLUME ADJUSTABLE; BEEP T ONE SHOULD BE HEARD EVEN IF ALARM FROM OTHER PARAMETERS GO ON V) ALARMS MUTE: ALL ALARMS MUTE SIMULTANEOUSLY USING A SINGLE-PRESS SOFTKEY AND SEL ECTING INDIVIDUAL PARAMETER ALARM TO BE KEPT ON; ALARM VOLUME ADJUSTABLE VI) CHANGE IN THE INTENSITY OR QUALITY OF SPO2 BEEP SOUND WITH A FALL IN OXYGEN SATURATION. THER E SHOULD BE DISPLAY OF PERFUSION INDEX OR PULSE STRENGTH AT SENSOR SITE OF SPO2 VII) PULSE PRESSURE VARIATION AND/OR STROKE VOLUME VARIATION; VIII)ANESTHESIA DEPTH MONITORING WITH AT LEAST 25 DISPOSABLE ELECTRODES; IX) TOUCH SCREEN SHOULD BE SENSITIVE TO ALTER THE PARAMETER SETTING WITH A SINGLE-TO UCH WITHOUT NEED TO TOUCH FREQUENTLY MAKE ALTERATIONS. X) MONITOR SHOULD BE SENSITIVE TO CHANGES IN CLINICAL PARAMETERS SUCH AS HEART RATE AND BLOOD PRESSURE WITH A LAG TIME LESS THAN 50 MSEC. Q. FOLLOWING MONITORING MODALITIES SHOULD BE QUOTED AS OPTIONAL WITH A SEPARATE P RICE FOR INDIVIDUAL MODALITY: THERMODILUTION CARDIAC OUTPUT,CONTINUOUS CARDIAC OU TPUT MONITORING USING PULMONARY ARTERY CATHETERS (CCO), PICCO, NIRS. ALL NECESSARY HARDWARES AND SOFTWARES SHOULD BE PROVIDED. THE PRICE OF RECURRENT DISPOSABLES R EQUIRED FOR INDIVIDUAL MONITORING MODALITY SHOULD BE STATED CLEARLY. TRANSPORT MONITOR: A. SHOULD HAVE TRANSPORT MONITOR FROM THE SAME MANUFACTURER OR A LATEST MONITOR FROM A THIRD-PARTY VENDOR B. IT SHOULD HAVE MINIMUM 6 INCHES SCREEN. C. IT SHOULD DISPLAY MINIMUM 4 PARAMETERS AT A TIME WITH THREE OR MORE WAVEFORMS. T HERE SHOULD BE CONNECTIVITY OF AT LEAST TWO INVASIVE PRESSURE MONITORING TRANSDUC ERS SIMULTANEOUSLY. ONE OF THE WAVEFORMS AND DIGITAL PARAMETER VALUE SHOULD BE DE DICATED TO ONE INVASIVE PRESSURE MONITORING. D. IT SHOULD HAVE A BATTERY BACKUP OF 120 MIN OR MORE E. WITHOUT ADDITIONAL MODULES OR BATTERIES IT SHOULD ALLOW TRANSPORT. THE INVASIVE PRESSURE TRANSDUCER, ECG AND SPO2 SHOULD BE COMPATIBLE WITH BOTH THE HEMODYNAMI C MONITOR AND THE TRANSPORT MONITOR. IF THEY ARE NOT COMPATIBLE, THEN APPROPRIATE I NTERVENING ADAPTORS/CABLES BETWEEN THE TRANSPORT MONITOR AND PRESSURE TRANSDUC ER, ECG AND SPO2 SHOULD BE PROVIDED. . 9. Buyer Added Bid Specific ATC"
+    },
+    {
+      "page": 16,
+      "text": "Buyer uploaded ATC document Click here to view the file. 10. Rate Contract Demurrage charges In case the rejected items are not lifted by the firm within 48 hrs, the demurrage charges at the rate of 0.5% of total contract value will be charged per day. In case the items are not lifted within a month, the same will be destroyed by the station board of officers and no claim will be admitted.Demurrage charges. In case the rejected items are not lifted by the firm within 48 hrs, the demurrage charges at the rate of 0.5% of total contract value will be charged per day. In case the items are not lifted within a month, the same will be destroyed by the station board of officers and no claim will be admitted. 11. Rate Contract Bidder's offer is liable to be rejected if they dont upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 12. Rate Contract Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 13. Rate Contract Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 14. Generic Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller. 15. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 16. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of Director,SCTIMST A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract. 17. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in favour of Director,SCTIMST payable at Thiruvananthapuram . After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of contract. 18. Generic"
+    },
+    {
+      "page": 17,
+      "text": "Without prejudice to Buyer’s right to price adjustment by way of discount or any other right or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a written notice to the Seller, if: i) The Seller fails to comply with any material term of the Contract. ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within the stipulated Delivery Period or such inability otherwise becomes apparent. iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery Period and/or to replace/rectify any rejected or defective Material(s) promptly. iv) The Seller becomes bankrupt or goes into liquidation. v) The Seller makes a general assignment for the benefit of creditors. vi) A receiver is appointed for any substantial property owned by the Seller. vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has placed the Purchase Order on the Seller."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/7854436",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "document_closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 22-09-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "document_opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 23-09-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Science And Technology",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Science And Technology (dst)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Sree Chitra Tirunal Institute For Medical Sciences And Technology (sctimst)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Thiruvananthapuram",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :sm.sctimst-ker@gov.in Buyer Email id: purchase7@sctimst.ac.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Anaesthesia Workstation (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 6500000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 162000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 162000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 38",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Type of Flowmeter: Rotameter, Electronic | Type of hypoxic guard with automatic cutoff of N2O: Electronic, Mechanical | Vaporizer compatible to gases: Sevoflurane, Isoflurane, Desflurane, Halothane | Available modes of operating ventilator: Manual/spontaneous, Volume controlled, Pressure controlled, SIMV/PCV, SIMV/VCV, CMV | Tidal volume of ventilator (in ml): 10 to 1400 ml, 20 to 1400 ml | Patient multipara monitor shall be able to display parameters: HR, SpO2, NIBP, ECG, Temperature, NA(If monitor not provided) | Warranty in Years (Option of comprehensive warranty is available through bidding only, which if opted will supersede normal warranty in the catalogue): 3, 4, 5 Or higher (year)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Deepthi Bhaskar | 695011,Sree Chitra Tirunal Institute For Medical Science and Technology,Medical College PO, Trivandrum | 1 | 45",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Forms of EMD and PBG Bidders can also submit the EMD with Account Payee Demand Draft in favour of Director,SCTIMST payable at Thiruvananthapuram . Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 3. Forms of EMD and PBG Bidders can also submit the EMD with Fixed Deposit Receipt made out or pledged in the name of A/C Director,SCTIMST . The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of EMD, the FDR will be released in the favour of the bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Bidder has to upload scanned copy/ proof of the FDR along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date/ Bid Opening date 4. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 5. Warranty Bidder / OEM has to give an undertaking that after expiry of warranty period, it will provide Comprehensive Maintenance Service for next 5 years for the offered products at the rate not more than 5 % of contract price per annum. Buyer reserves the right to enter into a CMC agreement with the Successful Bidder / OEM after expiry of the Warranty period at above mentioned rate and the payment for the CMC charges would be made Biannually after rendering of the CMC Services of the relevant CMC period. Performance Security of the successful bidder shall be forfeited if it fails to accept the CMC contract when called upon by the buyer. CMC would include cost of As per the specifications (Upload the undertaking). The original Performance Security of contract will be returned only after submission and verification of AMC Performance Security for 3% of total CMC value valid up to CMC period plus 2 months (if there is no other claim). 6. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 7. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 8. Buyer Added Bid Specific ATC",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "Buyer Added text based ATC clauses Bidders are advised to quote prices as per technical specification. However detailed breakup of quoted prices should be provided in Price Fo rmat – A uploaded in the prescribed place (Financial Document Required) on online GeM portal. The prices quoted in the prescribed field on GeM portal will be considered for ranking purpose. Total price quoted in Price Format – A must match with the price quoted in GeM portal. Bi A dders should not include price elements in the technical bid. The Price Formats A, B, C, D and E to be submitted along with fin ancial bid only. If any of the price components is disclosed in the technical bid, the bid will summarily be rejected and the bi dder will be DISQUALIFIED from further bidding process. The Bidders are advised to quote price of Spare parts, Consumables in the attached format “B” and “C” accordingly and uploaded the sa me in the prescribed place (Financial Document Required) on online GeM portal. The equipment should be supported with spares for a mini B mum period of 10 years after successful installation and commissioning.” All the spares and consumables required for the equipment should be made available through GeM throughout the agreed supporting period”. The three years warranty sought for is OEM/bidder free warranty without any additional cost towards extended warranty to fulfil the tender co ndition. The charges, if any, claimed by the bidder towards warranty in this regard and included in the product cost in Price Format –A should be mentioned in the price format D also, and uploaded the same in the prescribed place (Financial Document Required). This warranty charg es shall not be considered for calculating actual CAMC value to be payable after warranty period. Where the total cost does not include such warranty charges, the bidder shall submit a declaration- \"Certify that the Equipment/accessories quoted in the bid is having OEM/bidder free C warranty of three years and the total cost quoted in the bid does not include any warranty charges to fulfil the tender condition of three year warranty\". This declaration shall be furnished along with the Technical bid in format H. False declaration may lead to rejection of bid. In th e case of agents quoting on behalf of their foreign principal, proforma invoice from the OEM (Foreign principal company) indicating the nature of after sale service including warranty condition and commission payable to the Indian agent shall be furnished along with the price bid. i. As per the Institutes general policy, the maximum CAMC charges after warranty period will be 5% of the cost of the equipment. However the bidders can quote CAMC charges in the range of 3 to 10 % of the cost of equipment, depending on the nature of equipment to be maintained. ii. The CAMC charges shall be quoted in percentage rate in GeM bid and escalation in CAMC charges shall be allowed at maximum 5% after ever y three years of CAMC. iii. This CAMC charges at Net Present Value shall be taken into account for arriving the lowest responsive bidder. The actual CAMC value to be payable after warranty period shall be separately worked out based on the \"Cost of the equipment for CAMC calculation” and shall be furnish D ed in “Format –E” and uploaded the same in the prescribed place (Financial Document Required). iv. The year wise rate percentage of CAMC quoted in the bid for L1 evaluation should be used for calculating the actual CAMC value. v. The “cost of the equipment for CAMC calculation” shall not include additional warranty cost (if any), cost towards Installation, Commissioning and Testing (in addition to the original equipment cost of the OEM), cost of transportation, including import customs duty, Agency commissio n, any specific excluded items from CAMC as per the tender condition and GST included in the product cost quoted. vi. The cost of the equipment for CAMC calculation shall be mandatorily furnished in format D. The warranty and CAMC condition as given above should be applicable for the third party items, if any supplied. The successful bidder shall f urnish the agreement executed in this regard with the third parties as and when called for. The genuineness of price quoted for the equipme E nt / accessories are very important and this price shall not be loaded with any other cost. A declaration in this regards shall be furnished alon g with technical bid in format H The successful bidder shall enter into CAMC 3 (three) months prior to the completion of warranty period. The CAMC will commence after the F date of expiry of warranty period from the date specified in the work order and as per the terms and conditions issued in this regard, which w ill be treated as the first year of CAMC. This tender will form part of the CAMC work order.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "Penalty clause: 1. Delay in Delivery: If the supplier fails to deliver or install/commission any or all of the goods or fails to perform the services within the time frame(s) incorporated in the Purchase Order, the Purchaser shall, without prejudice to other rights and remedies available to the Purchaser under the contract, deduct from the contract price, as liquidated damages, a sum equivalent to 0.5% per week of delay or part thereof on delayed suppl y of goods, installation, commissioning and/or services until actual delivery or performance subject to a maximum of 10% of the contract pric e. Once the maximum is reached Purchaser may consider termination of the contract . If any delay by the supplier in maintaining its contractual obligations towards delivery of goods and performance of services shall render the supplier liable to any or all of the following sanctions: I. Imposition of liquidated damages, II. Forfeiture of its Performance Security and III. Termination of the Contract for default 2. Performance (during Warranty period) Supplier should ensure uninterrupted service delivery of the equipment or product during the warranty period. In this regard follo wing conditions also may be noted: I. In case of failure of equipment or its components, breakdown call has to be attended within 48 hours of intimation. II. The defect should be rectified within two days after the call is attended, failing which replacement or standby equipment shoul G d be provided for uninterrupted services. III. In case of non-adherence to clause (a) or (b) above, downtime penalty will be realised a sum equivalent either the repairing ch arges met by the Institute to set right the equipment or 0.5 percent per day of cost of the equipment, whichever is hig her, from the date of report of breakdown by way of deductions from SD/Performance Bank Guarantee. IV. The time spent on the repair work will be added to the warranty period of the equipment. 3. Performance (during CMC/AMC period): i. Uptime means 95 percent of total days in a year during which the equipment remains functional. II. Down time means any shortage in achieving the up-time III. Down time penalty will be levied as per following terms and condition: IV. In the case of CMC, it shall be the responsibility of the service provider to set right the equipment and avoid down ti me. Down time penalty will be imposed @ 0.5 percent of contract value per day from the service provider. V. In case auxiliary units/components attached to the main equipment undergoes failure and the main equipment provi des uninterrupted services, down time penalty will be imposed @ 0.1 percent of contract value per day per auxil iary unit from the service provider. VI. Service provider should ensure rectification of defect of equipment within a reasonable period in the case of Labour Annual Maintenance Contract. In case break down is not attended within 48 hours of intimation, down time pena lty will be imposed @ 0.5 percent per day of contract value from the service provider. Qualification criteria The bidder must be a manufacturer or their authorized agents having a place of business in any state of India are eligible to participate in this bid. The bidders should submit “Manufacturer’s Authorization Form” for each items quoted and shall be submitted along with technical bid, a H s per the format enclosed in the bid document (Format “F”). MII declaration should be furnished in the attached format along with bid document “Format G”. The declaration shall be certified by the s tatutory auditor or cost auditor. I Bidders may please be read as uptime warranty as 95 % instead of 98 % as per bid terms and conditions.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 11,
+      "quote": "SCTIMST reserves the right to ask for a free demonstration of the quoted equipment/ items after giving reasonable time to the bidder at a pre -determined place acceptable to the purchaser or at a site (in case of non-portable and heavy equipment) for evaluating the technical compat J ibility as per the bidding document specifications, professionalism and quality of work of the bidder for technically qualifying for opening the Price Bid. SCTIMST reserves the right to accept/ reject the bid based on the product/ site evaluation as stated above. List of documents to be attached along with bid. K Technical Bid - Format F, G and H Price bid - Format A, B, C, D and E L On-site installation required. M For all disputes arising out of this contract the legal jurisdiction will be Thiruvananthapuram. Payment Term N 100% payment will be paid after satisfactory installation and commissioning of equipment along with submission of “Installation Report” to b e issued by user department and DCE O Competent authority reserves right to terminate the tender at any stage of its process without assigning any reasons. The company will not b e entitled to claim any compensation against such termination. P Company should possess a valid CDSCO license to sell the equipment in India ( Import or Indigenous). Copy of t he same should be provided along with the tender document. As per OM No. F.4/1/2023-PPD(pt.) dated 28.06.2024 from the Ministry of Finance, GOI, approval for the relaxation under Rule 161(iv) of GFR Q 2017 for issuance of GTE for procurement of Medical Devices. Hence, non local suppliers can also participate together with local suppliers in t he tender. HIGH END ANAESTHESIA WORKSTATION WITH HEMODYNAMIC MONITOR SYSTEM PARAMETERS: THE HEMODYNAMIC MONITOR MUST BELONG TO SAME MANUFACTURER AS THAT OF THE ANAEST HESIA WORKSTATION. ANAESTHESIA WORKSTATION A.THE LATEST SYSTEM/MAKE/MODEL/VERSION/EDITION OF DIGITAL ANAESTHESIA WORKSTATION WITH DIGITAL VAPORIZER WITH SOFTWARE UPDATE NOT MORE THAN 4 YEARS BEFORE THE DATE OF DELIVERY TO THE USERS, SHOULD BE SUPPLIED. B. THE BIDDER SHOULD PROVIDE DATA IN A TABULAR FORMAT(COMPLIANCE STATEMENT) STATIN G FOLLOWING DETAILS REGARDING THE BIDDING ITEMS: DIGITAL ANAESTHESIA WORKSTATION W ITH DIGITAL VAPORIZER QUOTED: OEM; BRAND/SYSTEM/MAKE/MODEL/VERSION/EDITION; C) BIDDER SHOULD NOT INCLUDE PRICE BID IN THE TECHNICAL BID.PLEASE REFER TO THE BUYER ADDED BID SPECIFIC ATC; DO NOT INCLUDE FORMATS A, B, C, D AND E IN THE TECHNICAL BID. IF THE PRICE BID IS INCLUDED IN THE TECHNICAL BID, THE BIDDER WILL BE DISQUALIFIED FROM TH E RETENDERED BIDDING PROCESS. D) THE BIDDER SHOULD PROVIDE TECHNICAL DETAILS OF THE BIDDING ITEM, PREFERABLY IN THE FORM OF PRODUCT BROCHURE. E) THE BIDDER SHOULD PHYSICALLY DEMONSTRATE THE QUOTED ITEMS AT THE TIME OF TECHNI",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 12,
+      "quote": "CAL EVALUATION IF REQUESTED BY THE INSTITUTE F) THE QUOTED PRICE SHOULD INCLUDE THE COST OF DIGITAL ANAESTHESIA WORKSTATION, DIG ITAL VAPORISER AND CHARTING SYSTEM. G) L1 WILL BE CALCULATED BASED ON THE TOTAL COST ONLY. PERFORMANCE PARAMETERS: A. IT SHOULD BE A DIGITAL ANAESTHESIA WORKSTATION HAVING DIGITAL VAPORIZERS. B. FLOW RATE IN LPM: CHANGE TO INSPIRATORY FLOW UP TO 120 LPM + FRESH GAS FLOW C. VIRTUAL GAS FLOW METER SHOULD BE DISPLAYED ONSCREEN. D. SYSTEM SHOULD HAVE TOOLS TO SUPPORT LOW AND MINIMAL FLOW ANAESTHESIA SUCH AS F OR ANAESTHETIC GAS ECONOMY, AND DETAILS OF LOW FLOW PARAMETERS. E. SHOULD BE SUITABLE FOR ADULT, PEDIATRIC PATIENTS AND NEONATES F. WORK SURFACE LIGHT ILLUMINATION WITH ON/OFF SWITCH GAS DELIVERY SYSTEM: A. AVAILABILITY OF DIGITAL DISPLAY OF PRESSURE GAUGES FOR CYLINDER AND PIPELINES IN ANA ESTHESIA WORKSTATIONS: ADD DIGITAL DISPLAY OF PRESSURE GAUGES B. THE SAMPLE GAS SHOULD RETURN INTO THE BREATHING SYSTEM DURING LOW FLOW ANAEST HESIA C. ELECTRONIC GAS MIXING D. ELECTRONIC HYPOXIA GUARD VAPORIZERS: A. DIGITAL ELECTRONIC VAPORIZERS OF SEVOFLURANE AND ISOFLURANE ANAESTHETIC AGENTS SHOULD BE PROVIDED. B. THE DIGITAL VAPORIZER SHOULD BE ELECTRONICALLY CONTROLLED FROM THE ANESTHESIA W ORKSTATION PANEL OR SCREEN AND THERE SHOULD BE NO NEED TO MANUALLY CHANGE THE CO NCENTRATION OF ANESTHETIC AGENT ON THE VAPORIZER DIAL. THE DELIVERY OF CONCENTRATI ON OF THE ANESTHETIC AGENT SHOULD BE ELECTRONICALLY ADJUSTED ALONG WITH FRESH GAS FLOW. THERE SHOULD BE ELECTRONIC CONTROL TO SET TARGET INSPIRED OR EXPIRED ANAESTH ETIC AGENT CONCENTRATION. THE CONCENTRATION OF ANESTHETIC AGENT SHOULD CHANGE R APIDLY WITH CHANGES MADE IN THE CONCENTRATION SETTINGS ON THE PANEL. C. IT SHOULD HAVE DEDICATED SOFTWARE/ APPLICATION FOR ANALYSIS OF FRESH GAS FLOW DU RING LOW-FLOW ANESTHESIA. IT SHOULD CALCULATE DEFICIT, EXCESS AND REQUIRED QUANTITY OF FRESH GAS FLOW. IT ALSO SHOULD DISPLAY INFORMATION ON OXYGEN AND INHALATIONAL A NESTHETIC AGENTS SUCH AS OXYGEN UPTAKE IN ML PER MINUTE AND ANESTHETIC AGENT CONS UMPTION AND UPTAKE OR OXYGEN AND INHALED ANESTHETIC AGENT FLOW IN ML/MIN. IT SHOUL D HELP IN CALCULATING THE COST OF INHALATIONAL AGENT UTILISED DURING THE SURGERY. BREATHING SYSTEM:",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 13,
+      "quote": "A. BREATHING SYSTEM WARMER OR ANY OTHER MECHANISM SHOULD BE INTEGRATED FOR BREAT HING GAS CONDITIONING AND AVOIDANCE OF CONDENSATION B. CARBON DIOXIDE ABSORBENT SODA LIME CHAMBER/ CANISTER SHOULD HAVE CAPACITY OF 1 LITRE OR MORE.IF THE CAPACITY IS LESS THAN 1 LITRE, THEN THE SUPPLIER SHOULD PROVIDE 2 C ARBON DIOXIDE ABSORBENT SODA LIME CHAMBERS/ CANISTERS. C. VOLUME CAPACITY OF BREATHING SYSTEM IN LITRES 1.5 LITRES OR MORE CONSIDERING BAG AS A PART OF BREATHING SYSTEM D. AUXILIARY FLOW METER FOR OXYGEN ANAESTHESIA VENTILATOR: A. INTEGRATED VENTILATOR SHALL NOT REQUIRE BELLOWS TO BE CHANGED FOR ADULTS AND IN FANTS. B. BIDDER SHOULD SUPPLY ELECTRONICALLY-CONTROLLED PISTON VENTILATORS; OR INTEGRATE D MICROPROCESSOR CONTROLLED AND PNEUMATICALLY DRIVEN VENTILATOR WITH BELLOWS, O R MICROPROCESSOR INCORPORATED-TURBINE VENTILATORS; OR ANY LATEST TECHNOLOGY TO G ENERATE VENTILATION C. TIDAL VOLUME OF VENTILATOR IN ML: 20 ML TO 1400 ML IN VOLUME CONTROL MODE. D. BREATHING FREQUENCY IN BPM 4 TO 100 BPM. E. MODES OF VENTILATION: VOLUME CONTROLLED, PRESSURE CONTROLLED, PRESSURE VENTILAT ION WITH VOLUME GUARANTEE OR SIMILAR MODE FOR DELIVERING SET TIDAL VOLUME AT MINIM UM AIRWAY PRESSURE, SIMV, PRESSURE SUPPORT, MANUAL F. IT SHOULD HAVE DUAL-FLOW SENSING TECHNOLOGY WITH FLOW SENSOR AT INSPIRATORY AN D-EXPIRATORY SIDE. G. VENTILATOR PRESET SHOULD INCLUDE AUTOMATIC PATIENT-SPECIFIC VENTILATION SETTINGS THROUGH IDEAL BODY WEIGHT AND/OR AGE AND/ OR HEIGHT H. SCREEN SIZE 15 INCHES OR LARGER MONITORING SCREEN: A. SHOULD HAVE DISPLAY THREE OR FOUR REAL-TIME WAVEFORMS AND DISPLAY OF CONCENTRA TION OF (SIDE-STREAM) CO2, O2, AND ANAESTHETIC AGENTS, AIRWAY PRESSURE, INSPIRATORY AND EXPIRATORY FLOWS AND LOOPS FOR P-V AND F-V LOOPS B. SHOULD HAVE CARDIOPULMONARY BYPASS MODE. CHARTING SYSTEM COST OF CHARTING SOLUTION SHOULD BE MENTIONED SEPARATELY IN THE PRICE BID). ACCESSORIES: FOLLOWING ACCESSORIES SHOULD BE PROVIDED WITH EACH ANESTHESIA WORKSTATION A. COVER FOR THE ANAESTHESIA WORKSTATION FOR PROTECTION DURING OPERATION THEATRE FUMIGATION STERILIZATION.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 14,
+      "quote": "B. DEDICATED ADULT AND PAEDIATRIC CIRCUIT (1 IN QUANTITY EACH) WARRANTY THE EQUIPMENT MUST COME WITH THREE YEARS COMPREHENSIVE WARRANTY AND 7 YEARS CAMC HEMODYNAMIC MONITOR: A. THE DEGREE OF THE ROTATION OF THE MONITOR ARM SHOULD BE MORE THAN 90 DEGREE B. HEMODYNAMIC MONITOR SHOULD BE MOUNTED ON THE TOP OF THE WORKSTATION AND THE NECESSARY MOUNTS MUST BE SUPPLIED. C. MONITORING SCREEN SHOULD BE TWENTY ONE (21) INCHES OR LARGER IN SIZE. D. IT SHOULD HAVE TOUCH SCREEN COLOUR DISPLAY WITH LARGE FONTS AND PROVIDE ACCESS TO MINIMUM 10 OR MORE WAVEFORMS E. MONITORING SHOULD BE USER CONFIGURABLE AND SHALL SUPPORT AT LEAST 4 LAYOUTS. F. IT SHOULD HAVE MINIMUM PARAMETERS SUCH AS ECG, NIBP, SPO2, AND TWO TEMPERATURES, BISPECTRAL INDEX AND NEURO MUSCULAR MONITOR. G) IT SHOULD BE PROVIDED WITH SIMULTANEOUS DISPLAY OF 4 OR MORE INVASIVE PRESSURE M ONITORING THROUGH PRESSURE TRANSDUCERS, AT LEAST 3 OF THESE INVASIVE PRESSURES SH OULD BE STANDARD FEATURES. 4 TH INVASIVE PRESSURE SHOULD BE PROVIDED EITHER DIRECTL Y OR THROUGH UPGRADES SUCH AS ADDITIONAL PODS/MODULES/ADAPTERS AND NECESSARY SO FTWARES. H). THE SPLITTER CABLES AND INTERVENING CABLES BETWEEN THE TRANSDUCERS AND SPLITTE R CABLES SHOULD BE COMPATIBLE WITH THE HEMODYNAMIC MONITOR, TRANSPORT MONITOR A ND COMMONLY USED TRANSDUCERS IN MARKET. IF INCOMPATIBILITY IS NOTICED, THE BIDDER SH OULD SUPPLY NECESSARY COMPATIBLE CABLES FOR THE INVASIVE PRESSURES TO WORK SATISFACTORILY. I. ECG: SHOULD HAVE 3 LEAD AND ALSO 5 LEAD ECG MONITORING CAPABILITY WITH DISPLAY OF AT LEAST THREE LEADS OF ECG WAVEFORMS SIMULTANEOUSLY WITH OTHER PARAMETERS. THER E SHOULD BE PROVISION TO DISPLAY 7 OR MORE ECG WAVEFORMS SIMULTANEOUSLY AT A RANG E OF 15 TO 300 BP. J. SHOULD HAVE BASIC ARRHYTHMIA DETECTION FOR LIFE-THREATENING ALARMS THAT INCLUDE ASYSTOLE, VENTRICULAR FIBRILLATION, VENTRICULAR TACHYCARDIA, AND BRADYCARDIA AND M ORE. K. SHOULD HAVE NON-VOLATILE GRAPHIC AND TABULAR TRENDING OF ALL MONITORED PARAMET ERS AS STANDARD FOR MINIMUM 96 HRS. L. SHOULD HAVE MANUAL AS WELL AS AUTOMATIC SETTING OF SCREEN FORMAT WITH SELECTAB LE PARAMETER PRIORITY & COLOUR SELECTION FOR PARAMETERS ON SCREEN. M. SHOULD HAVE DEFIBRILLATOR AND ESU PROTECTION AND ECG SYNC. IT IS OPTIONAL TO HAVE ECG OUTPUT FROM THE HEMODYNAMIC MONITOR TO ULTRASOUND, ECHOCARDIOGRAPHY SYSTE M AND IABP INTERFACE WITH A DELAY OF LESS THAN 20 MILLISECONDS. JACKS, ADAPTORS AND C ABLES NECESSARY FOR ECG OUTPUT FROM HEMODYNAMIC MONITOR TO DISPLAY ON ULTRASOUN D, ECHOCARDIOGRAPHY SYSTEM AND IABP SHOULD BE PROVIDED AS OPTIONAL ITEMS AND PRICE SHOULD BE QUOTED SEPARATELY. N. IT SHOULD BE READY FOR WIRED NETWORKING",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 15,
+      "quote": "O. IT SHOULD HAVE 360-DEGREE ALARM BAR, ROTARY KNOB AND TOUCHSCREEN P. THE MONITOR SHOULD HAVE FOLLOWING MINIMUM FEATURES: I) ECG MONITORING: ST SEGMENT MONITORING FROM AT LEAST 3 LEADS; CHANGE OF SWEEP SPE ED; DISPLAY PACING ON/OFF, II) INVASIVE PRESSURES: MANUAL CHANGE OF COLOUR OF WAVEFORMS; OVERLAP OF ONE OR M ORE PRESSURE WAVEFORMS WITH ECG; ALARM FROM MEAN ARTERIAL PRESSURES; OPTION FOR DISPLAY OF MEAN PRESSURE ONLY OR DISPLAY SYSTOLIC, DIASTOLIC AND MEAN; III) NIBP: AUTO MATIC INFLATION INTERVAL MINIMUM 2 MINUTES, IV) BEEP: FROM ECG, SPO2, PULSE OR ARTERIAL BP OR AUTO; BEEP VOLUME ADJUSTABLE; BEEP T ONE SHOULD BE HEARD EVEN IF ALARM FROM OTHER PARAMETERS GO ON V) ALARMS MUTE: ALL ALARMS MUTE SIMULTANEOUSLY USING A SINGLE-PRESS SOFTKEY AND SEL ECTING INDIVIDUAL PARAMETER ALARM TO BE KEPT ON; ALARM VOLUME ADJUSTABLE VI) CHANGE IN THE INTENSITY OR QUALITY OF SPO2 BEEP SOUND WITH A FALL IN OXYGEN SATURATION. THER E SHOULD BE DISPLAY OF PERFUSION INDEX OR PULSE STRENGTH AT SENSOR SITE OF SPO2 VII) PULSE PRESSURE VARIATION AND/OR STROKE VOLUME VARIATION; VIII)ANESTHESIA DEPTH MONITORING WITH AT LEAST 25 DISPOSABLE ELECTRODES; IX) TOUCH SCREEN SHOULD BE SENSITIVE TO ALTER THE PARAMETER SETTING WITH A SINGLE-TO UCH WITHOUT NEED TO TOUCH FREQUENTLY MAKE ALTERATIONS. X) MONITOR SHOULD BE SENSITIVE TO CHANGES IN CLINICAL PARAMETERS SUCH AS HEART RATE AND BLOOD PRESSURE WITH A LAG TIME LESS THAN 50 MSEC. Q. FOLLOWING MONITORING MODALITIES SHOULD BE QUOTED AS OPTIONAL WITH A SEPARATE P RICE FOR INDIVIDUAL MODALITY: THERMODILUTION CARDIAC OUTPUT,CONTINUOUS CARDIAC OU TPUT MONITORING USING PULMONARY ARTERY CATHETERS (CCO), PICCO, NIRS. ALL NECESSARY HARDWARES AND SOFTWARES SHOULD BE PROVIDED. THE PRICE OF RECURRENT DISPOSABLES R EQUIRED FOR INDIVIDUAL MONITORING MODALITY SHOULD BE STATED CLEARLY. TRANSPORT MONITOR: A. SHOULD HAVE TRANSPORT MONITOR FROM THE SAME MANUFACTURER OR A LATEST MONITOR FROM A THIRD-PARTY VENDOR B. IT SHOULD HAVE MINIMUM 6 INCHES SCREEN. C. IT SHOULD DISPLAY MINIMUM 4 PARAMETERS AT A TIME WITH THREE OR MORE WAVEFORMS. T HERE SHOULD BE CONNECTIVITY OF AT LEAST TWO INVASIVE PRESSURE MONITORING TRANSDUC ERS SIMULTANEOUSLY. ONE OF THE WAVEFORMS AND DIGITAL PARAMETER VALUE SHOULD BE DE DICATED TO ONE INVASIVE PRESSURE MONITORING. D. IT SHOULD HAVE A BATTERY BACKUP OF 120 MIN OR MORE E. WITHOUT ADDITIONAL MODULES OR BATTERIES IT SHOULD ALLOW TRANSPORT. THE INVASIVE PRESSURE TRANSDUCER, ECG AND SPO2 SHOULD BE COMPATIBLE WITH BOTH THE HEMODYNAMI C MONITOR AND THE TRANSPORT MONITOR. IF THEY ARE NOT COMPATIBLE, THEN APPROPRIATE I NTERVENING ADAPTORS/CABLES BETWEEN THE TRANSPORT MONITOR AND PRESSURE TRANSDUC ER, ECG AND SPO2 SHOULD BE PROVIDED. . 9. Buyer Added Bid Specific ATC",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 16,
+      "quote": "Buyer uploaded ATC document Click here to view the file. 10. Rate Contract Demurrage charges In case the rejected items are not lifted by the firm within 48 hrs, the demurrage charges at the rate of 0.5% of total contract value will be charged per day. In case the items are not lifted within a month, the same will be destroyed by the station board of officers and no claim will be admitted.Demurrage charges. In case the rejected items are not lifted by the firm within 48 hrs, the demurrage charges at the rate of 0.5% of total contract value will be charged per day. In case the items are not lifted within a month, the same will be destroyed by the station board of officers and no claim will be admitted. 11. Rate Contract Bidder's offer is liable to be rejected if they dont upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 12. Rate Contract Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 13. Rate Contract Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 14. Generic Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller. 15. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 16. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of Director,SCTIMST A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract. 17. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in favour of Director,SCTIMST payable at Thiruvananthapuram . After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of contract. 18. Generic",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 17,
+      "quote": "Without prejudice to Buyer’s right to price adjustment by way of discount or any other right or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a written notice to the Seller, if: i) The Seller fails to comply with any material term of the Contract. ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within the stipulated Delivery Period or such inability otherwise becomes apparent. iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery Period and/or to replace/rectify any rejected or defective Material(s) promptly. iv) The Seller becomes bankrupt or goes into liquidation. v) The Seller makes a general assignment for the benefit of creditors. vi) A receiver is appointed for any substantial property owned by the Seller. vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has placed the Purchase Order on the Seller.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9683907"
+    }
+  ],
+  "detail_warning": "The original PDF dates differ from the current public GeM listing. The listing closing date is retained. Confirm the latest opening date and any corrigenda on GeM; the original PDF opening date is not presented as current.",
+  "document_closing_at": "2026-09-22T11:00:00+05:30",
+  "document_opening_at": "2026-09-23T11:00:00+05:30",
+  "date_discrepancy": {
+    "listing_closing_at": "2026-11-27T10:00:00+05:30",
+    "document_closing_at": "2026-09-22T11:00:00+05:30",
+    "document_opening_at": "2026-09-23T11:00:00+05:30"
+  }
 }

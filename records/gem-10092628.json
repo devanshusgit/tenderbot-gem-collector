@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/R/760486",
   "title": "TELMA.AM,ZERODOL.SP,VERTIN16,CHESTONCOLD,CHYMORALFORTE,TELMA.AM.H,MEFTALSPAS,PROMETHAZINE.25,CALPOL",
   "description": "TELMA.AM,ZERODOL.SP,VERTIN16,CHESTONCOLD,CHYMORALFORTE,TELMA.AM.H,MEFTALSPAS,PROMETHAZINE.25,CALPOL.500,TENDOCARE.FORTE,MONTAIR.LC,METROGYL400,FEXOFENADINE120,TONACT.TG40.160,ZIFI200MG,ONDEM,UDILIV450,BANDYPLUS,GLIMIPRIDE 1MG,METFORMIN.GLIMIPRIDE 500MG.1MG,FENOFIBRATE160 MG,ATORVASTATIN40 MG,NEUROBION.FORTE,FEBUXOSTAT40,CILACAR10MG,VIT.D3.60K,REBESEC.DSR,UNIENZYME,HONITUS,ARISTOZYME,IV.SET,URINE.STRIP1X100,NASAL.DROP.NS,CREPE.BANDAGE.8CM,CREPE.BANDAGE.10.CM,INJ.ASV,Eye.Drop.CMC,HAND.SANITIZER.500.ML,GARGLE.BETADINE,GARGLE.CHLORHEXIDINE,CORN.CAP,DERMIKEM.OC,INHALER.ASTHALIN,INHALER.FORACORT",
-  "organisation": "Central Armed Police Forces",
-  "ministry": "Ministry of Home Affairs",
+  "organisation": "Border Security Force (bsf)",
+  "ministry": "Ministry Of Home Affairs",
   "department": "Central Armed Police Forces",
   "portal_name": "GeM",
   "state": [],
@@ -25,8 +25,18 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10092628"
+    },
+    {
+      "name": "GEM/2026/B/8018511",
+      "url": "https://bidplus.gem.gov.in/showbidDocument/9872044",
+      "page": 2
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261028",
+      "page": 2
     }
   ],
   "tags": [
@@ -34,5 +44,113 @@
   ],
   "source_fetched_at": "2026-10-29T19:11:06.321Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "office": "152 Bn Bsf",
+  "bidder_turnover_lakhs": 1,
+  "ra_start_at": "2026-10-29T14:00:00+05:30",
+  "auto_extension": "If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+  "mse_exemption": "MSE Exemption for Years of Experience and Turnover: No",
+  "startup_exemption": "Startup Exemption for Years of Experience and Turnover: No",
+  "originating_bid_reference": "GEM/2026/B/8018511",
+  "source_document_fetched_at": "2026-11-20T07:45:48.082258+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "0f68f8770b280dac3afe7c4d5fb6d780abe522ec4c89888cc1fd951a34c1b4f9",
+  "document_pages": 2,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 1 Lakh (s) (GeM PDF, p. 1)",
+    "MSE Exemption for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Exemption for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [],
+  "technical_specifications": [],
+  "buyer_added_terms": [],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/760486",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10092628"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 2,
+      "quote": "Please refer to Bid document of GEM/2026/B/8018511",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10092628"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 29-10-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10092628"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 30-10-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10092628"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Home Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10092628"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Central Armed Police Forces",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10092628"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Border Security Force (bsf)",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10092628"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: 152 Bn Bsf",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10092628"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 11959",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10092628"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: TELMA.AM , ZERODOL.SP , VERTIN16 , CHESTONCOLD , CHYMORALFORTE , TELMA.AM.H , MEFTALSPAS , PROMETHAZINE.25 , CALPOL.500 , TENDOCARE.FORTE , MONTAIR.LC , METROGYL400 , FEXOFENADINE120 , TONACT.TG40.160 , ZIFI200MG , ONDEM , UDILIV450 , BANDYPLUS , GLIMIPRIDE 1MG , METFORMIN.GLIMIPRIDE 500MG.1MG , FENOFIBRATE160 MG , ATORVASTATIN40 MG , NEUROBION.FORTE , FEBUXOSTAT40 , CILACAR10MG , VIT.D3.60K , REBESEC.DSR , UNIENZYME , HONITUS , ARISTOZYME , IV.SET , URINE.STRIP1X100 , NASAL.DROP.NS , CREPE.BANDAGE.8CM , CREPE.BANDAGE.10.CM , INJ.ASV , Eye.Drop.CMC , HAND.SANITIZER.500.ML , GARGLE.BETADINE , GARGLE.CHLORHEXIDINE , CORN.CAP , DERMIKEM.OC , INHALER.ASTHALIN , INHALER.FORACORT",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10092628"
+    },
+    {
+      "field": "auto_extension",
+      "page": 1,
+      "quote": "Auto Extension: If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10092628"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 1 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10092628"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 1,
+      "quote": "MSE Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10092628"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 1,
+      "quote": "Startup Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10092628"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda."
 }

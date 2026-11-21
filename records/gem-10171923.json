@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8279170",
   "title": "Cash In Transit Service - 2000; Cash Custodian/Loader, Armed Guards; Civilian armed guard; Air Cond",
   "description": "Cash In Transit Service - 2000; Cash Custodian/Loader, Armed Guards; Civilian armed guard; Air Conditioned; 4; 5",
-  "organisation": "Department of Financial Services",
-  "ministry": "Ministry of Finance",
-  "department": "Department of Financial Services",
+  "organisation": "State Bank Of India (sbi)",
+  "ministry": "Ministry Of Finance",
+  "department": "Department Of Financial Services",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Cash In Transit Service - 2000; Cash Custodian/Loader, Armed Guards; Civilian armed guard; Air Cond",
   "quantity": 4,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 25000,
   "published_at": "2026-11-16T17:04:53+05:30",
   "closing_at": "2026-11-26T17:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10171923"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8279170/CLM0010/CashVan_738c2b98-1883-4b4b-b3051794828737286_SBILHOLUC.BUY_CON5.pdf",
+      "page": 6
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261116",
+      "page": 7
+    },
+    {
+      "name": "Service Level Agreement",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/bidsla/103468017517929",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +54,308 @@
   ],
   "source_fetched_at": "2026-11-20T23:33:36.312Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-27T17:00:00+05:30",
+  "office": "Lho Lucknow",
+  "buyer_email": "niraj_kumar.sharma@sbi.co.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 50,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Bidder Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "90 (Days)",
+  "estimated_bid_value": 25000000,
+  "contract_period": "3 Year(s) 1 Day(s)",
+  "source_document_fetched_at": "2026-11-21T07:49:35.324661+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "643affd7922d6ba8a1f782054e0ef48bbffbd820b9fcafd62078a49666b42587",
+  "document_pages": 7,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 50 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: GeM verified turnover (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Bidder Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Niraj Kumar Sharma",
+      "address": "226001,State Bank of India, Local Head Office, Moti Mahal Marg, Hazratganj Lucknow",
+      "quantity": 4,
+      "quantity_label": "Estimated number of cash vans",
+      "delivery_days": null,
+      "additional_requirements": "Average working Hours per day : 8 Estimated number of Month during Contract Period : 36"
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Usage variant per month (in KM)",
+          "value": "2000"
+        },
+        {
+          "group": "Core",
+          "parameter": "Manpower Required",
+          "value": "Cash Custodian/Loader , Armed Guards"
+        },
+        {
+          "group": "Core",
+          "parameter": "Armed Guard Specification",
+          "value": "Civilian armed guard"
+        },
+        {
+          "group": "Core",
+          "parameter": "AC/Non-AC Cash Van",
+          "value": "Air Conditioned"
+        },
+        {
+          "group": "Core",
+          "parameter": "Number of CCTV cameras in van",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Hard disk capacity of CCTV in Terabyte",
+          "value": "5"
+        },
+        {
+          "group": "Core",
+          "parameter": "Number of months of CCTV recording for each CCTV camera",
+          "value": "3"
+        },
+        {
+          "group": "Core",
+          "parameter": "Registration of Vehicle",
+          "value": "Not older than 3 years"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Additional km required per month",
+          "value": "NA"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Additional hours per month",
+          "value": "NA"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Overnight stay night required in month",
+          "value": "NA"
+        },
+        {
+          "group": "Additional Details",
+          "parameter": "Make of vehicle",
+          "value": "Tata Yodha OR Mahendra Bulero or equivalent in cash van segment"
+        },
+        {
+          "group": "Additional Details",
+          "parameter": "Number of working days per month",
+          "value": "24"
+        },
+        {
+          "group": "Additional Details",
+          "parameter": "Number of Resources per Van(Cash Custodian/Armed Guards)",
+          "value": "5"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic"
+    },
+    {
+      "page": 6,
+      "text": "OPTION CLAUSE 25% : The buyer can increase or decrease the contract quantity or contract duration up to 25 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 25 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 25 percent with the consent of the service provider 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8279170",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10171923"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 26-11-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10171923"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 27-11-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10171923"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10171923"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Finance",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10171923"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Financial Services",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10171923"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: State Bank Of India (sbi)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10171923"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Lho Lucknow",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10171923"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :cdo.lholuc@sbi.co.in Buyer Email id: niraj_kumar.sharma@sbi.co.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10171923"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Cash In Transit Service - 2000; Cash Custodian/Loader, Armed Guards; Civilian armed guard; Air Conditioned; 4; 5",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10171923"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 3 Year(s) 1 Day(s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10171923"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 50 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10171923"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10171923"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: GeM verified turnover",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10171923"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10171923"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10171923"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Bidder Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10171923"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10171923"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "(( )) / Estimated Bid Value in INR (Inclusive of all taxes): 25000000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10171923"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 25000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10171923"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 25000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10171923"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10171923"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Usage variant per month (in KM): 2000 | Manpower Required: Cash Custodian/Loader , Armed Guards | Armed Guard Specification: Civilian armed guard | AC/Non-AC Cash Van: Air Conditioned | Number of CCTV cameras in van: 4",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10171923"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Hard disk capacity of CCTV in Terabyte: 5 | Number of months of CCTV recording for each CCTV camera: 3 | Registration of Vehicle: Not older than 3 years | Additional km required per month: NA | Additional hours per month: NA | Overnight stay night required in month: NA | Make of vehicle: Tata Yodha OR Mahendra Bulero or equivalent in cash van segment | Number of working days per month: 24 | Number of Resources per Van(Cash Custodian/Armed Guards): 5",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10171923"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Estimated number of cash vans | Additional Requirement: 1 | Niraj Kumar Sharma | 226001,State Bank of India, Local Head Office, Moti Mahal Marg, Hazratganj Lucknow | 4 | Average working Hours per day : 8 Estimated number of Month during Contract Period : 36",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10171923"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10171923"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "OPTION CLAUSE 25% : The buyer can increase or decrease the contract quantity or contract duration up to 25 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 25 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 25 percent with the consent of the service provider 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10171923"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 4",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

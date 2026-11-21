@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8170283",
   "title": "Tanker on Agricultural Trailer",
   "description": "Tanker on Agricultural Trailer",
-  "organisation": "Rural Development Department Gujarat",
-  "ministry": "",
+  "organisation": "Rural Development Agency",
+  "ministry": "Gujarat",
   "department": "Rural Development Department Gujarat",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Tanker on Agricultural Trailer",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-10-16T12:38:20+05:30",
   "closing_at": "2026-11-25T09:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10045861"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/iph53S3ur-2B811-ybrf2O7hJTQHkfzHutPoEDhen98",
+      "page": 5
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8170283/CLM0010/ATC_654e53ba-ebbc-487b-885e1792134137602_SD_MT.pdf",
+      "page": 7
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261016",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +54,279 @@
   ],
   "source_fetched_at": "2026-11-20T17:43:01.504Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "office": "Vadodara Taluka Panchayat",
+  "buyer_email": "buyer5.rda.gj@gembuyer.in",
+  "emd_required": false,
+  "bidder_turnover_lakhs": 2.5,
+  "oem_turnover_lakhs": 10,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 6,
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-21T21:05:00.842790+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "94f2ce9eccc2f902c258f74e7d4a72e0a401cfb177f8631e5d2ca39cc44dd34b",
+  "document_pages": 8,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 2.5 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 10 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 30 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Sudeepkumar Mahto",
+      "address": "390001,Sardar Vallabhbhai Patel Bhavan, Ground Floor,Vadodara",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 45
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Generic",
+          "parameter": "Type of Trailer",
+          "value": "Semi Trailer (Single Axle)"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Tanker Capacity (Litres)",
+          "value": "3000.0 (liter)"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Capacity of Trailer used (tonnes) (Tolerance ± 5%)",
+          "value": "3.0 Or higher (tonne)"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Axle Assembly Wheel Track(mm)",
+          "value": "1500"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Number of Wheels",
+          "value": "2.0"
+        },
+        {
+          "group": "Tanker Parameters",
+          "parameter": "Tanker Material",
+          "value": "Stainless Steel 304"
+        },
+        {
+          "group": "Tanker Parameters",
+          "parameter": "Tanker Sheet Thickness (mm)",
+          "value": "3, 3.15, 3.5, 4 Or higher (millimeter)"
+        },
+        {
+          "group": "Tanker Parameters",
+          "parameter": "Thickness of Baffle Plates (mm)",
+          "value": "3.0 Or higher (millimeter)"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 3. Generic End User Certificate: Wherever Bidders are insisting for End User Certificate from the Buyer, same shall be provided in Buyer’s standard format only. 4. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 5. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 6. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 7. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 8. Certificates"
+    },
+    {
+      "page": 7,
+      "text": "Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 9. Certificates ISO 9001: The bidder or the OEM of the offered products must have ISO 9001 certification. 10. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 11. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8170283",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10045861"
+    },
+    {
+      "field": "document_closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 31-10-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10045861"
+    },
+    {
+      "field": "document_opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 01-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10045861"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10045861"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Gujarat",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10045861"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Rural Development Department Gujarat",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10045861"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Rural Development Agency",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10045861"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Vadodara Taluka Panchayat",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10045861"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :tdo-vadodara@gujarat.gov.in Buyer Email id: buyer5.rda.gj@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10045861"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10045861"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Tanker on Agricultural Trailer (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10045861"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 2.5 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10045861"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 10 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10045861"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10045861"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10045861"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10045861"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10045861"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10045861"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 30 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10045861"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10045861"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10045861"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10045861"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10045861"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 6",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10045861"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Type of Trailer: Semi Trailer (Single Axle) | Tanker Capacity (Litres): 3000.0 (liter) | Capacity of Trailer used (tonnes) (Tolerance ± 5%): 3.0 Or higher (tonne) | Axle Assembly Wheel Track(mm): 1500 | Number of Wheels: 2.0 | Tanker Material: Stainless Steel 304 | Tanker Sheet Thickness (mm): 3, 3.15, 3.5, 4 Or higher (millimeter) | Thickness of Baffle Plates (mm): 3.0 Or higher (millimeter)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10045861"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Sudeepkumar Mahto | 390001,Sardar Vallabhbhai Patel Bhavan, Ground Floor,Vadodara | 1 | 45",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10045861"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 3. Generic End User Certificate: Wherever Bidders are insisting for End User Certificate from the Buyer, same shall be provided in Buyer’s standard format only. 4. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 5. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 6. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 7. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 8. Certificates",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10045861"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 9. Certificates ISO 9001: The bidder or the OEM of the offered products must have ISO 9001 certification. 10. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in the bid document. 11. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10045861"
+    }
+  ],
+  "detail_warning": "The original PDF dates differ from the current public GeM listing. The listing closing date is retained. Confirm the latest opening date and any corrigenda on GeM; the original PDF opening date is not presented as current.",
+  "document_closing_at": "2026-10-31T13:00:00+05:30",
+  "document_opening_at": "2026-11-01T13:00:00+05:30",
+  "date_discrepancy": {
+    "listing_closing_at": "2026-11-25T09:00:00+05:30",
+    "document_closing_at": "2026-10-31T13:00:00+05:30",
+    "document_opening_at": "2026-11-01T13:00:00+05:30"
+  }
 }

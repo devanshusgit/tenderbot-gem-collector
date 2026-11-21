@@ -11,15 +11,35 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/9930411"
+    },
+    {
+      "name": "1791878605.xlsx",
+      "url": "https://bidplus.gem.gov.in/resources/upload_nas/SepQ326/bidding/excel/bid-9930411/1791878605.xlsx",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/W9JfbRDGAi_0xFPMPyY1brlgMa7TH2aafUb-WZ_HG5Y",
+      "page": 4
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Oct/GEM_2026_B_8069241/CLM0010/GTC_9dcdbfcd-4735-4190-8ab91791869490868_buyer2.gmsclg.gJ.docx",
+      "page": 8
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261013",
+      "page": 9
     }
   ],
-  "emd_fee": null,
+  "emd_fee": 4464000,
   "gem_bid_id": "9930411",
   "gem_id": "9930411",
   "id": "gem-9930411",
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
-  "ministry": "",
-  "organisation": "Health & Family Welfare Department Gujarat",
+  "ministry": "Gujarat",
+  "organisation": "Gujarat Medical Services Corporation Limited (gmscl)",
   "portal_name": "GeM",
   "product_category": "Hematology Analyzer (Fully-Automated)",
   "published_at": "2026-10-13T13:37:47+05:30",
@@ -34,5 +54,339 @@
   ],
   "tender_id": "GEM/2026/B/8069241",
   "tender_value": null,
-  "title": "Hematology Analyzer (Fully-Automated)"
+  "title": "Hematology Analyzer (Fully-Automated)",
+  "office": "Gmscl",
+  "buyer_email": "buyer2.gmsclg.gj@gembuyer.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document 2 / 9",
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Turnover: Yes | Complete",
+  "seller_documents": "Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 98,
+  "offer_validity": "180 (Days)",
+  "estimated_bid_value": 148800000,
+  "source_document_fetched_at": "2026-11-21T21:07:01.445756+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "dc6288aa03d88299a34ab79ebe00cab434e1f7a25063d419e7ace19453e64678",
+  "document_pages": 9,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 10 % (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document 2 / 9 (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Chavada Mehulbhai Prabhatbhai",
+      "address": "382010,Gujarat Medical Services Corporation Limited, Block No 14/1, Dr Jivraj Mehta Bhavan, Sector-10",
+      "quantity": 248,
+      "quantity_label": "Quantity",
+      "delivery_days": 42
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "ANALYSIS PARAMETERS",
+          "parameter": "Type",
+          "value": "5-Part"
+        },
+        {
+          "group": "ANALYSIS PARAMETERS",
+          "parameter": "WBC Differential (Reportable)",
+          "value": "5-Part (Neutrophils, Lymphocytes, Monocytes, Eosinophils, Basophils)"
+        },
+        {
+          "group": "ANALYSIS PARAMETERS",
+          "parameter": "Reticulocyte Count",
+          "value": "Yes, No"
+        },
+        {
+          "group": "ANALYSIS PARAMETERS",
+          "parameter": "NRBC (Nucleated Red Blood Cells)",
+          "value": "Yes, No"
+        },
+        {
+          "group": "ANALYSIS PARAMETERS",
+          "parameter": "Immature Platelet Fraction (IPF)",
+          "value": "Yes, No"
+        },
+        {
+          "group": "ANALYSIS PARAMETERS",
+          "parameter": "Body Fluid (Reportable)",
+          "value": "Yes"
+        },
+        {
+          "group": "ANALYSIS PARAMETERS",
+          "parameter": "Minimum Throughput (Samples/hour)",
+          "value": "60.0, 70.0 Or higher"
+        },
+        {
+          "group": "SAMPLE",
+          "parameter": "STAT Capability",
+          "value": "Yes"
+        },
+        {
+          "group": "SAMPLE",
+          "parameter": "Cap-Piercing Function",
+          "value": "Yes"
+        },
+        {
+          "group": "REAGENT",
+          "parameter": "On board reagent facility and automatic reagent inventory management",
+          "value": "Yes"
+        },
+        {
+          "group": "CALIBRATION & QUALITY CONTRAOL",
+          "parameter": "Calibration Type",
+          "value": "Automatic and Manual Both Or higher"
+        },
+        {
+          "group": "CALIBRATION & QUALITY CONTRAOL",
+          "parameter": "Quality Control Type",
+          "value": "Automatic and Manual Both Or higher"
+        },
+        {
+          "group": "CALIBRATION & QUALITY CONTRAOL",
+          "parameter": "QC Levels (Minimum)",
+          "value": "3 Levels Or higher"
+        },
+        {
+          "group": "CALIBRATION & QUALITY CONTRAOL",
+          "parameter": "QC Trend Analysis",
+          "value": "Levey-Jennings Charts / Westgard Rules"
+        },
+        {
+          "group": "DISPLAY & INTERFACE",
+          "parameter": "Inbuilt Screen Size",
+          "value": "? 5 inch"
+        },
+        {
+          "group": "DISPLAY & INTERFACE",
+          "parameter": "Printer Type",
+          "value": "In-built Thermal Printer, External Printer Compatible"
+        },
+        {
+          "group": "DISPLAY & INTERFACE",
+          "parameter": "Connectivity",
+          "value": "USB, LAN, RS-232, LIS/HIS Integration"
+        },
+        {
+          "group": "DISPLAY & INTERFACE",
+          "parameter": "Data Storage Capacity (Number of results storable)",
+          "value": "? 50000 Or higher"
+        },
+        {
+          "group": "DISPLAY & INTERFACE",
+          "parameter": "Barcode Reader",
+          "value": "Yes"
+        },
+        {
+          "group": "OTHER FEATURES",
+          "parameter": "Features",
+          "value": "Abnormality Flagging Capability, Clogging detection, overflow protection, Reagent level monitor, Error Detection & Alerts, Automatic Cleaning Cycles, System self-check on startup"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "CERTIFICATIONS",
+          "parameter": "Availability of valid medical device license (CDSCO License) for the product issued from the competent authority defined under Drugs and Cosmetic Act 1940 and Rules as amended till date",
+          "value": "Yes"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 7,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1) Minimum Average Annual Turnover of the bidder (For 3 Years) And OEM Average Turnover (Last 3 Years) : 595200000 /- 2) Comprehensive Maintenance - 3 to 9.99% 3) OEM and Authorized distributor/ Subsidiary can't simultaneously participate in the bid 4)Consigneelink: https://drive.google.com/file/d/13jAjULke2hBWkJzU4WUCdW1zEZjTykgq/view?usp=drive_l ink 5) L1 will be calculated as per below mentioned: 1. Bidder has to quote price in the financial bid format. L1= Unit price of equipment with warranty + 5 years CMC price + ((cost per reportable Test of CBC ) X 1,20,000) 2. CPRT include reagent, consumable, controls and any other item required to run the entire test. 3. Bidder shall have to quote CPRT for one test per equipment as per excel uploaded in bid and. C PRT quoted by the bidder will be fixed for 6 years (after negotiation, if any). The seller would be r esponsible for providing tests at quoted (& negotiated) rates. 4. After RA, price breakup must be uploaded by bidders. Error in filling up asked price breakup can result in disqualification of bidder. 5. 1,20,000 CPRT is for just rationalize the price. Actual use may increase or decrease. 6. CBC include WBC, Lympho#, Lympho%, Neutrophil#, Neutrophil %, Basophil#, Basophil%, Easi nophil #, Easinophil%, Monocyte#, Monocyte%, RBC, HGB, MCV, PCV, MCH, MCHC, RDW-SD, RD W CV, PLT, MPV, PDW, PLT, HCT, PCT except retic parameters."
+    },
+    {
+      "page": 8,
+      "text": ". 3. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8069241",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9930411"
+    },
+    {
+      "field": "document_closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 28-10-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9930411"
+    },
+    {
+      "field": "document_opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 29-10-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9930411"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9930411"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Gujarat",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9930411"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Health & Family Welfare Department Gujarat",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9930411"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Gujarat Medical Services Corporation Limited (gmscl)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9930411"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Gmscl",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9930411"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :gmadm-gmscl-gnr@gujarat.gov.in Buyer Email id: buyer2.gmsclg.gj@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9930411"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 248",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9930411"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Hematology Analyzer (Fully-Automated) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9930411"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9930411"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9930411"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9930411"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 10 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9930411"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9930411"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 148800000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9930411"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 4464000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9930411"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 4464000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9930411"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9930411"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 98",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9930411"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 2,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document 2 / 9",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9930411"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Type: 5-Part | WBC Differential (Reportable): 5-Part (Neutrophils, Lymphocytes, Monocytes, Eosinophils, Basophils) | Reticulocyte Count: Yes, No | NRBC (Nucleated Red Blood Cells): Yes, No | Immature Platelet Fraction (IPF): Yes, No | Body Fluid (Reportable): Yes | Minimum Throughput (Samples/hour): 60.0, 70.0 Or higher | STAT Capability: Yes | Cap-Piercing Function: Yes | On board reagent facility and automatic reagent inventory management: Yes | Calibration Type: Automatic and Manual Both Or higher | Quality Control Type: Automatic and Manual Both Or higher | QC Levels (Minimum): 3 Levels Or higher | QC Trend Analysis: Levey-Jennings Charts / Westgard Rules | Inbuilt Screen Size: ? 5 inch | Printer Type: In-built Thermal Printer, External Printer Compatible | Connectivity: USB, LAN, RS-232, LIS/HIS Integration | Data Storage Capacity (Number of results storable): ? 50000 Or higher | Barcode Reader: Yes | Features: Abnormality Flagging Capability, Clogging detection, overflow protection, Reagent level monitor, Error Detection & Alerts, Automatic Cleaning Cycles, System self-check on startup",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9930411"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Availability of valid medical device license (CDSCO License) for the product issued from the competent authority defined under Drugs and Cosmetic Act 1940 and Rules as amended till date: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9930411"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Chavada Mehulbhai Prabhatbhai | 382010,Gujarat Medical Services Corporation Limited, Block No 14/1, Dr Jivraj Mehta Bhavan, Sector-10 | 248 | 42",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9930411"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1) Minimum Average Annual Turnover of the bidder (For 3 Years) And OEM Average Turnover (Last 3 Years) : 595200000 /- 2) Comprehensive Maintenance - 3 to 9.99% 3) OEM and Authorized distributor/ Subsidiary can't simultaneously participate in the bid 4)Consigneelink: https://drive.google.com/file/d/13jAjULke2hBWkJzU4WUCdW1zEZjTykgq/view?usp=drive_l ink 5) L1 will be calculated as per below mentioned: 1. Bidder has to quote price in the financial bid format. L1= Unit price of equipment with warranty + 5 years CMC price + ((cost per reportable Test of CBC ) X 1,20,000) 2. CPRT include reagent, consumable, controls and any other item required to run the entire test. 3. Bidder shall have to quote CPRT for one test per equipment as per excel uploaded in bid and. C PRT quoted by the bidder will be fixed for 6 years (after negotiation, if any). The seller would be r esponsible for providing tests at quoted (& negotiated) rates. 4. After RA, price breakup must be uploaded by bidders. Error in filling up asked price breakup can result in disqualification of bidder. 5. 1,20,000 CPRT is for just rationalize the price. Actual use may increase or decrease. 6. CBC include WBC, Lympho#, Lympho%, Neutrophil#, Neutrophil %, Basophil#, Basophil%, Easi nophil #, Easinophil%, Monocyte#, Monocyte%, RBC, HGB, MCV, PCV, MCH, MCHC, RDW-SD, RD W CV, PLT, MPV, PDW, PLT, HCT, PCT except retic parameters.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9930411"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": ". 3. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9930411"
+    }
+  ],
+  "detail_warning": "The original PDF dates differ from the current public GeM listing. The listing closing date is retained. Confirm the latest opening date and any corrigenda on GeM; the original PDF opening date is not presented as current.",
+  "document_closing_at": "2026-10-28T18:00:00+05:30",
+  "document_opening_at": "2026-10-29T18:00:00+05:30",
+  "date_discrepancy": {
+    "listing_closing_at": "2026-11-25T18:00:00+05:30",
+    "document_closing_at": "2026-10-28T18:00:00+05:30",
+    "document_opening_at": "2026-10-29T18:00:00+05:30"
+  }
 }

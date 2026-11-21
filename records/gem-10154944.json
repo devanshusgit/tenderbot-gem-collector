@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8264600",
   "title": "Online UPS (?10 KVA) With Battery Conforming To IS 16242 (Part 1)",
   "description": "Online UPS (?10 KVA) With Battery Conforming To IS 16242 (Part 1)",
-  "organisation": "Labour Department Puducherry",
-  "ministry": "",
+  "organisation": "N/a",
+  "ministry": "Puducherry",
   "department": "Labour Department Puducherry",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Online UPS (?10 KVA) With Battery Conforming To IS 16242 (Part 1)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-13T17:21:09+05:30",
   "closing_at": "2026-11-23T18:00:00+05:30",
   "status": "active",
@@ -27,6 +27,16 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10154944"
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/qmKDZcNdMwmnS7lU3eadQ3nS-N-RJuCXTo-cw_TliyE",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261113",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +44,284 @@
   ],
   "source_fetched_at": "2026-11-20T23:26:22.633Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-24T18:00:00+05:30",
+  "office": "Puducherry",
+  "buyer_email": "jcif.pon@nic.in",
+  "emd_required": false,
+  "bidder_turnover_lakhs": 0.5,
+  "oem_turnover_lakhs": 1,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-21T08:26:20.320223+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "ed472d45d75db4eafe1ffd5454e9f1e6d604bf1e769e7a7626eba1c8133a4515",
+  "document_pages": 8,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 0.5 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 1 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 50 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Subathra P.R",
+      "address": "605009,LABOUR DEPARTMENT COMPLEX, GANDHI NAGAR, VAZHUDAVUR ROAD, PUDUCHERRY",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 45
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Performance Parameters",
+          "parameter": "Rating (in KVA)",
+          "value": "10"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Input Voltage (AC, 50 Hz)",
+          "value": "Single Phase, 160V - 260V"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Output Voltage (AC, 50 Hz)",
+          "value": "Single Phase, 230V±1%,"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Availability of Inbuilt Isolation Transformer",
+          "value": "Yes"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Minimum Overload Capacity of Online UPS",
+          "value": "120% of Rating in KVA for 10 minutes, 150% of Rating in KVA for 60 seconds"
+        },
+        {
+          "group": "Battery/Backup Bank",
+          "parameter": "Type of Battery",
+          "value": "SMF-VRLA (Sealed Maintenance Free-Valve Regulated Lead Acid) / Stationary Lead Acid Batteries"
+        },
+        {
+          "group": "Battery/Backup Bank",
+          "parameter": "Backup Time",
+          "value": "30.0 (minute)"
+        },
+        {
+          "group": "Features",
+          "parameter": "Type of Mounting of Online UPS",
+          "value": "Floor Standing"
+        },
+        {
+          "group": "Features",
+          "parameter": "Ingress Protection",
+          "value": "IP20, IP21 Or higher"
+        },
+        {
+          "group": "Operating Conditions",
+          "parameter": "Operating Temperature Range (Lower Limit)",
+          "value": "5°C to 10°C"
+        },
+        {
+          "group": "Operating Conditions",
+          "parameter": "Operating Temperature Range (Upper Limit)",
+          "value": "45°C to 50°C"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Certificates ISO 9001: The bidder or the OEM of the offered products must have ISO 9001 certification. 3. Turnover OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of CATEGORY RELATED TO primary product having highest bid value should meet this criterion. 4. Turnover Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the"
+    },
+    {
+      "page": 6,
+      "text": "relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. 5. Warranty Timely Servicing / rectification of defects during warranty period: After having been notified of the defects / service requirement during warranty period, Seller has to complete the required Service / Rectification within 3 days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the Buyer. 6. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Bidder Should submit the Manufacturers Authorization Letter from OEM with Contact Details (Mail id, Contact No and Address). 2. OEM Should have a direct Service Centre at Consignee Location to reduce Breakdown (Proof of G ST Registration to be Attached). 3. UPS Should be supplied with Monitoring Facility – 4. The OEM should have at least 9 years of experience in the field of manufacturing and supply of O nline e UPS, proof for the same should be enclosed. 5. MII Content letter to be submitted by OEM. 6. Break down calls should be attended immediately during warranty period by Direct OEM. 7. The payment will be settled after the completion of whole installation work. 8. The ATC acceptance certificate must be enclosed with Given ATC List in Letterhead with Seal and Signature. 9. The tender inviting authority has the right to reject any or all bids without assigning any reasons t hereof. 10. The Quoted Product should be supplied with Isolation Transformer 11. UPS Input should be Single Phase input and output Single Phase. 12. Break down Calls should be attended with a Period of 2 Hours undertaking from OEM required. 13. BIS, ROHS, PEP certificate must be enclosed during submission of Bid 14. ISO 9001, \"Quality Management Systems ‑ Requirements.\" ISO 14001, “Environmental Manageme nt Systems - Requirements with Guidance for Use. ISO 45001: 2018 “Occupational Health and Safe ty Assessment” 7 / 914. 15. CE Certificate (EN 62040-1: 2019, - Part 1: General and safety requirements for UPS). 16. CE Certificate (EN / IEC 62040-2: 2018, - Part 2: Electromagnetic compatibility (EMC) requirements ). 17. In case of deficiency in service to resolve the complaints in a pre-specified time, a penalty may be imposed on the supplier and/ or the supplier/service provider may be blacklisted. 18. In Case of any queries, bidders should submit through Gem Portal only with the allowed stipulated Period and direct enquiry or any other mode of query is not allowed. 19. Bidder Should submit a bid validity for the Quoted Product for minimum of 180 Days. (OEM & BID DER) ."
+    },
+    {
+      "page": 7,
+      "text": "20. Total Battery VAH should be 8000 VAH (42AH x 16Nos). 21. Battery Make should be Exide / Quanta. 22. Warranty should be 2 Years onsite for UPS & Battery (undertaking from OEM to be submitted). 23. Ups should be compatible with Diesel Generator input. 24. Bidder has to ensure the installation of Ups with required input and output wiring and other Electri cal Accessories (Bidder Scope). 25. Delivery & Installation of the product including physical safety guards to be followed and should b e done by the supplier at their own cost. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8264600",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154944"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 23-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154944"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 24-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154944"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154944"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Puducherry",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154944"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Labour Department Puducherry",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154944"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: N/a",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154944"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Puducherry",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154944"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :lc.pon@nic.in Buyer Email id: jcif.pon@nic.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154944"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154944"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Online UPS (?10 KVA) With Battery Conforming To IS 16242 (Part 1) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154944"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 0.5 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154944"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 1 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154944"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154944"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154944"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154944"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154944"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154944"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 50 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154944"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154944"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154944"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154944"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Rating (in KVA): 10 | Input Voltage (AC, 50 Hz): Single Phase, 160V - 260V | Output Voltage (AC, 50 Hz): Single Phase, 230V±1%, | Availability of Inbuilt Isolation Transformer: Yes | Minimum Overload Capacity of Online UPS: 120% of Rating in KVA for 10 minutes, 150% of Rating in KVA for 60 seconds | Type of Battery: SMF-VRLA (Sealed Maintenance Free-Valve Regulated Lead Acid) / Stationary Lead Acid Batteries | Backup Time: 30.0 (minute) | Type of Mounting of Online UPS: Floor Standing | Ingress Protection: IP20, IP21 Or higher | Operating Temperature Range (Lower Limit): 5°C to 10°C | Operating Temperature Range (Upper Limit): 45°C to 50°C",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154944"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Subathra P.R | 605009,LABOUR DEPARTMENT COMPLEX, GANDHI NAGAR, VAZHUDAVUR ROAD, PUDUCHERRY | 1 | 45",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154944"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Certificates ISO 9001: The bidder or the OEM of the offered products must have ISO 9001 certification. 3. Turnover OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of CATEGORY RELATED TO primary product having highest bid value should meet this criterion. 4. Turnover Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154944"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. 5. Warranty Timely Servicing / rectification of defects during warranty period: After having been notified of the defects / service requirement during warranty period, Seller has to complete the required Service / Rectification within 3 days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the Buyer. 6. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Bidder Should submit the Manufacturers Authorization Letter from OEM with Contact Details (Mail id, Contact No and Address). 2. OEM Should have a direct Service Centre at Consignee Location to reduce Breakdown (Proof of G ST Registration to be Attached). 3. UPS Should be supplied with Monitoring Facility – 4. The OEM should have at least 9 years of experience in the field of manufacturing and supply of O nline e UPS, proof for the same should be enclosed. 5. MII Content letter to be submitted by OEM. 6. Break down calls should be attended immediately during warranty period by Direct OEM. 7. The payment will be settled after the completion of whole installation work. 8. The ATC acceptance certificate must be enclosed with Given ATC List in Letterhead with Seal and Signature. 9. The tender inviting authority has the right to reject any or all bids without assigning any reasons t hereof. 10. The Quoted Product should be supplied with Isolation Transformer 11. UPS Input should be Single Phase input and output Single Phase. 12. Break down Calls should be attended with a Period of 2 Hours undertaking from OEM required. 13. BIS, ROHS, PEP certificate must be enclosed during submission of Bid 14. ISO 9001, \"Quality Management Systems ‑ Requirements.\" ISO 14001, “Environmental Manageme nt Systems - Requirements with Guidance for Use. ISO 45001: 2018 “Occupational Health and Safe ty Assessment” 7 / 914. 15. CE Certificate (EN 62040-1: 2019, - Part 1: General and safety requirements for UPS). 16. CE Certificate (EN / IEC 62040-2: 2018, - Part 2: Electromagnetic compatibility (EMC) requirements ). 17. In case of deficiency in service to resolve the complaints in a pre-specified time, a penalty may be imposed on the supplier and/ or the supplier/service provider may be blacklisted. 18. In Case of any queries, bidders should submit through Gem Portal only with the allowed stipulated Period and direct enquiry or any other mode of query is not allowed. 19. Bidder Should submit a bid validity for the Quoted Product for minimum of 180 Days. (OEM & BID DER) .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154944"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "20. Total Battery VAH should be 8000 VAH (42AH x 16Nos). 21. Battery Make should be Exide / Quanta. 22. Warranty should be 2 Years onsite for UPS & Battery (undertaking from OEM to be submitted). 23. Ups should be compatible with Diesel Generator input. 24. Bidder has to ensure the installation of Ups with required input and output wiring and other Electri cal Accessories (Bidder Scope). 25. Delivery & Installation of the product including physical safety guards to be followed and should b e done by the supplier at their own cost. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10154944"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

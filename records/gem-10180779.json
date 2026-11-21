@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8286857",
   "title": "Digital Oscilloscope (V2)",
   "description": "Digital Oscilloscope (V2)",
-  "organisation": "Department of Defence Production",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Defence Production",
+  "organisation": "Bharat Electronics Limited (bel)",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Defence Production",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Digital Oscilloscope (V2)",
   "quantity": 2,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-18T14:43:35+05:30",
   "closing_at": "2026-11-25T10:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10180779"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/mNb2jYqVZHvcIQuizC2HNRZDq1IfBGpMwvN18ITzMpI",
+      "page": 4
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8286857/CLM0010/Spec_Osci_a1800a95-49f4-4a3d-be661794975242630_buy1.dccsbelgad.pdf",
+      "page": 7
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261118",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +54,279 @@
   ],
   "source_fetched_at": "2026-11-20T17:43:27.128Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-26T10:00:00+05:30",
+  "buyer_email": "gadncspurgn4@bel.co.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 36,
+  "offer_validity": "90 (Days)",
+  "source_document_fetched_at": "2026-11-21T07:03:15.066632+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "fedb8923ef19835624eb974213cfacbffac82fa7bb8d95b6aa6dc454476fdf16",
+  "document_pages": 8,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "***********",
+      "address": "***********Ghaziabad",
+      "quantity": 2,
+      "quantity_label": "Quantity",
+      "delivery_days": 41
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Generic",
+          "parameter": "Type of Input",
+          "value": "Analog, Analog & Digital (Mixed Signal)"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Number of Analog Channels",
+          "value": "2, 4, 8"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Number of Digital Channels",
+          "value": "8, 16, NA"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Bandwidth (MHz)",
+          "value": "500"
+        },
+        {
+          "group": null,
+          "parameter": "Record Length Per Analog Channel Simultaneously",
+          "value": "100 K point, 200 K point, 1 M point, 2 M point, 4 M point, 10 M point, 20 M point, 50 M point, 100 M point"
+        },
+        {
+          "group": null,
+          "parameter": "Record Length Per Digital Channel Simultaneously",
+          "value": "100K point, 500K point, 1M point, 2M point, 4M point, 8M point, 16M point, 32M point, 64M point, 100 M point, NA"
+        },
+        {
+          "group": null,
+          "parameter": "Sample Rate Per Analog Channel Simultaneously",
+          "value": "1 GS/sec, 2 GS/sec, 2.5 GS/sec, 3 GS/sec, 5 GS/sec, 6 GS/sec, 10 GS/sec, 15 GS/sec, 20 GS/sec, 40 GS/sec"
+        },
+        {
+          "group": null,
+          "parameter": "Sampling Rate Per Digital Channel Simultaneously",
+          "value": "500MS/sec, 1GS/sec, 2GS/sec, 2.5 GS/sec, 3 GS/sec, 5 GS/sec, 6 GS/sec, 10 GS/sec, 15 GS/sec, 20 GS/sec, 40 GS/sec, NA"
+        },
+        {
+          "group": null,
+          "parameter": "Vertical Sensitivity",
+          "value": "500 ?V/div to 10 V/div, 1 mV/div to 5 V/div, 1 mV/div to 1 V/div, 2 mV/div to 5 V/div, 5 mV/div to 5 V/div, 10 mV/div to 500 mV/div, 20 mV/div to 500 mV/div, 100 µV/div to 10 V/div"
+        },
+        {
+          "group": null,
+          "parameter": "Vertical Resolution (bit)",
+          "value": "8, 10, 12, 14, 16"
+        },
+        {
+          "group": null,
+          "parameter": "Display Size",
+          "value": "7 inch, 8 inch, 10 inch, 12 inch, 15 inch"
+        },
+        {
+          "group": null,
+          "parameter": "Time Base Accuracy Parts per Million",
+          "value": "0.05, 0.1, 1, 1.5, 2, 2.5, 3, 4, 5, 10, 15, 20, 25, 50, 100"
+        },
+        {
+          "group": null,
+          "parameter": "Time Base Range",
+          "value": "2 ns/div to 50 s/div, 5 ns/div to 50 s/div, 1 ns/div to 50 s/div, 500 ps/div to 50 s/div, 100 ps/div to 50 s/div, 5 ps/div to 200 s/div, 2 ps/div to 200 s/div, 2 ps/div to 20 s/div, 1 ps/div to 20 s/div"
+        },
+        {
+          "group": null,
+          "parameter": "Waveform Update Rate (wfms/s)",
+          "value": "3500, 50000, 100000, 200000, 250000, 400000, 700000, 1000000, 450000, 1300000"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address"
+    },
+    {
+      "page": 6,
+      "text": "Bharat Electronics Limited Sahibabad, Site 4 Industrial Area Bharat Nagar Post Office Ghaziabad Uttar Pradesh - 201010 . 2. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 3. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 4. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 50 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 50% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 5. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 6. Generic While generating invoice in GeM portal, the seller must upload scanned copy of GST invoice and the screenshot of GST portal confirming payment of GST. 7. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 8. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 9. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 10. Warranty"
+    },
+    {
+      "page": 7,
+      "text": "Warranty period of the supplied products shall be 3 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 11. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Vendor shall complied (Sign with Stamp) on the attched ATC documnet/ Specifi cation. Otherwise vendor shall be liable for rejection. 2. Vendor shall provide the item as per the specification attached in ATC docume nt. . 12. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8286857",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10180779"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 25-11-2026 10:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10180779"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 26-11-2026 10:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10180779"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10180779"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10180779"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Defence Production",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10180779"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Bharat Electronics Limited (bel)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10180779"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :sachinkumarmadan@bel.co.in Buyer Email id: gadncspurgn4@bel.co.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10180779"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 2",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10180779"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Digital Oscilloscope (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10180779"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10180779"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10180779"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10180779"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10180779"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10180779"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 36",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10180779"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10180779"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10180779"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Type of Input: Analog, Analog & Digital (Mixed Signal) | Number of Analog Channels: 2, 4, 8 | Number of Digital Channels: 8, 16, NA",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10180779"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Bandwidth (MHz): 500 | Record Length Per Analog Channel Simultaneously: 100 K point, 200 K point, 1 M point, 2 M point, 4 M point, 10 M point, 20 M point, 50 M point, 100 M point | Record Length Per Digital Channel Simultaneously: 100K point, 500K point, 1M point, 2M point, 4M point, 8M point, 16M point, 32M point, 64M point, 100 M point, NA | Sample Rate Per Analog Channel Simultaneously: 1 GS/sec, 2 GS/sec, 2.5 GS/sec, 3 GS/sec, 5 GS/sec, 6 GS/sec, 10 GS/sec, 15 GS/sec, 20 GS/sec, 40 GS/sec | Sampling Rate Per Digital Channel Simultaneously: 500MS/sec, 1GS/sec, 2GS/sec, 2.5 GS/sec, 3 GS/sec, 5 GS/sec, 6 GS/sec, 10 GS/sec, 15 GS/sec, 20 GS/sec, 40 GS/sec, NA | Vertical Sensitivity: 500 ?V/div to 10 V/div, 1 mV/div to 5 V/div, 1 mV/div to 1 V/div, 2 mV/div to 5 V/div, 5 mV/div to 5 V/div, 10 mV/div to 500 mV/div, 20 mV/div to 500 mV/div, 100 µV/div to 10 V/div | Vertical Resolution (bit): 8, 10, 12, 14, 16 | Display Size: 7 inch, 8 inch, 10 inch, 12 inch, 15 inch | Time Base Accuracy Parts per Million: 0.05, 0.1, 1, 1.5, 2, 2.5, 3, 4, 5, 10, 15, 20, 25, 50, 100 | Time Base Range: 2 ns/div to 50 s/div, 5 ns/div to 50 s/div, 1 ns/div to 50 s/div, 500 ps/div to 50 s/div, 100 ps/div to 50 s/div, 5 ps/div to 200 s/div, 2 ps/div to 200 s/div, 2 ps/div to 20 s/div, 1 ps/div to 20 s/div | Waveform Update Rate (wfms/s): 3500, 50000, 100000, 200000, 250000, 400000, 700000, 1000000, 450000, 1300000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10180779"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********Ghaziabad | 2 | 41",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10180779"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10180779"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "Bharat Electronics Limited Sahibabad, Site 4 Industrial Area Bharat Nagar Post Office Ghaziabad Uttar Pradesh - 201010 . 2. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 3. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 4. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 50 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 50% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 5. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 6. Generic While generating invoice in GeM portal, the seller must upload scanned copy of GST invoice and the screenshot of GST portal confirming payment of GST. 7. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 8. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 9. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 10. Warranty",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10180779"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "Warranty period of the supplied products shall be 3 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 11. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Vendor shall complied (Sign with Stamp) on the attched ATC documnet/ Specifi cation. Otherwise vendor shall be liable for rejection. 2. Vendor shall provide the item as per the specification attached in ATC docume nt. . 12. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10180779"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

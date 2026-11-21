@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8289134",
   "title": "21113101000793,21113101000794,21113101000795,21113101000796,21113101000797",
   "description": "21113101000793,21113101000794,21113101000795,21113101000796,21113101000797",
-  "organisation": "Steel Authority of India Limited",
-  "ministry": "Ministry of Steel",
-  "department": "Steel Authority of India Limited",
+  "organisation": "Bhilai Steel Plant",
+  "ministry": "Ministry Of Steel",
+  "department": "Steel Authority Of India Limited",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "21113101000793,21113101000794,21113101000795,21113101000796,21113101000797",
   "quantity": 6,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-20T14:57:49+05:30",
   "closing_at": "2026-11-25T16:00:00+05:30",
   "status": "active",
@@ -27,6 +27,36 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10183382"
+    },
+    {
+      "name": "Arbitration clause document)",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadMseMiiDoc/10183382/1794996241.pdf",
+      "page": 3
+    },
+    {
+      "name": "View Document",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/downloadMseMiiDoc/10183382/1794996305.pdf",
+      "page": 4
+    },
+    {
+      "name": "View Document",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/downloadMseMiiDoc/10183382/1794996270.pdf",
+      "page": 4
+    },
+    {
+      "name": "Buyer technical specification",
+      "url": "https://mkp.gem.gov.in/uploaded_documents/51/16/877/OrderItem/BoqDocument/2026/11/18/item_specification_2026-11-18-14-22-53_a9de95b745be77fb2fec2744ee8423a3.pdf",
+      "page": 5
+    },
+    {
+      "name": "View File",
+      "url": "https://mkp.gem.gov.in/uploaded_documents/51/16/877/OrderItem/BoqLineItemsDocument/2026/11/18/boq_2026-11-18-14-22-53_62a28b5cab512c6f180b44424b9619ac.csv",
+      "page": 5
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261120",
+      "page": 9
     }
   ],
   "tags": [
@@ -34,5 +64,207 @@
   ],
   "source_fetched_at": "2026-11-20T23:27:26.685Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-26T16:00:00+05:30",
+  "office": "Materials Management",
+  "buyer_email": "akhubchandani@sail.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "60 (Days)",
+  "source_document_fetched_at": "2026-11-21T06:33:29.743856+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "55e8f5c13c364d3c09338a3631af126c12a484063b17310848e0dc544c1db27e",
+  "document_pages": 9,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 2)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Ravi Kumar",
+      "address": "490001,Room No. 302, 3rd Floor, Ispat Bhavan Bhilai Steel Plant Bhilai-490001",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 180
+    },
+    {
+      "page": 6,
+      "consignee": "Ravi Kumar",
+      "address": "490001,Room No. 302, 3rd Floor, Ispat Bhavan Bhilai Steel Plant Bhilai-490001",
+      "quantity": 2,
+      "quantity_label": "Quantity",
+      "delivery_days": 180
+    },
+    {
+      "page": 6,
+      "consignee": "Ravi Kumar",
+      "address": "490001,Room No. 302, 3rd Floor, Ispat Bhavan Bhilai Steel Plant Bhilai-490001",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 180
+    },
+    {
+      "page": 7,
+      "consignee": "Ravi Kumar",
+      "address": "490001,Room No. 302, 3rd Floor, Ispat Bhavan Bhilai Steel Plant Bhilai-490001",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 180
+    },
+    {
+      "page": 7,
+      "consignee": "Ravi Kumar",
+      "address": "490001,Room No. 302, 3rd Floor, Ispat Bhavan Bhilai Steel Plant Bhilai-490001",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 180
+    }
+  ],
+  "technical_specifications": [],
+  "buyer_added_terms": [
+    {
+      "page": 7,
+      "text": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Approved Vendors for the tendered item at Bhilai Steel Plant is- OEM- M/s ACME Automation Pvt Ltd Other relevant conditions not mentioned here shall be as per General Terms and Conditions of Purchase (S AIL-P1) which can be viewed /downloaded from https://sailtenders.co.in/ -> information -> Standard Docu ments General Terms and Conditions of contract for Purchase (SAIL-P1) BIDDERS ARE REQUESTED TO KINDLY GO THROUGH THE SAIL-P1 FOR UNDERSTANDING AND CLARITY. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8289134",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183382"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 25-11-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183382"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 26-11-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183382"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 60 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183382"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Steel",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183382"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Steel Authority Of India Limited",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183382"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Bhilai Steel Plant",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183382"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Materials Management",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183382"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :mkkulkarni@sail.in Buyer Email id: akhubchandani@sail.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183382"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 6",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183382"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: 21113101000793 , 21113101000794 , 21113101000795 , 21113101000796 , 21113101000797",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183382"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 2,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183382"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 2,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183382"
+    },
+    {
+      "field": "tender_type",
+      "page": 3,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183382"
+    },
+    {
+      "field": "emd_required",
+      "page": 3,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183382"
+    },
+    {
+      "field": "emd_fee",
+      "page": 3,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183382"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Ravi Kumar | 490001,Room No. 302, 3rd Floor, Ispat Bhavan Bhilai Steel Plant Bhilai-490001 | 1 | 180",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183382"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Ravi Kumar | 490001,Room No. 302, 3rd Floor, Ispat Bhavan Bhilai Steel Plant Bhilai-490001 | 2 | 180",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183382"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Ravi Kumar | 490001,Room No. 302, 3rd Floor, Ispat Bhavan Bhilai Steel Plant Bhilai-490001 | 1 | 180",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183382"
+    },
+    {
+      "field": "consignees",
+      "page": 7,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Ravi Kumar | 490001,Room No. 302, 3rd Floor, Ispat Bhavan Bhilai Steel Plant Bhilai-490001 | 1 | 180",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183382"
+    },
+    {
+      "field": "consignees",
+      "page": 7,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Ravi Kumar | 490001,Room No. 302, 3rd Floor, Ispat Bhavan Bhilai Steel Plant Bhilai-490001 | 1 | 180",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183382"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Approved Vendors for the tendered item at Bhilai Steel Plant is- OEM- M/s ACME Automation Pvt Ltd Other relevant conditions not mentioned here shall be as per General Terms and Conditions of Purchase (S AIL-P1) which can be viewed /downloaded from https://sailtenders.co.in/ -> information -> Standard Docu ments General Terms and Conditions of contract for Purchase (SAIL-P1) BIDDERS ARE REQUESTED TO KINDLY GO THROUGH THE SAIL-P1 FOR UNDERSTANDING AND CLARITY. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183382"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

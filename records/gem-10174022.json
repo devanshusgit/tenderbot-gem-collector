@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8281006",
   "title": "Interactive Panels with CPU",
   "description": "Interactive Panels with CPU",
-  "organisation": "NA",
-  "ministry": "Ministry of Food Processing Industries",
-  "department": "NA",
+  "organisation": "Niftem T",
+  "ministry": "Ministry Of Food Processing Industries",
+  "department": "Na",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Interactive Panels with CPU",
   "quantity": 2,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 33000,
   "published_at": "2026-11-16T18:28:15+05:30",
   "closing_at": "2026-11-26T20:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Hyws0IyoqpBoyeqrblAnJ8n6mu6od888kTisnq6KNKY",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261116",
+      "page": 17
     }
   ],
   "tags": [
@@ -34,5 +49,510 @@
   ],
   "source_fetched_at": "2026-11-21T04:23:24.542Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-27T20:00:00+05:30",
+  "office": "Niftem Thanjavur",
+  "buyer_email": "sasu.iicpt@gov.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 3,
+  "epbg_duration_months": 38,
+  "offer_validity": "90 (Days)",
+  "source_document_fetched_at": "2026-11-21T07:41:12.332831+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "31950c506e1b4aa91d1d92088a5a2653f771aa7f37bf5a7c2120597ea4c14382",
+  "document_pages": 17,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Bhuvana S",
+      "address": "613005,Stores, National Institute of Food Technology, Entrepreneurship and Management (NIFTEM-T), Pudukkottai Road, Thanjavur - 613005, Tamil Nadu, India.",
+      "quantity": 2,
+      "quantity_label": "Quantity",
+      "delivery_days": 45
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "DISPLAY",
+          "parameter": "Display Technology",
+          "value": "In-Plane Switching (IPS)"
+        },
+        {
+          "group": "DISPLAY",
+          "parameter": "Display Type",
+          "value": "Anti-Glare LCD with Direct-lit LED"
+        },
+        {
+          "group": "DISPLAY",
+          "parameter": "Minimum Contrast Ratio",
+          "value": "1200 : 1, 1300 : 1, 1400 : 1, 1500 : 1, 1600 : 1, 1700 : 1, 1800 : 1, 1900 : 1, 2000 : 1 Or higher"
+        },
+        {
+          "group": "DISPLAY",
+          "parameter": "Minimum Display Panel Size, Diagonal (in Inches)",
+          "value": "98, 100, 105, 110 Or higher"
+        },
+        {
+          "group": "DISPLAY",
+          "parameter": "Minimum Display Resolution (Horizontal x Vertical) (in Pixels)",
+          "value": "4K UHD - 3840 x 2160 Or higher"
+        },
+        {
+          "group": "DISPLAY",
+          "parameter": "Display Brightness (in Nits)",
+          "value": "450, 500, 550, 600, 800, 1000 Or higher"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Minimum Panel Life (in Hours)",
+          "value": "50000 Or higher"
+        },
+        {
+          "group": "TOUCH SCREEN",
+          "parameter": "Touch Interface",
+          "value": "Touch Sensitive as well as Pen Driven"
+        },
+        {
+          "group": "TOUCH SCREEN",
+          "parameter": "Touch Technology",
+          "value": "Infrared (IR)"
+        },
+        {
+          "group": "TOUCH SCREEN",
+          "parameter": "Number of Touch Points (in Number)",
+          "value": "40 Or higher"
+        },
+        {
+          "group": "TOUCH SCREEN",
+          "parameter": "Additional Softwares",
+          "value": "Device Management Software"
+        },
+        {
+          "group": "TOUCH SCREEN",
+          "parameter": "On Site Warranty Support (in Years)",
+          "value": "3 Or higher"
+        },
+        {
+          "group": "CPU",
+          "parameter": "Type of CPU",
+          "value": "Inbuilt CPU with Slot Provision for Open pluggable Specification (OPS)"
+        },
+        {
+          "group": "CPU",
+          "parameter": "Number of Cores",
+          "value": "8 Or higher"
+        },
+        {
+          "group": "CPU",
+          "parameter": "Memory (in GB)",
+          "value": "8, 16 Or higher"
+        },
+        {
+          "group": "CPU",
+          "parameter": "SSD Storage Capacity (in GB)",
+          "value": "64 Or higher"
+        },
+        {
+          "group": "CPU",
+          "parameter": "Provision of Slot for Open pluggable Specification (OPS)",
+          "value": "Yes"
+        },
+        {
+          "group": "OPTIONAL ITEM",
+          "parameter": "Open pluggable Specification (OPS) included in scope of supply",
+          "value": "Yes"
+        },
+        {
+          "group": "OPTIONAL ITEM",
+          "parameter": "Pre-Install Software (OS) for Open pluggable Specification (OPS)",
+          "value": "Windows"
+        },
+        {
+          "group": "OPTIONAL ITEM",
+          "parameter": "Memory (in GB) for Open pluggable Specification (OPS)",
+          "value": "8"
+        },
+        {
+          "group": "PORTS",
+          "parameter": "Number of Input HDMI Ports",
+          "value": "3, 4 Or higher"
+        },
+        {
+          "group": "PORTS",
+          "parameter": "Number of Output HDMI Ports",
+          "value": "1 Or higher"
+        },
+        {
+          "group": "PORTS",
+          "parameter": "Number of USB 2 Point 0 Ports",
+          "value": "1"
+        },
+        {
+          "group": "PORTS",
+          "parameter": "Number of USB 3 Point 0 Ports",
+          "value": "3"
+        },
+        {
+          "group": "PORTS",
+          "parameter": "Number of RS-232 C Ports",
+          "value": "1 Or higher"
+        },
+        {
+          "group": "PORTS",
+          "parameter": "Number of Audio Input Ports",
+          "value": "1"
+        },
+        {
+          "group": "PORTS",
+          "parameter": "Number of Audio Output Ports",
+          "value": "1"
+        },
+        {
+          "group": "PORTS",
+          "parameter": "Number of RJ 45 ports",
+          "value": "1, 2 Or higher"
+        },
+        {
+          "group": "PORTS",
+          "parameter": "Number of VGA-In Ports",
+          "value": "0"
+        },
+        {
+          "group": "PORTS",
+          "parameter": "USB Type C Port",
+          "value": "1"
+        },
+        {
+          "group": "PORTS",
+          "parameter": "In-built Speakers",
+          "value": "Yes"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Mounting",
+          "value": "Wall Mount"
+        },
+        {
+          "group": "CONNECTIVITY",
+          "parameter": "Availability of Bluetooth Connectivity",
+          "value": "Yes. Inbuilt"
+        },
+        {
+          "group": "CONNECTIVITY",
+          "parameter": "Bluetooth Version",
+          "value": "5.1, 5.2, 5.3 Or higher"
+        },
+        {
+          "group": "CONNECTIVITY",
+          "parameter": "Availibility of Wi-Fi Connectivity",
+          "value": "Yes. Inbuilt"
+        },
+        {
+          "group": "CONNECTIVITY",
+          "parameter": "Wi-Fi Connectivity",
+          "value": "802.11n (2.4 or 5 GHz) Or higher"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Number of Electronic Pen or Stylus Each Panel",
+          "value": "2 Or higher"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Additional HDMI Cable",
+          "value": "1"
+        },
+        {
+          "group": "CERTIFICATE",
+          "parameter": "Availability of Test Reports from Central Govt/NABL Accredited/ILAC Accredited Lab to Prove Conformity to the Specification",
+          "value": "Yes"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms."
+    },
+    {
+      "page": 7,
+      "text": "2. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address NIFTEM-T PUDUKKOTTAI ROAD NEAR AIR FORCE STATION THANJAVUR 613 005 . 3. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 4. Generic Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU for 1 year before the bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the primary product having highest value should meet this criterion. 5. Generic Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller. 6. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 7. Generic Non return of Hard Disk: As per Buyer organization’s Security Policy,Faulty Hard Disk of Servers/Desktop Computers/ Laptops etc. will not be returned back to the OEM/supplier against warranty replacement. 8. Generic Scope of supply includes Training: Number of employees to be trained 5 , Place for Training NIFTEM-THANJAVUR and Duration of training 1 days. 9. Generic The successful bidder has to supply all essential accessories required for the successful installation and commissioning of the goods supplied. Besides standard accessories as per normal industry practice, following accessories must be part of supply and cost should be included in bid price: Wall mount stand, Connected cables, converters and adapters etc. . 10. Scope of Supply"
+    },
+    {
+      "page": 8,
+      "text": "Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 11. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 12. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 13. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 14. Warranty Timely Servicing / rectification of defects during warranty period: After having been notified of the defects / service requirement during warranty period, Seller has to complete the required Service / Rectification within 5 days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the Buyer. 15. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Buyback Specifications (Old) Item Details: Interactive Panel with OPS Item Description Touch display, Android and windows Serial Number TDX-84-240160903205XA0014 UDX-86-40171208000777 Model TDX-84 UDX-86"
+    },
+    {
+      "page": 9,
+      "text": "Brand Specktron Year of Manufacturing TDX-84-2016 UDX-86-2017 Date of Purchase TDX-84 – 28.03.2019 UDX-86 – 19.03.2017 Size and/or Rating Screen size - TDX-84 Inch UDX-86 86 inch Unit of Measurement TDX-84 - Width 1978mm, Height 1186mm UDX-86 – Width 1988mm, Height 1178mm Quantity 2 Nos. Remark - New Specifications DISPLAY In-Plane Switching (IPS) Display Technology Anti-Glare LCD with Direct-lit Display Type LED 1200 : 1 Minimum Contrast Ratio"
+    },
+    {
+      "page": 10,
+      "text": "98 Minimum Display Panel Size, Diagonal (in Inches) 2245 Width of The Effective Display Area of The Panel (in mm) - Must Indicate 1326 Height of The Effective Display Area of The Panel (in mm) - Must Indicate 4K UHD - 3840 x 2160 Minimum Display Resolution (Horizontal x Vertical) (in Pixels) 450 Display Brightness (in Nits) 16:9 Display Aspect Ratio 178 by 178 View Angle (in Degree) 50000 Minimum Panel Life (in Hours) TOUCH SCREEN Touch Sensitive as well as Pen Touch Interface Driven Infrared (IR) Touch Technology 40 Number of Touch Points (in Number) 5 Response Time (in Milli Second) - Must Declare Yes Annotation Software"
+    },
+    {
+      "page": 11,
+      "text": "Device Management Software Additional Softwares 3 On Site Warranty Support (in Years) CPU Inbuilt CPU with Slot Provision Type of CPU for Open pluggable Specification (OPS) 8 Number of Cores A55 Processor Number -Must Indicate 2 Processor Base Frequency (in GHz) -Must Declare 8 Memory (in GB) 64 SSD Storage Capacity (in GB) Android Pre-Install Software (OS) Yes Provision of Slot for Open pluggable Specification (OPS) OPTIONAL ITEM Yes Open pluggable Specification (OPS) included in scope of supply i7 Open pluggable Specification (OPS) Processor Number -Must Indicate"
+    },
+    {
+      "page": 12,
+      "text": "4 Open pluggable Specification (OPS) Processor Base Frequency (in GHz) -Must Declare Windows Pre-Install Software (OS) for Open pluggable Specification (OPS) 8 Memory (in GB) for Open pluggable Specification (OPS) 256 SSD Storage Capacity (in GB) for Open pluggable Specification (OPS) NA Additional Requirement for OPS PORTS 3 Number of Input HDMI Ports 1 Number of Output HDMI Ports 1 Number of USB 2 Point 0 Ports 3 Number of USB 3 Point 0 Ports 1 Number of RS-232 C Ports 1 Number of Audio Input Ports 1 Number of Audio Output Ports 1 Number of RJ 45 ports"
+    },
+    {
+      "page": 13,
+      "text": "0 Number of VGA-In Ports 1 USB Type C Port Yes In-built Speakers 30 Speaker Power (in Watt) Wall Mount Mounting NA Additional Requirement CONNECTIVITY Yes. Inbuilt Availability of Bluetooth Connectivity 5.1 Bluetooth Version Yes. Inbuilt Availibility of Wi-Fi Connectivity 802.11n (2.4 or 5 GHz) Wi-Fi Connectivity POWER SUPPLY 100-240 V , AC Power Supply 50 AC Frequency (in Hz) 210 Power Consumption (in Watts) ACCESSORIES"
+    },
+    {
+      "page": 14,
+      "text": "2 Number of Electronic Pen or Stylus Each Panel 1 Additional HDMI Cable User Manual, HDMI cable, Installation Kit for each Panel Installation Manual, Remote Control with battery, Power Cord, USB Cable NA Additional Accessories Requirment OPERATING CONDITIONS 0 Minimum Operating Temperature (in Degree Celcius) 40 Maximun Operating Temperature (in Degree Celcius) 10 to 90 Operating Humidity (in Percentage) Interactive Panel & Accessories – Buy-back Terms and Conditions Documents Required for Eligibility Criteria: 1. Original Equipment Manufacturer (OEM) Certificate or Authorization Certificate from the manufacturer. 2. Original catalogue of the goods. 3. MSME / UDYAM Registration Certificate. 4. MII (Make in India) Local Content Percentage Declaration Certificate. 5. Compliance sheet of Technical Specification. 6. EMD - Bidders must upload scanned copy / proof of DD along with bid and has to ensure delivery of Phy sical / hard copy to the Buyer within 5 days of bid end date (Exemption for MSME)"
+    },
+    {
+      "page": 15,
+      "text": "Additional Terms and Conditions: 1. Scope of Supply The supply includes 2 numbers of 98 Inch Display Interactive Panel with CPU with warranty 3 Years 2. Buy-Back Policy The procurement is subject to a buy-back arrangement of 2 numbers of existing Interactive Panel with OPS . 3. Adjustment of Buy-Back Value The bidder shall quote the buy-back value separately. The total quoted price in the financial bid shall be aft er deduction of the buy-back value. The bidder shall attach the price break-up buy-back value document/fil e along with the financial bid. 4. Condition of Interactive Panel with OPS The existing Interactive Panel with OPS will be handed over on an “as-is-where-is” basis. No complaints re garding their condition will be entertained after submission of the bid. The seller takes full responsibility for the transportation unloading and loading of two old panels. 5. Price Basis The quoted price shall be inclusive of all applicable taxes, transportation, loading, unloading, and installati on charges. 6. Payment Terms Payment will be released only after receipt of goods in good condition, along with a satisfactory installation certificate from the end user. 7. Installation and Commissioning An authorized technician of the supplier/OEM shall visit NIFTEM–Thanjavur to carry out the supply, installati on, testing, commissioning, and removal of old Interactive Panel with OPS under the buy-back policy at no additional cost. The work shall be completed at National Institute of Food Technology, Entrepreneurship a nd Management – Thanjavur (NIFTEM-T), Pudukkottai Road, Thanjavur – 613005. 8. Training Proper training must be provided to the end user free of charge, to their full satisfaction, after installation and commissioning. 9. Pricing and Taxes The quoted price shall be on a FOR (Free on Road) basis and inclusive of GST. A detailed price breakup mu st be provided. GST, buy-back value and other applicable taxes, if any, must be clearly indicated. 10. Delivery Schedule The item must be delivered only on working days (Monday to Friday) between 9:30 AM and 6:00 PM. 11. Packing and Responsibility The seller is fully responsible for any breakage or malfunction. The item must be properly packed and clear ly labeled as “Handle with Care.” 12. Invoice Requirements The GeM invoice must be duly sealed and signed, and a copy should be enclosed inside the parcel. 13. EMD (EARNEST MONEY DEPOSIT) Participating bidders shall upload a scanned copy/proof of the Demand Draft (DD) drawn in favour of 'The Director, NIFTEM-T, Thanjavur' along with the bid and shall ensure submission of the physical/hard copy to"
+    },
+    {
+      "page": 16,
+      "text": "the Buyer within five (5) days from the bid end date. MSME/MSE bidders are exempted from this requirem ent, as applicable. 14. PERFORMANCE BANK SECURITY (i) The successful bidder shall deposit a Performance Security equivalent to 3% of the total value of the Ge M contract, either in the form of a Performance Bank Guarantee executed on Rs.100/- stamp paper strictly in the prescribed bank format, (or) through a crossed Demand Draft drawn in favour of “The Director, NI FTEM, Thanjavur.” The Performance Security may be issued by any Nationalized Bank or Scheduled Co mmercial Bank operating in India. (ii) The Performance Security shall be issued by any Nationalized Bank or Scheduled Commercial Bank and must remain valid up to 60 days beyond the expiry of the warranty period. (iii) The bidder shall ensure satisfactory performance of the equipment throughout the warranty period. Fu rther, necessary confirmation regarding the submission and execution of the Performance Security, immed iately after satisfactory installation and commissioning of the equipment, shall be communicated to the Ins titute. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8281006",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 26-11-2026 20:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 27-11-2026 20:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Food Processing Industries",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Na",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Niftem T",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Niftem Thanjavur",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :registrar@niftem-t.ac.in Buyer Email id: sasu.iicpt@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 2",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Interactive Panels with CPU (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 33000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 33000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 3.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 38",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 2,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Display Technology: In-Plane Switching (IPS) | Display Type: Anti-Glare LCD with Direct-lit LED | Minimum Contrast Ratio: 1200 : 1, 1300 : 1, 1400 : 1, 1500 : 1, 1600 : 1, 1700 : 1, 1800 : 1, 1900 : 1, 2000 : 1 Or higher | Minimum Display Panel Size, Diagonal (in Inches): 98, 100, 105, 110 Or higher | Minimum Display Resolution (Horizontal x Vertical) (in Pixels): 4K UHD - 3840 x 2160 Or higher | Display Brightness (in Nits): 450, 500, 550, 600, 800, 1000 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Minimum Panel Life (in Hours): 50000 Or higher | Touch Interface: Touch Sensitive as well as Pen Driven | Touch Technology: Infrared (IR) | Number of Touch Points (in Number): 40 Or higher | Additional Softwares: Device Management Software | On Site Warranty Support (in Years): 3 Or higher | Type of CPU: Inbuilt CPU with Slot Provision for Open pluggable Specification (OPS) | Number of Cores: 8 Or higher | Memory (in GB): 8, 16 Or higher | SSD Storage Capacity (in GB): 64 Or higher | Provision of Slot for Open pluggable Specification (OPS): Yes | Open pluggable Specification (OPS) included in scope of supply: Yes | Pre-Install Software (OS) for Open pluggable Specification (OPS): Windows | Memory (in GB) for Open pluggable Specification (OPS): 8 | Number of Input HDMI Ports: 3, 4 Or higher | Number of Output HDMI Ports: 1 Or higher | Number of USB 2 Point 0 Ports: 1 | Number of USB 3 Point 0 Ports: 3 | Number of RS-232 C Ports: 1 Or higher | Number of Audio Input Ports: 1 | Number of Audio Output Ports: 1 | Number of RJ 45 ports: 1, 2 Or higher | Number of VGA-In Ports: 0 | USB Type C Port: 1 | In-built Speakers: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Mounting: Wall Mount | Availability of Bluetooth Connectivity: Yes. Inbuilt | Bluetooth Version: 5.1, 5.2, 5.3 Or higher | Availibility of Wi-Fi Connectivity: Yes. Inbuilt | Wi-Fi Connectivity: 802.11n (2.4 or 5 GHz) Or higher | Number of Electronic Pen or Stylus Each Panel: 2 Or higher | Additional HDMI Cable: 1 | Availability of Test Reports from Central Govt/NABL Accredited/ILAC Accredited Lab to Prove Conformity to the Specification: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Bhuvana S | 613005,Stores, National Institute of Food Technology, Entrepreneurship and Management (NIFTEM-T), Pudukkottai Road, Thanjavur - 613005, Tamil Nadu, India. | 2 | 45",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "2. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address NIFTEM-T PUDUKKOTTAI ROAD NEAR AIR FORCE STATION THANJAVUR 613 005 . 3. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 4. Generic Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU for 1 year before the bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the primary product having highest value should meet this criterion. 5. Generic Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller. 6. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 7. Generic Non return of Hard Disk: As per Buyer organization’s Security Policy,Faulty Hard Disk of Servers/Desktop Computers/ Laptops etc. will not be returned back to the OEM/supplier against warranty replacement. 8. Generic Scope of supply includes Training: Number of employees to be trained 5 , Place for Training NIFTEM-THANJAVUR and Duration of training 1 days. 9. Generic The successful bidder has to supply all essential accessories required for the successful installation and commissioning of the goods supplied. Besides standard accessories as per normal industry practice, following accessories must be part of supply and cost should be included in bid price: Wall mount stand, Connected cables, converters and adapters etc. . 10. Scope of Supply",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 11. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 12. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 13. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 14. Warranty Timely Servicing / rectification of defects during warranty period: After having been notified of the defects / service requirement during warranty period, Seller has to complete the required Service / Rectification within 5 days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the Buyer. 15. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Buyback Specifications (Old) Item Details: Interactive Panel with OPS Item Description Touch display, Android and windows Serial Number TDX-84-240160903205XA0014 UDX-86-40171208000777 Model TDX-84 UDX-86",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "Brand Specktron Year of Manufacturing TDX-84-2016 UDX-86-2017 Date of Purchase TDX-84 – 28.03.2019 UDX-86 – 19.03.2017 Size and/or Rating Screen size - TDX-84 Inch UDX-86 86 inch Unit of Measurement TDX-84 - Width 1978mm, Height 1186mm UDX-86 – Width 1988mm, Height 1178mm Quantity 2 Nos. Remark - New Specifications DISPLAY In-Plane Switching (IPS) Display Technology Anti-Glare LCD with Direct-lit Display Type LED 1200 : 1 Minimum Contrast Ratio",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "98 Minimum Display Panel Size, Diagonal (in Inches) 2245 Width of The Effective Display Area of The Panel (in mm) - Must Indicate 1326 Height of The Effective Display Area of The Panel (in mm) - Must Indicate 4K UHD - 3840 x 2160 Minimum Display Resolution (Horizontal x Vertical) (in Pixels) 450 Display Brightness (in Nits) 16:9 Display Aspect Ratio 178 by 178 View Angle (in Degree) 50000 Minimum Panel Life (in Hours) TOUCH SCREEN Touch Sensitive as well as Pen Touch Interface Driven Infrared (IR) Touch Technology 40 Number of Touch Points (in Number) 5 Response Time (in Milli Second) - Must Declare Yes Annotation Software",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 11,
+      "quote": "Device Management Software Additional Softwares 3 On Site Warranty Support (in Years) CPU Inbuilt CPU with Slot Provision Type of CPU for Open pluggable Specification (OPS) 8 Number of Cores A55 Processor Number -Must Indicate 2 Processor Base Frequency (in GHz) -Must Declare 8 Memory (in GB) 64 SSD Storage Capacity (in GB) Android Pre-Install Software (OS) Yes Provision of Slot for Open pluggable Specification (OPS) OPTIONAL ITEM Yes Open pluggable Specification (OPS) included in scope of supply i7 Open pluggable Specification (OPS) Processor Number -Must Indicate",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 12,
+      "quote": "4 Open pluggable Specification (OPS) Processor Base Frequency (in GHz) -Must Declare Windows Pre-Install Software (OS) for Open pluggable Specification (OPS) 8 Memory (in GB) for Open pluggable Specification (OPS) 256 SSD Storage Capacity (in GB) for Open pluggable Specification (OPS) NA Additional Requirement for OPS PORTS 3 Number of Input HDMI Ports 1 Number of Output HDMI Ports 1 Number of USB 2 Point 0 Ports 3 Number of USB 3 Point 0 Ports 1 Number of RS-232 C Ports 1 Number of Audio Input Ports 1 Number of Audio Output Ports 1 Number of RJ 45 ports",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 13,
+      "quote": "0 Number of VGA-In Ports 1 USB Type C Port Yes In-built Speakers 30 Speaker Power (in Watt) Wall Mount Mounting NA Additional Requirement CONNECTIVITY Yes. Inbuilt Availability of Bluetooth Connectivity 5.1 Bluetooth Version Yes. Inbuilt Availibility of Wi-Fi Connectivity 802.11n (2.4 or 5 GHz) Wi-Fi Connectivity POWER SUPPLY 100-240 V , AC Power Supply 50 AC Frequency (in Hz) 210 Power Consumption (in Watts) ACCESSORIES",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 14,
+      "quote": "2 Number of Electronic Pen or Stylus Each Panel 1 Additional HDMI Cable User Manual, HDMI cable, Installation Kit for each Panel Installation Manual, Remote Control with battery, Power Cord, USB Cable NA Additional Accessories Requirment OPERATING CONDITIONS 0 Minimum Operating Temperature (in Degree Celcius) 40 Maximun Operating Temperature (in Degree Celcius) 10 to 90 Operating Humidity (in Percentage) Interactive Panel & Accessories – Buy-back Terms and Conditions Documents Required for Eligibility Criteria: 1. Original Equipment Manufacturer (OEM) Certificate or Authorization Certificate from the manufacturer. 2. Original catalogue of the goods. 3. MSME / UDYAM Registration Certificate. 4. MII (Make in India) Local Content Percentage Declaration Certificate. 5. Compliance sheet of Technical Specification. 6. EMD - Bidders must upload scanned copy / proof of DD along with bid and has to ensure delivery of Phy sical / hard copy to the Buyer within 5 days of bid end date (Exemption for MSME)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 15,
+      "quote": "Additional Terms and Conditions: 1. Scope of Supply The supply includes 2 numbers of 98 Inch Display Interactive Panel with CPU with warranty 3 Years 2. Buy-Back Policy The procurement is subject to a buy-back arrangement of 2 numbers of existing Interactive Panel with OPS . 3. Adjustment of Buy-Back Value The bidder shall quote the buy-back value separately. The total quoted price in the financial bid shall be aft er deduction of the buy-back value. The bidder shall attach the price break-up buy-back value document/fil e along with the financial bid. 4. Condition of Interactive Panel with OPS The existing Interactive Panel with OPS will be handed over on an “as-is-where-is” basis. No complaints re garding their condition will be entertained after submission of the bid. The seller takes full responsibility for the transportation unloading and loading of two old panels. 5. Price Basis The quoted price shall be inclusive of all applicable taxes, transportation, loading, unloading, and installati on charges. 6. Payment Terms Payment will be released only after receipt of goods in good condition, along with a satisfactory installation certificate from the end user. 7. Installation and Commissioning An authorized technician of the supplier/OEM shall visit NIFTEM–Thanjavur to carry out the supply, installati on, testing, commissioning, and removal of old Interactive Panel with OPS under the buy-back policy at no additional cost. The work shall be completed at National Institute of Food Technology, Entrepreneurship a nd Management – Thanjavur (NIFTEM-T), Pudukkottai Road, Thanjavur – 613005. 8. Training Proper training must be provided to the end user free of charge, to their full satisfaction, after installation and commissioning. 9. Pricing and Taxes The quoted price shall be on a FOR (Free on Road) basis and inclusive of GST. A detailed price breakup mu st be provided. GST, buy-back value and other applicable taxes, if any, must be clearly indicated. 10. Delivery Schedule The item must be delivered only on working days (Monday to Friday) between 9:30 AM and 6:00 PM. 11. Packing and Responsibility The seller is fully responsible for any breakage or malfunction. The item must be properly packed and clear ly labeled as “Handle with Care.” 12. Invoice Requirements The GeM invoice must be duly sealed and signed, and a copy should be enclosed inside the parcel. 13. EMD (EARNEST MONEY DEPOSIT) Participating bidders shall upload a scanned copy/proof of the Demand Draft (DD) drawn in favour of 'The Director, NIFTEM-T, Thanjavur' along with the bid and shall ensure submission of the physical/hard copy to",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 16,
+      "quote": "the Buyer within five (5) days from the bid end date. MSME/MSE bidders are exempted from this requirem ent, as applicable. 14. PERFORMANCE BANK SECURITY (i) The successful bidder shall deposit a Performance Security equivalent to 3% of the total value of the Ge M contract, either in the form of a Performance Bank Guarantee executed on Rs.100/- stamp paper strictly in the prescribed bank format, (or) through a crossed Demand Draft drawn in favour of “The Director, NI FTEM, Thanjavur.” The Performance Security may be issued by any Nationalized Bank or Scheduled Co mmercial Bank operating in India. (ii) The Performance Security shall be issued by any Nationalized Bank or Scheduled Commercial Bank and must remain valid up to 60 days beyond the expiry of the warranty period. (iii) The bidder shall ensure satisfactory performance of the equipment throughout the warranty period. Fu rther, necessary confirmation regarding the submission and execution of the Performance Security, immed iately after satisfactory installation and commissioning of the equipment, shall be communicated to the Ins titute. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174022"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8290961",
   "title": "Network Attached Storage (V2)",
   "description": "Network Attached Storage (V2)",
-  "organisation": "Department of Water Resources River Development and Ganga Rejuvenation",
-  "ministry": "Ministry of Jal Shakti",
-  "department": "Department of Water Resources River Development and Ganga Rejuvenation",
+  "organisation": "National Institute Of Hydrology (nih) Roorkee",
+  "ministry": "Ministry Of Jal Shakti",
+  "department": "Department Of Water Resources River Development And Ganga Rejuvenation",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Network Attached Storage (V2)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-18T17:37:23+05:30",
   "closing_at": "2026-11-28T18:00:00+05:30",
   "status": "active",
@@ -27,6 +27,31 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10185417"
+    },
+    {
+      "name": "View Document",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/downloadMseMiiDoc/10185417/1795003285.pdf",
+      "page": 3
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/Bx-oQ4PSQ8u5UKKAchE7t3F6Tec7BFVg4AfYqjF7BAM",
+      "page": 4
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8290961/CLM0010/nas_d70e1db1-807b-42cd-a6d21795003568054_sharmavks.nihr@gov.in.pdf",
+      "page": 5
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261118",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +59,275 @@
   ],
   "source_fetched_at": "2026-11-21T13:10:21.210Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-29T18:00:00+05:30",
+  "office": "Roorkee",
+  "buyer_email": "bohra.nihr@gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 13,
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-21T20:04:06.222657+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "a8d72edab3dbd1ad912ca09d2371bde5a504b28ff322d220c44fa202c3719bbd",
+  "document_pages": 7,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Neelam Bohra",
+      "address": "247667,Procurement Section , National Institute of Hydrology, Roorkee",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Generic",
+          "parameter": "Description of Stores",
+          "value": "Network Attached Storage (NAS) with standard 1 year warranty"
+        },
+        {
+          "group": "Memory",
+          "parameter": "Total Memory (RAM) Size Installed (in GB)",
+          "value": "192, 256, 384, 512, 768, 1024, 2048 Or higher"
+        },
+        {
+          "group": "Computing",
+          "parameter": "Architecture Type",
+          "value": "Processor"
+        },
+        {
+          "group": "Computing",
+          "parameter": "Encryption",
+          "value": "Software Based"
+        },
+        {
+          "group": "Computing",
+          "parameter": "Protocol Supported",
+          "value": "NFS (Network File System), SMB / CIFS (Serve Messaging Block / Common Internet File System)"
+        },
+        {
+          "group": "Storage",
+          "parameter": "Type of Storage Interface",
+          "value": "SATA-SSD, SAS-SSD, NVMe-SSD, SATA-HDD, SAS- HDD, NL SAS-HDD"
+        },
+        {
+          "group": "Storage",
+          "parameter": "Hot Swappable",
+          "value": "No, Yes Or higher"
+        },
+        {
+          "group": "Storage",
+          "parameter": "Total Number of Slots available for SATA SSD Storage",
+          "value": "8, 12, 16, 24, 36, 48, 60, 80, 96, 100, 0 Or higher"
+        },
+        {
+          "group": "Storage",
+          "parameter": "Number of Slot Populated with SATA SSD",
+          "value": "10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 0"
+        },
+        {
+          "group": "Storage",
+          "parameter": "Capacity offered per SATA SSD (in GB)",
+          "value": "480, 800, 960, 1600, 1920, 3200, 3840, 7680, 15360, 30720, 0 Or higher"
+        },
+        {
+          "group": "Storage",
+          "parameter": "Total Number of Slots Available for NVMe SSD",
+          "value": "0, 8, 12, 15, 16, 24, 30, 36, 42, 45, 48, 54, 60, 66, 72, 75, 78, 84, 90, 96 Or higher"
+        },
+        {
+          "group": "Storage",
+          "parameter": "Number of Slots Populated with NVMe SSD",
+          "value": "0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60"
+        },
+        {
+          "group": "Storage",
+          "parameter": "Capacity Offered per NVMe SSD (in GB)",
+          "value": "0, 480, 800, 960, 1600, 1920, 3200, 3840, 7680, 15360, 30720, 61440, 122880 Or higher"
+        },
+        {
+          "group": "Storage",
+          "parameter": "Total Number of Slots Available for SATA HDD",
+          "value": "0, 8, 12, 15, 16, 24, 30, 36, 42, 45, 48, 54, 60, 66, 72, 75, 78, 84, 90, 96 Or higher"
+        },
+        {
+          "group": "Storage",
+          "parameter": "Number of Slots populated with SATA HDD",
+          "value": "0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60"
+        },
+        {
+          "group": "Storage",
+          "parameter": "Capacity offered per SATA HDD (in GB)",
+          "value": "0, 1000, 2000, 4000, 6000, 8000, 10000, 12000, 14000, 16000, 18000, 20000, 22000, 24000, 26000, 28000, 30000 Or higher"
+        },
+        {
+          "group": "RAID",
+          "parameter": "RAID level",
+          "value": "RAID 1, RAID 5, RAID 6, RAID 10 (RAID 1+0)"
+        },
+        {
+          "group": "Software",
+          "parameter": "Operating System Supported",
+          "value": "Windows, Linux, Unix"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8290961",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10185417"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 28-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10185417"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 29-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10185417"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10185417"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Jal Shakti",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10185417"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Water Resources River Development And Ganga Rejuvenation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10185417"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: National Institute Of Hydrology (nih) Roorkee",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10185417"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Roorkee",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10185417"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :director.nihr@gov.in Buyer Email id: bohra.nihr@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10185417"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10185417"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Network Attached Storage (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10185417"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10185417"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10185417"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10185417"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10185417"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10185417"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 13",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10185417"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10185417"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10185417"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Description of Stores: Network Attached Storage (NAS) with standard 1 year warranty | Total Memory (RAM) Size Installed (in GB): 192, 256, 384, 512, 768, 1024, 2048 Or higher | Architecture Type: Processor | Encryption: Software Based | Protocol Supported: NFS (Network File System), SMB / CIFS (Serve Messaging Block / Common Internet File System) | Type of Storage Interface: SATA-SSD, SAS-SSD, NVMe-SSD, SATA-HDD, SAS- HDD, NL SAS-HDD | Hot Swappable: No, Yes Or higher | Total Number of Slots available for SATA SSD Storage: 8, 12, 16, 24, 36, 48, 60, 80, 96, 100, 0 Or higher | Number of Slot Populated with SATA SSD: 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 0 | Capacity offered per SATA SSD (in GB): 480, 800, 960, 1600, 1920, 3200, 3840, 7680, 15360, 30720, 0 Or higher | Total Number of Slots Available for NVMe SSD: 0, 8, 12, 15, 16, 24, 30, 36, 42, 45, 48, 54, 60, 66, 72, 75, 78, 84, 90, 96 Or higher | Number of Slots Populated with NVMe SSD: 0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60 | Capacity Offered per NVMe SSD (in GB): 0, 480, 800, 960, 1600, 1920, 3200, 3840, 7680, 15360, 30720, 61440, 122880 Or higher | Total Number of Slots Available for SATA HDD: 0, 8, 12, 15, 16, 24, 30, 36, 42, 45, 48, 54, 60, 66, 72, 75, 78, 84, 90, 96 Or higher | Number of Slots populated with SATA HDD: 0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60 | Capacity offered per SATA HDD (in GB): 0, 1000, 2000, 4000, 6000, 8000, 10000, 12000, 14000, 16000, 18000, 20000, 22000, 24000, 26000, 28000, 30000 Or higher | RAID level: RAID 1, RAID 5, RAID 6, RAID 10 (RAID 1+0) | Operating System Supported: Windows, Linux, Unix",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10185417"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Neelam Bohra | 247667,Procurement Section , National Institute of Hydrology, Roorkee | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10185417"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10185417"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

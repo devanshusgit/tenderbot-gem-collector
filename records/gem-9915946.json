@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8056695",
   "title": "Smart Card Operated Ticket Vending Machine (ATVM) (V2) (Indian Railways)",
   "description": "Smart Card Operated Ticket Vending Machine (ATVM) (V2) (Indian Railways)",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "North Eastern Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Smart Card Operated Ticket Vending Machine (ATVM) (V2) (Indian Railways)",
   "quantity": 50,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 149000,
   "published_at": "2026-11-12T18:24:05+05:30",
   "closing_at": "2026-11-23T19:00:00+05:30",
   "status": "active",
@@ -27,6 +27,31 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/9915946"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/RkhunNsG4JTJlUfGT8Co9899fVTn3hrN-7CWHqDHyOM",
+      "page": 5
+    },
+    {
+      "name": "Buyer technical specification",
+      "url": "https://mkp.gem.gov.in/uploaded_documents/cms/tp/home_serv_vend_serv_sm06433331/51/16/877/CategorySchema/qr_spcn_document/2026/3/19/6-_atvm_specification_10-07-2023_2023-12-14-12-53-0_2026-03-19-10-01-33_16cd6ac2f7836fe0cb3fc45954a4ddc9.pdf",
+      "page": 7
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8056695/CLM0010/22222_ec15b53d-a23a-451f-bdde1794481607816_smmgkpd.pdf",
+      "page": 12
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261112",
+      "page": 15
     }
   ],
   "tags": [
@@ -34,5 +59,298 @@
   ],
   "source_fetched_at": "2026-11-20T17:25:38.583Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-24T19:00:00+05:30",
+  "office": "Office Of The Principal Chief Material Manager Ner",
+  "buyer_email": "smmd@ner.railnet.gov.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Single Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 42,
+  "offer_validity": "90 (Days)",
+  "source_document_fetched_at": "2026-11-21T08:36:33.020425+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "4dc3e44db1f4e81e3356e672a1c287dfafed65843c2b699e430e61762476d17b",
+  "document_pages": 16,
+  "eligibility": [
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 20 % (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 7,
+      "consignee": "Sushil Kumar Gupta",
+      "address": "273012,Office of the Principal Chief Commercial Manager, North Eastern Railway",
+      "quantity": 50,
+      "quantity_label": "Quantity",
+      "delivery_days": 60
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": "UPS",
+          "parameter": "Minimum Back Up Time (in Minutes) (Guranteed for 3 years)",
+          "value": "60 Or higher"
+        },
+        {
+          "group": "KIOSK PROCESSING UNIT",
+          "parameter": "Number of Processor Core",
+          "value": "4"
+        },
+        {
+          "group": "KIOSK PROCESSING UNIT",
+          "parameter": "Memory Type",
+          "value": "DDR4 Or higher"
+        },
+        {
+          "group": "KIOSK PROCESSING UNIT",
+          "parameter": "Memory Size (in GB)",
+          "value": "4"
+        },
+        {
+          "group": "KIOSK PROCESSING UNIT",
+          "parameter": "Flash/SSD/DoM Memory (in GB) in Primary Slot or Onboard Primary",
+          "value": "64 GB (32GB usable + 32 GB OP) or above usable MLC/3D-TLC SATA/mSATA/M.2/eMMC"
+        },
+        {
+          "group": "TICKET PRINTER",
+          "parameter": "Resolution (in dpi)",
+          "value": "300"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 7,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address As per attached list & condition As per attached list & condition As per attached list & condition As per attached list & condition"
+    },
+    {
+      "page": 8,
+      "text": "As per attached list & condition . 3. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 4. Generic Bidders shall quote only those products (Part of Service delivery) in the bid which are not obsolete in the market and has at least 2 years residual market life i.e. the offered product shall not be declared end-of- life by the OEM before this period. 5. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 6. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 7. Generic Products supplied shall be nontoxic and harmless to health. In the case of toxic materials, Material Safety Data Sheet may be furnished along with the material. 8. Generic Registration / Empanelment Requirement: Contract shall be awarded to only such sellers , who are registered / empanelled / approved / enlisted with OEM/MSME/MII for the required goods / service category on the date of bid opening. Prospective bidders (if not already registered), are advised to get themselves registered with the said registration authority before bid opening date. (It is certified that the registration is granted by the registering agency as per Rule 150 of GFR following a fair, transparent and reasonable procedure.) 9. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 10. Generic The successful bidder has to supply all essential accessories required for the successful installation and commissioning of the goods supplied. Besides standard accessories as per normal industry practice, following accessories must be part of supply and cost should be included in bid price: Cost included in Bid price . 11. Generic 1. The Seller shall not assign the Contract in whole or part without obtaining the prior written consent of buyer. 2. The Seller shall not sub-contract the Contract in whole or part to any entity without obtaining the prior written consent of buyer. 3. The Seller shall, notwithstanding the consent and assignment/sub-contract, remain jointly and severally liable and responsible to buyer together with the assignee/ sub-contractor, for and in respect of the due performance of the Contract and the Sellers obligations there under."
+    },
+    {
+      "page": 9,
+      "text": "12. Generic Without prejudice to Buyer’s right to price adjustment by way of discount or any other right or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a written notice to the Seller, if: i) The Seller fails to comply with any material term of the Contract. ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within the stipulated Delivery Period or such inability otherwise becomes apparent. iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery Period and/or to replace/rectify any rejected or defective Material(s) promptly. iv) The Seller becomes bankrupt or goes into liquidation. v) The Seller makes a general assignment for the benefit of creditors. vi) A receiver is appointed for any substantial property owned by the Seller. vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has placed the Purchase Order on the Seller. 13. Generic While generating invoice in GeM portal, the seller must upload scanned copy of GST invoice and the screenshot of GST portal confirming payment of GST. 14. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 15. Purchase Preference (Centre) Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to avail the Purchase preference, the bidder must be the manufacturer of the offered product in case of bid for supply of goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of 25% of total value. 16. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 17. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 18. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): RITES"
+    },
+    {
+      "page": 10,
+      "text": "Post Receipt Inspection at consignee site before acceptance of stores: NIL 19. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 20. Certificates Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked by Buyer’s Lab & the Results of the Lab will be the Sole Criteria for Acceptance of the Item. 21. Certificates To be eligible for award of contract, Bidder / OEM must possess following Certificates / Test Reports on the date of bid opening (to be uploaded with bid): OEM/MSME/MII . 22. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Bidders to attach Valid Authorization Certificate or Tender Specific Authorisation from OE M, in case firm is not OEM or firm's credential is not verified by OEM on GEM platform. (Without this offer shall be treated as unresponsive and shall be ignored) 2. (a) Bidders to attach Declaration from OEM regarding local content in compliance Public Procurement (P reference to Make in India) Order 2017 if not declared on product page of of fered product. (Without this of fer shall be treated as unresponsive and shall be ignored) (b)The supplier is not Original Equipment Manufacturer(OEM) then authorization letter from the OEM with a vailability of support and spare for codal life of equipment should be provided by the supplier. 3. For fulfilling the PAST PERFORMANCE criteria any one of the following documents may be considered as valid proof for meeting the PERFORMANCE criteria: - a. For GeM contracts, CRAC to be attached; b. Executi on certificate by client with order value; c. Any other document in support of order execution like Third Par ty Inspection, release not e, R.Notes etc. Note:- i. Bidders are advised to attach relevant documents asked in this tender and avoid attaching irrelevant documents. ii. In case any document submitted or declaration given by bidder is found false, misleading or forged, firm action shall be initiated as per GeM General Term s and Conditions and this shall be treated as breach of the Code of Integrity under Rule 175 (1) (i)(h) of the General Financial Rules for which a bidder or its successors can be debarred for up to two years as per Rul e 151 (iii) of the General Financial Rules along with such other actions as may be permissible under law iii. Firms without requisite performance criteria or firms who have not attached documents, as mentioned abo ve, in support of performance shall be ignored. Only firm with required performance, as mentioned in bid p erformance criteria, shall be considered for placement of order. 4. In case firm is a regular supplier of tendered items in Railways same may be verified by purchaser but it will be firm's responsibility to attach relevant documents in lieu of same offer is liable to ignored and it sha ll not be obligatory on part of purchaser. 5. EMD/SD exemption as per rules. 6. Delivery may be deferred as per requirements of NER 7.Tenderers will ensure that full benefit of Input Tax Credit (ITC) likely to be availed by them is duly consid ered while quoting rates and in case any further benefit available in future on account of ITC will be passe d on to the purchaser. 8. Evaluation ctriteria of Bid: Evaluation of offer will be done on basis of Total Cost for Evaluation Criteria mentioned in Clause 8.3 of Additional Clause for CAMC. 9. All bidders ( including MSE bidders) must fulfil the past performance criteria for tender item in In dian Ra"
+    },
+    {
+      "page": 11,
+      "text": "ilway. 10. Payment term as per attached condition i.e. Payment Terms and Conditions A. 80 % of the value of co mplete ATVM supplied shall be paid by the purchaser on receipt of material by consignee in good conditio ns and upon furnishing the following documents: i) Preliminary Test Certificate of receipt of complete equi pment in good conditions by consignee in terms of the contract as per Annexure-E. ii) Test Certificate issued by RITES Ltd. B. Balance 20 % shall be paid after full and final installation and commissioning of the ATVM to the satisfaction of the consignee and upon furnishing the Final Certificate of successful commissio ning of complete equipment issued as per the inspection and acceptance procedure given in the purchase order as per Annexure F. 11.Provision of ePBG:- PBG @10% of the value of supply order shall have to be submitted by Vender within 15 days of issue of supply order valid for 42 month from the date of issue of PBG Bond. Apart from this, wh erever ePBG of 5% is mentioned, the same shall be read and construed as ePBG of 10%. 12.Comprehensive Warranty:- The vender shall maintain the system in good working order. The service sh all consist of preventive and corrective maintenance and shall include. i. The warranty shall be for a period for 24 months from the date of complete commissioning or 30 months from the date of completion of supp ly of material,whichever is less, from the date of acceptance of equipments.ii. All the ATVM shall have com prehensive onsite warranty support i.e. repair/replacement of faulty units including replacement of all cons umable parts of Thermal Printers i.e. Printer head, cutter etc. During the warranty of period at the respecti ve sites after the complaint is lodged. iii. During the warranty, support shall cover 24 hours x 07 days a we ek. All types of problems in ATVM should be attended within 24 hours from the date of lodging of the comp laint and problems should be rectified within 2 days from the date of lodging of the complaint. iv. The bidd er shall provide a complaint escalation mechanism for escalated complaints during the warranty period. v. Vendor will provide nodal point at each division and will maintain their own inventory of spares as to give t he fast and efficient service, carry out all necessary repairs and replacement of parts without any addition al cost if any. vi. Preventive Maintenance of Smart Card operated Automatic Ticket Vending Machine (ATV M) will be done by the vendor at least once a month at convenient time of Zonal Railways. The last month Preventive Maintenance report should be submitted to the consignee in the first week of every month. vii. The Vendor shall furnish list of his service and support centers (Nodal Points). 14.Comprehensive onsite Annual Maintenance Contract (AMC):- i) Vendor/OEM will also provide CAMC for 4th and 5th year as per mutually decided by NER (Divisions) and Vendor/OEM. ii) North Eastern Railway re serves the right to enter into CAMC after satisfactory completion of warranty. The Performance Bank Guara ntee is liable to be forfeited if the bidder refuses to enter into CAMC on completion of warranty period at ra tes quoted in this offer. iii) Scope of Comprehensive onsite CAMC: During the CAMC, support shall cover th e following: a) 24 hours x 7 days a week support including Saturday, Sunday and holidays. b) Free patches / upgrades and firmware upgrade of Smart Card operated Automatic Ticket Vending Machine (ATVM) and it s sub-components. The installation of these will be the joint responsibility of the bidder and Original Equip ment Manufacturer. c) During 3 years Comprehensive Annual Maintenance Contract period contractor shall replace/ repair all parts including Touch Screens , Thin Client, RFID Reader/Writers, Thermal Printers, Ther mal Heads, Printer Cutters etc. along with all accessories, circuits and other parts at no cost to Railways irr espective of their codal life and any environmental conditions. d) The bidder shall provide a complaint Esc alation mechanism for escalated complaints during the Comprehensive Annual Maintenance Contract perio d. e) Bidder will maintain their own inventory of spares so as to give the fast and efficient service, carry ou t all necessary repairs and replacements of parts without any additional cost to railways in any condition 15.Penalty Clause for Warranty period and CAMC Period :- i) If problem of a ATVM is not attended within 24 hours, Railway will impose Rs.250/- per day or part thereof. ii) If problem of a ATVM is not rectified within 2 days, Railway will impose Rs.1000/- per day or part thereof. However, the maximum damages will be 10% of the contract value. The penalty amount will be worked out on quarterly basis and demand will be sent t o the bidder to deposit the same with Railway within 15-20 days from date of issue of demand letter. In cas e the bidder does not depo sit the penalty amount within stipulated time. NE Railway reserve the right to r ecover the due amount as under a) From any other pending bills of the bidder in NER. b) From security de posit/PBG bond furnished for this contract.iii) If any change requires in CAMC conditions, bidder and consig nee will mutually decide. 16-Installation requirement: Obtaining of any licenses or any other statutory requirement for installation a nd working of all equipments shall be the responsibility of the bidder. 17-Supply, transportation to the sites, installation (including elevated platform for machine, extension of p ower supply from the nearest available power point, etc.), will be the responsibility of firm. Delivery Period :Schedule for Delivery, Installation / Commissioning and Liquidated Damages:- (i) The smart card operated Automatic Ticket Vending Machine (ATVM) shall be delivered in good condition at destinati on site/location (list enclosed as per Annexure – B, C & D) within 60 days from the date of placement of supply order again"
+    },
+    {
+      "page": 12,
+      "text": "st Contract. (ii). Commissioning and installation of the work should be done within 30 days from the date o f delivery. (iii). The bidder will arrange transport of the equipment to field sites (Railway Stations)after gett ing list of stations and confirmation from the consignee for installation and commissioning. Installation and commissioning for any site should be completed within 5 working days of receiving an installation call from the consi gnee. (iv). The list of sites given in Annexure – B, C & D of tender document is indicative and is s ubject to change prior to installation. Any modification in the list of sites will be advised by CCM/PM of the Railway. (v). Absolutely same product will be supplied by the bidders which has been quoted in tender and provided at the time of technical evolution. (vi). If the contractor fails to complete the work within the time as specified in the contract for the reasons o ther than the reasons specified in clause 17 and 17-A of Gene ral Conditions of Contract, Part-II, the liquidat ed damages as specified in item 17-B of General Condition of Contract, Part-II will be recovered from the contractor. The competent authority granting extension to the c urrency of contract under GCC may also levy a token penalty as deemed fit based on the merit of the case . (vi)i. If Railway feels that the installed ATVM machine has to be shifted from one location to another then the installation of the machine will be done by the firm at its own expense. 18- Compliance certificate for applicable technical specification to be submitted by firm along with Bid. NOTE: The terms & condition, Technical Specification , list of consignee which have been uploaded in ATC and must be followed, special condition of ATVM enclosed will supersede any other terms & condition men tioned in bid excluding delivery period (supply & installation) and e PBG rate applicable for the bid. 19- Bidder to note that Techno-commercial evaluation will be done on the basis of documents uplo aded by the bidder & no additional documents will be considered at representation time other tha n historical documents in compliance to Para 7.3.5 of Manual for Procurement of Goods & services. 20- The bidder has to deposit EMD/PBG in the beneficiary's Name of \"PFA/NER/G KP\" and has to be sent to this office address at \"Office of the \"Deputy Chief Material Manager General Stores Depot, Gorakhpur - 273012\" in compliance of bid requirement regarding EMD. 21-Onus of submission of required documents correctly at respective tab provided in GeM bid is on Bidders only. Bidder are advised to strictly adhered the same for techno-commercial evaluation. 22- BIDDERS HAVE TO NOTE THAT THE ADDITIONAL SPECIFICATION PARAMETER WILL TAKE PREC EDENCE OVER TECHNICAL SPECIFICATION. . 23. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 24. Generic Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU for 3 years before the bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the primary product having highest value should meet this criterion. 25. Forms of EMD and PBG Bidders can also submit the EMD with Account Payee Demand Draft in favour of PFA/NER/GKP payable at Gorakhpur . Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 26. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in favour of"
+    },
+    {
+      "page": 13,
+      "text": "PFA/NER/GKP payable at Gorakhpur . After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of contract. 27. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of PFA/NER/GKP A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8056695",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9915946"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 23-11-2026 19:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9915946"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 24-11-2026 19:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9915946"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9915946"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9915946"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9915946"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: North Eastern Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9915946"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Office Of The Principal Chief Material Manager Ner",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9915946"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :kaustubh.mani16@gov.in Buyer Email id: smmd@ner.railnet.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9915946"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 50",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9915946"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Smart Card Operated Ticket Vending Machine (ATVM) (V2) (Indian Railways) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9915946"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9915946"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9915946"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9915946"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9915946"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 20 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9915946"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9915946"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 149000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9915946"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 149000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9915946"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9915946"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 42",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9915946"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9915946"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Minimum Back Up Time (in Minutes) (Guranteed for 3 years): 60 Or higher | Number of Processor Core: 4 | Memory Type: DDR4 Or higher | Memory Size (in GB): 4 | Flash/SSD/DoM Memory (in GB) in Primary Slot or Onboard Primary: 64 GB (32GB usable + 32 GB OP) or above usable MLC/3D-TLC SATA/mSATA/M.2/eMMC | Resolution (in dpi): 300",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9915946"
+    },
+    {
+      "field": "consignees",
+      "page": 7,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Sushil Kumar Gupta | 273012,Office of the Principal Chief Commercial Manager, North Eastern Railway | 50 | 60",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9915946"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address As per attached list & condition As per attached list & condition As per attached list & condition As per attached list & condition",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9915946"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "As per attached list & condition . 3. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 4. Generic Bidders shall quote only those products (Part of Service delivery) in the bid which are not obsolete in the market and has at least 2 years residual market life i.e. the offered product shall not be declared end-of- life by the OEM before this period. 5. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 6. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 7. Generic Products supplied shall be nontoxic and harmless to health. In the case of toxic materials, Material Safety Data Sheet may be furnished along with the material. 8. Generic Registration / Empanelment Requirement: Contract shall be awarded to only such sellers , who are registered / empanelled / approved / enlisted with OEM/MSME/MII for the required goods / service category on the date of bid opening. Prospective bidders (if not already registered), are advised to get themselves registered with the said registration authority before bid opening date. (It is certified that the registration is granted by the registering agency as per Rule 150 of GFR following a fair, transparent and reasonable procedure.) 9. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 10. Generic The successful bidder has to supply all essential accessories required for the successful installation and commissioning of the goods supplied. Besides standard accessories as per normal industry practice, following accessories must be part of supply and cost should be included in bid price: Cost included in Bid price . 11. Generic 1. The Seller shall not assign the Contract in whole or part without obtaining the prior written consent of buyer. 2. The Seller shall not sub-contract the Contract in whole or part to any entity without obtaining the prior written consent of buyer. 3. The Seller shall, notwithstanding the consent and assignment/sub-contract, remain jointly and severally liable and responsible to buyer together with the assignee/ sub-contractor, for and in respect of the due performance of the Contract and the Sellers obligations there under.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9915946"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "12. Generic Without prejudice to Buyer’s right to price adjustment by way of discount or any other right or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a written notice to the Seller, if: i) The Seller fails to comply with any material term of the Contract. ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within the stipulated Delivery Period or such inability otherwise becomes apparent. iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery Period and/or to replace/rectify any rejected or defective Material(s) promptly. iv) The Seller becomes bankrupt or goes into liquidation. v) The Seller makes a general assignment for the benefit of creditors. vi) A receiver is appointed for any substantial property owned by the Seller. vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has placed the Purchase Order on the Seller. 13. Generic While generating invoice in GeM portal, the seller must upload scanned copy of GST invoice and the screenshot of GST portal confirming payment of GST. 14. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 15. Purchase Preference (Centre) Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to avail the Purchase preference, the bidder must be the manufacturer of the offered product in case of bid for supply of goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of 25% of total value. 16. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 17. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 18. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): RITES",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9915946"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "Post Receipt Inspection at consignee site before acceptance of stores: NIL 19. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 20. Certificates Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked by Buyer’s Lab & the Results of the Lab will be the Sole Criteria for Acceptance of the Item. 21. Certificates To be eligible for award of contract, Bidder / OEM must possess following Certificates / Test Reports on the date of bid opening (to be uploaded with bid): OEM/MSME/MII . 22. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Bidders to attach Valid Authorization Certificate or Tender Specific Authorisation from OE M, in case firm is not OEM or firm's credential is not verified by OEM on GEM platform. (Without this offer shall be treated as unresponsive and shall be ignored) 2. (a) Bidders to attach Declaration from OEM regarding local content in compliance Public Procurement (P reference to Make in India) Order 2017 if not declared on product page of of fered product. (Without this of fer shall be treated as unresponsive and shall be ignored) (b)The supplier is not Original Equipment Manufacturer(OEM) then authorization letter from the OEM with a vailability of support and spare for codal life of equipment should be provided by the supplier. 3. For fulfilling the PAST PERFORMANCE criteria any one of the following documents may be considered as valid proof for meeting the PERFORMANCE criteria: - a. For GeM contracts, CRAC to be attached; b. Executi on certificate by client with order value; c. Any other document in support of order execution like Third Par ty Inspection, release not e, R.Notes etc. Note:- i. Bidders are advised to attach relevant documents asked in this tender and avoid attaching irrelevant documents. ii. In case any document submitted or declaration given by bidder is found false, misleading or forged, firm action shall be initiated as per GeM General Term s and Conditions and this shall be treated as breach of the Code of Integrity under Rule 175 (1) (i)(h) of the General Financial Rules for which a bidder or its successors can be debarred for up to two years as per Rul e 151 (iii) of the General Financial Rules along with such other actions as may be permissible under law iii. Firms without requisite performance criteria or firms who have not attached documents, as mentioned abo ve, in support of performance shall be ignored. Only firm with required performance, as mentioned in bid p erformance criteria, shall be considered for placement of order. 4. In case firm is a regular supplier of tendered items in Railways same may be verified by purchaser but it will be firm's responsibility to attach relevant documents in lieu of same offer is liable to ignored and it sha ll not be obligatory on part of purchaser. 5. EMD/SD exemption as per rules. 6. Delivery may be deferred as per requirements of NER 7.Tenderers will ensure that full benefit of Input Tax Credit (ITC) likely to be availed by them is duly consid ered while quoting rates and in case any further benefit available in future on account of ITC will be passe d on to the purchaser. 8. Evaluation ctriteria of Bid: Evaluation of offer will be done on basis of Total Cost for Evaluation Criteria mentioned in Clause 8.3 of Additional Clause for CAMC. 9. All bidders ( including MSE bidders) must fulfil the past performance criteria for tender item in In dian Ra",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9915946"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 11,
+      "quote": "ilway. 10. Payment term as per attached condition i.e. Payment Terms and Conditions A. 80 % of the value of co mplete ATVM supplied shall be paid by the purchaser on receipt of material by consignee in good conditio ns and upon furnishing the following documents: i) Preliminary Test Certificate of receipt of complete equi pment in good conditions by consignee in terms of the contract as per Annexure-E. ii) Test Certificate issued by RITES Ltd. B. Balance 20 % shall be paid after full and final installation and commissioning of the ATVM to the satisfaction of the consignee and upon furnishing the Final Certificate of successful commissio ning of complete equipment issued as per the inspection and acceptance procedure given in the purchase order as per Annexure F. 11.Provision of ePBG:- PBG @10% of the value of supply order shall have to be submitted by Vender within 15 days of issue of supply order valid for 42 month from the date of issue of PBG Bond. Apart from this, wh erever ePBG of 5% is mentioned, the same shall be read and construed as ePBG of 10%. 12.Comprehensive Warranty:- The vender shall maintain the system in good working order. The service sh all consist of preventive and corrective maintenance and shall include. i. The warranty shall be for a period for 24 months from the date of complete commissioning or 30 months from the date of completion of supp ly of material,whichever is less, from the date of acceptance of equipments.ii. All the ATVM shall have com prehensive onsite warranty support i.e. repair/replacement of faulty units including replacement of all cons umable parts of Thermal Printers i.e. Printer head, cutter etc. During the warranty of period at the respecti ve sites after the complaint is lodged. iii. During the warranty, support shall cover 24 hours x 07 days a we ek. All types of problems in ATVM should be attended within 24 hours from the date of lodging of the comp laint and problems should be rectified within 2 days from the date of lodging of the complaint. iv. The bidd er shall provide a complaint escalation mechanism for escalated complaints during the warranty period. v. Vendor will provide nodal point at each division and will maintain their own inventory of spares as to give t he fast and efficient service, carry out all necessary repairs and replacement of parts without any addition al cost if any. vi. Preventive Maintenance of Smart Card operated Automatic Ticket Vending Machine (ATV M) will be done by the vendor at least once a month at convenient time of Zonal Railways. The last month Preventive Maintenance report should be submitted to the consignee in the first week of every month. vii. The Vendor shall furnish list of his service and support centers (Nodal Points). 14.Comprehensive onsite Annual Maintenance Contract (AMC):- i) Vendor/OEM will also provide CAMC for 4th and 5th year as per mutually decided by NER (Divisions) and Vendor/OEM. ii) North Eastern Railway re serves the right to enter into CAMC after satisfactory completion of warranty. The Performance Bank Guara ntee is liable to be forfeited if the bidder refuses to enter into CAMC on completion of warranty period at ra tes quoted in this offer. iii) Scope of Comprehensive onsite CAMC: During the CAMC, support shall cover th e following: a) 24 hours x 7 days a week support including Saturday, Sunday and holidays. b) Free patches / upgrades and firmware upgrade of Smart Card operated Automatic Ticket Vending Machine (ATVM) and it s sub-components. The installation of these will be the joint responsibility of the bidder and Original Equip ment Manufacturer. c) During 3 years Comprehensive Annual Maintenance Contract period contractor shall replace/ repair all parts including Touch Screens , Thin Client, RFID Reader/Writers, Thermal Printers, Ther mal Heads, Printer Cutters etc. along with all accessories, circuits and other parts at no cost to Railways irr espective of their codal life and any environmental conditions. d) The bidder shall provide a complaint Esc alation mechanism for escalated complaints during the Comprehensive Annual Maintenance Contract perio d. e) Bidder will maintain their own inventory of spares so as to give the fast and efficient service, carry ou t all necessary repairs and replacements of parts without any additional cost to railways in any condition 15.Penalty Clause for Warranty period and CAMC Period :- i) If problem of a ATVM is not attended within 24 hours, Railway will impose Rs.250/- per day or part thereof. ii) If problem of a ATVM is not rectified within 2 days, Railway will impose Rs.1000/- per day or part thereof. However, the maximum damages will be 10% of the contract value. The penalty amount will be worked out on quarterly basis and demand will be sent t o the bidder to deposit the same with Railway within 15-20 days from date of issue of demand letter. In cas e the bidder does not depo sit the penalty amount within stipulated time. NE Railway reserve the right to r ecover the due amount as under a) From any other pending bills of the bidder in NER. b) From security de posit/PBG bond furnished for this contract.iii) If any change requires in CAMC conditions, bidder and consig nee will mutually decide. 16-Installation requirement: Obtaining of any licenses or any other statutory requirement for installation a nd working of all equipments shall be the responsibility of the bidder. 17-Supply, transportation to the sites, installation (including elevated platform for machine, extension of p ower supply from the nearest available power point, etc.), will be the responsibility of firm. Delivery Period :Schedule for Delivery, Installation / Commissioning and Liquidated Damages:- (i) The smart card operated Automatic Ticket Vending Machine (ATVM) shall be delivered in good condition at destinati on site/location (list enclosed as per Annexure – B, C & D) within 60 days from the date of placement of supply order again",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9915946"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 12,
+      "quote": "st Contract. (ii). Commissioning and installation of the work should be done within 30 days from the date o f delivery. (iii). The bidder will arrange transport of the equipment to field sites (Railway Stations)after gett ing list of stations and confirmation from the consignee for installation and commissioning. Installation and commissioning for any site should be completed within 5 working days of receiving an installation call from the consi gnee. (iv). The list of sites given in Annexure – B, C & D of tender document is indicative and is s ubject to change prior to installation. Any modification in the list of sites will be advised by CCM/PM of the Railway. (v). Absolutely same product will be supplied by the bidders which has been quoted in tender and provided at the time of technical evolution. (vi). If the contractor fails to complete the work within the time as specified in the contract for the reasons o ther than the reasons specified in clause 17 and 17-A of Gene ral Conditions of Contract, Part-II, the liquidat ed damages as specified in item 17-B of General Condition of Contract, Part-II will be recovered from the contractor. The competent authority granting extension to the c urrency of contract under GCC may also levy a token penalty as deemed fit based on the merit of the case . (vi)i. If Railway feels that the installed ATVM machine has to be shifted from one location to another then the installation of the machine will be done by the firm at its own expense. 18- Compliance certificate for applicable technical specification to be submitted by firm along with Bid. NOTE: The terms & condition, Technical Specification , list of consignee which have been uploaded in ATC and must be followed, special condition of ATVM enclosed will supersede any other terms & condition men tioned in bid excluding delivery period (supply & installation) and e PBG rate applicable for the bid. 19- Bidder to note that Techno-commercial evaluation will be done on the basis of documents uplo aded by the bidder & no additional documents will be considered at representation time other tha n historical documents in compliance to Para 7.3.5 of Manual for Procurement of Goods & services. 20- The bidder has to deposit EMD/PBG in the beneficiary's Name of \"PFA/NER/G KP\" and has to be sent to this office address at \"Office of the \"Deputy Chief Material Manager General Stores Depot, Gorakhpur - 273012\" in compliance of bid requirement regarding EMD. 21-Onus of submission of required documents correctly at respective tab provided in GeM bid is on Bidders only. Bidder are advised to strictly adhered the same for techno-commercial evaluation. 22- BIDDERS HAVE TO NOTE THAT THE ADDITIONAL SPECIFICATION PARAMETER WILL TAKE PREC EDENCE OVER TECHNICAL SPECIFICATION. . 23. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 24. Generic Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU for 3 years before the bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the primary product having highest value should meet this criterion. 25. Forms of EMD and PBG Bidders can also submit the EMD with Account Payee Demand Draft in favour of PFA/NER/GKP payable at Gorakhpur . Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 26. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in favour of",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9915946"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 13,
+      "quote": "PFA/NER/GKP payable at Gorakhpur . After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of contract. 27. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of PFA/NER/GKP A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9915946"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8292926",
   "title": "Portable Power Supply Unit",
   "description": "Portable Power Supply Unit",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "East Central Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Portable Power Supply Unit",
   "quantity": 5,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-19T14:11:34+05:30",
   "closing_at": "2026-11-30T13:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10187743"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/vo6mJq4WWoIivSkqusdWPJarFKTtlnj-DU3h9PF0y10",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261119",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +49,332 @@
   ],
   "source_fetched_at": "2026-11-21T21:15:27.201Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-01T13:00:00+05:30",
+  "office": "Ecr Stores",
+  "buyer_email": "buyer108.mr.jh@gembuyer.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-22T15:08:25.893349+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "afa4debface6c37f163a8069c7d4a991b86f96cd92629bfcf371fcdd313b151d",
+  "document_pages": 7,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Imran Ahmad",
+      "address": "826001,SR. SECTION ENGINEER, CENTRAL STORE ROLLING STOCK(CSRS), COACHING COMPLEX EAST CENTRAL RAILWAY DHANBAD- 826001",
+      "quantity": 5,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "GENERIC",
+          "parameter": "Minimum rated output(In Watts)/Minimum backup time for full load(In Minutes)/Battery capacity(In Ah)/Battery Voltage(In Volts)/No. of Battery(In Nos.)",
+          "value": "600/150/152/12.8/1"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "AC OutPut (in Volts)",
+          "value": "220 +/- 10%"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "DC Output (in Volts)",
+          "value": "12"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "DC Output Power (in Watts)",
+          "value": "10"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Agreed for Installation and Demonstration",
+          "value": "No"
+        },
+        {
+          "group": "PV MODULE",
+          "parameter": "Solar PV module included",
+          "value": "No"
+        },
+        {
+          "group": "PV MODULE",
+          "parameter": "PV Module manufactured in",
+          "value": "Without PV Module"
+        },
+        {
+          "group": "PV MODULE",
+          "parameter": "Application class (hint: Refer Cl. 3 of IS/IEC 61730-1 : 2004)",
+          "value": "Class C (Safety Class III)"
+        },
+        {
+          "group": "PV MODULE",
+          "parameter": "Type of mounting of PV Module",
+          "value": "Fitted with corrosion resistant framed structure with module holding facility"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Compliant of BIS CRS for PV Module (hint: If Yes BIS CRS certificte shall furnish to buyer / consignee on demand)",
+          "value": "No"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "BIS CRS conformity certificate for batteries",
+          "value": "No"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "Battery charging mode",
+          "value": "Through AC mains"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "Battery Management System (BMS) to manage for",
+          "value": "DC Output"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "Remote Monitoring (BMS/EMS to manage performance of overall unit including communication with cloud software)",
+          "value": "NA"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "Battery fitted with",
+          "value": "Inbuilt of the unit"
+        },
+        {
+          "group": "CONSTRUCTION",
+          "parameter": "Input AC Voltage range",
+          "value": "1 Phase 230 V +/- 10%, 50 Hz"
+        },
+        {
+          "group": "CONSTRUCTION",
+          "parameter": "MPPT Charger",
+          "value": "Yes with MC4/Anderson connector"
+        },
+        {
+          "group": "CONSTRUCTION",
+          "parameter": "Minimum thickess of casing material (in mm)",
+          "value": "1"
+        },
+        {
+          "group": "CONSTRUCTION",
+          "parameter": "Type of mounting of power supply unit",
+          "value": "Floor Mounted"
+        },
+        {
+          "group": "CONSTRUCTION",
+          "parameter": "Cooling medium for the portable power supply unit",
+          "value": "Natural air cooling system"
+        },
+        {
+          "group": "ELECTRICAL",
+          "parameter": "Cable size",
+          "value": "NA"
+        },
+        {
+          "group": "ELECTRICAL",
+          "parameter": "Cable length (in m)",
+          "value": "5"
+        },
+        {
+          "group": "ELECTRICAL",
+          "parameter": "Selector switch for operting mode",
+          "value": "AC Mains"
+        },
+        {
+          "group": "PORTS AND SOCKETS",
+          "parameter": "No of DC output ports",
+          "value": "1 DC Socket"
+        },
+        {
+          "group": "DISPLAY AND INDICATORS",
+          "parameter": "Type of display on the power supply unit",
+          "value": "LCD"
+        },
+        {
+          "group": "DISPLAY AND INDICATORS",
+          "parameter": "Display parameters",
+          "value": "Input Voltage, Output Voltage, Output Frequency, System ON/OFF, Charging ON/OFF, Overload, Power Source, Battery charging status"
+        },
+        {
+          "group": "DISPLAY AND INDICATORS",
+          "parameter": "LED Indicators and alarm",
+          "value": "Power on/off,, AC mains, battery on/off, battery charging status, Charging on/off"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "Warranty for the power supply unit (In Months)",
+          "value": "24"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "Warranty for battery (In Months)",
+          "value": "36"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "warranty for PV module (In Years)",
+          "value": "NA"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Inspection by Consignee against MTC (Material Test Certificate) . 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods"
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8292926",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10187743"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 30-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10187743"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 01-12-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10187743"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10187743"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10187743"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10187743"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: East Central Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10187743"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Ecr Stores",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10187743"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :sunil.gandhi07@gov.in Buyer Email id: buyer108.mr.jh@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10187743"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 5",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10187743"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Portable Power Supply Unit (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10187743"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10187743"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10187743"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10187743"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10187743"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10187743"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10187743"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Minimum rated output(In Watts)/Minimum backup time for full load(In Minutes)/Battery capacity(In Ah)/Battery Voltage(In Volts)/No. of Battery(In Nos.): 600/150/152/12.8/1 | AC OutPut (in Volts): 220 +/- 10% | DC Output (in Volts): 12 | DC Output Power (in Watts): 10 | Agreed for Installation and Demonstration: No | Solar PV module included: No | PV Module manufactured in: Without PV Module | Application class (hint: Refer Cl. 3 of IS/IEC 61730-1 : 2004): Class C (Safety Class III) | Type of mounting of PV Module: Fitted with corrosion resistant framed structure with module holding facility",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10187743"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Compliant of BIS CRS for PV Module (hint: If Yes BIS CRS certificte shall furnish to buyer / consignee on demand): No | BIS CRS conformity certificate for batteries: No | Battery charging mode: Through AC mains | Battery Management System (BMS) to manage for: DC Output | Remote Monitoring (BMS/EMS to manage performance of overall unit including communication with cloud software): NA | Battery fitted with: Inbuilt of the unit | Input AC Voltage range: 1 Phase 230 V +/- 10%, 50 Hz | MPPT Charger: Yes with MC4/Anderson connector | Minimum thickess of casing material (in mm): 1 | Type of mounting of power supply unit: Floor Mounted | Cooling medium for the portable power supply unit: Natural air cooling system | Cable size: NA | Cable length (in m): 5 | Selector switch for operting mode: AC Mains | No of DC output ports: 1 DC Socket | Type of display on the power supply unit: LCD | Display parameters: Input Voltage, Output Voltage, Output Frequency, System ON/OFF, Charging ON/OFF, Overload, Power Source, Battery charging status | LED Indicators and alarm: Power on/off,, AC mains, battery on/off, battery charging status, Charging on/off | Warranty for the power supply unit (In Months): 24 | Warranty for battery (In Months): 36 | warranty for PV module (In Years): NA",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10187743"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Imran Ahmad | 826001,SR. SECTION ENGINEER, CENTRAL STORE ROLLING STOCK(CSRS), COACHING COMPLEX EAST CENTRAL RAILWAY DHANBAD- 826001 | 5 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10187743"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Inspection by Consignee against MTC (Material Test Certificate) . 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10187743"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

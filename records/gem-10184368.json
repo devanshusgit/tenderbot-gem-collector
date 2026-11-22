@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8290021",
   "title": "Online UPS (?10 KVA) With Battery Conforming To IS 16242 (Part 1)",
   "description": "Online UPS (?10 KVA) With Battery Conforming To IS 16242 (Part 1)",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "Central Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Online UPS (?10 KVA) With Battery Conforming To IS 16242 (Part 1)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-19T12:52:09+05:30",
   "closing_at": "2026-11-30T13:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10184368"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/T4gBUYXm2bXzvXu7XLL6GdI-z7SCxZ-6uZU4q7_MCtY",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261119",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +49,234 @@
   ],
   "source_fetched_at": "2026-11-21T21:15:26.244Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-01T13:00:00+05:30",
+  "office": "Central Railway Stores Deptt",
+  "buyer_email": "amm.kwv@cr.railnet.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "90 (Days)",
+  "source_document_fetched_at": "2026-11-22T15:20:31.004450+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "6f4de8ad25bbacae81fe0a0ecfdfde3e91f4f3ea28ad3ad5e8b9e9ed66a620ba",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Rupesh Mohanrao Jadhav",
+      "address": "413208,OFFICE OF DY CME, C&W WORKSHOP, KURDUWADI - 413208",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Performance Parameters",
+          "parameter": "Rating (in KVA)",
+          "value": "6"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Input Voltage (AC, 50 Hz)",
+          "value": "Single Phase, 160V - 260V"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Output Voltage (AC, 50 Hz)",
+          "value": "Single Phase, 230V±1%,"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Availability of Inbuilt Isolation Transformer",
+          "value": "No"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Minimum Overload Capacity of Online UPS",
+          "value": "120% of Rating in KVA for 10 minutes, 150% of Rating in KVA for 60 seconds"
+        },
+        {
+          "group": "Battery/Backup Bank",
+          "parameter": "Type of Battery",
+          "value": "SMF-VRLA (Sealed Maintenance Free-Valve Regulated Lead Acid) / Stationary Lead Acid Batteries"
+        },
+        {
+          "group": "Battery/Backup Bank",
+          "parameter": "Backup Time",
+          "value": "240.0 (minute)"
+        },
+        {
+          "group": "Features",
+          "parameter": "Type of Mounting of Online UPS",
+          "value": "Floor Standing"
+        },
+        {
+          "group": "Features",
+          "parameter": "Ingress Protection",
+          "value": "IP20, IP21 Or higher"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Operating Conditions",
+          "parameter": "Operating Temperature Range (Lower Limit)",
+          "value": "- 5°C to 0°C"
+        },
+        {
+          "group": "Operating Conditions",
+          "parameter": "Operating Temperature Range (Upper Limit)",
+          "value": "35°C to 40°C"
+        },
+        {
+          "group": "Warranty And Reports",
+          "parameter": "Minimum Standard Warranty",
+          "value": "1.0 (year)"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses The material shall be supplied as per the prescribed specifications. The firm shall arrange for the installatio n and commissioning of a 6.0 KVA UPS system with 4 hours of backup, common for both SADS and D AWS, at its own cost. warranty period 02 Years ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8290021",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184368"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 30-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184368"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 01-12-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184368"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184368"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184368"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184368"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Central Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184368"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Central Railway Stores Deptt",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184368"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :dycmmadmin@cr.railnet.gov.in Buyer Email id: amm.kwv@cr.railnet.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184368"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184368"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Online UPS (?10 KVA) With Battery Conforming To IS 16242 (Part 1) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184368"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184368"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184368"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184368"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184368"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184368"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Rating (in KVA): 6 | Input Voltage (AC, 50 Hz): Single Phase, 160V - 260V | Output Voltage (AC, 50 Hz): Single Phase, 230V±1%, | Availability of Inbuilt Isolation Transformer: No | Minimum Overload Capacity of Online UPS: 120% of Rating in KVA for 10 minutes, 150% of Rating in KVA for 60 seconds | Type of Battery: SMF-VRLA (Sealed Maintenance Free-Valve Regulated Lead Acid) / Stationary Lead Acid Batteries | Backup Time: 240.0 (minute) | Type of Mounting of Online UPS: Floor Standing | Ingress Protection: IP20, IP21 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184368"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Operating Temperature Range (Lower Limit): - 5°C to 0°C | Operating Temperature Range (Upper Limit): 35°C to 40°C | Minimum Standard Warranty: 1.0 (year)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184368"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Rupesh Mohanrao Jadhav | 413208,OFFICE OF DY CME, C&W WORKSHOP, KURDUWADI - 413208 | 1 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184368"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses The material shall be supplied as per the prescribed specifications. The firm shall arrange for the installatio n and commissioning of a 6.0 KVA UPS system with 4 hours of backup, common for both SADS and D AWS, at its own cost. warranty period 02 Years .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184368"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

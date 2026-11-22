@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8298210",
   "title": "Data Warehousing Services - On-Prem / On-Cloud",
   "description": "Data Warehousing Services - On-Prem / On-Cloud",
-  "organisation": "Agriculture and Marketing Department Delhi",
-  "ministry": "",
-  "department": "Agriculture and Marketing Department Delhi",
+  "organisation": "Delhi Agricultural Marketing Board",
+  "ministry": "Delhi",
+  "department": "Agriculture And Marketing Department Delhi",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Data Warehousing Services - On-Prem / On-Cloud",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-20T12:50:26+05:30",
   "closing_at": "2026-11-30T13:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10193837"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": ":1795158165.pdf",
+      "url": "https://bidplus.gem.gov.in/resources/upload_nas/NovQ426/bidding/biddoc/bid-10193837/1795158165.pdf",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261120",
+      "page": 9
+    },
+    {
+      "name": "Service Level Agreement",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/bidsla/103914312782569",
+      "page": 9
     }
   ],
   "tags": [
@@ -34,5 +54,364 @@
   ],
   "source_fetched_at": "2026-11-21T21:15:36.213Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-01T13:00:00+05:30",
+  "office": "Janak Puri",
+  "buyer_email": "buycon4.damb.dl@gembuyer.in",
+  "emd_required": false,
+  "bidder_turnover_lakhs": 5,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Bidder Turnover,Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 27,
+  "offer_validity": "90 (Days)",
+  "estimated_bid_value": 317750,
+  "contract_period": "2 Year(s)",
+  "source_document_fetched_at": "2026-11-22T07:12:59.971170+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "c137b7c26075249f1c2703b6690c5471bd0df9099a038101b596b328c04b1f11",
+  "document_pages": 9,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 5 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Urmila Devi Verma",
+      "address": "110040,Agricultural Produce Marketing Committee, Narela, Delhi.",
+      "quantity": null,
+      "quantity_label": "Quantity",
+      "delivery_days": null,
+      "additional_requirements": "N/A"
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Use Case to be developed",
+          "value": "Real-time Data Warehousing"
+        },
+        {
+          "group": "Core",
+          "parameter": "Deployment of Data Warehouse Solution",
+          "value": "Service Provider Infra (On-Cloud) [Meity Empanelled CSP]"
+        },
+        {
+          "group": "Core",
+          "parameter": "Solution Type",
+          "value": "Commercial off-the-Shelf (COTS)"
+        },
+        {
+          "group": "Core",
+          "parameter": "Licensing Type",
+          "value": "Perpetual"
+        },
+        {
+          "group": "Core",
+          "parameter": "Storage Type",
+          "value": "Block Storage"
+        },
+        {
+          "group": "Core",
+          "parameter": "Storage on Prem",
+          "value": "Not Applicable"
+        },
+        {
+          "group": "Core",
+          "parameter": "Processors on Prem",
+          "value": "Not Applicable"
+        },
+        {
+          "group": "Core",
+          "parameter": "Memory On Prem",
+          "value": "Not Applicable"
+        },
+        {
+          "group": "Core",
+          "parameter": "Operating System on Prem",
+          "value": "Windows"
+        },
+        {
+          "group": "Core",
+          "parameter": "Security Audit on Prem",
+          "value": "NA"
+        },
+        {
+          "group": "Core",
+          "parameter": "Concurrent Users on Prem or On Cloud",
+          "value": "30"
+        },
+        {
+          "group": "Core",
+          "parameter": "Storage on Cloud",
+          "value": "512"
+        },
+        {
+          "group": "Core",
+          "parameter": "Serverless computing Virtual Instance on Cloud",
+          "value": "2vCPU"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Manpower Required",
+          "value": "No"
+        },
+        {
+          "group": "Core",
+          "parameter": "Skill Category",
+          "value": "Not Applicable"
+        },
+        {
+          "group": "Core",
+          "parameter": "Manpower Position Required",
+          "value": "Not Applicable"
+        },
+        {
+          "group": "Core",
+          "parameter": "Manpower Experience",
+          "value": "Not Applicable"
+        },
+        {
+          "group": "Core",
+          "parameter": "Deployment of Manpower",
+          "value": "Not Applicable"
+        },
+        {
+          "group": "Core",
+          "parameter": "Duration of ATS (Annual Technical Support)",
+          "value": "3 Years"
+        },
+        {
+          "group": "Core",
+          "parameter": "Annual Technical Support",
+          "value": "Off Site"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE 25% : The buyer can increase or decrease the contract quantity or contract duration up to 25 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 25 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 25 percent with the consent of the service provider 2. Provisions for workmen compensation, insurance, public liability, property damage, insurance etc. to be ensured by the contractor. Also, safety measures prescribed for working in Extra High Voltage & use of personnel protective equipment must be adhered to. 3. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free"
+    },
+    {
+      "page": 6,
+      "text": "Telephone No. for Service Support. 4. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 5. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in favour of SECRETARY APMC NARELA payable at APMC NARELA . After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of contract. 6. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Additional Term and conditions for hiring VPS server 1. The estimated contract value of this tender is Rs.3,17,750/- (Maximum) @ 02 year. 2. Hiring period of VPS server will be initially for two years and the same may be extended upto one or mo re years depending on satisfactory disposal of job. Any data loss or any other defect of the server should be taken care by the vendor. 3. The Contractor/vendor has to deposit a bank guarantee equivalent to 5% of the total NIQ value towards security deposit in favor of the APMC Narela. 4. TDS will be deducted as per Income Tax Act directly from the bills of the Contractor along with GST as p er rules. 5. The Service Provider has to provide the full control of the server to APMC Narela for remote updation etc . The updation of the Websites and its own customized application will be done by the APMC Narela or b y the person authorized by APMC, Narela only. 6. 24x7 Support from Server providing Party. 99.98% Uptime. 7. In order to provide uninterrupted services, the service provider must send a request letter to APMC, Nar ela for re-hiring of server 3 months prior to the expiry of the initial period. 8. The Data Centre should also track the health of servers, firewalls, load-balancers and other platform co mponents. The Data Centre should have the automated monitoring technologies which should provide al erts in the event of data center or device failures and the same should be communicated to APMC Narela immediately. 9. Service Provider should be an established Data Centre Services provider and should have been in this b usiness for a period not less than five years. 10. The service provider will be solely responsible for any data loss or data corrupt due to any kind of secu rity breech in the server or any kind of virus attack, penalty up to 50% of the contract value will be charg ed. 11. Service Provider shall not be under a declaration of ineligibility for corrupt or fraudulent practices or bl acklisted by any of the Government agencies. 12. The Firm/Company should have hosted the web services of at least 4 Government/Semi-Government/G overnment Undertaking/ Private Organizations. 13. In case of discontinuation of agreement by any of the party, the service provider is bound to handover all the files and data of the website without any delay & data in undisturbed manner. 14. In case the Service Provider fails to provide the services according to the terms and conditions of the o"
+    },
+    {
+      "page": 7,
+      "text": "rder, the amount of Security Deposit will be forfeited. 15. Bidder shall submit firms PAN card, GST no., Turn over certificate, experience certificate etc. Requirement/Technical Specifications: 1. Virtual Machine: 2 Virtual Central Processing Unit (vCPU) a. Random Access Memory (RAM): 32GB RAM b. Storage: 512 GB Storage Area Network (SAN) c. Operating System (OS): Windows Server 2019 STD or above d. Backup: Daily incremental backup, and weekly full back- e. up with a 1-month retention period. Plesk Panel: 10 Domain f. Bandwidth Allocation: Minimum 5 TB Data Transfer dow g. nload per month on shared Bandwidth or Unlimited. 2. Other Services: High Performance Multi-Threaded Gold CPU for concurrent access. a. High Speed NVME Storage for Quick Deployment and Application b. Execution Public and Private IPs c. Network redundant Firewall: Data Security with High End DDos Pr d. otected Firewall Network Load Balancer e. Support for configuration and management of servers. f. 24*7 Monitoring tool for cloud Infrastructure Performance Monitori g. ng Scalability: Flexible Scalability options to upgrade/downgrade Virt h. ual Infrastructure Secure Sockets Layer (SSL) certificate with yearly renewal for 5 sit i. es (two years). 24x7 Network Operations Center (NOC) support. j. Ticketing tool for raising Service Requests (SR). k."
+    },
+    {
+      "page": 8,
+      "text": "Backup report generation. l. Crash report generation. m. Public Internet Protocol (IP). n. Domain Name Service(DNS) management and Domain name hosti o. ng ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8298210",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193837"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 30-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193837"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 01-12-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193837"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193837"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Delhi",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193837"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Agriculture And Marketing Department Delhi",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193837"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Delhi Agricultural Marketing Board",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193837"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Janak Puri",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193837"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :ambdl@nic.in Buyer Email id: buycon4.damb.dl@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193837"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Data Warehousing Services - On-Prem / On-Cloud",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193837"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 2 Year(s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193837"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 5 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193837"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193837"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193837"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193837"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193837"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193837"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193837"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "(( )) / Estimated Bid Value in INR (Inclusive of all taxes): 317750",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193837"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193837"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 27",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193837"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193837"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193837"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Use Case to be developed: Real-time Data Warehousing | Deployment of Data Warehouse Solution: Service Provider Infra (On-Cloud) [Meity Empanelled CSP] | Solution Type: Commercial off-the-Shelf (COTS) | Licensing Type: Perpetual | Storage Type: Block Storage | Storage on Prem: Not Applicable | Processors on Prem: Not Applicable | Memory On Prem: Not Applicable | Operating System on Prem: Windows | Security Audit on Prem: NA | Concurrent Users on Prem or On Cloud: 30 | Storage on Cloud: 512 | Serverless computing Virtual Instance on Cloud: 2vCPU",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193837"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Manpower Required: No | Skill Category: Not Applicable | Manpower Position Required: Not Applicable | Manpower Experience: Not Applicable | Deployment of Manpower: Not Applicable | Duration of ATS (Annual Technical Support): 3 Years | Annual Technical Support: Off Site",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193837"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Additional Requirement: 1 | Urmila Devi Verma | 110040,Agricultural Produce Marketing Committee, Narela, Delhi. | Project / Lumpsum Based | N/A",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193837"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE 25% : The buyer can increase or decrease the contract quantity or contract duration up to 25 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 25 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 25 percent with the consent of the service provider 2. Provisions for workmen compensation, insurance, public liability, property damage, insurance etc. to be ensured by the contractor. Also, safety measures prescribed for working in Extra High Voltage & use of personnel protective equipment must be adhered to. 3. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193837"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "Telephone No. for Service Support. 4. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 5. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in favour of SECRETARY APMC NARELA payable at APMC NARELA . After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of contract. 6. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Additional Term and conditions for hiring VPS server 1. The estimated contract value of this tender is Rs.3,17,750/- (Maximum) @ 02 year. 2. Hiring period of VPS server will be initially for two years and the same may be extended upto one or mo re years depending on satisfactory disposal of job. Any data loss or any other defect of the server should be taken care by the vendor. 3. The Contractor/vendor has to deposit a bank guarantee equivalent to 5% of the total NIQ value towards security deposit in favor of the APMC Narela. 4. TDS will be deducted as per Income Tax Act directly from the bills of the Contractor along with GST as p er rules. 5. The Service Provider has to provide the full control of the server to APMC Narela for remote updation etc . The updation of the Websites and its own customized application will be done by the APMC Narela or b y the person authorized by APMC, Narela only. 6. 24x7 Support from Server providing Party. 99.98% Uptime. 7. In order to provide uninterrupted services, the service provider must send a request letter to APMC, Nar ela for re-hiring of server 3 months prior to the expiry of the initial period. 8. The Data Centre should also track the health of servers, firewalls, load-balancers and other platform co mponents. The Data Centre should have the automated monitoring technologies which should provide al erts in the event of data center or device failures and the same should be communicated to APMC Narela immediately. 9. Service Provider should be an established Data Centre Services provider and should have been in this b usiness for a period not less than five years. 10. The service provider will be solely responsible for any data loss or data corrupt due to any kind of secu rity breech in the server or any kind of virus attack, penalty up to 50% of the contract value will be charg ed. 11. Service Provider shall not be under a declaration of ineligibility for corrupt or fraudulent practices or bl acklisted by any of the Government agencies. 12. The Firm/Company should have hosted the web services of at least 4 Government/Semi-Government/G overnment Undertaking/ Private Organizations. 13. In case of discontinuation of agreement by any of the party, the service provider is bound to handover all the files and data of the website without any delay & data in undisturbed manner. 14. In case the Service Provider fails to provide the services according to the terms and conditions of the o",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193837"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "rder, the amount of Security Deposit will be forfeited. 15. Bidder shall submit firms PAN card, GST no., Turn over certificate, experience certificate etc. Requirement/Technical Specifications: 1. Virtual Machine: 2 Virtual Central Processing Unit (vCPU) a. Random Access Memory (RAM): 32GB RAM b. Storage: 512 GB Storage Area Network (SAN) c. Operating System (OS): Windows Server 2019 STD or above d. Backup: Daily incremental backup, and weekly full back- e. up with a 1-month retention period. Plesk Panel: 10 Domain f. Bandwidth Allocation: Minimum 5 TB Data Transfer dow g. nload per month on shared Bandwidth or Unlimited. 2. Other Services: High Performance Multi-Threaded Gold CPU for concurrent access. a. High Speed NVME Storage for Quick Deployment and Application b. Execution Public and Private IPs c. Network redundant Firewall: Data Security with High End DDos Pr d. otected Firewall Network Load Balancer e. Support for configuration and management of servers. f. 24*7 Monitoring tool for cloud Infrastructure Performance Monitori g. ng Scalability: Flexible Scalability options to upgrade/downgrade Virt h. ual Infrastructure Secure Sockets Layer (SSL) certificate with yearly renewal for 5 sit i. es (two years). 24x7 Network Operations Center (NOC) support. j. Ticketing tool for raising Service Requests (SR). k.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193837"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "Backup report generation. l. Crash report generation. m. Public Internet Protocol (IP). n. Domain Name Service(DNS) management and Domain name hosti o. ng .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193837"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

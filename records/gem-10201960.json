@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8305202",
   "title": "Electric Cars (V4)",
   "description": "Electric Cars (V4)",
-  "organisation": "Higher Education Department Kerala",
-  "ministry": "",
+  "organisation": "University Of Kerala",
+  "ministry": "Kerala",
   "department": "Higher Education Department Kerala",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Electric Cars (V4)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 27300,
   "published_at": "2026-11-22T17:31:45+05:30",
   "closing_at": "2026-12-03T18:00:00+05:30",
   "status": "active",
@@ -27,6 +27,16 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10201960"
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/TysnB5QBZCswHjGZTOdBDIv1tdpdf82XYHg2pcK5GqU",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261122",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +44,327 @@
   ],
   "source_fetched_at": "2026-11-22T21:25:55.726Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-04T18:00:00+05:30",
+  "office": "Thiruvananthapuram",
+  "buyer_email": "jointregadmn.ku@kerala.gov.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 5,
+  "oem_turnover_lakhs": 10,
+  "experience_years": 1,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-22T23:34:35.582426+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "02a34a6247af46abd7ba6798154f4b13e26d1d7d502720a271bb8f3a3cbcf602",
+  "document_pages": 7,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 5 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 10 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 1 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: GeM verified turnover (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 80 % (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Mohamed Hashir A",
+      "address": "695034,UNIVERSITY OF KERALA, SENATE HOUSE CAMPUS",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 60
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Generic Parameters",
+          "parameter": "Power Drive",
+          "value": "Electric Motor"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Body Type",
+          "value": "Compact SUV"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Driving Range (Mileage) with Fully Charged Battery as per Test Report (Kms)",
+          "value": "<= 200 km, >200<=300 km, >300<=400 km, >400<=500 km, >500 km Or higher"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Motor Type",
+          "value": "Permanent Magnet Synchronous Motor (PMSM)"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Max Motor Power (kW) as per Test Report",
+          "value": "95.0 - 400.0 Or higher (kiloWatt)"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Transmission",
+          "value": "Automatic"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Traction Battery Capacity (kWh)",
+          "value": "40.0 - 150.0 Or higher"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Power Regeneration Facility",
+          "value": "Yes"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Seating Capacity Including Driver",
+          "value": "5.0 - 9.0 Or higher"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Ground Clearance (As Per Test Report) (mm)",
+          "value": "170.0 - 300.0 Or higher (millimeter)"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Steering Type",
+          "value": "Power Steering / Electrically Power Assisted"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Boot Space (Liter)",
+          "value": "366.0 Or higher (liter)"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Gross Weight (Kg)",
+          "value": "1730.0 - 4500.0 Or higher (kilogram)"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Tyre Type",
+          "value": "Tubeless"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Front Vehicle Brake",
+          "value": "Disc Brake Or higher"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Rear Vehicle Brake",
+          "value": "Drum Brake, Disc Brake Or higher"
+        },
+        {
+          "group": "Constructional Parameters",
+          "parameter": "Type of Rim of Main Wheels",
+          "value": "Steel, Alloy Wheel Or higher"
+        },
+        {
+          "group": "Constructional Parameters",
+          "parameter": "Number of Airbags",
+          "value": "6.0 - 8.0 Or higher"
+        },
+        {
+          "group": "Charger Parameters",
+          "parameter": "Portable AC Charger / Portable Charging Cable with Vehicle",
+          "value": "Yes"
+        },
+        {
+          "group": "Charger Parameters",
+          "parameter": "Capacity of Portable AC Charger / Portable Charging Cable with Vehicle (kW)",
+          "value": "3.3 Or higher (kiloWatt)"
+        },
+        {
+          "group": "Charger Parameters",
+          "parameter": "Wall Mounted AC Charger with Vehicle",
+          "value": "Yes"
+        },
+        {
+          "group": "Charger Parameters",
+          "parameter": "Capacity of Wall Mounted AC Charger with Vehicle (kW)",
+          "value": "3.3 Or higher (kiloWatt)"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8305202",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10201960"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 03-12-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10201960"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 04-12-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10201960"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10201960"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Kerala",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10201960"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Higher Education Department Kerala",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10201960"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: University Of Kerala",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10201960"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Thiruvananthapuram",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10201960"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :registrar.ku@kerala.gov.in Buyer Email id: jointregadmn.ku@kerala.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10201960"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10201960"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Electric Cars (V4) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10201960"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 5 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10201960"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 10 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10201960"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 1 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10201960"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: GeM verified turnover",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10201960"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10201960"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10201960"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10201960"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 80 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10201960"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10201960"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 27300",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10201960"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 27300",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10201960"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10201960"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Power Drive: Electric Motor | Body Type: Compact SUV | Driving Range (Mileage) with Fully Charged Battery as per Test Report (Kms): <= 200 km, >200<=300 km, >300<=400 km, >400<=500 km, >500 km Or higher | Motor Type: Permanent Magnet Synchronous Motor (PMSM) | Max Motor Power (kW) as per Test Report: 95.0 - 400.0 Or higher (kiloWatt) | Transmission: Automatic | Traction Battery Capacity (kWh): 40.0 - 150.0 Or higher | Power Regeneration Facility: Yes | Seating Capacity Including Driver: 5.0 - 9.0 Or higher | Ground Clearance (As Per Test Report) (mm): 170.0 - 300.0 Or higher (millimeter) | Steering Type: Power Steering / Electrically Power Assisted | Boot Space (Liter): 366.0 Or higher (liter) | Gross Weight (Kg): 1730.0 - 4500.0 Or higher (kilogram) | Tyre Type: Tubeless | Front Vehicle Brake: Disc Brake Or higher | Rear Vehicle Brake: Drum Brake, Disc Brake Or higher | Type of Rim of Main Wheels: Steel, Alloy Wheel Or higher | Number of Airbags: 6.0 - 8.0 Or higher | Portable AC Charger / Portable Charging Cable with Vehicle: Yes | Capacity of Portable AC Charger / Portable Charging Cable with Vehicle (kW): 3.3 Or higher (kiloWatt) | Wall Mounted AC Charger with Vehicle: Yes | Capacity of Wall Mounted AC Charger with Vehicle (kW): 3.3 Or higher (kiloWatt)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10201960"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Mohamed Hashir A | 695034,UNIVERSITY OF KERALA, SENATE HOUSE CAMPUS | 1 | 60",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10201960"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10201960"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

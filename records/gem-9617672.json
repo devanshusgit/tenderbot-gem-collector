@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/7796671",
   "title": "Online UPS (>10 KVA) Without Battery",
   "description": "Online UPS (>10 KVA) Without Battery",
-  "organisation": "Ministry of Information and Broadcasting",
-  "ministry": "Ministry of Information and Broadcasting",
-  "department": "Ministry of Information and Broadcasting",
+  "organisation": "All India Radio",
+  "ministry": "Ministry Of Information And Broadcasting",
+  "department": "Ministry Of Information And Broadcasting",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Online UPS (>10 KVA) Without Battery",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-08-17T11:02:36+05:30",
   "closing_at": "2026-11-26T11:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/R0AyBSdRNYykgNo4DA4rPN1RL6xvBWCDeJ8NPyjtTIo",
+      "page": 5
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Jul/GEM_2026_B_7796671/CLM0010/ATC_69d3d454-2c3e-4ee6-97741784201575582_sk_pradhan.pdf",
+      "page": 11
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20260817",
+      "page": 13
     }
   ],
   "tags": [
@@ -34,5 +54,321 @@
   ],
   "source_fetched_at": "2026-11-20T23:29:53.932Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "office": "All India Radio Lucknow",
+  "buyer_email": "skpradhan3@prasarbharati.gov.in",
+  "emd_required": false,
+  "bidder_turnover_lakhs": 2,
+  "oem_turnover_lakhs": 20,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience: Yes | Complete",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 3,
+  "epbg_duration_months": 38,
+  "offer_validity": "180 (Days)",
+  "estimated_bid_value": 493000,
+  "source_document_fetched_at": "2026-11-22T16:12:57.427675+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "228f65e3c9fb3cf3451154d756cbb16d6b895787b483fabbc4094434d2f29093",
+  "document_pages": 13,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 2 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 20 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: GeM verified turnover (GeM PDF, p. 1)",
+    "MSE Relaxation for Years Of Experience: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 80 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Puneet Kumar Sahu",
+      "address": "284128,All India Radio, Near Medical College, Kanpur Road Jhansi - 284128 (UP)",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Performance Parameters",
+          "parameter": "Rating (in KVA)",
+          "value": "40"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Input Voltage (AC, 50 Hz)",
+          "value": "Three Phase, 300 V - 450V"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Output Voltage (AC, 50 Hz)",
+          "value": "Three Phase, 415V±1% (Variable range: 380V - 415V)"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Availability of Inbuilt Isolation Transformer",
+          "value": "No"
+        },
+        {
+          "group": "Construction",
+          "parameter": "Minimum Overload Capacity of Online UPS",
+          "value": "120% of Rating in KVA for 10 minutes, 150% of Rating in KVA for 60 seconds"
+        },
+        {
+          "group": "Features",
+          "parameter": "Type of Mounting of Online UPS",
+          "value": "Floor Standing"
+        },
+        {
+          "group": "Features",
+          "parameter": "Ingress Protection",
+          "value": "IP20, IP21 Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 7,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address as per bid document as per bid document as per bid document as per bid document as per bid document . 3. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 4. Generic Bidders shall quote only those products (Part of Service delivery) in the bid which are not obsolete in the market and has at least 3 years residual market life i.e. the offered product shall not be declared end-of- life by the OEM before this period. 5. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 6. Generic"
+    },
+    {
+      "page": 8,
+      "text": "Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of technical parameters, the bid is liable for rejection. 7. Generic Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU for 3 years before the bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the primary product having highest value should meet this criterion. 8. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 9. Generic Shelf Life: The Product/Spare parts to be supplied as part of the services must have minimum 10 year Shelf Life. On the date of supply, minimum 10 year usable shelf life should be available / balance. 10. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 11. Generic The successful bidder has to supply all essential accessories required for the successful installation and commissioning of the goods supplied. Besides standard accessories as per normal industry practice, following accessories must be part of supply and cost should be included in bid price: as per bid for supply, installation, commisioning and testing . 12. Generic While generating invoice in GeM portal, the seller must upload scanned copy of GST invoice and the screenshot of GST portal confirming payment of GST. 13. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 14. Turnover Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. 15. Turnover OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product"
+    },
+    {
+      "page": 9,
+      "text": "during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of CATEGORY RELATED TO primary product having highest bid value should meet this criterion. 16. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 17. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 18. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 19. Inspection Pre-dispatch inspection at Seller premises (Fee/Charges to be borne by the BUYER): Before dispatch, the goods will be inspected by Buyer / Consignee or their Authorized Representative or by Nominated External Inspection Agency (independently or jointly with Buyer or Consignee as decided by the Buyer) at Seller premises (or at designated place for inspection as declared / communicated by the seller) for their compliance to the contract specifications. Fee/Charges taken by the External inspection Agency and any external laboratories testing charges shall be borne by the Buyer. For in-house testing, the Sellers will provide necessary facilities free of cost. Seller shall notify the Buyer through e-mail about readiness of goods for pre-dispatch inspection and Buyer will notify the Seller about the Authorized Representative/ Nominated External Inspection Agency and the date for testing. The goods would be dispatched to consignee only after clearance in pre-dispatch inspection. Consignee's right of rejection as per GTC in respect of the goods finally received at his location shall in no way be limited or waived by reason of the goods having previously been inspected, tested and passed by Buyer/ Consignee or its Nominated External Inspection Agency prior to the goods' shipment. While bidding, the sellers should take into account 7 days for inspection from the date of email offering the goods for inspection. Any delay in inspection beyond 7 days shall be on the part of the buyer and shall be regularised without Liquidated Damages. When there is requirement of submission the advance sample, the seller shall inform the buyer promptly through emails about the date of submission of sample to the buyer nominated Inspection agency. 20. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 21. Certificates ISO 9001: The bidder or the OEM of the offered products must have ISO 9001 certification. 22. Certificates Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked by Buyer’s Lab & the Results of the Lab will be the Sole Criteria for Acceptance of the Item. 23. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in"
+    },
+    {
+      "page": 10,
+      "text": "the bid document. 24. Certificates To be eligible for award of contract, Bidder / OEM must possess following Certificates / Test Reports on the date of bid opening (to be uploaded with bid): Factory Test certificate, ISO, BIS, Performance and Safety Certificate also 3 years warranty certificate on O EM letter Head . 25. Warranty Timely Servicing / rectification of defects during warranty period: After having been notified of the defects / service requirement during warranty period, Seller has to complete the required Service / Rectification within 3 days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the Buyer. 26. Warranty Successful bidder will have to ensure that adequate number of dedicated technical service personals / engineers are designated / deployed for attending to the Service Request in a time bound manner and for ensuring Timely Servicing / rectification of defects during warranty period, as per Service level agreement indicated in the relevant clause of the bid. 27. Warranty Warranty period of the supplied products shall be 3 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 28. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in favour of DDO Akashvani Lucknow payable at lucknow . After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of contract. 29. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of DDO, Akashvani Lucknow A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract."
+    },
+    {
+      "page": 11,
+      "text": "30. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 31. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1) INFORMATION TO BE SUPPLIED ALONG WITH EQUIPMENT: Two Sets of Technical manuals (for Installation, Testing, Commissioning, Operation & Maintenance, including theory of operation and fault diagnosis, circuit diagrams) COLOUR printed and duly bound for UPS system inclu ding Battery Bank and Isolation Transformer alongwith final performance mea surements with soft copy on CD shall be supplied to concerned office and c onsignee. 2) GUARANTEE: The tenderer shall submit with his tender an undertaking to accept the f ollowing guarantees: (a) A guarantee to supply all components for a period of ten years from the date of acceptance of Equipments/items, at rates at which these are bei ng supplied by him to other customers and also should match prices of original manufacturers of these components prevailing at that ti me. (b) If at any stage during next 10 years, the manufacturer stops productio n of this model of Equipments/items, the tenderer/OEM shall intimate All I ndia Radio in advance to enable the latter to stock the critical items. 3) Operation and Maintenance Manual a) The detailed procedure for troubleshooting of the UPS System preferabl y up to component level should be available in the manual. Various test fi xtures and accessories required for the maintenance/ repair of the UPS Sy stem should be clearly described and detailed out in this manual. The syst ematic trouble shooting/ fault tree and flow diagram should be provided f or diagnosis of the fault with its remedial measures in this manual. b) The various assemblies/sub-assemblies, PCBs, Parts and Components s hould be clearly marked to define their functions. The schematic diagram s and references should be described in such a way so that the parts/asse mblies/PCBs etc. can easily be identified from the components layout diag ram provided in the manual. c) All the controls, switches, knobs, interfaces and indications should be cle arly marked to show their circuit designation and functions. 3) EMD Bidder can also submitt the EMD @ 2% of estemated cost Rs. 9860/- with account payee DD/FDR in favour of payable at DDO, Akashvani Lucknow."
+    },
+    {
+      "page": 12,
+      "text": "Bidder has to upload scanned copy/proof of the DD/FDR along with bid an d has to ensure delivery of hard copy of DD/FDR to the buyer within 5 day s of bid end date/bid opening date. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/7796671",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    },
+    {
+      "field": "document_closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 29-08-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    },
+    {
+      "field": "document_opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 29-08-2026 12:30:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Information And Broadcasting",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Ministry Of Information And Broadcasting",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: All India Radio",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: All India Radio Lucknow",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :rbsingh@prasarbharati.gov.in Buyer Email id: skpradhan3@prasarbharati.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Online UPS (>10 KVA) Without Battery (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "((33 )) /Minimum Average Annual Turnover of the bidder (For 3 Years): 2 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 20 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: GeM verified turnover",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 80 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 493000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 3.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 38",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Rating (in KVA): 40 | Input Voltage (AC, 50 Hz): Three Phase, 300 V - 450V | Output Voltage (AC, 50 Hz): Three Phase, 415V±1% (Variable range: 380V - 415V) | Availability of Inbuilt Isolation Transformer: No | Minimum Overload Capacity of Online UPS: 120% of Rating in KVA for 10 minutes, 150% of Rating in KVA for 60 seconds | Type of Mounting of Online UPS: Floor Standing | Ingress Protection: IP20, IP21 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Puneet Kumar Sahu | 284128,All India Radio, Near Medical College, Kanpur Road Jhansi - 284128 (UP) | 1 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address as per bid document as per bid document as per bid document as per bid document as per bid document . 3. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 4. Generic Bidders shall quote only those products (Part of Service delivery) in the bid which are not obsolete in the market and has at least 3 years residual market life i.e. the offered product shall not be declared end-of- life by the OEM before this period. 5. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 6. Generic",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of technical parameters, the bid is liable for rejection. 7. Generic Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU for 3 years before the bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the primary product having highest value should meet this criterion. 8. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 9. Generic Shelf Life: The Product/Spare parts to be supplied as part of the services must have minimum 10 year Shelf Life. On the date of supply, minimum 10 year usable shelf life should be available / balance. 10. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 11. Generic The successful bidder has to supply all essential accessories required for the successful installation and commissioning of the goods supplied. Besides standard accessories as per normal industry practice, following accessories must be part of supply and cost should be included in bid price: as per bid for supply, installation, commisioning and testing . 12. Generic While generating invoice in GeM portal, the seller must upload scanned copy of GST invoice and the screenshot of GST portal confirming payment of GST. 13. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 14. Turnover Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. 15. Turnover OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of CATEGORY RELATED TO primary product having highest bid value should meet this criterion. 16. OEM IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a registered office in India to provide after sales service support in India. The certificate to this effect should be submitted. 17. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 18. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 19. Inspection Pre-dispatch inspection at Seller premises (Fee/Charges to be borne by the BUYER): Before dispatch, the goods will be inspected by Buyer / Consignee or their Authorized Representative or by Nominated External Inspection Agency (independently or jointly with Buyer or Consignee as decided by the Buyer) at Seller premises (or at designated place for inspection as declared / communicated by the seller) for their compliance to the contract specifications. Fee/Charges taken by the External inspection Agency and any external laboratories testing charges shall be borne by the Buyer. For in-house testing, the Sellers will provide necessary facilities free of cost. Seller shall notify the Buyer through e-mail about readiness of goods for pre-dispatch inspection and Buyer will notify the Seller about the Authorized Representative/ Nominated External Inspection Agency and the date for testing. The goods would be dispatched to consignee only after clearance in pre-dispatch inspection. Consignee's right of rejection as per GTC in respect of the goods finally received at his location shall in no way be limited or waived by reason of the goods having previously been inspected, tested and passed by Buyer/ Consignee or its Nominated External Inspection Agency prior to the goods' shipment. While bidding, the sellers should take into account 7 days for inspection from the date of email offering the goods for inspection. Any delay in inspection beyond 7 days shall be on the part of the buyer and shall be regularised without Liquidated Damages. When there is requirement of submission the advance sample, the seller shall inform the buyer promptly through emails about the date of submission of sample to the buyer nominated Inspection agency. 20. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 21. Certificates ISO 9001: The bidder or the OEM of the offered products must have ISO 9001 certification. 22. Certificates Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked by Buyer’s Lab & the Results of the Lab will be the Sole Criteria for Acceptance of the Item. 23. Certificates The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test certificate, approval certificates and other certificates as prescribed in the Product Specification given in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "the bid document. 24. Certificates To be eligible for award of contract, Bidder / OEM must possess following Certificates / Test Reports on the date of bid opening (to be uploaded with bid): Factory Test certificate, ISO, BIS, Performance and Safety Certificate also 3 years warranty certificate on O EM letter Head . 25. Warranty Timely Servicing / rectification of defects during warranty period: After having been notified of the defects / service requirement during warranty period, Seller has to complete the required Service / Rectification within 3 days time limit. If the Seller fails to complete service / rectification with defined time limit, a penalty of 0.5% of Unit Price of the product shall be charged as penalty for each week of delay from the seller. Seller can deposit the penalty with the Buyer directly else the Buyer shall have a right to recover all such penalty amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than 10% of the total contract value after which the Buyer shall have the right to get the service / rectification done from alternate sources at the risk and cost of the Seller besides forfeiture of PBG. Seller shall be liable to re-imberse the cost of such service / rectification to the Buyer. 26. Warranty Successful bidder will have to ensure that adequate number of dedicated technical service personals / engineers are designated / deployed for attending to the Service Request in a time bound manner and for ensuring Timely Servicing / rectification of defects during warranty period, as per Service level agreement indicated in the relevant clause of the bid. 27. Warranty Warranty period of the supplied products shall be 3 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 28. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in favour of DDO Akashvani Lucknow payable at lucknow . After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of contract. 29. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Fixed Deposit Receipt also (besides PBG which is allowed as per GeM GTC). FDR should be made out or pledged in the name of DDO, Akashvani Lucknow A/C (Name of the Seller). The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of Security Deposit, the FDR will be released in favour of bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Successful Bidder has to upload scanned copy of the FDR document in place of PBG and has to ensure delivery of hard copy of Original FDR to the Buyer within 15 days of award of contract.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 11,
+      "quote": "30. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file. 31. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1) INFORMATION TO BE SUPPLIED ALONG WITH EQUIPMENT: Two Sets of Technical manuals (for Installation, Testing, Commissioning, Operation & Maintenance, including theory of operation and fault diagnosis, circuit diagrams) COLOUR printed and duly bound for UPS system inclu ding Battery Bank and Isolation Transformer alongwith final performance mea surements with soft copy on CD shall be supplied to concerned office and c onsignee. 2) GUARANTEE: The tenderer shall submit with his tender an undertaking to accept the f ollowing guarantees: (a) A guarantee to supply all components for a period of ten years from the date of acceptance of Equipments/items, at rates at which these are bei ng supplied by him to other customers and also should match prices of original manufacturers of these components prevailing at that ti me. (b) If at any stage during next 10 years, the manufacturer stops productio n of this model of Equipments/items, the tenderer/OEM shall intimate All I ndia Radio in advance to enable the latter to stock the critical items. 3) Operation and Maintenance Manual a) The detailed procedure for troubleshooting of the UPS System preferabl y up to component level should be available in the manual. Various test fi xtures and accessories required for the maintenance/ repair of the UPS Sy stem should be clearly described and detailed out in this manual. The syst ematic trouble shooting/ fault tree and flow diagram should be provided f or diagnosis of the fault with its remedial measures in this manual. b) The various assemblies/sub-assemblies, PCBs, Parts and Components s hould be clearly marked to define their functions. The schematic diagram s and references should be described in such a way so that the parts/asse mblies/PCBs etc. can easily be identified from the components layout diag ram provided in the manual. c) All the controls, switches, knobs, interfaces and indications should be cle arly marked to show their circuit designation and functions. 3) EMD Bidder can also submitt the EMD @ 2% of estemated cost Rs. 9860/- with account payee DD/FDR in favour of payable at DDO, Akashvani Lucknow.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 12,
+      "quote": "Bidder has to upload scanned copy/proof of the DD/FDR along with bid an d has to ensure delivery of hard copy of DD/FDR to the buyer within 5 day s of bid end date/bid opening date. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9617672"
+    }
+  ],
+  "detail_warning": "The original PDF dates differ from the current public GeM listing. The listing closing date is retained. Confirm the latest opening date and any corrigenda on GeM; the original PDF opening date is not presented as current.",
+  "document_closing_at": "2026-08-29T12:00:00+05:30",
+  "document_opening_at": "2026-08-29T12:30:00+05:30",
+  "date_discrepancy": {
+    "listing_closing_at": "2026-11-26T11:00:00+05:30",
+    "document_closing_at": "2026-08-29T12:00:00+05:30",
+    "document_opening_at": "2026-08-29T12:30:00+05:30"
+  }
 }

@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/7412711",
   "title": "Firewall - NGFW",
   "description": "Firewall - NGFW",
-  "organisation": "Department of Health Research",
-  "ministry": "Ministry of Health and Family Welfare",
-  "department": "Department of Health Research",
+  "organisation": "Indian Council Of Medical Research (icmr)",
+  "ministry": "Ministry Of Health And Family Welfare",
+  "department": "Department Of Health Research",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Firewall - NGFW",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-04-02T19:36:41+05:30",
   "closing_at": "2026-11-27T11:00:00+05:30",
   "status": "active",
@@ -27,6 +27,31 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/9187461"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/aDaFWggKWbPQ1loCXpRM6ILEC0JJDur-QKCl8LV2j2Y",
+      "page": 5
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Apr/GEM_2026_B_7412711/CLM0010/sp_0239e6d1-0636-419f-85321775138498865_vcrc093.py@gov.in.pdf",
+      "page": 7
+    },
+    {
+      "name": "attached categories,",
+      "url": "https://assets-bg.gem.gov.in/resources/upload/shared_doc/list-of-categories-where-trials-are-allowed_1712126171.pdf",
+      "page": 8
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20260402",
+      "page": 9
     }
   ],
   "tags": [
@@ -34,5 +59,293 @@
   ],
   "source_fetched_at": "2026-11-21T04:24:38.334Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "office": "Puducherry",
+  "emd_required": false,
+  "bidder_turnover_lakhs": 8,
+  "oem_turnover_lakhs": 60,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 38,
+  "offer_validity": "180 (Days)",
+  "estimated_bid_value": 1700000,
+  "source_document_fetched_at": "2026-11-22T16:13:48.734750+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "f2ea2d33e19c0e1b35b2f7191d7864a2bd47550563a95e23597be7822939ae6e",
+  "document_pages": 9,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 8 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 60 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 50 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Mohan Rao Peyyela",
+      "address": "605006,Indira Nagar",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Specification",
+          "parameter": "Form Factor (RU)",
+          "value": "1"
+        },
+        {
+          "group": "Specification",
+          "parameter": "Type",
+          "value": "NGFW Or higher"
+        },
+        {
+          "group": "Specification",
+          "parameter": "Features",
+          "value": "Layer 3 - Layer 4, NAT, VPN, Application Visibility and Control (AVC), User Identity, Next Generation Intrusion Prevention System (IPS), Web Security Essentials / URL Filtering"
+        },
+        {
+          "group": "Specification",
+          "parameter": "Packet Size (KB)",
+          "value": "1024 Or higher"
+        },
+        {
+          "group": "Specification",
+          "parameter": "Throughput with all features enabled(Under Test Condition) (Mbps)",
+          "value": "4750, 5000, 6000, 7000, 8500, 9000, 10000, 11000, 12000, 13000, 15000, 19000, 20000, 22000, 25000, 26000, 27000, 29000, 30000, 32000, 34000, 35000, 39000, 40000, 42000, 43000, 44000, 45000, 48000, 50000, 52000, 54000, 55000, 60000, 64000, 69000, 70000, 75000, 80000, 95000, 120000, 130000, 132000, 148000, 153000, 168000, 234000, 260000, 285000, 570000, 1200000 Or higher"
+        },
+        {
+          "group": "Specification",
+          "parameter": "Throughput (Real World/Prod Performance) (Under Test Condition) (Mbps)",
+          "value": "4600, 4700, 4750, 5000, 6000, 7000, 8500, 9000, 9216, 10000, 11000, 12000, 13000, 15000, 19000, 20000, 21000, 22000, 23000, 25000, 26000, 27000, 29000, 30000, 32000, 33500, 34000, 35000, 39000, 40000, 42000, 43000, 45000, 48000, 50000, 53000, 54000, 55000, 60000, 64000, 65000, 69000, 70000, 75000, 120000, 130000, 132000, 135000, 148000, 153000, 168000, 234000, 260000, 320000 Or higher"
+        },
+        {
+          "group": "Specification",
+          "parameter": "Concurrent Session/Concurrent Connection",
+          "value": "4M, 5M, 8M, 9M, 10M, 15M, 20M, 25M, 30M, 32M, 35M, 39.5M, 40M, 55M, 60M, 63M, 64M Or higher"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "New session/Connection per second",
+          "value": "118K, 120K, 130K, 150K, 160K, 172K, 175K, 185K, 200K, 250K, 263K, 265K, 284K, 295K, 300K, 350K, 380K, 390K, 450K, 490K, 500K, 800K, 848K, 850K, 900K, 1.1M, 1.75M, 3.5M, 7.5M, 225K, 425K Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "If Yes, High Availability from day 1",
+          "value": "active-active, active-passive, NA Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "On Site OEM Warranty (Year)",
+          "value": "3, 5 Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Experience Certificate for the supply of the same to any Govt/ PSU/ any renowned private organisation along with Supply/ Purchase Order. 2. If the agency is registered under MSME or NSIC, then EMD exemption certificate needs to be enclosed. 3. Make in india specific authorisation certificate needs to be enclosed. 4. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 5. Generic Bidders shall quote only those products (Part of Service delivery) in the bid which are not obsolete in the market and has at least 3 years residual market life i.e. the offered product shall not be declared end-of- life by the OEM before this period. 6. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any"
+    },
+    {
+      "page": 7,
+      "text": "responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 7. Generic 1. The Seller shall not assign the Contract in whole or part without obtaining the prior written consent of buyer. 2. The Seller shall not sub-contract the Contract in whole or part to any entity without obtaining the prior written consent of buyer. 3. The Seller shall, notwithstanding the consent and assignment/sub-contract, remain jointly and severally liable and responsible to buyer together with the assignee/ sub-contractor, for and in respect of the due performance of the Contract and the Sellers obligations there under. 8. Generic Without prejudice to Buyer’s right to price adjustment by way of discount or any other right or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a written notice to the Seller, if: i) The Seller fails to comply with any material term of the Contract. ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within the stipulated Delivery Period or such inability otherwise becomes apparent. iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery Period and/or to replace/rectify any rejected or defective Material(s) promptly. iv) The Seller becomes bankrupt or goes into liquidation. v) The Seller makes a general assignment for the benefit of creditors. vi) A receiver is appointed for any substantial property owned by the Seller. vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has placed the Purchase Order on the Seller. 9. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 10. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 11. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 12. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 13. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/7412711",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9187461"
+    },
+    {
+      "field": "document_closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 24-04-2026 10:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9187461"
+    },
+    {
+      "field": "document_opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 24-04-2026 10:30:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9187461"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9187461"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Health And Family Welfare",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9187461"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Health Research",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9187461"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Council Of Medical Research (icmr)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9187461"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Puducherry",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9187461"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9187461"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Firewall - NGFW (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9187461"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "((33 )) /Minimum Average Annual Turnover of the bidder (For 3 Years): 8 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9187461"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 60 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9187461"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9187461"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9187461"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9187461"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9187461"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 50 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9187461"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9187461"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 1700000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9187461"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9187461"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9187461"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9187461"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 38",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9187461"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Form Factor (RU): 1 | Type: NGFW Or higher | Features: Layer 3 - Layer 4, NAT, VPN, Application Visibility and Control (AVC), User Identity, Next Generation Intrusion Prevention System (IPS), Web Security Essentials / URL Filtering | Packet Size (KB): 1024 Or higher | Throughput with all features enabled(Under Test Condition) (Mbps): 4750, 5000, 6000, 7000, 8500, 9000, 10000, 11000, 12000, 13000, 15000, 19000, 20000, 22000, 25000, 26000, 27000, 29000, 30000, 32000, 34000, 35000, 39000, 40000, 42000, 43000, 44000, 45000, 48000, 50000, 52000, 54000, 55000, 60000, 64000, 69000, 70000, 75000, 80000, 95000, 120000, 130000, 132000, 148000, 153000, 168000, 234000, 260000, 285000, 570000, 1200000 Or higher | Throughput (Real World/Prod Performance) (Under Test Condition) (Mbps): 4600, 4700, 4750, 5000, 6000, 7000, 8500, 9000, 9216, 10000, 11000, 12000, 13000, 15000, 19000, 20000, 21000, 22000, 23000, 25000, 26000, 27000, 29000, 30000, 32000, 33500, 34000, 35000, 39000, 40000, 42000, 43000, 45000, 48000, 50000, 53000, 54000, 55000, 60000, 64000, 65000, 69000, 70000, 75000, 120000, 130000, 132000, 135000, 148000, 153000, 168000, 234000, 260000, 320000 Or higher | Concurrent Session/Concurrent Connection: 4M, 5M, 8M, 9M, 10M, 15M, 20M, 25M, 30M, 32M, 35M, 39.5M, 40M, 55M, 60M, 63M, 64M Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9187461"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "New session/Connection per second: 118K, 120K, 130K, 150K, 160K, 172K, 175K, 185K, 200K, 250K, 263K, 265K, 284K, 295K, 300K, 350K, 380K, 390K, 450K, 490K, 500K, 800K, 848K, 850K, 900K, 1.1M, 1.75M, 3.5M, 7.5M, 225K, 425K Or higher | If Yes, High Availability from day 1: active-active, active-passive, NA Or higher | On Site OEM Warranty (Year): 3, 5 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9187461"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Mohan Rao Peyyela | 605006,Indira Nagar | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9187461"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Experience Certificate for the supply of the same to any Govt/ PSU/ any renowned private organisation along with Supply/ Purchase Order. 2. If the agency is registered under MSME or NSIC, then EMD exemption certificate needs to be enclosed. 3. Make in india specific authorisation certificate needs to be enclosed. 4. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 5. Generic Bidders shall quote only those products (Part of Service delivery) in the bid which are not obsolete in the market and has at least 3 years residual market life i.e. the offered product shall not be declared end-of- life by the OEM before this period. 6. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9187461"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 7. Generic 1. The Seller shall not assign the Contract in whole or part without obtaining the prior written consent of buyer. 2. The Seller shall not sub-contract the Contract in whole or part to any entity without obtaining the prior written consent of buyer. 3. The Seller shall, notwithstanding the consent and assignment/sub-contract, remain jointly and severally liable and responsible to buyer together with the assignee/ sub-contractor, for and in respect of the due performance of the Contract and the Sellers obligations there under. 8. Generic Without prejudice to Buyer’s right to price adjustment by way of discount or any other right or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a written notice to the Seller, if: i) The Seller fails to comply with any material term of the Contract. ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within the stipulated Delivery Period or such inability otherwise becomes apparent. iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery Period and/or to replace/rectify any rejected or defective Material(s) promptly. iv) The Seller becomes bankrupt or goes into liquidation. v) The Seller makes a general assignment for the benefit of creditors. vi) A receiver is appointed for any substantial property owned by the Seller. vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has placed the Purchase Order on the Seller. 9. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 10. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 11. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 12. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 13. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/9187461"
+    }
+  ],
+  "detail_warning": "The original PDF dates differ from the current public GeM listing. The listing closing date is retained. Confirm the latest opening date and any corrigenda on GeM; the original PDF opening date is not presented as current.",
+  "document_closing_at": "2026-04-24T10:00:00+05:30",
+  "document_opening_at": "2026-04-24T10:30:00+05:30",
+  "date_discrepancy": {
+    "listing_closing_at": "2026-11-27T11:00:00+05:30",
+    "document_closing_at": "2026-04-24T10:00:00+05:30",
+    "document_opening_at": "2026-04-24T10:30:00+05:30"
+  }
 }

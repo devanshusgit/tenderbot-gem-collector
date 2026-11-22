@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8289707",
   "title": "AC Static Watthour Meters - Energy Meter (V2) as per IS 13779",
   "description": "AC Static Watthour Meters - Energy Meter (V2) as per IS 13779,AC Static Watthour Meters - Energy Meter (V2) as per IS 13779",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "North Eastern Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "AC Static Watthour Meters - Energy Meter (V2) as per IS 13779",
   "quantity": 2440,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-18T18:16:44+05:30",
   "closing_at": "2026-12-01T11:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10184020"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/fzFZZbTx4OfFaUoh8OZgNQHxePoiRXxGpqSepMyYxJc",
+      "page": 5
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261118",
+      "page": 11
     }
   ],
   "tags": [
@@ -34,5 +49,293 @@
   ],
   "source_fetched_at": "2026-11-22T08:18:40.092Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-02T11:00:00+05:30",
+  "office": "Office Of The Principal Chief Material Manager Ner",
+  "buyer_email": "smmd@ner.railnet.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "90 (Days)",
+  "source_document_fetched_at": "2026-11-22T15:47:44.925033+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "39c822cd7021d678539cc05ce364c8c578fb60c2beb3e627b6d39b54c364f280",
+  "document_pages": 11,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 20 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Deepak Kumar Jaiswara",
+      "address": "273012,Office of the Deputy Chief Materials Manager, North Eastern Railway",
+      "quantity": 1718,
+      "quantity_label": "Quantity",
+      "delivery_days": 90
+    },
+    {
+      "page": 6,
+      "consignee": "Pramod Kumar Singh",
+      "address": "243122,Office of the Deputy Chief Materials Manager, General Stores Depot,North Eastern Railway",
+      "quantity": 722,
+      "quantity_label": "Quantity",
+      "delivery_days": 90
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Generic",
+          "parameter": "Conformity to Technical Requirements",
+          "value": "As per IS 13779:2020 (With Latest Ammendements) covering the general requirements and tests for various types of AC Static watt-hour Meters of Class 1 and 2"
+        },
+        {
+          "group": "Generic",
+          "parameter": "ISI Marked",
+          "value": "Yes"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Type of Meter",
+          "value": "Outdoor"
+        },
+        {
+          "group": "Performance Parameters & Ratings",
+          "parameter": "Accuracy Class",
+          "value": "Class 1"
+        },
+        {
+          "group": "Performance Parameters & Ratings",
+          "parameter": "Number of phases and Number of Wires",
+          "value": "Single Phase 2 Wire"
+        },
+        {
+          "group": "Performance Parameters & Ratings",
+          "parameter": "Standard Basic current (Ib) For direct connection 1- phase ( In Ampere)",
+          "value": "10A"
+        },
+        {
+          "group": "Performance Parameters & Ratings",
+          "parameter": "Standard Basic current (Ib) For direct connection 3- phase ( In Ampere)",
+          "value": "NA (Being 1-Phase Meter)"
+        },
+        {
+          "group": "Performance Parameters & Ratings",
+          "parameter": "Typical Rated Maximum Current (Imax) as Percentage of Basic Current (A) (Direct connection)",
+          "value": "600%"
+        },
+        {
+          "group": "Performance Parameters & Ratings",
+          "parameter": "Reference Voltage",
+          "value": "240 V"
+        },
+        {
+          "group": "Features",
+          "parameter": "Terminal Covers",
+          "value": "Short Terminal Cover"
+        },
+        {
+          "group": "Accessories",
+          "parameter": "Accessories",
+          "value": "NA"
+        },
+        {
+          "group": "Reports And Certification",
+          "parameter": "Type of lab which carried out Test of Complete Product to prove the conformity of product as per specification",
+          "value": "OEM, Govt Lab, NABL Accredited Lab, BIS Lab"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Agree to provide all relevant documents Test Reports/supporting document /reports including valid BIS License Copy, etc to the buyer at the time of bidding or on demand",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "The Equipment is provided with Calibration Certificate",
+          "value": "Yes"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 7,
+      "text": "1. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): By Rites Post Receipt Inspection at consignee site before acceptance of stores: Consignee 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Complete description (43010246): ISI marked Electronic Watt Hour Meter single phase suitable for Max 10 Amp 240 volt 50Hz AC supply with electro mechanical counter Accuracy class 1.0 tamper proof with tamper ind ication provided conforming to IS: 13779/99 with latest alteration as amended up to date of tender opening, one month prior to date of tender opening. N.B. 1. Tenderer shall indicate make/Brand of the offered product. 2. In case Tenderer is not a manufacturer then they should submit specific authorization for the tender issued by the manufacturer."
+    },
+    {
+      "page": 8,
+      "text": "3. Current and valid BIS marking Certificate. Special Note:- Any discrepancy, item shall be supplied as per the description mentioned in ATC. 1. Eligibility Criteria:- (a) Bidders must attach Tender Specific authorization of the OEM, in case the firm is not an OEM. (without this offer shall be treated as unresponsive and shal l be ignored).Further in view of the on-line verification of Seller credentials by the OEM on G eM platform, there is no need of OEM authorization in bids in respect of “OEM verified Catal ogue” offered by \"OEM Verified Reseller\". However for CMS Q1 and CMS Q2 categories of fi rms, tender specific authorization is not required. (b)Bidders must attach a declaration from OEM regarding local content incompliance with P ublic Procurement (Preference to Make in India) Order 2017 and subsequent amendments. However, if the same is already mentioned in the product catalogue attached with the offer , the above is not required. (c)Past Performance:-The manufacturer or Authorized agent should have supplied same or similar(Similar item means for the items having same description, but of different sizes / ratings /capacities) Category Products for 20% of bid quantity, in at least one of the last thr ee Financial years and current financial year till the bid opening date to any Central / State Govt Organization / PSU. (A) For fulfilling the Past PERFORMANCE CRITERIA any one of the following document shall b e considered as valid proof for meeting the PERFORMANCE CRITERIA:- (i) Copies of proof of receipt & acceptance i.e CRAC of GeM/Receipt Note/Receipt and accep tance certificate etc against the contracts/PO from consignee giving clear evidence of provi ng supply to the consignee. (ii) In case tenderers participate as an authorized agent, then the performance either of the principal or of the bidder (authorized agent) with Make of OEM authorizing the bidder will o nly be considered. It may so happen that the agent has credentials of past supply for a diff erent Principal/OEM but this will not be considered as performance for placing order in case of change of Principal/OEM. (iii)Wherever Authorized Distributors/Trader/Agent are submitting the bid, Tender Specific a uthorization of the OEM with details of authorization certificate issuing authority should be f urnished along with the bid. (iv) All bidders including MSE must fulfill past performance criteria. Note:- Any contradiction in Past Performance Clause mentioned elsewhere is superseded b y this condition. Note:- (I.) Railway may consider past supply performance records if available with NER, but it is n ot to be treated as an excuse for not submitting the above mentioned performance docum ents by the bidders. (II.) Bidders are required to attach BIS certificate (if applicable), along with performance rel ated documents and OEM authorization as mentioned above. (III.) In case any document submitted or declaration given by bidder is found false, misleadi ng or forged, action shall be initiated as per GeM General Terms and Conditions and this sh all be treated as breach of the Code of Integrity under Rule 175 (1) (i)(h) of the General Fin ancial Rules for which a bidder or its successors can be debarred for up to two years as per Rule 151 (iii) of the General Financial Rules along with such other actions as may be permis sible under law."
+    },
+    {
+      "page": 9,
+      "text": "(IV). Firms without requisite performance criteria or firms who have not attached document s, as mentioned above, in support of performance shall be ignored. Only firms with require d performance, as mentioned in bid performance criteria, shall be considered for placemen t of order. (d). Determination of eligibility in case of products requiring BIS License: In case the bid requires availability of BIS License, bidder has to upload currently valid and operativ e BIS License copy (Valid on the date of bid to be considered eligible, as per GTC of GeM.) 2.EMD as per T&C of bid. 3.Warranty- As per the IRS Condition of contract warranty shall period of 30 months after their delivery or 24 months from the date of placement in service whichever shall be soone r. . 4. Delivery Schedule: Railway may specify a suitable delivery schedule at the time of accep tance of the tender as per requirement. 5.Tenderers will ensure that full benefit of Input Tax Credit (ITC) likely to be availed by the m is duly considered while quoting rates and in case any further benefit available in future on account of ITC will be passed on to the purchaser. 6.In case a successful tenderer is not liable to be registered under CGST/IGST/UTGST/SGST act, the railway shall deduct the applicable GST from his/their bills under Reverse Charge M echanism (RCM) and deposit the same to the concerned tax authorities. 7.Inspection:- (i)By RITES in case Contract value above Rs 5 lakhs (ii) By Consignee in case Contract Value upto Rs 5 lakhs. (a) Offer with deviation in inspection clause shall be summarily rejected without any back r eference. 8.Special Conditions: (A) Documents to be submitted along with bid: (i) Past Performance (ii) BIS certificate (iii) Bidders must attach Tender Specific authorization of the OEM, in case the firm is not an OEM. (iv) Make in India Local content certificate (v) MSE UDYAM certificate (if applicable) (B) Tenderer shall indicate make/Brand of the offered product. 9. Consignee address and phone number: - (i) Shri-PRAMOD KUMAR SINGH-AMM/D/IZND/BAREILLY-243122. Mob no.9794840773. (ii) Shri-DEEPAK KUMAR JAISWARA--ADMM/GKPD/NER/GKP/DKJ--O/o Dy CMM/DEPOT/GKP/NE R GORAKHPUR-273012, Mob:- 9794840755 ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8289707",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184020"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 01-12-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184020"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 02-12-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184020"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184020"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184020"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184020"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: North Eastern Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184020"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Office Of The Principal Chief Material Manager Ner",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184020"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :kaustubh.mani16@gov.in Buyer Email id: smmd@ner.railnet.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184020"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 2440",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184020"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: AC Static Watthour Meters - Energy Meter (V2) as per IS 13779 (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184020"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184020"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184020"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184020"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 20 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184020"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184020"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184020"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184020"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Conformity to Technical Requirements: As per IS 13779:2020 (With Latest Ammendements) covering the general requirements and tests for various types of AC Static watt-hour Meters of Class 1 and 2 | ISI Marked: Yes | Type of Meter: Outdoor | Accuracy Class: Class 1 | Number of phases and Number of Wires: Single Phase 2 Wire | Standard Basic current (Ib) For direct connection 1- phase ( In Ampere): 10A | Standard Basic current (Ib) For direct connection 3- phase ( In Ampere): NA (Being 1-Phase Meter) | Typical Rated Maximum Current (Imax) as Percentage of Basic Current (A) (Direct connection): 600% | Reference Voltage: 240 V | Terminal Covers: Short Terminal Cover | Accessories: NA | Type of lab which carried out Test of Complete Product to prove the conformity of product as per specification: OEM, Govt Lab, NABL Accredited Lab, BIS Lab",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184020"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Agree to provide all relevant documents Test Reports/supporting document /reports including valid BIS License Copy, etc to the buyer at the time of bidding or on demand: Yes | The Equipment is provided with Calibration Certificate: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184020"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Deepak Kumar Jaiswara | 273012,Office of the Deputy Chief Materials Manager, North Eastern Railway | 1718 | 90",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184020"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 2 | Pramod Kumar Singh | 243122,Office of the Deputy Chief Materials Manager, General Stores Depot,North Eastern Railway | 722 | 90",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184020"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "1. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): By Rites Post Receipt Inspection at consignee site before acceptance of stores: Consignee 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Complete description (43010246): ISI marked Electronic Watt Hour Meter single phase suitable for Max 10 Amp 240 volt 50Hz AC supply with electro mechanical counter Accuracy class 1.0 tamper proof with tamper ind ication provided conforming to IS: 13779/99 with latest alteration as amended up to date of tender opening, one month prior to date of tender opening. N.B. 1. Tenderer shall indicate make/Brand of the offered product. 2. In case Tenderer is not a manufacturer then they should submit specific authorization for the tender issued by the manufacturer.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184020"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "3. Current and valid BIS marking Certificate. Special Note:- Any discrepancy, item shall be supplied as per the description mentioned in ATC. 1. Eligibility Criteria:- (a) Bidders must attach Tender Specific authorization of the OEM, in case the firm is not an OEM. (without this offer shall be treated as unresponsive and shal l be ignored).Further in view of the on-line verification of Seller credentials by the OEM on G eM platform, there is no need of OEM authorization in bids in respect of “OEM verified Catal ogue” offered by \"OEM Verified Reseller\". However for CMS Q1 and CMS Q2 categories of fi rms, tender specific authorization is not required. (b)Bidders must attach a declaration from OEM regarding local content incompliance with P ublic Procurement (Preference to Make in India) Order 2017 and subsequent amendments. However, if the same is already mentioned in the product catalogue attached with the offer , the above is not required. (c)Past Performance:-The manufacturer or Authorized agent should have supplied same or similar(Similar item means for the items having same description, but of different sizes / ratings /capacities) Category Products for 20% of bid quantity, in at least one of the last thr ee Financial years and current financial year till the bid opening date to any Central / State Govt Organization / PSU. (A) For fulfilling the Past PERFORMANCE CRITERIA any one of the following document shall b e considered as valid proof for meeting the PERFORMANCE CRITERIA:- (i) Copies of proof of receipt & acceptance i.e CRAC of GeM/Receipt Note/Receipt and accep tance certificate etc against the contracts/PO from consignee giving clear evidence of provi ng supply to the consignee. (ii) In case tenderers participate as an authorized agent, then the performance either of the principal or of the bidder (authorized agent) with Make of OEM authorizing the bidder will o nly be considered. It may so happen that the agent has credentials of past supply for a diff erent Principal/OEM but this will not be considered as performance for placing order in case of change of Principal/OEM. (iii)Wherever Authorized Distributors/Trader/Agent are submitting the bid, Tender Specific a uthorization of the OEM with details of authorization certificate issuing authority should be f urnished along with the bid. (iv) All bidders including MSE must fulfill past performance criteria. Note:- Any contradiction in Past Performance Clause mentioned elsewhere is superseded b y this condition. Note:- (I.) Railway may consider past supply performance records if available with NER, but it is n ot to be treated as an excuse for not submitting the above mentioned performance docum ents by the bidders. (II.) Bidders are required to attach BIS certificate (if applicable), along with performance rel ated documents and OEM authorization as mentioned above. (III.) In case any document submitted or declaration given by bidder is found false, misleadi ng or forged, action shall be initiated as per GeM General Terms and Conditions and this sh all be treated as breach of the Code of Integrity under Rule 175 (1) (i)(h) of the General Fin ancial Rules for which a bidder or its successors can be debarred for up to two years as per Rule 151 (iii) of the General Financial Rules along with such other actions as may be permis sible under law.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184020"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "(IV). Firms without requisite performance criteria or firms who have not attached document s, as mentioned above, in support of performance shall be ignored. Only firms with require d performance, as mentioned in bid performance criteria, shall be considered for placemen t of order. (d). Determination of eligibility in case of products requiring BIS License: In case the bid requires availability of BIS License, bidder has to upload currently valid and operativ e BIS License copy (Valid on the date of bid to be considered eligible, as per GTC of GeM.) 2.EMD as per T&C of bid. 3.Warranty- As per the IRS Condition of contract warranty shall period of 30 months after their delivery or 24 months from the date of placement in service whichever shall be soone r. . 4. Delivery Schedule: Railway may specify a suitable delivery schedule at the time of accep tance of the tender as per requirement. 5.Tenderers will ensure that full benefit of Input Tax Credit (ITC) likely to be availed by the m is duly considered while quoting rates and in case any further benefit available in future on account of ITC will be passed on to the purchaser. 6.In case a successful tenderer is not liable to be registered under CGST/IGST/UTGST/SGST act, the railway shall deduct the applicable GST from his/their bills under Reverse Charge M echanism (RCM) and deposit the same to the concerned tax authorities. 7.Inspection:- (i)By RITES in case Contract value above Rs 5 lakhs (ii) By Consignee in case Contract Value upto Rs 5 lakhs. (a) Offer with deviation in inspection clause shall be summarily rejected without any back r eference. 8.Special Conditions: (A) Documents to be submitted along with bid: (i) Past Performance (ii) BIS certificate (iii) Bidders must attach Tender Specific authorization of the OEM, in case the firm is not an OEM. (iv) Make in India Local content certificate (v) MSE UDYAM certificate (if applicable) (B) Tenderer shall indicate make/Brand of the offered product. 9. Consignee address and phone number: - (i) Shri-PRAMOD KUMAR SINGH-AMM/D/IZND/BAREILLY-243122. Mob no.9794840773. (ii) Shri-DEEPAK KUMAR JAISWARA--ADMM/GKPD/NER/GKP/DKJ--O/o Dy CMM/DEPOT/GKP/NE R GORAKHPUR-273012, Mob:- 9794840755 .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10184020"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

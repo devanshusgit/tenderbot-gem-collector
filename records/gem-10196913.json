@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8300929",
   "title": "Computer Table (V3)",
   "description": "Computer Table (V3)",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "Central Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Computer Table (V3)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-20T17:50:20+05:30",
   "closing_at": "2026-11-30T11:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10196913"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/fHRlBgKiXXoTiKytDVJde5KaMuVppQPRcXD1LeHSXpw",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261120",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +49,239 @@
   ],
   "source_fetched_at": "2026-11-21T21:13:42.357Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-01T11:00:00+05:30",
+  "office": "Central Railway Stores Deptt",
+  "buyer_email": "amm.nkrd23@bsl.railnet.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience: Yes | Complete",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "60 (Days)",
+  "source_document_fetched_at": "2026-11-22T06:19:34.939607+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "6d116da0c08f6d146bca0be0af3ea47ecd4a7e61553feea44c9dc83c5e31d668",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years Of Experience: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience: Yes | Complete (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Dilesh Chudaman Bhivgade",
+      "address": "422101,OFFICE OF CHIEF WORKSHOP MANAGER, TRACTION MACHINE WORKSHOP CENTRAL RAILWAY EKLAHARA ROAD NASHIK ROAD - 422101",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Generic Parameters",
+          "parameter": "Type of Computer Table (Hint: \"Unit indicates additional drawers, storage units/compartments, etc)",
+          "value": "Computer table with Storage unit"
+        },
+        {
+          "group": "Table Top Characteristics",
+          "parameter": "Material Type of Table Top",
+          "value": "Particle Board, MDF Board, Marine Ply, MR (Moisture Resistant) Ply, BWP Ply Or higher"
+        },
+        {
+          "group": "Table Top Characteristics",
+          "parameter": "Length of Table Top (in mm) (Tolerance +/- 50 mm)",
+          "value": "750"
+        },
+        {
+          "group": "Table Top Characteristics",
+          "parameter": "Width of Table Top (in mm) (Tolerance +/- 50 mm)",
+          "value": "450"
+        },
+        {
+          "group": "Table Top Characteristics",
+          "parameter": "Thickness of Table Top (in mm) (Tolerance ±5 mm)",
+          "value": "18"
+        },
+        {
+          "group": "Table Top Characteristics",
+          "parameter": "Shape of Table Top Edge",
+          "value": "Straight"
+        },
+        {
+          "group": "Keyboard Tray Characteristics",
+          "parameter": "Keyboard Tray Material",
+          "value": "Wood"
+        },
+        {
+          "group": "TABLE UNDERSTRUCTURE (WITH CPU SHELF)",
+          "parameter": "Material Type of Table Understructure",
+          "value": "Metal Understructure, Wooden/Engineer Wood Understructure, Metal Frame in combination with wooden understructure"
+        },
+        {
+          "group": "TABLE UNDERSTRUCTURE (WITH CPU SHELF)",
+          "parameter": "Support Type of Table Understructure",
+          "value": "Leg, Gable"
+        },
+        {
+          "group": "TABLE UNDERSTRUCTURE (WITH CPU SHELF)",
+          "parameter": "Material of Table Understructure",
+          "value": "Particle Board, MDF Board, Marine Ply, MR (Moisture Resistant) Ply, BWP Ply, Mild Steel, Aluminium, Mild Steel with Particle Board, Mild Steel with MDF Board, Mild Steel with Marine Ply, Mild Steel with MR Ply, Mild Steel with BWP Ply Or higher"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Availability of modesty panel",
+          "value": "Yes, No"
+        },
+        {
+          "group": null,
+          "parameter": "Material Type of Modesty Panel",
+          "value": "NA, Metal, Wooden/Engineer Wood, Acrylic"
+        },
+        {
+          "group": null,
+          "parameter": "Material of Modesty Panel",
+          "value": "NA, Particle Board, MDF Board, Marine Ply, BWP Ply, MR (Moisture Resistant) Ply, Mild Steel, Aluminium, Acrylic"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8300929",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10196913"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 30-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10196913"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 01-12-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10196913"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 60 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10196913"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10196913"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10196913"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Central Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10196913"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Central Railway Stores Deptt",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10196913"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :dycmmadmin@cr.railnet.gov.in Buyer Email id: amm.nkrd23@bsl.railnet.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10196913"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10196913"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Computer Table (V3) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10196913"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10196913"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10196913"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10196913"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10196913"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10196913"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Type of Computer Table (Hint: \"Unit indicates additional drawers, storage units/compartments, etc): Computer table with Storage unit | Material Type of Table Top: Particle Board, MDF Board, Marine Ply, MR (Moisture Resistant) Ply, BWP Ply Or higher | Length of Table Top (in mm) (Tolerance +/- 50 mm): 750 | Width of Table Top (in mm) (Tolerance +/- 50 mm): 450 | Thickness of Table Top (in mm) (Tolerance ±5 mm): 18 | Shape of Table Top Edge: Straight | Keyboard Tray Material: Wood | Material Type of Table Understructure: Metal Understructure, Wooden/Engineer Wood Understructure, Metal Frame in combination with wooden understructure | Support Type of Table Understructure: Leg, Gable | Material of Table Understructure: Particle Board, MDF Board, Marine Ply, MR (Moisture Resistant) Ply, BWP Ply, Mild Steel, Aluminium, Mild Steel with Particle Board, Mild Steel with MDF Board, Mild Steel with Marine Ply, Mild Steel with MR Ply, Mild Steel with BWP Ply Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10196913"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Availability of modesty panel: Yes, No | Material Type of Modesty Panel: NA, Metal, Wooden/Engineer Wood, Acrylic | Material of Modesty Panel: NA, Particle Board, MDF Board, Marine Ply, BWP Ply, MR (Moisture Resistant) Ply, Mild Steel, Aluminium, Acrylic",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10196913"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Dilesh Chudaman Bhivgade | 422101,OFFICE OF CHIEF WORKSHOP MANAGER, TRACTION MACHINE WORKSHOP CENTRAL RAILWAY EKLAHARA ROAD NASHIK ROAD - 422101 | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10196913"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10196913"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

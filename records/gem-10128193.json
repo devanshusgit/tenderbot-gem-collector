@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8241398",
   "title": "Annual Maintenance Service - Desktops,  Laptops and Peripherals - DESKTOP, LAPTOP,UPS,SERVERPRINTER",
   "description": "Annual Maintenance Service - Desktops,  Laptops and Peripherals - DESKTOP, LAPTOP,UPS,SERVERPRINTER, VPS; MULTIPLE BRANDS",
-  "organisation": "Department of Defence",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Defence",
+  "organisation": "Border Road Organisation",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Defence",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Annual Maintenance Service - Desktops,  Laptops and Peripherals - DESKTOP, LAPTOP,UPS,SERVERPRINTER",
   "quantity": 98,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-20T18:07:29+05:30",
   "closing_at": "2026-11-30T19:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10128193"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8241398/CLM0010/ATC_6dc3da56-1f81-4612-80d81793794182124_spk-so1res.pdf",
+      "page": 6
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261120",
+      "page": 7
+    },
+    {
+      "name": "Service Level Agreement",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/bidsla/102580293445249",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +54,272 @@
   ],
   "source_fetched_at": "2026-11-22T00:28:54.774Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-01T19:00:00+05:30",
+  "buyer_email": "spk-so1res@bro.gov.in",
+  "emd_required": false,
+  "bidder_turnover_lakhs": 4,
+  "experience_years": 1,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 15,
+  "offer_validity": "90 (Days)",
+  "estimated_bid_value": 115000,
+  "contract_period": "1 Year(s)",
+  "source_document_fetched_at": "2026-11-22T06:16:30.389371+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "9d81748b864f45e87f35c79c8297c551eef9e65c7c48390ef7ea6985e9ee057d",
+  "document_pages": 8,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 4 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 1 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "***********",
+      "address": "***********JAMMU",
+      "quantity": 98,
+      "quantity_label": "Number of each Asset for AMC",
+      "delivery_days": null,
+      "additional_requirements": "Number of months for technician : 12 Number of Resident engineers : 0 Number of technicians : 1"
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Type of Asset",
+          "value": "DESKTOP, LAPTOP,UPS,SERVERPRINTER, VPS"
+        },
+        {
+          "group": "Core",
+          "parameter": "Make/Brand of Assets",
+          "value": "MULTIPLE BRANDS"
+        },
+        {
+          "group": "Core",
+          "parameter": "Status of Annual Maintenance Service Provider",
+          "value": "Neither OEM nor ASP"
+        },
+        {
+          "group": "Core",
+          "parameter": "Periodicity of Preventive Maintenance Services",
+          "value": "Quarterly"
+        },
+        {
+          "group": "Core",
+          "parameter": "Onsite Service Engineers Requirement",
+          "value": "As Indicated in Bid Document."
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Basic Maintenance of OS, Office Suite, Drivers Update and Patch update on client compute machines",
+          "value": "Inclusive"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Requirement of Technicians",
+          "value": "Yes"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE 50% : The buyer can increase or decrease the contract quantity or contract duration up to 50 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 50 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 50 percent with the consent of the service provider 2. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 3. Generic 1. The Seller shall not assign the Contract in whole or part without obtaining the prior written consent of buyer."
+    },
+    {
+      "page": 6,
+      "text": "2. The Seller shall not sub-contract the Contract in whole or part to any entity without obtaining the prior written consent of buyer. 3. The Seller shall, notwithstanding the consent and assignment/sub-contract, remain jointly and severally liable and responsible to buyer together with the assignee/ sub-contractor, for and in respect of the due performance of the Contract and the Sellers obligations there under. 4. Service & Support AVAILABILITY OF OFFICE OF SERVICE PROVIDER: An office of the Service Provider must be located in the state of Consignee. DOCUMENTARY EVIDENCE TO BE SUBMITTED. 5. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in favour of CHIEF ENGINEER PROJECT SAMPARK payable at SBI HARI MARKET BRANCH JAMMU . After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of contract. 6. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses THE BIDDER SHOULD ADHERE TO THE FOLLOWING:- 1. THE ATC SHOULD BE SIGNED AND UPLOADED. 2. THE BIDDER SHOULD GIVE AN UNDERTAKING FOR COMPLYING WITH THE ATC DOCUMENT ON COMPANY LETTER HEAD. 3. THE BIDDER SHOULD HAVE HIS REGISTERED OFFICE IN JAMMU . 7. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8241398",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128193"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 30-11-2026 19:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128193"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 01-12-2026 19:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128193"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128193"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128193"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128193"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Border Road Organisation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128193"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :spk-cengr@bro.gov.in Buyer Email id: spk-so1res@bro.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128193"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Annual Maintenance Service - Desktops, Laptops and Peripherals - DESKTOP, LAPTOP,UPS,SERVERPRINTER, VPS; MULTIPLE BRANDS",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128193"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 1 Year(s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128193"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 4 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128193"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 1 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128193"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128193"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128193"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128193"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128193"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128193"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "(( )) / Estimated Bid Value in INR (Inclusive of all taxes): 115000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128193"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128193"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128193"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128193"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128193"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Type of Asset: DESKTOP, LAPTOP,UPS,SERVERPRINTER, VPS | Make/Brand of Assets: MULTIPLE BRANDS | Status of Annual Maintenance Service Provider: Neither OEM nor ASP | Periodicity of Preventive Maintenance Services: Quarterly | Onsite Service Engineers Requirement: As Indicated in Bid Document.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128193"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Basic Maintenance of OS, Office Suite, Drivers Update and Patch update on client compute machines: Inclusive | Requirement of Technicians: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128193"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Number of each Asset for AMC | Additional Requirement: 1 | *********** | ***********JAMMU | 98 | Number of months for technician : 12 Number of Resident engineers : 0 Number of technicians : 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128193"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE 50% : The buyer can increase or decrease the contract quantity or contract duration up to 50 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 50 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 50 percent with the consent of the service provider 2. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 3. Generic 1. The Seller shall not assign the Contract in whole or part without obtaining the prior written consent of buyer.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128193"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "2. The Seller shall not sub-contract the Contract in whole or part to any entity without obtaining the prior written consent of buyer. 3. The Seller shall, notwithstanding the consent and assignment/sub-contract, remain jointly and severally liable and responsible to buyer together with the assignee/ sub-contractor, for and in respect of the due performance of the Contract and the Sellers obligations there under. 4. Service & Support AVAILABILITY OF OFFICE OF SERVICE PROVIDER: An office of the Service Provider must be located in the state of Consignee. DOCUMENTARY EVIDENCE TO BE SUBMITTED. 5. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in favour of CHIEF ENGINEER PROJECT SAMPARK payable at SBI HARI MARKET BRANCH JAMMU . After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of contract. 6. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses THE BIDDER SHOULD ADHERE TO THE FOLLOWING:- 1. THE ATC SHOULD BE SIGNED AND UPLOADED. 2. THE BIDDER SHOULD GIVE AN UNDERTAKING FOR COMPLYING WITH THE ATC DOCUMENT ON COMPANY LETTER HEAD. 3. THE BIDDER SHOULD HAVE HIS REGISTERED OFFICE IN JAMMU . 7. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10128193"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 98",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

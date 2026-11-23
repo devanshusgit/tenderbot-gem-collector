@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8299692",
   "title": "Laser Distance Meter",
   "description": "Laser Distance Meter",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "South Eastern Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Laser Distance Meter",
   "quantity": 50,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-21T08:51:50+05:30",
   "closing_at": "2026-12-02T16:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10195530"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/nGRTJ97tH_ubIMC0J5-UEEIHnmY_kJu_N_y3KWkpQLY",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261121",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +49,423 @@
   ],
   "source_fetched_at": "2026-11-22T16:44:55.966Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-03T16:00:00+05:30",
+  "office": "South Eastern Railway",
+  "buyer_email": "hscir001@gmail.com",
+  "emd_required": false,
+  "experience_years": 1,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "90 (Days)",
+  "source_document_fetched_at": "2026-11-23T01:11:54.741361+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "38bebca18d72fb660c8a0d427a662d6b68e47fd79e6e0e59cb3a0bf85e1caa9b",
+  "document_pages": 9,
+  "eligibility": [
+    "Past experience required for same/similar service: 1 Year (s) (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 10 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Sanjay Kumar",
+      "address": "833102,South Eastern Railway, Chakradharpur, P.O. - Chakradharpur",
+      "quantity": 50,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "FEATURES",
+          "parameter": "Inclination Sensor",
+          "value": "No"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Base / Adapter with Pan and Tilt mechanism",
+          "value": "No"
+        },
+        {
+          "group": null,
+          "parameter": "Tripod Mount Support",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Over View Camera",
+          "value": "No"
+        },
+        {
+          "group": null,
+          "parameter": "Point Finder",
+          "value": "No"
+        },
+        {
+          "group": null,
+          "parameter": "Touch Screen Point Finder display",
+          "value": "No"
+        },
+        {
+          "group": null,
+          "parameter": "Built-in Compass",
+          "value": "No"
+        },
+        {
+          "group": "PERFORMANCE",
+          "parameter": "Maximum measurement distance",
+          "value": "40, 50, 60, 80, 100, 120, 140, 150, 160, 180, 200, 250, 300 Or higher (meter)"
+        },
+        {
+          "group": "PERFORMANCE",
+          "parameter": "Resolution (Least Count)",
+          "value": "1.0 (millimeter)"
+        },
+        {
+          "group": "PERFORMANCE",
+          "parameter": "Accuracy (+/-)",
+          "value": "1, 1.5, 2 Or lower (millimeter)"
+        },
+        {
+          "group": "PERFORMANCE",
+          "parameter": "Tilt measuring Range above horizontal (deg)",
+          "value": "NA"
+        },
+        {
+          "group": "PERFORMANCE",
+          "parameter": "Tilt maesuring Range below horizontal (deg)",
+          "value": "NA"
+        },
+        {
+          "group": "PERFORMANCE",
+          "parameter": "Zoom of Point Finder",
+          "value": "NA"
+        },
+        {
+          "group": "FUNCTIONS",
+          "parameter": "Sloped object measurement",
+          "value": "No"
+        },
+        {
+          "group": "FUNCTIONS",
+          "parameter": "3D Measurement",
+          "value": "No"
+        },
+        {
+          "group": "FUNCTIONS",
+          "parameter": "Angle measurement",
+          "value": "No"
+        },
+        {
+          "group": "FUNCTIONS",
+          "parameter": "Height profile measurement",
+          "value": "No"
+        },
+        {
+          "group": "FUNCTIONS",
+          "parameter": "Area measurement",
+          "value": "Yes"
+        },
+        {
+          "group": "FUNCTIONS",
+          "parameter": "Volume measurement",
+          "value": "Yes"
+        },
+        {
+          "group": "FUNCTIONS",
+          "parameter": "Minimum / Maximum measurement",
+          "value": "Yes"
+        },
+        {
+          "group": "FUNCTIONS",
+          "parameter": "Addition / Subtraction of measurement",
+          "value": "Yes"
+        },
+        {
+          "group": "FUNCTIONS",
+          "parameter": "Indirect measurement by Pythagoras Calculations",
+          "value": "Yes"
+        },
+        {
+          "group": "FUNCTIONS",
+          "parameter": "Corner Angle measurement",
+          "value": "No"
+        },
+        {
+          "group": "FUNCTIONS",
+          "parameter": "Stake out Function",
+          "value": "Yes"
+        },
+        {
+          "group": "FUNCTIONS",
+          "parameter": "Front or Rear edge reference",
+          "value": "Yes"
+        },
+        {
+          "group": "FUNCTIONS",
+          "parameter": "DXF capture (Data capture to CAD files)",
+          "value": "No"
+        },
+        {
+          "group": "STORAGE / DISPLAY / INTERFACE",
+          "parameter": "Measurement Record Storage (records)",
+          "value": "10, 20, 30, 40, 50, 100 Or higher"
+        },
+        {
+          "group": "STORAGE / DISPLAY / INTERFACE",
+          "parameter": "Data interface",
+          "value": "NA"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Display",
+          "value": "2 line"
+        },
+        {
+          "group": null,
+          "parameter": "Display illumination (Backlight)",
+          "value": "Yes"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Ingress Protection",
+          "value": "IP 54,"
+        },
+        {
+          "group": "ACCESSORIES INCLUSIVE IN THE SCOPE OF SUPPLY",
+          "parameter": "Aluminium Tripod with fixing screw, bubble level and clamp - inclusive in the scope of supply",
+          "value": "No"
+        },
+        {
+          "group": "ACCESSORIES INCLUSIVE IN THE SCOPE OF SUPPLY",
+          "parameter": "Adapter with fine adjustment of Rotating axis, tilt axis for convenient and precise targeting - inclusive in the scope of supply",
+          "value": "No"
+        },
+        {
+          "group": "ACCESSORIES INCLUSIVE IN THE SCOPE OF SUPPLY",
+          "parameter": "Laser Target Plate inclusive in the scope of supply",
+          "value": "No"
+        },
+        {
+          "group": "ACCESSORIES INCLUSIVE IN THE SCOPE OF SUPPLY",
+          "parameter": "Safety / Sun glasses inclusive in the scope of supply",
+          "value": "No"
+        },
+        {
+          "group": "ACCESSORIES INCLUSIVE IN THE SCOPE OF SUPPLY",
+          "parameter": "Battery Charger inclusive in the scope of supply",
+          "value": "NA for Alkaline batteries"
+        },
+        {
+          "group": "ACCESSORIES INCLUSIVE IN THE SCOPE OF SUPPLY",
+          "parameter": "Carry Case inclusive in the scope of supply",
+          "value": "Yes"
+        },
+        {
+          "group": "OPERATING CONDITIONS",
+          "parameter": "Minimum Operating Temperature",
+          "value": "-10.0 (degree Celsius)"
+        },
+        {
+          "group": "OPERATING CONDITIONS",
+          "parameter": "Maximum Operating Temperature",
+          "value": "50.0 (degree Celsius)"
+        },
+        {
+          "group": "OPERATING CONDITIONS",
+          "parameter": "Maximum Operating Humidity at 40 deg C, Rh",
+          "value": "85.0 (percent)"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "Warranty",
+          "value": "1.0 (year)"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 2. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 3. Generic Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU for 1 year before the bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the primary product having highest value should meet this criterion. 4. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 5. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 6. Generic While generating invoice in GeM portal, the seller must upload scanned copy of GST invoice and the screenshot of GST portal confirming payment of GST. 7. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): NIL Post Receipt Inspection at consignee site before acceptance of stores: By Sr.DEE/TRD/CKP or his authorized representative on receipt of material 8. Scope of Supply"
+    },
+    {
+      "page": 7,
+      "text": "Scope of supply (Bid price to include all cost components) : Only supply of Goods 9. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 10. Warranty Warranty period of the supplied products shall be as given in specifications from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 11. Past Project Experience Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc.Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8299692",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10195530"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 02-12-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10195530"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 03-12-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10195530"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10195530"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10195530"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10195530"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: South Eastern Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10195530"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: South Eastern Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10195530"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :dmsimms.store@ser.railnet.gov.in Buyer Email id: hscir001@gmail.com",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10195530"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 50",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10195530"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Laser Distance Meter (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10195530"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 1 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10195530"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10195530"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10195530"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10195530"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 10 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10195530"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10195530"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10195530"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10195530"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Inclination Sensor: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10195530"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Base / Adapter with Pan and Tilt mechanism: No | Tripod Mount Support: Yes | Over View Camera: No | Point Finder: No | Touch Screen Point Finder display: No | Built-in Compass: No | Maximum measurement distance: 40, 50, 60, 80, 100, 120, 140, 150, 160, 180, 200, 250, 300 Or higher (meter) | Resolution (Least Count): 1.0 (millimeter) | Accuracy (+/-): 1, 1.5, 2 Or lower (millimeter) | Tilt measuring Range above horizontal (deg): NA | Tilt maesuring Range below horizontal (deg): NA | Zoom of Point Finder: NA | Sloped object measurement: No | 3D Measurement: No | Angle measurement: No | Height profile measurement: No | Area measurement: Yes | Volume measurement: Yes | Minimum / Maximum measurement: Yes | Addition / Subtraction of measurement: Yes | Indirect measurement by Pythagoras Calculations: Yes | Corner Angle measurement: No | Stake out Function: Yes | Front or Rear edge reference: Yes | DXF capture (Data capture to CAD files): No | Measurement Record Storage (records): 10, 20, 30, 40, 50, 100 Or higher | Data interface: NA",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10195530"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Display: 2 line | Display illumination (Backlight): Yes | Ingress Protection: IP 54, | Aluminium Tripod with fixing screw, bubble level and clamp - inclusive in the scope of supply: No | Adapter with fine adjustment of Rotating axis, tilt axis for convenient and precise targeting - inclusive in the scope of supply: No | Laser Target Plate inclusive in the scope of supply: No | Safety / Sun glasses inclusive in the scope of supply: No | Battery Charger inclusive in the scope of supply: NA for Alkaline batteries | Carry Case inclusive in the scope of supply: Yes | Minimum Operating Temperature: -10.0 (degree Celsius) | Maximum Operating Temperature: 50.0 (degree Celsius) | Maximum Operating Humidity at 40 deg C, Rh: 85.0 (percent) | Warranty: 1.0 (year)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10195530"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Sanjay Kumar | 833102,South Eastern Railway, Chakradharpur, P.O. - Chakradharpur | 50 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10195530"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 2. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 3. Generic Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU for 1 year before the bid opening date. Copies of relevant contracts to be submitted along with bid in support of having supplied some quantity during each of the year. In case of bunch bids, the primary product having highest value should meet this criterion. 4. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 5. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 6. Generic While generating invoice in GeM portal, the seller must upload scanned copy of GST invoice and the screenshot of GST portal confirming payment of GST. 7. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): NIL Post Receipt Inspection at consignee site before acceptance of stores: By Sr.DEE/TRD/CKP or his authorized representative on receipt of material 8. Scope of Supply",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10195530"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "Scope of supply (Bid price to include all cost components) : Only supply of Goods 9. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 10. Warranty Warranty period of the supplied products shall be as given in specifications from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 11. Past Project Experience Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc.Proof for Past Experience and Project Experience clause: For fulfilling the experience criteria any one of the following documents may be considered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.b. Execution certificate by client with contract value.c. Any other document in support of contract execution like Third Party Inspection release note, etc.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10195530"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

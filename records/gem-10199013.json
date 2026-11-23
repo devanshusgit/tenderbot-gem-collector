@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8302673",
   "title": "XLPE Cable for Working Voltage up to and Including 1.1 KV Marked To IS 7098 (Part 1)",
   "description": "XLPE Cable for Working Voltage up to and Including 1.1 KV Marked To IS 7098 (Part 1)",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "South Eastern Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "XLPE Cable for Working Voltage up to and Including 1.1 KV Marked To IS 7098 (Part 1)",
   "quantity": 7250,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-21T15:01:57+05:30",
   "closing_at": "2026-12-03T13:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10199013"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/EAXyejLfpBVSrh_X4xI-WNenQXR2tUYhcU2NNfgxMck",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261121",
+      "page": 9
     }
   ],
   "tags": [
@@ -34,5 +49,299 @@
   ],
   "source_fetched_at": "2026-11-22T21:24:15.023Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-04T13:00:00+05:30",
+  "office": "South Eastern Railway",
+  "buyer_email": "apurba.saha76@gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "120 (Days)",
+  "source_document_fetched_at": "2026-11-23T00:20:04.331418+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "f81555e25c530112438e4c1a9223228fdb1c38f677bb9043452a03f961d95771",
+  "document_pages": 9,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 20 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Sonu Kumar",
+      "address": "721301,Office of the Dy.CMM/GSD/KGP, General Stores depot, South Eastern Railway, near CME gate, Kharagpur workshop.",
+      "quantity": 7250,
+      "quantity_label": "Quantity",
+      "delivery_days": 60
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "STANDARD",
+          "parameter": "Cables suitable for use in mines",
+          "value": "No"
+        },
+        {
+          "group": "STANDARD",
+          "parameter": "Cables suitable for use in low temperature applications",
+          "value": "Yes"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Classification of cables for improved fire performace category",
+          "value": "C2 - FR-LSH"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Nominal Area of Conductor (in Sq mm)",
+          "value": "16"
+        },
+        {
+          "group": null,
+          "parameter": "Number of Cores",
+          "value": "4"
+        },
+        {
+          "group": "CONSTRUCTION",
+          "parameter": "Material of Conductor",
+          "value": "Aluminium"
+        },
+        {
+          "group": "CONSTRUCTION",
+          "parameter": "Construction of the conductor",
+          "value": "Stranded and shaped"
+        },
+        {
+          "group": "CONSTRUCTION",
+          "parameter": "Type of Inner Sheath",
+          "value": "Vulcanized rubber, Un-vulcanized rubber, Thermoplastic"
+        },
+        {
+          "group": "ARMOURING",
+          "parameter": "Type of Cable",
+          "value": "Armoured cable"
+        },
+        {
+          "group": "ARMOURING",
+          "parameter": "Material of Armouring",
+          "value": "Galvanized steel formed wire"
+        },
+        {
+          "group": "ARMOURING",
+          "parameter": "Type of Armouring",
+          "value": "Single strip"
+        },
+        {
+          "group": "OUTER SHEATH",
+          "parameter": "Outer Sheath Standard",
+          "value": "Conforming to IS:5831:1984 latest"
+        },
+        {
+          "group": "OUTER SHEATH",
+          "parameter": "Type of Outer Sheath",
+          "value": "PVC-ST2"
+        },
+        {
+          "group": "IDENTIFICATION ON CABLE",
+          "parameter": "Manufacturer's Identification on Cable",
+          "value": "as per Cl.17.1 of IS:7098 Part 1: latest"
+        },
+        {
+          "group": "IDENTIFICATION ON CABLE",
+          "parameter": "Cable Identification",
+          "value": "as per Cl.17.2 of IS:7098 Part 1: latest"
+        },
+        {
+          "group": "PACKING AND MARKING",
+          "parameter": "Packing and Marking",
+          "value": "as per Cl.18.1 and 18.2 of IS:7098 Part 1: latest"
+        },
+        {
+          "group": "PACKING AND MARKING",
+          "parameter": "Cable Wound on",
+          "value": "ISI Marked Wooden drum"
+        },
+        {
+          "group": "PACKING AND MARKING",
+          "parameter": "Drum Standard",
+          "value": "as per IS:10418 latest"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 2. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): RITES Post Receipt Inspection at consignee site before acceptance of stores: CONSIGNEE 3. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 4. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1) Source Restriction: The cable is restricted to be procured only from manufacturers having valid, i.e. oper ative, BIS License of the tendered IS specification. Dealers can quote with bid specific authorization letter fr om OEM, otherwise their offer shall be summarily rejected without any back reference. The onus to upload the valid BIS License along with the offer shall be on the firm. 2) ISI MARKING: The cable shall be ISI marked. 3) Firm shall submit Valid BIS License Certificate for the offered product conforming to IS 7098 (Part 1 : 20 25 or latest) along with the offer. BIS license must cover the required cable in respect of no. of cores, core size & C2 category of improved fire performance, otherwise their offer will be summarily rejected without any back reference."
+    },
+    {
+      "page": 7,
+      "text": "4) Packing Instruction: Cables are to be supplied in the Cable drums of 500M capacity with 500M standard l ength on each drum with the balance quantity for the cable length up to 200M are to be supplied in the ca ble drums of 200M capacity and for cable length above 200M up to 500M are to be supplied in cable drum s of 500M capacity. Standard length of cable on drum (in m) 500 +/- 5% is acceptable. 5) Acceptance test as per IS:7098 Part-1 has to be conducted by Inspection Agency. Additionally, the follo wing specific steps shall be strictly adhered to during the inspection: a.Measurement of Conductor resistance on complete Lot and to be carried out on offered drum/coil length of cable. b. For length verification, rewinding of drums would be carried out on sample drums selected as per the sa mpling plan mentioned in IS: 7098 (Part-1)/2025. c. Checking of sequential meter marking, provided on outer sheath of cable and verification of meter lengt h by calibrated steel scale /tape and inspection of homogeneity of size and shape throughout the cable len gth. d. In addition to hologram sealing, Polycarbonate/lead seal on the end of cable for sealing of lot. e. Sampling rate shall be doubled for all tests as and when there is any rejection of a firm in acceptance te st . Normal inspection will be resumed when at least 3 lots there after pass successfully. f. To ensure uniformity in construction, at least one sample shall be taken from in between 30% to 70% of the offered length from a randomly selected drum, and all acceptance tests shall be carried out on the sa mple selected from this 30% to 70% range of the cable length. The Acceptance Test Report has to be sub mitted along with supply of material and Routine test Certificate has to be Submitted along with Supply of materials. 6) Quantity Tolerance- Minus (-) 5% within PO quantity is acceptable. 7) Warranty Clause: - 30 Months from the date of delivery. 8) Description of item:- 4x16 sq. mm, XLPE Insulated, 1100 Volts Grade, LT Cable with improved fire perfor mance category C2, Stranded, compacted circular and shaped Aluminium Conductor of H4 grade complyin g with Class 2 of IS 8130, Cores Laid up, Inner sheath of PVC applied by extrusion, Galvanised round steel wire or Galvanized steel formed wire (strip) Armoured, Cores' identification by Coloured strip applied on th e cores or by Colouring of XLPE Insulation, Outer Sheath of PVC Compound applied by extrusion conformin g to the requirement of type ST2 as per IS 5831 & also meet the requirement of C2 Category tests for impr oved fire performance. Recycled or Re-claimed material shall not be used for both inner/outer sheaths, XL PE insulation Tensile strength should be minimum 14.71 N/sq mm, Shrinkage of XLPE insulation at 130±3 deg C & 1 hr duration should be 2% (max). Conforming to IS: 7098 Part-1 2025 or latest & ISI Marked. 9) Type Test Certificate Conforming to IS:7098 Part-1 from NABL Accredited lab has to be submitted along with the offer and along with the supply of material for similar type of cable having conductor cross-section al area not less than the mentioned size in description. The type test must include the C2 Category tests fo r improved fire performance. The type test report should not be older than the 5 years from the tender clo sing date, otherwise their offer will be summarily rejected without any back reference. 10) Inspection agency shall verify the purchase details & test certificates of raw materials used in Cable vi z. XLPE insulation compound, conductor, armour material and PVC sheath compound. 11) Railway may, after delivery, send samples of the supplied cable to a laboratory for testing; any cable f ound not conforming to the requirements shall be rejected at the supplier’s cost. 12) Performance for similar item means \" performance for LT XLPE CABLE with Tender IS Specification (IS : 7098 Part-1) for the same or different sizes\". 13) Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have supplied sa me or similar Category Products for 20% of bid quantity, in at least one of the last three Financial years bef ore the bid opening date to any Central / State Govt Organization / PSU. Copies of relevant contracts (provi ng supply of cumulative order quantity in any one financial year) to be submitted along with bid in support of quantity supplied in the relevant Financial year. In case of bunch bids, the category related to primary p roduct having highest bid value should meet this criterion. 14)ISI or NON ISI marked wooden drum is acceptable. 15) Cables suitable for use in low temperature applications- NO"
+    },
+    {
+      "page": 8,
+      "text": "."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8302673",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199013"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 03-12-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199013"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 04-12-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199013"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199013"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199013"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199013"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: South Eastern Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199013"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: South Eastern Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199013"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :dmsimms.store@ser.railnet.gov.in Buyer Email id: apurba.saha76@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199013"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 7250",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199013"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: XLPE Cable for Working Voltage up to and Including 1.1 KV Marked To IS 7098 (Part 1) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199013"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199013"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199013"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199013"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 20 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199013"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199013"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199013"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199013"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Cables suitable for use in mines: No | Cables suitable for use in low temperature applications: Yes | Classification of cables for improved fire performace category: C2 - FR-LSH",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199013"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Nominal Area of Conductor (in Sq mm): 16 | Number of Cores: 4 | Material of Conductor: Aluminium | Construction of the conductor: Stranded and shaped | Type of Inner Sheath: Vulcanized rubber, Un-vulcanized rubber, Thermoplastic | Type of Cable: Armoured cable | Material of Armouring: Galvanized steel formed wire | Type of Armouring: Single strip | Outer Sheath Standard: Conforming to IS:5831:1984 latest | Type of Outer Sheath: PVC-ST2 | Manufacturer's Identification on Cable: as per Cl.17.1 of IS:7098 Part 1: latest | Cable Identification: as per Cl.17.2 of IS:7098 Part 1: latest | Packing and Marking: as per Cl.18.1 and 18.2 of IS:7098 Part 1: latest | Cable Wound on: ISI Marked Wooden drum | Drum Standard: as per IS:10418 latest",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199013"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Sonu Kumar | 721301,Office of the Dy.CMM/GSD/KGP, General Stores depot, South Eastern Railway, near CME gate, Kharagpur workshop. | 7250 | 60",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199013"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 2. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): RITES Post Receipt Inspection at consignee site before acceptance of stores: CONSIGNEE 3. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 4. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1) Source Restriction: The cable is restricted to be procured only from manufacturers having valid, i.e. oper ative, BIS License of the tendered IS specification. Dealers can quote with bid specific authorization letter fr om OEM, otherwise their offer shall be summarily rejected without any back reference. The onus to upload the valid BIS License along with the offer shall be on the firm. 2) ISI MARKING: The cable shall be ISI marked. 3) Firm shall submit Valid BIS License Certificate for the offered product conforming to IS 7098 (Part 1 : 20 25 or latest) along with the offer. BIS license must cover the required cable in respect of no. of cores, core size & C2 category of improved fire performance, otherwise their offer will be summarily rejected without any back reference.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199013"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "4) Packing Instruction: Cables are to be supplied in the Cable drums of 500M capacity with 500M standard l ength on each drum with the balance quantity for the cable length up to 200M are to be supplied in the ca ble drums of 200M capacity and for cable length above 200M up to 500M are to be supplied in cable drum s of 500M capacity. Standard length of cable on drum (in m) 500 +/- 5% is acceptable. 5) Acceptance test as per IS:7098 Part-1 has to be conducted by Inspection Agency. Additionally, the follo wing specific steps shall be strictly adhered to during the inspection: a.Measurement of Conductor resistance on complete Lot and to be carried out on offered drum/coil length of cable. b. For length verification, rewinding of drums would be carried out on sample drums selected as per the sa mpling plan mentioned in IS: 7098 (Part-1)/2025. c. Checking of sequential meter marking, provided on outer sheath of cable and verification of meter lengt h by calibrated steel scale /tape and inspection of homogeneity of size and shape throughout the cable len gth. d. In addition to hologram sealing, Polycarbonate/lead seal on the end of cable for sealing of lot. e. Sampling rate shall be doubled for all tests as and when there is any rejection of a firm in acceptance te st . Normal inspection will be resumed when at least 3 lots there after pass successfully. f. To ensure uniformity in construction, at least one sample shall be taken from in between 30% to 70% of the offered length from a randomly selected drum, and all acceptance tests shall be carried out on the sa mple selected from this 30% to 70% range of the cable length. The Acceptance Test Report has to be sub mitted along with supply of material and Routine test Certificate has to be Submitted along with Supply of materials. 6) Quantity Tolerance- Minus (-) 5% within PO quantity is acceptable. 7) Warranty Clause: - 30 Months from the date of delivery. 8) Description of item:- 4x16 sq. mm, XLPE Insulated, 1100 Volts Grade, LT Cable with improved fire perfor mance category C2, Stranded, compacted circular and shaped Aluminium Conductor of H4 grade complyin g with Class 2 of IS 8130, Cores Laid up, Inner sheath of PVC applied by extrusion, Galvanised round steel wire or Galvanized steel formed wire (strip) Armoured, Cores' identification by Coloured strip applied on th e cores or by Colouring of XLPE Insulation, Outer Sheath of PVC Compound applied by extrusion conformin g to the requirement of type ST2 as per IS 5831 & also meet the requirement of C2 Category tests for impr oved fire performance. Recycled or Re-claimed material shall not be used for both inner/outer sheaths, XL PE insulation Tensile strength should be minimum 14.71 N/sq mm, Shrinkage of XLPE insulation at 130±3 deg C & 1 hr duration should be 2% (max). Conforming to IS: 7098 Part-1 2025 or latest & ISI Marked. 9) Type Test Certificate Conforming to IS:7098 Part-1 from NABL Accredited lab has to be submitted along with the offer and along with the supply of material for similar type of cable having conductor cross-section al area not less than the mentioned size in description. The type test must include the C2 Category tests fo r improved fire performance. The type test report should not be older than the 5 years from the tender clo sing date, otherwise their offer will be summarily rejected without any back reference. 10) Inspection agency shall verify the purchase details & test certificates of raw materials used in Cable vi z. XLPE insulation compound, conductor, armour material and PVC sheath compound. 11) Railway may, after delivery, send samples of the supplied cable to a laboratory for testing; any cable f ound not conforming to the requirements shall be rejected at the supplier’s cost. 12) Performance for similar item means \" performance for LT XLPE CABLE with Tender IS Specification (IS : 7098 Part-1) for the same or different sizes\". 13) Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have supplied sa me or similar Category Products for 20% of bid quantity, in at least one of the last three Financial years bef ore the bid opening date to any Central / State Govt Organization / PSU. Copies of relevant contracts (provi ng supply of cumulative order quantity in any one financial year) to be submitted along with bid in support of quantity supplied in the relevant Financial year. In case of bunch bids, the category related to primary p roduct having highest bid value should meet this criterion. 14)ISI or NON ISI marked wooden drum is acceptable. 15) Cables suitable for use in low temperature applications- NO",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199013"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": ".",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199013"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

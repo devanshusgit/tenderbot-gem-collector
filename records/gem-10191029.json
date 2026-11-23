@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8295851",
   "title": "M9419156121,M9419156125,M9419156118,M9419156122,M9419156119,M9419156123,M9419156120,M9419156124",
   "description": "M9419156121,M9419156125,M9419156118,M9419156122,M9419156119,M9419156123,M9419156120,M9419156124",
-  "organisation": "Contracts and Materials",
-  "ministry": "Ministry of Power",
-  "department": "Contracts and Materials",
+  "organisation": "Ntpc Tamilnadu Energy Company Ltd",
+  "ministry": "Ministry Of Power",
+  "department": "Contracts And Materials",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "M9419156121,M9419156125,M9419156118,M9419156122,M9419156119,M9419156123,M9419156120,M9419156124",
   "quantity": 32,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-21T15:56:29+05:30",
   "closing_at": "2026-12-01T16:00:00+05:30",
   "status": "active",
@@ -27,6 +27,31 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10191029"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "View File",
+      "url": "https://mkp.gem.gov.in/uploaded_documents/51/16/877/OrderItem/BoqDocument/2026/11/19/ts_2026-11-19-17-17-39_c872856c81453a457d05f9b141eab4c0.pdf",
+      "page": 5
+    },
+    {
+      "name": "View File",
+      "url": "https://mkp.gem.gov.in/uploaded_documents/51/16/877/OrderItem/BoqLineItemsDocument/2026/11/19/boq_2026-11-19-17-17-39_e6a88c091212b1ccde0e7a452522c286.csv",
+      "page": 5
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8295851/CLM0010/ATC_e7aa7f7c-c4cd-4994-98d61795089282109_nchaplot.doc",
+      "page": 10
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261121",
+      "page": 12
     }
   ],
   "tags": [
@@ -34,5 +59,259 @@
   ],
   "source_fetched_at": "2026-11-22T16:41:06.493Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-02T16:00:00+05:30",
+  "office": "Chennai",
+  "buyer_email": "buyer705.nl.cg@gembuyer.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "120 (Days)",
+  "source_document_fetched_at": "2026-11-23T00:13:20.935227+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "8927155c958dc04f7547dcd89b97f8f0a1f206e3127780715b78ef98f24f6545",
+  "document_pages": 12,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 2)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Kamal Gupta",
+      "address": "600103,NTPC Tamilnadu Energy Company Ltd. Vallur Thermal Power Project, PO Vellivoyal Chavadi, Ponneri Taluk, Thiruvallur District, Chennai 600103",
+      "quantity": 2,
+      "quantity_label": "Quantity",
+      "delivery_days": 126
+    },
+    {
+      "page": 6,
+      "consignee": "Kamal Gupta",
+      "address": "600103,NTPC Tamilnadu Energy Company Ltd. Vallur Thermal Power Project, PO Vellivoyal Chavadi, Ponneri Taluk, Thiruvallur District, Chennai 600103",
+      "quantity": 4,
+      "quantity_label": "Quantity",
+      "delivery_days": 126
+    },
+    {
+      "page": 6,
+      "consignee": "Kamal Gupta",
+      "address": "600103,NTPC Tamilnadu Energy Company Ltd. Vallur Thermal Power Project, PO Vellivoyal Chavadi, Ponneri Taluk, Thiruvallur District, Chennai 600103",
+      "quantity": 3,
+      "quantity_label": "Quantity",
+      "delivery_days": 126
+    },
+    {
+      "page": 7,
+      "consignee": "Kamal Gupta",
+      "address": "600103,NTPC Tamilnadu Energy Company Ltd. Vallur Thermal Power Project, PO Vellivoyal Chavadi, Ponneri Taluk, Thiruvallur District, Chennai 600103",
+      "quantity": 6,
+      "quantity_label": "Quantity",
+      "delivery_days": 126
+    },
+    {
+      "page": 8,
+      "consignee": "Kamal Gupta",
+      "address": "600103,NTPC Tamilnadu Energy Company Ltd. Vallur Thermal Power Project, PO Vellivoyal Chavadi, Ponneri Taluk, Thiruvallur District, Chennai 600103",
+      "quantity": 3,
+      "quantity_label": "Quantity",
+      "delivery_days": 126
+    },
+    {
+      "page": 8,
+      "consignee": "Kamal Gupta",
+      "address": "600103,NTPC Tamilnadu Energy Company Ltd. Vallur Thermal Power Project, PO Vellivoyal Chavadi, Ponneri Taluk, Thiruvallur District, Chennai 600103",
+      "quantity": 6,
+      "quantity_label": "Quantity",
+      "delivery_days": 126
+    },
+    {
+      "page": 9,
+      "consignee": "Kamal Gupta",
+      "address": "600103,NTPC Tamilnadu Energy Company Ltd. Vallur Thermal Power Project, PO Vellivoyal Chavadi, Ponneri Taluk, Thiruvallur District, Chennai 600103",
+      "quantity": 2,
+      "quantity_label": "Quantity",
+      "delivery_days": 126
+    },
+    {
+      "page": 9,
+      "consignee": "Kamal Gupta",
+      "address": "600103,NTPC Tamilnadu Energy Company Ltd. Vallur Thermal Power Project, PO Vellivoyal Chavadi, Ponneri Taluk, Thiruvallur District, Chennai 600103",
+      "quantity": 6,
+      "quantity_label": "Quantity",
+      "delivery_days": 126
+    }
+  ],
+  "technical_specifications": [],
+  "buyer_added_terms": [
+    {
+      "page": 9,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to"
+    },
+    {
+      "page": 10,
+      "text": "increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 3. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1) Subject GeM Bid has been floated on Original Equipment Manufacturer (OEM) i.e. HYDROQUIP HYDRAUL ICS PVT LTD /Original Equipment Supplier (OES) basis who have handled the Project Package of NTECL. Ac cordingly, OEM / OES only are eligible to participate in this Bid. Others shall not be considered and rejected during evaluation. 2) In case, OEM / OES intends to forward the enquiry to their dealer / distributor / channel partner to quote in the tender, OEM / OES has to send tender specific authorization letter to nchaplot@ntpc.co.in 3) OEM / OES has to authorize their only one dealer / distributor / channel partner to quote in the tender. 4) Tender specific authorization letter is to be submitted in bid by the dealer / distributor / channel partner authorized by OEM / OES. 5) Email shall be sent to eligible vendor (OEM / OES) by C&M / Buyer department for participation in this s pecific tender. . 4. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8295851",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10191029"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 01-12-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10191029"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 02-12-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10191029"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10191029"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Power",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10191029"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Contracts And Materials",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10191029"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Ntpc Tamilnadu Energy Company Ltd",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10191029"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Chennai",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10191029"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :vchandrasekhar01@ntpc.co.in Buyer Email id: buyer705.nl.cg@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10191029"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 32",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10191029"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: M9419156121 , M9419156125 , M9419156118 , M9419156122 , M9419156119 , M9419156123 , M9419156120 , M9419156124",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10191029"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 2,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10191029"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 3,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10191029"
+    },
+    {
+      "field": "tender_type",
+      "page": 3,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10191029"
+    },
+    {
+      "field": "emd_required",
+      "page": 3,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10191029"
+    },
+    {
+      "field": "emd_fee",
+      "page": 3,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10191029"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Kamal Gupta | 600103,NTPC Tamilnadu Energy Company Ltd. Vallur Thermal Power Project, PO Vellivoyal Chavadi, Ponneri Taluk, Thiruvallur District, Chennai 600103 | 2 | 126",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10191029"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Kamal Gupta | 600103,NTPC Tamilnadu Energy Company Ltd. Vallur Thermal Power Project, PO Vellivoyal Chavadi, Ponneri Taluk, Thiruvallur District, Chennai 600103 | 4 | 126",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10191029"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Kamal Gupta | 600103,NTPC Tamilnadu Energy Company Ltd. Vallur Thermal Power Project, PO Vellivoyal Chavadi, Ponneri Taluk, Thiruvallur District, Chennai 600103 | 3 | 126",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10191029"
+    },
+    {
+      "field": "consignees",
+      "page": 7,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Kamal Gupta | 600103,NTPC Tamilnadu Energy Company Ltd. Vallur Thermal Power Project, PO Vellivoyal Chavadi, Ponneri Taluk, Thiruvallur District, Chennai 600103 | 6 | 126",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10191029"
+    },
+    {
+      "field": "consignees",
+      "page": 8,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Kamal Gupta | 600103,NTPC Tamilnadu Energy Company Ltd. Vallur Thermal Power Project, PO Vellivoyal Chavadi, Ponneri Taluk, Thiruvallur District, Chennai 600103 | 3 | 126",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10191029"
+    },
+    {
+      "field": "consignees",
+      "page": 8,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Kamal Gupta | 600103,NTPC Tamilnadu Energy Company Ltd. Vallur Thermal Power Project, PO Vellivoyal Chavadi, Ponneri Taluk, Thiruvallur District, Chennai 600103 | 6 | 126",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10191029"
+    },
+    {
+      "field": "consignees",
+      "page": 9,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Kamal Gupta | 600103,NTPC Tamilnadu Energy Company Ltd. Vallur Thermal Power Project, PO Vellivoyal Chavadi, Ponneri Taluk, Thiruvallur District, Chennai 600103 | 2 | 126",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10191029"
+    },
+    {
+      "field": "consignees",
+      "page": 9,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Kamal Gupta | 600103,NTPC Tamilnadu Energy Company Ltd. Vallur Thermal Power Project, PO Vellivoyal Chavadi, Ponneri Taluk, Thiruvallur District, Chennai 600103 | 6 | 126",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10191029"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10191029"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 3. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1) Subject GeM Bid has been floated on Original Equipment Manufacturer (OEM) i.e. HYDROQUIP HYDRAUL ICS PVT LTD /Original Equipment Supplier (OES) basis who have handled the Project Package of NTECL. Ac cordingly, OEM / OES only are eligible to participate in this Bid. Others shall not be considered and rejected during evaluation. 2) In case, OEM / OES intends to forward the enquiry to their dealer / distributor / channel partner to quote in the tender, OEM / OES has to send tender specific authorization letter to nchaplot@ntpc.co.in 3) OEM / OES has to authorize their only one dealer / distributor / channel partner to quote in the tender. 4) Tender specific authorization letter is to be submitted in bid by the dealer / distributor / channel partner authorized by OEM / OES. 5) Email shall be sent to eligible vendor (OEM / OES) by C&M / Buyer department for participation in this s pecific tender. . 4. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10191029"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

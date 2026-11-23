@@ -5,9 +5,9 @@
   "tender_id": "GEM/2026/R/774991",
   "title": "Misc items for maint of Op wks assets,Misc items for maint of Op wks assets_1,Misc items for maint ",
   "description": "Misc items for maint of Op wks assets,Misc items for maint of Op wks assets_1,Misc items for maint of Op wks assets_2,Misc items for maint of Op wks assets_3,Misc items for maint of Op wks assets_4,Misc items for maint of Op wks assets_5,Misc items for maint of Op wks assets_6,Misc items for maint of Op wks assets_7,Misc items for maint of Op wks assets_8,Misc items for maint of Op wks assets_9,Misc items for maint of Op wks assets_10,Misc items for maint of Op wks assets_11,Misc items for maint of Op wks assets_12,Misc items for maint of Op wks assets_13,Misc items for maint of Op wks assets_14,Misc items for maint of Op wks assets_15,Misc items for maint of Op wks assets_16,Misc items for maint of Op wks assets_17,Misc items for maint of Op wks assets_18,Misc items for maint of Op wks assets_19,Misc items for maint of Op wks assets_20,Misc items for maint of Op wks assets_21,Misc items for maint of Op wks assets_22,Misc items for maint of Op wks assets_23,Misc items for maint of Op wks assets_24,Misc items ",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Army",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
@@ -25,8 +25,18 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10201319"
+    },
+    {
+      "name": "GEM/2026/B/8213120",
+      "url": "https://bidplus.gem.gov.in/showbidDocument/10095631",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261121",
+      "page": 3
     }
   ],
   "tags": [
@@ -34,5 +44,92 @@
   ],
   "source_fetched_at": "2026-11-23T02:06:22.127Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "ra_start_at": "2026-11-22T20:00:00+05:30",
+  "auto_extension": "If any seller submits the offer price during last 30 minutes of RA end time, then RA will be automatically extended for next 30 minutes from the last participation time. There is no limit on such RA extension cycle.",
+  "mse_exemption": "MSE Exemption for Years of Experience and Turnover: No",
+  "startup_exemption": "Startup Exemption for Years of Experience and Turnover: No",
+  "originating_bid_reference": "GEM/2026/B/8213120",
+  "source_document_fetched_at": "2026-11-23T07:01:03.276701+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "b89997576f2c1cb0a056a8535b3cf251c3eed3abb5c0d1bf97d89203cc514b61",
+  "document_pages": 3,
+  "eligibility": [
+    "MSE Exemption for Years of Experience and Turnover: No (GeM PDF, p. 3)",
+    "Startup Exemption for Years of Experience and Turnover: No (GeM PDF, p. 3)"
+  ],
+  "consignees": [],
+  "technical_specifications": [],
+  "buyer_added_terms": [],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/774991",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10201319"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 3,
+      "quote": "Please refer to Bid document of GEM/2026/B/8213120",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10201319"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 22-11-2026 20:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10201319"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 23-11-2026 20:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10201319"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10201319"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10201319"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Army",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10201319"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 33864",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10201319"
+    },
+    {
+      "field": "auto_extension",
+      "page": 2,
+      "quote": "Auto Extension: If any seller submits the offer price during last 30 minutes of RA end time, then RA will be automatically extended for next 30 minutes from the last participation time. There is no limit on such RA extension cycle.",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10201319"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 3,
+      "quote": "MSE Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10201319"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 3,
+      "quote": "Startup Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10201319"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda."
 }

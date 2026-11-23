@@ -5,9 +5,9 @@
   "tender_id": "GEM/2026/R/775034",
   "title": "336642372011,150200004004,137613254080,443612346000,443930132110,131612057000,443441288800,44299951",
   "description": "336642372011,150200004004,137613254080,443612346000,443930132110,131612057000,443441288800,442999513000,F7495300,336432026000,443132130026,P5300620,4436124000,336711155031,130016100224,131612215000,BOF08119,P7A00039,4436110090,324191520170442000000000,443311119000,502442100135,130010240154,311120370160,443641051000,443319014000,130012090314,443612199000,323434181763,443612081001,130010240164,B2H67302,443115187340,442071820334,990100437000,580525000107,443930151110,442370605486,324717031000,130054391104,442071820384,323434181743,443852068046,443919632501,206360000000,X7495300,2070710034,F5P00800,442953180084,443429108981,443933980170,5001006570,443612193017,443614002800,58052520107,B1309101,130071430144,131614029000,500447700101",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Army",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
@@ -25,8 +25,18 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10201527"
+    },
+    {
+      "name": "GEM/2026/B/8226692",
+      "url": "https://bidplus.gem.gov.in/showbidDocument/10111274",
+      "page": 2
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261122",
+      "page": 2
     }
   ],
   "tags": [
@@ -34,5 +44,106 @@
   ],
   "source_fetched_at": "2026-11-23T02:05:45.193Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "bidder_turnover_lakhs": 24,
+  "ra_start_at": "2026-11-23T11:00:00+05:30",
+  "auto_extension": "If any seller submits the offer price during last 30 minutes of RA end time, then RA will be automatically extended for next 30 minutes from the last participation time. There is no limit on such RA extension cycle.",
+  "mse_exemption": "MSE Exemption for Years Of Experience: Yes | Complete",
+  "startup_exemption": "Startup Exemption for Years Of Experience: Yes | Complete",
+  "originating_bid_reference": "GEM/2026/B/8226692",
+  "source_document_fetched_at": "2026-11-23T06:56:47.135248+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "3d286c74f7a1987d4ae0051b70d273750257963743673888bbe4f8a3040a8b9d",
+  "document_pages": 2,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 24 Lakh (s) (GeM PDF, p. 1)",
+    "MSE Exemption for Years Of Experience: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Exemption for Years Of Experience: Yes | Complete (GeM PDF, p. 1)"
+  ],
+  "consignees": [],
+  "technical_specifications": [],
+  "buyer_added_terms": [],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/775034",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10201527"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 2,
+      "quote": "Please refer to Bid document of GEM/2026/B/8226692",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10201527"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 23-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10201527"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 24-11-2026 11:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10201527"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10201527"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10201527"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Army",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10201527"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 268",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10201527"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: 336642372011 , 150200004004 , 137613254080 , 443612346000 , 443930132110 , 131612057000 , 443441288800 , 442999513000 , F7495300 , 336432026000 , 443132130026 , P5300620 , 4436124000 , 336711155031 , 130016100224 , 131612215000 , BOF08119 , P7A00039 , 4436110090 , 324191520170442000000000 , 443311119000 , 502442100135 , 130010240154 , 311120370160 , 443641051000 , 443319014000 , 130012090314 , 443612199000 , 323434181763 , 443612081001 , 130010240164 , B2H67302 , 443115187340 , 442071820334 , 990100437000 , 580525000107 , 443930151110 , 442370605486 , 324717031000 , 130054391104 , 442071820384 , 323434181743 , 443852068046 , 443919632501 , 206360000000 , X7495300 , 2070710034 , F5P00800 , 442953180084 , 443429108981 , 443933980170 , 5001006570 , 443612193017 , 443614002800 , 58052520107 , B1309101 , 130071430144 , 131614029000 , 500447700101",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10201527"
+    },
+    {
+      "field": "auto_extension",
+      "page": 1,
+      "quote": "Auto Extension: If any seller submits the offer price during last 30 minutes of RA end time, then RA will be automatically extended for next 30 minutes from the last participation time. There is no limit on such RA extension cycle.",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10201527"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 24 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10201527"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 1,
+      "quote": "MSE Exemption for Years Of Experience: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10201527"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 1,
+      "quote": "Startup Exemption for Years Of Experience: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10201527"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda."
 }

@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8289333",
   "title": "Firewall (V4)",
   "description": "Firewall (V4)",
-  "organisation": "NA",
-  "ministry": "Ministry of Mines",
-  "department": "NA",
+  "organisation": "Geological Survey Of India (gsi)",
+  "ministry": "Ministry Of Mines",
+  "department": "Na",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Firewall (V4)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 27000,
   "published_at": "2026-11-18T17:47:08+05:30",
   "closing_at": "2026-12-01T15:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10183611"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/oZJwDHxwP1Ttj4pEGxL8_cYB8J5lqDt8bo1KDa79-lg",
+      "page": 5
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8289333/CLM0010/firewall_39bcb2a1-a168-4c33-ab571794997262713_118697.pdf",
+      "page": 7
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261118",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +54,366 @@
   ],
   "source_fetched_at": "2026-11-22T16:40:23.455Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-02T15:00:00+05:30",
+  "office": "North Eastern Region Shillong",
+  "buyer_email": "k.wankhar@gsi.gov.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "oem_turnover_lakhs": 20,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 60,
+  "offer_validity": "90 (Days)",
+  "estimated_bid_value": 927000,
+  "source_document_fetched_at": "2026-11-23T09:26:35.586293+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "f6291613db2c4ce62cecfc9550a7ae45d0b049f2cd36947e83c6cfb164dec8f3",
+  "document_pages": 8,
+  "eligibility": [
+    "OEM average turnover (last 3 years): 20 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 40 % (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Biswajeet Lenka",
+      "address": "793014,Lower Motinagar, Shillong",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Generic",
+          "parameter": "Description of Store",
+          "value": "Next Generation Firewall (NGFW)"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Form Factor (Rack Size)",
+          "value": "1U"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Type of Mounting",
+          "value": "Rack Mount"
+        },
+        {
+          "group": "Performance",
+          "parameter": "IPS Throughput (Gbps)",
+          "value": "5.1–10, 10.1–20, 20.1–40, 40.1–80, 80.1-100, 100.1- 150, 150.1-200 Or higher"
+        },
+        {
+          "group": "Performance",
+          "parameter": "Firewall Throughput (in Gbps)",
+          "value": "20.1–40, 40.1–80, 80.1-100, 100.1-150, 150.1-200 Or higher"
+        },
+        {
+          "group": "Performance",
+          "parameter": "NGFW Throughput (Gbps)",
+          "value": "1.1–5, 5.1–10, 10.1–20, 20.1–40, 40.1–80, 80.1-100, 100.1-150, 150.1-200 Or higher"
+        },
+        {
+          "group": "Performance",
+          "parameter": "VPN Throughput",
+          "value": "10.1-20 Gbps, 20.1–40 Gbps, 40.1–80 Gbps, 80.1-100 Gbps Or higher"
+        },
+        {
+          "group": "Performance",
+          "parameter": "Threat Protection Throughput (Gbps)",
+          "value": "1.1–5, 5.1–10, 10.1–20, 20.1–40, 40.1–80, 80.1-100, 100.1-150, 150.1-200 Or higher"
+        },
+        {
+          "group": "Interface & Connectivity",
+          "parameter": "Number of RJ45 Ports",
+          "value": "8"
+        },
+        {
+          "group": "Interface & Connectivity",
+          "parameter": "Number of 2.5GE Ports",
+          "value": "0"
+        },
+        {
+          "group": "Interface & Connectivity",
+          "parameter": "Number of SFP Ports",
+          "value": "2"
+        },
+        {
+          "group": "Interface & Connectivity",
+          "parameter": "Number of 10G SFP+ Ports",
+          "value": "0"
+        },
+        {
+          "group": "Interface & Connectivity",
+          "parameter": "Number of 25G SFP28 Ports",
+          "value": "0"
+        },
+        {
+          "group": "Interface & Connectivity",
+          "parameter": "Number of 40G QSFP+ Ports",
+          "value": "0"
+        },
+        {
+          "group": "Interface & Connectivity",
+          "parameter": "Number of 100G QSFP28 Ports",
+          "value": "0"
+        },
+        {
+          "group": "Interface & Connectivity",
+          "parameter": "Local Log Storage Capacity (in GB)",
+          "value": "120, 240, 480, 960 Or higher"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": "Features",
+          "parameter": "Features Supported",
+          "value": "Intrusion Prevention System, Application Control, URL Filtering, Anti Malware Protection, Anti Bot Protection, Command and Control Protection, DNS Security, Sandboxing, SSL Inspection"
+        },
+        {
+          "group": "Features",
+          "parameter": "Networking Features Supported",
+          "value": "Network Address Translation (NAT), VLAN Support, Static Routing, Policy Based Routing, Dynamic Routing, Open Shortest Path First (OSPF), Border Gateway Protocol (BGP), Dynamic Host Configuration Protocol (DHCP) Server, Dynamic Host Configuration Protocol (DHCP) Relay, IPv6 Ready/Certified, SD-WAN"
+        },
+        {
+          "group": "Features",
+          "parameter": "Management Interfaces Supported",
+          "value": "Web GUI, Command Line Interface, Secure Shell (SSH), Centralised Management Platform (Cloud)"
+        },
+        {
+          "group": "Features",
+          "parameter": "Logging Integration Supported",
+          "value": "Local Logging"
+        },
+        {
+          "group": "Features",
+          "parameter": "Power Supply Configuration",
+          "value": "Single Fixed Power Supply"
+        },
+        {
+          "group": "Certification and Warranty",
+          "parameter": "Warranty Period (in Years)",
+          "value": "5 Or higher"
+        },
+        {
+          "group": "Certification and Warranty",
+          "parameter": "Certification from TEC as per Standard for Generic Requirements (GR)/Interface Requirements (IR)",
+          "value": "No"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms."
+    },
+    {
+      "page": 7,
+      "text": "2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8289333",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183611"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 01-12-2026 15:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183611"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 02-12-2026 15:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183611"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183611"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Mines",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183611"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Na",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183611"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Geological Survey Of India (gsi)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183611"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: North Eastern Region Shillong",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183611"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :hod.ner@gsi.gov.in Buyer Email id: k.wankhar@gsi.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183611"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183611"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Firewall (V4) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183611"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 20 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183611"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183611"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183611"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183611"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183611"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183611"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 40 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183611"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183611"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 927000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183611"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 27000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183611"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 27000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183611"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183611"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 60",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183611"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183611"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Description of Store: Next Generation Firewall (NGFW) | Form Factor (Rack Size): 1U | Type of Mounting: Rack Mount | IPS Throughput (Gbps): 5.1–10, 10.1–20, 20.1–40, 40.1–80, 80.1-100, 100.1- 150, 150.1-200 Or higher | Firewall Throughput (in Gbps): 20.1–40, 40.1–80, 80.1-100, 100.1-150, 150.1-200 Or higher | NGFW Throughput (Gbps): 1.1–5, 5.1–10, 10.1–20, 20.1–40, 40.1–80, 80.1-100, 100.1-150, 150.1-200 Or higher | VPN Throughput: 10.1-20 Gbps, 20.1–40 Gbps, 40.1–80 Gbps, 80.1-100 Gbps Or higher | Threat Protection Throughput (Gbps): 1.1–5, 5.1–10, 10.1–20, 20.1–40, 40.1–80, 80.1-100, 100.1-150, 150.1-200 Or higher | Number of RJ45 Ports: 8 | Number of 2.5GE Ports: 0 | Number of SFP Ports: 2 | Number of 10G SFP+ Ports: 0 | Number of 25G SFP28 Ports: 0 | Number of 40G QSFP+ Ports: 0 | Number of 100G QSFP28 Ports: 0 | Local Log Storage Capacity (in GB): 120, 240, 480, 960 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183611"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Features Supported: Intrusion Prevention System, Application Control, URL Filtering, Anti Malware Protection, Anti Bot Protection, Command and Control Protection, DNS Security, Sandboxing, SSL Inspection | Networking Features Supported: Network Address Translation (NAT), VLAN Support, Static Routing, Policy Based Routing, Dynamic Routing, Open Shortest Path First (OSPF), Border Gateway Protocol (BGP), Dynamic Host Configuration Protocol (DHCP) Server, Dynamic Host Configuration Protocol (DHCP) Relay, IPv6 Ready/Certified, SD-WAN | Management Interfaces Supported: Web GUI, Command Line Interface, Secure Shell (SSH), Centralised Management Platform (Cloud) | Logging Integration Supported: Local Logging | Power Supply Configuration: Single Fixed Power Supply | Warranty Period (in Years): 5 Or higher | Certification from TEC as per Standard for Generic Requirements (GR)/Interface Requirements (IR): No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183611"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Biswajeet Lenka | 793014,Lower Motinagar, Shillong | 1 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183611"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183611"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10183611"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

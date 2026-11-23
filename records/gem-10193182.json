@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8297629",
   "title": "Gas Analyser",
   "description": "Gas Analyser",
-  "organisation": "Department of Atomic Energy",
-  "ministry": "Department of Atomic Energy",
-  "department": "Department of Atomic Energy",
+  "organisation": "Indira Gandhi Centre For Atomic Research",
+  "ministry": "Department Of Atomic Energy",
+  "department": "Department Of Atomic Energy",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Gas Analyser",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-20T12:28:57+05:30",
   "closing_at": "2026-12-05T13:00:00+05:30",
   "status": "active",
@@ -27,6 +27,16 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10193182"
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/LYBfEqk43QJEr_GyBQejcPW6RPwK9FHvUQbUTeHrs5Y",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261120",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +44,460 @@
   ],
   "source_fetched_at": "2026-11-23T02:08:52.099Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-06T13:00:00+05:30",
+  "office": "Indira Gandhi Centre For Atomic Research",
+  "buyer_email": "sujish@igcar.gov.in",
+  "emd_required": false,
+  "bidder_turnover_lakhs": 2,
+  "oem_turnover_lakhs": 20,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,OEM Authorization Certificate,OEM Annual Turnover,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-23T08:26:18.026131+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "5254013428a039d5c1c40d04395cf407f07681405532b21dfb3abc6fbaad1604",
+  "document_pages": 8,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 2 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 20 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: GeM verified turnover (GeM PDF, p. 1)",
+    "MSE Relaxation for Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,OEM Authorization Certificate,OEM Annual Turnover,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 50 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Asif Ahmad Bhat",
+      "address": "603102,Materials Chemistry & Metal Fuel Cycle Group, Pyro Process Engineering Division, IGCAR, Kalpakkam, Chengalpattu District",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 60
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Gases Measurements",
+          "parameter": "Leak Test",
+          "value": "Electronic"
+        },
+        {
+          "group": "Technical Parameter",
+          "parameter": "Technology Used to check the parameters",
+          "value": "Battery Based"
+        },
+        {
+          "group": "Technical Parameter",
+          "parameter": "Optional Sensors",
+          "value": "Temperature"
+        },
+        {
+          "group": "Technical Parameter",
+          "parameter": "Body Material",
+          "value": "Fibre Plastic"
+        },
+        {
+          "group": "Technical Parameter",
+          "parameter": "Low Battery Voltage Cut off",
+          "value": "Yes"
+        },
+        {
+          "group": "Technical Parameter",
+          "parameter": "Sample train",
+          "value": "NA"
+        },
+        {
+          "group": "Technical Parameter",
+          "parameter": "Number of Impringer",
+          "value": "1"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "Parameters to check - CO,CO2,HC,O2",
+          "value": "No"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "CO (Carbon Monoxide)",
+          "value": "NA"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "Accuracy of CO in %",
+          "value": "NA"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "Resolution of CO in %",
+          "value": "NA"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "CO2 (Carbon Dioxide)",
+          "value": "NA"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "Accuracy of CO2%",
+          "value": "NA"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "HC (Hydro Carbon)",
+          "value": "NA"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "Accuracy of HC in %",
+          "value": "NA"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "22",
+          "value": "NA"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "O2 (Oxygen)",
+          "value": "NA"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "Accuracy of O2 in %",
+          "value": "0"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "Resolution of O2 IN %",
+          "value": "nA"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "Parameters to check - Nox, Sox",
+          "value": "No"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "NOx",
+          "value": "NA"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "Accuracy of NOx in %",
+          "value": "NA"
+        },
+        {
+          "group": "Mandatory Gases Option",
+          "parameter": "Resolution of Nox in PPM",
+          "value": "NA"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Sox",
+          "value": "NA"
+        },
+        {
+          "group": null,
+          "parameter": "Accuracy of SOx in %",
+          "value": "NA"
+        },
+        {
+          "group": null,
+          "parameter": "Resolution of Sox in PPM",
+          "value": "NA"
+        },
+        {
+          "group": "Features",
+          "parameter": "Optional Test Parameters",
+          "value": "Leak"
+        },
+        {
+          "group": "Features",
+          "parameter": "Warm up time at 0?C in Minutes",
+          "value": "0-4"
+        },
+        {
+          "group": "Features",
+          "parameter": "Standard Accessories",
+          "value": "Sampling probe"
+        },
+        {
+          "group": "Features",
+          "parameter": "Inbuilt Printer",
+          "value": "No"
+        },
+        {
+          "group": "Features",
+          "parameter": "Buttons",
+          "value": "Soft Touch Keys"
+        },
+        {
+          "group": "Features",
+          "parameter": "Display Type",
+          "value": "LCD"
+        },
+        {
+          "group": "Features",
+          "parameter": "Separate window for displaying PEF/RPM/?/AFR/NOx & Oil temperature values",
+          "value": "No"
+        },
+        {
+          "group": "Features",
+          "parameter": "Confirms to ISO 3930 Standards",
+          "value": "Yes"
+        },
+        {
+          "group": "Features",
+          "parameter": "Display Optional Parameters",
+          "value": "NA"
+        },
+        {
+          "group": "Features",
+          "parameter": "Gas scrubber for cleaning of impure particles",
+          "value": "No"
+        },
+        {
+          "group": "Features",
+          "parameter": "HC residue test",
+          "value": "No"
+        },
+        {
+          "group": "Features",
+          "parameter": "Digital span calibrationDigital span calibration",
+          "value": "Yes"
+        },
+        {
+          "group": "Features",
+          "parameter": "Power supply",
+          "value": "230V AC ± 10%"
+        },
+        {
+          "group": "Features",
+          "parameter": "Operating temperature Min Range Display in deg celsius",
+          "value": "0-10"
+        },
+        {
+          "group": "Features",
+          "parameter": "Operating temperature Max Range Display in deg celsius",
+          "value": "40-50"
+        },
+        {
+          "group": "Features",
+          "parameter": "Handheld",
+          "value": "Yes"
+        },
+        {
+          "group": "Product Dimensions",
+          "parameter": "Product Overall Dimension (Length) in cm",
+          "value": "50-100"
+        },
+        {
+          "group": "Product Dimensions",
+          "parameter": "Product Overall Dimension (Width) in cm",
+          "value": "50-100"
+        },
+        {
+          "group": "Product Dimensions",
+          "parameter": "Product Overall Dimension(Height) in cm",
+          "value": "50-100"
+        },
+        {
+          "group": "Purchase Guidelines",
+          "parameter": "Warranty in years",
+          "value": "1.0 (year)"
+        },
+        {
+          "group": "Purchase Guidelines",
+          "parameter": "Demonstration of equipment and training to be provided to buyer on demand",
+          "value": "Yes"
+        },
+        {
+          "group": "Purchase Guidelines",
+          "parameter": "Calibration tests Certificate",
+          "value": "Yes"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic While generating invoice in GeM portal, the seller must upload scanned copy of GST invoice and the screenshot of GST portal confirming payment of GST."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8297629",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193182"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 05-12-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193182"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 06-12-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193182"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193182"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Department Of Atomic Energy",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193182"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Atomic Energy",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193182"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indira Gandhi Centre For Atomic Research",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193182"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Indira Gandhi Centre For Atomic Research",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193182"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :sindhod@igcar.gov.in Buyer Email id: sujish@igcar.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193182"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193182"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Gas Analyser (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193182"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 2 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193182"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 20 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193182"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193182"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: GeM verified turnover",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193182"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193182"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193182"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,OEM Authorization Certificate,OEM Annual Turnover,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193182"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 50 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193182"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193182"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193182"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193182"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Leak Test: Electronic | Technology Used to check the parameters: Battery Based | Optional Sensors: Temperature | Body Material: Fibre Plastic | Low Battery Voltage Cut off: Yes | Sample train: NA | Number of Impringer: 1 | Parameters to check - CO,CO2,HC,O2: No | CO (Carbon Monoxide): NA | Accuracy of CO in %: NA | Resolution of CO in %: NA | CO2 (Carbon Dioxide): NA | Accuracy of CO2%: NA | HC (Hydro Carbon): NA | Accuracy of HC in %: NA | 22: NA | O2 (Oxygen): NA | Accuracy of O2 in %: 0 | Resolution of O2 IN %: nA | Parameters to check - Nox, Sox: No | NOx: NA | Accuracy of NOx in %: NA | Resolution of Nox in PPM: NA",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193182"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Sox: NA | Accuracy of SOx in %: NA | Resolution of Sox in PPM: NA | Optional Test Parameters: Leak | Warm up time at 0?C in Minutes: 0-4 | Standard Accessories: Sampling probe | Inbuilt Printer: No | Buttons: Soft Touch Keys | Display Type: LCD | Separate window for displaying PEF/RPM/?/AFR/NOx & Oil temperature values: No | Confirms to ISO 3930 Standards: Yes | Display Optional Parameters: NA | Gas scrubber for cleaning of impure particles: No | HC residue test: No | Digital span calibrationDigital span calibration: Yes | Power supply: 230V AC ± 10% | Operating temperature Min Range Display in deg celsius: 0-10 | Operating temperature Max Range Display in deg celsius: 40-50 | Handheld: Yes | Product Overall Dimension (Length) in cm: 50-100 | Product Overall Dimension (Width) in cm: 50-100 | Product Overall Dimension(Height) in cm: 50-100 | Warranty in years: 1.0 (year) | Demonstration of equipment and training to be provided to buyer on demand: Yes | Calibration tests Certificate: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193182"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Asif Ahmad Bhat | 603102,Materials Chemistry & Metal Fuel Cycle Group, Pyro Process Engineering Division, IGCAR, Kalpakkam, Chengalpattu District | 1 | 60",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193182"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic While generating invoice in GeM portal, the seller must upload scanned copy of GST invoice and the screenshot of GST portal confirming payment of GST.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10193182"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

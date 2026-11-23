@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8302473",
   "title": "Leasing Service of DG-Set",
   "description": "Leasing Service of DG-Set",
-  "organisation": "Department of Financial Services",
-  "ministry": "Ministry of Finance",
-  "department": "Department of Financial Services",
+  "organisation": "Lic - Life Insurance Corporation Of India",
+  "ministry": "Ministry Of Finance",
+  "department": "Department Of Financial Services",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Leasing Service of DG-Set",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 34978,
   "published_at": "2026-11-21T13:08:46+05:30",
   "closing_at": "2026-12-07T13:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8302473/CLM0010/ATC_408_4fe4ffb2-4a23-4315-83f91795243301476_ao_licbareillydo.os.pdf",
+      "page": 17
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261121",
+      "page": 18
+    },
+    {
+      "name": "Service Level Agreement",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/bidsla/104015195078656",
+      "page": 18
     }
   ],
   "tags": [
@@ -34,5 +54,442 @@
   ],
   "source_fetched_at": "2026-11-23T02:11:16.458Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-08T13:00:00+05:30",
+  "office": "Divisional Office Bareilly",
+  "buyer_email": "bycon22.lic.bareilly@gembuyer.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 10,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Bidder Turnover,OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 3,
+  "epbg_duration_months": 42,
+  "offer_validity": "180 (Days)",
+  "estimated_bid_value": 1748880,
+  "contract_period": "3 Year(s)",
+  "source_document_fetched_at": "2026-11-23T08:04:46.295844+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "7fb64dbf3fb512f0ecbc97358fe5956aceebdf51c61f5452ca7f438a8ae841ad",
+  "document_pages": 19,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 10 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Bidder Turnover,OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Arvind Kumar Maheshwari",
+      "address": "243005,LIC of India, Divisional office, DD Puram",
+      "quantity": 1,
+      "quantity_label": "Number of DG SET",
+      "delivery_days": null,
+      "additional_requirements": "N/A"
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Type of Lease",
+          "value": "Wet Lease (With Fuel)"
+        },
+        {
+          "group": "Core",
+          "parameter": "Lease Period (in months)",
+          "value": "36"
+        },
+        {
+          "group": "Core",
+          "parameter": "Condition of the DG Set",
+          "value": "New"
+        },
+        {
+          "group": "Core",
+          "parameter": "Age of the DG Set since Procurement",
+          "value": "0"
+        },
+        {
+          "group": "Core",
+          "parameter": "Age of the DG Set in running hours",
+          "value": "Upto 0 hours"
+        },
+        {
+          "group": "Core",
+          "parameter": "Types of Packages",
+          "value": "Package 2 (60 Running Hour Per Month)"
+        },
+        {
+          "group": "Core",
+          "parameter": "Floor / Basement Number",
+          "value": "Ground floor 0"
+        },
+        {
+          "group": "Core",
+          "parameter": "DG Set Rating",
+          "value": "30 KVA"
+        },
+        {
+          "group": "Core",
+          "parameter": "Voltage Rating",
+          "value": "415 Volt + 10%"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "4 / 19",
+          "parameter": "Output Voltage",
+          "value": "Three Phase 415 VAC, 50 Hz"
+        },
+        {
+          "group": "4 / 19",
+          "parameter": "Voltage Regulation Class",
+          "value": "VG2"
+        },
+        {
+          "group": "4 / 19",
+          "parameter": "Specific Fuel Consumption (gm/kWh)",
+          "value": "250 gm/kwh(Maximum)"
+        },
+        {
+          "group": "4 / 19",
+          "parameter": "Duty hours for technical manpower/operator",
+          "value": "8 hrs/day"
+        },
+        {
+          "group": "4 / 19",
+          "parameter": "Working Days in a Week",
+          "value": "5 Days"
+        },
+        {
+          "group": "4 / 19",
+          "parameter": "Time Period required for Installation(Days)",
+          "value": "30"
+        },
+        {
+          "group": "4 / 19",
+          "parameter": "Length of inter-connecting of the exahust pipe/stack and Dg-set exhaust/silencer covered under the scope of service",
+          "value": "Upto 10 Meter"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses GENERAL TERMS & CONDITIONS The terms & conditions for hiring the D.G. Set are as under: 1. The terms and conditions along with the instructions will form part of the tende r to be submitted by the tenderer to LIC of India, herein termed as Corporation. 2. There should not be any deviation in terms and conditions as laid down in the B ID documents."
+    },
+    {
+      "page": 6,
+      "text": "3. Rates are to be quoted through GeM Portal for running the D.G.Set 30 KVA, CPCB-IV) on the basis of estimated bid value (48580*36= 174 8880.00 with GST) i.e. Total 36 months value and payment will be done on monthly basis including diesel and Rental charges, for each ra ting of D.G. Set complete with all accessories on hire basis. 4. The operator provided by the supplier, should possess the requisite & valid Li cense, for running D.G. Set. if required by local or any other govt. authorities. 5. All cost for maintenance and servicing of the generator including the cost of sp are parts and periodical replacement of Mobil oil, diesel are to be borne by the D.G.set contractor. The D.G. Set should be maintained properly to keep th ese in satisfactory running condition at all times for supplying emergency pow er for a load at least 90% of rated output of respective generators normal loa ding will be 75% + 5% upward variation . 6. The permission of statutory authorities towards installation of D.G set, will be o btained by the supplier /Vendor /Contractor of D.G set at their own cost. 7. The arrangements for providing exhaust pipeline of the D.G. Set, as per require ment & specification of Statutory Authorities, will be made by the contractor at their own cost. 8. Mending of any damage caused to the LIC property during loading, unloading o f the D.G. Set in LIC premises at the time of installation or taking out D.G set fr om LIC premises will be done by the contractor to original finish, at their cost. 9. Contractor shall be solely responsible for Repairing & Mending of any damage due to natural Disaster i.e. Flood, Earthquakes, Hurricanes, cyclone, storms etc. 10.The successful bidder should install and commission the New D.G. Set in LIC pr emises within 30 (Thirty) days from the date of awarding the contract, If D.G. set is not supplied &installed within the stipulated period from the date of acc eptance letter, L.I.C. of India reserve the right to cancel the order and forfeit th e E.M.D./ S.D. 11. 30 days period is given to vendor for installation of New D.G set from the date of awarding the contract. If the D.G set is installed by the vendor beyond 30 da ys; the losses (if any) shall be borne by the vendor and amount of losses shall b e recovered from the vendor’s monthly bill payment. (a) Here; losses means rate of existing tender minus L-1 rate of new tender"
+    },
+    {
+      "page": 7,
+      "text": "(monthly rent +Over time+ Waiting time charges) (b) Calculation of losses : (Difference of rates x No of days delayed beyond 30d ays) 12.Electricity Duty, if any, payable to the State Govt., depending on running hours of the D.G. Set shall be borne by the contractor. Installation of the energy mete r with its calibration and registration with the Statutory Authority shall be done by the contractor at their cost. 13.The contract shall remain in force initially for a period of three years from the d ate of installation and satisfactory commissioning of the New D.G. Set at site, which may be extended further for another two year on mutual consent & perfo rmance of the Vendor, on same terms & conditions. The contract may be renew ed for further period at mutually agreed rates / charges and keeping other term s & conditions unchanged, depending on satisfactory services rendered by the generator supplier and requirement of the office, on expiry of existing agree ment vendor has to continue the services at existing Terms & conditio ns till the Installation of New DG Set. Extension /renewal of contract is not a right of vendor .It will be at sole discretion of LIC. 14.However, the contract is subject to termination at any time if the services are n ot found satisfactory or for any other reason whatsoever. LIC of India may termi nate the contract after giving one calendar month notice if the service of DG se t is not required. 15.In case of any major break-down of D.G. Set requiring repairing time for more t han one day, an alternative interim arrangement will be made by the generator provider immediately by providing a substitute generator of adequate capacity at no extra cost. For non-functioning of the D.G. Set or in the event of failure on the part of the generator supplier to provide an alternative interim generator of adequate capacity, within one day during power failure / load shedding, penalty deduction shall be made based on OT rate for running of DG set beyond normal hours and if the same is not restored within 24 hours, Corporati on will be free to hire another DG set from the market at the risk and cost of co ntractor, limited to double the amount quoted by the contractor. 16.The successful bidder will have to execute an Agreement with LIC of India, in Non - judicial stamp paper of Rs 100/ , and as per the draft of Agreement to be provided by the LIC of India, within seven days period from the date of issue of work order for commencement of the work. If agreement is not executed the n No payment will be made."
+    },
+    {
+      "page": 8,
+      "text": "17.The deployment of operator for running the generator is must and should comp ly with the Labour Legislation Act. and Minimum wage Act of Govt. of India and t he State Govt. 18.The contractor will have to remove the D.G. Set from the LIC premises wit hin 07 (Seven) days from the date of termination or closure of the contract at t heir cost , else demurrage charges @ 1000/- (Rupees One thousand only) per d ay will be levied by the LIC of India, on the contractor. 19.The D.G. set shall have to be run in the event of load shedding / powe r cut / breakdown / single phasing / erratic power supply from supply c ompany/any other reason on all working days. Normal working hours o n all working days shall be from Monday to Friday (except holiday if a ny) 9.30 AM to 6.30 PM 20. If the D.G set has to run during office hours due to failure of office changeover , office transformer, office UPS, cable etc. or any kind of fault from office inspite of power supply company, the payment for running of DG set in the per iod shall be made as per payment term & condition point no 06 i.e. 6.46 Lit/H rs during office hours & 5.8 Lit/hrs beyond the office hours. 21.Please note that new D G set shall comprise Diesel Engine of Kirloskar Green / Cummins India /Ashok- Leland / Greaves/Mahindra and Mahindra Ltd, coupled w ith Alternator of Stamdford / Crompton / Kirloskar O.E.Ms ie Jakson / Bhaskar/Su dhir /OEMs/TATA etc will only be accepted. The approval of make of Engine, Alternator & Enclosure must be obtained well before procurement. If the tender er wishes to procure the D.G.Set other than approved make, they must submit t he proposal along with copy of certification as mentioned & obtain approval of S r. Divisional Manager well before procurement of D.G. Set. If at any stage it is fo und that DG set provided is not of our approved make, LIC reserves the right to ask the contractor to remove the DG set & provide new DG set as per approved makes 22.The successful Trenderer has to submit copies of invoices/bills after p rocurement of D.G.Set. The name, address & phone no. of service cent re shall also be mentioned. 23.The quoted rate for running the D.G set on monthly hire basis shall be inclusive of cost of DG set installation, operation (including operator) , cost of diesel pric e prevailing in the market at the date of opening of tender, lubricant, maintena nce, tools, security, transportation etc. complete required for D G set operation, Please note that any variation ( Increases / Decreases ) in the price of diesel will be considered for payment / recovery as per the Govt. notification issued for die"
+    },
+    {
+      "page": 9,
+      "text": "sel price. 24. A Log book shall be maintained by contractor’s operator in the Branch premis es for recording the daily running of DG set including over time which should be countersigned by authorized representative of LIC. 25.Contractor will be responsible for payment of applicable taxes to concerned aut horities. Liability towards service tax for contractor and employer shall be in ac cordance with relevant provision of the recent finance act or any amendment is sued by concerned Authorities. Deduction of I.Tax , Work contract Tax / any oth er taxes from bills will be done as per government rules . Any other taxes, duti es, levies (if any) taken by Central / state government /local authorities etc are i ncluded in rates & nothing extra shall be paid on any account. 26.Bill shall be submitted in triplicate in the first week of the following month alon g with the Xerox copy of Logbook and original Log Book for certification and settlement of the bill. The payment will be made after deducting the Income Ta x and Works contract Tax etc. on monthly basis at source as per the rules from the running bills. No payment will be made until the Agreement is executed. 27.If required Tenderer has to submit necessary approval from pollution control b oard / Directorate of electrical safety without any extra cost to LICI. Sound and pollution level shall be maintained within standard parameters. 28.Successful tenderer has to obtain policies for each D.G.set to cover T.P., Fire a nd W.C. Insurance cover of reasonable amount (Min Rs.50000/-) for each policy (as mentioned in LOI/Acceptance letter), which shall remain in force till the cont ract period and extension if granted. No payment shall be released, if the i nsurance lapses during contract period. “Penalty of not taking timely extension of expired policies- The date of submitting the renewed insu rance policy, if any will be 15 working days prior to the last date of ex piry of the existing policy, failing which LICI may insure/renew insuran ce and apply penal cost on the contractor i.e. premium Charges plus R s.10,000/- as Admin Charges and Rs.25,000/- as penalty.” 29.Security Deposit: Successful Bidder will also have to remit a Security Deposit b y DD / Pay Order / Banker’s Cheque for an amount equal to 3% of three year’s e stimated hiring charges as per tender excluding E.M.D within 15 days from the date of issue of acceptance letter. Work order for commencement of the work w ill be issued separately within seven days after your remitting the requisite Sec urity Deposit. Please note that the Security Deposit will not bear any interes t and the same will be refunded to you within 45 (Forty five) days after the term ination of the contract."
+    },
+    {
+      "page": 10,
+      "text": "30.Tenderers are requested to visit to the site of work before quoting their rates. 31.The essential service electrical load shall be connected to D. G. set. 32. The arrangements for providing accessories like cables, earthling (as per IE rul e for three phase 2 for neutral & 2 for body) Plate /Chemical earthing & for singl e phase (one for body & one for Neutal earthing)), foundation etc., Change ov er switch) if required), will made by the Contractor /Vendor at their own cost. 33.Unauthorized supply of power to other agency / firms from the D.G.set installed at our premises if any are found , penal action will be taken against the vendor as deemed fit by LIC. 34.LICI shall not be responsible for any injury partial or permanent or death of any worker at site due to accident or any other reasons or by personal negligence of the staff of the contractor. LIC of India, will remain indemnified by the contrac tor on this account. 35.The firm shall be fully responsible for any liability / compensation in case of any accident or otherwise any untoward incident at his own risk for the staff depute d by the firm and LICI shall not give any compensation. 36. First Aid box shall be arranged by the contractor at site of work at their cost. 37.Timing of office may change according to the LICI’s requirement. 38.The contractor shall not sublet the contract to any other party / contractor. 39.Contractor shall be solely responsible for payment of wages / salaries and allow ances to his personnel that might become applicable under any Government or der. LIC of India shall have no liability whatsoever in any manner. 40.For running the generator beyond the schedule hours, permission in writing sh all be taken from the LIC of India and a copy of the same shall be produced whil e claiming the overtime charges. 41.LICI will provide suitable space for installation of D.G.set, but other infrastructu res diesel tank etc. to be arranged by the vendor. 42.The following tests shall be performed at manufacture’s outlet prior to packing & dispatch to site:- a. Load test at full load 50% load, 75% and 110% overload. b. Fuel consumption at full load, 75% load, 50% load and 25% load. c. Other routine test as per IS / BS on alternator, exciter and AVR. Original co pies of the test certificates shall be submitted to LIC of India"
+    },
+    {
+      "page": 11,
+      "text": "d. Noise level measurement. 43.In case of dispute, the matter shall be settled mutually, failing which the decisi on of the Sr.DM, LIC of India, shall be final and binding on the bidders. All legal disputes related to contract will be only under the jurisdiction of Court of Bareill y city only. 44.LIC of India, reserves the right to accept any tender or to reject any or all tende rs at his sole discretion without assigning reasons whatsoever. The tender inviti ng authority does not bind to accept the lowest tender. a. If the performance of running of D.G. set is not found satisfactory at any ti me during contract period, or any other reason, LIC of India reserves the ri ght to terminate the contract by serving one calendar month notice. b. If contractor wish to remove the D.G.set, from LIC Branch /D.O. they shall need to serve three calendar months advance notice to LIC of India.. 45.Sound & pollution level shall be maintained with in the prescribed limits as per Govt norms. No payment shall be maid by LIC on this account. 46.The D.G set should be maintained properly to keep those in satisfactory runnin g condition at all time. 47.Vendor should provide Two automatic hours meter, one at D.G set’s end and ot her at Change over end i.e. under office building with its calibration and registr ation with the Statutory Authority shall be done by the contractor at their cost 48.The D.G set should run smoothly on full load for 10 Hrs without any breakdown and at least 90% of rated out put 49.All electrical parameters like frequency, voltage, should be compactable with lo cal electricity Supply Company. Other conditions · Exhaust piping needs to be done to ensure that exhaust gases are guided out o f the D.G. Set room without any leakage inside, to ensure proper temperature in the room and to meet pollution board requirements. It is recommended to have ‘A’ class M.S. pipe or a fabricated pipe to minimize overall pipeline weight. · Generally exhaust piping should be designed such, so that backpressure for tot al system does not exceed 3 inches of mercury. · Minimum bends (max.4 from exhaust main feed) should be there in pipeline. · Exhaust pipe must be supported securely."
+    },
+    {
+      "page": 12,
+      "text": "· Exhaust pipe inside the room should be lagged with asbestos rope/glass wool, a luminum sheet cladding. · Pipeline should be away from combustible material. · The orientation of Exhaust pipe shall be towards the normal wind direction. · Rain cap should be provided. · Flanges should be used for connecting flexible pipe, silencer etc.& asbestos she et, gasket packing should be used in between the flanges. · Silencer should be located in the exhaust line with necessary supports either wi thin the D.G. Set room in horizontal position or vertically along the outside wall o f D. G. Set room. · Common exhaust pipe for multiple D. G. Set shall not be allowed · Exhaust pipe size shall be as recommended by the D. G. Set Manufacturer. · On bidding in GeM Portal for this tender will be considered as the ven dor agree and will comply all the terms & conditions laid down in bid do cuments. Sr. Divisional Manager"
+    },
+    {
+      "page": 13,
+      "text": "PAYMENT TERM AND CONDITIONS BRANCH – CBO-02,BAREILLY (408) 1. Income-Tax and Statutory clearances shall be obtained by the vendors at their o wn cost as and when required. All payments to the successful vendor shall be made by NEFT/RTGS or as per GeM condition. 2. Hiring charges shall be payable from the date of commissioning / date of energi zing the electrical installation. 3. In case of breakdown in generator supply, deduction shall be made based on al to Over time rate (OT) for running of D.G. set beyond normal hours and if the same is not restored within 24 hours, corporation will be free to hire another DG s et from the market at the risk and cost of contractor limited to double the amoun t quoted by the contractor. 4. It is presumed that your offer for monthly hiring charges of D.G. set is based on t he Basic Diesel-price as mentioned in the tender. Any variation (Increases/ Decre ase) in the price of Diesel will be considered for payment/ recovery as per the Go vt. notification issued for Diesel-price. 5. Price adjustment for the cost of running of DG set due to variation in die sel price- Price adjustment shall be done on the basis of actual consumption of d iesel for operation of DG set in a given period. For adjustment on account of price variation in diesel price, quantity of diesel consumed shall be determined on the basis of standard fuel consumption chart on different percentage of load, supplie d by the standard DG set manufacturer like Kirloskar/ Cummins/Mahindra /Leylan d/TATA or their authorized OEMS/Suppliers 6. Fuel consumption for 30 KVA, CPCB-IV D.G set shall be considered durin g Office @@ 6.46 LTR/HRS and Beyond office @ 5.80 LTR/HRS (before 9.30 AM & after 6.30 PM) for price adjustment .It will be responsibility of vendor to keep a watch and ward on DG set loading and intimate to LIC for excess / overlo ading. LIC will not be responsible for any type of damage to DG set for excess/o verloading. Vendor himself will be responsible for this and will fully indemnify to L IC of India on this account. ( cost of premium diesel shall not be considred) “ SCHEDULE OF QUANTITIES”"
+    },
+    {
+      "page": 14,
+      "text": "Sr.N Description of work Qty Unit Rate ( Rs.) o 1 Providing new weather proof Thre e phase noiseless (silent) 30 KVA, CPCB-IV, 3 phase DG set in sound attenuating acoustic enclosure wit h anti vibration mounting (AVM) p ads ( Dunlop make) with rated out put of 415/220 volts 50 HZ consisting of Diesel Engine of Ki rloskar / Cummins India /Asho k Leyland / Mahindra & Mahin dra /Greaves make for Air cool ed coupled with Alternator of Kirloskar / Standford / Crompt Per M on make & enclosure of JAKSO onth N / BHASKAR /TATA/ Sudhir / O 1 To be quot EMs complete with accessories in ed by Bidde cluding base plate , fuel tank ( ca r on Monthl pacity for minimum 8 hrs. of runni y Basis with ng) , batteries with leads and term GST inals , silencer , alarms standard e ngine control panel (manual) , utili ty piping , approved sound proof e nclosure etc. complete in all respe ct as required. The D.G.Set & encl osure shall satisfy the norms of C. P.C.B.(Central Pollution Control Bo ard) & A.R.A.I.(The Automotive Re search Association of India) . The q uoted rate of D.G set on hire basis shall be inclusive of diesel , lubrica nt , operation and maintenance ch arges etc. for operation of DG set during working hrs. ( 9.30 AM to 6.30 PM) as specified in terms & condition enclosed. The DG set sh all be equipped with following sec urity & safety features i Glass control panel viewing wind ow. ii Externally accessible emergency"
+    },
+    {
+      "page": 15,
+      "text": "stop button. iii Provision for illumination inside enclosure. iv High enclosure temperature saf ety. v.Access to battery via lockable do ors. vi Externally accessible lockable f uel filling arrangement provided to the canopy. vii Special lockable door handles with single key. viii Corrosion resistant modular co nstruction (without any protruding parts). ix Canopy is lined with acoustic fo am which is non - igniting / fire ret ardant (conforming to BS 4735 / BI S – 7888). x. Designed for installation in open air condition. Operation of D.G. set during worki ng hrs. as given in this tender excl uding Sundays & holidays. against power cut / single phasing / poor s upply from supply company. Over time operation of above D.G. 1 Per H 1.6838 % o set beyond the working hrs. (Befo our f Monthly 2 re 9.30 AM and after 6.30 PM) iring Charg as given in this tender including S es aturday, Sundays & holidays. Whe n DG set actually runs ,all inclusiv e ,diesel ,operator charges, maint enance etc"
+    },
+    {
+      "page": 16,
+      "text": "Waiting charges of operator beyon 1 Per H 0.4673 % d working hrs. as given above in t our of Monthly 3 his tender when DG set is not oper Hiring Char ated. ges Notes: Rates quoted are: 1. Subject to the terms & conditions enclosed 2. Prevailing Diesel Price = Rs.95.21 per liter (Rupees Ninety Fiv e & Paisa Twenty one per liter). 3. The quantities mentioned in the tender under Sl.No. (2) & (3) will depend upon actual running of DG set after office Hours. 4. Your Lowest quoted rates on monthly basis are inclusive of all tax es, transportation & GST. Sr. Divisional Manager SCOPE OF WORK 1.Tender for SITC of 30 KVA, CPCB-IV Sound Proof & Smokeless D.G set on hire basis under D.O.Bareilly at below address :- LIC OF INDIA Branch Office-CBO-02, BAREILLY DEENDAYAL PURAM"
+    },
+    {
+      "page": 17,
+      "text": "BAREILLY Dtt. BAREILLY Uttar Pradesh-243122 E-mail- bo_408@licindia.com 1) WORKING HOURS:- From Monday to Friday (except holiday if any) 9.30 AM to 6.30 PM. Sr. Divisional Manager . 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8302473",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 07-12-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 08-12-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Finance",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Financial Services",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Lic - Life Insurance Corporation Of India",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Divisional Office Bareilly",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :hod1.lic.bareilly@gembuyer.in Buyer Email id: bycon22.lic.bareilly@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Leasing Service of DG-Set",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 3 Year(s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 10 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Bidder Turnover,OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "(( )) / Estimated Bid Value in INR (Inclusive of all taxes): 1748880",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 34978",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 34978",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 3.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 42",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Type of Lease: Wet Lease (With Fuel) | Lease Period (in months): 36 | Condition of the DG Set: New | Age of the DG Set since Procurement: 0 | Age of the DG Set in running hours: Upto 0 hours | Types of Packages: Package 2 (60 Running Hour Per Month) | Floor / Basement Number: Ground floor 0 | DG Set Rating: 30 KVA | Voltage Rating: 415 Volt + 10%",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Output Voltage: Three Phase 415 VAC, 50 Hz | Voltage Regulation Class: VG2 | Specific Fuel Consumption (gm/kWh): 250 gm/kwh(Maximum) | Duty hours for technical manpower/operator: 8 hrs/day | Working Days in a Week: 5 Days | Time Period required for Installation(Days): 30 | Length of inter-connecting of the exahust pipe/stack and Dg-set exhaust/silencer covered under the scope of service: Upto 10 Meter",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.No . | Consignee Reporting/Officer | Address | Number of DG SET | Additional Requirement: 1 | Arvind Kumar Maheshwari | 243005,LIC of India, Divisional office, DD Puram | 1 | N/A",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses GENERAL TERMS & CONDITIONS The terms & conditions for hiring the D.G. Set are as under: 1. The terms and conditions along with the instructions will form part of the tende r to be submitted by the tenderer to LIC of India, herein termed as Corporation. 2. There should not be any deviation in terms and conditions as laid down in the B ID documents.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "3. Rates are to be quoted through GeM Portal for running the D.G.Set 30 KVA, CPCB-IV) on the basis of estimated bid value (48580*36= 174 8880.00 with GST) i.e. Total 36 months value and payment will be done on monthly basis including diesel and Rental charges, for each ra ting of D.G. Set complete with all accessories on hire basis. 4. The operator provided by the supplier, should possess the requisite & valid Li cense, for running D.G. Set. if required by local or any other govt. authorities. 5. All cost for maintenance and servicing of the generator including the cost of sp are parts and periodical replacement of Mobil oil, diesel are to be borne by the D.G.set contractor. The D.G. Set should be maintained properly to keep th ese in satisfactory running condition at all times for supplying emergency pow er for a load at least 90% of rated output of respective generators normal loa ding will be 75% + 5% upward variation . 6. The permission of statutory authorities towards installation of D.G set, will be o btained by the supplier /Vendor /Contractor of D.G set at their own cost. 7. The arrangements for providing exhaust pipeline of the D.G. Set, as per require ment & specification of Statutory Authorities, will be made by the contractor at their own cost. 8. Mending of any damage caused to the LIC property during loading, unloading o f the D.G. Set in LIC premises at the time of installation or taking out D.G set fr om LIC premises will be done by the contractor to original finish, at their cost. 9. Contractor shall be solely responsible for Repairing & Mending of any damage due to natural Disaster i.e. Flood, Earthquakes, Hurricanes, cyclone, storms etc. 10.The successful bidder should install and commission the New D.G. Set in LIC pr emises within 30 (Thirty) days from the date of awarding the contract, If D.G. set is not supplied &installed within the stipulated period from the date of acc eptance letter, L.I.C. of India reserve the right to cancel the order and forfeit th e E.M.D./ S.D. 11. 30 days period is given to vendor for installation of New D.G set from the date of awarding the contract. If the D.G set is installed by the vendor beyond 30 da ys; the losses (if any) shall be borne by the vendor and amount of losses shall b e recovered from the vendor’s monthly bill payment. (a) Here; losses means rate of existing tender minus L-1 rate of new tender",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "(monthly rent +Over time+ Waiting time charges) (b) Calculation of losses : (Difference of rates x No of days delayed beyond 30d ays) 12.Electricity Duty, if any, payable to the State Govt., depending on running hours of the D.G. Set shall be borne by the contractor. Installation of the energy mete r with its calibration and registration with the Statutory Authority shall be done by the contractor at their cost. 13.The contract shall remain in force initially for a period of three years from the d ate of installation and satisfactory commissioning of the New D.G. Set at site, which may be extended further for another two year on mutual consent & perfo rmance of the Vendor, on same terms & conditions. The contract may be renew ed for further period at mutually agreed rates / charges and keeping other term s & conditions unchanged, depending on satisfactory services rendered by the generator supplier and requirement of the office, on expiry of existing agree ment vendor has to continue the services at existing Terms & conditio ns till the Installation of New DG Set. Extension /renewal of contract is not a right of vendor .It will be at sole discretion of LIC. 14.However, the contract is subject to termination at any time if the services are n ot found satisfactory or for any other reason whatsoever. LIC of India may termi nate the contract after giving one calendar month notice if the service of DG se t is not required. 15.In case of any major break-down of D.G. Set requiring repairing time for more t han one day, an alternative interim arrangement will be made by the generator provider immediately by providing a substitute generator of adequate capacity at no extra cost. For non-functioning of the D.G. Set or in the event of failure on the part of the generator supplier to provide an alternative interim generator of adequate capacity, within one day during power failure / load shedding, penalty deduction shall be made based on OT rate for running of DG set beyond normal hours and if the same is not restored within 24 hours, Corporati on will be free to hire another DG set from the market at the risk and cost of co ntractor, limited to double the amount quoted by the contractor. 16.The successful bidder will have to execute an Agreement with LIC of India, in Non - judicial stamp paper of Rs 100/ , and as per the draft of Agreement to be provided by the LIC of India, within seven days period from the date of issue of work order for commencement of the work. If agreement is not executed the n No payment will be made.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "17.The deployment of operator for running the generator is must and should comp ly with the Labour Legislation Act. and Minimum wage Act of Govt. of India and t he State Govt. 18.The contractor will have to remove the D.G. Set from the LIC premises wit hin 07 (Seven) days from the date of termination or closure of the contract at t heir cost , else demurrage charges @ 1000/- (Rupees One thousand only) per d ay will be levied by the LIC of India, on the contractor. 19.The D.G. set shall have to be run in the event of load shedding / powe r cut / breakdown / single phasing / erratic power supply from supply c ompany/any other reason on all working days. Normal working hours o n all working days shall be from Monday to Friday (except holiday if a ny) 9.30 AM to 6.30 PM 20. If the D.G set has to run during office hours due to failure of office changeover , office transformer, office UPS, cable etc. or any kind of fault from office inspite of power supply company, the payment for running of DG set in the per iod shall be made as per payment term & condition point no 06 i.e. 6.46 Lit/H rs during office hours & 5.8 Lit/hrs beyond the office hours. 21.Please note that new D G set shall comprise Diesel Engine of Kirloskar Green / Cummins India /Ashok- Leland / Greaves/Mahindra and Mahindra Ltd, coupled w ith Alternator of Stamdford / Crompton / Kirloskar O.E.Ms ie Jakson / Bhaskar/Su dhir /OEMs/TATA etc will only be accepted. The approval of make of Engine, Alternator & Enclosure must be obtained well before procurement. If the tender er wishes to procure the D.G.Set other than approved make, they must submit t he proposal along with copy of certification as mentioned & obtain approval of S r. Divisional Manager well before procurement of D.G. Set. If at any stage it is fo und that DG set provided is not of our approved make, LIC reserves the right to ask the contractor to remove the DG set & provide new DG set as per approved makes 22.The successful Trenderer has to submit copies of invoices/bills after p rocurement of D.G.Set. The name, address & phone no. of service cent re shall also be mentioned. 23.The quoted rate for running the D.G set on monthly hire basis shall be inclusive of cost of DG set installation, operation (including operator) , cost of diesel pric e prevailing in the market at the date of opening of tender, lubricant, maintena nce, tools, security, transportation etc. complete required for D G set operation, Please note that any variation ( Increases / Decreases ) in the price of diesel will be considered for payment / recovery as per the Govt. notification issued for die",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "sel price. 24. A Log book shall be maintained by contractor’s operator in the Branch premis es for recording the daily running of DG set including over time which should be countersigned by authorized representative of LIC. 25.Contractor will be responsible for payment of applicable taxes to concerned aut horities. Liability towards service tax for contractor and employer shall be in ac cordance with relevant provision of the recent finance act or any amendment is sued by concerned Authorities. Deduction of I.Tax , Work contract Tax / any oth er taxes from bills will be done as per government rules . Any other taxes, duti es, levies (if any) taken by Central / state government /local authorities etc are i ncluded in rates & nothing extra shall be paid on any account. 26.Bill shall be submitted in triplicate in the first week of the following month alon g with the Xerox copy of Logbook and original Log Book for certification and settlement of the bill. The payment will be made after deducting the Income Ta x and Works contract Tax etc. on monthly basis at source as per the rules from the running bills. No payment will be made until the Agreement is executed. 27.If required Tenderer has to submit necessary approval from pollution control b oard / Directorate of electrical safety without any extra cost to LICI. Sound and pollution level shall be maintained within standard parameters. 28.Successful tenderer has to obtain policies for each D.G.set to cover T.P., Fire a nd W.C. Insurance cover of reasonable amount (Min Rs.50000/-) for each policy (as mentioned in LOI/Acceptance letter), which shall remain in force till the cont ract period and extension if granted. No payment shall be released, if the i nsurance lapses during contract period. “Penalty of not taking timely extension of expired policies- The date of submitting the renewed insu rance policy, if any will be 15 working days prior to the last date of ex piry of the existing policy, failing which LICI may insure/renew insuran ce and apply penal cost on the contractor i.e. premium Charges plus R s.10,000/- as Admin Charges and Rs.25,000/- as penalty.” 29.Security Deposit: Successful Bidder will also have to remit a Security Deposit b y DD / Pay Order / Banker’s Cheque for an amount equal to 3% of three year’s e stimated hiring charges as per tender excluding E.M.D within 15 days from the date of issue of acceptance letter. Work order for commencement of the work w ill be issued separately within seven days after your remitting the requisite Sec urity Deposit. Please note that the Security Deposit will not bear any interes t and the same will be refunded to you within 45 (Forty five) days after the term ination of the contract.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "30.Tenderers are requested to visit to the site of work before quoting their rates. 31.The essential service electrical load shall be connected to D. G. set. 32. The arrangements for providing accessories like cables, earthling (as per IE rul e for three phase 2 for neutral & 2 for body) Plate /Chemical earthing & for singl e phase (one for body & one for Neutal earthing)), foundation etc., Change ov er switch) if required), will made by the Contractor /Vendor at their own cost. 33.Unauthorized supply of power to other agency / firms from the D.G.set installed at our premises if any are found , penal action will be taken against the vendor as deemed fit by LIC. 34.LICI shall not be responsible for any injury partial or permanent or death of any worker at site due to accident or any other reasons or by personal negligence of the staff of the contractor. LIC of India, will remain indemnified by the contrac tor on this account. 35.The firm shall be fully responsible for any liability / compensation in case of any accident or otherwise any untoward incident at his own risk for the staff depute d by the firm and LICI shall not give any compensation. 36. First Aid box shall be arranged by the contractor at site of work at their cost. 37.Timing of office may change according to the LICI’s requirement. 38.The contractor shall not sublet the contract to any other party / contractor. 39.Contractor shall be solely responsible for payment of wages / salaries and allow ances to his personnel that might become applicable under any Government or der. LIC of India shall have no liability whatsoever in any manner. 40.For running the generator beyond the schedule hours, permission in writing sh all be taken from the LIC of India and a copy of the same shall be produced whil e claiming the overtime charges. 41.LICI will provide suitable space for installation of D.G.set, but other infrastructu res diesel tank etc. to be arranged by the vendor. 42.The following tests shall be performed at manufacture’s outlet prior to packing & dispatch to site:- a. Load test at full load 50% load, 75% and 110% overload. b. Fuel consumption at full load, 75% load, 50% load and 25% load. c. Other routine test as per IS / BS on alternator, exciter and AVR. Original co pies of the test certificates shall be submitted to LIC of India",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 11,
+      "quote": "d. Noise level measurement. 43.In case of dispute, the matter shall be settled mutually, failing which the decisi on of the Sr.DM, LIC of India, shall be final and binding on the bidders. All legal disputes related to contract will be only under the jurisdiction of Court of Bareill y city only. 44.LIC of India, reserves the right to accept any tender or to reject any or all tende rs at his sole discretion without assigning reasons whatsoever. The tender inviti ng authority does not bind to accept the lowest tender. a. If the performance of running of D.G. set is not found satisfactory at any ti me during contract period, or any other reason, LIC of India reserves the ri ght to terminate the contract by serving one calendar month notice. b. If contractor wish to remove the D.G.set, from LIC Branch /D.O. they shall need to serve three calendar months advance notice to LIC of India.. 45.Sound & pollution level shall be maintained with in the prescribed limits as per Govt norms. No payment shall be maid by LIC on this account. 46.The D.G set should be maintained properly to keep those in satisfactory runnin g condition at all time. 47.Vendor should provide Two automatic hours meter, one at D.G set’s end and ot her at Change over end i.e. under office building with its calibration and registr ation with the Statutory Authority shall be done by the contractor at their cost 48.The D.G set should run smoothly on full load for 10 Hrs without any breakdown and at least 90% of rated out put 49.All electrical parameters like frequency, voltage, should be compactable with lo cal electricity Supply Company. Other conditions · Exhaust piping needs to be done to ensure that exhaust gases are guided out o f the D.G. Set room without any leakage inside, to ensure proper temperature in the room and to meet pollution board requirements. It is recommended to have ‘A’ class M.S. pipe or a fabricated pipe to minimize overall pipeline weight. · Generally exhaust piping should be designed such, so that backpressure for tot al system does not exceed 3 inches of mercury. · Minimum bends (max.4 from exhaust main feed) should be there in pipeline. · Exhaust pipe must be supported securely.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 12,
+      "quote": "· Exhaust pipe inside the room should be lagged with asbestos rope/glass wool, a luminum sheet cladding. · Pipeline should be away from combustible material. · The orientation of Exhaust pipe shall be towards the normal wind direction. · Rain cap should be provided. · Flanges should be used for connecting flexible pipe, silencer etc.& asbestos she et, gasket packing should be used in between the flanges. · Silencer should be located in the exhaust line with necessary supports either wi thin the D.G. Set room in horizontal position or vertically along the outside wall o f D. G. Set room. · Common exhaust pipe for multiple D. G. Set shall not be allowed · Exhaust pipe size shall be as recommended by the D. G. Set Manufacturer. · On bidding in GeM Portal for this tender will be considered as the ven dor agree and will comply all the terms & conditions laid down in bid do cuments. Sr. Divisional Manager",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 13,
+      "quote": "PAYMENT TERM AND CONDITIONS BRANCH – CBO-02,BAREILLY (408) 1. Income-Tax and Statutory clearances shall be obtained by the vendors at their o wn cost as and when required. All payments to the successful vendor shall be made by NEFT/RTGS or as per GeM condition. 2. Hiring charges shall be payable from the date of commissioning / date of energi zing the electrical installation. 3. In case of breakdown in generator supply, deduction shall be made based on al to Over time rate (OT) for running of D.G. set beyond normal hours and if the same is not restored within 24 hours, corporation will be free to hire another DG s et from the market at the risk and cost of contractor limited to double the amoun t quoted by the contractor. 4. It is presumed that your offer for monthly hiring charges of D.G. set is based on t he Basic Diesel-price as mentioned in the tender. Any variation (Increases/ Decre ase) in the price of Diesel will be considered for payment/ recovery as per the Go vt. notification issued for Diesel-price. 5. Price adjustment for the cost of running of DG set due to variation in die sel price- Price adjustment shall be done on the basis of actual consumption of d iesel for operation of DG set in a given period. For adjustment on account of price variation in diesel price, quantity of diesel consumed shall be determined on the basis of standard fuel consumption chart on different percentage of load, supplie d by the standard DG set manufacturer like Kirloskar/ Cummins/Mahindra /Leylan d/TATA or their authorized OEMS/Suppliers 6. Fuel consumption for 30 KVA, CPCB-IV D.G set shall be considered durin g Office @@ 6.46 LTR/HRS and Beyond office @ 5.80 LTR/HRS (before 9.30 AM & after 6.30 PM) for price adjustment .It will be responsibility of vendor to keep a watch and ward on DG set loading and intimate to LIC for excess / overlo ading. LIC will not be responsible for any type of damage to DG set for excess/o verloading. Vendor himself will be responsible for this and will fully indemnify to L IC of India on this account. ( cost of premium diesel shall not be considred) “ SCHEDULE OF QUANTITIES”",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 14,
+      "quote": "Sr.N Description of work Qty Unit Rate ( Rs.) o 1 Providing new weather proof Thre e phase noiseless (silent) 30 KVA, CPCB-IV, 3 phase DG set in sound attenuating acoustic enclosure wit h anti vibration mounting (AVM) p ads ( Dunlop make) with rated out put of 415/220 volts 50 HZ consisting of Diesel Engine of Ki rloskar / Cummins India /Asho k Leyland / Mahindra & Mahin dra /Greaves make for Air cool ed coupled with Alternator of Kirloskar / Standford / Crompt Per M on make & enclosure of JAKSO onth N / BHASKAR /TATA/ Sudhir / O 1 To be quot EMs complete with accessories in ed by Bidde cluding base plate , fuel tank ( ca r on Monthl pacity for minimum 8 hrs. of runni y Basis with ng) , batteries with leads and term GST inals , silencer , alarms standard e ngine control panel (manual) , utili ty piping , approved sound proof e nclosure etc. complete in all respe ct as required. The D.G.Set & encl osure shall satisfy the norms of C. P.C.B.(Central Pollution Control Bo ard) & A.R.A.I.(The Automotive Re search Association of India) . The q uoted rate of D.G set on hire basis shall be inclusive of diesel , lubrica nt , operation and maintenance ch arges etc. for operation of DG set during working hrs. ( 9.30 AM to 6.30 PM) as specified in terms & condition enclosed. The DG set sh all be equipped with following sec urity & safety features i Glass control panel viewing wind ow. ii Externally accessible emergency",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 15,
+      "quote": "stop button. iii Provision for illumination inside enclosure. iv High enclosure temperature saf ety. v.Access to battery via lockable do ors. vi Externally accessible lockable f uel filling arrangement provided to the canopy. vii Special lockable door handles with single key. viii Corrosion resistant modular co nstruction (without any protruding parts). ix Canopy is lined with acoustic fo am which is non - igniting / fire ret ardant (conforming to BS 4735 / BI S – 7888). x. Designed for installation in open air condition. Operation of D.G. set during worki ng hrs. as given in this tender excl uding Sundays & holidays. against power cut / single phasing / poor s upply from supply company. Over time operation of above D.G. 1 Per H 1.6838 % o set beyond the working hrs. (Befo our f Monthly 2 re 9.30 AM and after 6.30 PM) iring Charg as given in this tender including S es aturday, Sundays & holidays. Whe n DG set actually runs ,all inclusiv e ,diesel ,operator charges, maint enance etc",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 16,
+      "quote": "Waiting charges of operator beyon 1 Per H 0.4673 % d working hrs. as given above in t our of Monthly 3 his tender when DG set is not oper Hiring Char ated. ges Notes: Rates quoted are: 1. Subject to the terms & conditions enclosed 2. Prevailing Diesel Price = Rs.95.21 per liter (Rupees Ninety Fiv e & Paisa Twenty one per liter). 3. The quantities mentioned in the tender under Sl.No. (2) & (3) will depend upon actual running of DG set after office Hours. 4. Your Lowest quoted rates on monthly basis are inclusive of all tax es, transportation & GST. Sr. Divisional Manager SCOPE OF WORK 1.Tender for SITC of 30 KVA, CPCB-IV Sound Proof & Smokeless D.G set on hire basis under D.O.Bareilly at below address :- LIC OF INDIA Branch Office-CBO-02, BAREILLY DEENDAYAL PURAM",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 17,
+      "quote": "BAREILLY Dtt. BAREILLY Uttar Pradesh-243122 E-mail- bo_408@licindia.com 1) WORKING HOURS:- From Monday to Friday (except holiday if any) 9.30 AM to 6.30 PM. Sr. Divisional Manager . 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198784"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

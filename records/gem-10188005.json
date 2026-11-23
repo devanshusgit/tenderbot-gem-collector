@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8293154",
   "title": "Chair for General Purpose",
   "description": "Chair for General Purpose",
-  "organisation": "Airports Authority of India (AAI)",
-  "ministry": "Ministry of Civil Aviation",
-  "department": "Airports Authority of India (AAI)",
+  "organisation": "Airports Authority Of India",
+  "ministry": "Ministry Of Civil Aviation",
+  "department": "Airports Authority Of India (aai)",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Chair for General Purpose",
   "quantity": 250,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 47100,
   "published_at": "2026-11-19T16:26:52+05:30",
   "closing_at": "2026-12-04T17:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 5
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/NsEr0IFfmmsJRngM4LkQsZDWkYgeJCbv5uanUM-ezMo",
+      "page": 5
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261119",
+      "page": 11
     }
   ],
   "tags": [
@@ -34,5 +49,327 @@
   ],
   "source_fetched_at": "2026-11-22T21:28:17.625Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-05T17:00:00+05:30",
+  "office": "Airports Authority Of India , Nscbi Airport",
+  "buyer_email": "praveen.kr@aai.aero",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 8,
+  "oem_turnover_lakhs": 8,
+  "experience_years": 1,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 27,
+  "offer_validity": "120 (Days)",
+  "estimated_bid_value": 2355000,
+  "source_document_fetched_at": "2026-11-23T08:52:46.376267+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "2b560a9bba7df2d8bf364f2ac40320c45186b0ed72ad8d1b52b6dea080601b00",
+  "document_pages": 11,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 8 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 8 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 1 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Parveen Kumar",
+      "address": "700052,AIRPORTS AUTHORITY OF INDIA , NSCBI AIRPORT , KOLKATA",
+      "quantity": 250,
+      "quantity_label": "Quantity",
+      "delivery_days": 60
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "CHAIR SEAT",
+          "parameter": "Availability of cushion on seat",
+          "value": "Yes"
+        },
+        {
+          "group": "CHAIR SEAT",
+          "parameter": "Seat upholstery material",
+          "value": "Polyester fabric"
+        },
+        {
+          "group": "CHAIR SEAT",
+          "parameter": "Colour Family of Seat",
+          "value": "Black"
+        },
+        {
+          "group": "CHAIR BACKREST",
+          "parameter": "Backrest Height (Low-back range: 200 - 400 mm, Mid- back range: 400 - 700 mm)",
+          "value": "Mid-back"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Coverage of Backrest Material",
+          "value": "Fully-covered (Full height of backrest covered)"
+        },
+        {
+          "group": null,
+          "parameter": "Colour Family of Backrest",
+          "value": "Black"
+        },
+        {
+          "group": null,
+          "parameter": "Lumbar Support available in Seat Backrest",
+          "value": "Yes"
+        },
+        {
+          "group": "CHAIR ARMREST",
+          "parameter": "Armrest Available in the Chair",
+          "value": "Yes"
+        },
+        {
+          "group": "CHAIR ARMREST",
+          "parameter": "Type of Armrest in Chair",
+          "value": "Fixed armrest with Padding"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic"
+    },
+    {
+      "page": 7,
+      "text": "Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 3. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 4. Generic Products supplied shall be nontoxic and harmless to health. In the case of toxic materials, Material Safety Data Sheet may be furnished along with the material. 5. Generic 1. The Seller shall not assign the Contract in whole or part without obtaining the prior written consent of buyer. 2. The Seller shall not sub-contract the Contract in whole or part to any entity without obtaining the prior written consent of buyer. 3. The Seller shall, notwithstanding the consent and assignment/sub-contract, remain jointly and severally liable and responsible to buyer together with the assignee/ sub-contractor, for and in respect of the due performance of the Contract and the Sellers obligations there under. 6. Generic Without prejudice to Buyer’s right to price adjustment by way of discount or any other right or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a written notice to the Seller, if: i) The Seller fails to comply with any material term of the Contract. ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within the stipulated Delivery Period or such inability otherwise becomes apparent. iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery Period and/or to replace/rectify any rejected or defective Material(s) promptly. iv) The Seller becomes bankrupt or goes into liquidation. v) The Seller makes a general assignment for the benefit of creditors. vi) A receiver is appointed for any substantial property owned by the Seller. vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has placed the Purchase Order on the Seller. 7. Generic The seller is required to print logo as per buyer's requirement. 8. Sample Clause After award of contract – Successful Bidder shall have to get advance sample approved from buyer before bulk manufacturing / starting bulk supplies. Successful Bidder shall submit 1 samples for Buyer's approval, within 10 days of award of contract. Buyer shall, as per contract specifications framework, either approve the advance sample or will provide complete list of modification required in the sample within 7 days of receipt of advance sample. Seller shall be required to ensure supply as per approved sample with modifications as communicated by Buyer. If there is delay from buyer side in approval of advance sample – the delivery period shall be refixed without LD for the period of delay in sample approval. In case, the sample is found to have major deviations / not conforming to the Contract specifications, the buyer at its discretion may call for fresh samples for approval before allowing bulk supplies or may terminate the contract after notifying the deviations to the seller. Unless otherwise provided in the contract, all samples required for test shall be supplied by the contractor free of cost. Where under the contract, the contractor is required to submit an advance sample, any expenses incurred by the contractor on or in connection with the production of stores in bulk, before the sample has been approved unconditionally shall be borne by the Seller and he shall not claim any compensation in the event of such sample being found unacceptable by the Buyer / Consignee."
+    },
+    {
+      "page": 8,
+      "text": "9. Warranty Warranty period of the supplied products shall be 2 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 10. Warranty Over and above the normal Warranty terms as per GeM GTC, the successful bidder / OEM shall have to provide Comprehensive Warranty during the entire Standard warranty period as per contract. : The comprehensive warranty shall be covering the following scope Rectification of all defects including replacement of spare parts of chair such as seat backrest, seat, handle , nut, bolt etc. (Upload an undertaking with the bid confirming compliance by the bidder if Bidder is taking onus of this compliance. In case OEM is taking onus of this compliance, OEM undertaking is to be uploaded along with Bidder undertaking) 11. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 12. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 13. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 14. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Experience Criteria: The Bidder should have successfully completed the Supply of “Office Furniture or simil ar Items” in the last seven years ending 30.11.2026, as per following value criteria: a). One Work Order of value equal to Rs.18,84,000/- or more. OR b). Two separate Work Orders, each for a value equal to Rs.11,77,500/- or more. OR c). Three separate Work Orders, each for a value equal to Rs.9,42,000/- or more. Proof of satisfactory service: Work Order certificates and Satisfactory Work completion certificate issued by respective Buyer Organization for the above Orders should be uploaded along with bid. Note: - In case of experience of Private sectors, bidder has to submit TDS certificate as applicable, issued b y the customer in support of payment received and execution of work. The bidder, who have submitted ex perience certificate issued by Government / Semi Govt. / PSU for required value of work, need not submit TDS certificate. However, relevant GST remittance document/payment details may be submitted. Successful bidder shall submit e-PBG as per below mentioned bank details: BENEFICIARY NAME: AIRPORTS AUTHORITY OF INDIA"
+    },
+    {
+      "page": 9,
+      "text": "BANK NAME: ICICl BANK IFSC CODE: ICIC0000007 BG ADVISING MESSAGE: IFN 760COV (BG ISSUE) IFN 767COV (BG AMENDMENT) UNIQUE IDENTIFIER CODE: AAIKOLKATA (to be mentioned in field 7037 of the BG advising message code/ BG SFMS). The bidder should be the original equipment/ furniture manufacturer (OEM) or their authorized dealers wit h the manufacturer having the valid factory license issued by appropriate govt. authority. All documents which require the certification from Chartered Accountant must be endorsed with Unique D ocument Identification Number (UDIN). All bidder shall upload an undertaking regarding confirmation of Warranty Period as per bid documents. Successful bidder shall supply the chairs which should be numbered/painted (i.e. 1 to 250) in AAI format/sequence (which will be provided by AAI). The cost of the same shall be borne by bidder. Certificates to be submitted by bidder in technical bid: - 1. Wherever the offered furniture falls under the Furniture (Quality Control) Order, 2025, the manufacturer shall possess a valid BIS Scheme-I (ISI Mark) License for the applicable Indian Standard (IS 17631, IS 1763 2, IS 17633, IS 17634, IS 17635, IS 17636, as applicable). A copy of the valid BIS license shall be submitte d along with the bid. 2. Copy of Vendor Assessment Report issued by GeM portal. 3. Copy of Factory License of OEM, issued by appropriate Govt. Authorities. 4. Indian Trade Mark Certificate issued by Govt authorities for confirmation of OEM of offered product. EARNEST MONEY DEPOSIT (EMD): Earnest Money Deposit (EMD) of Rs. 47,100/- will be required to be paid in the AAI Bank Account through Online Transaction only and Transaction Number, date of Transactio n to be submitted along with the bid. Details of Bank Account: Beneficiary Name: AIRPORTS AUTHORITY OF INDIA Name of Bank: STATE BANK OF INDIA Bank A/c No.: 11094829425 IFSC Code: SBIN0003029 Note: MSE’s are exempted from EMD against required documents, to be submitted by the bidder. Demand Draft will not be accepted as EMD. Govt. of India’s Guidelines issued from time to time relating to exempti on of Earnest Money shall be applicable to eligible bidders. Bids received without EMD (other than those w ho are exempted from payment of EMD) as specified in the bid document, shall be rejected out rightly. . 15. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address New Terminal Building NSCBI AIRPORT KOLKATA 52 . 16. Generic"
+    },
+    {
+      "page": 10,
+      "text": "Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8293154",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 04-12-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 05-12-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Civil Aviation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Airports Authority Of India (aai)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Airports Authority Of India",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Airports Authority Of India , Nscbi Airport",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :apdkolkata@aai.aero Buyer Email id: praveen.kr@aai.aero",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 250",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Chair for General Purpose (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 8 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 8 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 1 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 2355000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    },
+    {
+      "field": "emd_fee",
+      "page": 3,
+      "quote": "EMD Amount: 47100",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    },
+    {
+      "field": "emd_required",
+      "page": 3,
+      "quote": "EMD Amount: 47100",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 27",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Availability of cushion on seat: Yes | Seat upholstery material: Polyester fabric | Colour Family of Seat: Black | Backrest Height (Low-back range: 200 - 400 mm, Mid- back range: 400 - 700 mm): Mid-back",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Coverage of Backrest Material: Fully-covered (Full height of backrest covered) | Colour Family of Backrest: Black | Lumbar Support available in Seat Backrest: Yes | Armrest Available in the Chair: Yes | Type of Armrest in Chair: Fixed armrest with Padding",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Parveen Kumar | 700052,AIRPORTS AUTHORITY OF INDIA , NSCBI AIRPORT , KOLKATA | 250 | 60",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Generic",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "Bidder financial standing: The bidder should not be under liquidation, court receivership or similar proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid. 3. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 4. Generic Products supplied shall be nontoxic and harmless to health. In the case of toxic materials, Material Safety Data Sheet may be furnished along with the material. 5. Generic 1. The Seller shall not assign the Contract in whole or part without obtaining the prior written consent of buyer. 2. The Seller shall not sub-contract the Contract in whole or part to any entity without obtaining the prior written consent of buyer. 3. The Seller shall, notwithstanding the consent and assignment/sub-contract, remain jointly and severally liable and responsible to buyer together with the assignee/ sub-contractor, for and in respect of the due performance of the Contract and the Sellers obligations there under. 6. Generic Without prejudice to Buyer’s right to price adjustment by way of discount or any other right or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a written notice to the Seller, if: i) The Seller fails to comply with any material term of the Contract. ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within the stipulated Delivery Period or such inability otherwise becomes apparent. iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery Period and/or to replace/rectify any rejected or defective Material(s) promptly. iv) The Seller becomes bankrupt or goes into liquidation. v) The Seller makes a general assignment for the benefit of creditors. vi) A receiver is appointed for any substantial property owned by the Seller. vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has placed the Purchase Order on the Seller. 7. Generic The seller is required to print logo as per buyer's requirement. 8. Sample Clause After award of contract – Successful Bidder shall have to get advance sample approved from buyer before bulk manufacturing / starting bulk supplies. Successful Bidder shall submit 1 samples for Buyer's approval, within 10 days of award of contract. Buyer shall, as per contract specifications framework, either approve the advance sample or will provide complete list of modification required in the sample within 7 days of receipt of advance sample. Seller shall be required to ensure supply as per approved sample with modifications as communicated by Buyer. If there is delay from buyer side in approval of advance sample – the delivery period shall be refixed without LD for the period of delay in sample approval. In case, the sample is found to have major deviations / not conforming to the Contract specifications, the buyer at its discretion may call for fresh samples for approval before allowing bulk supplies or may terminate the contract after notifying the deviations to the seller. Unless otherwise provided in the contract, all samples required for test shall be supplied by the contractor free of cost. Where under the contract, the contractor is required to submit an advance sample, any expenses incurred by the contractor on or in connection with the production of stores in bulk, before the sample has been approved unconditionally shall be borne by the Seller and he shall not claim any compensation in the event of such sample being found unacceptable by the Buyer / Consignee.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "9. Warranty Warranty period of the supplied products shall be 2 years from the date of final acceptance of goods or after completion of installation, commissioning & testing of goods (if included in the scope of supply), at consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. Seller should have well established Installation, Commissioning, Training, Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of Service Centres near consignee destinations are to be uploaded along with the bid. 10. Warranty Over and above the normal Warranty terms as per GeM GTC, the successful bidder / OEM shall have to provide Comprehensive Warranty during the entire Standard warranty period as per contract. : The comprehensive warranty shall be covering the following scope Rectification of all defects including replacement of spare parts of chair such as seat backrest, seat, handle , nut, bolt etc. (Upload an undertaking with the bid confirming compliance by the bidder if Bidder is taking onus of this compliance. In case OEM is taking onus of this compliance, OEM undertaking is to be uploaded along with Bidder undertaking) 11. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 12. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support. 13. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 14. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Experience Criteria: The Bidder should have successfully completed the Supply of “Office Furniture or simil ar Items” in the last seven years ending 30.11.2026, as per following value criteria: a). One Work Order of value equal to Rs.18,84,000/- or more. OR b). Two separate Work Orders, each for a value equal to Rs.11,77,500/- or more. OR c). Three separate Work Orders, each for a value equal to Rs.9,42,000/- or more. Proof of satisfactory service: Work Order certificates and Satisfactory Work completion certificate issued by respective Buyer Organization for the above Orders should be uploaded along with bid. Note: - In case of experience of Private sectors, bidder has to submit TDS certificate as applicable, issued b y the customer in support of payment received and execution of work. The bidder, who have submitted ex perience certificate issued by Government / Semi Govt. / PSU for required value of work, need not submit TDS certificate. However, relevant GST remittance document/payment details may be submitted. Successful bidder shall submit e-PBG as per below mentioned bank details: BENEFICIARY NAME: AIRPORTS AUTHORITY OF INDIA",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "BANK NAME: ICICl BANK IFSC CODE: ICIC0000007 BG ADVISING MESSAGE: IFN 760COV (BG ISSUE) IFN 767COV (BG AMENDMENT) UNIQUE IDENTIFIER CODE: AAIKOLKATA (to be mentioned in field 7037 of the BG advising message code/ BG SFMS). The bidder should be the original equipment/ furniture manufacturer (OEM) or their authorized dealers wit h the manufacturer having the valid factory license issued by appropriate govt. authority. All documents which require the certification from Chartered Accountant must be endorsed with Unique D ocument Identification Number (UDIN). All bidder shall upload an undertaking regarding confirmation of Warranty Period as per bid documents. Successful bidder shall supply the chairs which should be numbered/painted (i.e. 1 to 250) in AAI format/sequence (which will be provided by AAI). The cost of the same shall be borne by bidder. Certificates to be submitted by bidder in technical bid: - 1. Wherever the offered furniture falls under the Furniture (Quality Control) Order, 2025, the manufacturer shall possess a valid BIS Scheme-I (ISI Mark) License for the applicable Indian Standard (IS 17631, IS 1763 2, IS 17633, IS 17634, IS 17635, IS 17636, as applicable). A copy of the valid BIS license shall be submitte d along with the bid. 2. Copy of Vendor Assessment Report issued by GeM portal. 3. Copy of Factory License of OEM, issued by appropriate Govt. Authorities. 4. Indian Trade Mark Certificate issued by Govt authorities for confirmation of OEM of offered product. EARNEST MONEY DEPOSIT (EMD): Earnest Money Deposit (EMD) of Rs. 47,100/- will be required to be paid in the AAI Bank Account through Online Transaction only and Transaction Number, date of Transactio n to be submitted along with the bid. Details of Bank Account: Beneficiary Name: AIRPORTS AUTHORITY OF INDIA Name of Bank: STATE BANK OF INDIA Bank A/c No.: 11094829425 IFSC Code: SBIN0003029 Note: MSE’s are exempted from EMD against required documents, to be submitted by the bidder. Demand Draft will not be accepted as EMD. Govt. of India’s Guidelines issued from time to time relating to exempti on of Earnest Money shall be applicable to eligible bidders. Bids received without EMD (other than those w ho are exempted from payment of EMD) as specified in the bid document, shall be rejected out rightly. . 15. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address New Terminal Building NSCBI AIRPORT KOLKATA 52 . 16. Generic",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10188005"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

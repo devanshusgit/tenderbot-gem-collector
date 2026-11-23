@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8269230",
   "title": "Digital Multimeter (V2)",
   "description": "Digital Multimeter (V2)",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "Rail Coach Factory Kapurthala",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Digital Multimeter (V2)",
   "quantity": 20,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-20T18:23:55+05:30",
   "closing_at": "2026-12-02T19:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10160220"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/yBGYTFbVN3TMO4U3NDiewc3HqhPUJIZUBXypvUov-Hw",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261120",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +49,339 @@
   ],
   "source_fetched_at": "2026-11-22T21:22:58.987Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-03T19:00:00+05:30",
+  "office": "Kapurthala",
+  "buyer_email": "amm.g@rcf.railnet.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "90 (Days)",
+  "source_document_fetched_at": "2026-11-23T01:18:13.541559+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "85643b9aa537d8117e6f32df3e8185dd1a3922db719cd60fbbebbc3d0e810ff9",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Yogesh Kumar",
+      "address": "144602,Cheif Electrical Engineer Office, Administrative Building Rail coach Factory, Kapurthala",
+      "quantity": 20,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "General Specification",
+          "parameter": "Type",
+          "value": "Handheld"
+        },
+        {
+          "group": "General Specification",
+          "parameter": "Display (Digits)",
+          "value": "3.5"
+        },
+        {
+          "group": "General Specification",
+          "parameter": "Measurement Type",
+          "value": "True RMS"
+        },
+        {
+          "group": "General Specification",
+          "parameter": "Display Count",
+          "value": "6000"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "DC Voltage",
+          "value": "1000 V"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "DC Voltage Accuracy",
+          "value": "0.5 %"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "DC Voltage Resolution",
+          "value": "100 mV"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "AC Voltage",
+          "value": "1000 V"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "AC Voltage Accuracy",
+          "value": "1 %"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "AC Voltage Resolution",
+          "value": "1 mV"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "DC Current",
+          "value": "10 A"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "DC Current Accuracy",
+          "value": "1.5 %"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "DC Current Resolution",
+          "value": "10 mA"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "AC Current",
+          "value": "10 A"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "AC Current Accuracy",
+          "value": "1.5 %"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "AC Current Resolution",
+          "value": "100 mA"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "Resistance",
+          "value": "60 M?"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "Resistance Accuracy",
+          "value": "2 %"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "Resistance Resolution",
+          "value": "100 ?"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "Capacitance Range (Micro farad)",
+          "value": "1 to 100"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "Capacitance Accuracy",
+          "value": "5 %"
+        },
+        {
+          "group": "Electrical Measurement",
+          "parameter": "Capacitance Resolution",
+          "value": "1 nF"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Frequency",
+          "value": "10000 kHz"
+        },
+        {
+          "group": null,
+          "parameter": "Frequency Accuracy",
+          "value": "0.1 %"
+        },
+        {
+          "group": null,
+          "parameter": "Frequency Resolution",
+          "value": "10 Hz"
+        },
+        {
+          "group": null,
+          "parameter": "Temperature Range",
+          "value": "-50 to 1000 °C"
+        },
+        {
+          "group": null,
+          "parameter": "Temperature Accuracy",
+          "value": "2 %"
+        },
+        {
+          "group": null,
+          "parameter": "Temperature Resolution",
+          "value": "1 °C"
+        },
+        {
+          "group": null,
+          "parameter": "Continuity Test and Diode Test",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Data logging",
+          "value": "No"
+        },
+        {
+          "group": null,
+          "parameter": "Computer Interface along with Software",
+          "value": "Yes, No"
+        },
+        {
+          "group": "Power Supply",
+          "parameter": "Power Supply",
+          "value": "AA Battery"
+        },
+        {
+          "group": "Warranty",
+          "parameter": "Warranty (Year)",
+          "value": "1"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 2. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): -NA- Post Receipt Inspection at consignee site before acceptance of stores: BY CONSIGNEE AT RAIL COACH FACTORY KAPURTHALA"
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8269230",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160220"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 02-12-2026 19:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160220"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 03-12-2026 19:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160220"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160220"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160220"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160220"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Rail Coach Factory Kapurthala",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160220"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Kapurthala",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160220"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :cmmg.rcf@rcf.railnet.gov.in Buyer Email id: amm.g@rcf.railnet.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160220"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 20",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160220"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Digital Multimeter (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160220"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160220"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160220"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160220"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160220"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160220"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Type: Handheld | Display (Digits): 3.5 | Measurement Type: True RMS | Display Count: 6000 | DC Voltage: 1000 V | DC Voltage Accuracy: 0.5 % | DC Voltage Resolution: 100 mV | AC Voltage: 1000 V | AC Voltage Accuracy: 1 % | AC Voltage Resolution: 1 mV | DC Current: 10 A | DC Current Accuracy: 1.5 % | DC Current Resolution: 10 mA | AC Current: 10 A | AC Current Accuracy: 1.5 % | AC Current Resolution: 100 mA | Resistance: 60 M? | Resistance Accuracy: 2 % | Resistance Resolution: 100 ? | Capacitance Range (Micro farad): 1 to 100 | Capacitance Accuracy: 5 % | Capacitance Resolution: 1 nF",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160220"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Frequency: 10000 kHz | Frequency Accuracy: 0.1 % | Frequency Resolution: 10 Hz | Temperature Range: -50 to 1000 °C | Temperature Accuracy: 2 % | Temperature Resolution: 1 °C | Continuity Test and Diode Test: Yes | Data logging: No | Computer Interface along with Software: Yes, No | Power Supply: AA Battery | Warranty (Year): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160220"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Yogesh Kumar | 144602,Cheif Electrical Engineer Office, Administrative Building Rail coach Factory, Kapurthala | 20 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160220"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 2. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): -NA- Post Receipt Inspection at consignee site before acceptance of stores: BY CONSIGNEE AT RAIL COACH FACTORY KAPURTHALA",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160220"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

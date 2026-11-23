@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8303926",
   "title": "Mobile Device Forensic Extraction Software",
   "description": "Mobile Device Forensic Extraction Software",
-  "organisation": "Home Department Kerala",
-  "ministry": "",
+  "organisation": "Police Department",
+  "ministry": "Kerala",
   "department": "Home Department Kerala",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Mobile Device Forensic Extraction Software",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-21T16:13:24+05:30",
   "closing_at": "2026-12-01T17:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10200450"
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/LXSEvXB39u8tEz8v4Ha2azAbk1CabPDkTgXDpJ5MNfs",
+      "page": 3
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8303926/CLM0010/Inseyets_f9aab58c-a961-45dd-a0f71795257695777_buycon.atseklm.pdf",
+      "page": 5
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261121",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +49,271 @@
   ],
   "source_fetched_at": "2026-11-22T16:41:37.607Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-02T17:00:00+05:30",
+  "office": "Police Headquarters",
+  "buyer_email": "shoats.pol@kerala.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Certificate (Requested in ATC),OEM Authorization Certificate,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 3,
+  "epbg_duration_months": 12,
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-23T00:10:06.779908+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "58add853d5ce88e4a4c85971a9f3efffe6d66322e4329ca35f6aa09588650327",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Certificate (Requested in ATC),OEM Authorization Certificate,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Benny K V",
+      "address": "683572,Nayathode P O,Nedumbassery, Ernakulam Dist",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Generic",
+          "parameter": "Primary Product Scope Class",
+          "value": "Mobile Device Acquisition Software, Mobile Backup and Image Analysis Software, Mobile Device Acquisition and Analysis Software, Mobile Device Forensic Triage Software, Mobile Device Forensic Analysis Suite"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Deployment Model",
+          "value": "On-Premise, Private Cloud, Public Cloud, MeitY Empanelled Public Cloud"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Licence Entitlement Model",
+          "value": "Per User, Per Node, Per Lab, Per Endpoint"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Licence Tenure",
+          "value": "1 Year Subscription, 2 Year Subscription, 3 Year Subscription, 5 Year Subscription, Perpetual Licence Or higher"
+        },
+        {
+          "group": "Software Features",
+          "parameter": "Supported Device Class",
+          "value": "Smartphones, Tablets, Feature Phones, SIM/UICC Cards, Removable Mobile Storage Media, Mobile Backup Files, Mobile Device Images"
+        },
+        {
+          "group": "Software Features",
+          "parameter": "Supported Mobile Operating Environment",
+          "value": "Android, iOS/iPadOS, HarmonyOS, Feature Phone/Proprietary OS, Legacy BlackBerry OS, Legacy Symbian OS, Legacy Windows Mobile/Phone OS"
+        },
+        {
+          "group": "Software Features",
+          "parameter": "Supported Acquisition Class",
+          "value": "Logical Acquisition, File System Acquisition, Physical Acquisition where Supported, Backup File Import, Device Image Import, SIM/UICC Import, Removable Storage Import, App Data Import, Device Triage Acquisition, Selective Artefact Acquisition"
+        },
+        {
+          "group": "Software Features",
+          "parameter": "Supported Device Access / Lock State Handling",
+          "value": "Unlocked Device Acquisition, Buyer-Provided Credential/Passcode-Based Acquisition, AFU Locked Device Acquisition where Supported, BFU Locked Device Acquisition where Supported, Limited Locked Device Triage where Supported, Full File System Acquisition where Supported, Physical Acquisition where Supported, Backup/Image-Based Acquisition"
+        },
+        {
+          "group": "Software Features",
+          "parameter": "Mobile Artefact Coverage",
+          "value": "Call Logs, Contacts, SMS/MMS, Chat/Application Artefacts, Media Files, Documents, Browser Artefacts, Location Artefacts, Calendar Artefacts, Notes Artefacts, Email Artefacts, Installed Application List, System Logs, Deleted Artefact Recovery"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Analysis and Triage Capability",
+          "value": "Timeline Analysis, Link/Relationship Analysis, Keyword Search, Regular Expression Search, Hash-Based Search, Duplicate File Identification, Media Metadata Analysis, Location Timeline Analysis, Application Artefact Parsing, Communication Pattern Analysis, OCR for Images and Screenshots, Machine-Assisted Media Categorisation, Face Detection and Visual Similarity Grouping, Cross-Case Entity Correlation, Location Pattern Analysis, Sensitive Content Triage Workflow, Reviewer Validation Workflow for Machine- Assisted Findings"
+        },
+        {
+          "group": null,
+          "parameter": "Case and Evidence Management",
+          "value": "Case Workspace Creation, Evidence Source Tagging, File Import Log, Hash Generation for Imported Files, Chain-of-Custody Log, User Action Audit Trail, Tamper-Evident Case Record, Evidence Integrity Verification, Exportable Case Audit Log"
+        },
+        {
+          "group": null,
+          "parameter": "Reporting and Statutory Export Capability",
+          "value": "Extraction Summary Report, Device Information Report, Artefact Report, Timeline Report, Location Report, Communication Report, Deleted Artefact Report, Audit Trail Report, BSA Section 63 / Erstwhile Section 65B Certificate Template Export, Evidence Hash/Integrity Statement Export, Source Data Import Register Export, PDF Export, XLSX Export, CSV Export, HTML Export"
+        },
+        {
+          "group": null,
+          "parameter": "Data Security and Retention Control",
+          "value": "Encryption at Rest, Encryption in Transit, Buyer- Controlled Evidence Repository, Configurable Data Retention, Secure Deletion Workflow, Backup and Restore, Data Export before Contract Exit"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original"
+    },
+    {
+      "page": 5,
+      "text": "delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8303926",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200450"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 01-12-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200450"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 02-12-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200450"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200450"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Kerala",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200450"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Home Department Kerala",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200450"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Police Department",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200450"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Police Headquarters",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200450"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :aig2phq.pol@kerala.gov.in Buyer Email id: shoats.pol@kerala.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200450"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200450"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Mobile Device Forensic Extraction Software (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200450"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200450"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200450"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Certificate (Requested in ATC),OEM Authorization Certificate,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200450"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200450"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 3.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200450"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 12",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200450"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200450"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200450"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Primary Product Scope Class: Mobile Device Acquisition Software, Mobile Backup and Image Analysis Software, Mobile Device Acquisition and Analysis Software, Mobile Device Forensic Triage Software, Mobile Device Forensic Analysis Suite | Deployment Model: On-Premise, Private Cloud, Public Cloud, MeitY Empanelled Public Cloud | Licence Entitlement Model: Per User, Per Node, Per Lab, Per Endpoint | Licence Tenure: 1 Year Subscription, 2 Year Subscription, 3 Year Subscription, 5 Year Subscription, Perpetual Licence Or higher | Supported Device Class: Smartphones, Tablets, Feature Phones, SIM/UICC Cards, Removable Mobile Storage Media, Mobile Backup Files, Mobile Device Images | Supported Mobile Operating Environment: Android, iOS/iPadOS, HarmonyOS, Feature Phone/Proprietary OS, Legacy BlackBerry OS, Legacy Symbian OS, Legacy Windows Mobile/Phone OS | Supported Acquisition Class: Logical Acquisition, File System Acquisition, Physical Acquisition where Supported, Backup File Import, Device Image Import, SIM/UICC Import, Removable Storage Import, App Data Import, Device Triage Acquisition, Selective Artefact Acquisition | Supported Device Access / Lock State Handling: Unlocked Device Acquisition, Buyer-Provided Credential/Passcode-Based Acquisition, AFU Locked Device Acquisition where Supported, BFU Locked Device Acquisition where Supported, Limited Locked Device Triage where Supported, Full File System Acquisition where Supported, Physical Acquisition where Supported, Backup/Image-Based Acquisition | Mobile Artefact Coverage: Call Logs, Contacts, SMS/MMS, Chat/Application Artefacts, Media Files, Documents, Browser Artefacts, Location Artefacts, Calendar Artefacts, Notes Artefacts, Email Artefacts, Installed Application List, System Logs, Deleted Artefact Recovery",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200450"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Analysis and Triage Capability: Timeline Analysis, Link/Relationship Analysis, Keyword Search, Regular Expression Search, Hash-Based Search, Duplicate File Identification, Media Metadata Analysis, Location Timeline Analysis, Application Artefact Parsing, Communication Pattern Analysis, OCR for Images and Screenshots, Machine-Assisted Media Categorisation, Face Detection and Visual Similarity Grouping, Cross-Case Entity Correlation, Location Pattern Analysis, Sensitive Content Triage Workflow, Reviewer Validation Workflow for Machine- Assisted Findings | Case and Evidence Management: Case Workspace Creation, Evidence Source Tagging, File Import Log, Hash Generation for Imported Files, Chain-of-Custody Log, User Action Audit Trail, Tamper-Evident Case Record, Evidence Integrity Verification, Exportable Case Audit Log | Reporting and Statutory Export Capability: Extraction Summary Report, Device Information Report, Artefact Report, Timeline Report, Location Report, Communication Report, Deleted Artefact Report, Audit Trail Report, BSA Section 63 / Erstwhile Section 65B Certificate Template Export, Evidence Hash/Integrity Statement Export, Source Data Import Register Export, PDF Export, XLSX Export, CSV Export, HTML Export | Data Security and Retention Control: Encryption at Rest, Encryption in Transit, Buyer- Controlled Evidence Repository, Configurable Data Retention, Secure Deletion Workflow, Backup and Restore, Data Export before Contract Exit",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200450"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Benny K V | 683572,Nayathode P O,Nedumbassery, Ernakulam Dist | 1 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200450"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200450"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200450"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8304016",
   "title": "True RMS Clamp Meter (V2)",
   "description": "True RMS Clamp Meter (V2)",
-  "organisation": "Electricity (Power) Department Puducherry",
-  "ministry": "",
-  "department": "Electricity (Power) Department Puducherry",
+  "organisation": "Puducherry Power Corporation Limited, Karaikal",
+  "ministry": "Puducherry",
+  "department": "Electricity (power) Department Puducherry",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "True RMS Clamp Meter (V2)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-21T16:44:29+05:30",
   "closing_at": "2026-12-02T17:00:00+05:30",
   "status": "active",
@@ -27,6 +27,16 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10200551"
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/2x6nhOmLby9fh-DURIM95bBj4JAJRB3GQFL6MoXCOI0",
+      "page": 2
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261121",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +44,265 @@
   ],
   "source_fetched_at": "2026-11-22T21:22:31.321Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-03T17:00:00+05:30",
+  "office": "Karaikal Talukkaraikalpy",
+  "buyer_email": "buycon1.power.kik@gembuyer.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "30 (Days)",
+  "estimated_bid_value": 24000,
+  "source_document_fetched_at": "2026-11-23T00:06:11.402926+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "5086ed242c6508f2150f40f56310b4c5be3798673bf6129188f920cff473e6f5",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Saravanan M",
+      "address": "609606,PPCL, Project Office, TR-Pattinam, Karaikal - 609606",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Genreric",
+          "parameter": "Type",
+          "value": "Handheld Clamp Meter"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "Measurement Type",
+          "value": "True RMS"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "Display",
+          "value": "3½ Digit LCD, 4 Digit LCD"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "Display Count",
+          "value": "2000 to 10000 counts"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "Jaw Opening",
+          "value": "30 mm, 32 mm, 34 mm, 36 mm, 38 mm, 40 mm, 45 mm, 52 mm, 23 mm"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "AC Current Measurement Range",
+          "value": "0 A to 1000 A"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "AC Current Accuracy",
+          "value": "±1% to ±2.5%"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "AC Voltage Measurement Range",
+          "value": "0 V to 1000 V"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "AC Voltage Accuracy",
+          "value": "±0.8% to ±2%"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "DC Current Measurement Range",
+          "value": "0 A to 1000 A"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "DC Current Accuracy",
+          "value": "±1% to ±2%"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "DC Voltage Measurement Range",
+          "value": "0 mV to 1000 V"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "DC Voltage Accuracy",
+          "value": "±0.5% to ±1.5%"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "Resistance Measurement Range",
+          "value": "0 ? to 1000 M?"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "Resistance Accuracy",
+          "value": "±1% to ±2%"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "Frequency Measurement Range",
+          "value": "10 Hz to 100 kHz"
+        },
+        {
+          "group": "Genreric",
+          "parameter": "Frequency Accuracy",
+          "value": "±0.1% to ±0.5%"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address PUDUCHERRY POWER CORPORATION LIMITED A GOVERNMENT OF PUDUCHERRY UNDERTAKING T.R.PATTINAM KARAIKAL DISTRICT 609606 PUDUCHERY U.T. . 2. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 3. Generic Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of technical parameters, the bid is liable for rejection. 4. Generic Without prejudice to Buyer’s right to price adjustment by way of discount or any other right or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a written notice to the Seller, if: i) The Seller fails to comply with any material term of the Contract. ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within the stipulated Delivery Period or such inability otherwise becomes apparent. iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery Period and/or to replace/rectify any rejected or defective Material(s) promptly. iv) The Seller becomes bankrupt or goes into liquidation. v) The Seller makes a general assignment for the benefit of creditors. vi) A receiver is appointed for any substantial property owned by the Seller. vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has placed the Purchase Order on the Seller. 5. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 6. Certificates To be eligible for award of contract, Bidder / OEM must possess following Certificates / Test Reports on the date of bid opening (to be uploaded with bid): BIDDER SOULD UPLOAD NECESSARY CATALOGUE/MANUAL WHILE SUBMITTING THE OFFER"
+    },
+    {
+      "page": 5,
+      "text": ". 7. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses ONLY FLUKE MAKE AND 317 MODEL - DC/AC DIGITAL CLAMP METER WII BE CONSIDERED FOR EVALUATIO N ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8304016",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200551"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 02-12-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200551"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 03-12-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200551"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200551"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Puducherry",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200551"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Electricity (power) Department Puducherry",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200551"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Puducherry Power Corporation Limited, Karaikal",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200551"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Karaikal Talukkaraikalpy",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200551"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :ppcl.kkl@nic.in Buyer Email id: buycon1.power.kik@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200551"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200551"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: True RMS Clamp Meter (V2) (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200551"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200551"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200551"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200551"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 24000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200551"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200551"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200551"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Type: Handheld Clamp Meter | Measurement Type: True RMS | Display: 3½ Digit LCD, 4 Digit LCD | Display Count: 2000 to 10000 counts | Jaw Opening: 30 mm, 32 mm, 34 mm, 36 mm, 38 mm, 40 mm, 45 mm, 52 mm, 23 mm | AC Current Measurement Range: 0 A to 1000 A | AC Current Accuracy: ±1% to ±2.5% | AC Voltage Measurement Range: 0 V to 1000 V | AC Voltage Accuracy: ±0.8% to ±2% | DC Current Measurement Range: 0 A to 1000 A | DC Current Accuracy: ±1% to ±2% | DC Voltage Measurement Range: 0 mV to 1000 V | DC Voltage Accuracy: ±0.5% to ±1.5% | Resistance Measurement Range: 0 ? to 1000 M? | Resistance Accuracy: ±1% to ±2% | Frequency Measurement Range: 10 Hz to 100 kHz | Frequency Accuracy: ±0.1% to ±0.5%",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200551"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Saravanan M | 609606,PPCL, Project Office, TR-Pattinam, Karaikal - 609606 | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200551"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address PUDUCHERRY POWER CORPORATION LIMITED A GOVERNMENT OF PUDUCHERRY UNDERTAKING T.R.PATTINAM KARAIKAL DISTRICT 609606 PUDUCHERY U.T. . 2. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 3. Generic Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers can match and verify the Data Sheet with the product specifications offered. In case of any unexplained mismatch of technical parameters, the bid is liable for rejection. 4. Generic Without prejudice to Buyer’s right to price adjustment by way of discount or any other right or remedy available to Buyer, Buyer may terminate the Contract or any part thereof by a written notice to the Seller, if: i) The Seller fails to comply with any material term of the Contract. ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within the stipulated Delivery Period or such inability otherwise becomes apparent. iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery Period and/or to replace/rectify any rejected or defective Material(s) promptly. iv) The Seller becomes bankrupt or goes into liquidation. v) The Seller makes a general assignment for the benefit of creditors. vi) A receiver is appointed for any substantial property owned by the Seller. vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has placed the Purchase Order on the Seller. 5. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 6. Certificates To be eligible for award of contract, Bidder / OEM must possess following Certificates / Test Reports on the date of bid opening (to be uploaded with bid): BIDDER SOULD UPLOAD NECESSARY CATALOGUE/MANUAL WHILE SUBMITTING THE OFFER",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200551"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": ". 7. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses ONLY FLUKE MAKE AND 317 MODEL - DC/AC DIGITAL CLAMP METER WII BE CONSIDERED FOR EVALUATIO N .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200551"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

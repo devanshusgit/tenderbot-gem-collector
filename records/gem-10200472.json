@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8303943",
   "title": "Industrial 3D Printer",
   "description": "Industrial 3D Printer",
-  "organisation": "Education Department Gujarat",
-  "ministry": "",
+  "organisation": "Commissionerate Of Technical Education",
+  "ministry": "Gujarat",
   "department": "Education Department Gujarat",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Industrial 3D Printer",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-21T16:18:49+05:30",
   "closing_at": "2026-12-12T17:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10200472"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/3OPyhUPh1NJ0a42UNnvdPefE00kR3tEeisuSAd-SjG8",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261121",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +49,309 @@
   ],
   "source_fetched_at": "2026-11-23T11:03:30.005Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-13T17:00:00+05:30",
+  "office": "Government Engineering College, Sector-28, Gandhinagar",
+  "buyer_email": "head.robotics@gecg28.ac.in",
+  "emd_required": false,
+  "oem_turnover_lakhs": 1,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 63,
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-24T09:54:08.454684+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "2373828b925bf2f7ae74f58199c1bcea0b619c5409a112c3346eb4b946549557",
+  "document_pages": 7,
+  "eligibility": [
+    "OEM average turnover (last 3 years): 1 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 50 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Vora Manish Jashvantrai",
+      "address": "382028,GOVERNMENT ENGINEERING COLLEGE NEAR ANIMAL VACCINE INSTITUTE, SECTOR-28, GANDHINAGAR",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Technology and Printing Capability",
+          "parameter": "3D Printing Technology",
+          "value": "Material Extrusion"
+        },
+        {
+          "group": "Technology and Printing Capability",
+          "parameter": "3D Printing Process",
+          "value": "Fused Filament Fabrication / FDM"
+        },
+        {
+          "group": "Technology and Printing Capability",
+          "parameter": "Number of Independently Controlled Extrusion Heads",
+          "value": "1.0 Or higher"
+        },
+        {
+          "group": "Technology and Printing Capability",
+          "parameter": "Support Material Compatibility",
+          "value": "Breakaway Support Material"
+        },
+        {
+          "group": "Technology and Printing Capability",
+          "parameter": "Extrusion System Configuration",
+          "value": "Single Extruder"
+        },
+        {
+          "group": "Build Capacity",
+          "parameter": "Maximum Build Size - X Axis (in mm)",
+          "value": "Up to 200, Up to 350, Up to 400, Up to 450, Up to 500, Up to 600, Up to 700, Up to 800, Up to 900, Up to 1000, Up to 1200, Up to 1400, Up to 1600, Up to 1800, Up to 2000, Up to 2200, Up to 2400 Or higher"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Maximum Build Size - Y Axis (in mm)",
+          "value": "Up to 200, Up to 350, Up to 400, Up to 450, Up to 500, Up to 600, Up to 700, Up to 800, Up to 900, Up to 1000, Up to 1200, Up to 1400, Up to 1600, Up to 1800, Up to 2000, Up to 2200, Up to 2400 Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Maximum Build Size - Z Axis (in mm)",
+          "value": "Up to 200, Up to 350, Up to 400, Up to 450, Up to 500, Up to 600, Up to 700, Up to 800, Up to 900, Up to 1000, Up to 1200, Up to 1400, Up to 1600, Up to 1800, Up to 2000, Up to 2200, Up to 2400 Or higher"
+        },
+        {
+          "group": "Material Compatibility & Thermal System",
+          "parameter": "Supported Material Families",
+          "value": "Polylactic Acid (PLA), Acrylonitrile Butadiene Styrene/Acrylonitrile Styrene Acrylate (ABS / ASA), Polyethylene Terephthalate Glycol/Co-Polyester (PETG/CPE), Thermoplastic Elastomers (TPE/TPU)"
+        },
+        {
+          "group": "Material Compatibility & Thermal System",
+          "parameter": "Maximum Nozzle / Extruder Temperature (in degree Celsius)",
+          "value": "Up to 300, Up to 350, Up to 450, Up to 500 Or higher"
+        },
+        {
+          "group": "Material Compatibility & Thermal System",
+          "parameter": "Build Chamber Type",
+          "value": "Enclosed Chamber (Unheated), Heated Chamber up to 60°C, Heated Chamber Up to 90°C, Heated Chamber Up to 120°C Or higher"
+        },
+        {
+          "group": "Material Compatibility & Thermal System",
+          "parameter": "Maximum Build Plate Temperature (in degree Celsius)",
+          "value": "81 to 120, 121 to 160 Or higher"
+        },
+        {
+          "group": "Feature and Connectivity",
+          "parameter": "Included Software",
+          "value": "Desktop Slicing Software, Remote Monitoring Software"
+        },
+        {
+          "group": "Feature and Connectivity",
+          "parameter": "Features",
+          "value": "Auto Bed Leveling, Filament Runout Detection, Resume After Power Failure"
+        },
+        {
+          "group": "Feature and Connectivity",
+          "parameter": "Add-On",
+          "value": "No Add-on"
+        },
+        {
+          "group": "Feature and Connectivity",
+          "parameter": "Connectivity",
+          "value": "Wi-Fi"
+        },
+        {
+          "group": "Compliance and Power",
+          "parameter": "Safety and Emission Control Features",
+          "value": "Activated Carbon Filtration"
+        },
+        {
+          "group": "Compliance and Power",
+          "parameter": "Warranty (in Year)",
+          "value": "1, 2, 3 Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8303943",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200472"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 12-12-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200472"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 13-12-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200472"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200472"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Gujarat",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200472"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Education Department Gujarat",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200472"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Commissionerate Of Technical Education",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200472"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Government Engineering College, Sector-28, Gandhinagar",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200472"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :hod.cte.gjrt@gembuyer.in Buyer Email id: head.robotics@gecg28.ac.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200472"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200472"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Industrial 3D Printer (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200472"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 1 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200472"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200472"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200472"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200472"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200472"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 50 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200472"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200472"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200472"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200472"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200472"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 63",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200472"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "3D Printing Technology: Material Extrusion | 3D Printing Process: Fused Filament Fabrication / FDM | Number of Independently Controlled Extrusion Heads: 1.0 Or higher | Support Material Compatibility: Breakaway Support Material | Extrusion System Configuration: Single Extruder | Maximum Build Size - X Axis (in mm): Up to 200, Up to 350, Up to 400, Up to 450, Up to 500, Up to 600, Up to 700, Up to 800, Up to 900, Up to 1000, Up to 1200, Up to 1400, Up to 1600, Up to 1800, Up to 2000, Up to 2200, Up to 2400 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200472"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Maximum Build Size - Y Axis (in mm): Up to 200, Up to 350, Up to 400, Up to 450, Up to 500, Up to 600, Up to 700, Up to 800, Up to 900, Up to 1000, Up to 1200, Up to 1400, Up to 1600, Up to 1800, Up to 2000, Up to 2200, Up to 2400 Or higher | Maximum Build Size - Z Axis (in mm): Up to 200, Up to 350, Up to 400, Up to 450, Up to 500, Up to 600, Up to 700, Up to 800, Up to 900, Up to 1000, Up to 1200, Up to 1400, Up to 1600, Up to 1800, Up to 2000, Up to 2200, Up to 2400 Or higher | Supported Material Families: Polylactic Acid (PLA), Acrylonitrile Butadiene Styrene/Acrylonitrile Styrene Acrylate (ABS / ASA), Polyethylene Terephthalate Glycol/Co-Polyester (PETG/CPE), Thermoplastic Elastomers (TPE/TPU) | Maximum Nozzle / Extruder Temperature (in degree Celsius): Up to 300, Up to 350, Up to 450, Up to 500 Or higher | Build Chamber Type: Enclosed Chamber (Unheated), Heated Chamber up to 60°C, Heated Chamber Up to 90°C, Heated Chamber Up to 120°C Or higher | Maximum Build Plate Temperature (in degree Celsius): 81 to 120, 121 to 160 Or higher | Included Software: Desktop Slicing Software, Remote Monitoring Software | Features: Auto Bed Leveling, Filament Runout Detection, Resume After Power Failure | Add-On: No Add-on | Connectivity: Wi-Fi | Safety and Emission Control Features: Activated Carbon Filtration | Warranty (in Year): 1, 2, 3 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200472"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Vora Manish Jashvantrai | 382028,GOVERNMENT ENGINEERING COLLEGE NEAR ANIMAL VACCINE INSTITUTE, SECTOR-28, GANDHINAGAR | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200472"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10200472"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

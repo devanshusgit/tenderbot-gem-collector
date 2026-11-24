@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8297458",
   "title": "Dehumidifier",
   "description": "Dehumidifier",
-  "organisation": "Department of Atomic Energy",
-  "ministry": "Department of Atomic Energy",
-  "department": "Department of Atomic Energy",
+  "organisation": "Directorate Of Purchase And Stores",
+  "ministry": "Department Of Atomic Energy",
+  "department": "Department Of Atomic Energy",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Dehumidifier",
   "quantity": 15,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-23T10:48:26+05:30",
   "closing_at": "2026-12-11T14:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10192967"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/DjmA_wrxlke6QrcF5oQreuBKNXGEee6QBn2AyBTZpjo",
+      "page": 4
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8297458/CLM0010/Hindreg_a76a1788-6436-4896-b2381795153546670_apoc3.pdf",
+      "page": 7
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261123",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +54,446 @@
   ],
   "source_fetched_at": "2026-11-23T11:01:25.794Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-12T14:00:00+05:30",
+  "office": "Directorate Of Purchase And Stores",
+  "buyer_email": "apoc3@dpsdae.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 15,
+  "offer_validity": "120 (Days)",
+  "source_document_fetched_at": "2026-11-24T01:47:39.020249+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "9b94238617c0781afbeb77f5df6e5c215190ebdb75207937dbe5ffce31f24f59",
+  "document_pages": 8,
+  "eligibility": [
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Dattatray Ashok Vispute",
+      "address": "400085,Material Receipt Cell (MRC), North Gate, Central Stores Unit, BARC, TROMBAY, MUMBAI",
+      "quantity": 15,
+      "quantity_label": "Quantity",
+      "delivery_days": 21
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Certifications & Standards",
+          "parameter": "Certificates",
+          "value": "CE"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Color",
+          "value": "White"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Material",
+          "value": "Plastic"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Model Classification",
+          "value": "Domestic"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Accuracy, %RH",
+          "value": "10"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Water Tank Capacity",
+          "value": "8.0 (liter)"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Display Control",
+          "value": "Touch Control"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Phase",
+          "value": "Single"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Room Coverage Area, sq. ft.",
+          "value": "301-350"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Air Flow in m3/hr",
+          "value": "175"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Refrigerant gas/charge",
+          "value": "R-134 A"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Power",
+          "value": "400.0 (Watt)"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Humidity Range, % RH",
+          "value": "40-80"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Voltage Supply",
+          "value": "220.0 (Volt)"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Fan Motor",
+          "value": "Single Shaft Motor"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Sound Level",
+          "value": "43.0 (decibel)"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Rated Current",
+          "value": "5.7 (Ampre)"
+        },
+        {
+          "group": "Performance Parameters",
+          "parameter": "Dehumidifying Capacity in L/Day",
+          "value": "39"
+        },
+        {
+          "group": "Additional Features",
+          "parameter": "Silent",
+          "value": "Yes"
+        },
+        {
+          "group": "Additional Features",
+          "parameter": "Continuous operation with hose",
+          "value": "Yes"
+        },
+        {
+          "group": "Additional Features",
+          "parameter": "Carbon Filter",
+          "value": "Yes"
+        },
+        {
+          "group": "Additional Features",
+          "parameter": "Adjustable Air Direction",
+          "value": "No"
+        },
+        {
+          "group": "Additional Features",
+          "parameter": "Easier Mobility with Convenient Wheels",
+          "value": "Yes"
+        },
+        {
+          "group": "Additional Features",
+          "parameter": "Power Reciprocating Compressor",
+          "value": "No"
+        },
+        {
+          "group": "Additional Features",
+          "parameter": "Continuous Drainage",
+          "value": "Yes"
+        },
+        {
+          "group": "Additional Features",
+          "parameter": "Automatic Reset",
+          "value": "Yes"
+        },
+        {
+          "group": "Additional Features",
+          "parameter": "Handle",
+          "value": "Yes"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Photo catalytic filter",
+          "value": "No"
+        },
+        {
+          "group": null,
+          "parameter": "Automatic Humidistat Control",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Low Electricity Consumption",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Air-Purifying Filter",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Super Dry Function",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Auto Frost Control",
+          "value": "No"
+        },
+        {
+          "group": null,
+          "parameter": "Backward Air Outlet",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Color Plated Surface",
+          "value": "No"
+        },
+        {
+          "group": null,
+          "parameter": "Haevy Duty Model",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Full Water Tank Warning Signal",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Air Pressure Switch",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Automatic defrosting",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "HEPA Filter",
+          "value": "No"
+        },
+        {
+          "group": "Dimensions",
+          "parameter": "Weight",
+          "value": "30.0 (kilogram)"
+        },
+        {
+          "group": "Dimensions",
+          "parameter": "Length",
+          "value": "17.0 (Inch)"
+        },
+        {
+          "group": "Dimensions",
+          "parameter": "Width",
+          "value": "14.0 (Inch)"
+        },
+        {
+          "group": "Dimensions",
+          "parameter": "Height",
+          "value": "26.0 (Inch)"
+        },
+        {
+          "group": "Purchase Information",
+          "parameter": "Compressor Warranty",
+          "value": "3.0 (year)"
+        },
+        {
+          "group": "Purchase Information",
+          "parameter": "Device Warranty",
+          "value": "1.0 (year)"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Scope of Supply"
+    },
+    {
+      "page": 6,
+      "text": "Scope of supply (Bid price to include all cost components) : Only supply of Goods 2. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in favour of PAY & ACCOUNTS OFFICER, DPS payable at V S BHAVAN, ANUSHAKTINAGAR, MUMBAI – 400094 . After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of contract. 3. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses DPS/CPU/04/C3/5088 1)Vehicles with GPS facility will not be allowed entry inside purchaser’s premises. In view of the above, the consignments should be dispatched only through vehicles without GPS system. 2)THE ORDERED ITEM SHALL BE SUPPLIED TO THE RESPECTIVE STORES ONLY ON WORKING DAYS AND BE TWEEN 10:00 HOURS TO 16.00 HOURS EXCLUDING SATURDAYS, SUNDAYS AND PUBLIC HOLIDAYS. THE SU PPLIER SHALL GIVE ADVANCE INTIMATION TO THE CONSIGNEE THROUGH EMAIL BEFORE DELIVERING THE MATERIAL. 3) Bidder must go through the complete technical specifications uploaded along with the bid and participat e accordingly. 4) In order to avoid the rejection of offer/quotation submitted, bidders are advised to submit the bid withou t mentioning any price or mentioning of any taxes, levies, duties as quotations are inclusive of all. 5) WARRANTY : Warranty period of the supplied products shall be 1 years from the date of final acceptance of goods or aft er completion of installation, commissioning & testing of goods (if included in the scope of supply), at consi gnee location. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. 6) The bank guarantee should be obtained from the State Bank of India or any one of the Nationalized sch eduled banks as appearing in second schedule of RBI(Other than co-operative banks and Gramin banks) o n non judicial stamp paper of appropriate value. 7) POST SUPPLY INSPECTION : Post supply inspection in respect of supplies made is not permitted. Any offer containing of post supply ins pection will be out-rightly rejected. 8) Annexure-X : The successful bidder is required to maintain hindrance register for reporting hindrance if any, while execu ting the work, as per the attached Annexure-X. The successful shall get record of hindrances in the hindra nce register approved/endorsed by Purchaser. Such hindrance in the work endorsed by the Purchaser shall"
+    },
+    {
+      "page": 7,
+      "text": "only be taken into consideration for granting delivery period extension. 9)PSDBG SHALL BE SUBMITTED BY SELLER TO THE BUYER WITHIN 15 DAYS OF AWARD OF CONTRACT ON GEM. HARD COPY OF EPBG TO BE SENT TO ASSISTANT PURCHASE OFFICER, DESPATCH SECTION, DIRECTO RATE OF PURCHASE AND STORES, DEPARTMENT OF ATOMIC ENERGY, CENTRAL PURCHASE UNIT, VIKRAM S ARABHAI BHAVAN, ANUSHAKTI NAGAR, MUMBAI, 400094 . . 4. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8297458",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10192967"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 11-12-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10192967"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 12-12-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10192967"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10192967"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Department Of Atomic Energy",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10192967"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Atomic Energy",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10192967"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Directorate Of Purchase And Stores",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10192967"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Directorate Of Purchase And Stores",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10192967"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :hod_dps_gem@dpsdae.gov.in Buyer Email id: apoc3@dpsdae.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10192967"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10192967"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Dehumidifier (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10192967"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10192967"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10192967"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10192967"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10192967"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 2,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10192967"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 2,
+      "quote": "() /Duration of ePBG required (Months).: 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10192967"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10192967"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10192967"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Certificates: CE | Color: White | Material: Plastic | Model Classification: Domestic | Accuracy, %RH: 10 | Water Tank Capacity: 8.0 (liter) | Display Control: Touch Control | Phase: Single | Room Coverage Area, sq. ft.: 301-350 | Air Flow in m3/hr: 175 | Refrigerant gas/charge: R-134 A | Power: 400.0 (Watt) | Humidity Range, % RH: 40-80 | Voltage Supply: 220.0 (Volt) | Fan Motor: Single Shaft Motor | Sound Level: 43.0 (decibel) | Rated Current: 5.7 (Ampre) | Dehumidifying Capacity in L/Day: 39 | Silent: Yes | Continuous operation with hose: Yes | Carbon Filter: Yes | Adjustable Air Direction: No | Easier Mobility with Convenient Wheels: Yes | Power Reciprocating Compressor: No | Continuous Drainage: Yes | Automatic Reset: Yes | Handle: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10192967"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Photo catalytic filter: No | Automatic Humidistat Control: Yes | Low Electricity Consumption: Yes | Air-Purifying Filter: Yes | Super Dry Function: Yes | Auto Frost Control: No | Backward Air Outlet: Yes | Color Plated Surface: No | Haevy Duty Model: Yes | Full Water Tank Warning Signal: Yes | Air Pressure Switch: Yes | Automatic defrosting: Yes | HEPA Filter: No | Weight: 30.0 (kilogram) | Length: 17.0 (Inch) | Width: 14.0 (Inch) | Height: 26.0 (Inch) | Compressor Warranty: 3.0 (year) | Device Warranty: 1.0 (year)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10192967"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Dattatray Ashok Vispute | 400085,Material Receipt Cell (MRC), North Gate, Central Stores Unit, BARC, TROMBAY, MUMBAI | 15 | 21",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10192967"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Scope of Supply",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10192967"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "Scope of supply (Bid price to include all cost components) : Only supply of Goods 2. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in favour of PAY & ACCOUNTS OFFICER, DPS payable at V S BHAVAN, ANUSHAKTINAGAR, MUMBAI – 400094 . After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15 days of award of contract. 3. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses DPS/CPU/04/C3/5088 1)Vehicles with GPS facility will not be allowed entry inside purchaser’s premises. In view of the above, the consignments should be dispatched only through vehicles without GPS system. 2)THE ORDERED ITEM SHALL BE SUPPLIED TO THE RESPECTIVE STORES ONLY ON WORKING DAYS AND BE TWEEN 10:00 HOURS TO 16.00 HOURS EXCLUDING SATURDAYS, SUNDAYS AND PUBLIC HOLIDAYS. THE SU PPLIER SHALL GIVE ADVANCE INTIMATION TO THE CONSIGNEE THROUGH EMAIL BEFORE DELIVERING THE MATERIAL. 3) Bidder must go through the complete technical specifications uploaded along with the bid and participat e accordingly. 4) In order to avoid the rejection of offer/quotation submitted, bidders are advised to submit the bid withou t mentioning any price or mentioning of any taxes, levies, duties as quotations are inclusive of all. 5) WARRANTY : Warranty period of the supplied products shall be 1 years from the date of final acceptance of goods or aft er completion of installation, commissioning & testing of goods (if included in the scope of supply), at consi gnee location. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. 6) The bank guarantee should be obtained from the State Bank of India or any one of the Nationalized sch eduled banks as appearing in second schedule of RBI(Other than co-operative banks and Gramin banks) o n non judicial stamp paper of appropriate value. 7) POST SUPPLY INSPECTION : Post supply inspection in respect of supplies made is not permitted. Any offer containing of post supply ins pection will be out-rightly rejected. 8) Annexure-X : The successful bidder is required to maintain hindrance register for reporting hindrance if any, while execu ting the work, as per the attached Annexure-X. The successful shall get record of hindrances in the hindra nce register approved/endorsed by Purchaser. Such hindrance in the work endorsed by the Purchaser shall",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10192967"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "only be taken into consideration for granting delivery period extension. 9)PSDBG SHALL BE SUBMITTED BY SELLER TO THE BUYER WITHIN 15 DAYS OF AWARD OF CONTRACT ON GEM. HARD COPY OF EPBG TO BE SENT TO ASSISTANT PURCHASE OFFICER, DESPATCH SECTION, DIRECTO RATE OF PURCHASE AND STORES, DEPARTMENT OF ATOMIC ENERGY, CENTRAL PURCHASE UNIT, VIKRAM S ARABHAI BHAVAN, ANUSHAKTI NAGAR, MUMBAI, 400094 . . 4. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10192967"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8302207",
   "title": "Quantitative estimation of fibrinogen",
   "description": "Quantitative estimation of fibrinogen",
-  "organisation": "Employees State Insuarnce Corporation",
-  "ministry": "Ministry of Labour and Employment",
+  "organisation": "Employees State Insurance Corporation",
+  "ministry": "Ministry Of Labour And Employment",
   "department": "Employees State Insuarnce Corporation",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Quantitative estimation of fibrinogen",
   "quantity": 80,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-21T11:28:06+05:30",
   "closing_at": "2026-12-12T12:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10198482"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "Buyer technical specification",
+      "url": "https://mkp.gem.gov.in/catalog_data/catalog_support_document/buyer_documents/11647350/54/78/703/CatalogAttrs/SpecificationDocument/2026/11/21/adobe_scan_11_feb_2026_-1_2026-11-21-11-21-39_e05233e8b3c6667db9ca4309cf72d848.pdf",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261121",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +49,176 @@
   ],
   "source_fetched_at": "2026-11-23T11:02:57.304Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-13T12:00:00+05:30",
+  "office": "Esic Hospital And Medical College Joka Kolkata",
+  "buyer_email": "dr.mondeepa.c@esic.nic.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "180 (Days)",
+  "estimated_bid_value": 16000,
+  "source_document_fetched_at": "2026-11-24T10:15:55.185002+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "857631ec6258ad8db9a37e6198fbe5954391551fe80535ad9249c3f934643c5c",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Madhab Paul",
+      "address": "700104,ESIC HOSPITAL JOKA, DIAMOND HARBOUR ROAD",
+      "quantity": 80,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up"
+    },
+    {
+      "page": 5,
+      "text": "to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 3. Certificates Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked by Buyer’s Lab & the Results of the Lab will be the Sole Criteria for Acceptance of the Item. 4. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Required Quantitative estimation of fibrinogen - 80 test (20 X 4) ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8302207",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198482"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 12-12-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198482"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 13-12-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198482"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198482"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Labour And Employment",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198482"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Employees State Insuarnce Corporation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198482"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Employees State Insurance Corporation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198482"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Esic Hospital And Medical College Joka Kolkata",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198482"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :dr.subhabrata.sengupta@esic.gov.in Buyer Email id: dr.mondeepa.c@esic.nic.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198482"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 80",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198482"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Quantitative estimation of fibrinogen",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198482"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198482"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198482"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198482"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198482"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 16000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198482"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198482"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198482"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Madhab Paul | 700104,ESIC HOSPITAL JOKA, DIAMOND HARBOUR ROAD | 80 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198482"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198482"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 3. Certificates Material Test Certificate Should Be Sent Along with The Supply. The Material Will Be Checked by Buyer’s Lab & the Results of the Lab will be the Sole Criteria for Acceptance of the Item. 4. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Required Quantitative estimation of fibrinogen - 80 test (20 X 4) .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10198482"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

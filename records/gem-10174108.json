@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8281080",
   "title": "Servers (V2)",
   "description": "Servers (V2)",
-  "organisation": "Department of Higher Education",
-  "ministry": "Ministry of Education",
-  "department": "Department of Higher Education",
+  "organisation": "Indian Institute Of Technology (iit)",
+  "ministry": "Ministry Of Education",
+  "department": "Department Of Higher Education",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Servers (V2)",
   "quantity": 2,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 147500,
   "published_at": "2026-11-18T17:55:59+05:30",
   "closing_at": "2026-12-09T18:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 5
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/yHu1Yq4QjGMqYO-uLHejfIopLY8l8OHIw0kY4pScH-s",
+      "page": 5
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8281080/CLM0010/ATC_84a6bb58-b584-47e7-8a5e1794895069407_anilg@iiitm.ac.in.pdf",
+      "page": 19
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261118",
+      "page": 21
     }
   ],
   "tags": [
@@ -34,5 +54,391 @@
   ],
   "source_fetched_at": "2026-11-23T10:57:41.531Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-10T18:00:00+05:30",
+  "office": "Abv-iiitm Gwalior, Madhya Pradesh",
+  "buyer_email": "anilg@iiitm.ac.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 14,
+  "oem_turnover_lakhs": 118,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 5,
+  "epbg_duration_months": 38,
+  "offer_validity": "180 (Days)",
+  "source_document_fetched_at": "2026-11-25T00:06:06.815329+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "24404bcb98a565f1ad36552c4a2f1d694e7e180f2215a8e6f17ae42233270693",
+  "document_pages": 21,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 14 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 118 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: GeM verified turnover (GeM PDF, p. 1)",
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 50 % (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 6,
+      "consignee": "Anil Kumar Garg",
+      "address": "474015,ABV-IIITM Gwalior, Morena Link Road, NH #92, Gwalior, Madhya Pradesh Pin - 474010",
+      "quantity": 2,
+      "quantity_label": "Quantity",
+      "delivery_days": 60
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": "Chassis",
+          "parameter": "Description of Stores",
+          "value": "Server with standard 1 year warranty"
+        },
+        {
+          "group": "Processor and Motherboard",
+          "parameter": "Processor Number",
+          "value": "AMD EPYC 9354, AMD EPYC 9374F, AMD EPYC 9384X, AMD EPYC 9335, AMD EPYC 9355P, AMD EPYC 9355, AMD EPYC 9375F, AMD EPYC 9365, AMD EPYC 7552, AMD EPYC 7642, AMD EPYC 7643P, AMD EPYC 7643, AMD EPYC 8434P, AMD EPYC 8434PN, AMD EPYC 9454P, AMD EPYC 9454, AMD EPYC 9474F, AMD EPYC 9455P, AMD EPYC 9455, AMD EPYC 9475F, AMD EPYC 7663, AMD EPYC 7663P, AMD EPYC 7702P, AMD EPYC 7662, AMD EPYC 7702, AMD EPYC 7742, AMD EPYC 7H12, AMD EPYC 7773X, AMD EPYC 7763, AMD EPYC 7713P, AMD EPYC 7713, AMD EPYC 8534P, AMD EPYC 8534PN, AMD EPYC 9554P, AMD EPYC 9534, AMD EPYC 9554, AMD EPYC 9535, AMD EPYC 9555P, AMD EPYC 9555, AMD EPYC 9575F, AMD EPYC 9565, AMD EPYC 9634, AMD EPYC 9654P, AMD EPYC 9654, AMD EPYC 9684X, AMD EPYC 9655P, AMD EPYC 9645, AMD EPYC 9655, AMD EPYC 9734, AMD EPYC 9754S, AMD EPYC 9754, AMD EPYC 9745, AMD EPYC 9755, AMD EPYC 9825, AMD EPYC 9845, AMD EPYC 9965 Or higher"
+        },
+        {
+          "group": "Graphic Processing Unit (GPU)",
+          "parameter": "Graphic Card Availability",
+          "value": "No, Yes Or higher"
+        },
+        {
+          "group": "Memory",
+          "parameter": "Type of RAM",
+          "value": "DDR4 with ECC, DDR5 with ECC Or higher"
+        },
+        {
+          "group": "Memory",
+          "parameter": "Total Memory (RAM) Size Installed (in GB)",
+          "value": "16, 32, 64, 128, 256, 512, 1024, 2048, 4096 Or higher"
+        },
+        {
+          "group": "SSD Storage",
+          "parameter": "Type of Interface for SSD",
+          "value": "SATA-SSD, SAS-SSD, M.2/NVMe-SSD, Not Applicable"
+        },
+        {
+          "group": "HDD Storage",
+          "parameter": "Type of Interface for Hard Disk Drive (HDD)",
+          "value": "SATA-HDD, SAS-HDD, NL SAS-HDD, Not Applicable"
+        },
+        {
+          "group": "Software",
+          "parameter": "Certifications Compliance (Operating System)",
+          "value": "Windows, Linux"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 7,
+      "text": "1. Forms of EMD and PBG Bidders can also submit the EMD with Payment online through RTGS / internet banking in Beneficiary name Director, ABV-IIITM, Gwalior Account No. 945210110000969 IFSC Code BKID0009462 Bank Name Bank of India Branch address ABV-IIITM, Morena Link Road, Gwalior - 474015 Madhya Pradesh . Bidder to indicate bid number and name of bidding entity in the transaction details field at the time of on- line transfer. Bidder has to upload scanned copy / proof of the Online Payment Transfer along with bid. 2. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Payment online through RTGS / internet banking also (besides PBG which is allowed as per GeM GTC). On-line payment shall be in Beneficiary name Director, ABV-IIITM, Gwalior Account No. 945210110000969 IFSC Code BKID0009462 Bank Name Bank of India"
+    },
+    {
+      "page": 8,
+      "text": "Branch address ABV-IIITM, Morena Link Road, Gwalior - 474015 Madhya Pradesh . Successful Bidder to indicate Contract number and name of Seller entity in the transaction details field at the time of on-line transfer. Bidder has to upload scanned copy / proof of the Online Payment Transfer in place of PBG within 15 days of award of contract. 3. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 4. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Atal Bihari Vajpayee Indian Institute of Information Technology an d Management, Gwalior- 474015 (M.P.) NOTICE INVITING TENDER Indian Institute of Information Technology and Management (IIITM) in Gwalior, M adhya Pradesh is an autonomous institute of National Importance set by the Gov ernment of India, MHRD (Presently Ministry of Education, Govt. of India) in 1997. I t is an effort by MHRD (Presently Ministry of Education, Govt. of India) to create p rofessionals in the areas of management and information technology from the sa me institute. This institute was created to facilitate higher education, research, a nd consultancy in the areas of information technology (IT) and business manage ment. Initially known as IIITM, the institute was prefixed with ABV in 2002 to hon our the then Prime Minister, Atal Bihari Vajpayee.The Institute intends to procure 2U Rack Servers (Quantity: 02 Nos.) in the Institute. The Institute Invites Bids/Tenders from various organisations/vendors for the abo ve-mentioned work. The interested vendors/organisations may submit their Bids/ Tenders in the prescribed format, duly completed, along with the requisite enclos ures/ documents. The incomplete Bids/Tenders will not be considered for evaluat ion. The Institute reserves the right to accept or reject any or all the Bids/Tenders wit hout assigning any reason. Eligibility Conditions: Table 1 S/N Eligibility Criteria Attachments"
+    },
+    {
+      "page": 9,
+      "text": "1. Bidder should be an established IT Proof of the same shoul System Integrator and should hav d be submitted with th e been engaged in similar IT proje e bid. cts/solutions business for a period of at least 3 years as on the bid is suance date. 2. The bidder should have at least R CA Certified turnover st s. 14.0 lakh average turnover per atement for the last thr year from the last 3 financial year ee financial years as on s. (i.e. 2022-23, 2023-24, 2024-25 31.03.2025 shall be att ) ached along with the bi d. 3. The bidder should have experienc Copies of the purchase e in Supply, Installation, Testing a order shall be submitte nd Commissioning (SITC) of Rack d. Server in at least one Governmen t Higher Academic Institution and Bidder should have minimum one work orders value of Rs. 20.00 La kh or two work orders of value Rs. 12.50 lakh each or three work ord ers of Rs. 10.00 lakh each in the l ast 7 financial years as on 31.03.2 025 for Supply & installation of ra ck servers. 4. Bidder and OEM should not be bla Self-Declaration/Certific cklisted by any Ministry of the Gov ate /Affidavit mentionin ernment of India, or by any State g that the Bidder is not Government of India, or by any of blacklisted as per the cl the Government PSUs at the time ause. of bidding. 5 Manufacturer Authorisation Form Copies of MAF or Regist or a Registered /Authorised Partn ered / Authorised Partn er Certificate from the OEM of the er Certificate from OEM Server. . The authenticity of th e MAF may be verified by the institute. Note: 1. All the details and the supportive documents for the above-mentioned items should b e uploaded in the bid. 2. Bidder’s experience, bidder’s turnover criteria must match the eligibility criteria, as mentioned in the above Eligibility Criteria of this document and will be considered for evaluation."
+    },
+    {
+      "page": 10,
+      "text": "3. Manufacturer Authorisation Form or Registered / Authorised Partner Certificate from the OEM of the Server should be submitted. Scope of Work 1. Introduction Atal Bihari Vajpayee Indian Institute of Information Technology and Management (AB V-IIITM), Gwalior, invites bids for the supply, installation, commissioning, and warrant y of 02 Rack Mountable servers. The selected vendor (Bidder/OEM) shall be responsi ble for delivering a fully functional, configured, and ready-to-use system at the desig nated location, along with onsite warranty and maintenance services for hardware an d software-related problems. 2. Scope of Work for Supply 2.1. The bidder/OEM shall furnish Servers and associated accessories (e.g., keyboard , mouse, power cords) as specified in accordance with the Schedule of Requirem ents provided in Annexure-A and the Technical Specifications detailed in Annexur e-B. 2.2. All equipment supplied must be brand new, fully functional, and operable, confo rming to the specifications and requirements of this tender. No refurbished or en d-of-life products will be accepted. 2.3. The bidder/OEM shall be responsible for the supply, delivery, installation, testing , commissioning, and basic user handover at the locations specified by ABV-IIITM Gwalior. 2.4 The work shall be executed on a turnkey basis, which means that all components , accessories, cables, and necessary items for making the servers fully operation al shall be supplied and installed within the quoted price. 2.5 All items supplied under this tender — including rack mountable servers and bun dled accessories shall carry an onsite OEM warranty for a period of three (3) year s from the date of successful installation and acceptance by the institute. 2.6 During the warranty period, the vendor shall provide maintenance services for an y hardware and software-related problems, ensuring minimum downtime and pro mpt resolution. Support must include hardware repairs/replacement and software -level assistance for pre-installed OS and basic utilities. 2.7 The vendor must ensure that all required components are integrated and configu red correctly. This includes, but is not limited to, BIOS setup, operating system ac tivation, driver installation, and network configuration, as required. 2.8 The vendor shall provide relevant documents, including OEM warranty certificate , OS license details, installation checklist, and equipment serial number list at the time of delivery and acceptance. 3. Scope of Work for Installation and Commissioning 3.1. The bidder/OEM shall carry out installation and commissioning of the supplied sy stems at the designated site within the specified time frame."
+    },
+    {
+      "page": 11,
+      "text": "3.2. The bidder/OEM shall maintain the cleanliness of the site and ensure the remova l of all packaging and installation waste from the work site. 3.3. All required tools and materials for installation shall be arranged by the bidder/O EM at their own cost. 3.4 Any damage caused to the property of Tenderer while executing the job shall be solely Bidder/OEM/Vendor's responsibility. In case any damage to the property is caused, the same will be recovered from the Bidder/OEM/Vendors. No extra cost shall be paid to the Bidder/OEM/Vendor for such reasons. 3.5 Bidder/ OEM shall install and configure all the necessary software including syste ms software (e.g. OS, drivers, etc). 3.6 All systems shall be tested for functional verification in the presence of institute r epresentatives. 4. Inspection and Testing 4.1 The successful bidder shall be responsible for obtaining the installation and com missioning certificate (sign-off) upon completion of the work, in accordance with t he scope of work and technical requirements. 4.2 The Successful bidder shall be responsible for the rectification of discrepancies id entified by the TPA/any other authorised representative while conducting SAT (Si te Acceptance Testing). Further on rectification of all the discrepancies identified during the SAT, TENDERER/ABV-IIITM representatives will re-conduct the SAT, or i f agreed, the SAT will be signed. 4.3 The warranty and OEM support shall commence only after the installation and for mal acceptance by the department. 4.4 During the warranty period, the bidder shall maintain the systems and repair or replace all defective components at the installation site, free of cost. All defectiv e components that are brought to the bidder's notice. 4.5 As far as possible, the bidder shall attempt to repair/replace the defective equip ment onsite. 4.6 The bidder shall ensure that the warranty services comply with the technical sta ndards, security requirements, operating procedures, and recovery procedures a greed upon. 5. Selection Criteria of OEM 5.1 All products quoted must be listed on the global website of the respective OEM. 5.2 The bid must include a Manufacturer Authorisation Form or a Registered/Authoris ed Partner Certificate from the OEM of the servers. 6. Maintenance of Services 6.1 The bidder shall ensure the repairing/replacement of all faulty material within the shortest possible time, thus ensuring minimum downtime, failing which an applic able penalty may be imposed. 6.2 If any equipment gives continuous trouble (e.g., three failures in a single month) , the bidder shall replace the hardware at no additional cost to the purchaser."
+    },
+    {
+      "page": 12,
+      "text": "7. Instructions to bidders 7.1 The supply, installation, testing, and commissioning of the servers must be comp leted within 60 days from the date of the confirmed purchase order. Bidders mus t confirm acceptance of this schedule in the Technical Bid. 7.2 Bidder must ensure that the warranty support & service should be available up t o delivery locations to provide repairing cum replacement services of faulty equi pment within 72 hrs. Bidder is required to provide the escalation matrix and nam e & address & contact details of the concerned firm/person for providing warrant y support & repairing cum replacement service up to delivery locations. 7.3 Free maintenance services shall be provided by the Bidder during the period of warranty. 7.4 If the bidder fails to provide satisfactory support or causes unwarranted delays, ABV-IIITM reserves the right to repair the equipment at the risk and cost of the bi dder. 8. Penalty Clause 8.1 Penalties for delay in delivery and installation attributable to the bidder/vendor/O EM: If the bidder fails to deliver and install the requisite devices or software withi n the time limit, then a sum equivalent to 0.5% of the contract Value shall be de ducted from the payment for each calendar week of delay or part thereof, subjec t to a maximum limit of 5% of the total contract value. 8.2 Delay in excess of 6 weeks will be sufficient to cause termination of the contract . In that case, the Performance Bank Guarantee of the bidder will be forfeited. 8.3 In case, the selected bidder does not supply the ordered items for any reason, h e will be liable to pay the difference amount to the purchaser, over and above th e Performance Guarantee. 9. Operational / Warranty period Penalties: During the warranty period, if the complaint is not resolved within 72 hrs, the pen alty of Rs. 1000 per day for the Server will be levied. However, if the complaints are not resolved within 7 days, then from the 8th day to the 14th day, a penalty would be levied @ 1500 Rs and from the 15th day onwards, a penalty of Rs 3000 would be levied. The amount of the penalty will be recovered from the Performa nce bank guarantee during the warranty period. 10. Arbitration 10.1 If a dispute of any kind whatsoever arises between the ABV-IIITM and the ve ndor in connection with, or arising out of, the Contract or the execution of the works or after their completion and whether before or after the repudiation or other termination of the contract, including any disagreement by either party with any action, in action, opinion, instruction, determination, certificate or val uation of the Engineer, the matter in dispute shall be settled by arbitration in a ccordance with the Indian Arbitration and Conciliation Act, 1996 or any statuto ry amendment thereof. 10.2 The reference to arbitration may proceed notwithstanding that the works sha ll not then be or be alleged to be completed, provided always that the obligati ons of the ABV-IIITM, Gwalior and the Bidder shall not be altered by reason of t he arbitration being conducted during the progress of the works. Neither party"
+    },
+    {
+      "page": 13,
+      "text": "shall be entitled to suspend the works; payments to the Bidder shall continue t o be made as provided by the contract. 10.3 Arbitration proceedings shall be held at Gwalior and the language of the arbit ration proceedings and that of all documents and communications between th e parties shall be English. 10.4 All arbitration awards shall be in writing and shall state the reasons for the a ward. 10.5 Penalty/Liquidated Damages shall not fall under the Arbitration clause. 10.6 Terms and Conditions for submission of Bids 10.7 The competent authority of the Institute has every right to extend the due da te of tender if so required, but all the Bids/tenders will be opened together. 10.8 Deduction of T.D.S will be made as per Government rules. 10.9 Bids/Tenders deviating from the above terms and Conditions will be rejected straight away without assigning any reason thereof. 10.10 All disputes are subject to the Jurisdiction of the Gwalior court only. 10.11 The Institute has the right to reject any or all quotations/Tenders without assi gning any reason. ANNEXURE – A SCHEDULE OF REQUIREMENT S/No. Item Description Qty UoM 1 2U Rack Server 02 Nos. ANNEXURE – B DETAILED TECHNICAL SPECIFICATIONS 1. Technical Specification for Rack Servers S. N Item Specifications Complianc o. e (Yes/No) 1 Form Factor Nos. 2U Rack Mount with sliding rail kit 2. Chassis 2U Rackmount (12x 3.5\"/2.5\" Hot-Swa p Drive Bays) 3. Chipset System on Chip 4. Processor 1 X AMD EPYC 9354(32C/64T,3.25GHz ,256M,280W) or Higher 5. Memory 2 X 64 GB (Total 128 GB) ECC 5600M Hz DDR5 RDIMM (Max 16 DIMMs) 6. Storage SSD 4 X 3.84 TB, 3 DWPD, SATA 2.5\" SSD o r better 7. Storage HDD - 8. RAID SAS Gen - 3 (12 Gbps) H/W Controller for RAID 0/1/5/6/10 (4GB Cache) 9. Operating Sy Ubuntu latest stable version stem 10. OS Support Windows Server 2022 and 2025, RedH at, KVM Hypervisor Latest version, VM Ware ESX / ESXi Latest version, KVM"
+    },
+    {
+      "page": 14,
+      "text": "11. Networking Dual 10G base-T RJ45 Ethernet LAN P orts 12. Ports 2x USB 3.2 (Rear), 1x VGA, 1x dedicat ed RJ45 Management 13. Expansion Sl 2 x16 PCIe4.0 (CPU0) 2 x16 PCIe5.0 + ot: 1 x16 PCIe4.0 (CPU1) 14. Power Supply Minimum 1200W Redundant Platinum Level Certified Power Supplies 15. Security Discrete TPM 2.0 with Chassis Intrusio n switch 16. Manageabilit IPMI 2.0 with virtual media over LAN a y nd KVM-over-LAN support 17. Certification Microsoft, Red Hat CE, RoHS, UL, EPEAT, Energy Star or E quivalent Indian standards ISO 9001,14001,20001,27001 for OEM 18. Warranty Server Warranty includes 03-Year Part s, 03-Year Labour, 03 Year Onsite sup port with 24x7 Technical Support & As sistance with 24 hours’ response time and 72 hours resolution time. 19. Accessories To be supplied with required accessori es, connecting cables, driver media & and power cables. 20. Commissioni The vendor should install free and ope ng n-source hyperconverged infrastructur e (HCI) solutions on the server, such t hat both servers are available in high availability in a 2-node HCI cluster Appendix-1 TENDER ACCEPTANCE LETTER (To be given on Bidder’s Letter Head) Date: To, The Director, ABV-IIITM, Morena Link Road,"
+    },
+    {
+      "page": 15,
+      "text": "Gwalior, Madhya Pradesh – 474015 Sub: Acceptance of Terms & Conditions of Tender. Bid/Tender Reference No: Name of Bid/Tender / Work: - Dear Sir, 1. I/ We have downloaded / obtained the tender document(s) for the above mentione d ‘Tender/Work’ from the web site(s) namely: as per your advertisement, given in the above mentioned website(s). 2. I / We hereby certify that I / we have read the entire terms and conditions of the te nder docum ents from Page No. to (including all documents like annexure(s), schedule(s), etc.,), w hich form part of the contract agreement and I / we shall abide hereby by the terms / conditions / clauses contained therein. 3. The corrigendum(s) issued from time to time by your department/ organisation too have also been taken into consideration, while submitting this acceptance letter. 4. I / We hereby unconditionally accept the tender conditions of above-mentioned ten der document(s) / corrigendum(s) in its totality / entirety. 5. I / We do hereby declare that our Firm has not been blacklisted/ debarred/ terminat ed/ banned by any Govt. Department/Public sector undertaking. 6. I / We certify that all information furnished by our Firm/Bidder is true & correct and in the event that the information is found to be incorrect/untrue or found violated, th en your department/ organisation shall without giving any notice or reason therefore or summarily reject the bid or terminate the contract, without prejudice to any other rights or remedy including the forfeiture of the full said earnest money deposit absolu tely. Yours Faithfully,"
+    },
+    {
+      "page": 16,
+      "text": "(Signature of the Bidder, with Official Seal) Appendix-2 Certificate for Tender (To be given on Bidder’s Letter Head) Date:………... To, The Director, ABV-IIITM, Morena Link Road, Gwalior, Madhya Pradesh – 474015 Sub: Certificate of compliance as per Rule 144 (xi) GFR’s 2017 Bid/Tender Reference No: …………. Name of Bid/Tender / Work:………….. \"I have read the clause regarding restrictions on procurement from a bidder of a cou ntry which shares a land border with India; I certify that this bidder is not from such a country or, if from such a country, has been registered with the Competent Authority. I hereby certify that this bidder fulfils all requirements in this regard and is eligible to be considered. [Where applicable, evidence of valid registration by the Competent A uthority shall be attached.]\" Yours Faithfully, (Signature of the Bidder, with Official Seal) Appendix-3 Declaration for Local Content (To be given on Bidder Letter Head) Date:……………."
+    },
+    {
+      "page": 17,
+      "text": "To, The Director, ABV-IIITM, Morena Link Road, Gwalior, Madhya Pradesh – 474015 Sub: Declaration of Local content Bid/Tender Reference No: …………. Name of Bid/Tender / Work:………….. 1. Country of Origin of Goods being offered:…………………… 2. We hereby declare that items offered has % local content…………………… “Local Content” means the amount of value added in India which shall, be the total v alue of the item being offered minus the value of the imported content in the item (in cluding all customs duties) as a proportion of the total value, in percent. “*False declaration will be in breach of Code of Integrity under Rule 175(1)(i)(h) of th e General Financial Rules for which a bidder or its successors can be debarred for up to two years as per Rule 151 (iii) of the General Financial Rules along with such other actions as may be permissible under law.” Yours Faithfully, (Signature of the Bidder, with Official Seal) Appendix-4 [Type the document title] TO WHOMSOEVER IT MAY CONCERN This is to certify that the Gross Turnover of M/s. ……………………………………………ha ving PAN…………. addressed at ………for preceding three financial years are as follow s:-"
+    },
+    {
+      "page": 18,
+      "text": "S.No. Financial Year Assessment Year Turnover (₹) 1. 2022-23 2023-24 2. 2023-24 2024-25 3. 2024-25 2025-26 Name of CA Firm: Place: M. No.: Date: UDIN: Signature of the CA, with Official Seal Yours Faithfully, (Signature of the Bidder, with Official Seal) Appendix-5 Bid Security Declaration Format (To be given on Bidder’s Letter Head) Date:……. To, The Director, ABV-IIITM, Morena Link Road, Gwalior, Madhya Pradesh – 474015 Bid/Tender Reference No: …………."
+    },
+    {
+      "page": 19,
+      "text": "Name of Bid/Tender / Work:………….. I/We undersigned declare that: 1) I/We understand that, according to your conditions, bids must be supported by a B id Securing Declaration. 2) I/We accept that I/We may be disqualified/debarred from bidding against ABV-IIITM , Gwalior tenders fora period of one year from the date of notification if I/We are in a breach of any obligation under the bid conditions, because I/We a) have withdrawn/modified/amended, impairs or derogates from the tender, my/our bid during the periodof bid validity specified in the form of Bid; or b) having been notified of the acceptance of our Bid by the Institute during the perio d of bid validity (i) fail or refuse to execute the contract, if required, or (ii) fail or refu se to furnish the Performance Security within the timeline, in accordance with the ins tructions to Bidders & as per tender terms & conditions. 3) I/We understand this Bid Security Declaration shall cease to be valid on the Thirty First day from following, a) If I am/we are not the successful Bidder, the receipt of your notification of the nam e of the successful Bidder; or b) the expiration of the validity of my/our Bid or any extension thereof. Signed: (insert signature of person whose name and capacity are shown) In the capacity of (insert legal capacity of person signing the Bid Security Declaration ) Name: (insert complete name of person signing the Bid Security Declaration) Duly au thorized to sign the bid for an on behalf of (insert complete name of Bidder) Dated on day of (insert date of signing) Corporate Seal (where appropriate) Yours Faithfully, (Signature of the Bidder, with Official Seal) . 5. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8281080",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 09-12-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 10-12-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Education",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Higher Education",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Institute Of Technology (iit)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Abv-iiitm Gwalior, Madhya Pradesh",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :hod.iiit.mpd@gembuyer.in Buyer Email id: anilg@iiitm.ac.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 2",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Servers (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 14 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 118 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: GeM verified turnover",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Additional Doc 1 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 50 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 147500",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 147500",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 5.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 38",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Description of Stores: Server with standard 1 year warranty | Processor Number: AMD EPYC 9354, AMD EPYC 9374F, AMD EPYC 9384X, AMD EPYC 9335, AMD EPYC 9355P, AMD EPYC 9355, AMD EPYC 9375F, AMD EPYC 9365, AMD EPYC 7552, AMD EPYC 7642, AMD EPYC 7643P, AMD EPYC 7643, AMD EPYC 8434P, AMD EPYC 8434PN, AMD EPYC 9454P, AMD EPYC 9454, AMD EPYC 9474F, AMD EPYC 9455P, AMD EPYC 9455, AMD EPYC 9475F, AMD EPYC 7663, AMD EPYC 7663P, AMD EPYC 7702P, AMD EPYC 7662, AMD EPYC 7702, AMD EPYC 7742, AMD EPYC 7H12, AMD EPYC 7773X, AMD EPYC 7763, AMD EPYC 7713P, AMD EPYC 7713, AMD EPYC 8534P, AMD EPYC 8534PN, AMD EPYC 9554P, AMD EPYC 9534, AMD EPYC 9554, AMD EPYC 9535, AMD EPYC 9555P, AMD EPYC 9555, AMD EPYC 9575F, AMD EPYC 9565, AMD EPYC 9634, AMD EPYC 9654P, AMD EPYC 9654, AMD EPYC 9684X, AMD EPYC 9655P, AMD EPYC 9645, AMD EPYC 9655, AMD EPYC 9734, AMD EPYC 9754S, AMD EPYC 9754, AMD EPYC 9745, AMD EPYC 9755, AMD EPYC 9825, AMD EPYC 9845, AMD EPYC 9965 Or higher | Graphic Card Availability: No, Yes Or higher | Type of RAM: DDR4 with ECC, DDR5 with ECC Or higher | Total Memory (RAM) Size Installed (in GB): 16, 32, 64, 128, 256, 512, 1024, 2048, 4096 Or higher | Type of Interface for SSD: SATA-SSD, SAS-SSD, M.2/NVMe-SSD, Not Applicable | Type of Interface for Hard Disk Drive (HDD): SATA-HDD, SAS-HDD, NL SAS-HDD, Not Applicable | Certifications Compliance (Operating System): Windows, Linux",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Anil Kumar Garg | 474015,ABV-IIITM Gwalior, Morena Link Road, NH #92, Gwalior, Madhya Pradesh Pin - 474010 | 2 | 60",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "1. Forms of EMD and PBG Bidders can also submit the EMD with Payment online through RTGS / internet banking in Beneficiary name Director, ABV-IIITM, Gwalior Account No. 945210110000969 IFSC Code BKID0009462 Bank Name Bank of India Branch address ABV-IIITM, Morena Link Road, Gwalior - 474015 Madhya Pradesh . Bidder to indicate bid number and name of bidding entity in the transaction details field at the time of on- line transfer. Bidder has to upload scanned copy / proof of the Online Payment Transfer along with bid. 2. Forms of EMD and PBG Successful Bidder can submit the Performance Security in the form of Payment online through RTGS / internet banking also (besides PBG which is allowed as per GeM GTC). On-line payment shall be in Beneficiary name Director, ABV-IIITM, Gwalior Account No. 945210110000969 IFSC Code BKID0009462 Bank Name Bank of India",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "Branch address ABV-IIITM, Morena Link Road, Gwalior - 474015 Madhya Pradesh . Successful Bidder to indicate Contract number and name of Seller entity in the transaction details field at the time of on-line transfer. Bidder has to upload scanned copy / proof of the Online Payment Transfer in place of PBG within 15 days of award of contract. 3. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods 4. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Atal Bihari Vajpayee Indian Institute of Information Technology an d Management, Gwalior- 474015 (M.P.) NOTICE INVITING TENDER Indian Institute of Information Technology and Management (IIITM) in Gwalior, M adhya Pradesh is an autonomous institute of National Importance set by the Gov ernment of India, MHRD (Presently Ministry of Education, Govt. of India) in 1997. I t is an effort by MHRD (Presently Ministry of Education, Govt. of India) to create p rofessionals in the areas of management and information technology from the sa me institute. This institute was created to facilitate higher education, research, a nd consultancy in the areas of information technology (IT) and business manage ment. Initially known as IIITM, the institute was prefixed with ABV in 2002 to hon our the then Prime Minister, Atal Bihari Vajpayee.The Institute intends to procure 2U Rack Servers (Quantity: 02 Nos.) in the Institute. The Institute Invites Bids/Tenders from various organisations/vendors for the abo ve-mentioned work. The interested vendors/organisations may submit their Bids/ Tenders in the prescribed format, duly completed, along with the requisite enclos ures/ documents. The incomplete Bids/Tenders will not be considered for evaluat ion. The Institute reserves the right to accept or reject any or all the Bids/Tenders wit hout assigning any reason. Eligibility Conditions: Table 1 S/N Eligibility Criteria Attachments",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "1. Bidder should be an established IT Proof of the same shoul System Integrator and should hav d be submitted with th e been engaged in similar IT proje e bid. cts/solutions business for a period of at least 3 years as on the bid is suance date. 2. The bidder should have at least R CA Certified turnover st s. 14.0 lakh average turnover per atement for the last thr year from the last 3 financial year ee financial years as on s. (i.e. 2022-23, 2023-24, 2024-25 31.03.2025 shall be att ) ached along with the bi d. 3. The bidder should have experienc Copies of the purchase e in Supply, Installation, Testing a order shall be submitte nd Commissioning (SITC) of Rack d. Server in at least one Governmen t Higher Academic Institution and Bidder should have minimum one work orders value of Rs. 20.00 La kh or two work orders of value Rs. 12.50 lakh each or three work ord ers of Rs. 10.00 lakh each in the l ast 7 financial years as on 31.03.2 025 for Supply & installation of ra ck servers. 4. Bidder and OEM should not be bla Self-Declaration/Certific cklisted by any Ministry of the Gov ate /Affidavit mentionin ernment of India, or by any State g that the Bidder is not Government of India, or by any of blacklisted as per the cl the Government PSUs at the time ause. of bidding. 5 Manufacturer Authorisation Form Copies of MAF or Regist or a Registered /Authorised Partn ered / Authorised Partn er Certificate from the OEM of the er Certificate from OEM Server. . The authenticity of th e MAF may be verified by the institute. Note: 1. All the details and the supportive documents for the above-mentioned items should b e uploaded in the bid. 2. Bidder’s experience, bidder’s turnover criteria must match the eligibility criteria, as mentioned in the above Eligibility Criteria of this document and will be considered for evaluation.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "3. Manufacturer Authorisation Form or Registered / Authorised Partner Certificate from the OEM of the Server should be submitted. Scope of Work 1. Introduction Atal Bihari Vajpayee Indian Institute of Information Technology and Management (AB V-IIITM), Gwalior, invites bids for the supply, installation, commissioning, and warrant y of 02 Rack Mountable servers. The selected vendor (Bidder/OEM) shall be responsi ble for delivering a fully functional, configured, and ready-to-use system at the desig nated location, along with onsite warranty and maintenance services for hardware an d software-related problems. 2. Scope of Work for Supply 2.1. The bidder/OEM shall furnish Servers and associated accessories (e.g., keyboard , mouse, power cords) as specified in accordance with the Schedule of Requirem ents provided in Annexure-A and the Technical Specifications detailed in Annexur e-B. 2.2. All equipment supplied must be brand new, fully functional, and operable, confo rming to the specifications and requirements of this tender. No refurbished or en d-of-life products will be accepted. 2.3. The bidder/OEM shall be responsible for the supply, delivery, installation, testing , commissioning, and basic user handover at the locations specified by ABV-IIITM Gwalior. 2.4 The work shall be executed on a turnkey basis, which means that all components , accessories, cables, and necessary items for making the servers fully operation al shall be supplied and installed within the quoted price. 2.5 All items supplied under this tender — including rack mountable servers and bun dled accessories shall carry an onsite OEM warranty for a period of three (3) year s from the date of successful installation and acceptance by the institute. 2.6 During the warranty period, the vendor shall provide maintenance services for an y hardware and software-related problems, ensuring minimum downtime and pro mpt resolution. Support must include hardware repairs/replacement and software -level assistance for pre-installed OS and basic utilities. 2.7 The vendor must ensure that all required components are integrated and configu red correctly. This includes, but is not limited to, BIOS setup, operating system ac tivation, driver installation, and network configuration, as required. 2.8 The vendor shall provide relevant documents, including OEM warranty certificate , OS license details, installation checklist, and equipment serial number list at the time of delivery and acceptance. 3. Scope of Work for Installation and Commissioning 3.1. The bidder/OEM shall carry out installation and commissioning of the supplied sy stems at the designated site within the specified time frame.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 11,
+      "quote": "3.2. The bidder/OEM shall maintain the cleanliness of the site and ensure the remova l of all packaging and installation waste from the work site. 3.3. All required tools and materials for installation shall be arranged by the bidder/O EM at their own cost. 3.4 Any damage caused to the property of Tenderer while executing the job shall be solely Bidder/OEM/Vendor's responsibility. In case any damage to the property is caused, the same will be recovered from the Bidder/OEM/Vendors. No extra cost shall be paid to the Bidder/OEM/Vendor for such reasons. 3.5 Bidder/ OEM shall install and configure all the necessary software including syste ms software (e.g. OS, drivers, etc). 3.6 All systems shall be tested for functional verification in the presence of institute r epresentatives. 4. Inspection and Testing 4.1 The successful bidder shall be responsible for obtaining the installation and com missioning certificate (sign-off) upon completion of the work, in accordance with t he scope of work and technical requirements. 4.2 The Successful bidder shall be responsible for the rectification of discrepancies id entified by the TPA/any other authorised representative while conducting SAT (Si te Acceptance Testing). Further on rectification of all the discrepancies identified during the SAT, TENDERER/ABV-IIITM representatives will re-conduct the SAT, or i f agreed, the SAT will be signed. 4.3 The warranty and OEM support shall commence only after the installation and for mal acceptance by the department. 4.4 During the warranty period, the bidder shall maintain the systems and repair or replace all defective components at the installation site, free of cost. All defectiv e components that are brought to the bidder's notice. 4.5 As far as possible, the bidder shall attempt to repair/replace the defective equip ment onsite. 4.6 The bidder shall ensure that the warranty services comply with the technical sta ndards, security requirements, operating procedures, and recovery procedures a greed upon. 5. Selection Criteria of OEM 5.1 All products quoted must be listed on the global website of the respective OEM. 5.2 The bid must include a Manufacturer Authorisation Form or a Registered/Authoris ed Partner Certificate from the OEM of the servers. 6. Maintenance of Services 6.1 The bidder shall ensure the repairing/replacement of all faulty material within the shortest possible time, thus ensuring minimum downtime, failing which an applic able penalty may be imposed. 6.2 If any equipment gives continuous trouble (e.g., three failures in a single month) , the bidder shall replace the hardware at no additional cost to the purchaser.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 12,
+      "quote": "7. Instructions to bidders 7.1 The supply, installation, testing, and commissioning of the servers must be comp leted within 60 days from the date of the confirmed purchase order. Bidders mus t confirm acceptance of this schedule in the Technical Bid. 7.2 Bidder must ensure that the warranty support & service should be available up t o delivery locations to provide repairing cum replacement services of faulty equi pment within 72 hrs. Bidder is required to provide the escalation matrix and nam e & address & contact details of the concerned firm/person for providing warrant y support & repairing cum replacement service up to delivery locations. 7.3 Free maintenance services shall be provided by the Bidder during the period of warranty. 7.4 If the bidder fails to provide satisfactory support or causes unwarranted delays, ABV-IIITM reserves the right to repair the equipment at the risk and cost of the bi dder. 8. Penalty Clause 8.1 Penalties for delay in delivery and installation attributable to the bidder/vendor/O EM: If the bidder fails to deliver and install the requisite devices or software withi n the time limit, then a sum equivalent to 0.5% of the contract Value shall be de ducted from the payment for each calendar week of delay or part thereof, subjec t to a maximum limit of 5% of the total contract value. 8.2 Delay in excess of 6 weeks will be sufficient to cause termination of the contract . In that case, the Performance Bank Guarantee of the bidder will be forfeited. 8.3 In case, the selected bidder does not supply the ordered items for any reason, h e will be liable to pay the difference amount to the purchaser, over and above th e Performance Guarantee. 9. Operational / Warranty period Penalties: During the warranty period, if the complaint is not resolved within 72 hrs, the pen alty of Rs. 1000 per day for the Server will be levied. However, if the complaints are not resolved within 7 days, then from the 8th day to the 14th day, a penalty would be levied @ 1500 Rs and from the 15th day onwards, a penalty of Rs 3000 would be levied. The amount of the penalty will be recovered from the Performa nce bank guarantee during the warranty period. 10. Arbitration 10.1 If a dispute of any kind whatsoever arises between the ABV-IIITM and the ve ndor in connection with, or arising out of, the Contract or the execution of the works or after their completion and whether before or after the repudiation or other termination of the contract, including any disagreement by either party with any action, in action, opinion, instruction, determination, certificate or val uation of the Engineer, the matter in dispute shall be settled by arbitration in a ccordance with the Indian Arbitration and Conciliation Act, 1996 or any statuto ry amendment thereof. 10.2 The reference to arbitration may proceed notwithstanding that the works sha ll not then be or be alleged to be completed, provided always that the obligati ons of the ABV-IIITM, Gwalior and the Bidder shall not be altered by reason of t he arbitration being conducted during the progress of the works. Neither party",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 13,
+      "quote": "shall be entitled to suspend the works; payments to the Bidder shall continue t o be made as provided by the contract. 10.3 Arbitration proceedings shall be held at Gwalior and the language of the arbit ration proceedings and that of all documents and communications between th e parties shall be English. 10.4 All arbitration awards shall be in writing and shall state the reasons for the a ward. 10.5 Penalty/Liquidated Damages shall not fall under the Arbitration clause. 10.6 Terms and Conditions for submission of Bids 10.7 The competent authority of the Institute has every right to extend the due da te of tender if so required, but all the Bids/tenders will be opened together. 10.8 Deduction of T.D.S will be made as per Government rules. 10.9 Bids/Tenders deviating from the above terms and Conditions will be rejected straight away without assigning any reason thereof. 10.10 All disputes are subject to the Jurisdiction of the Gwalior court only. 10.11 The Institute has the right to reject any or all quotations/Tenders without assi gning any reason. ANNEXURE – A SCHEDULE OF REQUIREMENT S/No. Item Description Qty UoM 1 2U Rack Server 02 Nos. ANNEXURE – B DETAILED TECHNICAL SPECIFICATIONS 1. Technical Specification for Rack Servers S. N Item Specifications Complianc o. e (Yes/No) 1 Form Factor Nos. 2U Rack Mount with sliding rail kit 2. Chassis 2U Rackmount (12x 3.5\"/2.5\" Hot-Swa p Drive Bays) 3. Chipset System on Chip 4. Processor 1 X AMD EPYC 9354(32C/64T,3.25GHz ,256M,280W) or Higher 5. Memory 2 X 64 GB (Total 128 GB) ECC 5600M Hz DDR5 RDIMM (Max 16 DIMMs) 6. Storage SSD 4 X 3.84 TB, 3 DWPD, SATA 2.5\" SSD o r better 7. Storage HDD - 8. RAID SAS Gen - 3 (12 Gbps) H/W Controller for RAID 0/1/5/6/10 (4GB Cache) 9. Operating Sy Ubuntu latest stable version stem 10. OS Support Windows Server 2022 and 2025, RedH at, KVM Hypervisor Latest version, VM Ware ESX / ESXi Latest version, KVM",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 14,
+      "quote": "11. Networking Dual 10G base-T RJ45 Ethernet LAN P orts 12. Ports 2x USB 3.2 (Rear), 1x VGA, 1x dedicat ed RJ45 Management 13. Expansion Sl 2 x16 PCIe4.0 (CPU0) 2 x16 PCIe5.0 + ot: 1 x16 PCIe4.0 (CPU1) 14. Power Supply Minimum 1200W Redundant Platinum Level Certified Power Supplies 15. Security Discrete TPM 2.0 with Chassis Intrusio n switch 16. Manageabilit IPMI 2.0 with virtual media over LAN a y nd KVM-over-LAN support 17. Certification Microsoft, Red Hat CE, RoHS, UL, EPEAT, Energy Star or E quivalent Indian standards ISO 9001,14001,20001,27001 for OEM 18. Warranty Server Warranty includes 03-Year Part s, 03-Year Labour, 03 Year Onsite sup port with 24x7 Technical Support & As sistance with 24 hours’ response time and 72 hours resolution time. 19. Accessories To be supplied with required accessori es, connecting cables, driver media & and power cables. 20. Commissioni The vendor should install free and ope ng n-source hyperconverged infrastructur e (HCI) solutions on the server, such t hat both servers are available in high availability in a 2-node HCI cluster Appendix-1 TENDER ACCEPTANCE LETTER (To be given on Bidder’s Letter Head) Date: To, The Director, ABV-IIITM, Morena Link Road,",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 15,
+      "quote": "Gwalior, Madhya Pradesh – 474015 Sub: Acceptance of Terms & Conditions of Tender. Bid/Tender Reference No: Name of Bid/Tender / Work: - Dear Sir, 1. I/ We have downloaded / obtained the tender document(s) for the above mentione d ‘Tender/Work’ from the web site(s) namely: as per your advertisement, given in the above mentioned website(s). 2. I / We hereby certify that I / we have read the entire terms and conditions of the te nder docum ents from Page No. to (including all documents like annexure(s), schedule(s), etc.,), w hich form part of the contract agreement and I / we shall abide hereby by the terms / conditions / clauses contained therein. 3. The corrigendum(s) issued from time to time by your department/ organisation too have also been taken into consideration, while submitting this acceptance letter. 4. I / We hereby unconditionally accept the tender conditions of above-mentioned ten der document(s) / corrigendum(s) in its totality / entirety. 5. I / We do hereby declare that our Firm has not been blacklisted/ debarred/ terminat ed/ banned by any Govt. Department/Public sector undertaking. 6. I / We certify that all information furnished by our Firm/Bidder is true & correct and in the event that the information is found to be incorrect/untrue or found violated, th en your department/ organisation shall without giving any notice or reason therefore or summarily reject the bid or terminate the contract, without prejudice to any other rights or remedy including the forfeiture of the full said earnest money deposit absolu tely. Yours Faithfully,",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 16,
+      "quote": "(Signature of the Bidder, with Official Seal) Appendix-2 Certificate for Tender (To be given on Bidder’s Letter Head) Date:………... To, The Director, ABV-IIITM, Morena Link Road, Gwalior, Madhya Pradesh – 474015 Sub: Certificate of compliance as per Rule 144 (xi) GFR’s 2017 Bid/Tender Reference No: …………. Name of Bid/Tender / Work:………….. \"I have read the clause regarding restrictions on procurement from a bidder of a cou ntry which shares a land border with India; I certify that this bidder is not from such a country or, if from such a country, has been registered with the Competent Authority. I hereby certify that this bidder fulfils all requirements in this regard and is eligible to be considered. [Where applicable, evidence of valid registration by the Competent A uthority shall be attached.]\" Yours Faithfully, (Signature of the Bidder, with Official Seal) Appendix-3 Declaration for Local Content (To be given on Bidder Letter Head) Date:…………….",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 17,
+      "quote": "To, The Director, ABV-IIITM, Morena Link Road, Gwalior, Madhya Pradesh – 474015 Sub: Declaration of Local content Bid/Tender Reference No: …………. Name of Bid/Tender / Work:………….. 1. Country of Origin of Goods being offered:…………………… 2. We hereby declare that items offered has % local content…………………… “Local Content” means the amount of value added in India which shall, be the total v alue of the item being offered minus the value of the imported content in the item (in cluding all customs duties) as a proportion of the total value, in percent. “*False declaration will be in breach of Code of Integrity under Rule 175(1)(i)(h) of th e General Financial Rules for which a bidder or its successors can be debarred for up to two years as per Rule 151 (iii) of the General Financial Rules along with such other actions as may be permissible under law.” Yours Faithfully, (Signature of the Bidder, with Official Seal) Appendix-4 [Type the document title] TO WHOMSOEVER IT MAY CONCERN This is to certify that the Gross Turnover of M/s. ……………………………………………ha ving PAN…………. addressed at ………for preceding three financial years are as follow s:-",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 18,
+      "quote": "S.No. Financial Year Assessment Year Turnover (₹) 1. 2022-23 2023-24 2. 2023-24 2024-25 3. 2024-25 2025-26 Name of CA Firm: Place: M. No.: Date: UDIN: Signature of the CA, with Official Seal Yours Faithfully, (Signature of the Bidder, with Official Seal) Appendix-5 Bid Security Declaration Format (To be given on Bidder’s Letter Head) Date:……. To, The Director, ABV-IIITM, Morena Link Road, Gwalior, Madhya Pradesh – 474015 Bid/Tender Reference No: ………….",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 19,
+      "quote": "Name of Bid/Tender / Work:………….. I/We undersigned declare that: 1) I/We understand that, according to your conditions, bids must be supported by a B id Securing Declaration. 2) I/We accept that I/We may be disqualified/debarred from bidding against ABV-IIITM , Gwalior tenders fora period of one year from the date of notification if I/We are in a breach of any obligation under the bid conditions, because I/We a) have withdrawn/modified/amended, impairs or derogates from the tender, my/our bid during the periodof bid validity specified in the form of Bid; or b) having been notified of the acceptance of our Bid by the Institute during the perio d of bid validity (i) fail or refuse to execute the contract, if required, or (ii) fail or refu se to furnish the Performance Security within the timeline, in accordance with the ins tructions to Bidders & as per tender terms & conditions. 3) I/We understand this Bid Security Declaration shall cease to be valid on the Thirty First day from following, a) If I am/we are not the successful Bidder, the receipt of your notification of the nam e of the successful Bidder; or b) the expiration of the validity of my/our Bid or any extension thereof. Signed: (insert signature of person whose name and capacity are shown) In the capacity of (insert legal capacity of person signing the Bid Security Declaration ) Name: (insert complete name of person signing the Bid Security Declaration) Duly au thorized to sign the bid for an on behalf of (insert complete name of Bidder) Dated on day of (insert date of signing) Corporate Seal (where appropriate) Yours Faithfully, (Signature of the Bidder, with Official Seal) . 5. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10174108"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

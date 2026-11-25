@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8207933",
   "title": "Monthly Basis Cab & Taxi Hiring Services - SUV; 1200 km x 208 hours; Local",
   "description": "Monthly Basis Cab & Taxi Hiring Services - SUV; 1200 km x 208 hours; Local",
-  "organisation": "Home Department Chandigarh",
-  "ministry": "",
+  "organisation": "Home Department",
+  "ministry": "Chandigarh",
   "department": "Home Department Chandigarh",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Monthly Basis Cab & Taxi Hiring Services - SUV; 1200 km x 208 hours; Local",
   "quantity": 4,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 150000,
   "published_at": "2026-11-18T18:20:43+05:30",
   "closing_at": "2026-12-09T19:00:00+05:30",
   "status": "active",
@@ -27,6 +27,16 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10089679"
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261118",
+      "page": 8
+    },
+    {
+      "name": "Service Level Agreement",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/bidsla/101801622323041",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +44,307 @@
   ],
   "source_fetched_at": "2026-11-23T10:57:46.074Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-10T19:00:00+05:30",
+  "office": "Department Of Excise And Taxation Chandigarh",
+  "buyer_email": "clerk5-excise@chd.gov.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "bidder_turnover_lakhs": 15,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Partial | Experience - 1 year (s) | Turn over value - 5 (in lakhs)",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Partial | Experience - 1 year (s) | Turn over value - 5 (in lakhs)",
+  "seller_documents": "Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 3,
+  "epbg_duration_months": 27,
+  "offer_validity": "180 (Days)",
+  "estimated_bid_value": 5000000,
+  "contract_period": "2 Year(s)",
+  "source_document_fetched_at": "2026-11-25T00:05:01.045826+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "cebf3f5bfcc8d93af2e901d67f19d8398bd8782abd77397fa5e9d77a29a94a37",
+  "document_pages": 8,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 15 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Partial | Experience - 1 year (s) | Turn over value - 5 (in lakhs) (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Partial | Experience - 1 year (s) | Turn over value - 5 (in lakhs) (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 3)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Ankush",
+      "address": "160017,EXCISE & TAXATION DEPARTMENT, NEAR DC OFFICE, SECTOR-17, CHANDIGARH",
+      "quantity": 4,
+      "quantity_label": "Number of Vehicles Required",
+      "delivery_days": null,
+      "additional_requirements": "Duration in Months for which service is required : 24"
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Vehicle Type",
+          "value": "SUV"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type of car (Please select at least 3 options)",
+          "value": "Toyota Innova Crysta , Mahindra Bolero , Bolero Neo Plus"
+        },
+        {
+          "group": "Core",
+          "parameter": "Usage Variant",
+          "value": "1200 km x 208 hours"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type of Service",
+          "value": "Local"
+        },
+        {
+          "group": "Core",
+          "parameter": "Year of Vehicle Model",
+          "value": "2021"
+        },
+        {
+          "group": "Core",
+          "parameter": "Km Travelled",
+          "value": "Upto 25,000 Kms"
+        },
+        {
+          "group": "Core",
+          "parameter": "Air Conditioning Requirement",
+          "value": "A/C"
+        },
+        {
+          "group": "Core",
+          "parameter": "Area of Operation",
+          "value": "Plains"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Fuel Type",
+          "value": "Any"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE 50% : The buyer can increase or decrease the contract quantity or contract duration up to 50 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 50 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 50 percent with the consent of the service provider 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1.The vehicles to be provided must be One Toyota Innova Crysta and Three Mahindra Bolero and of at leas t manufacturing year 2021. 2. The vehicles deployed for the contract should not be owned by any employee of this office or their depe ndents. If there is any contravention of this clause, the contract will be terminated immediately and the Se curity Deposit will be forfeited. 3. The vehicle deployed for the contract shall not be older than as provided above. 4. The vehicle deployed shall be well maintained, in good running condition and road worthy to ensure sm ooth and trouble free service during the entire contract period. 5. The deployment of vehicle shall be punctual always. Late reporting and absence will attract penalty as p"
+    },
+    {
+      "page": 6,
+      "text": "er clause 24 of Instructions to Bidders. 6. Any unauthorized journey undertaken by the driver / contractor during the contract period shall not be a llowed. 7. While deploying the vehicle, the contractor shall always ensure the following: a. Valid and relevant documents for the vehicle and driver viz., Registration Certificate, Tax paid Challan / endorsement, insurance, fitness certificate, driving license, commercial use permit, emission test certificat e etc. b. Vehicle shall be in full preparedness for the full day service including the fuel in the tank, preparedness of the driver and reasonable money with the driver for meeting contingency requirements. c. A mobile phone with the driver in working and charged condition. d. A first aid kit in the vehicle. e. Good upholstery for the seats and with cotton cloth covering on the top. The cotton cloth shall be regula rly washed and maintained in hygienic condition. f. Vehicle should be washed daily and maintained cleanly both exteriors and interiors. g. Essential minimum spares viz., fan belt, stepney (spare tyre) properly inflated, spare bulb & fuses, jack, standard tools and tackles to attend the emergencies. 8. Trip/duty sheet booklet should be properly filled along with acknowledgement while performing the duty . The details as recorded in the signed trip/duty sheet shall be made available for preparing the bills. 9. The contractor shall not assign and/or sublet the work or any part of it to any other person or party. Inst ances found, if any, shall be viewed seriously and the contract is liable for termination and black listing of t he contractor. No correspondence shall be entertained in this regard and the decision taken by Deputy Co mmissioner, Chandigarh is final and shall be binding on the contractor. 10. This office reserves the right to check the speedometer / odometer of the deployed vehicle at any point of time and if it is found inaccurate / tampered, suitable action deemed fit will be taken. Repeated offence may lead to termination of contract and forfeiting of security deposit. 11. The contractor shall be held responsible for any breach of the term s and conditions of the contract. 12. Accidents during the course of the work shall be reported by the contractor / driver immediately to this office. Contractor shall submit det ailed report of any such accident or incident. 13. The contractor will operate their vehicles entirely at their own risk and this office shall not be held resp onsible for any damage / losses incurred both for the vehicle or persons traveling in the vehicle any time . 14. The contractor shall ensure that all their vehicles under the contract are covered by a comprehensive i nsurance by a leading / reputed insurance provider. The insurance policy shall cover compensation for the loss / damage to the vehicle, driver and co passengers as well. Under no circumstance shall this office be li able to compensate any loss / da mage that may be caused to / by the vehicle while engaged in discharge of the contractor’s obligations under this contract. 15. As and when required clearance from RTO or any other authority concerned and compliance of any oth er legal formalities connected with the contract have to be arranged by contractor at his own cost. This off ice will not take any responsibility and will not bear any addition al expenses in this regard. 16. No advance payment shall be made under any circumstances. 17. If the contractor fails to complete its work as per terms of fails to comply with the directions, then pena lty @ Rs.4000/- per item per hour s hall be levied. Excise & Taxation Commissioner, Excise & Taxation Dep artment, Chandigarh shall be at liberty to make alternative arrangement, the expenditure for such arrange ments and for the loss/damage incurred as a result of such non-compliance will be deducting from the run ning bill or security deposit of the contractor. Excise & Taxation Com missioner, Excise & Taxation Depart ment, Chandigarh reserves the right to determine the cost of deduction at its sole direction. Penalty is subj ect to force majeure condition like accident, public unrest, natural calamities etc. at the direction and verifi cation of this office. 18. In the event of any dispute or difference whatsoever arising under t his contract or in connection there"
+    },
+    {
+      "page": 7,
+      "text": "with including any dispute relating to existing meaning and interpretation of this contract, the same shall b e referred to the arbitrator appointed by Excise & Taxation Commissioner, Excise & Taxation Department, UT, Chandigarh whose decision shall be final and binding. The proceeding of the arbitration shall be carrie d out in Chandigarh only. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8207933",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089679"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 09-12-2026 19:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089679"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 10-12-2026 19:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089679"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089679"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Chandigarh",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089679"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Home Department Chandigarh",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089679"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Home Department",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089679"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Department Of Excise And Taxation Chandigarh",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089679"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :aetc-chd@nic.in Buyer Email id: clerk5-excise@chd.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089679"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Monthly Basis Cab & Taxi Hiring Services - SUV; 1200 km x 208 hours; Local",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089679"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 2 Year(s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089679"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 15 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089679"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089679"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089679"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Partial | Experience - 1 year (s) | Turn over value - 5 (in lakhs)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089679"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Partial | Experience - 1 year (s) | Turn over value - 5 (in lakhs)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089679"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Additional Doc 3 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089679"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089679"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "(( )) / Estimated Bid Value in INR (Inclusive of all taxes): 5000000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089679"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 150000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089679"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 150000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089679"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 3.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089679"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 27",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089679"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 3,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089679"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Vehicle Type: SUV | Type of car (Please select at least 3 options): Toyota Innova Crysta , Mahindra Bolero , Bolero Neo Plus | Usage Variant: 1200 km x 208 hours | Type of Service: Local | Year of Vehicle Model: 2021 | Km Travelled: Upto 25,000 Kms | Air Conditioning Requirement: A/C | Area of Operation: Plains",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089679"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Fuel Type: Any",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089679"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Number of Vehicles Required | Additional Requirement: 1 | Ankush | 160017,EXCISE & TAXATION DEPARTMENT, NEAR DC OFFICE, SECTOR-17, CHANDIGARH | 4 | Duration in Months for which service is required : 24",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089679"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE 50% : The buyer can increase or decrease the contract quantity or contract duration up to 50 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 50 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 50 percent with the consent of the service provider 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1.The vehicles to be provided must be One Toyota Innova Crysta and Three Mahindra Bolero and of at leas t manufacturing year 2021. 2. The vehicles deployed for the contract should not be owned by any employee of this office or their depe ndents. If there is any contravention of this clause, the contract will be terminated immediately and the Se curity Deposit will be forfeited. 3. The vehicle deployed for the contract shall not be older than as provided above. 4. The vehicle deployed shall be well maintained, in good running condition and road worthy to ensure sm ooth and trouble free service during the entire contract period. 5. The deployment of vehicle shall be punctual always. Late reporting and absence will attract penalty as p",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089679"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "er clause 24 of Instructions to Bidders. 6. Any unauthorized journey undertaken by the driver / contractor during the contract period shall not be a llowed. 7. While deploying the vehicle, the contractor shall always ensure the following: a. Valid and relevant documents for the vehicle and driver viz., Registration Certificate, Tax paid Challan / endorsement, insurance, fitness certificate, driving license, commercial use permit, emission test certificat e etc. b. Vehicle shall be in full preparedness for the full day service including the fuel in the tank, preparedness of the driver and reasonable money with the driver for meeting contingency requirements. c. A mobile phone with the driver in working and charged condition. d. A first aid kit in the vehicle. e. Good upholstery for the seats and with cotton cloth covering on the top. The cotton cloth shall be regula rly washed and maintained in hygienic condition. f. Vehicle should be washed daily and maintained cleanly both exteriors and interiors. g. Essential minimum spares viz., fan belt, stepney (spare tyre) properly inflated, spare bulb & fuses, jack, standard tools and tackles to attend the emergencies. 8. Trip/duty sheet booklet should be properly filled along with acknowledgement while performing the duty . The details as recorded in the signed trip/duty sheet shall be made available for preparing the bills. 9. The contractor shall not assign and/or sublet the work or any part of it to any other person or party. Inst ances found, if any, shall be viewed seriously and the contract is liable for termination and black listing of t he contractor. No correspondence shall be entertained in this regard and the decision taken by Deputy Co mmissioner, Chandigarh is final and shall be binding on the contractor. 10. This office reserves the right to check the speedometer / odometer of the deployed vehicle at any point of time and if it is found inaccurate / tampered, suitable action deemed fit will be taken. Repeated offence may lead to termination of contract and forfeiting of security deposit. 11. The contractor shall be held responsible for any breach of the term s and conditions of the contract. 12. Accidents during the course of the work shall be reported by the contractor / driver immediately to this office. Contractor shall submit det ailed report of any such accident or incident. 13. The contractor will operate their vehicles entirely at their own risk and this office shall not be held resp onsible for any damage / losses incurred both for the vehicle or persons traveling in the vehicle any time . 14. The contractor shall ensure that all their vehicles under the contract are covered by a comprehensive i nsurance by a leading / reputed insurance provider. The insurance policy shall cover compensation for the loss / damage to the vehicle, driver and co passengers as well. Under no circumstance shall this office be li able to compensate any loss / da mage that may be caused to / by the vehicle while engaged in discharge of the contractor’s obligations under this contract. 15. As and when required clearance from RTO or any other authority concerned and compliance of any oth er legal formalities connected with the contract have to be arranged by contractor at his own cost. This off ice will not take any responsibility and will not bear any addition al expenses in this regard. 16. No advance payment shall be made under any circumstances. 17. If the contractor fails to complete its work as per terms of fails to comply with the directions, then pena lty @ Rs.4000/- per item per hour s hall be levied. Excise & Taxation Commissioner, Excise & Taxation Dep artment, Chandigarh shall be at liberty to make alternative arrangement, the expenditure for such arrange ments and for the loss/damage incurred as a result of such non-compliance will be deducting from the run ning bill or security deposit of the contractor. Excise & Taxation Com missioner, Excise & Taxation Depart ment, Chandigarh reserves the right to determine the cost of deduction at its sole direction. Penalty is subj ect to force majeure condition like accident, public unrest, natural calamities etc. at the direction and verifi cation of this office. 18. In the event of any dispute or difference whatsoever arising under t his contract or in connection there",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089679"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "with including any dispute relating to existing meaning and interpretation of this contract, the same shall b e referred to the arbitrator appointed by Excise & Taxation Commissioner, Excise & Taxation Department, UT, Chandigarh whose decision shall be final and binding. The proceeding of the arbitration shall be carrie d out in Chandigarh only. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10089679"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 4",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

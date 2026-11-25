@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8176647",
   "title": "Electrocardiography (ECG) Machine (V2)",
   "description": "Electrocardiography (ECG) Machine (V2)",
-  "organisation": "Central Armed Police Forces",
-  "ministry": "Ministry of Home Affairs",
+  "organisation": "Central Reserve Police Force (crpf)",
+  "ministry": "Ministry Of Home Affairs",
   "department": "Central Armed Police Forces",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Electrocardiography (ECG) Machine (V2)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-10-28T12:33:35+05:30",
   "closing_at": "2026-11-10T13:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10053073"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/hU-8JJipj7Ju8A--8XqHBJ9sw2FoNI4LO9FhwWwYgfo",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261028",
+      "page": 15
     }
   ],
   "tags": [
@@ -34,5 +49,501 @@
   ],
   "source_fetched_at": "2026-11-08T13:06:25.524Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-11T13:00:00+05:30",
+  "office": "Dte. Genl.",
+  "buyer_email": "co47bn@crpf.gov.in",
+  "emd_required": false,
+  "bidder_turnover_lakhs": 0.64,
+  "oem_turnover_lakhs": 5,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-25T10:27:17.535662+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "5375831a4e0f1685b94782d5d81d54a8efabf8cdd652dcea67ac3a96ef4fa839",
+  "document_pages": 15,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 0.64 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 5 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: GeM verified turnover (GeM PDF, p. 1)",
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 60 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 7,
+      "consignee": "Awadhesh Kumar",
+      "address": "823001,Commandant 47 Bn CRPF, Jail Complex, Near Rampur Police Station , Distt- Gaya ,Bihar, Pin- 823001",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "GENERAL FEATURES",
+          "parameter": "Product Description",
+          "value": "ECG Machine"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Operating modes of ECG Machine",
+          "value": "Automatic, Manual and Rhythm"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "ECG machine should have ECG lead annotation facility",
+          "value": "Yes"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "Number of channels",
+          "value": "12 Channel"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "ECG machine should acquire lead ECG for both adult and pediatric patients",
+          "value": "Yes"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "The ECG machine should have facility to show lead fail indication",
+          "value": "Yes"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "The ECG machine should have facility to show lead reversal indication",
+          "value": "Yes"
+        },
+        {
+          "group": "PRODUCT INFORMATION",
+          "parameter": "The ECG machine should have facility to show the impedance to quality check of connection",
+          "value": "Yes"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Acquisition time for ECG Machine in sec",
+          "value": "10 sec"
+        },
+        {
+          "group": null,
+          "parameter": "Digital sampling rate for Pacemaker spike detection",
+          "value": "8000 s/sec/channel"
+        },
+        {
+          "group": null,
+          "parameter": "Recording of digital sampling for pacemaker",
+          "value": "1000 s/sec/channel"
+        },
+        {
+          "group": null,
+          "parameter": "ECG machine should have real time colour backlit display of ECG waveforms with signal qualify indication for each lead",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "ECG machine should have frequency filters",
+          "value": "Artifact, AC and low and high pass frequency filters"
+        },
+        {
+          "group": null,
+          "parameter": "Number of ECGs which can be store in ECG Machine",
+          "value": "151 to 200"
+        },
+        {
+          "group": null,
+          "parameter": "Type of inbuilt screen",
+          "value": "LCD"
+        },
+        {
+          "group": null,
+          "parameter": "Size of screen in inches",
+          "value": "5"
+        },
+        {
+          "group": null,
+          "parameter": "Display resolution of ECG machine in pixels",
+          "value": "640 x 480"
+        },
+        {
+          "group": null,
+          "parameter": "ECG machine should have interpretation facility of the amplitudes, duration and morphologies of ECG waveforms and associated rhythm for adult and pediatric patient",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "ECG machine should have alphanumeric keyboard for patient data entry",
+          "value": "Hard keys"
+        },
+        {
+          "group": null,
+          "parameter": "System should have the dedicated software to download the ECG form machine in PDF format",
+          "value": "Yes"
+        },
+        {
+          "group": "PRINTER",
+          "parameter": "Printer Type",
+          "value": "Thermal Printer"
+        },
+        {
+          "group": "PRINTER",
+          "parameter": "Recorder Paper Size",
+          "value": "A4 Size"
+        },
+        {
+          "group": "PRINTER",
+          "parameter": "Recorder Speed",
+          "value": "25 mm/sec"
+        },
+        {
+          "group": "PRINTER",
+          "parameter": "Resolution of digital array printer",
+          "value": "200 dpi x 500 dpi"
+        },
+        {
+          "group": "PRINTER",
+          "parameter": "Number of Thermal paper",
+          "value": "500, 1000 Or higher"
+        },
+        {
+          "group": "PRINTER",
+          "parameter": "ECG machine report format",
+          "value": "Report formats of 3x4, 6x2, Rhythm for up to selected leads, 12 lead extended measurement, 1 minute of continuous waveform data for 1 selected lead"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "Provision of Battery",
+          "value": "Yes"
+        },
+        {
+          "group": "BATTERY",
+          "parameter": "Battery Type",
+          "value": "Built in Rechargeable Battery"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Battery capacity of continuous rhythm recording on single charge (minutes)",
+          "value": "60"
+        },
+        {
+          "group": null,
+          "parameter": "Battery capacity",
+          "value": "50 ECG or 1 hour of continous rhythm recording on single charge"
+        },
+        {
+          "group": null,
+          "parameter": "Connectivity to ECG Machine",
+          "value": "LAN"
+        },
+        {
+          "group": null,
+          "parameter": "The individual patient lead should be change without replacing the whole patient cable assembly",
+          "value": "Yes"
+        },
+        {
+          "group": "ENVIRONNMENTS PARAMETERS",
+          "parameter": "Operating temperature and humidity",
+          "value": "Temperature of 10 to 40 degree Celsius and Relative Humidity of 15 to 90%"
+        },
+        {
+          "group": "POWER SUPPLY",
+          "parameter": "Power input",
+          "value": "220-240 V AC, 50 Hz fitted with Indian plug"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "ECG Machine 12 leads with interpretation",
+          "value": "1"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Patient Cable",
+          "value": "2"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Chest Electrodes Adult (set of Six)",
+          "value": "1"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Limb Electrodes",
+          "value": "2 for adults and 2 for paediatric"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Power cable for charging",
+          "value": "Yes"
+        },
+        {
+          "group": "ACCESSORIES",
+          "parameter": "Supplied with Clip electrode",
+          "value": "Yes"
+        },
+        {
+          "group": "CERTIFICATION & REPORTS",
+          "parameter": "Compliance to Medical Device Rules (MDR) 2017 as amended till date",
+          "value": "Yes"
+        },
+        {
+          "group": "CERTIFICATION & REPORTS",
+          "parameter": "Availability of Test Report for each supplied batch/product as per Medical Device Rules (MDR) 2017 as amended till date",
+          "value": "Yes"
+        },
+        {
+          "group": "CERTIFICATION & REPORTS",
+          "parameter": "Compliance to Safety Standards",
+          "value": "IS 13450:Part 2:Sec 25 / IEC 60601-2-25"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "Warranty (Option of comprehensive warranty is available through bidding only, which if opted will supersede normal warranty in the catalogue)",
+          "value": "5 Or higher (year)"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 8,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 3. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address THE COMMANDANT- 47 BN CRPF HQ/47 BN CRPF, JAIL COMPLEX, GAYA JI, BIHAR-823001 DIST- GAYA JI STATE- BIHAR PIN CODE- 823001 . 4. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses SPECIFICATION"
+    },
+    {
+      "page": 9,
+      "text": "AND ADDITIONAL TERMS AND CONDITION FOR ECG MACHINE Product Description ECG Machine Purpose An ECG is a noninvasive routine examina tion of the electrical activity of the heart that is used to reflect underlying heart co nditions Operating modes of ECG Machine Automatic, Manual and Rhythm ECG machine should have ECG lead annot Yes ation facility Leads which is in ECG machine should be 12 able to acquire simultaneously and interp ret them Number of channels 12 Channel ECG machine should acquire lead ECG for Yes both adult and pediatric patients The ECG machine should have facility to s Yes how lead fail indication The ECG machine should have facility to s Yes how lead reversal indication The ECG machine should have facility to s Yes how the impedance to quality check of co nnection Acquisition time for ECG Machine in sec 10 sec Digital sampling rate for Pacemaker spike 8000 s/sec/channel detection"
+    },
+    {
+      "page": 10,
+      "text": "Recording of digital sampling for pacema 1000 s/sec/channel ker ECG machine should have real time colou Yes r backlit display of ECG waveforms with s ignal qualify indication for each lead ECG machine should have frequency filter Artifact, AC and low and high pass freque s ncy filters Number of ECGs which can be store in EC 151 to 200 G Machine Type of inbuilt screen LCD Size of screen in inches 5 Display resolution of ECG machine in pixe 640 x 480 ls ECG machine should have interpretation f Yes acility of the amplitudes, duration and m orphologies of ECG waveforms and associ ated rhythm for adult and pediatric patie nt ECG machine should have alphanumeric k Hard keys eyboard for patient data entry System should have the dedicated softwa Yes re to download the ECG form machine in PDF format Printer Type Thermal Printer Recorder Paper Size A4 Size"
+    },
+    {
+      "page": 11,
+      "text": "Recorder Speed 25 mm/sec Resolution of digital array printer 200 dpi x 500 dpi Number of Thermal paper 500 ECG machine report format Report formats of 3x4, 6x2, Rhythm for u p to selected leads, 12 lead extended m easurement, 1 minute of continuous wav eform data for 1 selected lead Provision of Battery Yes Battery Type Built in Rechargeable Battery Battery capacity of continuous rhythm re 60 cording on single charge (minutes) Battery capacity 50 ECG or 1 hour of continous rhythm rec ording on single charge Connectivity to ECG Machine LAN The individual patient lead should be cha Yes nge without replacing the whole patient c able assembly Operating temperature and humidity Temperature of 10 to 40 degree Celsius and Relative Humidity of 15 to 90% Power input 220-240 V AC, 50 Hz fitted with Indian pl ug ECG Machine 12 leads with interpretation 1 Patient Cable 2"
+    },
+    {
+      "page": 12,
+      "text": "Chest Electrodes Adult (set of Six) 1 Limb Electrodes 2 for adults and 2 for paediatric Power cable for charging Yes Supplied with Clip electrode Yes Compatible trolley provided No CERTIFICATION & REPORTS Compliance to Medical Device Rules (MD Yes R) 2017 as amended till date Availability of valid Medical Device licens Yes e from competent authority Valid Medical Device License Number NA Manufacturing unit certification ISO:13485 (Latest) Additional voluntary certification availabl NA e Availability of Test Report for each suppli Yes ed batch/product as per Medical Device R ules (MDR) 2017 as amended till date Compliance to Safety Standards IS 13450:Part 2:Sec 25 / IEC 60601-2-25 Submission of all necessary certifications Yes , licenses and test reports to the buyer at the time of bid submission and/or along with supplies as per buyer requirement"
+    },
+    {
+      "page": 13,
+      "text": "Warranty (Option of comprehensive warr 5 year anty is available through bidding only, w hich if opted will supersede normal warra nty in the catalogue) Miscellaneous Parameters User/Technical/Maintenance manuals to b Yes e supplied in English in hard and soft cop y The Principal Manufacturer must have dir Yes ect Presence/approved service center In I ndia Installation and demonstration of equipm Yes ent and training to be provided after com pleting supplies before acceptance Consignee Name & Address : Sh. Awadhesh Kumar, Commandant- 47 Bn CRPF Jail Complex, Gaya Ji, Bihar- 823001 F.O.R : Item Should be supplied at HQ/47 Bn B n CRPF Jail Complex, Gaya Ji, Bihar- 823001 Any other Terms & Conditions : 1. The above Bid for purchase of ECG m achine will be cancelled any time without any information and reaso n if under stood for cancellation. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8176647",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10053073"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 10-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10053073"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 11-11-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10053073"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10053073"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Home Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10053073"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Central Armed Police Forces",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10053073"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Central Reserve Police Force (crpf)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10053073"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Dte. Genl.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10053073"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :gemcelldte@crpf.gov.in Buyer Email id: co47bn@crpf.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10053073"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10053073"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Electrocardiography (ECG) Machine (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10053073"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 0.64 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10053073"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 5 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10053073"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10053073"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: GeM verified turnover",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10053073"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10053073"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10053073"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10053073"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 60 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10053073"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10053073"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10053073"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10053073"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Product Description: ECG Machine | Operating modes of ECG Machine: Automatic, Manual and Rhythm | ECG machine should have ECG lead annotation facility: Yes | Number of channels: 12 Channel | ECG machine should acquire lead ECG for both adult and pediatric patients: Yes | The ECG machine should have facility to show lead fail indication: Yes | The ECG machine should have facility to show lead reversal indication: Yes | The ECG machine should have facility to show the impedance to quality check of connection: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10053073"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Acquisition time for ECG Machine in sec: 10 sec | Digital sampling rate for Pacemaker spike detection: 8000 s/sec/channel | Recording of digital sampling for pacemaker: 1000 s/sec/channel | ECG machine should have real time colour backlit display of ECG waveforms with signal qualify indication for each lead: Yes | ECG machine should have frequency filters: Artifact, AC and low and high pass frequency filters | Number of ECGs which can be store in ECG Machine: 151 to 200 | Type of inbuilt screen: LCD | Size of screen in inches: 5 | Display resolution of ECG machine in pixels: 640 x 480 | ECG machine should have interpretation facility of the amplitudes, duration and morphologies of ECG waveforms and associated rhythm for adult and pediatric patient: Yes | ECG machine should have alphanumeric keyboard for patient data entry: Hard keys | System should have the dedicated software to download the ECG form machine in PDF format: Yes | Printer Type: Thermal Printer | Recorder Paper Size: A4 Size | Recorder Speed: 25 mm/sec | Resolution of digital array printer: 200 dpi x 500 dpi | Number of Thermal paper: 500, 1000 Or higher | ECG machine report format: Report formats of 3x4, 6x2, Rhythm for up to selected leads, 12 lead extended measurement, 1 minute of continuous waveform data for 1 selected lead | Provision of Battery: Yes | Battery Type: Built in Rechargeable Battery",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10053073"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 6,
+      "quote": "Battery capacity of continuous rhythm recording on single charge (minutes): 60 | Battery capacity: 50 ECG or 1 hour of continous rhythm recording on single charge | Connectivity to ECG Machine: LAN | The individual patient lead should be change without replacing the whole patient cable assembly: Yes | Operating temperature and humidity: Temperature of 10 to 40 degree Celsius and Relative Humidity of 15 to 90% | Power input: 220-240 V AC, 50 Hz fitted with Indian plug | ECG Machine 12 leads with interpretation: 1 | Patient Cable: 2 | Chest Electrodes Adult (set of Six): 1 | Limb Electrodes: 2 for adults and 2 for paediatric | Power cable for charging: Yes | Supplied with Clip electrode: Yes | Compliance to Medical Device Rules (MDR) 2017 as amended till date: Yes | Availability of Test Report for each supplied batch/product as per Medical Device Rules (MDR) 2017 as amended till date: Yes | Compliance to Safety Standards: IS 13450:Part 2:Sec 25 / IEC 60601-2-25 | Warranty (Option of comprehensive warranty is available through bidding only, which if opted will supersede normal warranty in the catalogue): 5 Or higher (year)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10053073"
+    },
+    {
+      "field": "consignees",
+      "page": 7,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Awadhesh Kumar | 823001,Commandant 47 Bn CRPF, Jail Complex, Near Rampur Police Station , Distt- Gaya ,Bihar, Pin- 823001 | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10053073"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 3. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address THE COMMANDANT- 47 BN CRPF HQ/47 BN CRPF, JAIL COMPLEX, GAYA JI, BIHAR-823001 DIST- GAYA JI STATE- BIHAR PIN CODE- 823001 . 4. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses SPECIFICATION",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10053073"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "AND ADDITIONAL TERMS AND CONDITION FOR ECG MACHINE Product Description ECG Machine Purpose An ECG is a noninvasive routine examina tion of the electrical activity of the heart that is used to reflect underlying heart co nditions Operating modes of ECG Machine Automatic, Manual and Rhythm ECG machine should have ECG lead annot Yes ation facility Leads which is in ECG machine should be 12 able to acquire simultaneously and interp ret them Number of channels 12 Channel ECG machine should acquire lead ECG for Yes both adult and pediatric patients The ECG machine should have facility to s Yes how lead fail indication The ECG machine should have facility to s Yes how lead reversal indication The ECG machine should have facility to s Yes how the impedance to quality check of co nnection Acquisition time for ECG Machine in sec 10 sec Digital sampling rate for Pacemaker spike 8000 s/sec/channel detection",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10053073"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "Recording of digital sampling for pacema 1000 s/sec/channel ker ECG machine should have real time colou Yes r backlit display of ECG waveforms with s ignal qualify indication for each lead ECG machine should have frequency filter Artifact, AC and low and high pass freque s ncy filters Number of ECGs which can be store in EC 151 to 200 G Machine Type of inbuilt screen LCD Size of screen in inches 5 Display resolution of ECG machine in pixe 640 x 480 ls ECG machine should have interpretation f Yes acility of the amplitudes, duration and m orphologies of ECG waveforms and associ ated rhythm for adult and pediatric patie nt ECG machine should have alphanumeric k Hard keys eyboard for patient data entry System should have the dedicated softwa Yes re to download the ECG form machine in PDF format Printer Type Thermal Printer Recorder Paper Size A4 Size",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10053073"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 11,
+      "quote": "Recorder Speed 25 mm/sec Resolution of digital array printer 200 dpi x 500 dpi Number of Thermal paper 500 ECG machine report format Report formats of 3x4, 6x2, Rhythm for u p to selected leads, 12 lead extended m easurement, 1 minute of continuous wav eform data for 1 selected lead Provision of Battery Yes Battery Type Built in Rechargeable Battery Battery capacity of continuous rhythm re 60 cording on single charge (minutes) Battery capacity 50 ECG or 1 hour of continous rhythm rec ording on single charge Connectivity to ECG Machine LAN The individual patient lead should be cha Yes nge without replacing the whole patient c able assembly Operating temperature and humidity Temperature of 10 to 40 degree Celsius and Relative Humidity of 15 to 90% Power input 220-240 V AC, 50 Hz fitted with Indian pl ug ECG Machine 12 leads with interpretation 1 Patient Cable 2",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10053073"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 12,
+      "quote": "Chest Electrodes Adult (set of Six) 1 Limb Electrodes 2 for adults and 2 for paediatric Power cable for charging Yes Supplied with Clip electrode Yes Compatible trolley provided No CERTIFICATION & REPORTS Compliance to Medical Device Rules (MD Yes R) 2017 as amended till date Availability of valid Medical Device licens Yes e from competent authority Valid Medical Device License Number NA Manufacturing unit certification ISO:13485 (Latest) Additional voluntary certification availabl NA e Availability of Test Report for each suppli Yes ed batch/product as per Medical Device R ules (MDR) 2017 as amended till date Compliance to Safety Standards IS 13450:Part 2:Sec 25 / IEC 60601-2-25 Submission of all necessary certifications Yes , licenses and test reports to the buyer at the time of bid submission and/or along with supplies as per buyer requirement",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10053073"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 13,
+      "quote": "Warranty (Option of comprehensive warr 5 year anty is available through bidding only, w hich if opted will supersede normal warra nty in the catalogue) Miscellaneous Parameters User/Technical/Maintenance manuals to b Yes e supplied in English in hard and soft cop y The Principal Manufacturer must have dir Yes ect Presence/approved service center In I ndia Installation and demonstration of equipm Yes ent and training to be provided after com pleting supplies before acceptance Consignee Name & Address : Sh. Awadhesh Kumar, Commandant- 47 Bn CRPF Jail Complex, Gaya Ji, Bihar- 823001 F.O.R : Item Should be supplied at HQ/47 Bn B n CRPF Jail Complex, Gaya Ji, Bihar- 823001 Any other Terms & Conditions : 1. The above Bid for purchase of ECG m achine will be cancelled any time without any information and reaso n if under stood for cancellation. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10053073"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

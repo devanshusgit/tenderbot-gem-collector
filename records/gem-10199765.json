@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8303334",
   "title": "Phaco Emulsification Unit",
   "description": "Phaco Emulsification Unit",
-  "organisation": "Department of Defence Production",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Defence Production",
+  "organisation": "Bharat Earth Movers Limited (beml)",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Defence Production",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Phaco Emulsification Unit",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 60000,
   "published_at": "2026-11-21T14:17:43+05:30",
   "closing_at": "2026-12-07T17:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10199765"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "Buyer technical specification",
+      "url": "https://mkp.gem.gov.in/catalog_data/catalog_support_document/buyer_documents/21896313/54/78/703/CatalogAttrs/SpecificationDocument/2026/11/21/revised_nit_2026-11-21-14-06-00_ab4194cd842e7795e91c508cf3d30c48.pdf",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261121",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +49,152 @@
   ],
   "source_fetched_at": "2026-11-25T02:52:38.336Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-08T17:00:00+05:30",
+  "buyer_email": "shivarajappa@bemlltd.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "120 (Days)",
+  "source_document_fetched_at": "2026-11-25T08:20:46.026064+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "5d8b1e9104b718b400c21c75f0e187376e7e5fee8c7a7058862efb199de879a0",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "***********",
+      "address": "***********KOLAR",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 45
+    }
+  ],
+  "technical_specifications": [],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods"
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8303334",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199765"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 07-12-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199765"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 08-12-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199765"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199765"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199765"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Defence Production",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199765"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Bharat Earth Movers Limited (beml)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199765"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :buyer145.bemlb.ka@gembuyer.in Buyer Email id: shivarajappa@bemlltd.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199765"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199765"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Phaco Emulsification Unit",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199765"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199765"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199765"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199765"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 60000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199765"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 60000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199765"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 2,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199765"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********KOLAR | 1 | 45",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199765"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing and Commissioning of Goods",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10199765"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

@@ -5,9 +5,9 @@
   "tender_id": "GEM/2026/R/759978",
   "title": "Civil-1,Civil-2,Civil-3,Civil-4,Civil-5,Civil-6,Civil-7,Civil-8,Civil-9,Civil-10,Tower-1,Tower-2,To",
   "description": "Civil-1,Civil-2,Civil-3,Civil-4,Civil-5,Civil-6,Civil-7,Civil-8,Civil-9,Civil-10,Tower-1,Tower-2,Tower-3,Tower-4,Tower-5,Tower-6,Tower-7,Tower-8,Tower-9,Tower-10,Tower-11,Tower-12,Tower-13,Tower-14,Tower-15,Tower-16,Tower-17,Tower-18,Tower-19,Tower-20,OPGW-1,OPGW-2,OPGW-3,OPGW-4,OPGW-5,Labour-1,Labour-2",
-  "organisation": "Bhakra Beas Managemet Board ",
-  "ministry": "Ministry of Power",
-  "department": "Bhakra Beas Managemet Board ",
+  "organisation": "Bhakra Beas Management Board",
+  "ministry": "Ministry Of Power",
+  "department": "Bhakra Beas Managemet Board",
   "portal_name": "GeM",
   "state": [],
   "city": [],
@@ -25,8 +25,18 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10088813"
+    },
+    {
+      "name": "GEM/2026/B/7675289",
+      "url": "https://bidplus.gem.gov.in/showbidDocument/9480512",
+      "page": 2
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261027",
+      "page": 2
     }
   ],
   "tags": [
@@ -34,5 +44,113 @@
   ],
   "source_fetched_at": "2026-10-29T12:12:49.232Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "office": "Bhakra Beas Management Board, Chandigarh",
+  "bidder_turnover_lakhs": 112,
+  "ra_start_at": "2026-10-28T17:00:00+05:30",
+  "auto_extension": "If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+  "mse_exemption": "MSE Exemption for Turnover: Yes | Complete",
+  "startup_exemption": "Startup Exemption for Years of Experience and Turnover: No",
+  "originating_bid_reference": "GEM/2026/B/7675289",
+  "source_document_fetched_at": "2026-11-25T09:02:24.921026+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "77df5583f1f0efd6cc299e6b864cc5932a2924170b14fa147ef2eecf24286ae3",
+  "document_pages": 2,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 112 Lakh (s) (GeM PDF, p. 1)",
+    "MSE Exemption for Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Exemption for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [],
+  "technical_specifications": [],
+  "buyer_added_terms": [],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/759978",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10088813"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 2,
+      "quote": "Please refer to Bid document of GEM/2026/B/7675289",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10088813"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 28-10-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10088813"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 30-10-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10088813"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Power",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10088813"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Bhakra Beas Managemet Board",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10088813"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Bhakra Beas Management Board",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10088813"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Bhakra Beas Management Board, Chandigarh",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10088813"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 6139",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10088813"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Civil-1 , Civil-2 , Civil-3 , Civil-4 , Civil-5 , Civil-6 , Civil-7 , Civil-8 , Civil-9 , Civil-10 , Tower-1 , Tower-2 , Tower-3 , Tower-4 , Tower-5 , Tower-6 , Tower-7 , Tower-8 , Tower-9 , Tower-10 , Tower-11 , Tower-12 , Tower-13 , Tower-14 , Tower-15 , Tower-16 , Tower-17 , Tower-18 , Tower-19 , Tower-20 , OPGW-1 , OPGW-2 , OPGW-3 , OPGW-4 , OPGW-5 , Labour-1 , Labour-2",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10088813"
+    },
+    {
+      "field": "auto_extension",
+      "page": 1,
+      "quote": "Auto Extension: If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10088813"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 112 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10088813"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 1,
+      "quote": "MSE Exemption for Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10088813"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 1,
+      "quote": "Startup Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10088813"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda."
 }

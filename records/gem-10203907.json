@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8306739",
   "title": "Entry and Mid Level Desktop Computer",
   "description": "Entry and Mid Level Desktop Computer",
-  "organisation": "Department of Financial Services",
-  "ministry": "Ministry of Finance",
-  "department": "Department of Financial Services",
+  "organisation": "State Bank Of India (sbi)",
+  "ministry": "Ministry Of Finance",
+  "department": "Department Of Financial Services",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Entry and Mid Level Desktop Computer",
   "quantity": 8,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-23T17:30:35+05:30",
   "closing_at": "2026-11-26T18:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10203907"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/m4DOk31p27-O9FjtpN9Z_sa8h_6a51BEXNyP6-olQ_o",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261123",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +49,236 @@
   ],
   "source_fetched_at": "2026-11-25T02:57:14.107Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-27T18:00:00+05:30",
+  "office": "Local Head Office Sector 17a Chandigarh",
+  "buyer_email": "buycon294.sbis.jk@gembuyer.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-25T08:11:38.299857+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "3f4838c871539a56a38bfdea4cba92da343b7f07f60b9f76a2db623d24f20447",
+  "document_pages": 9,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Roof Sultan Bhat",
+      "address": "190001,State Bank Of India,RBO IV,M A Road Opp Womens College,190001",
+      "quantity": 8,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "PROCESSOR",
+          "parameter": "Description of Stores",
+          "value": "Desktop Computer with Table Mount Monitor System with Compatible Chipset as per Processor Make with Minimum 6 USB Port"
+        },
+        {
+          "group": "PROCESSOR",
+          "parameter": "Computer Type",
+          "value": "Entry Level, Mid Level"
+        },
+        {
+          "group": "PROCESSOR",
+          "parameter": "Processor Number",
+          "value": "AMD Ryzen 3 5300G, Intel Core i3 12100, AMD Ryzen 5 5600G, Intel Core i5 12400 Or higher"
+        },
+        {
+          "group": "OPERATING SYSTEM",
+          "parameter": "Factory Pre-loaded Operating System by Desktop OEM",
+          "value": "Window 11 Professional, Window 11 Home, DOS or Equivalent, Linux, Window 11 STF (Shape the Future)"
+        },
+        {
+          "group": "MEMORY (RAM)",
+          "parameter": "RAM Size (Memory Card/Module) (in GB) (Capacity to be installed in the System)",
+          "value": "16, 32 Or higher"
+        },
+        {
+          "group": "STORAGE",
+          "parameter": "Type of Storage Installed with the System",
+          "value": "NVMe-SSD Plus HDD@5400 RPM, NVMe-SSD Plus HDD@7200 RPM, HDD @5400RPM, HDD @7200RPM, NVMe-SSD"
+        },
+        {
+          "group": "STORAGE",
+          "parameter": "SSD - Storage Capacity (in GB)",
+          "value": "0 as HDD Only Installed, 500, 512, 1024, 2048 Or higher"
+        },
+        {
+          "group": "STORAGE",
+          "parameter": "HDD - Storage Capacity (in GB)",
+          "value": "0 as SSD only Installed, 500, 1000, 2000 Or higher"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Availibility of Monitor",
+          "value": "Yes as per IS 13252 (Part 1), No"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Screen Size (in CMs)",
+          "value": "48.26 - 53 (19.0\" - 20.87\"), 53.1 - 58 (20.91\" - 22.83\"), 58.1 - 63 (22.87\" - 24.8\"), 63.1 - 68 (24.84\" - 26.77\"), 68.1 - 73 (26.81\" - 28.74\"), 73.1 - 78 (28.78\" - 30.71\"), 78.1 - 83 (30.75\" - 32.68\"), 83.1 - 88 (32.72\" - 34.65\"), NA as No Monitor"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "On Site OEM Warranty (in Year)",
+          "value": "1, 2, 3, 4, 5 Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at"
+    },
+    {
+      "page": 7,
+      "text": "the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Servicenter availability in Jammu & Kashmir from Last 10 Years Ink Signed Manufacturer Authorization certificate for Every item. Level 1 Support by bidder – Certificate needs to submits to this effect. Technical Compliance duly signed on OEM Letterhead. PAN, TAN, GST, ECS Form, Cancelled cheque (All documents needs to be submitted along with ATC). Non-Blacklisting affidavit duly attested by 1st Class magistrate. Top 3 Brands as per Latest IDC report (report needs to be attached). MIL STD 810 Report for Primary product. OS Genuinity Declaration from OEM. OEM Presence: Min 20 Years (Document proof mandatory) Pre-Bid Meeting Mandatory (Bidders who will not attend pre-Bid Meet will be disqualified) Site Visit Mandatory (Bidders who will not submit site visit certificate will be disqualified) Advance Samples of the offered products should reach the Consignee Office before BID expiry. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8306739",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10203907"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 26-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10203907"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 27-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10203907"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10203907"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Finance",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10203907"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Financial Services",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10203907"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: State Bank Of India (sbi)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10203907"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Local Head Office Sector 17a Chandigarh",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10203907"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :agmpre.lhocha@sbi.co.in Buyer Email id: buycon294.sbis.jk@gembuyer.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10203907"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 8",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10203907"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Entry and Mid Level Desktop Computer (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10203907"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10203907"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10203907"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover,Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10203907"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10203907"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10203907"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10203907"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Description of Stores: Desktop Computer with Table Mount Monitor System with Compatible Chipset as per Processor Make with Minimum 6 USB Port | Computer Type: Entry Level, Mid Level | Processor Number: AMD Ryzen 3 5300G, Intel Core i3 12100, AMD Ryzen 5 5600G, Intel Core i5 12400 Or higher | Factory Pre-loaded Operating System by Desktop OEM: Window 11 Professional, Window 11 Home, DOS or Equivalent, Linux, Window 11 STF (Shape the Future) | RAM Size (Memory Card/Module) (in GB) (Capacity to be installed in the System): 16, 32 Or higher | Type of Storage Installed with the System: NVMe-SSD Plus HDD@5400 RPM, NVMe-SSD Plus HDD@7200 RPM, HDD @5400RPM, HDD @7200RPM, NVMe-SSD | SSD - Storage Capacity (in GB): 0 as HDD Only Installed, 500, 512, 1024, 2048 Or higher | HDD - Storage Capacity (in GB): 0 as SSD only Installed, 500, 1000, 2000 Or higher | Availibility of Monitor: Yes as per IS 13252 (Part 1), No | Screen Size (in CMs): 48.26 - 53 (19.0\" - 20.87\"), 53.1 - 58 (20.91\" - 22.83\"), 58.1 - 63 (22.87\" - 24.8\"), 63.1 - 68 (24.84\" - 26.77\"), 68.1 - 73 (26.81\" - 28.74\"), 73.1 - 78 (28.78\" - 30.71\"), 78.1 - 83 (30.75\" - 32.68\"), 83.1 - 88 (32.72\" - 34.65\"), NA as No Monitor | On Site OEM Warranty (in Year): 1, 2, 3, 4, 5 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10203907"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Roof Sultan Bhat | 190001,State Bank Of India,RBO IV,M A Road Opp Womens College,190001 | 8 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10203907"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10203907"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Servicenter availability in Jammu & Kashmir from Last 10 Years Ink Signed Manufacturer Authorization certificate for Every item. Level 1 Support by bidder – Certificate needs to submits to this effect. Technical Compliance duly signed on OEM Letterhead. PAN, TAN, GST, ECS Form, Cancelled cheque (All documents needs to be submitted along with ATC). Non-Blacklisting affidavit duly attested by 1st Class magistrate. Top 3 Brands as per Latest IDC report (report needs to be attached). MIL STD 810 Report for Primary product. OS Genuinity Declaration from OEM. OEM Presence: Min 20 Years (Document proof mandatory) Pre-Bid Meeting Mandatory (Bidders who will not attend pre-Bid Meet will be disqualified) Site Visit Mandatory (Bidders who will not submit site visit certificate will be disqualified) Advance Samples of the offered products should reach the Consignee Office before BID expiry. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10203907"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

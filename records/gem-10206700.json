@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8309178",
   "title": "Office Bags (V2)",
   "description": "Office Bags (V2)",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Army",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Office Bags (V2)",
   "quantity": 52,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-23T18:34:57+05:30",
   "closing_at": "2026-11-26T18:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10206700"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/DwIJIKDC6BY8vy6crPgqtEw-48nUx0Xxijs_VgJO59I",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261123",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +49,290 @@
   ],
   "source_fetched_at": "2026-11-25T02:57:19.968Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-27T18:00:00+05:30",
+  "buyer_email": "lshahidali.997x@gov.in",
+  "emd_required": false,
+  "experience_years": 1,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-25T08:11:19.266276+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "bcfe20eb44f96f8cc4ac9e5769de7f6aef9eaf0469c3e3fad192f5bca09e9cfb",
+  "document_pages": 8,
+  "eligibility": [
+    "Past experience required for same/similar service: 1 Year (s) (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 20 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "***********",
+      "address": "***********Darjeeling",
+      "quantity": 52,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "TYPE",
+          "parameter": "Type of Bag",
+          "value": "Messenger Bag"
+        },
+        {
+          "group": "MATERIAL",
+          "parameter": "Main Outside Material",
+          "value": "Leather"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Main Outside Material Mass (gram per square meter ) (Not applicable for Leather)",
+          "value": "Not Applicable"
+        },
+        {
+          "group": null,
+          "parameter": "Minimum Outside Material Thickness, in case of leather (in mm)",
+          "value": "2.5"
+        },
+        {
+          "group": null,
+          "parameter": "Inside Material",
+          "value": "PU Coated Nylon"
+        },
+        {
+          "group": null,
+          "parameter": "Material of Straps / Tapes / Webbing",
+          "value": "Nylon"
+        },
+        {
+          "group": null,
+          "parameter": "Backside Material ( For Backpack )",
+          "value": "Not Applicable"
+        },
+        {
+          "group": "DIMENSIONS AND MASS",
+          "parameter": "Volume (in liter)",
+          "value": "15 to <20"
+        },
+        {
+          "group": "DIMENSIONS AND MASS",
+          "parameter": "Weight Carrying Capacity ( kg )",
+          "value": "10 to <15"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Hanging Strap ( Sling )",
+          "value": "Hanging Strap with padding"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Shoulder Straps (For Backpack )",
+          "value": "Without shoulder straps"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Laptop compartment",
+          "value": "Laptop Compartment with Padding"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Laptop dimensions suitable for the bag(in inches)",
+          "value": "11 to <12"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "Warranty ( in years )",
+          "value": "1"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to"
+    },
+    {
+      "page": 5,
+      "text": "minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses ANNEXURE – ADDITIONAL TERMS AND CONDITI ONS (ATC) General Terms and Conditions for Supply of Goods 1. Scope of Supply The supplier shall supply the goods/items strictly as per the specifications, quantity, quality and requireme nts mentioned in the Bid/BOQ and technical specifications. The supplied materials shall be new, unused, g enuine and free from manufacturing defects. 2. Eligibility of Bidder The bidder shall be a legally registered firm/company/proprietorship and shall possess the necessary exper ience, infrastructure and capability to execute the supply order. Relevant registration certificates and othe r documents shall be submitted along with the bid, wherever applicable. 3. Price and Taxes The quoted rates shall be inclusive of all applicable costs, including packing, forwarding, transportation, loading, unloading, insurance and other incidental charges. GST and other applicable taxes shall be indicat ed separately, wherever required. No additional charges shall be payable unless specifically agreed to by the purchaser. 4. Supply and Delivery a. The successful bidder shall complete the supply within the delivery period specified in the Purchase Ord er. b. The goods shall be delivered at the consignee's designated location at the supplier's own cost and risk. c. Proper packing shall be ensured to prevent damage during transportation and handling. d. The supplier shall inform the purchaser in advance regarding the proposed delivery schedule. e. The supplier shall provide an invoice, delivery challan, warranty certificate and other relevant document s along with the materials. 5. Inspection and Acceptance a. All supplied goods shall be subject to inspection and verification by the purchaser or an authorized repr esentative. b. The purchaser reserves the right to reject goods that do not conform to the prescribed specifications, qu antity or quality requirements. c. Any rejected material shall be replaced by the supplier at their own cost within the time stipulated by th e purchaser. d. Final acceptance shall be subject to satisfactory inspection and verification. 6. Warranty a. The supplier shall provide a minimum warranty of 12 (twelve) months from the date of successful"
+    },
+    {
+      "page": 6,
+      "text": "installation/commissioning or acceptance of the goods, whichever is applicable, unless a longer warranty is specified by the manufacturer or in the Bid. b. During the warranty period, any manufacturing defect, malfunction or failure attributable to defective m aterial or workmanship shall be rectified or replaced free of cost. c. The supplier shall arrange repair or replacement of defective goods, including all transportation, labour and other incidental expenses, without any additional financial liability to the purchaser. d. The supplier shall respond to warranty-related complaints within 7 working days of receipt of the compl aint and resolve the issue within a reasonable period. e. Any replaced part or equipment shall carry a fresh warranty of at least 12 months from the date of repla cement or the remaining original warranty period, whichever is longer. f. The supplier shall submit the manufacturer's warranty certificate, wherever applicable. 7. Payment Terms Payment shall be released after successful delivery, inspection and acceptance of the goods by the compe tent authority, subject to submission of a valid invoice and all necessary supporting documents. Payment shall be made as per applicable financial rules and the terms stipulated in the Purchase Order. 8. Liquidated Damages for Delay In case of delay in supply beyond the stipulated delivery period, liquidated damages may be imposed at th e rate of 0.5% of the value of the delayed goods per week or part thereof, subject to a maximum of 10% of the value of the delayed goods, unless otherwise specified in the bid or Purchase Order. 9. Replacement of Defective Goods The supplier shall replace defective, damaged, incomplete or non-conforming goods at their own cost with in the period specified by the purchaser. No additional payment shall be made for such replacement. 10. Risk and Responsibility The supplier shall remain responsible for the goods until their delivery and acceptance by the purchaser. A ny loss, damage or deterioration occurring before acceptance shall be borne by the supplier. 11. Force Majeure Neither party shall be held responsible for failure or delay in performance due to circumstances beyond re asonable control, such as natural disasters, war, riots or government restrictions, subject to timely written notification and submission of supporting evidence. 12. Cancellation of Order The purchaser reserves the right to cancel the Purchase Order, wholly or partly, in case of: Failure to supply within the stipulated delivery period. Supply of substandard or non-conforming materials. Submission of false or misleading documents. Violation of the terms and conditions of the bid or Purchase Order. 13. Integrity and Ethical Conduct The bidder shall not indulge in corrupt, fraudulent, collusive or coercive practices during the bidding proce ss or execution of the contract. Any violation may result in rejection of the bid or termination of the contrac t, as applicable under relevant rules. 14. Dispute Resolution and Jurisdiction Any dispute arising out of the contract shall first be resolved through mutual discussion. If the dispute rem ains unresolved, it shall be dealt with in accordance with applicable Indian laws. Courts having competent j urisdiction at the purchaser's location shall have jurisdiction, subject to applicable law."
+    },
+    {
+      "page": 7,
+      "text": "15. Acceptance of Terms and Conditions Submission of the bid shall imply that the bidder has read, understood and accepted all the terms and con ditions mentioned in the Bid Document and this ATC. The purchaser reserves the right to accept or reject any or all bids in accordance with applicable procurem ent rules, without assigning any reason, subject to applicable law. 16. CUSTOMISATION OF ITEM The product needs to be engraved with custom print as per our requirement with crest. Please contact us f or crest desighn +91 9149433595. before participation of the bid ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8309178",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10206700"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 26-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10206700"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 27-11-2026 18:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10206700"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10206700"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10206700"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10206700"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Army",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10206700"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :jitmar.584k@gov.in Buyer Email id: lshahidali.997x@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10206700"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 52",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10206700"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Office Bags (V2) (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10206700"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 1 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10206700"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10206700"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10206700"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10206700"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 20 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10206700"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10206700"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10206700"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10206700"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Type of Bag: Messenger Bag | Main Outside Material: Leather",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10206700"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Main Outside Material Mass (gram per square meter ) (Not applicable for Leather): Not Applicable | Minimum Outside Material Thickness, in case of leather (in mm): 2.5 | Inside Material: PU Coated Nylon | Material of Straps / Tapes / Webbing: Nylon | Backside Material ( For Backpack ): Not Applicable | Volume (in liter): 15 to <20 | Weight Carrying Capacity ( kg ): 10 to <15 | Hanging Strap ( Sling ): Hanging Strap with padding | Shoulder Straps (For Backpack ): Without shoulder straps | Laptop compartment: Laptop Compartment with Padding | Laptop dimensions suitable for the bag(in inches): 11 to <12 | Warranty ( in years ): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10206700"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********Darjeeling | 52 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10206700"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10206700"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses ANNEXURE – ADDITIONAL TERMS AND CONDITI ONS (ATC) General Terms and Conditions for Supply of Goods 1. Scope of Supply The supplier shall supply the goods/items strictly as per the specifications, quantity, quality and requireme nts mentioned in the Bid/BOQ and technical specifications. The supplied materials shall be new, unused, g enuine and free from manufacturing defects. 2. Eligibility of Bidder The bidder shall be a legally registered firm/company/proprietorship and shall possess the necessary exper ience, infrastructure and capability to execute the supply order. Relevant registration certificates and othe r documents shall be submitted along with the bid, wherever applicable. 3. Price and Taxes The quoted rates shall be inclusive of all applicable costs, including packing, forwarding, transportation, loading, unloading, insurance and other incidental charges. GST and other applicable taxes shall be indicat ed separately, wherever required. No additional charges shall be payable unless specifically agreed to by the purchaser. 4. Supply and Delivery a. The successful bidder shall complete the supply within the delivery period specified in the Purchase Ord er. b. The goods shall be delivered at the consignee's designated location at the supplier's own cost and risk. c. Proper packing shall be ensured to prevent damage during transportation and handling. d. The supplier shall inform the purchaser in advance regarding the proposed delivery schedule. e. The supplier shall provide an invoice, delivery challan, warranty certificate and other relevant document s along with the materials. 5. Inspection and Acceptance a. All supplied goods shall be subject to inspection and verification by the purchaser or an authorized repr esentative. b. The purchaser reserves the right to reject goods that do not conform to the prescribed specifications, qu antity or quality requirements. c. Any rejected material shall be replaced by the supplier at their own cost within the time stipulated by th e purchaser. d. Final acceptance shall be subject to satisfactory inspection and verification. 6. Warranty a. The supplier shall provide a minimum warranty of 12 (twelve) months from the date of successful",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10206700"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "installation/commissioning or acceptance of the goods, whichever is applicable, unless a longer warranty is specified by the manufacturer or in the Bid. b. During the warranty period, any manufacturing defect, malfunction or failure attributable to defective m aterial or workmanship shall be rectified or replaced free of cost. c. The supplier shall arrange repair or replacement of defective goods, including all transportation, labour and other incidental expenses, without any additional financial liability to the purchaser. d. The supplier shall respond to warranty-related complaints within 7 working days of receipt of the compl aint and resolve the issue within a reasonable period. e. Any replaced part or equipment shall carry a fresh warranty of at least 12 months from the date of repla cement or the remaining original warranty period, whichever is longer. f. The supplier shall submit the manufacturer's warranty certificate, wherever applicable. 7. Payment Terms Payment shall be released after successful delivery, inspection and acceptance of the goods by the compe tent authority, subject to submission of a valid invoice and all necessary supporting documents. Payment shall be made as per applicable financial rules and the terms stipulated in the Purchase Order. 8. Liquidated Damages for Delay In case of delay in supply beyond the stipulated delivery period, liquidated damages may be imposed at th e rate of 0.5% of the value of the delayed goods per week or part thereof, subject to a maximum of 10% of the value of the delayed goods, unless otherwise specified in the bid or Purchase Order. 9. Replacement of Defective Goods The supplier shall replace defective, damaged, incomplete or non-conforming goods at their own cost with in the period specified by the purchaser. No additional payment shall be made for such replacement. 10. Risk and Responsibility The supplier shall remain responsible for the goods until their delivery and acceptance by the purchaser. A ny loss, damage or deterioration occurring before acceptance shall be borne by the supplier. 11. Force Majeure Neither party shall be held responsible for failure or delay in performance due to circumstances beyond re asonable control, such as natural disasters, war, riots or government restrictions, subject to timely written notification and submission of supporting evidence. 12. Cancellation of Order The purchaser reserves the right to cancel the Purchase Order, wholly or partly, in case of: Failure to supply within the stipulated delivery period. Supply of substandard or non-conforming materials. Submission of false or misleading documents. Violation of the terms and conditions of the bid or Purchase Order. 13. Integrity and Ethical Conduct The bidder shall not indulge in corrupt, fraudulent, collusive or coercive practices during the bidding proce ss or execution of the contract. Any violation may result in rejection of the bid or termination of the contrac t, as applicable under relevant rules. 14. Dispute Resolution and Jurisdiction Any dispute arising out of the contract shall first be resolved through mutual discussion. If the dispute rem ains unresolved, it shall be dealt with in accordance with applicable Indian laws. Courts having competent j urisdiction at the purchaser's location shall have jurisdiction, subject to applicable law.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10206700"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "15. Acceptance of Terms and Conditions Submission of the bid shall imply that the bidder has read, understood and accepted all the terms and con ditions mentioned in the Bid Document and this ATC. The purchaser reserves the right to accept or reject any or all bids in accordance with applicable procurem ent rules, without assigning any reason, subject to applicable law. 16. CUSTOMISATION OF ITEM The product needs to be engraved with custom print as per our requirement with crest. Please contact us f or crest desighn +91 9149433595. before participation of the bid .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10206700"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

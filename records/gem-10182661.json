@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8288512",
   "title": "Register (V2)",
   "description": "Register (V2)",
-  "organisation": "Department of Panchayati Raj",
-  "ministry": "",
-  "department": "Department of Panchayati Raj",
+  "organisation": "Nagpur District Panchayats",
+  "ministry": "Maharashtra",
+  "department": "Department Of Panchayati Raj",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Register (V2)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-18T13:09:04+05:30",
   "closing_at": "2026-11-28T14:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10182661"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/SbRU0xnKK-CP0wHpmCRwgS21RcFTqsMaCWnszg5YE7U",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261118",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +49,229 @@
   ],
   "source_fetched_at": "2026-11-25T13:10:12.579Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-11-29T14:00:00+05:30",
+  "office": "Grampanchayat Besur",
+  "buyer_email": "gpbesur-mh@panchayat.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-25T21:46:36.654126+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "6bae62aa988cf722352f07f2cee62235ee3fc510201753e55c94cdb53605884c",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Suresh Kisanaji Bhure",
+      "address": "441201,Grampanchayat Besur",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "GENERAL REQUIREMENT",
+          "parameter": "Product Type",
+          "value": "Register"
+        },
+        {
+          "group": "GENERAL REQUIREMENT",
+          "parameter": "Register type",
+          "value": "Plain Register"
+        },
+        {
+          "group": "GENERAL REQUIREMENT",
+          "parameter": "Inner paper specification confirming as per Is 1848 (Part 1)",
+          "value": "Printing maplitho paper"
+        },
+        {
+          "group": "GENERAL REQUIREMENT",
+          "parameter": "Paper colour",
+          "value": "White"
+        },
+        {
+          "group": "GENERAL REQUIREMENT",
+          "parameter": "Number of pages (Excluding Cover)",
+          "value": "151-200"
+        },
+        {
+          "group": "GENERAL REQUIREMENT",
+          "parameter": "Binding of Register",
+          "value": "Hardcover Binding, Cloth Binding"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "GRAMMAGE AND DIMENSION",
+          "parameter": "Grammage (substance) of Paper (in GSM)",
+          "value": "75"
+        },
+        {
+          "group": "GRAMMAGE AND DIMENSION",
+          "parameter": "Minimum Length of Register (in mm)",
+          "value": "210.0 (millimeter)"
+        },
+        {
+          "group": "GRAMMAGE AND DIMENSION",
+          "parameter": "Minimum Width of Register (in mm)",
+          "value": "297.0 (millimeter)"
+        },
+        {
+          "group": "GRAMMAGE AND DIMENSION",
+          "parameter": "Grammage (substance) of cover board (in GSM)",
+          "value": "275"
+        },
+        {
+          "group": "PRINTING",
+          "parameter": "Printing language",
+          "value": "English"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8288512",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10182661"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 28-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10182661"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 29-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10182661"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10182661"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Maharashtra",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10182661"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Panchayati Raj",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10182661"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Nagpur District Panchayats",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10182661"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Grampanchayat Besur",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10182661"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :chk-gpbesur-mah@panchayat.gov.in Buyer Email id: gpbesur-mh@panchayat.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10182661"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10182661"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Register (V2) (Q4)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10182661"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10182661"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10182661"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10182661"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10182661"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10182661"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Product Type: Register | Register type: Plain Register | Inner paper specification confirming as per Is 1848 (Part 1): Printing maplitho paper | Paper colour: White | Number of pages (Excluding Cover): 151-200 | Binding of Register: Hardcover Binding, Cloth Binding",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10182661"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Grammage (substance) of Paper (in GSM): 75 | Minimum Length of Register (in mm): 210.0 (millimeter) | Minimum Width of Register (in mm): 297.0 (millimeter) | Grammage (substance) of cover board (in GSM): 275 | Printing language: English",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10182661"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Suresh Kisanaji Bhure | 441201,Grampanchayat Besur | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10182661"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10182661"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

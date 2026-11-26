@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8269214",
   "title": "XLPE Cable for Working Voltage up to and Including 1.1 KV Marked To IS 7098 (Part 1)",
   "description": "XLPE Cable for Working Voltage up to and Including 1.1 KV Marked To IS 7098 (Part 1)",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "South Coast Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "XLPE Cable for Working Voltage up to and Including 1.1 KV Marked To IS 7098 (Part 1)",
   "quantity": 3000,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-23T15:07:07+05:30",
   "closing_at": "2026-12-03T16:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10160203"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/aOrmg0PIGD5rLhFQngJukgAgTM_1YckMjsSmxF0oVYc",
+      "page": 5
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261123",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +49,223 @@
   ],
   "source_fetched_at": "2026-11-26T14:35:05.892Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-04T16:00:00+05:30",
+  "office": "Principal Chief Material Manager Visakhapatnam",
+  "buyer_email": "admm_wat@wat.railnet.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "120 (Days)",
+  "source_document_fetched_at": "2026-11-26T22:20:01.736405+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "7cc758104667745a4aca80416ac62777c89d46083c9c23556fcf763a7341fd39",
+  "document_pages": 7,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Baipalli Divya",
+      "address": "530018,OFFICE OF THE SENIOR SECTION ELECTRICAL ENGINEER/ELS, MARRIPALEM, VISAKHAPATNAM-530018",
+      "quantity": 3000,
+      "quantity_label": "Quantity",
+      "delivery_days": 45
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "STANDARD",
+          "parameter": "Cables suitable for use in mines",
+          "value": "No"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Classification of cables for improved fire performace category",
+          "value": "01"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Nominal Area of Conductor (in Sq mm)",
+          "value": "70"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Number of Cores",
+          "value": "4"
+        },
+        {
+          "group": "CONSTRUCTION",
+          "parameter": "Material of Conductor",
+          "value": "Aluminium"
+        },
+        {
+          "group": "CONSTRUCTION",
+          "parameter": "Construction of the conductor",
+          "value": "Stranded and shaped"
+        },
+        {
+          "group": "CONSTRUCTION",
+          "parameter": "Type of Inner Sheath",
+          "value": "Thermoplastic"
+        },
+        {
+          "group": "ARMOURING",
+          "parameter": "Type of Cable",
+          "value": "Armoured cable"
+        },
+        {
+          "group": "ARMOURING",
+          "parameter": "Material of Armouring",
+          "value": "Galvanized round steel wire, Galvanized steel formed wire"
+        },
+        {
+          "group": "ARMOURING",
+          "parameter": "Type of Armouring",
+          "value": "Single strip"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Bill passing officer: Sr.DEE/G/VSKP"
+    },
+    {
+      "page": 6,
+      "text": "Bill paying officer: Sr.DFM/S.Co.R/ VSKP Pre-dispatch Inspection by RITES Materials is to be delivered at SSE/ELG/MPM/VSKP Contact person No. 89782821136 ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8269214",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160203"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 03-12-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160203"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 04-12-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160203"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160203"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160203"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160203"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: South Coast Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160203"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Principal Chief Material Manager Visakhapatnam",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160203"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :cmmmne@scor.railnet.gov.in Buyer Email id: admm_wat@wat.railnet.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160203"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 3000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160203"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: XLPE Cable for Working Voltage up to and Including 1.1 KV Marked To IS 7098 (Part 1) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160203"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160203"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160203"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160203"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160203"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160203"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Cables suitable for use in mines: No | Classification of cables for improved fire performace category: 01 | Nominal Area of Conductor (in Sq mm): 70 | Number of Cores: 4 | Material of Conductor: Aluminium | Construction of the conductor: Stranded and shaped | Type of Inner Sheath: Thermoplastic | Type of Cable: Armoured cable | Material of Armouring: Galvanized round steel wire, Galvanized steel formed wire | Type of Armouring: Single strip",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160203"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Baipalli Divya | 530018,OFFICE OF THE SENIOR SECTION ELECTRICAL ENGINEER/ELS, MARRIPALEM, VISAKHAPATNAM-530018 | 3000 | 45",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160203"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Bill passing officer: Sr.DEE/G/VSKP",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160203"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "Bill paying officer: Sr.DFM/S.Co.R/ VSKP Pre-dispatch Inspection by RITES Materials is to be delivered at SSE/ELG/MPM/VSKP Contact person No. 89782821136 .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10160203"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

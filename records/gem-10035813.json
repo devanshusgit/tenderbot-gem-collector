@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8161481",
   "title": "High End Desktop Computer",
   "description": "High End Desktop Computer",
-  "organisation": "Police Department Andaman & Nicobar",
-  "ministry": "",
+  "organisation": "N/a",
+  "ministry": "Andaman & Nicobar",
   "department": "Police Department Andaman & Nicobar",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "High End Desktop Computer",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-10-27T09:45:25+05:30",
   "closing_at": "2026-11-07T10:00:00+05:30",
   "status": "active",
@@ -27,6 +27,16 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10035813"
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/K7201Vb_KKGqxNCNtWBydolQzEh41tRUMi1evJSZ5bA",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261027",
+      "page": 11
     }
   ],
   "tags": [
@@ -34,5 +44,334 @@
   ],
   "source_fetched_at": "2026-11-05T05:08:33.705Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "office": "Police Head Quarter",
+  "buyer_email": "sppts.and@nic.in",
+  "emd_required": false,
+  "bidder_turnover_lakhs": 0.9,
+  "experience_years": 1,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "epbg_percentage": 3,
+  "epbg_duration_months": 38,
+  "offer_validity": "180 (Days)",
+  "estimated_bid_value": 198235,
+  "source_document_fetched_at": "2026-11-26T23:19:09.841497+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "5f514590f8e067b7e350f2ff1bd1b75831ba4f5af1200bc84acb7b5cbad638ba",
+  "document_pages": 11,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 0.9 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 1 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 10 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Abhishekh Menon",
+      "address": "744103,NSCBPTI, Prothrapur, Sri Vijaya Puram",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "PROCESSOR",
+          "parameter": "Description of Stores",
+          "value": "Desktop Computer with Table Mount Monitor System with Compatible Chipset as per Processor make with Minimum 6 USB Port"
+        },
+        {
+          "group": "PROCESSOR",
+          "parameter": "Base Processor Number",
+          "value": "NA for Higher Processor Or higher"
+        },
+        {
+          "group": "PROCESSOR",
+          "parameter": "Higher Processor Number",
+          "value": "Intel Core Ultra 7- 265, Intel Core Ultra 9- 285 Or higher"
+        },
+        {
+          "group": "MOTHERBOARD",
+          "parameter": "Trusted Platform Module",
+          "value": "Discrete TPM 2.0"
+        },
+        {
+          "group": "OPERATING SYSTEM",
+          "parameter": "Factory Pre-loaded Operating System",
+          "value": "Window 11 Professional"
+        },
+        {
+          "group": "MEMORY (RAM)",
+          "parameter": "RAM Size (Memory Card/Module) (in GB) (Capacity to be Installed in the System)",
+          "value": "32, 64 Or higher"
+        },
+        {
+          "group": "STORAGE",
+          "parameter": "Primary Storage Capacity (in GB)",
+          "value": "1024, 2048 Or higher"
+        },
+        {
+          "group": "STORAGE",
+          "parameter": "Availability of Secondary Storage",
+          "value": "NVME - SSD Or higher"
+        },
+        {
+          "group": "STORAGE",
+          "parameter": "Secondary Storage Capacity (in GB)",
+          "value": "1024.0 Or higher"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Availibility of Monitor",
+          "value": "Yes as per IS 13252 (Part 1)"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Panel Type",
+          "value": "In Plane Switching (IPS)"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Screen Size (in CMs)",
+          "value": "58.1 - 63 (22.87\" - 24.8\")"
+        },
+        {
+          "group": "WARRANTY",
+          "parameter": "On Site OEM Warranty (In year)",
+          "value": "3, 4, 5 Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 7,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Detailed Technical Specification of High-Performance Digital Forensic Workstation: - 1. Processor: Intel Core Ultra 7 Processor or higher (latest generation) 2. Motherboard: Compatible OEM/Industrial Grade Motherboard,Support for D DR5 RAM,Expandability up to minimum 256 GB RAM,Minimum 2 x M.2 NVMe slo ts,Adequate PCIe and M.2 expansion slots,TPM 2.0 supp ort, 3. Memory (RAM):32 GB DDR5 RAM, Expandable up to 256 GB. 4 . Storage: Primary Storage: 1 TB NVMe Gen4 SSD (for OS & forensic applic ations),Secondary Storage:1 T"
+    },
+    {
+      "page": 8,
+      "text": "B SSD SATA/NVMe (for forensic image processing and temporary evidence analysis) 5. Graphics Processing Unit (GPU): Dedicated NVIDIA GeForce RTX 5060 Gr aphics Card,Minimum 8 GB GD DR6 dedicated memory, CUDA support preferred for forensic processing acceleration 6. Operating System: Windows 11 Professional,Genuine licensed version pre-i nstalled 7. Monitor: Full HD LED Monitor,Resolution: 1920 × 1080,HDMI/Display Port su pport 8. Connectivity & Ports Minimum:6 x USB Ports (including USB 3.0/3.2)1 x U SB Type-C Port HDMI Port Display Port RJ-45 Gigabit Ethernet PortAudio In/Out P orts. 9. Networking: Integrated Gigabit Ethernet,2.5 GbE LAN Connectivity,Wi-Fi 6 s upport preferred,Bluetooth 5.0 or higher 10. Cabinet & Power Supply: Tower-based workstation chassis,Minimum 650 W SMPS with 80+ certificatio n 11. Keyboard & Mouse: USB Wired or wireless Keyboard and Mouse. 12 . Security Features: TPM 2.0,BIOS-level security support,Secure Boot supp ort 13. Warranty & Support: Minimum 03 Years Onsite Comprehensive Warranty 14. Functional Requirement Compatibility:The workstation shall be capable of efficiently running Digital & Mobile Forensic Tools including: FTK (Forensic Toolkit) Mobile Forensic Suite Cellebrite/UFED compatible to ols 9 / 14 Evidence analysis software Multi-session forensic imaging and analysis applications, etc. 15. Compliance OEM authorized product, BIS/FCC/CE certification as applicable Buyer Added Terms and Condition for Tower Based Computer Workstat ion (Intel Core Ultra 7, 32 GB DDR5 RAM, 1 TB SSD, Windows 11 Pro) 1. Bidder financial standing: The bidder should not be under liquidation, court re ceivership or similar proc eedings should not be bankrupt. Bidder to upload unde rtaking to this effect with bid. 2. Bidders are advised to check applicable GST on their own before quoting. Buy er will not take any respo nsibility in this regards. GST reimbursement will be asp er actuals or as per applicable rates (whichever is l ower), subject to the maximu m of quoted GST %. 3. Experience Criteria: The Bidder or its OEM {themselves or through eseller(s)} should have regularly, ma nufactured and supplied same or similar CategoryPro ducts to any Central / State Govt Organization / PSU for 1 year before the bidop ening date. Copies of relevant contracts to be submitted along with bid in supp o rt of having supplied some quantity during each of the year. In case of bunchbid s, the primary product h aving highest value should meet this criterion. 4. Manufacturer Authorization: Wherever Authorised Distributors/service provid ers are submitting the bid, Authorisation Form /Certificate with OEM/OriginalSer vice Provider details such as name, designation, addr ess, e-mail Id and Phone N o. required to be furnished along with the bid. 5. The successful bidder has to supply all essential accessories required for the successful installation and commissioning of the goods supplied. Besides standa rd accessories as per normal industry practice, follow ing accessories must be p art of supply and cost should be included in bid price. 6. Submittion of PBG: Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should bemade in favour of Vice Pr incipal, Netaji subash Cha ndra Bose Police Training Institute payable at Sri Vijaya Puram . After award of c ontract, Successful Bidder can upload scanned copy of the DD in place of PBG a nd has to ensure delivery of hard copy to the original DD to the Buyer within15 days of award of contract . 7. Scope of supply (Bid price to include all cost components) : Supply Installatio n Testing and Commissio ning of Goods at Consignee Location. 8. Certificates :- i) The bidder or the OEM of the offered products must have ISO 9001 certification. 9. Bidders shall quote only those products (Part of Service delivery) in the bid w hich are not obsolete in th e market and has at least 5 years residual market life i.e. the offered product shall not be declared end-of l ife by the OEM before this period"
+    },
+    {
+      "page": 9,
+      "text": "10. Certificates Bidder's offer is liable to be rejected if they don't upload any of t he certificates / document s sought in the Bid document, ATC and Corrigendum i f any 11. Bidder Turn Over Criteria : The minimum average annual financial turnover of the bidder during the las t three years, ending on 31st March of the previous fi nancial year, should be as indicated in the bid docu ment. Documentary evidenc e in the form of certified Audited Balance Sheets of relevant periods or a certi fic ate from the Chartered Accountant / Cost Accountant indicating the turnover de tails for the relevant pe riod shall be uploaded with the bid. In case the dateof co nstitution / incorporation of the bidder is less than 3 year old, the average turno ver in respectof the completed financial years after the date of constitutions hall be taken into account for this criteria. 12. Warranty: Warranty period of the supplied products shall be 3 years from th e date of final acceptance of goods or after completion of installation,commissio ning & testing of goods (if included in the scope of s upply), at consignee locatio n. OEM Warranty certificates must be submitted by Successful Bidder at the ti m e of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. 13. Availability of Service Centre: Bidder/OEM must have functional servicecentr e at consignee’s location i .e., at Sri Vijaya Puram, Andaman & Nicobar Islands in order to approach the service centre for rectification of defect during warrant y period if any. Necessary documents i.e., “Service Centre Establishment Certifi c ate” to this effect must be uploaded mentioning the proper address & contact details of service centre alo ng with BID. 14. OEM Should be in IDC for last 4 quarters. Also, the OEM should be in TOP 5 Companies in India P C Mar ket as per the International Data Corporation (IDC). 15. Liquidated Damages: If the Seller/Service Provider fails to deliver any or all of theGoods/Services withi n the original/re-fixed delivery period(s) specified inthe contract, the Buyer will be entitled to deduct/recov er the Liquidated Dama ges for the delay, unless covered under All the bidders to ensure that technical spe cifications along with all the Terms & Conditions in this BID shall have to be complied by the bidders and a certificate to this effect be provided for complyin gthis BID. 16. Force Majeure Conditions: If at any time during the continuance of the Contr act, the performance in w hole or in part by either party of any obligation under t his Contract shall be prevented or delayed by the r easons of any war, hostility, acts of the public enemy, epidemics, civil commotion, sabotage, fires, floods,e x plosion, quarantine restrictions, strikes, lockouts or act of God (but not including negligence or wrongdoin g, predict able /seasonal rain) provided notice of happe ning of such event duly evidenced with documents is given by one party to the other within 10 days from the date of occurrence thereof, neither party shallbe by reasons of such event, be entitled to terminate the Contract nor shall either party have any claim for da mages against the other in respect of such non-perf ormance or the delay in performance, and deliveries u nder the contract shall be resumed as soon as practicable after such event has come to an endor ceased t o exist, an d the decision of the Buyer as to whether the deliveries havebeen so resumed or not, shall be fi nal and conclusive, Provide d further that if the perfor mance in whole orpart of any obligation under this c ontract is prevented or dela yed by reason of any such event for a period exceeding 90 days, eitherparty may at its option terminate the contract providedalso that the Buyer shallbe at libe rty to take over from t he Seller at a price to be fixe d by Buyer, whichshall be fin al, all unused , undamaged and accepted mate rial, bought out components and Good s in course of manufacture in the possession of the Seller at the tim e of su ch termination or such portion the re of as the Buyer may deem fit excepting su ch materials, boug h tout components and Goods as the Seller maywith the conc urrence of the Buyer elect to retain. 17.Acce ptance of All Terms and Conditions: The bidder shall submit an Accepta nce of Bid Terms and Conditions on the firm’s official letterhead, duly signed by the authorized signatory and affixed with the official seal/stam p of the firm, alon g with the bid documents.Non-submission or non-compliance of the Acceptance of Bid T erms and Conditions may render the bid liable for disqualification/rejecti on. Checklist: 1. Undertaking of Bidder Financial Standing 2. OEM Authorization 3. Experience Criteria 4. Past performance 5. Certificates ISO 9001, Market Life of offered product 6. Bidder turnover"
+    },
+    {
+      "page": 10,
+      "text": "7. Service centre detail 8. Acceptance of All Terms and Conditions ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8161481",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10035813"
+    },
+    {
+      "field": "document_closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 06-11-2026 10:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10035813"
+    },
+    {
+      "field": "document_opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 07-11-2026 10:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10035813"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10035813"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Andaman & Nicobar",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10035813"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Police Department Andaman & Nicobar",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10035813"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: N/a",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10035813"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Police Head Quarter",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10035813"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :sphq.and@nic.in Buyer Email id: sppts.and@nic.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10035813"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10035813"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: High End Desktop Computer (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10035813"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 0.9 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10035813"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 1 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10035813"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10035813"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10035813"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10035813"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10035813"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 10 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10035813"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10035813"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 198235",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10035813"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10035813"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10035813"
+    },
+    {
+      "field": "epbg_percentage",
+      "page": 3,
+      "quote": "(%)/ePBG Percentage(%): 3.00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10035813"
+    },
+    {
+      "field": "epbg_duration_months",
+      "page": 3,
+      "quote": "() /Duration of ePBG required (Months).: 38",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10035813"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Description of Stores: Desktop Computer with Table Mount Monitor System with Compatible Chipset as per Processor make with Minimum 6 USB Port | Base Processor Number: NA for Higher Processor Or higher | Higher Processor Number: Intel Core Ultra 7- 265, Intel Core Ultra 9- 285 Or higher | Trusted Platform Module: Discrete TPM 2.0 | Factory Pre-loaded Operating System: Window 11 Professional | RAM Size (Memory Card/Module) (in GB) (Capacity to be Installed in the System): 32, 64 Or higher | Primary Storage Capacity (in GB): 1024, 2048 Or higher | Availability of Secondary Storage: NVME - SSD Or higher | Secondary Storage Capacity (in GB): 1024.0 Or higher | Availibility of Monitor: Yes as per IS 13252 (Part 1) | Panel Type: In Plane Switching (IPS)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10035813"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Screen Size (in CMs): 58.1 - 63 (22.87\" - 24.8\") | On Site OEM Warranty (In year): 3, 4, 5 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10035813"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Abhishekh Menon | 744103,NSCBPTI, Prothrapur, Sri Vijaya Puram | 1 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10035813"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Detailed Technical Specification of High-Performance Digital Forensic Workstation: - 1. Processor: Intel Core Ultra 7 Processor or higher (latest generation) 2. Motherboard: Compatible OEM/Industrial Grade Motherboard,Support for D DR5 RAM,Expandability up to minimum 256 GB RAM,Minimum 2 x M.2 NVMe slo ts,Adequate PCIe and M.2 expansion slots,TPM 2.0 supp ort, 3. Memory (RAM):32 GB DDR5 RAM, Expandable up to 256 GB. 4 . Storage: Primary Storage: 1 TB NVMe Gen4 SSD (for OS & forensic applic ations),Secondary Storage:1 T",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10035813"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 8,
+      "quote": "B SSD SATA/NVMe (for forensic image processing and temporary evidence analysis) 5. Graphics Processing Unit (GPU): Dedicated NVIDIA GeForce RTX 5060 Gr aphics Card,Minimum 8 GB GD DR6 dedicated memory, CUDA support preferred for forensic processing acceleration 6. Operating System: Windows 11 Professional,Genuine licensed version pre-i nstalled 7. Monitor: Full HD LED Monitor,Resolution: 1920 × 1080,HDMI/Display Port su pport 8. Connectivity & Ports Minimum:6 x USB Ports (including USB 3.0/3.2)1 x U SB Type-C Port HDMI Port Display Port RJ-45 Gigabit Ethernet PortAudio In/Out P orts. 9. Networking: Integrated Gigabit Ethernet,2.5 GbE LAN Connectivity,Wi-Fi 6 s upport preferred,Bluetooth 5.0 or higher 10. Cabinet & Power Supply: Tower-based workstation chassis,Minimum 650 W SMPS with 80+ certificatio n 11. Keyboard & Mouse: USB Wired or wireless Keyboard and Mouse. 12 . Security Features: TPM 2.0,BIOS-level security support,Secure Boot supp ort 13. Warranty & Support: Minimum 03 Years Onsite Comprehensive Warranty 14. Functional Requirement Compatibility:The workstation shall be capable of efficiently running Digital & Mobile Forensic Tools including: FTK (Forensic Toolkit) Mobile Forensic Suite Cellebrite/UFED compatible to ols 9 / 14 Evidence analysis software Multi-session forensic imaging and analysis applications, etc. 15. Compliance OEM authorized product, BIS/FCC/CE certification as applicable Buyer Added Terms and Condition for Tower Based Computer Workstat ion (Intel Core Ultra 7, 32 GB DDR5 RAM, 1 TB SSD, Windows 11 Pro) 1. Bidder financial standing: The bidder should not be under liquidation, court re ceivership or similar proc eedings should not be bankrupt. Bidder to upload unde rtaking to this effect with bid. 2. Bidders are advised to check applicable GST on their own before quoting. Buy er will not take any respo nsibility in this regards. GST reimbursement will be asp er actuals or as per applicable rates (whichever is l ower), subject to the maximu m of quoted GST %. 3. Experience Criteria: The Bidder or its OEM {themselves or through eseller(s)} should have regularly, ma nufactured and supplied same or similar CategoryPro ducts to any Central / State Govt Organization / PSU for 1 year before the bidop ening date. Copies of relevant contracts to be submitted along with bid in supp o rt of having supplied some quantity during each of the year. In case of bunchbid s, the primary product h aving highest value should meet this criterion. 4. Manufacturer Authorization: Wherever Authorised Distributors/service provid ers are submitting the bid, Authorisation Form /Certificate with OEM/OriginalSer vice Provider details such as name, designation, addr ess, e-mail Id and Phone N o. required to be furnished along with the bid. 5. The successful bidder has to supply all essential accessories required for the successful installation and commissioning of the goods supplied. Besides standa rd accessories as per normal industry practice, follow ing accessories must be p art of supply and cost should be included in bid price. 6. Submittion of PBG: Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should bemade in favour of Vice Pr incipal, Netaji subash Cha ndra Bose Police Training Institute payable at Sri Vijaya Puram . After award of c ontract, Successful Bidder can upload scanned copy of the DD in place of PBG a nd has to ensure delivery of hard copy to the original DD to the Buyer within15 days of award of contract . 7. Scope of supply (Bid price to include all cost components) : Supply Installatio n Testing and Commissio ning of Goods at Consignee Location. 8. Certificates :- i) The bidder or the OEM of the offered products must have ISO 9001 certification. 9. Bidders shall quote only those products (Part of Service delivery) in the bid w hich are not obsolete in th e market and has at least 5 years residual market life i.e. the offered product shall not be declared end-of l ife by the OEM before this period",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10035813"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 9,
+      "quote": "10. Certificates Bidder's offer is liable to be rejected if they don't upload any of t he certificates / document s sought in the Bid document, ATC and Corrigendum i f any 11. Bidder Turn Over Criteria : The minimum average annual financial turnover of the bidder during the las t three years, ending on 31st March of the previous fi nancial year, should be as indicated in the bid docu ment. Documentary evidenc e in the form of certified Audited Balance Sheets of relevant periods or a certi fic ate from the Chartered Accountant / Cost Accountant indicating the turnover de tails for the relevant pe riod shall be uploaded with the bid. In case the dateof co nstitution / incorporation of the bidder is less than 3 year old, the average turno ver in respectof the completed financial years after the date of constitutions hall be taken into account for this criteria. 12. Warranty: Warranty period of the supplied products shall be 3 years from th e date of final acceptance of goods or after completion of installation,commissio ning & testing of goods (if included in the scope of s upply), at consignee locatio n. OEM Warranty certificates must be submitted by Successful Bidder at the ti m e of delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during the guarantee period. 13. Availability of Service Centre: Bidder/OEM must have functional servicecentr e at consignee’s location i .e., at Sri Vijaya Puram, Andaman & Nicobar Islands in order to approach the service centre for rectification of defect during warrant y period if any. Necessary documents i.e., “Service Centre Establishment Certifi c ate” to this effect must be uploaded mentioning the proper address & contact details of service centre alo ng with BID. 14. OEM Should be in IDC for last 4 quarters. Also, the OEM should be in TOP 5 Companies in India P C Mar ket as per the International Data Corporation (IDC). 15. Liquidated Damages: If the Seller/Service Provider fails to deliver any or all of theGoods/Services withi n the original/re-fixed delivery period(s) specified inthe contract, the Buyer will be entitled to deduct/recov er the Liquidated Dama ges for the delay, unless covered under All the bidders to ensure that technical spe cifications along with all the Terms & Conditions in this BID shall have to be complied by the bidders and a certificate to this effect be provided for complyin gthis BID. 16. Force Majeure Conditions: If at any time during the continuance of the Contr act, the performance in w hole or in part by either party of any obligation under t his Contract shall be prevented or delayed by the r easons of any war, hostility, acts of the public enemy, epidemics, civil commotion, sabotage, fires, floods,e x plosion, quarantine restrictions, strikes, lockouts or act of God (but not including negligence or wrongdoin g, predict able /seasonal rain) provided notice of happe ning of such event duly evidenced with documents is given by one party to the other within 10 days from the date of occurrence thereof, neither party shallbe by reasons of such event, be entitled to terminate the Contract nor shall either party have any claim for da mages against the other in respect of such non-perf ormance or the delay in performance, and deliveries u nder the contract shall be resumed as soon as practicable after such event has come to an endor ceased t o exist, an d the decision of the Buyer as to whether the deliveries havebeen so resumed or not, shall be fi nal and conclusive, Provide d further that if the perfor mance in whole orpart of any obligation under this c ontract is prevented or dela yed by reason of any such event for a period exceeding 90 days, eitherparty may at its option terminate the contract providedalso that the Buyer shallbe at libe rty to take over from t he Seller at a price to be fixe d by Buyer, whichshall be fin al, all unused , undamaged and accepted mate rial, bought out components and Good s in course of manufacture in the possession of the Seller at the tim e of su ch termination or such portion the re of as the Buyer may deem fit excepting su ch materials, boug h tout components and Goods as the Seller maywith the conc urrence of the Buyer elect to retain. 17.Acce ptance of All Terms and Conditions: The bidder shall submit an Accepta nce of Bid Terms and Conditions on the firm’s official letterhead, duly signed by the authorized signatory and affixed with the official seal/stam p of the firm, alon g with the bid documents.Non-submission or non-compliance of the Acceptance of Bid T erms and Conditions may render the bid liable for disqualification/rejecti on. Checklist: 1. Undertaking of Bidder Financial Standing 2. OEM Authorization 3. Experience Criteria 4. Past performance 5. Certificates ISO 9001, Market Life of offered product 6. Bidder turnover",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10035813"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 10,
+      "quote": "7. Service centre detail 8. Acceptance of All Terms and Conditions .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10035813"
+    }
+  ],
+  "detail_warning": "The original PDF dates differ from the current public GeM listing. The listing closing date is retained. Confirm the latest opening date and any corrigenda on GeM; the original PDF opening date is not presented as current.",
+  "document_closing_at": "2026-11-06T10:00:00+05:30",
+  "document_opening_at": "2026-11-07T10:00:00+05:30",
+  "date_discrepancy": {
+    "listing_closing_at": "2026-11-07T10:00:00+05:30",
+    "document_closing_at": "2026-11-06T10:00:00+05:30",
+    "document_opening_at": "2026-11-07T10:00:00+05:30"
+  }
 }

@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8308087",
   "title": "Electric Cars (V4)",
   "description": "Electric Cars (V4)",
-  "organisation": "Revenue Department Kerala",
-  "ministry": "",
+  "organisation": "District Collectorate Thiruvananthapuram",
+  "ministry": "Kerala",
   "department": "Revenue Department Kerala",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Electric Cars (V4)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-23T15:39:29+05:30",
   "closing_at": "2026-12-03T16:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10205500"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/hUje5Dm8Hjh0sHnWHENJtFf5cdTz00j-iFgoY8F2p6w",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261123",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +49,214 @@
   ],
   "source_fetched_at": "2026-11-26T14:34:39.217Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-04T16:00:00+05:30",
+  "office": "Thiruvananthapuram",
+  "buyer_email": "acc.collectoratetvm@gmail.com",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-26T22:07:28.045977+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "5e953fd658ed98351bff4b1ef0b25042c5ce5010ee8ab24498d38248a6de951c",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Niza A",
+      "address": "695043,Civil Station, Mannamthala Road, Kudappanakkunnu, Thiruvananthapuram",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 90
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Generic Parameters",
+          "parameter": "Body Type",
+          "value": "Hatch Back, Sedan, Compact SUV, SUV"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Driving Range (Mileage) with Fully Charged Battery as per Test Report (Kms)",
+          "value": "<= 200 km, >200<=300 km, >300<=400 km, >400<=500 km, >500 km Or higher"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Max Motor Power (kW) as per Test Report",
+          "value": "25 - 400 (kiloWatt)"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Traction Battery Capacity (kWh)",
+          "value": "15 - 150"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Front Vehicle Brake",
+          "value": "Drum Brake, Disc Brake Or higher"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Rear Vehicle Brake",
+          "value": "Drum Brake, Disc Brake Or higher"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Charger Parameters",
+          "parameter": "Portable AC Charger / Portable Charging Cable with Vehicle",
+          "value": "Yes, No"
+        },
+        {
+          "group": "Charger Parameters",
+          "parameter": "Wall Mounted AC Charger with Vehicle",
+          "value": "Yes, No"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8308087",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10205500"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 03-12-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10205500"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 04-12-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10205500"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10205500"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Kerala",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10205500"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Revenue Department Kerala",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10205500"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: District Collectorate Thiruvananthapuram",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10205500"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Thiruvananthapuram",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10205500"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :admtvm.ker@nic.in Buyer Email id: acc.collectoratetvm@gmail.com",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10205500"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10205500"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Electric Cars (V4) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10205500"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10205500"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10205500"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10205500"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10205500"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10205500"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Body Type: Hatch Back, Sedan, Compact SUV, SUV | Driving Range (Mileage) with Fully Charged Battery as per Test Report (Kms): <= 200 km, >200<=300 km, >300<=400 km, >400<=500 km, >500 km Or higher | Max Motor Power (kW) as per Test Report: 25 - 400 (kiloWatt) | Traction Battery Capacity (kWh): 15 - 150 | Front Vehicle Brake: Drum Brake, Disc Brake Or higher | Rear Vehicle Brake: Drum Brake, Disc Brake Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10205500"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Portable AC Charger / Portable Charging Cable with Vehicle: Yes, No | Wall Mounted AC Charger with Vehicle: Yes, No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10205500"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Niza A | 695043,Civil Station, Mannamthala Road, Kudappanakkunnu, Thiruvananthapuram | 1 | 90",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10205500"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10205500"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

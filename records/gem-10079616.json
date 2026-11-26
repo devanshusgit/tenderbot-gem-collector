@@ -5,9 +5,9 @@
   "tender_id": "GEM/2026/R/758552",
   "title": "103 FV 6110 1 300 A9A,103 FV 6250 4 300 B2A IBR,103 FV 6260 2 300 A9A,103 FV 7210 1 300 B9A,103 FV ",
   "description": "103 FV 6110 1 300 A9A,103 FV 6250 4 300 B2A IBR,103 FV 6260 2 300 A9A,103 FV 7210 1 300 B9A,103 FV 0101 1 300 B9A,103 PDV 0101 3 300 B9A,103 PV 0101A 12 300 B9A,103 PV 0101B 3 300 B9A,103 FV 0102 3 300 B9A,103 FV 0103 2 300 A9A,103 FV 0104 2 300 B9A,103 FV 0210 1 300 B5A H2,103 FV 0211 1 300 B2A IBR,103 FV 0410 2 300 B5A,103 PV 0410 1 300 B5A OG,103 FV 0411 1 300 B9A,103 FV 0412 1 300 B9A,103 PV 0418 2 300 B5A,103 FV 0105 2 300 A9A,103 PCV 0220 1 300 B9A,103 LV 6214 1 5 300 B2A A22A IBR",
-  "organisation": "NA",
-  "ministry": "Ministry of Petroleum and Natural Gas",
-  "department": "NA",
+  "organisation": "Hindustan Petroleum Corporation Ltd",
+  "ministry": "Ministry Of Petroleum And Natural Gas",
+  "department": "Na",
   "portal_name": "GeM",
   "state": [],
   "city": [],
@@ -25,8 +25,18 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10079616"
+    },
+    {
+      "name": "GEM/2026/B/7731296",
+      "url": "https://bidplus.gem.gov.in/showbidDocument/9543651",
+      "page": 1
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261026",
+      "page": 1
     }
   ],
   "tags": [
@@ -34,5 +44,105 @@
   ],
   "source_fetched_at": "2026-10-27T18:48:17.277Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "office": "Petroleum House",
+  "ra_start_at": "2026-10-27T09:00:00+05:30",
+  "auto_extension": "If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+  "mse_exemption": "MSE Exemption for Years of Experience and Turnover: No",
+  "startup_exemption": "Startup Exemption for Years of Experience and Turnover: No",
+  "originating_bid_reference": "GEM/2026/B/7731296",
+  "source_document_fetched_at": "2026-11-26T23:30:55.821766+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "a7db084f097f4cebdc0a6481738d2ac0c88c7d856730412abffa6ecbd6a4ac73",
+  "document_pages": 2,
+  "eligibility": [
+    "MSE Exemption for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Exemption for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [],
+  "technical_specifications": [],
+  "buyer_added_terms": [],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/758552",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10079616"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 1,
+      "quote": "Please refer to Bid document of GEM/2026/B/7731296",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10079616"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 27-10-2026 09:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10079616"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 28-10-2026 09:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10079616"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Petroleum And Natural Gas",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10079616"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Na",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10079616"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Hindustan Petroleum Corporation Ltd",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10079616"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Petroleum House",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10079616"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 21",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10079616"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: 103 FV 6110 1 300 A9A , 103 FV 6250 4 300 B2A IBR , 103 FV 6260 2 300 A9A , 103 FV 7210 1 300 B9A , 103 FV 0101 1 300 B9A , 103 PDV 0101 3 300 B9A , 103 PV 0101A 12 300 B9A , 103 PV 0101B 3 300 B9A , 103 FV 0102 3 300 B9A , 103 FV 0103 2 300 A9A , 103 FV 0104 2 300 B9A , 103 FV 0210 1 300 B5A H2 , 103 FV 0211 1 300 B2A IBR , 103 FV 0410 2 300 B5A , 103 PV 0410 1 300 B5A OG , 103 FV 0411 1 300 B9A , 103 FV 0412 1 300 B9A , 103 PV 0418 2 300 B5A , 103 FV 0105 2 300 A9A , 103 PCV 0220 1 300 B9A , 103 LV 6214 1 5 300 B2A A22A IBR",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10079616"
+    },
+    {
+      "field": "auto_extension",
+      "page": 1,
+      "quote": "Auto Extension: If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10079616"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 1,
+      "quote": "MSE Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10079616"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 1,
+      "quote": "Startup Exemption for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10079616"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda."
 }

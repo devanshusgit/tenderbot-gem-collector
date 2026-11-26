@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8282855",
   "title": "LED Garden Light (V2)",
   "description": "LED Garden Light (V2)",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "South Coast Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "LED Garden Light (V2)",
   "quantity": 110,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-23T16:21:25+05:30",
   "closing_at": "2026-12-03T10:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10176226"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/ebodpMxy8tv1Utn8PaKj2dZvaOd0I-DaxgX_057-W_k",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261123",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +49,269 @@
   ],
   "source_fetched_at": "2026-11-26T14:34:15.164Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-04T10:00:00+05:30",
+  "office": "Principal Chief Material Manager Visakhapatnam",
+  "buyer_email": "admm_wat@wat.railnet.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "120 (Days)",
+  "source_document_fetched_at": "2026-11-26T21:51:39.861857+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "927ceb87cffdd93a3341fec68c4671a0ed58b20f66b21534f3b2bd2e6341c607",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Kilari Srinivasa Rao",
+      "address": "530004,Office of the SSE/ELG/NORTH , OPPOSITE TO RAILWAY BADMINTON COURT, RAILWAY NEW COLONY, VISHAKAPATNAM - 530004",
+      "quantity": 110,
+      "quantity_label": "Quantity",
+      "delivery_days": 30
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "GENERIC",
+          "parameter": "Type of Garden Light",
+          "value": "Bollard type with Pole and LED lantern/luminaire, Architectural design with pole and LED lantern/luminaire, LED post top lantern/luminaire with pole"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Material of Garden Lighting pole including lighting system (lantern/luminaire) (Note: Wherever GI, MS, CI materials used, materials shall be ISI Marked)",
+          "value": "Aluminium casting, Galvanised Iron, Mild steel, Cast iron, LED post top with out pole. Hence not applicable"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Pole height inlcluding lantern/luminaire (in m)",
+          "value": "0.5, 1, 1.5, 3, 4, 5, 6, 7, 8, without pole"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "No.of lantern/luminaire with each pole (in m)",
+          "value": "1, 2, 3, 4, 5, LED post top with out pole. Hence not applicable"
+        },
+        {
+          "group": "LIGHT SOURCE",
+          "parameter": "Type of light source - BEE star rating of LED Bulb",
+          "value": "SMD LED Chip"
+        },
+        {
+          "group": "LIGHT SOURCE",
+          "parameter": "LED Rating in each lantern/luminaire/lighting system (in Watts)",
+          "value": "15.0"
+        },
+        {
+          "group": "LIGHT SOURCE",
+          "parameter": "LED Lamp/System efficacy in each lantern / luminaire (in lumen / watt)",
+          "value": "? 105 and < 120"
+        },
+        {
+          "group": "LIGHT SOURCE",
+          "parameter": "In case of LED bulb - Cap designation of each lamp and holder in each lantern / luminaire",
+          "value": "Not applicable (for SMP LED Chip)"
+        },
+        {
+          "group": "PROTECTION",
+          "parameter": "Automatic Lower / Higher Cut off voltage",
+          "value": "Yes. Lower cut off 120 V, Higher cut off 300 V"
+        },
+        {
+          "group": "PROTECTION",
+          "parameter": "Protection against surges and transients - External",
+          "value": "> / = 10 KV Or higher"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "THERMAL MANAGEMENT",
+          "parameter": "Minimum Operating Temperature (in deg. C)",
+          "value": "-10"
+        },
+        {
+          "group": "THERMAL MANAGEMENT",
+          "parameter": "Maximum Operating Temperature (in deg. C)",
+          "value": "50"
+        },
+        {
+          "group": "LANTERN/LUMINAIRE - CONSTRUCTION",
+          "parameter": "Impact resistance on diffuser material (in IK)",
+          "value": "7"
+        },
+        {
+          "group": "LANTERN/LUMINAIRE - CONSTRUCTION",
+          "parameter": "Protection of the entire housing (in IP) Protection of the entire housing as per IS:10322 (Part 1):1982 latest",
+          "value": "65"
+        },
+        {
+          "group": "LANTERN/LUMINAIRE - CONSTRUCTION",
+          "parameter": "Length of ISI marked three core connecting wire (Provided along with each lantern/luminiare) - (in m)",
+          "value": "0.5"
+        },
+        {
+          "group": "CERTIFICATIONS",
+          "parameter": "Warranty for free replacement of lighting systems including lightsource (in years)",
+          "value": "1"
+        },
+        {
+          "group": "ADVANCE SAMPLE",
+          "parameter": "Agreed to provide Advance Sample(s) for buyer's approval before commencement of supply. ( hint: Applicable in case of orders placed against bid and not applicable in case of Direct Buying )",
+          "value": "No"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods"
+    },
+    {
+      "page": 5,
+      "text": "2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Bill passing officer: Sr.DEE/G/VSKP Bill paying officer: Sr.DFM/S.Co.R/VSKP Materials Inspection by consignee after receipt. Materials is to be dispatched at SSE/ELG/NORTH/VSKP Contact No. 8978080342 ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8282855",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10176226"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 03-12-2026 10:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10176226"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 04-12-2026 10:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10176226"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10176226"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10176226"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10176226"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: South Coast Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10176226"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Principal Chief Material Manager Visakhapatnam",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10176226"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :cmmmne@scor.railnet.gov.in Buyer Email id: admm_wat@wat.railnet.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10176226"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 110",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10176226"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: LED Garden Light (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10176226"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10176226"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10176226"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10176226"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10176226"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10176226"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Type of Garden Light: Bollard type with Pole and LED lantern/luminaire, Architectural design with pole and LED lantern/luminaire, LED post top lantern/luminaire with pole | Material of Garden Lighting pole including lighting system (lantern/luminaire) (Note: Wherever GI, MS, CI materials used, materials shall be ISI Marked): Aluminium casting, Galvanised Iron, Mild steel, Cast iron, LED post top with out pole. Hence not applicable | Pole height inlcluding lantern/luminaire (in m): 0.5, 1, 1.5, 3, 4, 5, 6, 7, 8, without pole | No.of lantern/luminaire with each pole (in m): 1, 2, 3, 4, 5, LED post top with out pole. Hence not applicable | Type of light source - BEE star rating of LED Bulb: SMD LED Chip | LED Rating in each lantern/luminaire/lighting system (in Watts): 15.0 | LED Lamp/System efficacy in each lantern / luminaire (in lumen / watt): ? 105 and < 120 | In case of LED bulb - Cap designation of each lamp and holder in each lantern / luminaire: Not applicable (for SMP LED Chip) | Automatic Lower / Higher Cut off voltage: Yes. Lower cut off 120 V, Higher cut off 300 V | Protection against surges and transients - External: > / = 10 KV Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10176226"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Minimum Operating Temperature (in deg. C): -10 | Maximum Operating Temperature (in deg. C): 50 | Impact resistance on diffuser material (in IK): 7 | Protection of the entire housing (in IP) Protection of the entire housing as per IS:10322 (Part 1):1982 latest: 65 | Length of ISI marked three core connecting wire (Provided along with each lantern/luminiare) - (in m): 0.5 | Warranty for free replacement of lighting systems including lightsource (in years): 1 | Agreed to provide Advance Sample(s) for buyer's approval before commencement of supply. ( hint: Applicable in case of orders placed against bid and not applicable in case of Direct Buying ): No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10176226"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Kilari Srinivasa Rao | 530004,Office of the SSE/ELG/NORTH , OPPOSITE TO RAILWAY BADMINTON COURT, RAILWAY NEW COLONY, VISHAKAPATNAM - 530004 | 110 | 30",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10176226"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10176226"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Bill passing officer: Sr.DEE/G/VSKP Bill paying officer: Sr.DFM/S.Co.R/VSKP Materials Inspection by consignee after receipt. Materials is to be dispatched at SSE/ELG/NORTH/VSKP Contact No. 8978080342 .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10176226"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

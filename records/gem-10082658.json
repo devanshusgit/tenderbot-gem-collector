@@ -5,9 +5,9 @@
   "tender_id": "GEM/2026/R/759097",
   "title": "Internet Messaging Service - As per Rfp attached with the bid document; Business initiated, User In",
   "description": "Internet Messaging Service - As per Rfp attached with the bid document; Business initiated, User Initiated",
-  "organisation": "Department of Expenditure",
-  "ministry": "Ministry of Finance",
-  "department": "Department of Expenditure",
+  "organisation": "Controller General Of Accounts (cga)",
+  "ministry": "Ministry Of Finance",
+  "department": "Department Of Expenditure",
   "portal_name": "GeM",
   "state": [],
   "city": [],
@@ -25,8 +25,18 @@
   "listing_url": "https://bidplus.gem.gov.in/all-bids",
   "documents": [
     {
-      "name": "Original GeM bid document",
+      "name": "Original GeM reverse auction document",
       "url": "https://bidplus.gem.gov.in/showradocumentPdf/10082658"
+    },
+    {
+      "name": "GEM/2026/B/7480814",
+      "url": "https://bidplus.gem.gov.in/showbidDocument/9263637",
+      "page": 2
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261026",
+      "page": 2
     }
   ],
   "tags": [
@@ -34,5 +44,120 @@
   ],
   "source_fetched_at": "2026-10-27T18:53:59.681Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "office": "Public Financial Management System",
+  "bidder_turnover_lakhs": 13,
+  "contract_period": "5 Year(s)",
+  "ra_start_at": "2026-10-27T16:00:00+05:30",
+  "auto_extension": "If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+  "mse_exemption": "MSE Exemption for Years Of Experience and Turnover: Yes | Complete",
+  "startup_exemption": "Startup Exemption for Years Of Experience and Turnover: Yes | Complete",
+  "originating_bid_reference": "GEM/2026/B/7480814",
+  "source_document_fetched_at": "2026-11-26T09:08:36.253957+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "ff0ce28e17befdf5758bbbab661cfae0a3298313509f7c49cb7bd1ded2981aa0",
+  "document_pages": 2,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 13 Lakh (s) (GeM PDF, p. 1)",
+    "MSE Exemption for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)",
+    "Startup Exemption for Years Of Experience and Turnover: Yes | Complete (GeM PDF, p. 1)"
+  ],
+  "consignees": [],
+  "technical_specifications": [],
+  "buyer_added_terms": [],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "RA Number: GEM/2026/R/759097",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10082658"
+    },
+    {
+      "field": "originating_bid_reference",
+      "page": 2,
+      "quote": "Please refer to Bid document of GEM/2026/B/7480814",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10082658"
+    },
+    {
+      "field": "ra_start_at",
+      "page": 1,
+      "quote": "RA Start Date/Time: 27-10-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10082658"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "RA End Date/Time: 28-10-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10082658"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Finance",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10082658"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Expenditure",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10082658"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Controller General Of Accounts (cga)",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10082658"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Public Financial Management System",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10082658"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Internet Messaging Service - As per Rfp attached with the bid document; Business initiated, User Initiated",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10082658"
+    },
+    {
+      "field": "auto_extension",
+      "page": 1,
+      "quote": "Auto Extension: If any seller submits the offer price during last 15 minutes of RA end time, then RA will be automatically extended for next 15 minutes from the last participation time. There is no limit on such RA extension cycle.",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10082658"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 5 Year(s)",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10082658"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 13 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10082658"
+    },
+    {
+      "field": "mse_exemption",
+      "page": 1,
+      "quote": "MSE Exemption for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10082658"
+    },
+    {
+      "field": "startup_exemption",
+      "page": 1,
+      "quote": "Startup Exemption for Years Of Experience and Turnover: Yes | Complete",
+      "source_url": "https://bidplus.gem.gov.in/showradocumentPdf/10082658"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 20000000",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded GeM reverse auction PDF. Check the linked originating bid document for technical specifications, terms and other details, and confirm any corrigenda."
 }

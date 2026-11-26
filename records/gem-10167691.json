@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8275749",
   "title": "Goods Transport Service – Per KM Based Service - Valuable goods requiring High Security; Flatbed ",
   "description": "Goods Transport Service – Per KM Based Service - Valuable goods requiring High Security; Flatbed Truck; 40 to 80 FT Double Crown (Depression)",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Air Force",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Goods Transport Service – Per KM Based Service - Valuable goods requiring High Security; Flatbed ",
   "quantity": 2800,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-25T15:55:30+05:30",
   "closing_at": "2026-11-30T14:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10167691"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261125",
+      "page": 7
+    },
+    {
+      "name": "Service Level Agreement",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/bidsla/103381940271481",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +49,260 @@
   ],
   "source_fetched_at": "2026-11-26T04:34:55.908Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-01T14:00:00+05:30",
+  "buyer_email": "buycon677.iaf.dl@nic.in",
+  "emd_required": false,
+  "bidder_turnover_lakhs": 3,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Bidder Turnover,Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "180 (Days)",
+  "contract_period": "2 Month(s)",
+  "source_document_fetched_at": "2026-11-26T07:44:25.482719+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "630a9462cddfd6738373b9447daf371c9a59c58dd2d8d6fa568a1676d55c2692",
+  "document_pages": 7,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 3 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "***********",
+      "address": "***********South Delhi",
+      "quantity": 2800,
+      "quantity_label": "Running Kilometres",
+      "delivery_days": null,
+      "additional_requirements": "N/A"
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Core",
+          "parameter": "Nature of Goods",
+          "value": "Valuable goods requiring High Security"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type of Truck",
+          "value": "Flatbed Truck"
+        },
+        {
+          "group": "Core",
+          "parameter": "Size / Weight of vehicle",
+          "value": "40 to 80 FT Double Crown (Depression)"
+        },
+        {
+          "group": "Core",
+          "parameter": "Type of Travel",
+          "value": "Outside state"
+        },
+        {
+          "group": "Core",
+          "parameter": "Km Range",
+          "value": "More than 1000 Km (Filter for Outside State)"
+        },
+        {
+          "group": "Core",
+          "parameter": "Area of Operation",
+          "value": "Plains"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Loading",
+          "value": "NA"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Unloading",
+          "value": "NA"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Tracking System (GPS)",
+          "value": "NA"
+        },
+        {
+          "group": "Addon(s)",
+          "parameter": "Transit Insurance",
+          "value": "NA"
+        },
+        {
+          "group": "Additional Details",
+          "parameter": "Type Of Trip (One-Way/Return)",
+          "value": "1"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic"
+    },
+    {
+      "page": 5,
+      "text": "OPTION CLAUSE 50% : The buyer can increase or decrease the contract quantity or contract duration up to 50 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 50 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 50 percent with the consent of the service provider 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. TYPE OF VEHICLE REQUIRED- LOW BED FLAP TOP TRAILOR 40FT X 11FT 2. QTY OF VEHICLE REQUIRED-02 3. DESTINATION FOR VEHICLE TRANSPORT- FROM AFS TUGHLAKABD (NEW DELHI) TO AFS SHEVA (MUMB AI) 4. THE TRAILER SHALL BE IN GOOD WORKING CONDITION AND SUITABLE FOR TRANSPORTATION OF THE REQUIRED LOAD. 5. THE VEHICLE SHALL POSSESS A VALID REGISTRATION CERTIFICATE, FITNESS CERTIFICATE, PUC CERTI FICATE AND APPLICABLE PERMITS. 6. THE TRAILER SHALL BE EQUIPPED WITH GPS TRACKING SYSTEM, COUPLING ARRANGEMENTS AND SAF ETY EQUIPMENTS. 7. THE BUYER RESERVES THE RIGHT TO INSPECT THE TRAILER BEFORE DEPLOYMENT. 8. THE BIDDER SHOULD HAVE EXPERIENCE IN PROVIDING TRANSPORTATION/TRAILER HIRING SERVICES. 9. GOODS INSURANCE ARE ALSO REQUIRED. 10. THE CONTRACTOR SHALL PROVIDE THE TRAILER WITHIN THE STIPULATED TIME AFTER RECEIPT OF S O. . 3. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8275749",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10167691"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 30-11-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10167691"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 01-12-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10167691"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10167691"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10167691"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10167691"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Air Force",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10167691"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :7b950@nic.in Buyer Email id: buycon677.iaf.dl@nic.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10167691"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Goods Transport Service – Per KM Based Service - Valuable goods requiring High Security; Flatbed Truck; 40 to 80 FT Double Crown (Depression)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10167691"
+    },
+    {
+      "field": "contract_period",
+      "page": 1,
+      "quote": "Contract Period: 2 Month(s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10167691"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 3 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10167691"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10167691"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10167691"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10167691"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10167691"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Bidder Turnover,Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10167691"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10167691"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10167691"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10167691"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Nature of Goods: Valuable goods requiring High Security | Type of Truck: Flatbed Truck | Size / Weight of vehicle: 40 to 80 FT Double Crown (Depression) | Type of Travel: Outside state | Km Range: More than 1000 Km (Filter for Outside State) | Area of Operation: Plains | Loading: NA | Unloading: NA | Tracking System (GPS): NA | Transit Insurance: NA | Type Of Trip (One-Way/Return): 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10167691"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Running Kilometres | Additional Requirement: 1 | *********** | ***********South Delhi | 2800 | N/A",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10167691"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10167691"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "OPTION CLAUSE 50% : The buyer can increase or decrease the contract quantity or contract duration up to 50 percent at the time of issue of the contract. However, once the contract is issued, the contract quantity or contract duration can only be increased up to 50 percent. Bidders are bound to accept the revised quantity or duration. For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to 50 percent with the consent of the service provider 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. TYPE OF VEHICLE REQUIRED- LOW BED FLAP TOP TRAILOR 40FT X 11FT 2. QTY OF VEHICLE REQUIRED-02 3. DESTINATION FOR VEHICLE TRANSPORT- FROM AFS TUGHLAKABD (NEW DELHI) TO AFS SHEVA (MUMB AI) 4. THE TRAILER SHALL BE IN GOOD WORKING CONDITION AND SUITABLE FOR TRANSPORTATION OF THE REQUIRED LOAD. 5. THE VEHICLE SHALL POSSESS A VALID REGISTRATION CERTIFICATE, FITNESS CERTIFICATE, PUC CERTI FICATE AND APPLICABLE PERMITS. 6. THE TRAILER SHALL BE EQUIPPED WITH GPS TRACKING SYSTEM, COUPLING ARRANGEMENTS AND SAF ETY EQUIPMENTS. 7. THE BUYER RESERVES THE RIGHT TO INSPECT THE TRAILER BEFORE DEPLOYMENT. 8. THE BIDDER SHOULD HAVE EXPERIENCE IN PROVIDING TRANSPORTATION/TRAILER HIRING SERVICES. 9. GOODS INSURANCE ARE ALSO REQUIRED. 10. THE CONTRACTOR SHALL PROVIDE THE TRAILER WITHIN THE STIPULATED TIME AFTER RECEIPT OF S O. . 3. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10167691"
+    },
+    {
+      "field": "quantity",
+      "page": null,
+      "quote": "Public GeM listing quantity: 2800",
+      "source_url": "https://bidplus.gem.gov.in/all-bids"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

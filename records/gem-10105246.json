@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8221497",
   "title": "Digital Signature Certificate (DSC) (V3)",
   "description": "Digital Signature Certificate (DSC) (V3)",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "Western Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Digital Signature Certificate (DSC) (V3)",
   "quantity": 1200,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 18300,
   "published_at": "2026-11-23T16:43:27+05:30",
   "closing_at": "2026-12-03T17:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10105246"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/-RlFAkWm3oTFftCbSbyVFgZDkmfduE3X8GEMnAsdXbQ",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261123",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +49,243 @@
   ],
   "source_fetched_at": "2026-11-26T14:33:35.152Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-04T17:00:00+05:30",
+  "office": "Western Railway",
+  "buyer_email": "smm7@wr.railnet.gov.in",
+  "emd_required": true,
+  "emd_exemption": "The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "60 (Days)",
+  "estimated_bid_value": 912960,
+  "source_document_fetched_at": "2026-11-26T21:38:51.718345+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "b9db6b28af895009e6e80eb2efc15825889066b8b8114a4ec011986d1d255b07",
+  "document_pages": 9,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 20 % (GeM PDF, p. 2)",
+    "EMD exemption: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy. (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Harish Meena",
+      "address": "400020,OFFICE OF SENIOR EDP MANAGER , 1ST FLOOR ,EDP CENTRE, WESTERN RAILWAY STATION BUILDING ,CHURCHGATE, MUMBAI 400020",
+      "quantity": 1200,
+      "quantity_label": "Quantity",
+      "delivery_days": 120
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Generic",
+          "parameter": "Certificate Type",
+          "value": "Encryption Certificate"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Encryption Certificate Assurance Level",
+          "value": "Class 3 Certificate"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Public Key Algorithm",
+          "value": "RSA 2048-bit"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Validity of Certificate",
+          "value": "3 Years Or higher"
+        },
+        {
+          "group": "Features",
+          "parameter": "Signing Private Key Storage Medium",
+          "value": "USB Crypto Token Supplied with DSC"
+        },
+        {
+          "group": "Features",
+          "parameter": "Applicant eKYC/Identity Verification Mode Supported",
+          "value": "Aadhaar Online eKYC-OTP, Aadhaar Online eKYC- Biometric, Aadhaar Offline eKYC, Banking eKYC, eKYC for Foreign Applicants, CA-Assisted Enrollment Mode"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Buyer Added text based ATC clauses 1) Delivery period will be up to December 2028. Necessary MA will be issued post contract."
+    },
+    {
+      "page": 6,
+      "text": "2)Technical support by vendor in Windows, Mac and other OS system whichever is in the Organization. 3) Required Documents for processing should be Collected from IT Centre WR CHURCHGATE. To be completed w ithin two (2) working days and handover to nominated person of IT Centre. 4) Payment will be made after the procurement of every 300 DSCs, covering a total of 1,200 DSCs. 5.Tender Specific Authorization: Procurement is reserved from OEM or from their authorized dealer. Authorized d ealer must upload bid specific authorization from OEM along with bid else offer will be summarily rejected. 6.Eligibility Criteria: OEM / Bidder who have successfully executed minimum 20% of tendere d qty of same item i.e.\" supply, installation and commissioning of Digital Signature Certificate (DSC-Token) in any of the Divisions / Zones over Indian Railways during current financial period and preceding 03 years counting from the date of closing of this bid against a single order or mu ltiple orders shall only be eligible for order. Mandatory documents to be attached in support of a bove past performance are Purchase Order/Work Order copies along with CRAC or completion ce rtificate by Gazetted Office. 7.Warranty:1.Three years of Comprehensive support. 2.The Vendor/contractor has to provide full support during the warranty period. Technical Specification Sr.No Technical Specification Required Specification 1 Item Description Class-3 Digital Singnature Certificate (DSC) Wit h USB Crypto Token FIPS 140-3 Security Stand ards 2 Quantity 1,200 Nos. 3 Certificate type Document Signer Certificate 4 Validity of DSC 3 Year 5 Certificate Encryption SHA 2 6 Data Encryption bits as per Latest 2048 Procedure of CCA (Bits) 7 Type of USB Crypto Token Auto Run With Built-in Drivers 8 Acceptance of user verification Through t Yes he Authorized Signatory Of the Concerne d Government Office 9 Compliance with CCA Interoperability Gui Yes delines Governed by the IT Act, 2000, Re garding Use of Certificate"
+    },
+    {
+      "page": 7,
+      "text": ". 2. Forms of EMD and PBG Bidders can also submit the EMD with Account Payee Demand Draft in favour of PFA/WR payable at PFA/WR . Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 3. Forms of EMD and PBG Bidders can also submit the EMD with Fixed Deposit Receipt made out or pledged in the name of A/C PFA/WR . The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of EMD, the FDR will be released in the favour of the bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Bidder has to upload scanned copy/ proof of the FDR along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date/ Bid Opening date 4. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid"
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8221497",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105246"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 03-12-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105246"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 04-12-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105246"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 60 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105246"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105246"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105246"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Western Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105246"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Western Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105246"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :smm4@wr.railnet.gov.in Buyer Email id: smm7@wr.railnet.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105246"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1200",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105246"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Digital Signature Certificate (DSC) (V3) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105246"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105246"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105246"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105246"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 20 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105246"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105246"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 912960",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105246"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Amount: 18300",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105246"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Amount: 18300",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105246"
+    },
+    {
+      "field": "emd_exemption",
+      "page": 2,
+      "quote": "EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this Policy.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105246"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Certificate Type: Encryption Certificate | Encryption Certificate Assurance Level: Class 3 Certificate | Public Key Algorithm: RSA 2048-bit | Validity of Certificate: 3 Years Or higher | Signing Private Key Storage Medium: USB Crypto Token Supplied with DSC | Applicant eKYC/Identity Verification Mode Supported: Aadhaar Online eKYC-OTP, Aadhaar Online eKYC- Biometric, Aadhaar Offline eKYC, Banking eKYC, eKYC for Foreign Applicants, CA-Assisted Enrollment Mode",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105246"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Harish Meena | 400020,OFFICE OF SENIOR EDP MANAGER , 1ST FLOOR ,EDP CENTRE, WESTERN RAILWAY STATION BUILDING ,CHURCHGATE, MUMBAI 400020 | 1200 | 120",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105246"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Buyer Added text based ATC clauses 1) Delivery period will be up to December 2028. Necessary MA will be issued post contract.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105246"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "2)Technical support by vendor in Windows, Mac and other OS system whichever is in the Organization. 3) Required Documents for processing should be Collected from IT Centre WR CHURCHGATE. To be completed w ithin two (2) working days and handover to nominated person of IT Centre. 4) Payment will be made after the procurement of every 300 DSCs, covering a total of 1,200 DSCs. 5.Tender Specific Authorization: Procurement is reserved from OEM or from their authorized dealer. Authorized d ealer must upload bid specific authorization from OEM along with bid else offer will be summarily rejected. 6.Eligibility Criteria: OEM / Bidder who have successfully executed minimum 20% of tendere d qty of same item i.e.\" supply, installation and commissioning of Digital Signature Certificate (DSC-Token) in any of the Divisions / Zones over Indian Railways during current financial period and preceding 03 years counting from the date of closing of this bid against a single order or mu ltiple orders shall only be eligible for order. Mandatory documents to be attached in support of a bove past performance are Purchase Order/Work Order copies along with CRAC or completion ce rtificate by Gazetted Office. 7.Warranty:1.Three years of Comprehensive support. 2.The Vendor/contractor has to provide full support during the warranty period. Technical Specification Sr.No Technical Specification Required Specification 1 Item Description Class-3 Digital Singnature Certificate (DSC) Wit h USB Crypto Token FIPS 140-3 Security Stand ards 2 Quantity 1,200 Nos. 3 Certificate type Document Signer Certificate 4 Validity of DSC 3 Year 5 Certificate Encryption SHA 2 6 Data Encryption bits as per Latest 2048 Procedure of CCA (Bits) 7 Type of USB Crypto Token Auto Run With Built-in Drivers 8 Acceptance of user verification Through t Yes he Authorized Signatory Of the Concerne d Government Office 9 Compliance with CCA Interoperability Gui Yes delines Governed by the IT Act, 2000, Re garding Use of Certificate",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105246"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": ". 2. Forms of EMD and PBG Bidders can also submit the EMD with Account Payee Demand Draft in favour of PFA/WR payable at PFA/WR . Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date. 3. Forms of EMD and PBG Bidders can also submit the EMD with Fixed Deposit Receipt made out or pledged in the name of A/C PFA/WR . The bank should certify on it that the deposit can be withdrawn only on the demand or with the sanction of the pledgee. For release of EMD, the FDR will be released in the favour of the bidder by the Buyer after making endorsement on the back of the FDR duly signed and stamped along with covering letter. Bidder has to upload scanned copy/ proof of the FDR along with bid and has to ensure delivery of hardcopy to the Buyer within 5 days of Bid End date/ Bid Opening date 4. Generic Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10105246"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

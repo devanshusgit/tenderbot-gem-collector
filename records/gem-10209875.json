@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8312020",
   "title": "Solar Power Plant (Roof Top) for ONGRID System, Single Phase",
   "description": "Solar Power Plant (Roof Top) for ONGRID System, Single Phase",
-  "organisation": "Department of Panchayati Raj",
-  "ministry": "",
-  "department": "Department of Panchayati Raj",
+  "organisation": "Nanded District Panchayats",
+  "ministry": "Maharashtra",
+  "department": "Department Of Panchayati Raj",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Solar Power Plant (Roof Top) for ONGRID System, Single Phase",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-24T22:53:22+05:30",
   "closing_at": "2026-12-05T12:00:00+05:30",
   "status": "active",
@@ -27,6 +27,16 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10209875"
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/QHLxkDIgeHm5MLSZZN9grP0KHDtoFwjgRZptU1j_Jww",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261124",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +44,264 @@
   ],
   "source_fetched_at": "2026-11-27T05:34:30.553Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-06T12:00:00+05:30",
+  "office": "Gp Madnapur Ch",
+  "buyer_email": "gemofficemaharastra@gmail.com",
+  "emd_required": false,
+  "oem_turnover_lakhs": 1,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "15 (Days)",
+  "source_document_fetched_at": "2026-11-27T08:46:05.641430+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "877a4aa795db1c067bd4011cc8da0768bead9810d7d8eba18a5cabe544a2c17a",
+  "document_pages": 6,
+  "eligibility": [
+    "OEM average turnover (last 3 years): 1 Lakh (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 10 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Vishnu Balasaheb Panchal",
+      "address": "431804,AT MADNAPUR POST SHANIWARPETH TQ KINWAT",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "GENERIC",
+          "parameter": "A Grid Tied Photo Voltaic (SPV) power plant consists of",
+          "value": "SPV array, Module Mounting Structure, Power Conditioning Unit (PCU) consisting of Maximum Power Point Tracker (MPPT), Inverter, and Controls and Protections, interconnect cables and switches"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "PV Array Mounting",
+          "value": "Mounted on a suitable structure"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Grid Tied SPV System",
+          "value": "Without battery and designed with necessary features to supplement the grid power during day time."
+        },
+        {
+          "group": "INVERTER",
+          "parameter": "Rated output power of inverter (in KW)",
+          "value": "1"
+        },
+        {
+          "group": "INVERTER",
+          "parameter": "Switching device",
+          "value": "IGBT"
+        },
+        {
+          "group": "INVERTER",
+          "parameter": "Number of Phase",
+          "value": "1"
+        },
+        {
+          "group": "INVERTER",
+          "parameter": "Number of MPPT per inverter",
+          "value": "1"
+        },
+        {
+          "group": "INVERTER",
+          "parameter": "Number of string at input side of inverter ( input port +ve and -ve) ( hint: 1 sets contains 1 +ve and 1 -ve port)",
+          "value": "1 set"
+        },
+        {
+          "group": "INVERTER",
+          "parameter": "Service condition",
+          "value": "Indoor"
+        },
+        {
+          "group": "INVERTER",
+          "parameter": "Ingress protection rating of inverter",
+          "value": "IP 65 (for outdoor use)"
+        },
+        {
+          "group": "INVERTER OUTPUT",
+          "parameter": "Overall Efficiency (in %)",
+          "value": ">90"
+        },
+        {
+          "group": "DISPLAY FEATURES ON INVERTER",
+          "parameter": "Type of display",
+          "value": "LCD"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses COPY OF GST COPY OF PAN CERTIFICATE DEPARMENT SHALL HAVE ANY RIGHT TO REJECT/CANCEL TENDER AT ANY TIME AT ANY ST AGE WITH OUT A NY REASON IT IS NECESSARY TO SHOW A DEMO IN THE GRAMPANCHYAT OFFICE BEFORE THE BID PAR TICIPATIO ...... ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8312020",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10209875"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 05-12-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10209875"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 06-12-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10209875"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 15 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10209875"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Maharashtra",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10209875"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Panchayati Raj",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10209875"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Nanded District Panchayats",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10209875"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Gp Madnapur Ch",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10209875"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :chk-gp181457-mah@panchayat.gov.in Buyer Email id: gemofficemaharastra@gmail.com",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10209875"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10209875"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Solar Power Plant (Roof Top) for ONGRID System, Single Phase (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10209875"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 1 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10209875"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: To be verified by the buyer at the time of technical evaluation",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10209875"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10209875"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10209875"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Annual Turnover,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10209875"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 10 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10209875"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10209875"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10209875"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10209875"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "A Grid Tied Photo Voltaic (SPV) power plant consists of: SPV array, Module Mounting Structure, Power Conditioning Unit (PCU) consisting of Maximum Power Point Tracker (MPPT), Inverter, and Controls and Protections, interconnect cables and switches | PV Array Mounting: Mounted on a suitable structure",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10209875"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Grid Tied SPV System: Without battery and designed with necessary features to supplement the grid power during day time. | Rated output power of inverter (in KW): 1 | Switching device: IGBT | Number of Phase: 1 | Number of MPPT per inverter: 1 | Number of string at input side of inverter ( input port +ve and -ve) ( hint: 1 sets contains 1 +ve and 1 -ve port): 1 set | Service condition: Indoor | Ingress protection rating of inverter: IP 65 (for outdoor use) | Overall Efficiency (in %): >90 | Type of display: LCD",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10209875"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Vishnu Balasaheb Panchal | 431804,AT MADNAPUR POST SHANIWARPETH TQ KINWAT | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10209875"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses COPY OF GST COPY OF PAN CERTIFICATE DEPARMENT SHALL HAVE ANY RIGHT TO REJECT/CANCEL TENDER AT ANY TIME AT ANY ST AGE WITH OUT A NY REASON IT IS NECESSARY TO SHOW A DEMO IN THE GRAMPANCHYAT OFFICE BEFORE THE BID PAR TICIPATIO ...... .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10209875"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

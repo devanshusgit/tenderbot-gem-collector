@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8313553",
   "title": "Computer Printer (V2)",
   "description": "Computer Printer (V2)",
-  "organisation": "NA",
-  "ministry": "Ministry of Urban Development",
-  "department": "NA",
+  "organisation": "Central Public Works Department (cpwd)",
+  "ministry": "Ministry Of Urban Development",
+  "department": "Na",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Computer Printer (V2)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-25T12:54:42+05:30",
   "closing_at": "2026-12-05T13:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10211689"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/GQrQdCXXlp555jqGZT7rWM7c5_Mh27N6qKSqcedoUck",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261125",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +49,223 @@
   ],
   "source_fetched_at": "2026-11-27T05:35:00.553Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-06T13:00:00+05:30",
+  "office": "Office Of Chief Engineer North Zone Ii",
+  "buyer_email": "rudrprsi.21121990@gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-27T08:00:40.988198+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "616997084edc5727b4f1a94869d527e78ae3b4237ff4404bcfd2ed3799caff60",
+  "document_pages": 7,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Rudra Pratap Singh",
+      "address": "273007,Office of Executive Engineer, Gorakhpur, CPWD, B- 366, Fertilizer Campus, Gorakhpur-273007",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Generic",
+          "parameter": "Description of Stores",
+          "value": "Computer Printer with Minimum 1 Year On Site Warranty, including Cartridge and Power Cord/Adaptor"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Print Technology",
+          "value": "Inkjet"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Type of Printing",
+          "value": "Colour"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Paper Size",
+          "value": "A3, A4 and Legal Or higher"
+        },
+        {
+          "group": "Generic",
+          "parameter": "Operating System Compatibility",
+          "value": "Windows 10 and Above, Linux, Mac OS"
+        },
+        {
+          "group": "Printing",
+          "parameter": "Minimum Print Speed per Minute as per ISO/IEC 24734 in A4 Size-Monochrome (Black) (in PPM)",
+          "value": "11 to 15, 16 to 20, 21 to 25, 26 to 30, 31 to 35, 36 to 40, 41 to 45, 46 to 50, 51 to 55, 56 to 60, 61 to 65, 66 to 70 Or higher"
+        },
+        {
+          "group": "Printing",
+          "parameter": "Minimum Print Speed per Minute as per ISO/IEC 24734 in A4 Size-Colour (in PPM)",
+          "value": "6 to 10, 11 to 15, 16 to 20, 21 to 25, 26 to 30, 31 to 35, 36 to 40, 41 to 45, 46 to 50, 51 to 55 Or higher"
+        },
+        {
+          "group": "Printing",
+          "parameter": "Minimum Print Speed per Minute as per ISO/IEC 24734 in A3 Size-Mono (in PPM)",
+          "value": "1 to 5, 6 to 10, 11 to 15, 16 to 20, 21 to 25, 26 to 30, 31 to 35, 36 to 40, 41 to 45, 46 to 50, 51 to 55, 56 to 60 Or higher"
+        },
+        {
+          "group": "Printing",
+          "parameter": "Minimum Print Speed per Minute as per ISO/IEC 24734 in A3 Size-Colour (in PPM)",
+          "value": "1 to 5, 6 to 10, 11 to 15, 16 to 20, 21 to 25, 26 to 30, 31 to 35, 36 to 40, 41 to 45, 46 to 50, 51 to 55, 56 to 60 Or higher"
+        },
+        {
+          "group": "Printing",
+          "parameter": "Auto Duplexing Printing (2- Sided Feature)",
+          "value": "No, Yes Or higher"
+        },
+        {
+          "group": "Paper Handling",
+          "parameter": "Number of Main Paper Trays",
+          "value": "1, 2"
+        },
+        {
+          "group": "Connectivity",
+          "parameter": "Connectivity",
+          "value": "USB Port, Wi-Fi"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 2. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 3. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address O/o Assistant Engineer, Gorakghpur Subdision-1, CPWD Income Tax Office Campus Civil Line Gorakhpur Uttar Pradesh-273001 ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8313553",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10211689"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 05-12-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10211689"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 06-12-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10211689"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10211689"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Urban Development",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10211689"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Na",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10211689"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Central Public Works Department (cpwd)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10211689"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Office Of Chief Engineer North Zone Ii",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10211689"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :dineshkumar.86@gov.in Buyer Email id: rudrprsi.21121990@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10211689"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10211689"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Computer Printer (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10211689"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10211689"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10211689"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10211689"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10211689"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10211689"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Description of Stores: Computer Printer with Minimum 1 Year On Site Warranty, including Cartridge and Power Cord/Adaptor | Print Technology: Inkjet | Type of Printing: Colour | Paper Size: A3, A4 and Legal Or higher | Operating System Compatibility: Windows 10 and Above, Linux, Mac OS | Minimum Print Speed per Minute as per ISO/IEC 24734 in A4 Size-Monochrome (Black) (in PPM): 11 to 15, 16 to 20, 21 to 25, 26 to 30, 31 to 35, 36 to 40, 41 to 45, 46 to 50, 51 to 55, 56 to 60, 61 to 65, 66 to 70 Or higher | Minimum Print Speed per Minute as per ISO/IEC 24734 in A4 Size-Colour (in PPM): 6 to 10, 11 to 15, 16 to 20, 21 to 25, 26 to 30, 31 to 35, 36 to 40, 41 to 45, 46 to 50, 51 to 55 Or higher | Minimum Print Speed per Minute as per ISO/IEC 24734 in A3 Size-Mono (in PPM): 1 to 5, 6 to 10, 11 to 15, 16 to 20, 21 to 25, 26 to 30, 31 to 35, 36 to 40, 41 to 45, 46 to 50, 51 to 55, 56 to 60 Or higher | Minimum Print Speed per Minute as per ISO/IEC 24734 in A3 Size-Colour (in PPM): 1 to 5, 6 to 10, 11 to 15, 16 to 20, 21 to 25, 26 to 30, 31 to 35, 36 to 40, 41 to 45, 46 to 50, 51 to 55, 56 to 60 Or higher | Auto Duplexing Printing (2- Sided Feature): No, Yes Or higher | Number of Main Paper Trays: 1, 2 | Connectivity: USB Port, Wi-Fi",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10211689"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Rudra Pratap Singh | 273007,Office of Executive Engineer, Gorakhpur, CPWD, B- 366, Fertilizer Campus, Gorakhpur-273007 | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10211689"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any) 2. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 3. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address O/o Assistant Engineer, Gorakghpur Subdision-1, CPWD Income Tax Office Campus Civil Line Gorakhpur Uttar Pradesh-273001 .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10211689"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8325174",
   "title": "Electric Two Wheelers",
   "description": "Electric Two Wheelers",
-  "organisation": "Local Self Government Department Kerala",
-  "ministry": "",
+  "organisation": "N/a",
+  "ministry": "Kerala",
   "department": "Local Self Government Department Kerala",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Electric Two Wheelers",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-27T16:49:49+05:30",
   "closing_at": "2026-12-07T17:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10225061"
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/OOs9HrZKf_fS7idH-Q2yQeLObVgkj3Y0wYikH2ueim8",
+      "page": 3
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8325174/CLM0010/scooter_a559da2a-c54a-4584-9a271795778158300_shajijohn70.pdf",
+      "page": 5
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261127",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +49,289 @@
   ],
   "source_fetched_at": "2026-11-27T16:04:07.134Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-08T17:00:00+05:30",
+  "office": "Office",
+  "buyer_email": "sreekanthplkv@gmail.com",
+  "emd_required": false,
+  "bidder_turnover_lakhs": 0.6,
+  "oem_turnover_lakhs": 5,
+  "experience_years": 3,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-27T21:29:19.756780+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "b664753ccecbaa4bc6ec3636a5f238b01cb36d054f68236ac981310028d46d10",
+  "document_pages": 7,
+  "eligibility": [
+    "Minimum average annual bidder turnover (3 years): 0.6 Lakh (s) (GeM PDF, p. 1)",
+    "OEM average turnover (last 3 years): 5 Lakh (s) (GeM PDF, p. 1)",
+    "Past experience required for same/similar service: 3 Year (s) (GeM PDF, p. 1)",
+    "Turnover eligibility criteria: GeM verified turnover (GeM PDF, p. 1)",
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 2)",
+    "Past performance: 10 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Sreekanth C",
+      "address": "676521,Pandikkad Post Pandikkad",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Generic Parameters",
+          "parameter": "Category of Vehicle",
+          "value": "Low Speed {(Maximum Speed(<=25 km/h), Motor Power(<=0.25kW)}, L1 {Maximum Speed(>25<= 45km/h), Motor Power(>0.25<=0.5kW)}, L2 {(Maximum Speed(>45km/h), Motor Power(>0.5kW)}"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Type of Two Wheeler",
+          "value": "Scooter"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Power Source",
+          "value": "Electric - Battery Operated"
+        },
+        {
+          "group": "Generic Parameters",
+          "parameter": "Driving Range (IDC) with Full Charge Battery (Km)",
+          "value": ">=50<75, >=75<100, >=100<150, >=150<200, >=200<250, >=250<300, >=300<350 Or higher"
+        },
+        {
+          "group": "Motor & Battery Parameters",
+          "parameter": "Maximum Motor Power Output (kW)",
+          "value": "<=0.25, >0.25<=0.5, >0.5<=0.75, >0.75<=1.0, >1.0<=1.5, >1.5<=2.0, >2.0<=2.5, >2.5<=3.0, >3.0<=4.0, >4.0<=5.0, >5.0<=6.0, >6.0<=8.0, >8.0<=10.0, >10.0<=15.0, >15.0<=20.0, >20.0<=25.0, >25.0<=30.0 Or higher"
+        },
+        {
+          "group": "Motor & Battery Parameters",
+          "parameter": "Type of Traction Battery",
+          "value": "Lithium-ion Battery - NMC, Lithium-ion Battery - LFP Or higher"
+        },
+        {
+          "group": "Motor & Battery Parameters",
+          "parameter": "Traction Battery Mounting Type",
+          "value": "Fixed (Non-Swappable) Battery Pack, Swappable Battery Pack"
+        },
+        {
+          "group": "Motor & Battery Parameters",
+          "parameter": "Type of Charger Provided with Vehicle",
+          "value": "Portable Off-Board AC Charger"
+        },
+        {
+          "group": "Motor & Battery Parameters",
+          "parameter": "Traction Battery Charging Time (In Minutes) (up to 80%) with the charger provided with vehicle",
+          "value": "120.0 - 400.0 Or lower"
+        },
+        {
+          "group": "Motor & Battery Parameters",
+          "parameter": "Fast Charging Provision",
+          "value": "Yes, No"
+        },
+        {
+          "group": "Constructional Parameters",
+          "parameter": "Type of Wheel",
+          "value": "Alloy Wheels Or higher"
+        },
+        {
+          "group": "Constructional Parameters",
+          "parameter": "Type of Tyre",
+          "value": "Tubeless Or higher"
+        },
+        {
+          "group": "Constructional Parameters",
+          "parameter": "Seating Capacity",
+          "value": "2.0 Or higher"
+        },
+        {
+          "group": "Constructional Parameters",
+          "parameter": "Front Brake",
+          "value": "Disc Brake Or higher"
+        },
+        {
+          "group": "Constructional Parameters",
+          "parameter": "Type of Dashboard",
+          "value": "Digital Dashboard Or higher"
+        },
+        {
+          "group": "Constructional Parameters",
+          "parameter": "Digital Dashboard Display Type",
+          "value": "LCD, TFT Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Top Speed (Actual) : 80 km/hr or above Minimum Driving Range : 100 km Certified Range : 140 km or above Battery Type : Lithium iron Minimum Battery Capacity : Above 3 kWh Minimum Battery warranty : 8 years or 80,000 km Motor Type : PMSM Minimum Scooter Warranty : 3 years Minimum Charger Warranty : 3 years Motor (Peak Power) : 4 kW or above Charging time : Below 6 hours Rear Suspension : Mono-Shock Transmission : Belt driven Battery Packaging (Water and dust Resistance) : IP 67 Motor and controller protection : IP65/66 Minimum boot space : 20 L Approximate price : Rs. 1,60,000 – 1,85,000/- . 3. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8325174",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10225061"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 07-12-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10225061"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 08-12-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10225061"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10225061"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Kerala",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10225061"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Local Self Government Department Kerala",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10225061"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: N/a",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10225061"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Office",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10225061"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :pandikkadgp.lsgd@kerala.gov.in Buyer Email id: sreekanthplkv@gmail.com",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10225061"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10225061"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Electric Two Wheelers (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10225061"
+    },
+    {
+      "field": "bidder_turnover_lakhs",
+      "page": 1,
+      "quote": "33 /Minimum Average Annual Turnover of the bidder (For the last 3 Financial Years): 0.6 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10225061"
+    },
+    {
+      "field": "oem_turnover_lakhs",
+      "page": 1,
+      "quote": "(( 33 ))/OEM Average Turnover (Last 3 Years): 5 Lakh (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10225061"
+    },
+    {
+      "field": "experience_years",
+      "page": 1,
+      "quote": "Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10225061"
+    },
+    {
+      "field": "eligibility",
+      "page": 1,
+      "quote": "Turnover eligibility criteria: GeM verified turnover",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10225061"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10225061"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10225061"
+    },
+    {
+      "field": "seller_documents",
+      "page": 2,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10225061"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 10 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10225061"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10225061"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10225061"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10225061"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Category of Vehicle: Low Speed {(Maximum Speed(<=25 km/h), Motor Power(<=0.25kW)}, L1 {Maximum Speed(>25<= 45km/h), Motor Power(>0.25<=0.5kW)}, L2 {(Maximum Speed(>45km/h), Motor Power(>0.5kW)} | Type of Two Wheeler: Scooter | Power Source: Electric - Battery Operated | Driving Range (IDC) with Full Charge Battery (Km): >=50<75, >=75<100, >=100<150, >=150<200, >=200<250, >=250<300, >=300<350 Or higher | Maximum Motor Power Output (kW): <=0.25, >0.25<=0.5, >0.5<=0.75, >0.75<=1.0, >1.0<=1.5, >1.5<=2.0, >2.0<=2.5, >2.5<=3.0, >3.0<=4.0, >4.0<=5.0, >5.0<=6.0, >6.0<=8.0, >8.0<=10.0, >10.0<=15.0, >15.0<=20.0, >20.0<=25.0, >25.0<=30.0 Or higher | Type of Traction Battery: Lithium-ion Battery - NMC, Lithium-ion Battery - LFP Or higher | Traction Battery Mounting Type: Fixed (Non-Swappable) Battery Pack, Swappable Battery Pack | Type of Charger Provided with Vehicle: Portable Off-Board AC Charger | Traction Battery Charging Time (In Minutes) (up to 80%) with the charger provided with vehicle: 120.0 - 400.0 Or lower | Fast Charging Provision: Yes, No | Type of Wheel: Alloy Wheels Or higher | Type of Tyre: Tubeless Or higher | Seating Capacity: 2.0 Or higher | Front Brake: Disc Brake Or higher | Type of Dashboard: Digital Dashboard Or higher | Digital Dashboard Display Type: LCD, TFT Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10225061"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Sreekanth C | 676521,Pandikkad Post Pandikkad | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10225061"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Top Speed (Actual) : 80 km/hr or above Minimum Driving Range : 100 km Certified Range : 140 km or above Battery Type : Lithium iron Minimum Battery Capacity : Above 3 kWh Minimum Battery warranty : 8 years or 80,000 km Motor Type : PMSM Minimum Scooter Warranty : 3 years Minimum Charger Warranty : 3 years Motor (Peak Power) : 4 kW or above Charging time : Below 6 hours Rear Suspension : Mono-Shock Transmission : Belt driven Battery Packaging (Water and dust Resistance) : IP 67 Motor and controller protection : IP65/66 Minimum boot space : 20 L Approximate price : Rs. 1,60,000 – 1,85,000/- . 3. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10225061"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

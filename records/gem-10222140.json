@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8322581",
   "title": "TERA Package 1 - 3D Printed Biped with Bluetooth Control (ASoSE)",
   "description": "TERA Package 1 - 3D Printed Biped with Bluetooth Control (ASoSE)",
-  "organisation": "Department of School Education and Literacy",
-  "ministry": "Ministry of Education",
-  "department": "Department of School Education and Literacy",
+  "organisation": "Kendriya Vidyalaya Sangathan",
+  "ministry": "Ministry Of Education",
+  "department": "Department Of School Education And Literacy",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "TERA Package 1 - 3D Printed Biped with Bluetooth Control (ASoSE)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-27T13:21:58+05:30",
   "closing_at": "2026-12-07T14:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10222140"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/P5nqrBawbdb5beNsIMRIkVD0mueX32fyPD3p2DakPbw",
+      "page": 3
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8322581/CLM0010/ATC_c903bb2e-2606-4b8c-92081795765389110_BUYERKVNANGALBHUR.pdf",
+      "page": 5
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261127",
+      "page": 6
     }
   ],
   "tags": [
@@ -34,5 +54,239 @@
   ],
   "source_fetched_at": "2026-11-27T16:00:47.790Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-08T14:00:00+05:30",
+  "office": "Kvs Ro Chandigarh",
+  "buyer_email": "ppl.nangalbhur@kvs.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "30 (Days)",
+  "source_document_fetched_at": "2026-11-27T22:11:19.987538+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "5cb639613e0e2a274fc228a245a0f0c9b8a813a3fa0efdbafd0e59e8935473f4",
+  "document_pages": 6,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 10 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Lakshmi Negi",
+      "address": "145101,KENDRIYA VIDYALAYA GHIALA ROAD NANGAL BHUR, PATHANKOT",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "COMPONENTS",
+          "parameter": "Component 1",
+          "value": "6 Nos. of 3D printed Biped Casing (Specification: ASM (L-125mm, W-70mm, H-125 mm)"
+        },
+        {
+          "group": "COMPONENTS",
+          "parameter": "Component 2",
+          "value": "1 set of ARDUINO NANO (Specification: Operating Voltage (logic level) 5V; Input Voltage (recommended) 7-12V; Digital I/O Pins 14 (of which 6 provide PWM output); Analog Input Pins 8; DC Current per I/O Pin: 40 mA); SRAM: 2 KB; EEPROM: 1 KB; Clock Speed: 16 MHz)"
+        },
+        {
+          "group": "COMPONENTS",
+          "parameter": "Component 3",
+          "value": "1 Set of ARDUINO NANO Shield (Specification: VIN MIN-MAX: 7-21V; DC Current per I/O Pin (mA): 20; DC Current for 3.3V Pin (mA): 50; CPU Flash Memory: 48KB; EEPROM: 256byte (ATMega4809); PWM PINS: 5 (D3, D5, D6, D9, D10); Analog I/O Pins; Input Pins 8 (ADC 10 bit))"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Component 4",
+          "value": "1 Set of Ultrasonic Sensor HC-SR04 (Specification: Operating Voltage (VDC):5; Average Current Consumption (mA): 2; Frequency (Hz): 40000; Sensing Angle: 15Â°; Max. Sensing Distance (cm): 450; Weight (gm): 9; Sensor Cover Dia. (mm): 16)"
+        },
+        {
+          "group": null,
+          "parameter": "Component 5",
+          "value": "4 Set of Servo Motor (SG 90) (Specification: Operating voltage: 3.0V~ 7.2V; Servo Plug: JR; Stall torque @4.8V : 1.2kg-cm Stall torque @6.6V : 1.6kg-cm; Operating Voltage (VDC): 3.0 ~ 7.2; Operating Speed @4.8V: 0.10sec/60°; Stall Torque @ 4.8V (Kg-Cm): 1.2; Stall Torque @6.6V (Kg-Cm): 1.6; Operating Temperature (°C): -30 to 60)"
+        },
+        {
+          "group": null,
+          "parameter": "Component 6",
+          "value": "6 Nos. of Jumper Wire (FF) (Specification: 40P color jumper wires; Length: 100mm; Weight: 25 gm; Compatible with 2.54mm spacing pin headers)"
+        },
+        {
+          "group": null,
+          "parameter": "Component 7",
+          "value": "1 Set of Power Supply (5V) (Specification: Input Voltage (V): 100 ~ 280 VAC @50 ~ 60Hz; Input current (mA): 100; Output Power: 5V 3A; Load regulation (%): ±5; Input Plug: 2-Pin EU type; Output Plug: Micro USB Plug)"
+        },
+        {
+          "group": null,
+          "parameter": "Component 8",
+          "value": "1 Set of Magnetic Buzzer TMB 12A05 (Specification: The volume of about 50 dB.; Interface: 1.25-2P plug.; Connector: DF13 Plug; Wire length: 190mm; Size: Dia 30mm)"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 4,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to"
+    },
+    {
+      "page": 5,
+      "text": "minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8322581",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222140"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 07-12-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222140"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 08-12-2026 14:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222140"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 30 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222140"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Education",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222140"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of School Education And Literacy",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222140"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Kendriya Vidyalaya Sangathan",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222140"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Kvs Ro Chandigarh",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222140"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :ro-chandigarh@kvs.gov.in Buyer Email id: ppl.nangalbhur@kvs.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222140"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222140"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: TERA Package 1 - 3D Printed Biped with Bluetooth Control (ASoSE) (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222140"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222140"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222140"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222140"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 10 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222140"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222140"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222140"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222140"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Component 1: 6 Nos. of 3D printed Biped Casing (Specification: ASM (L-125mm, W-70mm, H-125 mm) | Component 2: 1 set of ARDUINO NANO (Specification: Operating Voltage (logic level) 5V; Input Voltage (recommended) 7-12V; Digital I/O Pins 14 (of which 6 provide PWM output); Analog Input Pins 8; DC Current per I/O Pin: 40 mA); SRAM: 2 KB; EEPROM: 1 KB; Clock Speed: 16 MHz) | Component 3: 1 Set of ARDUINO NANO Shield (Specification: VIN MIN-MAX: 7-21V; DC Current per I/O Pin (mA): 20; DC Current for 3.3V Pin (mA): 50; CPU Flash Memory: 48KB; EEPROM: 256byte (ATMega4809); PWM PINS: 5 (D3, D5, D6, D9, D10); Analog I/O Pins; Input Pins 8 (ADC 10 bit))",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222140"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Component 4: 1 Set of Ultrasonic Sensor HC-SR04 (Specification: Operating Voltage (VDC):5; Average Current Consumption (mA): 2; Frequency (Hz): 40000; Sensing Angle: 15Â°; Max. Sensing Distance (cm): 450; Weight (gm): 9; Sensor Cover Dia. (mm): 16) | Component 5: 4 Set of Servo Motor (SG 90) (Specification: Operating voltage: 3.0V~ 7.2V; Servo Plug: JR; Stall torque @4.8V : 1.2kg-cm Stall torque @6.6V : 1.6kg-cm; Operating Voltage (VDC): 3.0 ~ 7.2; Operating Speed @4.8V: 0.10sec/60°; Stall Torque @ 4.8V (Kg-Cm): 1.2; Stall Torque @6.6V (Kg-Cm): 1.6; Operating Temperature (°C): -30 to 60) | Component 6: 6 Nos. of Jumper Wire (FF) (Specification: 40P color jumper wires; Length: 100mm; Weight: 25 gm; Compatible with 2.54mm spacing pin headers) | Component 7: 1 Set of Power Supply (5V) (Specification: Input Voltage (V): 100 ~ 280 VAC @50 ~ 60Hz; Input current (mA): 100; Output Power: 5V 3A; Load regulation (%): ±5; Input Plug: 2-Pin EU type; Output Plug: Micro USB Plug) | Component 8: 1 Set of Magnetic Buzzer TMB 12A05 (Specification: The volume of about 50 dB.; Interface: 1.25-2P plug.; Connector: DF13 Plug; Wire length: 190mm; Size: Dia 30mm)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222140"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Lakshmi Negi | 145101,KENDRIYA VIDYALAYA GHIALA ROAD NANGAL BHUR, PATHANKOT | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222140"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 4,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222140"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222140"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

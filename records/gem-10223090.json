@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8323435",
   "title": "Fixed Computer Workstation (V2)",
   "description": "Fixed Computer Workstation (V2)",
-  "organisation": "Department of Atomic Energy",
-  "ministry": "Department of Atomic Energy",
-  "department": "Department of Atomic Energy",
+  "organisation": "Bhabha Atomic Research Centre",
+  "ministry": "Department Of Atomic Energy",
+  "department": "Department Of Atomic Energy",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Fixed Computer Workstation (V2)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-27T12:58:00+05:30",
   "closing_at": "2026-12-07T13:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10223090"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/PW3btTyz1MoXi-QqknX63dZSxD_8xulcqEdPSrtZsws",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261127",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +49,234 @@
   ],
   "source_fetched_at": "2026-11-27T15:48:52.488Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-08T13:00:00+05:30",
+  "office": "Mumbai",
+  "buyer_email": "ankur@barc.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "90 (Days)",
+  "source_document_fetched_at": "2026-11-27T22:14:17.199111+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "1bb6b2a18d9e3e23e9d8be74eb362bb978f64db2fda558f47ab44bf11a7aed8c",
+  "document_pages": 7,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Ankur Chatterjee",
+      "address": "400085,BHABHA ATOMIC RESEARCH CENTRE (BARC), CENTRAL COMPLEX, TROMBAY, MUMBAI 400085",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 20
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Processor and Platform",
+          "parameter": "Processor Number",
+          "value": "Intel Core Ultra 7 265, Intel Core Ultra 5 245K, Intel Core Ultra 7 265K, Intel Core Ultra 5 250K Plus, Intel Core Ultra 9 285, Intel Core Ultra 7 270K Plus, Intel Core Ultra 9 285K Or higher"
+        },
+        {
+          "group": "Graphics",
+          "parameter": "Number of Factory-Fitted Discrete GPUs",
+          "value": "1 x Discrete GPU, 2 x Identical Discrete GPUs, 3 x Identical Discrete GPUs, 4 x Identical Discrete GPUs Or higher"
+        },
+        {
+          "group": "Graphics",
+          "parameter": "GPU Model",
+          "value": "NVIDIA RTX A400 4GB, NVIDIA RTX A1000 8GB, NVIDIA RTX 2000 Ada Generation 16GB, NVIDIA RTX PRO 2000 Blackwell 16GB, NVIDIA RTX 4000 SFF Ada Generation 20GB, NVIDIA RTX 4000 Ada Generation 20GB, NVIDIA RTX PRO 4000 Blackwell SFF Edition 24GB, NVIDIA RTX 4500 Ada Generation 24GB, NVIDIA RTX PRO 4000 Blackwell Workstation Edition 24GB, NVIDIA RTX 5000 Ada Generation 32GB, NVIDIA RTX 6000 Ada Generation 48GB, NVIDIA RTX PRO 4500 Blackwell Workstation Edition 32GB, NVIDIA RTX PRO 5000 Blackwell 48GB, NVIDIA RTX PRO 5000 Blackwell 72GB, NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition 96GB, NVIDIA RTX PRO 6000 Blackwell Workstation Edition 96GB Or higher"
+        },
+        {
+          "group": "Memory (RAM)",
+          "parameter": "System Memory (RAM) Type",
+          "value": "DDR5 Or higher"
+        },
+        {
+          "group": "Memory (RAM)",
+          "parameter": "Installed System Memory (RAM) (in GB)",
+          "value": "32, 64, 96, 128, 192, 256, 384, 512, 768, 1024, 1536, 2048 Or higher"
+        },
+        {
+          "group": "Storage",
+          "parameter": "Primary NVMe SSD Capacity (in GB)",
+          "value": "1024, 2048, 4096, 8192 Or higher"
+        },
+        {
+          "group": "RAID",
+          "parameter": "RAID Controller Type",
+          "value": "No RAID Controller"
+        },
+        {
+          "group": "Monitor",
+          "parameter": "Availability of Monitor",
+          "value": "Yes"
+        },
+        {
+          "group": "Power Supply & OS",
+          "parameter": "Factory Preloaded Operating System",
+          "value": "Windows 11 Professional"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Compliance",
+          "parameter": "On Site Warranty (in Year)",
+          "value": "1, 3, 5 Or higher"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to"
+    },
+    {
+      "page": 6,
+      "text": "increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8323435",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10223090"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 07-12-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10223090"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 08-12-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10223090"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10223090"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Department Of Atomic Energy",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10223090"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Atomic Energy",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10223090"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Bhabha Atomic Research Centre",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10223090"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Mumbai",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10223090"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :gemcell@barc.gov.in Buyer Email id: ankur@barc.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10223090"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10223090"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Fixed Computer Workstation (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10223090"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10223090"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10223090"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10223090"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10223090"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10223090"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Processor Number: Intel Core Ultra 7 265, Intel Core Ultra 5 245K, Intel Core Ultra 7 265K, Intel Core Ultra 5 250K Plus, Intel Core Ultra 9 285, Intel Core Ultra 7 270K Plus, Intel Core Ultra 9 285K Or higher | Number of Factory-Fitted Discrete GPUs: 1 x Discrete GPU, 2 x Identical Discrete GPUs, 3 x Identical Discrete GPUs, 4 x Identical Discrete GPUs Or higher | GPU Model: NVIDIA RTX A400 4GB, NVIDIA RTX A1000 8GB, NVIDIA RTX 2000 Ada Generation 16GB, NVIDIA RTX PRO 2000 Blackwell 16GB, NVIDIA RTX 4000 SFF Ada Generation 20GB, NVIDIA RTX 4000 Ada Generation 20GB, NVIDIA RTX PRO 4000 Blackwell SFF Edition 24GB, NVIDIA RTX 4500 Ada Generation 24GB, NVIDIA RTX PRO 4000 Blackwell Workstation Edition 24GB, NVIDIA RTX 5000 Ada Generation 32GB, NVIDIA RTX 6000 Ada Generation 48GB, NVIDIA RTX PRO 4500 Blackwell Workstation Edition 32GB, NVIDIA RTX PRO 5000 Blackwell 48GB, NVIDIA RTX PRO 5000 Blackwell 72GB, NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition 96GB, NVIDIA RTX PRO 6000 Blackwell Workstation Edition 96GB Or higher | System Memory (RAM) Type: DDR5 Or higher | Installed System Memory (RAM) (in GB): 32, 64, 96, 128, 192, 256, 384, 512, 768, 1024, 1536, 2048 Or higher | Primary NVMe SSD Capacity (in GB): 1024, 2048, 4096, 8192 Or higher | RAID Controller Type: No RAID Controller | Availability of Monitor: Yes | Factory Preloaded Operating System: Windows 11 Professional",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10223090"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "On Site Warranty (in Year): 1, 3, 5 Or higher",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10223090"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Ankur Chatterjee | 400085,BHABHA ATOMIC RESEARCH CENTRE (BARC), CENTRAL COMPLEX, TROMBAY, MUMBAI 400085 | 1 | 20",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10223090"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10223090"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10223090"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8322460",
   "title": "Digital Hand-held VHF Transceiver as per MHA QR",
   "description": "Digital Hand-held VHF Transceiver as per MHA QR",
-  "organisation": "Department of Military Affairs",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Military Affairs",
+  "organisation": "Indian Army",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Military Affairs",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Digital Hand-held VHF Transceiver as per MHA QR",
   "quantity": 9,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-27T11:28:14+05:30",
   "closing_at": "2026-12-07T12:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10222001"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/q2D008FscAvZB68iFR-pA5MRbBqUfaLp6VyRe5bR0Nw",
+      "page": 4
+    },
+    {
+      "name": "View",
+      "url": "https://mkp.gem.gov.in/uploaded_documents/cms/tp/home_info_data_fixe_di66883616/51/16/877/CategorySchema/tp_document/2026/8/11/appqrsvhf_03082026_2026-08-11-12-37-44_d6acd57ff1ac1bbcbba59e8580c8aad0.pdf",
+      "page": 4
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261127",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +54,231 @@
   ],
   "source_fetched_at": "2026-11-27T15:47:29.522Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-08T12:00:00+05:30",
+  "buyer_email": "girrbv.519x@gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "180 (Days)",
+  "estimated_bid_value": 189000,
+  "source_document_fetched_at": "2026-11-27T22:33:37.090781+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "16a10eb6545453fa217568a8250a1c282f00b2fb9b858f0571b1b4713f24adef",
+  "document_pages": 8,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "***********",
+      "address": "***********Kanchipuram",
+      "quantity": 9,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "Conformity",
+          "parameter": "Conformity to Technical Requirements/Governing Specifications",
+          "value": "As per the Qualitative Requirements (QRs) / TDs of \"Digital Hand-held VHF Transceiver Set\", the same has been prepared and approved by the Ministry of Home Affairs (MHA), Government of India. In reference to the Letter No.: B.V-7/2024-25-C-(VHF)-Q, Dated 2nd June 2025, Issued by Communication & IT Directorate,Central Reserve Police Force (CRPF), East Block-7, Sector-1, R.K. Puram,New Delhi - 110066. (The approved QRs/TDs document has been uploaded on the GeM Portal for reference)"
+        },
+        {
+          "group": "General",
+          "parameter": "Minimum Number of Channels",
+          "value": "450-500"
+        },
+        {
+          "group": "General",
+          "parameter": "Minimum Channel Spacing in Analog and Digital mode",
+          "value": "12.5 KHz"
+        },
+        {
+          "group": "General",
+          "parameter": "Type of Digital Emission (Modulation) Supported",
+          "value": "7K60FXE, 7K60FXD, 7K60FXW"
+        },
+        {
+          "group": "General",
+          "parameter": "Minimum average battery duty cycle (5/5/90) (in Hours)",
+          "value": "15-20"
+        },
+        {
+          "group": "Transmitter",
+          "parameter": "Audio Distortion (%)",
+          "value": "2-3"
+        },
+        {
+          "group": "Receiver",
+          "parameter": "Rated Audio Distortion",
+          "value": "2-3"
+        },
+        {
+          "group": "Accessories",
+          "parameter": "Hands free kit (VOX unit with PTT) (Optional)",
+          "value": "Yes, No"
+        },
+        {
+          "group": "Configuration",
+          "parameter": "OTAP (over the air programming facility) included in the Scope of supply",
+          "value": "Yes, No"
+        },
+        {
+          "group": "Configuration",
+          "parameter": "Bluetooth available in the product",
+          "value": "Yes"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any)"
+    },
+    {
+      "page": 6,
+      "text": "3. Sample Clause After award of contract – Successful Bidder shall have to get advance sample approved from buyer before bulk manufacturing / starting bulk supplies. Successful Bidder shall submit 1 samples for Buyer's approval, within 5 days of award of contract. Buyer shall, as per contract specifications framework, either approve the advance sample or will provide complete list of modification required in the sample within 5 days of receipt of advance sample. Seller shall be required to ensure supply as per approved sample with modifications as communicated by Buyer. If there is delay from buyer side in approval of advance sample – the delivery period shall be refixed without LD for the period of delay in sample approval. In case, the sample is found to have major deviations / not conforming to the Contract specifications, the buyer at its discretion may call for fresh samples for approval before allowing bulk supplies or may terminate the contract after notifying the deviations to the seller. Unless otherwise provided in the contract, all samples required for test shall be supplied by the contractor free of cost. Where under the contract, the contractor is required to submit an advance sample, any expenses incurred by the contractor on or in connection with the production of stores in bulk, before the sample has been approved unconditionally shall be borne by the Seller and he shall not claim any compensation in the event of such sample being found unacceptable by the Buyer / Consignee. 4. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. THE BIDDER MUST CLEARLY MENTION THE BRAND NAME AND MODEL NUMBER OF THE OFFERS FOR PR ODUCT AND UPLOAD THE RELEVANT PRODUCT BROCHURE/CATALOGUE ALONG WITH THE BID DOCUMENT . 2. BID SPECIFICATION DOCUMENT OF BUYER MUST BE SCANNED, SIGNED AND UPLOADED BY THE SELLER AS COMPLIANCE OF BID SPECIFICATION. ."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8322460",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222001"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 07-12-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222001"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 08-12-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222001"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 180 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222001"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222001"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Military Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222001"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Army",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222001"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :ashishsingh.917k@gov.in Buyer Email id: girrbv.519x@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222001"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 9",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222001"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Digital Hand-held VHF Transceiver as per MHA QR (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222001"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222001"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222001"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Certificate (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222001"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222001"
+    },
+    {
+      "field": "estimated_bid_value",
+      "page": 2,
+      "quote": "Estimated Bid Value: 189000",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222001"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222001"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222001"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Conformity to Technical Requirements/Governing Specifications: As per the Qualitative Requirements (QRs) / TDs of \"Digital Hand-held VHF Transceiver Set\", the same has been prepared and approved by the Ministry of Home Affairs (MHA), Government of India. In reference to the Letter No.: B.V-7/2024-25-C-(VHF)-Q, Dated 2nd June 2025, Issued by Communication & IT Directorate,Central Reserve Police Force (CRPF), East Block-7, Sector-1, R.K. Puram,New Delhi - 110066. (The approved QRs/TDs document has been uploaded on the GeM Portal for reference) | Minimum Number of Channels: 450-500 | Minimum Channel Spacing in Analog and Digital mode: 12.5 KHz | Type of Digital Emission (Modulation) Supported: 7K60FXE, 7K60FXD, 7K60FXW | Minimum average battery duty cycle (5/5/90) (in Hours): 15-20 | Audio Distortion (%): 2-3 | Rated Audio Distortion: 2-3 | Hands free kit (VOX unit with PTT) (Optional): Yes, No | OTAP (over the air programming facility) included in the Scope of supply: Yes, No | Bluetooth available in the product: Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222001"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********Kanchipuram | 9 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222001"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Supply Installation Testing Commissioning of Goods and Training of operators and providing Statutory Clearances required (if any)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222001"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "3. Sample Clause After award of contract – Successful Bidder shall have to get advance sample approved from buyer before bulk manufacturing / starting bulk supplies. Successful Bidder shall submit 1 samples for Buyer's approval, within 5 days of award of contract. Buyer shall, as per contract specifications framework, either approve the advance sample or will provide complete list of modification required in the sample within 5 days of receipt of advance sample. Seller shall be required to ensure supply as per approved sample with modifications as communicated by Buyer. If there is delay from buyer side in approval of advance sample – the delivery period shall be refixed without LD for the period of delay in sample approval. In case, the sample is found to have major deviations / not conforming to the Contract specifications, the buyer at its discretion may call for fresh samples for approval before allowing bulk supplies or may terminate the contract after notifying the deviations to the seller. Unless otherwise provided in the contract, all samples required for test shall be supplied by the contractor free of cost. Where under the contract, the contractor is required to submit an advance sample, any expenses incurred by the contractor on or in connection with the production of stores in bulk, before the sample has been approved unconditionally shall be borne by the Seller and he shall not claim any compensation in the event of such sample being found unacceptable by the Buyer / Consignee. 4. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. THE BIDDER MUST CLEARLY MENTION THE BRAND NAME AND MODEL NUMBER OF THE OFFERS FOR PR ODUCT AND UPLOAD THE RELEVANT PRODUCT BROCHURE/CATALOGUE ALONG WITH THE BID DOCUMENT . 2. BID SPECIFICATION DOCUMENT OF BUYER MUST BE SCANNED, SIGNED AND UPLOADED BY THE SELLER AS COMPLIANCE OF BID SPECIFICATION. .",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222001"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

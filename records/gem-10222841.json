@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8323207",
   "title": "Network Attached Storage (V2)",
   "description": "Network Attached Storage (V2)",
-  "organisation": "Women Safety Division",
-  "ministry": "Ministry of Home Affairs",
+  "organisation": "Intelligence Bureau",
+  "ministry": "Ministry Of Home Affairs",
   "department": "Women Safety Division",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Network Attached Storage (V2)",
   "quantity": 1,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-27T12:42:55+05:30",
   "closing_at": "2026-12-07T13:00:00+05:30",
   "status": "active",
@@ -27,6 +27,21 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10222841"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/C9JMyHxQNNBU75MfBsmRBhuuwykM40V_1eUysyxcvDo",
+      "page": 3
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261127",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +49,254 @@
   ],
   "source_fetched_at": "2026-11-27T15:48:49.480Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-08T13:00:00+05:30",
+  "office": "Sib Itanagar",
+  "buyer_email": "tech.ita@gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years Of Experience: Yes | Partial | Experience - 3 year (s)",
+  "startup_relaxation": "Startup Relaxation for Years Of Experience: Yes | Partial | Experience - 3 year (s)",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "135 (Days)",
+  "source_document_fetched_at": "2026-11-27T22:18:38.960828+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "a0ae102ca64c40b75249050c7c27c36974d2965ab664ec9d63528643562e4548",
+  "document_pages": 7,
+  "eligibility": [
+    "MSE Relaxation for Years Of Experience: Yes | Partial | Experience - 3 year (s) (GeM PDF, p. 1)",
+    "Startup Relaxation for Years Of Experience: Yes | Partial | Experience - 3 year (s) (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "Kothapeta Siva Krishna",
+      "address": "791113,SIB OFFICE, OLD SSB WATTS, GOHPUR TINALI, CHIMPU PO : R. K. MISSION, ITANAGAR, ARUNACHAL PRADESH",
+      "quantity": 1,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Generic",
+          "parameter": "Description of Stores",
+          "value": "Network Attached Storage (NAS) with standard 1 year warranty"
+        },
+        {
+          "group": "Memory",
+          "parameter": "Total Memory (RAM) Size Installed (in GB)",
+          "value": "16, 32, 64, 96, 128, 192, 256, 384, 512, 768, 1024, 2048 Or higher"
+        },
+        {
+          "group": "Computing",
+          "parameter": "Protocol Supported",
+          "value": "NFS (Network File System), SMB / CIFS (Serve Messaging Block / Common Internet File System)"
+        },
+        {
+          "group": "Storage",
+          "parameter": "Type of Storage Interface",
+          "value": "SATA-SSD, SAS-SSD, NVMe-SSD, SATA-HDD, SAS- HDD, NL SAS-HDD"
+        },
+        {
+          "group": "Storage",
+          "parameter": "Hot Swappable",
+          "value": "Yes Or higher"
+        },
+        {
+          "group": "Storage",
+          "parameter": "Total Number of Slots available for SATA SSD Storage",
+          "value": "0.0 Or higher"
+        },
+        {
+          "group": "Storage",
+          "parameter": "Number of Slot Populated with SATA SSD",
+          "value": "0.0"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Capacity offered per SATA SSD (in GB)",
+          "value": "0.0 Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Total Number of Slots Available for NVMe SSD",
+          "value": "0.0 Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Number of Slots Populated with NVMe SSD",
+          "value": "0.0"
+        },
+        {
+          "group": null,
+          "parameter": "Capacity Offered per NVMe SSD (in GB)",
+          "value": "0.0 Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Total Number of Slots Available for SATA HDD",
+          "value": "0.0 Or higher"
+        },
+        {
+          "group": null,
+          "parameter": "Number of Slots populated with SATA HDD",
+          "value": "0.0"
+        },
+        {
+          "group": null,
+          "parameter": "Capacity offered per SATA HDD (in GB)",
+          "value": "0.0 Or higher"
+        },
+        {
+          "group": "RAID",
+          "parameter": "RAID level",
+          "value": "RAID 5"
+        },
+        {
+          "group": "Software",
+          "parameter": "Operating System Supported",
+          "value": "Windows"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Important term & Condition: 01. No chinese parts should be used in NAS manufacturing/assembling. . 2. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 3. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 4. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8323207",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222841"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 07-12-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222841"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 08-12-2026 13:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222841"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 135 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222841"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Home Affairs",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222841"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Women Safety Division",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222841"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Intelligence Bureau",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222841"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Sib Itanagar",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222841"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :hoo.mha.ita-bs@gov.in Buyer Email id: tech.ita@gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222841"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 1",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222841"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Network Attached Storage (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222841"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years Of Experience: Yes | Partial | Experience - 3 year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222841"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years Of Experience: Yes | Partial | Experience - 3 year (s)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222841"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222841"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222841"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222841"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Description of Stores: Network Attached Storage (NAS) with standard 1 year warranty | Total Memory (RAM) Size Installed (in GB): 16, 32, 64, 96, 128, 192, 256, 384, 512, 768, 1024, 2048 Or higher | Protocol Supported: NFS (Network File System), SMB / CIFS (Serve Messaging Block / Common Internet File System) | Type of Storage Interface: SATA-SSD, SAS-SSD, NVMe-SSD, SATA-HDD, SAS- HDD, NL SAS-HDD | Hot Swappable: Yes Or higher | Total Number of Slots available for SATA SSD Storage: 0.0 Or higher | Number of Slot Populated with SATA SSD: 0.0",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222841"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Capacity offered per SATA SSD (in GB): 0.0 Or higher | Total Number of Slots Available for NVMe SSD: 0.0 Or higher | Number of Slots Populated with NVMe SSD: 0.0 | Capacity Offered per NVMe SSD (in GB): 0.0 Or higher | Total Number of Slots Available for SATA HDD: 0.0 Or higher | Number of Slots populated with SATA HDD: 0.0 | Capacity offered per SATA HDD (in GB): 0.0 Or higher | RAID level: RAID 5 | Operating System Supported: Windows",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222841"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Kothapeta Siva Krishna | 791113,SIB OFFICE, OLD SSB WATTS, GOHPUR TINALI, CHIMPU PO : R. K. MISSION, ITANAGAR, ARUNACHAL PRADESH | 1 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222841"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses Important term & Condition: 01. No chinese parts should be used in NAS manufacturing/assembling. . 2. Service & Support Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have to establish one within 30 days of award of contract. Payment shall be released only after submission of documentary evidence of having Functional Service Centre. 3. Service & Support Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free Telephone No. for Service Support. 4. Service & Support Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers for Service Support.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10222841"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8320414",
   "title": "LED Garden Light (V2)",
   "description": "LED Garden Light (V2)",
-  "organisation": "INDIAN OIL CORPORATION LIMITED",
-  "ministry": "Ministry of Petroleum and Natural Gas",
-  "department": "INDIAN OIL CORPORATION LIMITED",
+  "organisation": "Indian Oil Corporation Limited",
+  "ministry": "Ministry Of Petroleum And Natural Gas",
+  "department": "Indian Oil Corporation Limited",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "LED Garden Light (V2)",
   "quantity": 150,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-26T17:37:27+05:30",
   "closing_at": "2026-12-07T17:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10219595"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/03hfJGVSWJLRDHHx5pf0Q3buUAkJb3NjoOb-hrS63c8",
+      "page": 3
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8320414/CLM0010/SIB_9d4d4732-c039-4e3c-945c1795692625630_buycon9.iocl.dl@gembuyer.in.pdf",
+      "page": 6
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261126",
+      "page": 7
     }
   ],
   "tags": [
@@ -34,5 +54,288 @@
   ],
   "source_fetched_at": "2026-11-27T16:03:57.092Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-08T17:00:00+05:30",
+  "office": "Iocl- Paradip Refinery",
+  "buyer_email": "kumarraj7@indianoil.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Two Packet Bid",
+  "offer_validity": "120 (Days)",
+  "source_document_fetched_at": "2026-11-28T08:20:37.887023+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "8a7f0f90d70bf1fa5603f29ba464b71ddb7dc9950b2feb9cf8a5386e172f04a3",
+  "document_pages": 8,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Sita Ram Prasad",
+      "address": "754141,IOCL Paradip Refinery ,Administrative Building, Post- Jhimani ,Via-Kujang Dist- Jagatsinghpur Odisha",
+      "quantity": 150,
+      "quantity_label": "Quantity",
+      "delivery_days": 60
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "GENERIC",
+          "parameter": "Type of Garden Light",
+          "value": "Bollard type with Pole and LED lantern/luminaire"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Material of Garden Lighting pole including lighting system (lantern/luminaire) (Note: Wherever GI, MS, CI materials used, materials shall be ISI Marked)",
+          "value": "Aluminium casting"
+        },
+        {
+          "group": null,
+          "parameter": "Pole height inlcluding lantern/luminaire (in m)",
+          "value": "1"
+        },
+        {
+          "group": null,
+          "parameter": "No.of lantern/luminaire with each pole (in m)",
+          "value": "1"
+        },
+        {
+          "group": "LIGHT SOURCE",
+          "parameter": "Type of light source - BEE star rating of LED Bulb",
+          "value": "SMD LED Chip"
+        },
+        {
+          "group": "LIGHT SOURCE",
+          "parameter": "LED Rating in each lantern/luminaire/lighting system (in Watts)",
+          "value": "10.0"
+        },
+        {
+          "group": "LIGHT SOURCE",
+          "parameter": "LED Lamp/System efficacy in each lantern / luminaire (in lumen / watt)",
+          "value": "? 105 and < 120"
+        },
+        {
+          "group": "LIGHT SOURCE",
+          "parameter": "In case of LED bulb - Cap designation of each lamp and holder in each lantern / luminaire",
+          "value": "Not applicable (for SMP LED Chip)"
+        },
+        {
+          "group": "PROTECTION",
+          "parameter": "Automatic Lower / Higher Cut off voltage",
+          "value": "Yes. Lower cut off 120 V, Higher cut off 300 V"
+        },
+        {
+          "group": "PROTECTION",
+          "parameter": "Protection against surges and transients - External",
+          "value": "> / = 10 KV Or higher"
+        },
+        {
+          "group": "THERMAL MANAGEMENT",
+          "parameter": "Minimum Operating Temperature (in deg. C)",
+          "value": "-10"
+        },
+        {
+          "group": "THERMAL MANAGEMENT",
+          "parameter": "Maximum Operating Temperature (in deg. C)",
+          "value": "50"
+        },
+        {
+          "group": "LANTERN/LUMINAIRE - CONSTRUCTION",
+          "parameter": "Impact resistance on diffuser material (in IK)",
+          "value": "7"
+        },
+        {
+          "group": "LANTERN/LUMINAIRE - CONSTRUCTION",
+          "parameter": "Protection of the entire housing (in IP) Protection of the entire housing as per IS:10322 (Part 1):1982 latest",
+          "value": "65"
+        },
+        {
+          "group": "LANTERN/LUMINAIRE - CONSTRUCTION",
+          "parameter": "Length of ISI marked three core connecting wire (Provided along with each lantern/luminiare) - (in m)",
+          "value": "0.5"
+        },
+        {
+          "group": "CERTIFICATIONS",
+          "parameter": "Warranty for free replacement of lighting systems including lightsource (in years)",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "ADVANCE SAMPLE",
+          "parameter": "Agreed to provide Advance Sample(s) for buyer's approval before commencement of supply. ( hint: Applicable in case of orders placed against bid and not applicable in case of Direct Buying )",
+          "value": "Yes"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 3. Purchase Preference (Centre) Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to avail the Purchase preference, the bidder must be the manufacturer of the offered product in case of bid for supply of goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in respect of the offered product or service. If"
+    },
+    {
+      "page": 6,
+      "text": "L-1 is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of 25% of total value. 4. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 5. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 6. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 7. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8320414",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10219595"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 07-12-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10219595"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 08-12-2026 17:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10219595"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10219595"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Petroleum And Natural Gas",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10219595"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Oil Corporation Limited",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10219595"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Indian Oil Corporation Limited",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10219595"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: Iocl- Paradip Refinery",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10219595"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :ranjitk@indianoil.in Buyer Email id: kumarraj7@indianoil.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10219595"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 150",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10219595"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: LED Garden Light (V2) (Q2)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10219595"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10219595"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10219595"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Additional Doc 1 (Requested in ATC),Additional Doc 2 (Requested in ATC),Compliance of BoQ specification and supporting document *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10219595"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Two Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10219595"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10219595"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10219595"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "Type of Garden Light: Bollard type with Pole and LED lantern/luminaire",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10219595"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Material of Garden Lighting pole including lighting system (lantern/luminaire) (Note: Wherever GI, MS, CI materials used, materials shall be ISI Marked): Aluminium casting | Pole height inlcluding lantern/luminaire (in m): 1 | No.of lantern/luminaire with each pole (in m): 1 | Type of light source - BEE star rating of LED Bulb: SMD LED Chip | LED Rating in each lantern/luminaire/lighting system (in Watts): 10.0 | LED Lamp/System efficacy in each lantern / luminaire (in lumen / watt): ? 105 and < 120 | In case of LED bulb - Cap designation of each lamp and holder in each lantern / luminaire: Not applicable (for SMP LED Chip) | Automatic Lower / Higher Cut off voltage: Yes. Lower cut off 120 V, Higher cut off 300 V | Protection against surges and transients - External: > / = 10 KV Or higher | Minimum Operating Temperature (in deg. C): -10 | Maximum Operating Temperature (in deg. C): 50 | Impact resistance on diffuser material (in IK): 7 | Protection of the entire housing (in IP) Protection of the entire housing as per IS:10322 (Part 1):1982 latest: 65 | Length of ISI marked three core connecting wire (Provided along with each lantern/luminiare) - (in m): 0.5 | Warranty for free replacement of lighting systems including lightsource (in years): 2",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10219595"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Agreed to provide Advance Sample(s) for buyer's approval before commencement of supply. ( hint: Applicable in case of orders placed against bid and not applicable in case of Direct Buying ): Yes",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10219595"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Sita Ram Prasad | 754141,IOCL Paradip Refinery ,Administrative Building, Post- Jhimani ,Via-Kujang Dist- Jagatsinghpur Odisha | 150 | 60",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10219595"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Scope of Supply Scope of supply (Bid price to include all cost components) : Only supply of Goods 3. Purchase Preference (Centre) Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to avail the Purchase preference, the bidder must be the manufacturer of the offered product in case of bid for supply of goods. Traders are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in respect of the offered product or service. If",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10219595"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "L-1 is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such Seller shall be given opportunity to match L-1 price and contract will be awarded for percentage of 25% of total value. 4. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 5. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 6. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 7. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10219595"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

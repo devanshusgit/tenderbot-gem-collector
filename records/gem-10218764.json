@@ -5,16 +5,16 @@
   "tender_id": "GEM/2026/B/8319660",
   "title": "Plain Copier Paper (V3) ISI Marked to IS 14490,Plain Copier Paper (V3) ISI Marked to IS 14490,Label",
   "description": "Plain Copier Paper (V3) ISI Marked to IS 14490,Plain Copier Paper (V3) ISI Marked to IS 14490,Labels Stickers (V3)",
-  "organisation": "Department of Defence Production",
-  "ministry": "Ministry of Defence",
-  "department": "Department of Defence Production",
+  "organisation": "Bharat Electronics Limited (bel)",
+  "ministry": "Ministry Of Defence",
+  "department": "Department Of Defence Production",
   "portal_name": "GeM",
   "state": [],
   "city": [],
   "product_category": "Plain Copier Paper (V3) ISI Marked to IS 14490,Plain Copier Paper (V3) ISI Marked to IS 14490,Label",
   "quantity": 800,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-26T15:48:34+05:30",
   "closing_at": "2026-12-07T16:00:00+05:30",
   "status": "active",
@@ -27,6 +27,31 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10218764"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/DNo-4zHSeRqqd0gahWl-5Yc-fKg6uSYeYA7Y49fzKok",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/QosETUtKQZNwxDUCepTWUKtr9R_O0TiOX6N7KgE0bRM",
+      "page": 4
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/_Mvjnz1y2O0PPmtiSKCZv01pnRl9B4iNx8d8KziS_yU",
+      "page": 5
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261126",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +59,291 @@
   ],
   "source_fetched_at": "2026-11-27T16:02:34.135Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-08T16:00:00+05:30",
+  "buyer_email": "purchasehyd.ha3@bel.co.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "120 (Days)",
+  "source_document_fetched_at": "2026-11-28T08:56:35.251611+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "316ebebefbb9340c50c55dc1625e3c39443c338b81233165597408149706c181",
+  "document_pages": 8,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)"
+  ],
+  "consignees": [
+    {
+      "page": 4,
+      "consignee": "***********",
+      "address": "***********Hyderabad",
+      "quantity": 500,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    },
+    {
+      "page": 5,
+      "consignee": "***********",
+      "address": "***********Hyderabad",
+      "quantity": 200,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    },
+    {
+      "page": 6,
+      "consignee": "***********",
+      "address": "***********Hyderabad",
+      "quantity": 100,
+      "quantity_label": "Quantity",
+      "delivery_days": 15
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": "STANDARDS",
+          "parameter": "Paper Size",
+          "value": "A4"
+        },
+        {
+          "group": "STANDARDS",
+          "parameter": "Grammage (GSM) of the Paper",
+          "value": "75 gsm"
+        },
+        {
+          "group": "PACKING AND MARKING",
+          "parameter": "Packing",
+          "value": "Ream of 500 Sheet"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "STANDARDS",
+          "parameter": "Paper Size",
+          "value": "A3"
+        },
+        {
+          "group": "STANDARDS",
+          "parameter": "Grammage (GSM) of the Paper",
+          "value": "75 gsm"
+        },
+        {
+          "group": "PACKING AND MARKING",
+          "parameter": "Packing",
+          "value": "Ream of 500 Sheet"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": "GENERIC",
+          "parameter": "Material Type",
+          "value": "Coated Paper"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Printing Compatibility",
+          "value": "Laser"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Adhesive Type",
+          "value": "Permanent Adhesive"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Surface Finish",
+          "value": "Glossy Finish"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Label Format",
+          "value": "Sheet form (A4 Size)"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "Die-Cut Type",
+          "value": "Die-Cut Full"
+        },
+        {
+          "group": "GENERIC",
+          "parameter": "GSM of the Label sticker",
+          "value": "50 gsm"
+        },
+        {
+          "group": "DIMENSIONS",
+          "parameter": "Size of a single Label Sticker (Width x Height)",
+          "value": "A4(210 mm x 292 mm)"
+        },
+        {
+          "group": "DIMENSIONS",
+          "parameter": "Number of Label Stickers in a Packet",
+          "value": "100 Label Stickers"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 6,
+      "text": "1. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address Bharat Electronics Limited Ibrahimpatnam Alimiyakunta Telangana Pincode-501506 . 2. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 3. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 4. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 5. Generic"
+    },
+    {
+      "page": 7,
+      "text": "While generating invoice in GeM portal, the seller must upload scanned copy of GST invoice and the screenshot of GST portal confirming payment of GST."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8319660",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10218764"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 07-12-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10218764"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 08-12-2026 16:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10218764"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 120 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10218764"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Defence",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10218764"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Department Of Defence Production",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10218764"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: Bharat Electronics Limited (bel)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10218764"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :purushothamb@bel.co.in Buyer Email id: purchasehyd.ha3@bel.co.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10218764"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 800",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10218764"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Plain Copier Paper (V3) ISI Marked to IS 14490 (Q4) , Labels Stickers (V3) (Q4)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10218764"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10218764"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10218764"
+    },
+    {
+      "field": "tender_type",
+      "page": 1,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10218764"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10218764"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10218764"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Paper Size: A4 | Grammage (GSM) of the Paper: 75 gsm | Packing: Ream of 500 Sheet",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10218764"
+    },
+    {
+      "field": "consignees",
+      "page": 4,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********Hyderabad | 500 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10218764"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Paper Size: A3 | Grammage (GSM) of the Paper: 75 gsm | Packing: Ream of 500 Sheet",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10218764"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********Hyderabad | 200 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10218764"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "Material Type: Coated Paper | Printing Compatibility: Laser | Adhesive Type: Permanent Adhesive | Surface Finish: Glossy Finish | Label Format: Sheet form (A4 Size) | Die-Cut Type: Die-Cut Full | GSM of the Label sticker: 50 gsm | Size of a single Label Sticker (Width x Height): A4(210 mm x 292 mm) | Number of Label Stickers in a Packet: 100 Label Stickers",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10218764"
+    },
+    {
+      "field": "consignees",
+      "page": 6,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | *********** | ***********Hyderabad | 100 | 15",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10218764"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "1. Generic Actual delivery (and Installation & Commissioning (if covered in scope of supply)) is to be done at following address Bharat Electronics Limited Ibrahimpatnam Alimiyakunta Telangana Pincode-501506 . 2. Generic Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates (whichever is lower), subject to the maximum of quoted GST %. 3. Generic Bidder shall submit the following documents along with their bid for Vendor Code Creation: a. Copy of PAN Card. b. Copy of GSTIN. c. Copy of Cancelled Cheque. d. Copy of EFT Mandate duly certified by Bank. 4. Generic Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 5. Generic",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10218764"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 7,
+      "quote": "While generating invoice in GeM portal, the seller must upload scanned copy of GST invoice and the screenshot of GST portal confirming payment of GST.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10218764"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }

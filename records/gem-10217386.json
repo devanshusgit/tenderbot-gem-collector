@@ -5,8 +5,8 @@
   "tender_id": "GEM/2026/B/8318436",
   "title": "Handheld Telecom Cable Fault Locator",
   "description": "Handheld Telecom Cable Fault Locator",
-  "organisation": "Indian Railways",
-  "ministry": "Ministry of Railways",
+  "organisation": "North Western Railway",
+  "ministry": "Ministry Of Railways",
   "department": "Indian Railways",
   "portal_name": "GeM",
   "state": [],
@@ -14,7 +14,7 @@
   "product_category": "Handheld Telecom Cable Fault Locator",
   "quantity": 4,
   "tender_value": null,
-  "emd_fee": null,
+  "emd_fee": 0,
   "published_at": "2026-11-26T15:38:27+05:30",
   "closing_at": "2026-12-07T12:00:00+05:30",
   "status": "active",
@@ -27,6 +27,26 @@
     {
       "name": "Original GeM bid document",
       "url": "https://bidplus.gem.gov.in/showbidDocument/10217386"
+    },
+    {
+      "name": "GeM procurement policy order",
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "page": 3
+    },
+    {
+      "name": "* / As per GeM Category Specification",
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/DuF8IEXZ7fxvkht8d9b94dlkGUKCPMZQVJv3JtLNOj8",
+      "page": 3
+    },
+    {
+      "name": "Buyer additional terms and conditions",
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2026/Nov/GEM_2026_B_8318436/CLM0010/cable_e4ec0d60-cb94-4363-b9a01795678201909_ADMMBKN.pdf",
+      "page": 6
+    },
+    {
+      "name": "GeM general terms and conditions",
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20261126",
+      "page": 8
     }
   ],
   "tags": [
@@ -34,5 +54,425 @@
   ],
   "source_fetched_at": "2026-11-27T15:47:05.467Z",
   "demo": false,
-  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda."
+  "detail_notice": "Public GeM listing. Value, EMD and location are not supplied by this listing; consult the original document for full terms and any corrigenda.",
+  "opening_at": "2026-12-08T12:00:00+05:30",
+  "office": "North Western Railway",
+  "buyer_email": "admm@bkn.railnet.gov.in",
+  "emd_required": false,
+  "mse_relaxation": "MSE Relaxation for Years of Experience and Turnover: No",
+  "startup_relaxation": "Startup Relaxation for Years of Experience and Turnover: No",
+  "seller_documents": "Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+  "tender_type": "Single Packet Bid",
+  "offer_validity": "90 (Days)",
+  "source_document_fetched_at": "2026-11-28T09:01:51.951556+00:00",
+  "detail_status": "parsed",
+  "detailLoaded": true,
+  "document_parser_version": 2,
+  "document_sha256": "f061267ee9278dd546e013f671b24179f9a9dcdcf5cc6cee3d181142c7f669ab",
+  "document_pages": 8,
+  "eligibility": [
+    "MSE Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Startup Relaxation for Years of Experience and Turnover: No (GeM PDF, p. 1)",
+    "Documents required from seller: Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer (GeM PDF, p. 1)",
+    "Past performance: 20 % (GeM PDF, p. 2)"
+  ],
+  "consignees": [
+    {
+      "page": 5,
+      "consignee": "Mahesh Kumar",
+      "address": "127021,SSE ELECT BNW, BHIWANI, HARYANA,127021",
+      "quantity": 4,
+      "quantity_label": "Quantity",
+      "delivery_days": 45
+    }
+  ],
+  "technical_specifications": [
+    {
+      "page": 3,
+      "parameters": [
+        {
+          "group": "Technical Parameter",
+          "parameter": "VOP (m/s)",
+          "value": "100 -300"
+        },
+        {
+          "group": "Technical Parameter",
+          "parameter": "Auto / Manual Measurement Dead Zone",
+          "value": "0 Or lower (meter)"
+        },
+        {
+          "group": "Technical Parameter",
+          "parameter": "Pulse Amplitude",
+          "value": "0-4V Auto"
+        },
+        {
+          "group": "Technical Parameter",
+          "parameter": "Minimum operating temperature(deg Celsius)",
+          "value": "-10"
+        },
+        {
+          "group": "Technical Parameter",
+          "parameter": "Maximum Distance to fault capability",
+          "value": "0-16000"
+        },
+        {
+          "group": "Technical Parameter",
+          "parameter": "Detection method",
+          "value": "Automatic fault finding of biggest event"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "Display, sunlight viewable",
+          "value": "Yes"
+        },
+        {
+          "group": null,
+          "parameter": "Filtering",
+          "value": "1"
+        },
+        {
+          "group": null,
+          "parameter": "Cable Library",
+          "value": "Upto 10"
+        },
+        {
+          "group": null,
+          "parameter": "Custom Cable Library",
+          "value": "No"
+        },
+        {
+          "group": null,
+          "parameter": "Impedance mismatch detection",
+          "value": "Open, Short, Intermittent, Water ingress, cable type change"
+        },
+        {
+          "group": null,
+          "parameter": "Gain",
+          "value": "50 to 89, 90 & above"
+        },
+        {
+          "group": null,
+          "parameter": "Auto Switching",
+          "value": "5, 10, 20"
+        },
+        {
+          "group": null,
+          "parameter": "Display type",
+          "value": "Color display"
+        },
+        {
+          "group": null,
+          "parameter": "Working Temp (deg Celsius)",
+          "value": "-15 to + 45"
+        },
+        {
+          "group": null,
+          "parameter": "Storage Temp.",
+          "value": "-15 to + 55"
+        },
+        {
+          "group": null,
+          "parameter": "Operating humidity (RH)",
+          "value": "95.0 (percent)"
+        },
+        {
+          "group": null,
+          "parameter": "Maximum operating temperature",
+          "value": "50.0 (degree Celsius)"
+        },
+        {
+          "group": null,
+          "parameter": "Horizontal resolution",
+          "value": "0.1 (meter)"
+        },
+        {
+          "group": null,
+          "parameter": "Output Impedance(ohms)",
+          "value": "50"
+        },
+        {
+          "group": "Dimensions",
+          "parameter": "Pulse Width(nano second- micro second)",
+          "value": "40 to 10"
+        },
+        {
+          "group": "Dimension",
+          "parameter": "Display size",
+          "value": "4.0 (inch)"
+        },
+        {
+          "group": "Electrical Parameter",
+          "parameter": "Power Supply",
+          "value": "Battery operated, 7.2 V, 12 V"
+        },
+        {
+          "group": "Electrical Parameter",
+          "parameter": "Type of battery",
+          "value": "Rechargeable"
+        },
+        {
+          "group": "Electrical Parameter",
+          "parameter": "Voltage protection",
+          "value": "upto 200"
+        },
+        {
+          "group": "Electrical Parameter",
+          "parameter": "Power Consumption",
+          "value": "2.0 (Watt)"
+        },
+        {
+          "group": "Performance Parameter",
+          "parameter": "Capability of Fault Locator Test Signal, type",
+          "value": "Pulse"
+        },
+        {
+          "group": "Performance Parameter",
+          "parameter": "Sampling Speed",
+          "value": "100 MHZ"
+        },
+        {
+          "group": "Genric",
+          "parameter": "Data storage",
+          "value": "Yes"
+        },
+        {
+          "group": "Genric",
+          "parameter": "Accuracy",
+          "value": "1.0 (percent)"
+        },
+        {
+          "group": "Genric",
+          "parameter": "If rechargeable, then chemistry of the battery",
+          "value": "Lithium ion"
+        },
+        {
+          "group": "Genric",
+          "parameter": "Internal Memory",
+          "value": "8 Gb, NA"
+        },
+        {
+          "group": "Genric",
+          "parameter": "Suitable charger/adaptor provided",
+          "value": "Yes"
+        },
+        {
+          "group": "Genric",
+          "parameter": "Interface",
+          "value": "USB"
+        },
+        {
+          "group": "Genric",
+          "parameter": "Functions",
+          "value": "TDR, RFL"
+        },
+        {
+          "group": "Genric",
+          "parameter": "No. of non-rechargable battery/cell",
+          "value": "1, 3"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "parameters": [
+        {
+          "group": null,
+          "parameter": "If non-rechargable, size of the battery",
+          "value": "NA"
+        },
+        {
+          "group": null,
+          "parameter": "Built in battery management system",
+          "value": "Yes"
+        },
+        {
+          "group": "Standard",
+          "parameter": "Details of the Standard Accessories Supplied with the Equipment",
+          "value": "Test Leads, Carry Bag"
+        },
+        {
+          "group": "Shelf Life",
+          "parameter": "Warranty",
+          "value": "1.0 (year)"
+        },
+        {
+          "group": "Test Reports",
+          "parameter": "Test Report to be furnished to the buyer on demand",
+          "value": "Yes"
+        },
+        {
+          "group": "Test Reports",
+          "parameter": "Manufacturer / ILAC / NABL Calibration Certificate to be provided",
+          "value": "No"
+        },
+        {
+          "group": "Test Reports",
+          "parameter": "Certification & Standard",
+          "value": "NA"
+        }
+      ]
+    }
+  ],
+  "buyer_added_terms": [
+    {
+      "page": 5,
+      "text": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at"
+    },
+    {
+      "page": 6,
+      "text": "the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): na Post Receipt Inspection at consignee site before acceptance of stores: consignee 3. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 4. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Firm to attach authorization from OEM, otherwise offer will be rejected summarily. 2. Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 3. For past performance firm should attach proof of supply signed by either purchaser, consignee, inspect or nominated by purchaser (should not be firm representative). For this purpose receipt note, inspection c ertificate, CRAC, receipted challan, work completion certificate etc should be attached. Proof of supply sho uld clearly indicate quantity supplied and date of supply. Only copy of PO, self signed tax invoice, self mad e performance statement does not establish that supply has been completed. 4. Only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD/ tu rnover / experience. Traders/ Resellers will not get any exemption. 5. The past performance of last three FY and current FY will be accepted. 6. Specification of TDR BASED CABLE FAULT LOCATOR for metallic cable as per Specifications attached. 7. Bidders shall mandatorily submit compliance to the technical specification document as attached with th e bid in ATC, failing which their offers will be liable to be rejected. . 5. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file."
+    }
+  ],
+  "evidence": [
+    {
+      "field": "tender_id",
+      "page": 1,
+      "quote": "Bid Number: GEM/2026/B/8318436",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10217386"
+    },
+    {
+      "field": "closing_at",
+      "page": 1,
+      "quote": "Bid End Date/Time: 07-12-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10217386"
+    },
+    {
+      "field": "opening_at",
+      "page": 1,
+      "quote": "Bid Opening Date/Time: 08-12-2026 12:00:00",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10217386"
+    },
+    {
+      "field": "offer_validity",
+      "page": 1,
+      "quote": "(( ))/Bid Offer Validity (From End Date): 90 (Days)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10217386"
+    },
+    {
+      "field": "ministry",
+      "page": 1,
+      "quote": "Ministry/State Name: Ministry Of Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10217386"
+    },
+    {
+      "field": "department",
+      "page": 1,
+      "quote": "Department Name: Indian Railways",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10217386"
+    },
+    {
+      "field": "organisation",
+      "page": 1,
+      "quote": "Organisation Name: North Western Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10217386"
+    },
+    {
+      "field": "office",
+      "page": 1,
+      "quote": "Office Name: North Western Railway",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10217386"
+    },
+    {
+      "field": "buyer_email",
+      "page": 1,
+      "quote": "Contact details of Grievance redressal: HOD Email id :cio@nwr.railnet.gov.in Buyer Email id: admm@bkn.railnet.gov.in",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10217386"
+    },
+    {
+      "field": "quantity",
+      "page": 1,
+      "quote": "Total Quantity: 4",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10217386"
+    },
+    {
+      "field": "description",
+      "page": 1,
+      "quote": "Item Category: Handheld Telecom Cable Fault Locator (Q3)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10217386"
+    },
+    {
+      "field": "mse_relaxation",
+      "page": 1,
+      "quote": "MSE Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10217386"
+    },
+    {
+      "field": "startup_relaxation",
+      "page": 1,
+      "quote": "Startup Relaxation for Years of Experience and Turnover: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10217386"
+    },
+    {
+      "field": "seller_documents",
+      "page": 1,
+      "quote": "Document required from seller: Past Performance,Certificate (Requested in ATC),OEM Authorization Certificate,Additional Doc 1 (Requested in ATC) *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10217386"
+    },
+    {
+      "field": "eligibility",
+      "page": 2,
+      "quote": "Past Performance: 20 %",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10217386"
+    },
+    {
+      "field": "tender_type",
+      "page": 2,
+      "quote": "Type of Bid: Single Packet Bid",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10217386"
+    },
+    {
+      "field": "emd_required",
+      "page": 2,
+      "quote": "EMD Detail / Required: No",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10217386"
+    },
+    {
+      "field": "emd_fee",
+      "page": 2,
+      "quote": "EMD Detail / Required: No (no EMD required)",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10217386"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 3,
+      "quote": "VOP (m/s): 100 -300 | Auto / Manual Measurement Dead Zone: 0 Or lower (meter) | Pulse Amplitude: 0-4V Auto | Minimum operating temperature(deg Celsius): -10 | Maximum Distance to fault capability: 0-16000 | Detection method: Automatic fault finding of biggest event",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10217386"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 4,
+      "quote": "Display, sunlight viewable: Yes | Filtering: 1 | Cable Library: Upto 10 | Custom Cable Library: No | Impedance mismatch detection: Open, Short, Intermittent, Water ingress, cable type change | Gain: 50 to 89, 90 & above | Auto Switching: 5, 10, 20 | Display type: Color display | Working Temp (deg Celsius): -15 to + 45 | Storage Temp.: -15 to + 55 | Operating humidity (RH): 95.0 (percent) | Maximum operating temperature: 50.0 (degree Celsius) | Horizontal resolution: 0.1 (meter) | Output Impedance(ohms): 50 | Pulse Width(nano second- micro second): 40 to 10 | Display size: 4.0 (inch) | Power Supply: Battery operated, 7.2 V, 12 V | Type of battery: Rechargeable | Voltage protection: upto 200 | Power Consumption: 2.0 (Watt) | Capability of Fault Locator Test Signal, type: Pulse | Sampling Speed: 100 MHZ | Data storage: Yes | Accuracy: 1.0 (percent) | If rechargeable, then chemistry of the battery: Lithium ion | Internal Memory: 8 Gb, NA | Suitable charger/adaptor provided: Yes | Interface: USB | Functions: TDR, RFL | No. of non-rechargable battery/cell: 1, 3",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10217386"
+    },
+    {
+      "field": "technical_specifications",
+      "page": 5,
+      "quote": "If non-rechargable, size of the battery: NA | Built in battery management system: Yes | Details of the Standard Accessories Supplied with the Equipment: Test Leads, Carry Bag | Warranty: 1.0 (year) | Test Report to be furnished to the buyer on demand: Yes | Manufacturer / ILAC / NABL Calibration Certificate to be provided: No | Certification & Standard: NA",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10217386"
+    },
+    {
+      "field": "consignees",
+      "page": 5,
+      "quote": "..../S.N o. | Consignee Reporting/Officer | Address | Quantity | Delivery Days: 1 | Mahesh Kumar | 127021,SSE ELECT BNW, BHIWANI, HARYANA,127021 | 4 | 45",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10217386"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 5,
+      "quote": "1. Generic OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10217386"
+    },
+    {
+      "field": "buyer_added_terms",
+      "page": 6,
+      "quote": "the contracted rates. The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period. The additional delivery time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the original delivery period. The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause. Bidders must comply with these terms. 2. Inspection Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following Inspection Agency would be conducting inspection of stores before acceptance: Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been selected in ATC): na Post Receipt Inspection at consignee site before acceptance of stores: consignee 3. Certificates Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the Bid document, ATC and Corrigendum if any. 4. Buyer Added Bid Specific ATC Buyer Added text based ATC clauses 1. Firm to attach authorization from OEM, otherwise offer will be rejected summarily. 2. Supplier shall ensure that the Invoice is raised in the name of Consignee with GSTIN of Consignee only. 3. For past performance firm should attach proof of supply signed by either purchaser, consignee, inspect or nominated by purchaser (should not be firm representative). For this purpose receipt note, inspection c ertificate, CRAC, receipted challan, work completion certificate etc should be attached. Proof of supply sho uld clearly indicate quantity supplied and date of supply. Only copy of PO, self signed tax invoice, self mad e performance statement does not establish that supply has been completed. 4. Only manufacturers for goods and Service Providers for Services are eligible for exemption from EMD/ tu rnover / experience. Traders/ Resellers will not get any exemption. 5. The past performance of last three FY and current FY will be accepted. 6. Specification of TDR BASED CABLE FAULT LOCATOR for metallic cable as per Specifications attached. 7. Bidders shall mandatorily submit compliance to the technical specification document as attached with th e bid in ATC, failing which their offers will be liable to be rejected. . 5. Buyer Added Bid Specific ATC Buyer uploaded ATC document Click here to view the file.",
+      "source_url": "https://bidplus.gem.gov.in/showbidDocument/10217386"
+    }
+  ],
+  "detail_warning": "These fields were extracted from the recorded original GeM PDF. Check the current notice, linked specifications, ATC and corrigenda before bidding."
 }
